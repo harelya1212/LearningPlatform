@@ -742,3 +742,5 @@ const $=/^[cdef][\w-]{21}$/,E='';function D(){try{const t=new Uint8Array(17);(se
    * See the License for the specific language governing permissions and
    * limitations under the License.
    */const Tt='installations',kt=e=>{const n=e.getProvider('app').getImmediate();return{app:n,appConfig:bt(n),heartbeatServiceProvider:(0,t._getProvider)(n,'heartbeat'),_delete:()=>Promise.resolve()}},Pt=e=>{const n=e.getProvider('app').getImmediate(),o=(0,t._getProvider)(n,Tt).getImmediate();return{getId:()=>gt(o),getToken:t=>wt(o,t)}};(0,t._registerComponent)(new e.Component(Tt,kt,"PUBLIC")),(0,t._registerComponent)(new e.Component("installations-internal",Pt,"PRIVATE")),(0,t.registerVersion)(s,u),(0,t.registerVersion)(s,u,'esm2020')},290,[212,213,214,217]);
+//# sourceMappingURL=/_expo/static/js/web/index-ae7d8e631f649d939ed8a0b79ecc54fa.js.map
+//# debugId=e0e86a5d-178a-4a8f-8348-060f679dfac7
