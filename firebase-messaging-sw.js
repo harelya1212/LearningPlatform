@@ -19,6 +19,24 @@ firebase.initializeApp({
 
 const messaging = firebase.messaging();
 
+const APP_ROOT = 'https://harelya1212.github.io/LearningPlatform/';
+
+// B3 fix: build a deep-link URL from the push data so tapping a notification
+// opens the relevant squad (not just the site root). Cloud Functions send
+// { type, squadId, battleId } in data. App.js handles ?squad= on boot.
+function deepLinkUrl(payload) {
+  const data = payload.data || {};
+  const squadId = data.squadId;
+  if (squadId) {
+    return APP_ROOT + '?squad=' + encodeURIComponent(squadId);
+  }
+  return (
+    payload.fcmOptions?.link ||
+    data.url ||
+    APP_ROOT
+  );
+}
+
 messaging.onBackgroundMessage(payload => {
   const title = payload.notification?.title || 'TReps 🦖';
   const options = {
@@ -26,10 +44,7 @@ messaging.onBackgroundMessage(payload => {
     icon: './favicon.svg',
     badge: './favicon.svg',
     data: {
-      url:
-        payload.fcmOptions?.link ||
-        payload.data?.url ||
-        'https://harelya1212.github.io/LearningPlatform/',
+      url: deepLinkUrl(payload),
     },
   };
   self.registration.showNotification(title, options);
@@ -37,6 +52,6 @@ messaging.onBackgroundMessage(payload => {
 
 self.addEventListener('notificationclick', event => {
   event.notification.close();
-  const url = event.notification.data?.url || 'https://harelya1212.github.io/LearningPlatform/';
+  const url = event.notification.data?.url || APP_ROOT;
   event.waitUntil(clients.openWindow(url));
 });
