@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TReps - Tester's Guide</title>
+<meta property="og:title" content="TReps - Tester's Guide" />
+<meta property="og:description" content="Everything you need to test the TReps app" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #0A0F1D; color: #fff; font-family: -apple-system, 'Segoe UI', Arial, sans-serif; line-height: 1.7; padding: 20px; max-width: 700px; margin: 0 auto; }
+  h1 { color: #F5C518; font-size: 32px; text-align: center; margin: 20px 0 5px; }
+  .tagline { text-align: center; color: #00F2FE; font-size: 18px; margin-bottom: 30px; }
+  h2 { color: #F5C518; font-size: 22px; margin: 30px 0 12px; border-bottom: 1px solid rgba(245,197,24,0.3); padding-bottom: 6px; }
+  p { color: #CBD5E0; margin-bottom: 12px; font-size: 16px; }
+  .card { background: #101828; border: 1px solid rgba(0,242,254,0.2); border-radius: 12px; padding: 16px; margin-bottom: 12px; }
+  .card h3 { color: #00F2FE; font-size: 18px; margin-bottom: 6px; }
+  .card p { font-size: 15px; margin: 0; }
+  .card .icon { font-size: 24px; margin-right: 8px; }
+  .cta { display: block; text-align: center; background: #F5C518; color: #0A0F1D; font-weight: bold; font-size: 20px; padding: 16px; border-radius: 12px; text-decoration: none; margin: 30px 0; }
+  .note { background: rgba(245,197,24,0.1); border: 1px solid rgba(245,197,24,0.4); border-radius: 12px; padding: 16px; margin: 20px 0; }
+  .note p { color: #F5C518; margin: 0; font-size: 15px; }
+  ul { color: #CBD5E0; padding-left: 20px; margin-bottom: 12px; }
+  li { margin-bottom: 6px; font-size: 15px; }
+  .footer { text-align: center; color: #718096; font-size: 13px; margin-top: 40px; }
+</style>
+</head>
+<body>
+
+<h1>📚 TReps</h1>
+<div class="tagline">Learn together, remember longer</div>
+<p style="text-align:center; color:#718096; font-size:14px; margin-bottom:25px;">TReps = Testing Reps - like gym reps, but for tests 💪</p>
+<div class="note" style="margin-top:15px;">
+<p>📱 <strong>Got the link on WhatsApp?</strong> Tap it, and if something doesn't work smoothly - copy the URL and open it in <strong>Safari</strong> (iPhone) or <strong>Chrome</strong> (Android).</p>
+</div>
+<div class="note" style="margin-top:12px;">
+<p>🛡️ <strong>Using an ad blocker (AdBlock/uBlock) on desktop?</strong> It may block Squads. Temporarily disable it for this site.</p>
+</div>
+
+<p>Hey! Thanks for helping test TReps. This is a social learning app - not another boring flashcard app, but a place where you learn together, compete, cheer each other on, and most importantly - actually remember.</p>
+
+<p>The app is built around one principle: <strong style="color:#fff">short chunks of 10 questions</strong>. Every session takes 3-4 minutes. No overload, no burnout.</p>
+
+<h2>📝 The Tests (8)</h2>
+<div class="card"><h3><span class="icon">🇺🇸</span>US Citizenship 2025</h3><p>128 questions, including 3 dynamic state questions (governor, senators, capital)</p></div>
+<div class="card"><h3><span class="icon">🇺🇸</span>US Citizenship 2008</h3><p>100 questions - the classic version</p></div>
+<div class="card"><h3><span class="icon">🏫</span>US High School Civics</h3><p>100 questions at high school level</p></div>
+<div class="card"><h3><span class="icon">🌵</span>Arizona - 5 packs</h3><p>Grades 5, 7, 8, 12 + gifted. 100 original questions per pack</p></div>
+
+<h2>📱 Screens & Their Purpose</h2>
+
+<div class="card">
+<h3><span class="icon">📊</span>Home (Learn)</h3>
+<p>Your hub. Weekly progress, XP points, day streaks, the Daily Challenge card, quick access to tests, and your squads. Everything in one place.</p>
+</div>
+
+<div class="card">
+<h3><span class="icon">⚡</span>Challenge</h3>
+<p><strong>Daily Challenge:</strong> 10 questions, 3 minutes on the clock, once a day. <strong>Quick Test:</strong> 10 questions, no pressure. <strong>Weak Spots:</strong> the questions you most need to strengthen - the system identifies them automatically.</p>
+</div>
+
+<div class="card">
+<h3><span class="icon">📚</span>Tests</h3>
+<p>All 8 tests. You can set a target date for each test (tap the date), and the app builds a personalized study plan. Cards with red dots = new tests not yet opened.</p>
+</div>
+
+<div class="card">
+<h3><span class="icon">🛡️</span>Squads</h3>
+<p>The social heart. Create a squad, invite friends with a code, compete in <strong>Battles</strong> (10 head-to-head questions), send <strong>cheers</strong> 👏, and see who's studying right now in real time.</p>
+</div>
+
+<div class="card">
+<h3><span class="icon">🔔</span>Reminders</h3>
+<p>Smart daily review reminders, notifications for battles and cheers from friends. Quiet hours configurable.</p>
+</div>
+
+<div class="card">
+<h3><span class="icon">⚙️</span>Settings</h3>
+<p>Profile (name, avatar), text size, dyslexia font, voice narration, sounds, theme. Everything saved locally on device.</p>
+</div>
+
+<h2>🧠 How It Works Behind the Scenes</h2>
+<ul>
+<li><strong>Spaced Repetition:</strong> every answer updates when the question returns. Got it wrong? It comes back soon. Got it right 3 times? It moves further away.</li>
+<li><strong>Chunks of 10:</strong> never more than 10 questions in a row without a break. You can stop anytime.</li>
+<li><strong>Flood protection:</strong> even after a week away, you won't get 500 questions at once - max 100 per session.</li>
+<li><strong>Ads:</strong> only between chunks, never mid-question. Max one per session.</li>
+</ul>
+
+<h2>🔍 What to Test (Most Important!)</h2>
+<div class="note">
+<p>💬 <strong>I need your honest feedback:</strong> what works well? What's confusing? What's slow? What would you change? There's no wrong answer - every comment helps.</p>
+</div>
+<ul>
+<li>Is it clear within 3 seconds where to tap to start learning?</li>
+<li>Are the buttons comfortable for one-thumb tapping?</li>
+<li>Try answering 5 questions and closing the page mid-way - was your progress saved?</li>
+<li>Try creating a squad and inviting a friend (you can invite yourself from a second device)</li>
+<li>Check on desktop browser and phone - does it look good on both?</li>
+</ul>
+
+<a class="cta" href="https://harelya1212.github.io/LearningPlatform/">🚀 Let's Start Learning</a>
+
+<div class="footer">TReps v8.01 • Built with love • Please don't share 🙏</div>
+
+</body>
+</html>
