@@ -1,6 +1,17 @@
 // Firebase Cloud Messaging service worker for TReps web push.
 // Must live at the site root (or /LearningPlatform/) to control pages.
 
+// Take over immediately on update: without skipWaiting, a fixed SW can sit
+// in "waiting" while the old (broken) worker keeps controlling the app -
+// on 2026-11-06 the staging SW carried a placeholder API key and the app
+// partition kept using it even after the fixed file was served.
+self.addEventListener('install', () => {
+  self.skipWaiting();
+});
+self.addEventListener('activate', (event) => {
+  event.waitUntil(self.clients.claim());
+});
+
 importScripts(
   'https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js'
 );
@@ -38,9 +49,12 @@ function deepLinkUrl(payload) {
 }
 
 messaging.onBackgroundMessage(payload => {
-  const title = payload.notification?.title || 'TReps 🦖';
+  // Cloud Functions send DATA-ONLY messages (title/body inside data) since
+  // 2026-11-06: a `notification` payload PLUS this manual showNotification
+  // displayed every push TWICE on iOS. This handler is the single display.
+  const title = payload.data?.title || payload.notification?.title || 'TReps 🦖';
   const options = {
-    body: payload.notification?.body || 'Something happened in your squad!',
+    body: payload.data?.body || payload.notification?.body || 'Something happened in your squad!',
     icon: './favicon.svg',
     badge: './favicon.svg',
     data: {
