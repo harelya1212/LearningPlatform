@@ -1,0 +1,2018 @@
+{
+  "packId": "anat-algebra-1",
+  "version": "1.0",
+  "title": "Algebra 1 (8th Grade)",
+  "description": "Algebra 1 prep for 8th grade - equations, functions, polynomials",
+  "language": "en",
+  "passingScore": 70,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-03",
+  "tags": [
+    "algebra",
+    "math",
+    "grade8",
+    "anat"
+  ],
+  "questions": [
+    {
+      "id": "AALG1_001",
+      "question": "Solve for x: x + 7 = 15",
+      "correctAnswer": "8",
+      "distractors": [
+        "7",
+        "22",
+        "-8"
+      ],
+      "explanation": "Subtract 7 from both sides: x = 15 - 7 = 8.",
+      "memoryHook": "T-Rexy says: move the number across, flip its sign!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_002",
+      "question": "Solve for x: 3x = 21",
+      "correctAnswer": "7",
+      "distractors": [
+        "6",
+        "8",
+        "63"
+      ],
+      "explanation": "Divide both sides by 3: x = 21 / 3 = 7.",
+      "memoryHook": "T-Rexy says: divide to isolate, the dino way!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_003",
+      "question": "Solve for x: x - 9 = 4",
+      "correctAnswer": "13",
+      "distractors": [
+        "5",
+        "-5",
+        "12"
+      ],
+      "explanation": "Add 9 to both sides: x = 4 + 9 = 13.",
+      "memoryHook": "T-Rexy says: minus becomes plus on the other side!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_004",
+      "question": "Solve for x: x / 4 = 5",
+      "correctAnswer": "20",
+      "distractors": [
+        "9",
+        "1.25",
+        "16"
+      ],
+      "explanation": "Multiply both sides by 4: x = 5 * 4 = 20.",
+      "memoryHook": "T-Rexy says: division jumps across as multiplication!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_005",
+      "question": "Find the mean of the data set: 3, 6, 9, 10, 12.",
+      "correctAnswer": "8",
+      "distractors": [
+        "9",
+        "12",
+        "40"
+      ],
+      "explanation": "Add the values first: 3 + 6 + 9 + 10 + 12 = 40. Then divide by how many values there are: 40 / 5 = 8.",
+      "memoryHook": "T-Rexy says: mean means share fairly - add them all, then split evenly!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_006",
+      "question": "Solve for x: 2x + 3 = 11",
+      "correctAnswer": "4",
+      "distractors": [
+        "7",
+        "5",
+        "3"
+      ],
+      "explanation": "Subtract 3: 2x = 8. Divide by 2: x = 4.",
+      "memoryHook": "T-Rexy says: undo in reverse order - add/subtract first, then multiply/divide!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_007",
+      "question": "Solve for x: 5x - 8 = 12",
+      "correctAnswer": "4",
+      "distractors": [
+        "3",
+        "5",
+        "20"
+      ],
+      "explanation": "Add 8: 5x = 20. Divide by 5: x = 4.",
+      "memoryHook": "T-Rexy says: two steps, two moves - balance the scale!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_008",
+      "question": "Solve for x: x / 3 + 2 = 7",
+      "correctAnswer": "15",
+      "distractors": [
+        "27",
+        "12",
+        "5"
+      ],
+      "explanation": "Subtract 2: x/3 = 5. Multiply by 3: x = 15.",
+      "memoryHook": "T-Rexy says: clear the extra number before touching the fraction!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_009",
+      "question": "Solve for x: 4x + 1 = 2x + 9",
+      "correctAnswer": "4",
+      "distractors": [
+        "8",
+        "5",
+        "2"
+      ],
+      "explanation": "Subtract 2x: 2x + 1 = 9. Subtract 1: 2x = 8. So x = 4.",
+      "memoryHook": "T-Rexy says: gather x terms on one side first!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_010",
+      "question": "Solve for x: 7 - 2x = 3",
+      "correctAnswer": "2",
+      "distractors": [
+        "5",
+        "-2",
+        "10"
+      ],
+      "explanation": "Subtract 7: -2x = -4. Divide by -2: x = 2.",
+      "memoryHook": "T-Rexy says: negatives cancel when both sides flip!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_011",
+      "question": "Evaluate 3x + 2 when x = 5.",
+      "correctAnswer": "17",
+      "distractors": [
+        "25",
+        "15",
+        "27"
+      ],
+      "explanation": "Substitute: 3(5) + 2 = 15 + 2 = 17.",
+      "memoryHook": "T-Rexy says: plug it in like a dino charging its tail!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_012",
+      "question": "Simplify: 4x + 3x",
+      "correctAnswer": "7x",
+      "distractors": [
+        "12x",
+        "7x^2",
+        "x^7"
+      ],
+      "explanation": "Combine like terms: 4 + 3 = 7, so 7x.",
+      "memoryHook": "T-Rexy says: same letter, just add the numbers in front!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_013",
+      "question": "Simplify: 5a - 2a + 7",
+      "correctAnswer": "3a + 7",
+      "distractors": [
+        "3a",
+        "10a",
+        "5a"
+      ],
+      "explanation": "Combine the a terms: 5a - 2a = 3a. The 7 stays: 3a + 7.",
+      "memoryHook": "T-Rexy says: only twins combine - lonely numbers stay put!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_014",
+      "question": "Find the slope of y = 3x + 2.",
+      "correctAnswer": "3",
+      "distractors": [
+        "2",
+        "1",
+        "-3"
+      ],
+      "explanation": "In y = mx + b, m is the slope. Here m = 3.",
+      "memoryHook": "T-Rexy says: slope rides shotgun right in front of x!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_015",
+      "question": "Find the y-intercept of y = -2x + 5.",
+      "correctAnswer": "5",
+      "distractors": [
+        "-2",
+        "2",
+        "-5"
+      ],
+      "explanation": "In y = mx + b, b is the y-intercept. Here b = 5.",
+      "memoryHook": "T-Rexy says: the y-intercept is the lonely number at the end!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_016",
+      "question": "x + 4 > 9. What is the smallest integer value of x?",
+      "correctAnswer": "6",
+      "distractors": [
+        "5",
+        "7",
+        "13"
+      ],
+      "explanation": "x > 5, so the smallest integer greater than 5 is 6.",
+      "memoryHook": "T-Rexy says: inequalities point like hungry dino jaws - open toward the bigger side!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_017",
+      "question": "Solve the inequality: 2x < 10",
+      "correctAnswer": "x < 5",
+      "distractors": [
+        "x > 5",
+        "x < 20",
+        "x < 2"
+      ],
+      "explanation": "Divide by 2: x < 5.",
+      "memoryHook": "T-Rexy says: divide both sides, keep the arrow pointing!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_018",
+      "question": "Solve: 3x >= 15",
+      "correctAnswer": "x >= 5",
+      "distractors": [
+        "x <= 5",
+        "x >= 3",
+        "x > 5"
+      ],
+      "explanation": "Divide by 3: x >= 5. The sign stays because we divided by a positive.",
+      "memoryHook": "T-Rexy says: positive division keeps the sign, negative flips it!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_019",
+      "question": "Evaluate: 2^3",
+      "correctAnswer": "8",
+      "distractors": [
+        "6",
+        "9",
+        "5"
+      ],
+      "explanation": "2^3 = 2 * 2 * 2 = 8.",
+      "memoryHook": "T-Rexy says: exponent means repeat the multiplication, not 2 times 3!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_020",
+      "question": "What is the square root of 81?",
+      "correctAnswer": "9",
+      "distractors": [
+        "8",
+        "18",
+        "40.5"
+      ],
+      "explanation": "A square root asks which number multiplied by itself gives 81. Since 9 * 9 = 81, the square root of 81 is 9.",
+      "memoryHook": "T-Rexy says: a square root runs squaring in reverse - 9 stomps twice to make 81!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_021",
+      "question": "Evaluate: x^2 * x^3",
+      "correctAnswer": "x^5",
+      "distractors": [
+        "x^6",
+        "2x^5",
+        "x"
+      ],
+      "explanation": "When multiplying same bases, add exponents: 2 + 3 = 5, so x^5.",
+      "memoryHook": "T-Rexy says: multiply means ADD the exponents - stack them up!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_022",
+      "question": "Evaluate: (2x)^2",
+      "correctAnswer": "4x^2",
+      "distractors": [
+        "2x^2",
+        "4x",
+        "x^4"
+      ],
+      "explanation": "Square both parts: 2^2 = 4 and x^2 stays, so 4x^2.",
+      "memoryHook": "T-Rexy says: the exponent hits EVERYTHING inside the parentheses!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_023",
+      "question": "Evaluate f(3) for f(x) = 2x + 1.",
+      "correctAnswer": "7",
+      "distractors": [
+        "9",
+        "5",
+        "8"
+      ],
+      "explanation": "Plug in 3: 2(3) + 1 = 6 + 1 = 7.",
+      "memoryHook": "T-Rexy says: f(3) means x becomes 3 - swap it in!",
+      "imageUrl": "topic:functions",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_024",
+      "question": "Evaluate f(4) for f(x) = x^2.",
+      "correctAnswer": "16",
+      "distractors": [
+        "8",
+        "2",
+        "12"
+      ],
+      "explanation": "f(4) = 4^2 = 16.",
+      "memoryHook": "T-Rexy says: the input goes where x was!",
+      "imageUrl": "topic:functions",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_025",
+      "question": "Is {(1,2), (2,3), (1,4)} a function?",
+      "correctAnswer": "No",
+      "distractors": [
+        "Yes",
+        "Maybe",
+        "Need more info"
+      ],
+      "explanation": "No - the input 1 maps to two different outputs (2 and 4). Each input gets only one output in a function.",
+      "memoryHook": "T-Rexy says: one input, one output - no double-dating!",
+      "imageUrl": "topic:functions",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_026",
+      "question": "Solve for x: -3x = 18",
+      "correctAnswer": "-6",
+      "distractors": [
+        "6",
+        "-15",
+        "21"
+      ],
+      "explanation": "Divide by -3: x = 18 / (-3) = -6.",
+      "memoryHook": "T-Rexy says: positive divided by negative gives negative!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_027",
+      "question": "For the expression 5 / (x - 3), which value of x is not allowed?",
+      "correctAnswer": "3",
+      "distractors": [
+        "0",
+        "-3",
+        "5"
+      ],
+      "explanation": "A fraction's denominator can never equal 0. If x = 3, then x - 3 = 0, and division by 0 is undefined, so x = 3 is the excluded value.",
+      "memoryHook": "T-Rexy says: never divide by zero - nobody can split a snack into zero piles!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_028",
+      "question": "Simplify: 2(x + 3)",
+      "correctAnswer": "2x + 6",
+      "distractors": [
+        "2x + 3",
+        "x + 6",
+        "5x"
+      ],
+      "explanation": "Distribute the 2: 2*x + 2*3 = 2x + 6.",
+      "memoryHook": "T-Rexy says: the number outside visits EVERY term inside!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_029",
+      "question": "Solve for x: 10 = 2x + 4",
+      "correctAnswer": "3",
+      "distractors": [
+        "7",
+        "5",
+        "2"
+      ],
+      "explanation": "Subtract 4: 6 = 2x. Divide by 2: x = 3.",
+      "memoryHook": "T-Rexy says: x can hide on the right side too!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_030",
+      "question": "Find the median of the data set: 4, 8, 15, 16, 23.",
+      "correctAnswer": "15",
+      "distractors": [
+        "13.2",
+        "8",
+        "23"
+      ],
+      "explanation": "The values are already in order: 4, 8, 15, 16, 23. The median is the middle value, which is 15.",
+      "memoryHook": "T-Rexy says: the median is the dino standing exactly in the middle of the line!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_031",
+      "question": "Solve for x: 3(x - 2) = 12",
+      "correctAnswer": "6",
+      "distractors": [
+        "4",
+        "10",
+        "14"
+      ],
+      "explanation": "Divide by 3: x - 2 = 4. Add 2: x = 6.",
+      "memoryHook": "T-Rexy says: unwrap the parentheses before anything else!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_032",
+      "question": "Solve for x: 2x + 5 = 3x - 1",
+      "correctAnswer": "6",
+      "distractors": [
+        "-6",
+        "4",
+        "-4"
+      ],
+      "explanation": "Subtract 2x: 5 = x - 1. Add 1: x = 6.",
+      "memoryHook": "T-Rexy says: move the smaller x term to avoid negatives!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_033",
+      "question": "Solve for x: 4(x + 1) = 2(x + 7)",
+      "correctAnswer": "5",
+      "distractors": [
+        "3",
+        "10",
+        "-3"
+      ],
+      "explanation": "Expand: 4x + 4 = 2x + 14. Subtract 2x: 2x + 4 = 14. Subtract 4: 2x = 10. So x = 5.",
+      "memoryHook": "T-Rexy says: distribute BOTH sides before collecting!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_034",
+      "question": "Solve for x: x/2 - 3 = 5",
+      "correctAnswer": "16",
+      "distractors": [
+        "4",
+        "8",
+        "20"
+      ],
+      "explanation": "Add 3: x/2 = 8. Multiply by 2: x = 16.",
+      "memoryHook": "T-Rexy says: clear the constant, then kill the fraction!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_035",
+      "question": "Solve for x: 0.5x + 2 = 7",
+      "correctAnswer": "10",
+      "distractors": [
+        "18",
+        "5",
+        "3"
+      ],
+      "explanation": "Subtract 2: 0.5x = 5. Divide by 0.5: x = 10.",
+      "memoryHook": "T-Rexy says: decimals work the same - just keep the steps!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_036",
+      "question": "Solve for x: 3x - 4 = 2x + 8 - x",
+      "correctAnswer": "6",
+      "distractors": [
+        "4",
+        "12",
+        "-12"
+      ],
+      "explanation": "Simplify the right side: 2x - x = x, so 3x - 4 = x + 8. Subtract x: 2x - 4 = 8. Add 4: 2x = 12. So x = 6.",
+      "memoryHook": "T-Rexy says: simplify each side FIRST, then solve!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_037",
+      "question": "Solve for x: 5(x - 3) + 2 = 3x + 1",
+      "correctAnswer": "7",
+      "distractors": [
+        "6",
+        "8",
+        "18"
+      ],
+      "explanation": "Expand: 5x - 15 + 2 = 3x + 1, so 5x - 13 = 3x + 1. Subtract 3x: 2x - 13 = 1. Add 13: 2x = 14. So x = 7.",
+      "memoryHook": "T-Rexy says: distribute, combine, then solve - in that order!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_038",
+      "question": "Solve the system: x + y = 7 and x - y = 3. What is x?",
+      "correctAnswer": "5",
+      "distractors": [
+        "4",
+        "2",
+        "10"
+      ],
+      "explanation": "Add the equations: 2x = 10, so x = 5. (Then y = 2.)",
+      "memoryHook": "T-Rexy says: add to eliminate - the y terms cancel out!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_039",
+      "question": "Solve the system: 2x + y = 10 and x + y = 7. What is x?",
+      "correctAnswer": "3",
+      "distractors": [
+        "7",
+        "4",
+        "17"
+      ],
+      "explanation": "Subtract the second from the first: (2x + y) - (x + y) = 10 - 7, so x = 3.",
+      "memoryHook": "T-Rexy says: subtract to eliminate the matching term!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_040",
+      "question": "A scatter plot shows the hours students studied and their quiz scores. The points trend upward from left to right. Which statement best describes the association?",
+      "correctAnswer": "As study time increases, quiz scores tend to increase.",
+      "distractors": [
+        "As study time increases, quiz scores tend to decrease.",
+        "There is no association between study time and quiz scores.",
+        "Studying more causes every student to score higher."
+      ],
+      "explanation": "Points that trend upward show a positive association: larger study times go with higher scores. A scatter plot shows association, not proof that one variable causes the other.",
+      "memoryHook": "T-Rexy says: points climbing uphill grow together - but that alone does not prove cause!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_041",
+      "question": "Simplify: (x^2 + 5x) / x",
+      "correctAnswer": "x + 5",
+      "distractors": [
+        "x^2 + 5",
+        "5",
+        "x - 5"
+      ],
+      "explanation": "Divide each term on top by x: x^2 / x + 5x / x = x + 5. This holds for every x except 0, where the original fraction is undefined.",
+      "memoryHook": "T-Rexy says: every term on top gets its own equal share of the bottom!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_042",
+      "question": "Evaluate: (5x^2 - 3x + 1) - (2x^2 + x - 4)",
+      "correctAnswer": "3x^2 - 4x + 5",
+      "distractors": [
+        "3x^2 - 2x - 3",
+        "7x^2 - 4x + 5",
+        "3x^2 - 4x - 3"
+      ],
+      "explanation": "Distribute the minus: 5x^2 - 3x + 1 - 2x^2 - x + 4. Combine: 3x^2 - 4x + 5.",
+      "memoryHook": "T-Rexy says: minus flips EVERY sign inside the parentheses!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_043",
+      "question": "Add: 3/x + 4/x",
+      "correctAnswer": "7/x",
+      "distractors": [
+        "7/(2x)",
+        "12/x",
+        "7/x^2"
+      ],
+      "explanation": "The denominators are already the same, so keep the denominator and add only the numerators: (3 + 4) / x = 7/x.",
+      "memoryHook": "T-Rexy says: same bottom? Keep it frozen and add only the tops!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_044",
+      "question": "Factor out the GCF: 6x^2 + 9x",
+      "correctAnswer": "3x(2x + 3)",
+      "distractors": [
+        "3(2x^2 + 3x)",
+        "x(6x + 9)",
+        "3x(2x + 9)"
+      ],
+      "explanation": "GCF of 6x^2 and 9x is 3x. Divide each: 6x^2/3x = 2x, 9x/3x = 3. So 3x(2x + 3).",
+      "memoryHook": "T-Rexy says: pull out what they share, like splitting the loot!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_045",
+      "question": "Factor out the GCF: 4x^3 - 8x^2",
+      "correctAnswer": "4x^2(x - 2)",
+      "distractors": [
+        "4x(x^2 - 2x)",
+        "2x^2(2x - 4)",
+        "x^2(4x - 8)"
+      ],
+      "explanation": "GCF is 4x^2. Divide: 4x^3/4x^2 = x, -8x^2/4x^2 = -2. So 4x^2(x - 2).",
+      "memoryHook": "T-Rexy says: take the biggest common bite first!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_046",
+      "question": "Find the slope of the line through (1,3) and (4,9).",
+      "correctAnswer": "2",
+      "distractors": [
+        "6",
+        "3",
+        "1/2"
+      ],
+      "explanation": "Slope = (9-3)/(4-1) = 6/3 = 2.",
+      "memoryHook": "T-Rexy says: y-change on top, x-change on bottom - always!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_047",
+      "question": "Find the slope of the line through (-2,5) and (2,-3).",
+      "correctAnswer": "-2",
+      "distractors": [
+        "2",
+        "-4",
+        "1/2"
+      ],
+      "explanation": "Slope = (-3-5)/(2-(-2)) = -8/4 = -2.",
+      "memoryHook": "T-Rexy says: going down means negative slope!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_048",
+      "question": "Which equation has slope -3 and y-intercept 4?",
+      "correctAnswer": "y = -3x + 4",
+      "distractors": [
+        "y = 3x + 4",
+        "y = -3x - 4",
+        "y = 4x - 3"
+      ],
+      "explanation": "y = mx + b with m = -3 and b = 4 gives y = -3x + 4.",
+      "memoryHook": "T-Rexy says: m first, b last - y = mx + b never changes!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_049",
+      "question": "Write the equation: slope 2, y-intercept 5.",
+      "correctAnswer": "y = 2x + 5",
+      "distractors": [
+        "y = 5x + 2",
+        "y = 2x - 5",
+        "x = 2y + 5"
+      ],
+      "explanation": "Plug into y = mx + b: m = 2, b = 5, so y = 2x + 5.",
+      "memoryHook": "T-Rexy says: just drop the numbers into their slots!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_050",
+      "question": "Is the point (2,5) on the line y = 3x - 1?",
+      "correctAnswer": "Yes",
+      "distractors": [
+        "No",
+        "Maybe",
+        "Not enough info"
+      ],
+      "explanation": "Plug in x = 2: 3(2) - 1 = 5. The y matches, so yes.",
+      "memoryHook": "T-Rexy says: test the point - if both sides match, it lives on the line!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_051",
+      "question": "Solve for x: √x = 7",
+      "correctAnswer": "49",
+      "distractors": [
+        "14",
+        "7",
+        "3.5"
+      ],
+      "explanation": "Square both sides to undo the square root: (√x)^2 = 7^2, so x = 49. Check: √49 = 7, so it works.",
+      "memoryHook": "T-Rexy says: to free x from under a root, square both sides with equal stomps!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_052",
+      "question": "f(x) = 3x - 7. Find x when f(x) = 8.",
+      "correctAnswer": "5",
+      "distractors": [
+        "17",
+        "3",
+        "1"
+      ],
+      "explanation": "Set 3x - 7 = 8. Add 7: 3x = 15. Divide: x = 5.",
+      "memoryHook": "T-Rexy says: work backwards from the output to find the input!",
+      "imageUrl": "topic:functions",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_053",
+      "question": "Find the domain of {(1,5), (2,6), (3,7)}.",
+      "correctAnswer": "{1, 2, 3}",
+      "distractors": [
+        "{5, 6, 7}",
+        "{1, 5}",
+        "All real numbers"
+      ],
+      "explanation": "Domain = all input (x) values: 1, 2, 3.",
+      "memoryHook": "T-Rexy says: domain is the guest list - who gets to come in (the x values)!",
+      "imageUrl": "topic:functions",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_054",
+      "question": "Solve for x: 2x - 3(x - 1) = 7",
+      "correctAnswer": "-4",
+      "distractors": [
+        "4",
+        "10",
+        "-10"
+      ],
+      "explanation": "Expand: 2x - 3x + 3 = 7, so -x + 3 = 7. Subtract 3: -x = 4. So x = -4.",
+      "memoryHook": "T-Rexy says: distribute the negative carefully - it flips both signs!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_055",
+      "question": "Solve for x: (2/3)x = 8",
+      "correctAnswer": "12",
+      "distractors": [
+        "16/3",
+        "5.33",
+        "24"
+      ],
+      "explanation": "Multiply both sides by 3/2: x = 8 * (3/2) = 24/2 = 12.",
+      "memoryHook": "T-Rexy says: flip the fraction and multiply!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_056",
+      "question": "Solve for x: 1.2x + 3.6 = 12",
+      "correctAnswer": "7",
+      "distractors": [
+        "13",
+        "6",
+        "8.4"
+      ],
+      "explanation": "Subtract 3.6: 1.2x = 8.4. Divide by 1.2: x = 7.",
+      "memoryHook": "T-Rexy says: decimals are just numbers - same moves!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_057",
+      "question": "Solve for x: 3x + 2(x + 4) = 23",
+      "correctAnswer": "3",
+      "distractors": [
+        "5",
+        "15",
+        "31"
+      ],
+      "explanation": "Expand: 3x + 2x + 8 = 23, so 5x + 8 = 23. Subtract 8: 5x = 15. So x = 3.",
+      "memoryHook": "T-Rexy says: distribute first, the rest is easy!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_058",
+      "question": "Solve the system: 2x + y = 8 and x - y = 1. What is x?",
+      "correctAnswer": "3",
+      "distractors": [
+        "5",
+        "7",
+        "9"
+      ],
+      "explanation": "Add the equations: 3x = 9, so x = 3. (Then y = 2.)",
+      "memoryHook": "T-Rexy says: opposite signs on y mean add to kill it!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_059",
+      "question": "Simplify: √50",
+      "correctAnswer": "5√2",
+      "distractors": [
+        "2√5",
+        "25√2",
+        "10√5"
+      ],
+      "explanation": "Find the largest perfect square that divides 50: 50 = 25 * 2. Take its square root out front: √50 = √25 * √2 = 5√2.",
+      "memoryHook": "T-Rexy says: hunt for the hidden perfect square and let it escape the root!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_060",
+      "question": "Evaluate: (x^3)(x^4) / x^2",
+      "correctAnswer": "x^5",
+      "distractors": [
+        "x^9",
+        "x^10",
+        "x^3"
+      ],
+      "explanation": "Multiply on top: x^7. Divide: subtract exponents 7 - 2 = 5, so x^5.",
+      "memoryHook": "T-Rexy says: multiply adds, divide subtracts - same bases only!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_061",
+      "question": "Simplify: (3x^2)^3",
+      "correctAnswer": "27x^6",
+      "distractors": [
+        "9x^6",
+        "27x^5",
+        "9x^5"
+      ],
+      "explanation": "Cube both parts: 3^3 = 27 and (x^2)^3 = x^6. So 27x^6.",
+      "memoryHook": "T-Rexy says: power of a power means MULTIPLY the exponents!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_062",
+      "question": "Find the mode of the data set: 5, 8, 5, 12, 8, 5, 9.",
+      "correctAnswer": "5",
+      "distractors": [
+        "8",
+        "9",
+        "12"
+      ],
+      "explanation": "Count the repeats: 5 appears 3 times, 8 appears 2 times, and 9 and 12 appear once each. The mode is the value that appears most often, so the mode is 5.",
+      "memoryHook": "T-Rexy says: the mode is the value that shows up to the party most often!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_063",
+      "question": "The box plot shows the ages of the members of a chess club. What is the median age shown in the box plot?",
+      "correctAnswer": "24",
+      "distractors": [
+        "18",
+        "33",
+        "27"
+      ],
+      "explanation": "In a box plot, the line inside the box marks the median. In this plot that line is at 24, so the median age is 24.",
+      "memoryHook": "T-Rexy says: the line inside the box points straight at the median!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_064",
+      "question": "Write 3x + y = 9 in slope-intercept form.",
+      "correctAnswer": "y = -3x + 9",
+      "distractors": [
+        "y = 3x + 9",
+        "y = 3x - 9",
+        "x = -3y + 9"
+      ],
+      "explanation": "Subtract 3x from both sides: y = -3x + 9.",
+      "memoryHook": "T-Rexy says: get y alone on the left!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_065",
+      "question": "Which line is parallel to y = 2x + 1 and has y-intercept 5?",
+      "correctAnswer": "y = 2x + 5",
+      "distractors": [
+        "y = -2x + 5",
+        "y = (1/2)x + 5",
+        "y = 2x + 1"
+      ],
+      "explanation": "Parallel lines share the slope (2). New y-intercept is 5: y = 2x + 5.",
+      "memoryHook": "T-Rexy says: parallel means same slope, different intercept!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_066",
+      "question": "Solve for x: 4x - 2(x - 3) = 14",
+      "correctAnswer": "4",
+      "distractors": [
+        "10",
+        "20",
+        "-4"
+      ],
+      "explanation": "Expand: 4x - 2x + 6 = 14, so 2x + 6 = 14. Subtract 6: 2x = 8. So x = 4.",
+      "memoryHook": "T-Rexy says: minus times minus gives plus - watch it!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_067",
+      "question": "Solve for x: -2(x + 5) = -3x + 1",
+      "correctAnswer": "11",
+      "distractors": [
+        "-11",
+        "-9",
+        "9"
+      ],
+      "explanation": "Expand: -2x - 10 = -3x + 1. Add 3x: x - 10 = 1. Add 10: x = 11.",
+      "memoryHook": "T-Rexy says: move x terms together, numbers together!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_068",
+      "question": "Evaluate: (4x^2 + 6x - 2) + (-2x^2 - 3x + 8)",
+      "correctAnswer": "2x^2 + 3x + 6",
+      "distractors": [
+        "2x^2 + 9x + 6",
+        "6x^2 + 3x + 6",
+        "2x^2 + 3x + 10"
+      ],
+      "explanation": "x^2: 4 - 2 = 2. x: 6 - 3 = 3. Constants: -2 + 8 = 6. So 2x^2 + 3x + 6.",
+      "memoryHook": "T-Rexy says: stack by degree and add column by column!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_069",
+      "question": "Evaluate: (x^2 + 5x + 6) - (2x^2 - 3x + 1)",
+      "correctAnswer": "-x^2 + 8x + 5",
+      "distractors": [
+        "-x^2 + 2x + 5",
+        "3x^2 + 8x + 7",
+        "-x^2 + 8x + 7"
+      ],
+      "explanation": "Distribute minus: x^2 + 5x + 6 - 2x^2 + 3x - 1 = -x^2 + 8x + 5.",
+      "memoryHook": "T-Rexy says: the minus sign is sneaky - it changes them all!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_070",
+      "question": "Evaluate f(-1) for f(x) = 2x^2 - x + 3.",
+      "correctAnswer": "6",
+      "distractors": [
+        "4",
+        "0",
+        "2"
+      ],
+      "explanation": "f(-1) = 2(-1)^2 - (-1) + 3 = 2 + 1 + 3 = 6.",
+      "memoryHook": "T-Rexy says: parentheses around negatives save the day!",
+      "imageUrl": "topic:functions",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_071",
+      "question": "Solve for x: 2(3x - 4) - (x + 2) = 3x + 4",
+      "correctAnswer": "7",
+      "distractors": [
+        "-7",
+        "5",
+        "14"
+      ],
+      "explanation": "Expand: 6x - 8 - x - 2 = 3x + 4, so 5x - 10 = 3x + 4. Subtract 3x: 2x - 10 = 4. Add 10: 2x = 14. So x = 7.",
+      "memoryHook": "T-Rexy says: handle each set of parentheses one at a time!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_072",
+      "question": "Solve for x: (x + 2)/3 - (x - 1)/2 = 1",
+      "correctAnswer": "1",
+      "distractors": [
+        "13",
+        "-1",
+        "7"
+      ],
+      "explanation": "Multiply by 6: 2(x+2) - 3(x-1) = 6. Expand: 2x + 4 - 3x + 3 = 6, so -x + 7 = 6. Thus x = 1.",
+      "memoryHook": "T-Rexy says: multiply by the common denominator to smash the fractions!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_073",
+      "question": "Solve for x: 0.3x - 0.2(2x + 4) = 1",
+      "correctAnswer": "-18",
+      "distractors": [
+        "18",
+        "-2",
+        "10"
+      ],
+      "explanation": "Expand: 0.3x - 0.4x - 0.8 = 1, so -0.1x - 0.8 = 1. Add 0.8: -0.1x = 1.8. Divide: x = -18.",
+      "memoryHook": "T-Rexy says: multiply everything by 10 first to dodge decimals!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_074",
+      "question": "Solve: 2x + 3 < 5x - 9",
+      "correctAnswer": "x > 4",
+      "distractors": [
+        "x < 4",
+        "x > 12",
+        "x < 12"
+      ],
+      "explanation": "Subtract 2x: 3 < 3x - 9. Add 9: 12 < 3x. Divide by 3: 4 < x, so x > 4.",
+      "memoryHook": "T-Rexy says: solve like an equation, then read the arrow!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_075",
+      "question": "Solve: -3(x - 2) >= 15",
+      "correctAnswer": "x <= -3",
+      "distractors": [
+        "x >= -3",
+        "x <= 3",
+        "x >= 3"
+      ],
+      "explanation": "Expand: -3x + 6 >= 15. Subtract 6: -3x >= 9. Divide by -3 and FLIP: x <= -3.",
+      "memoryHook": "T-Rexy says: dividing by a negative FLIPS the inequality - never forget!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_076",
+      "question": "Evaluate: (2x + 3)(x - 4)",
+      "correctAnswer": "2x^2 - 5x - 12",
+      "distractors": [
+        "2x^2 - 11x - 12",
+        "2x^2 + 5x - 12",
+        "x^2 - 5x - 12"
+      ],
+      "explanation": "FOIL: 2x*x = 2x^2, 2x*(-4) = -8x, 3*x = 3x, 3*(-4) = -12. Combine: 2x^2 - 5x - 12.",
+      "memoryHook": "T-Rexy says: FOIL - First, Outer, Inner, Last!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_077",
+      "question": "Evaluate: (x - 5)^2",
+      "correctAnswer": "x^2 - 10x + 25",
+      "distractors": [
+        "x^2 - 25",
+        "x^2 + 10x + 25",
+        "x^2 - 5x + 25"
+      ],
+      "explanation": "(x-5)(x-5): x^2 - 5x - 5x + 25 = x^2 - 10x + 25.",
+      "memoryHook": "T-Rexy says: squared binomial - square first and last, double the middle!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_078",
+      "question": "Evaluate: (3x + 2)(2x - 5)",
+      "correctAnswer": "6x^2 - 11x - 10",
+      "distractors": [
+        "6x^2 - 19x - 10",
+        "5x^2 - 11x - 10",
+        "6x^2 + 11x - 10"
+      ],
+      "explanation": "FOIL: 6x^2 - 15x + 4x - 10 = 6x^2 - 11x - 10.",
+      "memoryHook": "T-Rexy says: four products, then combine the middle twins!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_079",
+      "question": "Factor: x^2 + 7x + 12",
+      "correctAnswer": "(x + 3)(x + 4)",
+      "distractors": [
+        "(x + 2)(x + 6)",
+        "(x - 3)(x - 4)",
+        "(x + 1)(x + 12)"
+      ],
+      "explanation": "Find two numbers that multiply to 12 and add to 7: 3 and 4. So (x + 3)(x + 4).",
+      "memoryHook": "T-Rexy says: multiply to the last, add to the middle!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_080",
+      "question": "Factor: x^2 - 9x + 20",
+      "correctAnswer": "(x - 4)(x - 5)",
+      "distractors": [
+        "(x + 4)(x + 5)",
+        "(x - 2)(x - 10)",
+        "(x - 1)(x - 20)"
+      ],
+      "explanation": "Two numbers multiply to 20 and add to -9: -4 and -5. So (x - 4)(x - 5).",
+      "memoryHook": "T-Rexy says: both negative when the middle is negative and the last is positive!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_081",
+      "question": "Factor: x^2 - 16",
+      "correctAnswer": "(x + 4)(x - 4)",
+      "distractors": [
+        "(x - 4)^2",
+        "(x + 4)^2",
+        "(x - 8)(x + 2)"
+      ],
+      "explanation": "Difference of squares: x^2 - 4^2 = (x + 4)(x - 4).",
+      "memoryHook": "T-Rexy says: square minus square splits into plus and minus twins!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_082",
+      "question": "Factor completely: 2x^2 + 8x + 6",
+      "correctAnswer": "2(x + 1)(x + 3)",
+      "distractors": [
+        "2(x + 2)(x + 3)",
+        "(x + 2)(2x + 3)",
+        "2(x - 1)(x - 3)"
+      ],
+      "explanation": "First pull out 2: 2(x^2 + 4x + 3). Then factor: 1 and 3 multiply to 3, add to 4. So 2(x + 1)(x + 3).",
+      "memoryHook": "T-Rexy says: GCF first, trinomial second - always in that order!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_083",
+      "question": "Solve the system: 2x + 3y = 16 and 4x - 3y = 8. What is x?",
+      "correctAnswer": "4",
+      "distractors": [
+        "8",
+        "2",
+        "16"
+      ],
+      "explanation": "Add: 6x = 24, so x = 4. (Then 8 + 3y = 16, y = 8/3.)",
+      "memoryHook": "T-Rexy says: +3y and -3y are begging to be added away!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_084",
+      "question": "Solve the system: 3x - y = 7 and 2x + y = 8. What is x?",
+      "correctAnswer": "3",
+      "distractors": [
+        "5",
+        "7",
+        "15"
+      ],
+      "explanation": "Add: 5x = 15, so x = 3. (Then 9 - y = 7, y = 2.)",
+      "memoryHook": "T-Rexy says: -y + y = 0 - elimination magic!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_085",
+      "question": "Solve for y in terms of x: 3x + 2y = 12",
+      "correctAnswer": "y = (-3x + 12)/2",
+      "distractors": [
+        "y = 3x + 12",
+        "y = -3x + 6",
+        "x = (-2y + 12)/3"
+      ],
+      "explanation": "Subtract 3x: 2y = -3x + 12. Divide by 2: y = (-3x + 12)/2.",
+      "memoryHook": "T-Rexy says: isolate the target letter like a hostage rescue!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_086",
+      "question": "x^2 = 49. What are the solutions for x?",
+      "correctAnswer": "7 or -7",
+      "distractors": [
+        "7 only",
+        "-7 only",
+        "24.5"
+      ],
+      "explanation": "Both 7^2 and (-7)^2 equal 49, so x = 7 or x = -7.",
+      "memoryHook": "T-Rexy says: square roots come in pairs - plus AND minus!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_087",
+      "question": "Solve for x: x^2 + 6x + 9 = 0",
+      "correctAnswer": "-3",
+      "distractors": [
+        "3",
+        "9",
+        "-9"
+      ],
+      "explanation": "Factor: (x + 3)^2 = 0, so x + 3 = 0, x = -3.",
+      "memoryHook": "T-Rexy says: perfect square trinomial - the double root hides inside!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_088",
+      "question": "Find the vertex of y = x^2.",
+      "correctAnswer": "(0, 0)",
+      "distractors": [
+        "(1, 1)",
+        "(0, 1)",
+        "There is none"
+      ],
+      "explanation": "The parabola y = x^2 bottoms out at the origin (0,0).",
+      "memoryHook": "T-Rexy says: the vertex is the tippy-top or bottom of the U!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_089",
+      "question": "Maya buys 3 notebooks and 2 pens for $19. Luis buys 2 notebooks and 3 pens for $16. Write a system of equations and find the price of one notebook.",
+      "correctAnswer": "$5",
+      "distractors": [
+        "$4",
+        "$6",
+        "$3"
+      ],
+      "explanation": "Let n = notebook, p = pen. 3n + 2p = 19 and 2n + 3p = 16. Multiply first by 3: 9n + 6p = 57. Multiply second by 2: 4n + 6p = 32. Subtract: 5n = 25, so n = 5.",
+      "memoryHook": "T-Rexy says: two equations, two unknowns - eliminate one!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_090",
+      "question": "The sum of two numbers is 15. Their difference is 3. Write a system of equations and find the larger number.",
+      "correctAnswer": "9",
+      "distractors": [
+        "6",
+        "12",
+        "7.5"
+      ],
+      "explanation": "x + y = 15 and x - y = 3. Add: 2x = 18, so x = 9. The larger is 9.",
+      "memoryHook": "T-Rexy says: add the equations and the small parts vanish!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_091",
+      "question": "Priya is fencing a rectangular garden. The length is 3 meters more than twice the width. The perimeter is 36 meters. Find the width.",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "13",
+        "10"
+      ],
+      "explanation": "Let w = width, length = 2w + 3. Perimeter: 2w + 2(2w+3) = 36, so 6w + 6 = 36, 6w = 30, w = 5.",
+      "memoryHook": "T-Rexy says: translate words to math, then solve!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_092",
+      "question": "Diego has a phone plan that costs $30 per month plus $0.10 per minute. His bill was $48. Write an equation and find how many minutes he used.",
+      "correctAnswer": "180",
+      "distractors": [
+        "480",
+        "18",
+        "78"
+      ],
+      "explanation": "30 + 0.10m = 48. Subtract 30: 0.10m = 18. Divide: m = 180.",
+      "memoryHook": "T-Rexy says: flat fee plus per-unit - classic setup!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_093",
+      "question": "Simplify: √48 + √27",
+      "correctAnswer": "7√3",
+      "distractors": [
+        "√75",
+        "12√3",
+        "7√6"
+      ],
+      "explanation": "Simplify each radical first: √48 = √(16 * 3) = 4√3 and √27 = √(9 * 3) = 3√3. The radicands now match, so add the coefficients: 4√3 + 3√3 = 7√3.",
+      "memoryHook": "T-Rexy says: radicals can only team up when the number under the root matches!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_094",
+      "question": "Divide: (x^2 / 5) / (x / 10)",
+      "correctAnswer": "2x",
+      "distractors": [
+        "x/2",
+        "2x^2",
+        "1/(2x)"
+      ],
+      "explanation": "Keep the first fraction, change division to multiplication, and flip the second fraction: (x^2 / 5) * (10 / x) = 10x^2 / 5x = 2x.",
+      "memoryHook": "T-Rexy says: dividing fractions means keep, change, flip - then multiply straight across!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_095",
+      "question": "Simplify: 5x^2 - 3x^2 + 2x - 7x + 4",
+      "correctAnswer": "2x^2 - 5x + 4",
+      "distractors": [
+        "2x^2 - 9x + 4",
+        "8x^2 - 5x + 4",
+        "2x^2 + 5x + 4"
+      ],
+      "explanation": "x^2: 5 - 3 = 2. x: 2 - 7 = -5. Constant: 4. So 2x^2 - 5x + 4.",
+      "memoryHook": "T-Rexy says: group by power, then combine!",
+      "imageUrl": "topic:polynomials",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_096",
+      "question": "Solve for x: 2^x = 32",
+      "correctAnswer": "5",
+      "distractors": [
+        "16",
+        "6",
+        "4"
+      ],
+      "explanation": "2^5 = 32, so x = 5.",
+      "memoryHook": "T-Rexy says: count the doublings - 2, 4, 8, 16, 32!",
+      "imageUrl": "topic:algebra",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_097",
+      "question": "Find the slope of a line perpendicular to y = (1/2)x + 3.",
+      "correctAnswer": "-2",
+      "distractors": [
+        "2",
+        "-1/2",
+        "1/2"
+      ],
+      "explanation": "Perpendicular slopes are opposite reciprocals. The opposite reciprocal of 1/2 is -2.",
+      "memoryHook": "T-Rexy says: flip the fraction and flip the sign for perpendicular!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_098",
+      "question": "Write the equation of the line through (2,3) with slope 4.",
+      "correctAnswer": "y = 4x - 5",
+      "distractors": [
+        "y = 4x + 3",
+        "y = 4x + 5",
+        "y = 3x + 4"
+      ],
+      "explanation": "Point-slope: y - 3 = 4(x - 2). Expand: y - 3 = 4x - 8. Add 3: y = 4x - 5.",
+      "memoryHook": "T-Rexy says: point-slope form, then solve for y!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_099",
+      "question": "A survey asked 120 students whether they play a sport and whether they play an instrument. The results are in the two-way table. Of the students who play an instrument, what percent also play a sport?",
+      "correctAnswer": "60%",
+      "distractors": [
+        "25%",
+        "50%",
+        "55%"
+      ],
+      "explanation": "The words 'of the students who play an instrument' limit the group to the 50 instrument players (30 + 20). Of those, 30 also play a sport, so the percent is 30 / 50 = 60%.",
+      "memoryHook": "T-Rexy says: 'of the' shrinks the herd - only count the group named after it!",
+      "imageUrl": "topic:graphing",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    },
+    {
+      "id": "AALG1_100",
+      "question": "The product of two consecutive positive integers is 72. Write an equation and find the smaller integer.",
+      "correctAnswer": "8",
+      "distractors": [
+        "9",
+        "6",
+        "12"
+      ],
+      "explanation": "n(n+1) = 72. Try 8: 8*9 = 72. So the smaller is 8. (Algebraically: n^2 + n - 72 = 0 factors to (n+9)(n-8) = 0.)",
+      "memoryHook": "T-Rexy says: guess and check with nearby numbers - 8 times 9 rings a bell!",
+      "imageUrl": "topic:equations",
+      "tags": [
+        "Math",
+        "Algebra"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps Algebra 1"
+    }
+  ]
+}

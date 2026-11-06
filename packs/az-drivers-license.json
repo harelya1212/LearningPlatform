@@ -1,0 +1,2036 @@
+{
+  "packId": "az-drivers-license",
+  "title": "Arizona Driver's License",
+  "description": "Arizona Driver's License practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 80,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-04",
+  "tags": [
+    "driving",
+    "arizona",
+    "mvd",
+    "license"
+  ],
+  "questions": [
+    {
+      "id": "AZDL_001",
+      "question": "What does an eight-sided (octagonal) red and white sign mean?",
+      "correctAnswer": "Stop completely",
+      "distractors": [
+        "Slow down only",
+        "Yield to traffic",
+        "Stop only at night"
+      ],
+      "explanation": "An octagonal sign is always a stop sign. You must come to a complete stop, even if no other traffic is present.",
+      "memoryHook": "T-Rexy says: eight sides means STOP - count the sides like T-Rexy counts his tiny arms!",
+      "imageUrl": "topic:stop-sign",
+      "tags": [
+        "signs",
+        "regulatory"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_002",
+      "question": "What shape and color is a yield sign?",
+      "correctAnswer": "An upside-down triangle, red and white",
+      "distractors": [
+        "A circle, yellow and black",
+        "A diamond, orange and black",
+        "A rectangle, green and white"
+      ],
+      "explanation": "Yield signs are upside-down (inverted) triangles in red and white. They tell you to slow down and give the right-of-way to other traffic.",
+      "memoryHook": "T-Rexy says: a yield sign points DOWN - yield to whoever is already there!",
+      "imageUrl": "topic:yield-sign",
+      "tags": [
+        "signs",
+        "regulatory"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_003",
+      "question": "A white rectangular sign with black numbers showing 45 means:",
+      "correctAnswer": "The maximum legal speed is 45 mph",
+      "distractors": [
+        "You must drive exactly 45 mph",
+        "The minimum speed is 45 mph",
+        "Trucks only may go 45 mph"
+      ],
+      "explanation": "Speed limit signs show the maximum speed allowed under ideal conditions. You may drive slower, but never faster.",
+      "memoryHook": "T-Rexy says: the number on the sign is the CEILING, not the floor - never go above it!",
+      "imageUrl": "topic:speed-limit-sign",
+      "tags": [
+        "signs",
+        "regulatory",
+        "speed"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_004",
+      "question": "What should you do when you see a DO NOT ENTER sign?",
+      "correctAnswer": "Do not drive onto that road or ramp",
+      "distractors": [
+        "Enter only with headlights on",
+        "Enter slowly and carefully",
+        "Stop, then enter"
+      ],
+      "explanation": "DO NOT ENTER means the road is for one-way traffic in the opposite direction. Entering could cause a head-on crash.",
+      "memoryHook": "T-Rexy says: do not enter means DO NOT ENTER - your car is not a salmon swimming upstream!",
+      "imageUrl": "topic:do-not-enter-sign",
+      "tags": [
+        "signs",
+        "regulatory"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_005",
+      "question": "A ONE WAY sign tells you:",
+      "correctAnswer": "Traffic on this street moves in only one direction",
+      "distractors": [
+        "You may only make one turn here",
+        "Only one car may pass at a time",
+        "The road ends ahead"
+      ],
+      "explanation": "ONE WAY signs mark streets where all traffic flows in a single direction. Check for them before turning onto an unfamiliar street.",
+      "memoryHook": "T-Rexy says: one way means one way - going the wrong way makes you the villain in an action movie!",
+      "imageUrl": "topic:one-way-sign",
+      "tags": [
+        "signs",
+        "regulatory"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_006",
+      "question": "What does a NO U-TURN sign mean?",
+      "correctAnswer": "You may not make a U-turn at this location",
+      "distractors": [
+        "You may turn around only at night",
+        "Trucks may not turn around here",
+        "You must turn around here"
+      ],
+      "explanation": "A NO U-TURN sign prohibits reversing your direction at that spot, usually because visibility is limited or traffic is heavy.",
+      "memoryHook": "T-Rexy says: the U-turn arrow has a big red NO - respect the NO!",
+      "imageUrl": "topic:no-u-turn-sign",
+      "tags": [
+        "signs",
+        "regulatory"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_007",
+      "question": "A NO PARKING sign means you:",
+      "correctAnswer": "May stop briefly to load passengers but may not leave your car",
+      "distractors": [
+        "May park for up to 5 minutes",
+        "May park on weekends only",
+        "Must never stop here at all"
+      ],
+      "explanation": "NO PARKING means you cannot leave your vehicle unattended, though you may stop momentarily to pick up or drop off passengers.",
+      "memoryHook": "T-Rexy says: no parking means no naps for your car - keep it moving!",
+      "imageUrl": "topic:no-parking-sign",
+      "tags": [
+        "signs",
+        "regulatory",
+        "parking"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_008",
+      "question": "If you see a WRONG WAY sign, you should:",
+      "correctAnswer": "Turn around immediately and safely as soon as possible",
+      "distractors": [
+        "Continue to the next exit",
+        "Flash your headlights and keep going",
+        "Pull over and call 911 only"
+      ],
+      "explanation": "A WRONG WAY sign means you are driving against traffic. Get off the road safely at once - you are in extreme danger of a head-on collision.",
+      "memoryHook": "T-Rexy says: wrong way is VERY wrong - turn around like you forgot your phone at home!",
+      "imageUrl": "topic:wrong-way-sign",
+      "tags": [
+        "signs",
+        "regulatory"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_009",
+      "question": "A divided highway sign (two roadways separated) warns you that:",
+      "correctAnswer": "The road splits into two one-way roadways with a median between them",
+      "distractors": [
+        "The highway ends ahead",
+        "You must change lanes",
+        "Trucks use the left lane"
+      ],
+      "explanation": "Divided highway signs alert you that opposing traffic is separated by a median. Keep right and never cross the median except at designated openings.",
+      "memoryHook": "T-Rexy says: divided means split - stay on YOUR side of the split!",
+      "imageUrl": "topic:divided-highway-sign",
+      "tags": [
+        "signs",
+        "regulatory"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_010",
+      "question": "What does a NO TURN ON RED sign mean?",
+      "correctAnswer": "You must wait for a green light before turning, even after stopping",
+      "distractors": [
+        "You may turn after stopping twice",
+        "Only trucks must wait for green",
+        "You may turn on red after 10 seconds"
+      ],
+      "explanation": "Normally you may turn right on red after a complete stop. This sign removes that option at this intersection - no turning at all until the light turns green.",
+      "memoryHook": "T-Rexy says: no turn on red means your turn waits - patience, driver!",
+      "imageUrl": "topic:no-turn-on-red-sign",
+      "tags": [
+        "signs",
+        "regulatory",
+        "signals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_011",
+      "question": "A KEEP RIGHT sign tells drivers to:",
+      "correctAnswer": "Stay to the right of a divider, island, or obstruction",
+      "distractors": [
+        "Drive only in the right lane",
+        "Move right for faster traffic",
+        "Exit the highway"
+      ],
+      "explanation": "KEEP RIGHT signs are placed at traffic islands and dividers. Pass on the right side of the obstruction.",
+      "memoryHook": "T-Rexy says: keep right - the sign is literally pointing you right!",
+      "imageUrl": "topic:keep-right-sign",
+      "tags": [
+        "signs",
+        "regulatory"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_012",
+      "question": "What does a DO NOT PASS sign indicate?",
+      "correctAnswer": "Passing other vehicles is prohibited in this zone",
+      "distractors": [
+        "You must not stop here",
+        "Trucks may not use this lane",
+        "The road is closed"
+      ],
+      "explanation": "DO NOT PASS marks zones where passing is unsafe, such as near hills, curves, or intersections with limited visibility.",
+      "memoryHook": "T-Rexy says: do not pass - your patience is a superpower here!",
+      "imageUrl": "topic:do-not-pass-sign",
+      "tags": [
+        "signs",
+        "regulatory"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_013",
+      "question": "A railroad crossbuck (the X-shaped sign at tracks) means:",
+      "correctAnswer": "Yield to trains - a train may be approaching",
+      "distractors": [
+        "Stop only at night",
+        "Trains stop for cars here",
+        "The crossing is closed"
+      ],
+      "explanation": "The crossbuck is the basic railroad crossing sign. Treat it like a yield sign: look, listen, and give trains the right-of-way.",
+      "memoryHook": "T-Rexy says: the X marks the tracks - trains ALWAYS win a tie!",
+      "imageUrl": "topic:railroad-crossbuck",
+      "tags": [
+        "signs",
+        "regulatory",
+        "railroad"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_014",
+      "question": "A STOP HERE ON RED sign with a white stop line tells you:",
+      "correctAnswer": "Stop your vehicle before the white line, not in the crosswalk",
+      "distractors": [
+        "Stop only if pedestrians are present",
+        "Roll slowly past the line",
+        "Stop after the line"
+      ],
+      "explanation": "You must stop before the stop line so you do not block the crosswalk or intersection. The line marks the legal stopping point.",
+      "memoryHook": "T-Rexy says: stop BEFORE the line - the line is the boss!",
+      "imageUrl": "topic:stop-here-on-red",
+      "tags": [
+        "signs",
+        "regulatory",
+        "signals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_015",
+      "question": "A diamond-shaped marking painted on a lane (and matching signs) designates:",
+      "correctAnswer": "An HOV (carpool) lane for vehicles with 2 or more occupants",
+      "distractors": [
+        "A bicycle-only lane",
+        "A truck lane",
+        "A lane for emergency vehicles only"
+      ],
+      "explanation": "In Arizona, diamond symbols mark HOV lanes, generally for vehicles carrying two or more people during posted hours.",
+      "memoryHook": "T-Rexy says: diamonds are a carpooler's best friend - bring a buddy!",
+      "imageUrl": "topic:hov-lane-sign",
+      "tags": [
+        "signs",
+        "regulatory",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_016",
+      "question": "Diamond-shaped yellow signs are:",
+      "correctAnswer": "Warning signs that alert you to hazards ahead",
+      "distractors": [
+        "Regulatory signs showing laws",
+        "Guide signs giving directions",
+        "Construction signs"
+      ],
+      "explanation": "Yellow diamond signs warn of upcoming hazards like curves, intersections, or road conditions. Slow down and stay alert.",
+      "memoryHook": "T-Rexy says: yellow diamonds WARN you - like a caution flag at the races!",
+      "imageUrl": "topic:warning-sign-shape",
+      "tags": [
+        "signs",
+        "warning"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_017",
+      "question": "What shape is a school zone warning sign?",
+      "correctAnswer": "A five-sided pentagon",
+      "distractors": [
+        "A triangle",
+        "An octagon",
+        "A circle"
+      ],
+      "explanation": "School advance-warning signs are pentagons (five sides). When you see one, slow down and watch for children.",
+      "memoryHook": "T-Rexy says: five sides for school - count them on your way past!",
+      "imageUrl": "topic:school-zone-sign",
+      "tags": [
+        "signs",
+        "warning",
+        "school"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_018",
+      "question": "A yellow diamond sign showing a walking person means:",
+      "correctAnswer": "A pedestrian crossing is ahead - watch for people on foot",
+      "distractors": [
+        "Jogging is allowed on this road",
+        "A school is nearby",
+        "Hitchhiking is permitted"
+      ],
+      "explanation": "Pedestrian crossing signs warn that people may be crossing. Slow down and be ready to stop.",
+      "memoryHook": "T-Rexy says: walking person sign means real walking people - brake for feet!",
+      "imageUrl": "topic:pedestrian-crossing-sign",
+      "tags": [
+        "signs",
+        "warning"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_019",
+      "question": "A round yellow sign with a black X and the letter R means:",
+      "correctAnswer": "A railroad crossing is ahead",
+      "distractors": [
+        "A hospital zone is ahead",
+        "No right turns",
+        "A rest area is ahead"
+      ],
+      "explanation": "The round yellow advance sign warns of a railroad crossing ahead. Prepare to stop if a train is coming.",
+      "memoryHook": "T-Rexy says: round yellow X means choo-choo is near - ears open!",
+      "imageUrl": "topic:railroad-warning-sign",
+      "tags": [
+        "signs",
+        "warning",
+        "railroad"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_020",
+      "question": "A MERGE sign (two lanes becoming one) tells you to:",
+      "correctAnswer": "Adjust speed and blend smoothly with traffic in the continuing lane",
+      "distractors": [
+        "Stop before merging",
+        "Speed up to pass everyone",
+        "Move to the shoulder"
+      ],
+      "explanation": "Merging requires matching the speed of traffic and finding a safe gap. Drivers in the through lane should make room when possible.",
+      "memoryHook": "T-Rexy says: merging is like joining a dance - match the rhythm, don't step on toes!",
+      "imageUrl": "topic:merge-sign",
+      "tags": [
+        "signs",
+        "warning"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_021",
+      "question": "A SLIPPERY WHEN WET sign warns that:",
+      "correctAnswer": "The road surface becomes dangerously slick in rain",
+      "distractors": [
+        "You must wash your car",
+        "Flooding is guaranteed",
+        "Only wet tires may use the road"
+      ],
+      "explanation": "Oil and dust make Arizona roads especially slick during the first minutes of rain. Slow down and increase following distance.",
+      "memoryHook": "T-Rexy says: wet roads are slippery - Arizona rain plus oil equals ice-like slick!",
+      "imageUrl": "topic:slippery-when-wet-sign",
+      "tags": [
+        "signs",
+        "warning",
+        "weather"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_022",
+      "question": "A yellow diamond sign with a leaping deer means:",
+      "correctAnswer": "Wildlife may cross the road here",
+      "distractors": [
+        "Hunting is allowed here",
+        "A zoo is nearby",
+        "Deer must yield to cars"
+      ],
+      "explanation": "Animal crossing signs mark areas where wildlife frequently crosses. Scan the roadside, especially at dawn and dusk.",
+      "memoryHook": "T-Rexy says: leaping deer sign means Bambi might dash out - eyes up!",
+      "imageUrl": "topic:deer-crossing-sign",
+      "tags": [
+        "signs",
+        "warning"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_023",
+      "question": "What does a sharp turn (hairpin curve) warning sign tell you?",
+      "correctAnswer": "Slow down significantly - a very sharp curve is ahead",
+      "distractors": [
+        "The road ends",
+        "Make a U-turn",
+        "Trucks must stop"
+      ],
+      "explanation": "Hairpin curve signs warn of an extremely sharp bend. Reduce speed well before the curve, not during it.",
+      "memoryHook": "T-Rexy says: hairpin ahead - slow down BEFORE the curve, not in it!",
+      "imageUrl": "topic:sharp-turn-sign",
+      "tags": [
+        "signs",
+        "warning"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_024",
+      "question": "A DIVIDED HIGHWAY ENDS sign means:",
+      "correctAnswer": "The median is ending and two-way traffic will be undivided ahead",
+      "distractors": [
+        "The road is closed",
+        "You must exit now",
+        "A new highway begins"
+      ],
+      "explanation": "When the divided highway ends, opposing traffic will be directly beside you with no median. Stay alert and centered in your lane.",
+      "memoryHook": "T-Rexy says: the median is ending - oncoming traffic is about to get closer!",
+      "imageUrl": "topic:divided-highway-ends-sign",
+      "tags": [
+        "signs",
+        "warning"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_025",
+      "question": "A LOW CLEARANCE sign (such as 12' 6\") warns:",
+      "correctAnswer": "Tall vehicles that the overhead clearance is limited",
+      "distractors": [
+        "Cars to drive faster",
+        "The road is narrowing",
+        "A tunnel is ahead"
+      ],
+      "explanation": "Low clearance signs matter most for trucks, RVs, and vehicles with roof loads. Know your vehicle's height.",
+      "memoryHook": "T-Rexy says: know your height - bridges don't move for tall trucks!",
+      "imageUrl": "topic:low-clearance-sign",
+      "tags": [
+        "signs",
+        "warning"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_026",
+      "question": "A yellow diamond sign showing a bicycle means:",
+      "correctAnswer": "A bicycle crossing or bike lane is ahead - share the road",
+      "distractors": [
+        "Bicycles are prohibited",
+        "A bike shop is nearby",
+        "Motorcycles only"
+      ],
+      "explanation": "Bicycle warning signs remind drivers that cyclists may be present. Give them space and pass with at least 3 feet of clearance in Arizona.",
+      "memoryHook": "T-Rexy says: bike sign means share the road - cyclists are traffic too!",
+      "imageUrl": "topic:bicycle-warning-sign",
+      "tags": [
+        "signs",
+        "warning",
+        "bicycles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_027",
+      "question": "Orange diamond signs indicate:",
+      "correctAnswer": "Construction or work zones with possible lane changes and workers",
+      "distractors": [
+        "Scenic viewpoints",
+        "Detour routes only",
+        "Toll roads"
+      ],
+      "explanation": "Orange is the color of construction zones. Slow down, follow flagger directions, and expect fines to double for violations.",
+      "memoryHook": "T-Rexy says: orange means construction - slow down, workers are someone's family!",
+      "imageUrl": "topic:construction-sign",
+      "tags": [
+        "signs",
+        "warning",
+        "work-zone"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_028",
+      "question": "A steady red traffic light means:",
+      "correctAnswer": "Stop completely and wait for green",
+      "distractors": [
+        "Slow down and proceed",
+        "Stop, then go if clear",
+        "Yield to the left"
+      ],
+      "explanation": "A steady red light requires a full stop. Remain stopped until the light turns green, unless a sign says otherwise.",
+      "memoryHook": "T-Rexy says: red means STOP, full stop - no rolling!",
+      "imageUrl": "topic:red-light",
+      "tags": [
+        "signals",
+        "right-of-way"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_029",
+      "question": "When may you turn right on a steady red light in Arizona?",
+      "correctAnswer": "After coming to a complete stop and yielding, unless a sign prohibits it",
+      "distractors": [
+        "Never - it is always illegal",
+        "Without stopping if no cars are coming",
+        "Only between midnight and 5 AM"
+      ],
+      "explanation": "Right turn on red is legal in Arizona after a full stop and yielding to traffic and pedestrians, unless a NO TURN ON RED sign is posted.",
+      "memoryHook": "T-Rexy says: red light right turn: stop first, look, then go - like a stop sign!",
+      "imageUrl": "topic:right-on-red",
+      "tags": [
+        "signals",
+        "right-of-way"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_030",
+      "question": "A steady yellow traffic light means:",
+      "correctAnswer": "The light is about to turn red - stop if you can do so safely",
+      "distractors": [
+        "Speed up to beat the red",
+        "The light is broken",
+        "Pedestrians may cross"
+      ],
+      "explanation": "Yellow warns the signal is changing to red. Stop if you can safely; if you are too close to stop safely, proceed through carefully.",
+      "memoryHook": "T-Rexy says: yellow means prepare to stop - not floor it!",
+      "imageUrl": "topic:yellow-light",
+      "tags": [
+        "signals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_031",
+      "question": "A flashing red traffic light means:",
+      "correctAnswer": "Stop completely, then proceed when safe - like a stop sign",
+      "distractors": [
+        "Slow down but do not stop",
+        "The signal is broken - ignore it",
+        "Stop only at night"
+      ],
+      "explanation": "Treat a flashing red light exactly like a stop sign: stop fully, yield to traffic with the right-of-way, then go.",
+      "memoryHook": "T-Rexy says: flashing red is a stop sign in disguise!",
+      "imageUrl": "topic:flashing-red-light",
+      "tags": [
+        "signals",
+        "right-of-way"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_032",
+      "question": "A flashing yellow traffic light means:",
+      "correctAnswer": "Proceed with caution - you have the right-of-way but stay alert",
+      "distractors": [
+        "Stop completely",
+        "Speed up",
+        "The intersection is closed"
+      ],
+      "explanation": "Flashing yellow means proceed carefully without stopping, but watch for cross traffic that may have a flashing red or stop sign.",
+      "memoryHook": "T-Rexy says: flashing yellow means cruise with caution - eyes wide open!",
+      "imageUrl": "topic:flashing-yellow-light",
+      "tags": [
+        "signals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_033",
+      "question": "If you face a green arrow together with a red light, you may:",
+      "correctAnswer": "Turn in the direction of the arrow without stopping",
+      "distractors": [
+        "Go straight ahead",
+        "Turn in any direction",
+        "Stop and wait for full green"
+      ],
+      "explanation": "A green arrow gives you a protected turn in the arrow's direction. Other movements must still wait for green.",
+      "memoryHook": "T-Rexy says: green arrow is your VIP pass - turn that way, no stop needed!",
+      "imageUrl": "topic:green-arrow",
+      "tags": [
+        "signals",
+        "right-of-way"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_034",
+      "question": "At a four-way stop, who goes first?",
+      "correctAnswer": "The vehicle that arrived first",
+      "distractors": [
+        "The biggest vehicle",
+        "The vehicle turning left",
+        "The vehicle on the left"
+      ],
+      "explanation": "Arrival order decides it - whoever completes their stop first goes first. If you cannot tell who was first, wave the other driver through: courtesy prevents the both-go-at-once crash.",
+      "memoryHook": "T-Rexy says: first come, first served - four-way stops are polite democracy!",
+      "imageUrl": "topic:four-way-stop",
+      "tags": [
+        "signals",
+        "right-of-way"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_035",
+      "question": "At a four-way stop, if two vehicles arrive at the same time, who yields?",
+      "correctAnswer": "The driver on the left yields to the driver on the right",
+      "distractors": [
+        "Both go at the same time",
+        "The driver going straight always goes first",
+        "Trucks go first"
+      ],
+      "explanation": "When arrival is simultaneous, yield to the vehicle on your right. When in doubt, let the other driver go first.",
+      "memoryHook": "T-Rexy says: tie at a four-way? Yield to the RIGHT - right is right!",
+      "imageUrl": "topic:four-way-stop-tie",
+      "tags": [
+        "signals",
+        "right-of-way"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_036",
+      "question": "When entering a roundabout, you must:",
+      "correctAnswer": "Yield to traffic already circulating in the roundabout",
+      "distractors": [
+        "Stop every time before entering",
+        "Enter without looking",
+        "Drive clockwise"
+      ],
+      "explanation": "Roundabouts flow counterclockwise. Yield to vehicles already in the circle, enter to the right, and exit from the right lane.",
+      "memoryHook": "T-Rexy says: roundabout rule: those INSIDE own the circle - yield to them!",
+      "imageUrl": "topic:roundabout",
+      "tags": [
+        "signals",
+        "right-of-way"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_037",
+      "question": "When turning left at an intersection, you must yield to:",
+      "correctAnswer": "Oncoming traffic and pedestrians",
+      "distractors": [
+        "Vehicles behind you",
+        "Only trucks",
+        "No one - left turns have priority"
+      ],
+      "explanation": "Left turns cross the path of oncoming traffic. Yield until the way is clear, and watch for pedestrians in the crosswalk.",
+      "memoryHook": "T-Rexy says: left turners wait - oncoming traffic goes first!",
+      "imageUrl": "topic:left-turn-yield",
+      "tags": [
+        "signals",
+        "right-of-way"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_038",
+      "question": "Who has the right-of-way at a crosswalk?",
+      "correctAnswer": "Pedestrians - drivers must yield whether the crosswalk is marked or not",
+      "distractors": [
+        "Drivers, unless the light is red",
+        "Bicyclists only",
+        "Whoever is faster"
+      ],
+      "explanation": "In Arizona, drivers must yield to pedestrians in any crosswalk, marked or unmarked. Every intersection is legally a crosswalk.",
+      "memoryHook": "T-Rexy says: feet beat wheels at crosswalks - pedestrians always win!",
+      "imageUrl": "topic:pedestrian-right-of-way",
+      "tags": [
+        "signals",
+        "right-of-way",
+        "pedestrians"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_039",
+      "question": "When entering a road from a driveway, alley, or parking lot, you must:",
+      "correctAnswer": "Yield to traffic and pedestrians already on the road or sidewalk",
+      "distractors": [
+        "Enter quickly to avoid blocking",
+        "Honk before entering",
+        "Only yield to trucks"
+      ],
+      "explanation": "Vehicles entering from driveways or alleys must yield to everyone already on the roadway, including people on the sidewalk.",
+      "memoryHook": "T-Rexy says: driveways are the minor leagues - the main road has priority!",
+      "imageUrl": "topic:driveway-entry",
+      "tags": [
+        "signals",
+        "right-of-way"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_040",
+      "question": "When an emergency vehicle with flashing lights and siren approaches, you should:",
+      "correctAnswer": "Pull to the right edge of the road and stop until it passes",
+      "distractors": [
+        "Speed up to stay ahead of it",
+        "Stop in your lane",
+        "Follow closely behind it"
+      ],
+      "explanation": "Move right and stop to let emergency vehicles pass. Never follow within 500 feet of a responding fire truck.",
+      "memoryHook": "T-Rexy says: lights and sirens mean MOVE RIGHT - lives depend on it!",
+      "imageUrl": "topic:emergency-vehicle",
+      "tags": [
+        "signals",
+        "right-of-way",
+        "emergency"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_041",
+      "question": "At an intersection with no signs or signals, who yields?",
+      "correctAnswer": "Yield to the vehicle on your right",
+      "distractors": [
+        "The vehicle going straight always stops",
+        "Larger vehicles go first",
+        "Motorcycles always yield"
+      ],
+      "explanation": "At uncontrolled intersections, the driver on the left yields to the driver on the right. Slow down and be prepared to stop.",
+      "memoryHook": "T-Rexy says: no signs? Look RIGHT - yield to whoever is there!",
+      "imageUrl": "topic:uncontrolled-intersection",
+      "tags": [
+        "signals",
+        "right-of-way"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_042",
+      "question": "You must not cut through or disrupt:",
+      "correctAnswer": "A funeral procession",
+      "distractors": [
+        "A line of parked cars",
+        "A school zone",
+        "A car wash line"
+      ],
+      "explanation": "It is illegal and disrespectful to cut into or through a funeral procession. Yield to processions and do not separate the vehicles.",
+      "memoryHook": "T-Rexy says: funeral processions get respect - never cut through!",
+      "imageUrl": "topic:funeral-procession",
+      "tags": [
+        "signals",
+        "right-of-way"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_043",
+      "question": "Unless otherwise posted, the speed limit in Arizona residential and business districts is:",
+      "correctAnswer": "25 mph",
+      "distractors": [
+        "15 mph",
+        "35 mph",
+        "45 mph"
+      ],
+      "explanation": "Arizona's default speed limit is 25 mph in residential and business districts. Always watch for posted signs that may differ.",
+      "memoryHook": "T-Rexy says: 25 in neighborhoods - kids and pets live there!",
+      "imageUrl": "topic:speed-limit-residential",
+      "tags": [
+        "speed",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_044",
+      "question": "The speed limit in a school zone in Arizona is:",
+      "correctAnswer": "15 mph",
+      "distractors": [
+        "10 mph",
+        "20 mph",
+        "25 mph"
+      ],
+      "explanation": "School zones are 15 mph in Arizona when children are present or when lights are flashing. Slow down and watch carefully.",
+      "memoryHook": "T-Rexy says: 15 near schools - children are unpredictable, your speed shouldn't be!",
+      "imageUrl": "topic:speed-limit-school",
+      "tags": [
+        "speed",
+        "school",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_045",
+      "question": "Unless otherwise posted, the maximum speed on Arizona highways is:",
+      "correctAnswer": "65 mph",
+      "distractors": [
+        "55 mph",
+        "75 mph",
+        "85 mph"
+      ],
+      "explanation": "Arizona's statutory maximum is 65 mph on highways unless a different limit is posted. Many rural interstates are posted at 75 mph.",
+      "memoryHook": "T-Rexy says: 65 is the default max - posted signs can change it!",
+      "imageUrl": "topic:speed-limit-highway",
+      "tags": [
+        "speed",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_046",
+      "question": "When roads are wet or dusty, you should:",
+      "correctAnswer": "Reduce your speed below the posted limit",
+      "distractors": [
+        "Drive the posted limit no matter what",
+        "Speed up to get through quickly",
+        "Use cruise control"
+      ],
+      "explanation": "Posted limits are for ideal conditions. Slow down in rain, dust, or low visibility - the basic speed law requires a safe speed for conditions.",
+      "memoryHook": "T-Rexy says: bad weather means slow down - the sign's number is for sunny days!",
+      "imageUrl": "topic:speed-conditions",
+      "tags": [
+        "speed",
+        "defensive",
+        "weather"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_047",
+      "question": "In an HOV (carpool) lane, the speed limit is:",
+      "correctAnswer": "The same as the posted speed limit for the highway",
+      "distractors": [
+        "10 mph faster than other lanes",
+        "10 mph slower than other lanes",
+        "There is no speed limit in HOV lanes"
+      ],
+      "explanation": "The diamond changes WHO may use the lane, not how fast anyone may drive. The speed limit sign sets the limit for the HOV lane too - carpooling buys you a clearer lane, not a higher limit.",
+      "memoryHook": "T-Rexy says: HOV saves time, not speed limits - same rules apply!",
+      "imageUrl": "topic:hov-speed",
+      "tags": [
+        "speed",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_048",
+      "question": "When must you obey a 15 mph school zone speed limit?",
+      "correctAnswer": "When children are present or warning lights are flashing",
+      "distractors": [
+        "Only on school days at 8 AM",
+        "At all times, day and night",
+        "Only when a crossing guard is visible"
+      ],
+      "explanation": "The 15 mph limit is not in force 24/7 - it switches on when children are coming or going, which is exactly what the flashing beacons announce. Outside those times the regular posted limit applies, but stay alert near schools anyway.",
+      "memoryHook": "T-Rexy says: kids present or lights flashing means 15 - no excuses!",
+      "imageUrl": "topic:school-zone-when",
+      "tags": [
+        "speed",
+        "school",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_049",
+      "question": "Fines for speeding in a work (construction) zone are:",
+      "correctAnswer": "Doubled",
+      "distractors": [
+        "The same as normal",
+        "Halved",
+        "Only warnings are given"
+      ],
+      "explanation": "A violation that costs $100 elsewhere costs $200 in a work zone - Arizona doubles fines to protect workers standing feet from live traffic, and the doubling applies even when you cannot see a crew at that moment.",
+      "memoryHook": "T-Rexy says: work zone fines DOUBLE - slow down, it is cheaper and safer!",
+      "imageUrl": "topic:work-zone-fines",
+      "tags": [
+        "speed",
+        "work-zone"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_050",
+      "question": "Arizona's basic speed law requires you to:",
+      "correctAnswer": "Never drive faster than is safe for current conditions",
+      "distractors": [
+        "Always drive the posted limit",
+        "Drive 5 mph under the limit",
+        "Match the fastest car"
+      ],
+      "explanation": "Even at or below the posted limit, you can be cited for driving too fast for conditions like rain, dust, or heavy traffic.",
+      "memoryHook": "T-Rexy says: the basic speed law: safe beats legal - conditions rule!",
+      "imageUrl": "topic:basic-speed-law",
+      "tags": [
+        "speed",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_051",
+      "question": "When parallel parking, your wheels must be within what distance of the curb?",
+      "correctAnswer": "12 inches",
+      "distractors": [
+        "6 inches",
+        "24 inches",
+        "36 inches"
+      ],
+      "explanation": "Picture one standard ruler: if the gap between your tires and the curb is wider than 12 inches, you are parked too far into the lane and can be cited under A.R.S. 28-874. (Note: some states allow 18 inches - Arizona does not.)",
+      "memoryHook": "T-Rexy says: 12 inches from the curb - about one shoe length!",
+      "imageUrl": "topic:parking-curb-distance",
+      "tags": [
+        "parking"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_052",
+      "question": "You may not park within what distance of a fire hydrant?",
+      "correctAnswer": "15 feet",
+      "distractors": [
+        "5 feet",
+        "10 feet",
+        "25 feet"
+      ],
+      "explanation": "Keep 15 feet clear of fire hydrants so firefighters can connect hoses in an emergency.",
+      "memoryHook": "T-Rexy says: 15 feet from hydrants - firefighters need room to save lives!",
+      "imageUrl": "topic:parking-hydrant",
+      "tags": [
+        "parking"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_053",
+      "question": "You may not park within what distance of a crosswalk?",
+      "correctAnswer": "20 feet",
+      "distractors": [
+        "10 feet",
+        "5 feet",
+        "30 feet"
+      ],
+      "explanation": "Parking too close to a crosswalk blocks drivers' view of pedestrians. Arizona requires 20 feet of clearance.",
+      "memoryHook": "T-Rexy says: 20 feet from crosswalks - don't block the view of walkers!",
+      "imageUrl": "topic:parking-crosswalk",
+      "tags": [
+        "parking"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_054",
+      "question": "You may not park within what distance of a stop sign or traffic signal?",
+      "correctAnswer": "30 feet",
+      "distractors": [
+        "15 feet",
+        "50 feet",
+        "10 feet"
+      ],
+      "explanation": "Arizona prohibits parking within 30 feet of a stop sign, yield sign, or traffic signal so they remain visible.",
+      "memoryHook": "T-Rexy says: 30 feet from signs and signals - keep them visible!",
+      "imageUrl": "topic:parking-sign",
+      "tags": [
+        "parking"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_055",
+      "question": "Is it legal to park in front of a private driveway?",
+      "correctAnswer": "No - never block a driveway",
+      "distractors": [
+        "Yes, for up to 10 minutes",
+        "Yes, on weekends",
+        "Yes, if your hazards are on"
+      ],
+      "explanation": "Blocking a driveway is illegal at all times. Driveways must remain clear for vehicles entering and exiting.",
+      "memoryHook": "T-Rexy says: driveways are exits, not parking spots - never block them!",
+      "imageUrl": "topic:parking-driveway",
+      "tags": [
+        "parking"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_056",
+      "question": "Who may park in a space marked with the wheelchair symbol?",
+      "correctAnswer": "Only vehicles displaying a valid disabled placard or plate",
+      "distractors": [
+        "Anyone for under 5 minutes",
+        "Motorcycles",
+        "Delivery trucks"
+      ],
+      "explanation": "Disabled parking spaces are reserved for people with disabilities displaying proper placards or plates. Violations carry heavy fines.",
+      "memoryHook": "T-Rexy says: blue wheelchair spaces are reserved - need the placard to park there!",
+      "imageUrl": "topic:disabled-parking",
+      "tags": [
+        "parking"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_057",
+      "question": "When parking downhill next to a curb, turn your front wheels:",
+      "correctAnswer": "Toward the curb",
+      "distractors": [
+        "Away from the curb",
+        "Straight ahead",
+        "It does not matter"
+      ],
+      "explanation": "Turning wheels toward the curb downhill means if the brakes fail, the car rolls into the curb instead of traffic.",
+      "memoryHook": "T-Rexy says: downhill: wheels TO the curb - let the curb catch you!",
+      "imageUrl": "topic:parking-hill-down",
+      "tags": [
+        "parking"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_058",
+      "question": "When parking uphill next to a curb, turn your front wheels:",
+      "correctAnswer": "Away from the curb",
+      "distractors": [
+        "Toward the curb",
+        "Straight ahead",
+        "It does not matter"
+      ],
+      "explanation": "Uphill with a curb, turn wheels away so the back of the tire catches the curb if the car rolls backward.",
+      "memoryHook": "T-Rexy says: uphill: wheels AWAY from curb - the curb is your safety net!",
+      "imageUrl": "topic:parking-hill-up",
+      "tags": [
+        "parking"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_059",
+      "question": "In Arizona, it is illegal for a driver age 21 or older to drive with a BAC of:",
+      "correctAnswer": "0.08% or higher",
+      "distractors": [
+        "0.10% or higher",
+        "0.05% or higher",
+        "Any detectable amount"
+      ],
+      "explanation": "'Per se' means the number itself is the crime: at 0.08% the state does not have to prove you felt drunk. And you can still be charged below 0.08 if an officer observes impairment - many drivers are dangerous well under the line.",
+      "memoryHook": "T-Rexy says: 0.08 is the line - cross it and you are DUI!",
+      "imageUrl": "topic:bac-limit",
+      "tags": [
+        "dui",
+        "alcohol",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_060",
+      "question": "For drivers under age 21, Arizona's BAC limit is:",
+      "correctAnswer": "0.00% - zero tolerance",
+      "distractors": [
+        "0.08%",
+        "0.02%",
+        "0.05%"
+      ],
+      "explanation": "Arizona has zero tolerance for underage drinking and driving. Any measurable alcohol can lead to DUI charges.",
+      "memoryHook": "T-Rexy says: under 21 means ZERO alcohol - not a drop!",
+      "imageUrl": "topic:bac-under-21",
+      "tags": [
+        "dui",
+        "alcohol",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_061",
+      "question": "Under Arizona's implied consent law, refusing a chemical BAC test after a DUI arrest results in:",
+      "correctAnswer": "Automatic 12-month driver license suspension",
+      "distractors": [
+        "No penalty at all",
+        "A $50 fine only",
+        "A warning"
+      ],
+      "explanation": "By driving in Arizona you have already consented to testing. A first refusal brings an automatic 12-month license suspension.",
+      "memoryHook": "T-Rexy says: refuse the test, lose the license for a YEAR - implied consent!",
+      "imageUrl": "topic:implied-consent",
+      "tags": [
+        "dui",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_062",
+      "question": "In Arizona, an Extreme DUI is charged at a BAC of:",
+      "correctAnswer": "0.15% or higher",
+      "distractors": [
+        "0.10% or higher",
+        "0.12% or higher",
+        "0.20% or higher"
+      ],
+      "explanation": "Extreme DUI (0.15%+) carries a mandatory minimum 30 days in jail on a first offense, much harsher than standard DUI.",
+      "memoryHook": "T-Rexy says: 0.15 is EXTREME - 30 days in jail minimum!",
+      "imageUrl": "topic:extreme-dui",
+      "tags": [
+        "dui",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_063",
+      "question": "A Super Extreme DUI in Arizona applies at a BAC of:",
+      "correctAnswer": "0.20% or higher",
+      "distractors": [
+        "0.18% or higher",
+        "0.15% or higher",
+        "0.25% or higher"
+      ],
+      "explanation": "Super Extreme DUI (0.20%+) is Arizona's highest misdemeanor DUI tier, with at least 45 days jail on a first offense.",
+      "memoryHook": "T-Rexy says: 0.20 is SUPER extreme - the penalties are super-sized too!",
+      "imageUrl": "topic:super-extreme-dui",
+      "tags": [
+        "dui",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_064",
+      "question": "A first standard DUI conviction in Arizona results in a license suspension of:",
+      "correctAnswer": "90 days",
+      "distractors": [
+        "30 days",
+        "1 year",
+        "No suspension"
+      ],
+      "explanation": "A first DUI brings a 90-day MVD suspension: 30 days of no driving, then 60 days restricted driving.",
+      "memoryHook": "T-Rexy says: first DUI means 90 days of license trouble - 30 with zero driving!",
+      "imageUrl": "topic:dui-suspension",
+      "tags": [
+        "dui",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_065",
+      "question": "What is the ONLY thing that can sober you up after drinking?",
+      "correctAnswer": "Time",
+      "distractors": [
+        "Strong coffee",
+        "Cold air",
+        "Exercise"
+      ],
+      "explanation": "Only time removes alcohol from your system - about one hour per standard drink. Coffee and cold air just make a wide-awake drunk driver.",
+      "memoryHook": "T-Rexy says: only TIME sobers you up - coffee just makes you a jittery drunk driver!",
+      "imageUrl": "topic:sobering-up",
+      "tags": [
+        "dui",
+        "alcohol"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_066",
+      "question": "In Arizona, having an open container of alcohol in a vehicle is:",
+      "correctAnswer": "Illegal for both drivers and passengers",
+      "distractors": [
+        "Legal for passengers only",
+        "Legal if the driver is sober",
+        "Legal on highways only"
+      ],
+      "explanation": "Arizona prohibits open containers of alcohol in the passenger area for everyone in the vehicle, driver and passengers alike.",
+      "memoryHook": "T-Rexy says: open containers are a NO for everyone in the car!",
+      "imageUrl": "topic:open-container",
+      "tags": [
+        "dui",
+        "alcohol",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_067",
+      "question": "Can prescription or over-the-counter drugs lead to a DUI?",
+      "correctAnswer": "Yes - any drug that impairs driving can lead to DUI",
+      "distractors": [
+        "No - only alcohol counts",
+        "Only illegal drugs count",
+        "Only if mixed with alcohol"
+      ],
+      "explanation": "Arizona DUI law covers impairment by any drug, including legal prescriptions and over-the-counter medicines. Read labels for driving warnings.",
+      "memoryHook": "T-Rexy says: legal pills can still mean illegal driving - check the label!",
+      "imageUrl": "topic:drugged-driving",
+      "tags": [
+        "dui"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_068",
+      "question": "The safest choice if you plan to drink alcohol is to:",
+      "correctAnswer": "Arrange a designated sober driver or alternate ride in advance",
+      "distractors": [
+        "Drive slowly on back roads",
+        "Drink coffee before driving",
+        "Roll down the windows"
+      ],
+      "explanation": "Plan ahead: a sober driver, rideshare, or taxi. There is no safe way to drive after drinking.",
+      "memoryHook": "T-Rexy says: plan the ride BEFORE the drink - designated drivers are heroes!",
+      "imageUrl": "topic:designated-driver",
+      "tags": [
+        "dui",
+        "alcohol"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_069",
+      "question": "After most first-offense DUI convictions in Arizona, drivers must install:",
+      "correctAnswer": "An ignition interlock device for 12 months",
+      "distractors": [
+        "A speed governor",
+        "A dashboard camera",
+        "Nothing - just pay the fine"
+      ],
+      "explanation": "Arizona requires an ignition interlock device (a breath-test starter lock) for 12 months after most first DUI convictions.",
+      "memoryHook": "T-Rexy says: DUI means blowing into a tube to start your car for a YEAR!",
+      "imageUrl": "topic:ignition-interlock",
+      "tags": [
+        "dui",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_070",
+      "question": "The BAC limit for commercial vehicle drivers in Arizona is:",
+      "correctAnswer": "0.04%",
+      "distractors": [
+        "0.08%",
+        "0.02%",
+        "0.00%"
+      ],
+      "explanation": "Commercial drivers face a stricter 0.04% limit because of the size and danger of their vehicles.",
+      "memoryHook": "T-Rexy says: big rig, small limit - 0.04 for commercial drivers!",
+      "imageUrl": "topic:bac-commercial",
+      "tags": [
+        "dui",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_071",
+      "question": "In Arizona, who is legally required to wear a seat belt in the front seat?",
+      "correctAnswer": "Every front-seat occupant",
+      "distractors": [
+        "Only the driver",
+        "Only passengers",
+        "No one - it is optional"
+      ],
+      "explanation": "Arizona law requires all front-seat occupants, driver and passengers, to be buckled while the vehicle is moving.",
+      "memoryHook": "T-Rexy says: front seat means buckle up - EVERYONE up front!",
+      "imageUrl": "topic:seat-belt-front",
+      "tags": [
+        "safety",
+        "seat-belt",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_072",
+      "question": "Arizona's seat belt law for adults is secondary enforcement, which means:",
+      "correctAnswer": "An officer cannot stop you for a seat belt violation alone",
+      "distractors": [
+        "Seat belts are optional",
+        "The fine is over $500",
+        "It applies only on highways"
+      ],
+      "explanation": "For adults, officers may only cite a seat belt violation after stopping you for another offense. The fine is a maximum of $10.",
+      "memoryHook": "T-Rexy says: secondary means they need ANOTHER reason to stop you first!",
+      "imageUrl": "topic:seat-belt-enforcement",
+      "tags": [
+        "safety",
+        "seat-belt",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_073",
+      "question": "Passengers under age 16 in Arizona must wear seat belts:",
+      "correctAnswer": "In every seating position, front and back",
+      "distractors": [
+        "Only in the front seat",
+        "Only on highways",
+        "Only if the driver asks"
+      ],
+      "explanation": "Arizona requires every passenger under 16 to be buckled in all seats. Adults 16+ in the back seat are not legally required, though it is far safer.",
+      "memoryHook": "T-Rexy says: under 16 means buckled EVERYWHERE in the car!",
+      "imageUrl": "topic:seat-belt-minors",
+      "tags": [
+        "safety",
+        "seat-belt",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_074",
+      "question": "In Arizona, a child under age 5 must ride in:",
+      "correctAnswer": "A federally approved child restraint system",
+      "distractors": [
+        "The front seat",
+        "An adult's lap",
+        "Any seat with a seat belt"
+      ],
+      "explanation": "Children under 5 must be in a proper child restraint (car seat or booster meeting federal standards).",
+      "memoryHook": "T-Rexy says: under 5 means a real car seat - laps are not restraints!",
+      "imageUrl": "topic:child-restraint",
+      "tags": [
+        "safety",
+        "child",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_075",
+      "question": "Arizona requires a booster seat until a child is:",
+      "correctAnswer": "8 years old or 4 feet 9 inches tall, whichever comes first",
+      "distractors": [
+        "12 years old",
+        "10 years old",
+        "5 years old"
+      ],
+      "explanation": "Children ages 5 through 7 who are 4'9\" or shorter must use a child restraint, usually a booster. At 8 or over 4'9\", a seat belt is legally permitted.",
+      "memoryHook": "T-Rexy says: booster until 8 or 4 foot 9 - whichever comes FIRST!",
+      "imageUrl": "topic:booster-seat",
+      "tags": [
+        "safety",
+        "child",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_076",
+      "question": "Violating Arizona's child restraint law carries:",
+      "correctAnswer": "A $50 civil penalty, and officers can stop you for it alone (primary enforcement)",
+      "distractors": [
+        "No penalty",
+        "A $10 fine",
+        "Only a warning"
+      ],
+      "explanation": "Unlike adult seat belt violations, child restraint violations are primary enforcement with a $50 penalty - officers can stop you just for this.",
+      "memoryHook": "T-Rexy says: kids unbuckled means a $50 ticket AND they can pull you over for it!",
+      "imageUrl": "topic:child-restraint-penalty",
+      "tags": [
+        "safety",
+        "child",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_077",
+      "question": "When passing a bicyclist in Arizona, you must leave at least:",
+      "correctAnswer": "3 feet of space",
+      "distractors": [
+        "1 foot of space",
+        "6 inches of space",
+        "10 feet of space"
+      ],
+      "explanation": "Arizona requires at least 3 feet of clearance when passing a bicycle. Slow down and pass only when safe.",
+      "memoryHook": "T-Rexy says: 3 feet for bikes - give cyclists their bubble!",
+      "imageUrl": "topic:bicycle-passing",
+      "tags": [
+        "sharing-road",
+        "bicycles",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_078",
+      "question": "When sharing a lane with a motorcycle, you should:",
+      "correctAnswer": "Give the motorcycle the full lane - never share or crowd it",
+      "distractors": [
+        "Share the lane side by side",
+        "Pass in the same lane",
+        "Follow very closely"
+      ],
+      "explanation": "Motorcycles are entitled to a full lane. Never try to share a lane with one, and check blind spots carefully - bikes are hard to see.",
+      "memoryHook": "T-Rexy says: motorcycles get the WHOLE lane - they are not half-vehicles!",
+      "imageUrl": "topic:motorcycle-lane",
+      "tags": [
+        "sharing-road",
+        "motorcycles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_079",
+      "question": "When a school bus stops with red lights flashing, you must:",
+      "correctAnswer": "Stop in both directions",
+      "distractors": [
+        "Slow down and pass carefully",
+        "Stop only if behind the bus",
+        "Honk and go around"
+      ],
+      "explanation": "Stop for school buses with flashing red lights from both directions to protect loading children.",
+      "memoryHook": "T-Rexy says: red flashing bus lights mean STOP - kids are crossing!",
+      "imageUrl": "topic:school-bus-stop",
+      "tags": [
+        "sharing-road",
+        "school"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_080",
+      "question": "You do NOT need to stop for a school bus with flashing red lights when:",
+      "correctAnswer": "You are on the opposite side of a divided highway with a physical barrier",
+      "distractors": [
+        "You are in a hurry",
+        "The bus is yellow",
+        "It is raining"
+      ],
+      "explanation": "On a divided roadway with a median or barrier, oncoming traffic need not stop. Otherwise, both directions must stop.",
+      "memoryHook": "T-Rexy says: divided highway with a barrier is the ONLY exception to bus stopping!",
+      "imageUrl": "topic:school-bus-divided",
+      "tags": [
+        "sharing-road",
+        "school"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_081",
+      "question": "Arizona's Move Over law requires you to:",
+      "correctAnswer": "Move over one lane or slow down for stopped emergency and work vehicles",
+      "distractors": [
+        "Stop in the lane",
+        "Speed past quickly",
+        "Change lanes only for police"
+      ],
+      "explanation": "When approaching stopped emergency, tow, or highway work vehicles with flashing lights, move over a lane or reduce speed if you cannot.",
+      "memoryHook": "T-Rexy says: move OVER or slow DOWN - protect those who protect you!",
+      "imageUrl": "topic:move-over-law",
+      "tags": [
+        "sharing-road",
+        "emergency",
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_082",
+      "question": "When you see a pedestrian with a white cane or guide dog, you must:",
+      "correctAnswer": "Always yield the right-of-way",
+      "distractors": [
+        "Honk to warn them",
+        "Proceed normally",
+        "Speed up to pass"
+      ],
+      "explanation": "Pedestrians who are blind or visually impaired always have the right-of-way. Stop and let them cross completely.",
+      "memoryHook": "T-Rexy says: white cane means STOP - always yield, no exceptions!",
+      "imageUrl": "topic:blind-pedestrian",
+      "tags": [
+        "sharing-road",
+        "pedestrians"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_083",
+      "question": "When driving near livestock or horses on the road, you should:",
+      "correctAnswer": "Slow down and never honk or rev your engine",
+      "distractors": [
+        "Speed past quickly",
+        "Honk to scare them off",
+        "Flash high beams"
+      ],
+      "explanation": "Animals spook easily. Slow down, give them space, and avoid loud noises that could cause them to bolt into traffic.",
+      "memoryHook": "T-Rexy says: horses spook at honks - quiet and slow wins!",
+      "imageUrl": "topic:livestock-road",
+      "tags": [
+        "sharing-road"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_084",
+      "question": "Large trucks have:",
+      "correctAnswer": "Much larger blind spots than cars",
+      "distractors": [
+        "Smaller blind spots than cars",
+        "No blind spots",
+        "Blind spots only at night"
+      ],
+      "explanation": "Truck blind spots (no-zones) are huge - directly in front, behind, and along both sides. If you can't see the driver's mirrors, they can't see you.",
+      "memoryHook": "T-Rexy says: if you can't see their mirrors, they can't see YOU!",
+      "imageUrl": "topic:truck-blind-spots",
+      "tags": [
+        "sharing-road",
+        "trucks"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_085",
+      "question": "You should avoid cutting in front of a large truck because:",
+      "correctAnswer": "Trucks need much longer distances to stop",
+      "distractors": [
+        "It is rude",
+        "Trucks cannot turn",
+        "Trucks always speed"
+      ],
+      "explanation": "A loaded truck at highway speed can need nearly twice the stopping distance of a car. Cutting in removes their safety cushion.",
+      "memoryHook": "T-Rexy says: trucks can't stop on a dime - don't steal their braking room!",
+      "imageUrl": "topic:truck-stopping",
+      "tags": [
+        "sharing-road",
+        "trucks"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_086",
+      "question": "When a truck is turning right, you should:",
+      "correctAnswer": "Stay back - trucks swing wide and may need both lanes",
+      "distractors": [
+        "Squeeze past on the right",
+        "Honk",
+        "Pass on the left quickly"
+      ],
+      "explanation": "Trucks make wide right turns and may swing left first. Never try to pass a turning truck on the right.",
+      "memoryHook": "T-Rexy says: wide turns need wide space - never squeeze by a turning truck!",
+      "imageUrl": "topic:truck-turning",
+      "tags": [
+        "sharing-road",
+        "trucks"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_087",
+      "question": "In good conditions, you should keep a following distance of:",
+      "correctAnswer": "3 to 4 seconds behind the vehicle ahead",
+      "distractors": [
+        "1 second",
+        "10 seconds",
+        "One car length per 10 mph only"
+      ],
+      "explanation": "A 3-4 second gap gives you time to react. Increase it in rain, dust, or when following trucks or motorcycles.",
+      "memoryHook": "T-Rexy says: 3 to 4 seconds of space - count it out: one-thousand-one...",
+      "imageUrl": "topic:following-distance",
+      "tags": [
+        "defensive",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_088",
+      "question": "Arizona requires headlights to be on:",
+      "correctAnswer": "From sunset to sunrise",
+      "distractors": [
+        "Only on rural roads",
+        "Only when it rains",
+        "24 hours a day"
+      ],
+      "explanation": "Headlights must be on from sunset to sunrise, and any time visibility is poor. They help others see you, not just you see.",
+      "memoryHook": "T-Rexy says: sunset to sunrise means LIGHTS ON - be seen!",
+      "imageUrl": "topic:headlights-when",
+      "tags": [
+        "defensive",
+        "safety",
+        "arizona"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_089",
+      "question": "You must dim your high beams when an oncoming vehicle is within:",
+      "correctAnswer": "500 feet",
+      "distractors": [
+        "100 feet",
+        "1,000 feet",
+        "50 feet"
+      ],
+      "explanation": "Dim to low beams within 500 feet of oncoming traffic (and 300 feet when following) so you don't blind other drivers.",
+      "memoryHook": "T-Rexy says: 500 feet means dim - don't blind oncoming drivers!",
+      "imageUrl": "topic:high-beams",
+      "tags": [
+        "defensive",
+        "safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_090",
+      "question": "If blinded by oncoming headlights at night, you should:",
+      "correctAnswer": "Look toward the right edge of your lane until the vehicle passes",
+      "distractors": [
+        "Close your eyes briefly",
+        "Look directly at the lights",
+        "Speed up"
+      ],
+      "explanation": "Glance at the right edge line to keep your lane position while the bright vehicle passes. Never stare into high beams.",
+      "memoryHook": "T-Rexy says: blinded? Look RIGHT at the edge line - not at the lights!",
+      "imageUrl": "topic:night-glare",
+      "tags": [
+        "defensive",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_091",
+      "question": "If your car starts to hydroplane on wet pavement, you should:",
+      "correctAnswer": "Ease off the gas and steer straight without hard braking",
+      "distractors": [
+        "Slam the brakes",
+        "Turn sharply",
+        "Shift to neutral and close your eyes"
+      ],
+      "explanation": "Hydroplaning means your tires are riding on water. Ease off the accelerator, keep the wheel straight, and avoid sudden moves until grip returns.",
+      "memoryHook": "T-Rexy says: hydroplaning? Easy off the gas, straight wheel, NO panic braking!",
+      "imageUrl": "topic:hydroplaning",
+      "tags": [
+        "defensive",
+        "emergency",
+        "weather"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_092",
+      "question": "If your brakes fail while driving, you should:",
+      "correctAnswer": "Pump the brakes, downshift, and use the parking brake gradually",
+      "distractors": [
+        "Turn off the engine immediately",
+        "Open the door and jump out",
+        "Honk continuously"
+      ],
+      "explanation": "Pump the brake pedal to build pressure, shift to a lower gear, and apply the parking brake slowly. Steer to a safe area.",
+      "memoryHook": "T-Rexy says: brakes fail? Pump, downshift, parking brake - in that order!",
+      "imageUrl": "topic:brake-failure",
+      "tags": [
+        "defensive",
+        "emergency"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_093",
+      "question": "If a tire blows out at speed, you should:",
+      "correctAnswer": "Grip the wheel firmly, ease off the gas, and slow gradually",
+      "distractors": [
+        "Brake hard immediately",
+        "Turn sharply to the shoulder",
+        "Accelerate"
+      ],
+      "explanation": "A blowout pulls the car toward the flat tire. Hold the wheel steady, ease off the gas, and brake gently once slowed.",
+      "memoryHook": "T-Rexy says: blowout? Grip tight, ease off gas - no sudden moves!",
+      "imageUrl": "topic:tire-blowout",
+      "tags": [
+        "defensive",
+        "emergency"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_094",
+      "question": "If your vehicle stalls on railroad tracks, you should:",
+      "correctAnswer": "Get everyone out immediately and move away from the tracks",
+      "distractors": [
+        "Try to restart the engine for 5 minutes",
+        "Stay in the car",
+        "Push the car alone"
+      ],
+      "explanation": "If a train is coming, abandon the vehicle at once and move away at a 45-degree angle from the tracks. Your life matters more than the car.",
+      "memoryHook": "T-Rexy says: stalled on tracks? GET OUT - cars are replaceable, you are not!",
+      "imageUrl": "topic:stalled-on-tracks",
+      "tags": [
+        "defensive",
+        "emergency",
+        "railroad"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_095",
+      "question": "If caught in an Arizona dust storm while driving, you should:",
+      "correctAnswer": "Pull completely off the roadway, turn off all lights, take your foot off the brake, and wait",
+      "distractors": [
+        "Turn on hazards and keep driving slowly",
+        "Stop in your travel lane",
+        "Speed up to get through it"
+      ],
+      "explanation": "ADOT's 'Pull Aside, Stay Alive' rule: get fully off the pavement, kill all lights (others follow taillights into crashes), foot off the brake, stay buckled.",
+      "memoryHook": "T-Rexy says: dust storm? Pull ASIDE, stay ALIVE - off road, lights OFF!",
+      "imageUrl": "topic:dust-storm",
+      "tags": [
+        "arizona",
+        "weather",
+        "emergency"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_096",
+      "question": "During a dust storm, why must you turn OFF your lights after pulling over?",
+      "correctAnswer": "Other drivers may follow your lights and crash into you",
+      "distractors": [
+        "It saves battery",
+        "It is the law to save fuel",
+        "Lights attract dust"
+      ],
+      "explanation": "In near-zero visibility, drivers instinctively follow lights. A glowing stopped car becomes a target for rear-end collisions.",
+      "memoryHook": "T-Rexy says: lights OFF in dust - glowing cars get rear-ended!",
+      "imageUrl": "topic:dust-storm-lights",
+      "tags": [
+        "arizona",
+        "weather",
+        "emergency"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_097",
+      "question": "Arizona's 'Stupid Motorist Law' means:",
+      "correctAnswer": "Drivers who go around barricades into flooded areas can be charged for rescue costs",
+      "distractors": [
+        "Speeding fines are doubled",
+        "DUI penalties increase",
+        "Parking tickets double"
+      ],
+      "explanation": "Under A.R.S. 28-910, motorists who drive around barricades into flooded roadways may be billed for their rescue. Turn around, don't drown.",
+      "memoryHook": "T-Rexy says: barricades mean TURN AROUND - or pay for your own rescue!",
+      "imageUrl": "topic:stupid-motorist-law",
+      "tags": [
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_098",
+      "question": "Arizona's hands-free driving law prohibits:",
+      "correctAnswer": "Holding a phone in your hand while driving",
+      "distractors": [
+        "Using GPS at all",
+        "Talking to passengers",
+        "Listening to the radio"
+      ],
+      "explanation": "Since 2019, Arizona drivers may not hold or support a phone with their body while driving. Use hands-free or pull over.",
+      "memoryHook": "T-Rexy says: phone in hand means ticket in hand - go hands-free!",
+      "imageUrl": "topic:hands-free-law",
+      "tags": [
+        "arizona",
+        "distracted"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_099",
+      "question": "To legally use an HOV (carpool) lane in the Phoenix area, your vehicle must have:",
+      "correctAnswer": "At least 2 occupants",
+      "distractors": [
+        "At least 4 occupants",
+        "A special permit",
+        "A hybrid engine"
+      ],
+      "explanation": "Arizona HOV lanes generally require 2 or more occupants during posted hours. Motorcycles and buses may also qualify.",
+      "memoryHook": "T-Rexy says: HOV means 2 or more - solo drivers stay out!",
+      "imageUrl": "topic:hov-occupancy",
+      "tags": [
+        "arizona"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "AZDL_100",
+      "question": "Arizona's monsoon season, bringing dust storms and flash floods, runs from:",
+      "correctAnswer": "Mid-June through September",
+      "distractors": [
+        "December through February",
+        "March through May",
+        "October through November"
+      ],
+      "explanation": "The monsoon officially runs June 15 through September 30. Expect sudden dust storms, heavy rain, and flash flooding in washes.",
+      "memoryHook": "T-Rexy says: monsoon is June to September - expect dust and flash floods!",
+      "imageUrl": "topic:monsoon-season",
+      "tags": [
+        "arizona",
+        "weather"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

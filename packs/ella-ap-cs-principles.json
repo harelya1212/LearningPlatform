@@ -1,0 +1,2034 @@
+{
+  "packId": "ella-ap-cs-principles",
+  "title": "AP Computer Science Principles (11th Grade)",
+  "description": "AP Computer Science Principles (11th) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-04",
+  "tags": [
+    "computer",
+    "science",
+    "ap",
+    "11th"
+  ],
+  "questions": [
+    {
+      "id": "ECSP_001",
+      "question": "What is an algorithm?",
+      "correctAnswer": "A step-by-step set of instructions to solve a problem",
+      "distractors": [
+        "A type of computer hardware",
+        "A programming language",
+        "A kind of data file"
+      ],
+      "explanation": "An algorithm is a precise sequence of steps that solves a problem or completes a task.",
+      "memoryHook": "T-Rexy says: Algorithms are just recipes for computers!",
+      "imageUrl": "topic:algorithms",
+      "tags": [
+        "algorithms",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_002",
+      "question": "Which of these is a programming language?",
+      "correctAnswer": "Python",
+      "distractors": [
+        "HTML file",
+        "JPEG",
+        "Wi-Fi"
+      ],
+      "explanation": "Python is a programming language used to write programs; HTML is markup, JPEG is an image format, and Wi-Fi is a network technology.",
+      "memoryHook": "T-Rexy says: Python is a snake and a language!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_003",
+      "question": "What does the binary number 1010 represent in decimal?",
+      "correctAnswer": "10",
+      "distractors": [
+        "5",
+        "8",
+        "12"
+      ],
+      "explanation": "1010 in binary equals 8 + 0 + 2 + 0 = 10 in decimal.",
+      "memoryHook": "T-Rexy says: Binary counts in powers of 2!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "binary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_004",
+      "question": "Consider the following code segment.\n\nx ← 5\ny ← x + 2\nx ← 10\nDISPLAY(y)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "7",
+      "distractors": [
+        "12",
+        "10",
+        "5"
+      ],
+      "explanation": "Trace the assignments in order. x starts at 5, so y ← x + 2 stores 5 + 2 = 7 in y. The next line changes x to 10, but y already holds its own copy of the value 7 - changing x does not go back and change y. DISPLAY(y) therefore displays 7. The answer 12 comes from adding the new x to 2, and 10 is the new value of x, not y.",
+      "memoryHook": "T-Rexy says: Assignment takes a snapshot - once y copies a value, later changes to x cannot reach it!",
+      "imageUrl": "topic:variables",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "variables"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_005",
+      "question": "Which symbol is commonly used for a comment in Python?",
+      "correctAnswer": "#",
+      "distractors": [
+        "//",
+        "<!--",
+        "/*"
+      ],
+      "explanation": "In Python, the # symbol starts a comment that is ignored by the interpreter.",
+      "memoryHook": "T-Rexy says: The hash starts a Python comment!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "python"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_006",
+      "question": "What is the internet?",
+      "correctAnswer": "A global network of interconnected computers",
+      "distractors": [
+        "A single large computer",
+        "A type of software",
+        "A programming language"
+      ],
+      "explanation": "The internet is a worldwide network of networks that allows computers to communicate.",
+      "memoryHook": "T-Rexy says: The internet connects computers worldwide!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_007",
+      "question": "What does HTTP stand for?",
+      "correctAnswer": "HyperText Transfer Protocol",
+      "distractors": [
+        "High Transfer Text Process",
+        "Hyperlink Text Transmission Program",
+        "Home Tool Transfer Protocol"
+      ],
+      "explanation": "HTTP is the protocol used for transferring web pages between servers and browsers.",
+      "memoryHook": "T-Rexy says: HTTP moves web pages to your screen!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "protocols"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_008",
+      "question": "What is a loop in programming?",
+      "correctAnswer": "A structure that repeats a block of code",
+      "distractors": [
+        "A type of variable",
+        "A network connection",
+        "A file format"
+      ],
+      "explanation": "A loop repeats a set of instructions until a condition is met.",
+      "memoryHook": "T-Rexy says: Loops repeat code like a broken record!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "loops"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_009",
+      "question": "Consider the following code segment.\n\ntemp ← 85\nIF(temp > 80)\n{\n  DISPLAY(\"Hot\")\n}\nELSE\n{\n  DISPLAY(\"Cold\")\n}\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "Hot",
+      "distractors": [
+        "Cold",
+        "85",
+        "HotCold"
+      ],
+      "explanation": "The condition temp > 80 is tested with temp = 85. Since 85 > 80 is true, the program runs the block after IF and displays Hot. The ELSE block runs only when the condition is false, so Cold is never displayed - exactly one of the two blocks can run.",
+      "memoryHook": "T-Rexy says: IF/ELSE is a fork in the road - the condition picks exactly one path!",
+      "imageUrl": "topic:conditionals",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "conditionals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_010",
+      "question": "What is data?",
+      "correctAnswer": "Information that can be stored and processed",
+      "distractors": [
+        "Only numbers",
+        "Only text files",
+        "A computer program"
+      ],
+      "explanation": "Data is any information - numbers, text, images, sounds - that a computer can store and process.",
+      "memoryHook": "T-Rexy says: Data is the raw material of computing!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_011",
+      "question": "What is a byte?",
+      "correctAnswer": "8 bits",
+      "distractors": [
+        "4 bits",
+        "16 bits",
+        "1 bit"
+      ],
+      "explanation": "A byte consists of 8 bits, the basic unit of storage in computing.",
+      "memoryHook": "T-Rexy says: A byte is 8 bits!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "binary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_012",
+      "question": "What is a function in programming?",
+      "correctAnswer": "A reusable block of code that performs a specific task",
+      "distractors": [
+        "A type of data",
+        "A hardware device",
+        "A network protocol"
+      ],
+      "explanation": "A function is a named block of code that can be called to perform a task, often with inputs and outputs.",
+      "memoryHook": "T-Rexy says: Functions are reusable code machines!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "functions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_013",
+      "question": "What is debugging?",
+      "correctAnswer": "Finding and fixing errors in a program",
+      "distractors": [
+        "Deleting a program",
+        "Writing new code",
+        "Running a program faster"
+      ],
+      "explanation": "Debugging is the process of identifying and removing errors (bugs) from code.",
+      "memoryHook": "T-Rexy says: Debug the bugs, not the code!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "debugging"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_014",
+      "question": "What is a list (array) in programming?",
+      "correctAnswer": "An ordered collection of items",
+      "distractors": [
+        "A single number",
+        "A type of loop",
+        "A text file"
+      ],
+      "explanation": "A list stores multiple values in order, accessible by their position (index).",
+      "memoryHook": "T-Rexy says: Lists keep things in order!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "data-structures"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_015",
+      "question": "What does the term 'user interface' mean?",
+      "correctAnswer": "The part of a program the user interacts with",
+      "distractors": [
+        "The computer's processor",
+        "The internet connection",
+        "The power supply"
+      ],
+      "explanation": "The user interface is what users see and interact with - buttons, menus, screens.",
+      "memoryHook": "T-Rexy says: UI is what you touch and see!",
+      "imageUrl": "topic:computing",
+      "tags": [
+        "computing",
+        "ui"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_016",
+      "question": "What is a password's main purpose?",
+      "correctAnswer": "To verify a user's identity",
+      "distractors": [
+        "To speed up a computer",
+        "To store files",
+        "To connect to Wi-Fi"
+      ],
+      "explanation": "A password authenticates a user by proving they are who they claim to be.",
+      "memoryHook": "T-Rexy says: Passwords prove you are you!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_017",
+      "question": "What is a computer virus?",
+      "correctAnswer": "Malicious software that can harm a computer",
+      "distractors": [
+        "A hardware failure",
+        "A type of internet cable",
+        "A programming language"
+      ],
+      "explanation": "A virus is malware designed to spread and damage systems or steal data.",
+      "memoryHook": "T-Rexy says: Viruses are bad programs!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "malware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_018",
+      "question": "What is the purpose of a search engine?",
+      "correctAnswer": "To find information on the internet",
+      "distractors": [
+        "To create websites",
+        "To send email",
+        "To play videos"
+      ],
+      "explanation": "A search engine indexes web pages and returns results matching a user's query.",
+      "memoryHook": "T-Rexy says: Search engines find answers!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "search"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_019",
+      "question": "What is a web browser?",
+      "correctAnswer": "Software used to access websites",
+      "distractors": [
+        "A type of computer hardware",
+        "A programming language",
+        "A data file"
+      ],
+      "explanation": "A browser like Chrome or Firefox renders web pages from the internet.",
+      "memoryHook": "T-Rexy says: Browsers open the web!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "browser"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_020",
+      "question": "What does 'input' mean in computing?",
+      "correctAnswer": "Data entered into a program",
+      "distractors": [
+        "Data printed on screen",
+        "A type of memory",
+        "A network error"
+      ],
+      "explanation": "Input is data that enters a program, from a keyboard, mouse, file, or sensor.",
+      "memoryHook": "T-Rexy says: Input goes in, output comes out!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "io"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_021",
+      "question": "Consider the following code segment.\n\nroll ← RANDOM(1, 6)\nDISPLAY(roll * 2)\n\nWhich of the following could be displayed as a result of running this code segment?",
+      "correctAnswer": "8",
+      "distractors": [
+        "7",
+        "13",
+        "1"
+      ],
+      "explanation": "RANDOM(1, 6) returns an integer from 1 to 6, so roll * 2 can only be 2, 4, 6, 8, 10, or 12. The value 8 comes from a roll of 4. The value 7 is impossible because roll * 2 is always even, 13 is impossible because the maximum is 6 * 2 = 12, and 1 is impossible because the minimum is 1 * 2 = 2.",
+      "memoryHook": "T-Rexy says: RANDOM(1, 6) is a fair die - find the smallest and largest results first, then see which answers fit!",
+      "imageUrl": "topic:random",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "random"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_022",
+      "question": "What is a pixel?",
+      "correctAnswer": "The smallest unit of a digital image",
+      "distractors": [
+        "A type of computer chip",
+        "A programming language",
+        "A file format"
+      ],
+      "explanation": "A pixel is one tiny colored dot; images are made of grids of pixels.",
+      "memoryHook": "T-Rexy says: Pixels are tiny picture dots!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "images"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_023",
+      "question": "What is an app?",
+      "correctAnswer": "A software application for a specific task",
+      "distractors": [
+        "A hardware device",
+        "A type of virus",
+        "A network protocol"
+      ],
+      "explanation": "An app is a program designed to perform a specific function, often on a phone or computer.",
+      "memoryHook": "T-Rexy says: Apps do specific jobs!",
+      "imageUrl": "topic:computing",
+      "tags": [
+        "computing",
+        "software"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_024",
+      "question": "What is a file?",
+      "correctAnswer": "A collection of data stored under a name",
+      "distractors": [
+        "A computer's processor",
+        "A type of network",
+        "A programming error"
+      ],
+      "explanation": "A file is a named collection of data stored on a device, such as a document or image.",
+      "memoryHook": "T-Rexy says: Files store data by name!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "storage"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_025",
+      "question": "What is the cloud in computing?",
+      "correctAnswer": "Remote servers accessed over the internet",
+      "distractors": [
+        "A type of weather",
+        "A computer's memory",
+        "A local hard drive"
+      ],
+      "explanation": "The cloud refers to servers and services accessed over the internet rather than stored locally.",
+      "memoryHook": "T-Rexy says: The cloud is someone else's computer!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "cloud"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_026",
+      "question": "What is a bug in a program?",
+      "correctAnswer": "An error that causes incorrect behavior",
+      "distractors": [
+        "A feature",
+        "A type of data",
+        "A hardware part"
+      ],
+      "explanation": "A bug is a mistake in code that makes a program behave incorrectly.",
+      "memoryHook": "T-Rexy says: Bugs make programs misbehave!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "debugging"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_027",
+      "question": "What does 'save' do in a program?",
+      "correctAnswer": "Stores data so it can be retrieved later",
+      "distractors": [
+        "Deletes data",
+        "Prints data",
+        "Runs the program"
+      ],
+      "explanation": "Saving writes data to storage so it persists after the program closes.",
+      "memoryHook": "T-Rexy says: Save it or lose it!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "storage"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_028",
+      "question": "What is an email address used for?",
+      "correctAnswer": "Identifying a mailbox for sending messages",
+      "distractors": [
+        "Browsing websites",
+        "Storing photos",
+        "Playing music"
+      ],
+      "explanation": "An email address identifies a specific mailbox on a mail server.",
+      "memoryHook": "T-Rexy says: Email addresses are digital mailboxes!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "email"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_029",
+      "question": "What is a smartphone?",
+      "correctAnswer": "A mobile phone with computer capabilities",
+      "distractors": [
+        "A type of laptop",
+        "A desktop computer",
+        "A network router"
+      ],
+      "explanation": "A smartphone is a phone that also runs apps, browses the web, and performs computing tasks.",
+      "memoryHook": "T-Rexy says: Smartphones are pocket computers!",
+      "imageUrl": "topic:computing",
+      "tags": [
+        "computing",
+        "devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_030",
+      "question": "What is Wi-Fi?",
+      "correctAnswer": "Wireless networking technology",
+      "distractors": [
+        "A type of cable",
+        "A programming language",
+        "A computer virus"
+      ],
+      "explanation": "Wi-Fi lets devices connect to a network wirelessly using radio waves.",
+      "memoryHook": "T-Rexy says: Wi-Fi is wireless internet!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "networking"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_031",
+      "question": "What is the difference between a linear search and a binary search?",
+      "correctAnswer": "Binary search requires sorted data and is faster on large lists",
+      "distractors": [
+        "Linear search requires sorted data",
+        "Binary search works on any list",
+        "They are identical"
+      ],
+      "explanation": "Binary search halves the search space each step but needs sorted data; linear search checks each item in order.",
+      "memoryHook": "T-Rexy says: Binary search splits the list in half!",
+      "imageUrl": "topic:algorithms",
+      "tags": [
+        "algorithms",
+        "search"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_032",
+      "question": "What is the time complexity of binary search?",
+      "correctAnswer": "O(log n)",
+      "distractors": [
+        "O(n)",
+        "O(n^2)",
+        "O(1)"
+      ],
+      "explanation": "Binary search halves the problem each step, giving logarithmic time complexity.",
+      "memoryHook": "T-Rexy says: Log n means halving each time!",
+      "imageUrl": "topic:algorithms",
+      "tags": [
+        "algorithms",
+        "complexity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_033",
+      "question": "What is a sorting algorithm?",
+      "correctAnswer": "An algorithm that arranges items in order",
+      "distractors": [
+        "An algorithm that searches for items",
+        "An algorithm that encrypts data",
+        "An algorithm that deletes data"
+      ],
+      "explanation": "A sorting algorithm orders a list, for example alphabetically or numerically.",
+      "memoryHook": "T-Rexy says: Sorting puts things in order!",
+      "imageUrl": "topic:algorithms",
+      "tags": [
+        "algorithms",
+        "sorting"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_034",
+      "question": "What is the purpose of an API?",
+      "correctAnswer": "To let different programs communicate with each other",
+      "distractors": [
+        "To speed up hardware",
+        "To store passwords",
+        "To draw graphics"
+      ],
+      "explanation": "An API defines how software components interact, letting programs use each other's features.",
+      "memoryHook": "T-Rexy says: APIs are bridges between programs!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "api"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_035",
+      "question": "What is abstraction in computer science?",
+      "correctAnswer": "Hiding unnecessary details to focus on what matters",
+      "distractors": [
+        "Making a program run faster",
+        "Deleting code",
+        "Adding more features"
+      ],
+      "explanation": "Abstraction simplifies complexity by hiding low-level details behind a simpler interface.",
+      "memoryHook": "T-Rexy says: Abstraction hides the messy details!",
+      "imageUrl": "topic:computing",
+      "tags": [
+        "computing",
+        "abstraction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_036",
+      "question": "Consider the following code segment.\n\nscores ← [10, 20, 30]\ntotal ← 0\nFOR EACH score IN scores\n{\n  total ← total + score\n}\nDISPLAY(total)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "60",
+      "distractors": [
+        "30",
+        "20",
+        "3"
+      ],
+      "explanation": "FOR EACH visits every element of scores in order. total starts at 0, then becomes 0 + 10 = 10, then 10 + 20 = 30, then 30 + 30 = 60. After the loop, DISPLAY(total) shows 60. This pattern - one variable that gathers every element - is called an accumulator. The answer 30 is the last element alone, and 20 is the average, not the sum.",
+      "memoryHook": "T-Rexy says: An accumulator starts at zero and gathers every element the loop visits!",
+      "imageUrl": "topic:lists",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "lists"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_037",
+      "question": "Consider the following code segment.\n\nx ← 6\nIF(NOT (x > 10) AND x > 0)\n{\n  DISPLAY(\"In range\")\n}\nELSE\n{\n  DISPLAY(\"Out of range\")\n}\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "In range",
+      "distractors": [
+        "Out of range",
+        "true",
+        "6"
+      ],
+      "explanation": "Evaluate the condition piece by piece. x > 10 is false because x is 6, so NOT (x > 10) is true. The second part, x > 0, is also true. true AND true is true, so the IF block runs and the program displays In range. Ignoring the NOT flips the result and lands on Out of range.",
+      "memoryHook": "T-Rexy says: NOT flips the value - settle each small piece before you combine with AND!",
+      "imageUrl": "topic:logic",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "logic"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_038",
+      "question": "What does the AND operator do?",
+      "correctAnswer": "Returns true only if both operands are true",
+      "distractors": [
+        "Returns true if either is true",
+        "Reverses a value",
+        "Adds two numbers"
+      ],
+      "explanation": "Truth table for AND: true AND true = true, but true AND false = false, false AND true = false, and false AND false = false. The output is true in only one of the four cases - when both inputs are true. Example: (age >= 16) AND (hasLicense) is true only if both conditions hold.",
+      "memoryHook": "T-Rexy says: AND needs both to be true!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "logic"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_039",
+      "question": "What does the OR operator do?",
+      "correctAnswer": "Returns true if at least one operand is true",
+      "distractors": [
+        "Returns true only if both are true",
+        "Reverses a value",
+        "Subtracts two numbers"
+      ],
+      "explanation": "Truth table for OR: true OR false = true, false OR true = true, and true OR true = true; the only false case is false OR false = false. Example: (isWeekend) OR (isHoliday) is true if either kind of day off applies - just one true input is enough.",
+      "memoryHook": "T-Rexy says: OR needs just one true!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "logic"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_040",
+      "question": "What does the NOT operator do?",
+      "correctAnswer": "Reverses a Boolean value",
+      "distractors": [
+        "Adds two values",
+        "Compares two values",
+        "Stores a value"
+      ],
+      "explanation": "NOT flips true to false and false to true.",
+      "memoryHook": "T-Rexy says: NOT flips the answer!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "logic"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_041",
+      "question": "What is an IP address?",
+      "correctAnswer": "A unique number identifying a device on a network",
+      "distractors": [
+        "A type of email",
+        "A programming language",
+        "A file format"
+      ],
+      "explanation": "An IP address uniquely identifies a device on a network so data can reach it.",
+      "memoryHook": "T-Rexy says: IP addresses are network home addresses!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "networking"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_042",
+      "question": "What is DNS?",
+      "correctAnswer": "A system that translates domain names to IP addresses",
+      "distractors": [
+        "A type of virus",
+        "A programming language",
+        "A file format"
+      ],
+      "explanation": "DNS maps human-readable domain names like example.com to IP addresses.",
+      "memoryHook": "T-Rexy says: DNS is the internet's phone book!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "dns"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_043",
+      "question": "What is a packet?",
+      "correctAnswer": "A small unit of data sent over a network",
+      "distractors": [
+        "A type of computer",
+        "A programming error",
+        "A storage device"
+      ],
+      "explanation": "Data travels the internet in small chunks called packets.",
+      "memoryHook": "T-Rexy says: Packets are tiny data envelopes!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "networking"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_044",
+      "question": "What is a router?",
+      "correctAnswer": "A device that forwards data between networks",
+      "distractors": [
+        "A type of software",
+        "A programming language",
+        "A data file"
+      ],
+      "explanation": "A router directs packets between networks, choosing the best path.",
+      "memoryHook": "T-Rexy says: Routers direct internet traffic!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "networking"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_045",
+      "question": "What is encryption?",
+      "correctAnswer": "Converting data into a coded form to protect it",
+      "distractors": [
+        "Deleting data",
+        "Compressing a file",
+        "Speeding up a network"
+      ],
+      "explanation": "Encryption scrambles data so only those with the key can read it.",
+      "memoryHook": "T-Rexy says: Encryption scrambles your secrets!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "encryption"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_046",
+      "question": "What is a public key in cryptography?",
+      "correctAnswer": "A key shared openly, used to encrypt messages",
+      "distractors": [
+        "A secret password",
+        "A type of virus",
+        "A network cable"
+      ],
+      "explanation": "In public-key cryptography, the public key encrypts data that only the private key can decrypt.",
+      "memoryHook": "T-Rexy says: Public keys lock, private keys unlock!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "encryption"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_047",
+      "question": "What is phishing?",
+      "correctAnswer": "Tricking people into revealing sensitive information",
+      "distractors": [
+        "A type of fish",
+        "A programming technique",
+        "A network protocol"
+      ],
+      "explanation": "Phishing uses fake emails or sites to steal passwords and personal data.",
+      "memoryHook": "T-Rexy says: Phishing hooks you with fake messages!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "phishing"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_048",
+      "question": "What is two-factor authentication (2FA)?",
+      "correctAnswer": "Requiring two different proofs of identity",
+      "distractors": [
+        "Using two passwords",
+        "Logging in twice",
+        "Having two accounts"
+      ],
+      "explanation": "2FA requires something you know (password) plus something you have (phone code).",
+      "memoryHook": "T-Rexy says: 2FA is double-checking your identity!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "authentication"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_049",
+      "question": "What is a firewall?",
+      "correctAnswer": "A system that blocks unauthorized network access",
+      "distractors": [
+        "A type of virus",
+        "A programming language",
+        "A storage device"
+      ],
+      "explanation": "A firewall filters network traffic, blocking harmful connections.",
+      "memoryHook": "T-Rexy says: Firewalls are digital walls!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "security"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_050",
+      "question": "Consider the following code segment.\n\na ← 3\nb ← 7\ntemp ← a\na ← b\nb ← temp\nDISPLAY(a + b)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "10",
+      "distractors": [
+        "14",
+        "4",
+        "21"
+      ],
+      "explanation": "Follow the values step by step. temp ← a saves the value 3. Then a ← b makes a equal to 7, and b ← temp puts the saved 3 into b. At the end a is 7 and b is 3, so a + b is 10. Without temp, the 3 would be lost the moment a was overwritten, and the sum would wrongly come out as 14.",
+      "memoryHook": "T-Rexy says: Swapping needs a spare shelf - park one value in temp before you overwrite anything!",
+      "imageUrl": "topic:variables",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "variables"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_051",
+      "question": "What is a parameter in a function?",
+      "correctAnswer": "An input value passed to a function",
+      "distractors": [
+        "The function's output",
+        "The function's name",
+        "A type of loop"
+      ],
+      "explanation": "Parameters are placeholders for values passed into a function when it is called.",
+      "memoryHook": "T-Rexy says: Parameters are function inputs!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "functions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_052",
+      "question": "What is a return value?",
+      "correctAnswer": "The output a function gives back",
+      "distractors": [
+        "The function's input",
+        "A type of error",
+        "A loop condition"
+      ],
+      "explanation": "When a function finishes, its RETURN statement hands a value back to the code that called it. Example: a function add(a, b) that ends with RETURN a + b gives back 7 when it is called as add(3, 4), and that 7 is the return value the caller can store in a variable or use in a calculation.",
+      "memoryHook": "T-Rexy says: Return values are function outputs!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "functions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_053",
+      "question": "Consider the following code segment.\n\nPROCEDURE mystery(a, b)\n{\n  RETURN(a + b * 2)\n}\nDISPLAY(mystery(3, 4))\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "11",
+      "distractors": [
+        "14",
+        "7",
+        "24"
+      ],
+      "explanation": "The call mystery(3, 4) assigns a = 3 and b = 4. Inside the procedure, order of operations applies: b * 2 is 4 * 2 = 8, and then a + 8 is 3 + 8 = 11. RETURN sends 11 back to the DISPLAY statement, so 11 is displayed. The answer 14 comes from adding first and doubling second, which breaks the order of operations.",
+      "memoryHook": "T-Rexy says: Plug the arguments into the parameters, then respect the order of operations inside!",
+      "imageUrl": "topic:procedures",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "procedures"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_054",
+      "question": "What is the difference between lossy and lossless compression?",
+      "correctAnswer": "Lossy loses some data; lossless preserves all data",
+      "distractors": [
+        "Lossy preserves all data",
+        "They are the same",
+        "Lossless loses data"
+      ],
+      "explanation": "Lossy compression (JPEG) discards some data for smaller size; lossless (PNG) keeps everything.",
+      "memoryHook": "T-Rexy says: Lossy loses, lossless keeps!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "compression"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_055",
+      "question": "What is metadata?",
+      "correctAnswer": "Data that describes other data",
+      "distractors": [
+        "A type of virus",
+        "A programming language",
+        "A network protocol"
+      ],
+      "explanation": "Metadata is information about data, like a photo's date and location.",
+      "memoryHook": "T-Rexy says: Metadata is data about data!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "metadata"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_056",
+      "question": "What is a database?",
+      "correctAnswer": "An organized collection of data",
+      "distractors": [
+        "A type of computer",
+        "A programming language",
+        "A network cable"
+      ],
+      "explanation": "A database stores structured data that can be searched and updated efficiently.",
+      "memoryHook": "T-Rexy says: Databases organize data!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "databases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_057",
+      "question": "What is a simulation?",
+      "correctAnswer": "A model that imitates a real-world process",
+      "distractors": [
+        "A type of virus",
+        "A programming language",
+        "A hardware device"
+      ],
+      "explanation": "A simulation uses a computer model to imitate and study real systems.",
+      "memoryHook": "T-Rexy says: Simulations model the real world!",
+      "imageUrl": "topic:computing",
+      "tags": [
+        "computing",
+        "simulation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_058",
+      "question": "What is the digital divide?",
+      "correctAnswer": "The gap between those with and without access to technology",
+      "distractors": [
+        "A type of network error",
+        "A programming bug",
+        "A data format"
+      ],
+      "explanation": "The digital divide is unequal access to computers and the internet across groups.",
+      "memoryHook": "T-Rexy says: The digital divide is unequal access!",
+      "imageUrl": "topic:computing",
+      "tags": [
+        "computing",
+        "impacts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_059",
+      "question": "What is open source software?",
+      "correctAnswer": "Software whose source code is freely available",
+      "distractors": [
+        "Software that costs money",
+        "Software with no code",
+        "Software that is secret"
+      ],
+      "explanation": "Open source software lets anyone view, modify, and share its code.",
+      "memoryHook": "T-Rexy says: Open source means open code!",
+      "imageUrl": "topic:computing",
+      "tags": [
+        "computing",
+        "software"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_060",
+      "question": "What is a cookie in web browsing?",
+      "correctAnswer": "A small file a website stores on your device",
+      "distractors": [
+        "A type of virus",
+        "A programming language",
+        "A network cable"
+      ],
+      "explanation": "Cookies store small pieces of data like login state or preferences on your device.",
+      "memoryHook": "T-Rexy says: Cookies remember your preferences!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "web"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_061",
+      "question": "What is HTTPS?",
+      "correctAnswer": "A secure version of HTTP using encryption",
+      "distractors": [
+        "A faster version of HTTP",
+        "A type of email",
+        "A programming language"
+      ],
+      "explanation": "HTTPS encrypts web traffic with TLS, protecting data in transit.",
+      "memoryHook": "T-Rexy says: HTTPS is HTTP with a lock!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "security"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_062",
+      "question": "What is a URL?",
+      "correctAnswer": "An address that locates a resource on the web",
+      "distractors": [
+        "A type of virus",
+        "A programming language",
+        "A data file"
+      ],
+      "explanation": "A URL has parts that locate a resource step by step. In https://www.example.com/page.html, https is the protocol, www.example.com is the server (domain) name, and /page.html is the path to the specific page or file stored on that server.",
+      "memoryHook": "T-Rexy says: URLs are web addresses!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "web"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_063",
+      "question": "Consider the following code segment.\n\ncount ← 0\nREPEAT 2 TIMES\n{\n  REPEAT 3 TIMES\n  {\n    count ← count + 1\n  }\n}\nDISPLAY(count)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "6",
+      "distractors": [
+        "5",
+        "3",
+        "2"
+      ],
+      "explanation": "The inner loop runs 3 times for each single pass of the outer loop, adding 3 to count. The outer loop runs twice, so the innermost statement runs 2 * 3 = 6 times in total. count starts at 0 and increases by 1 each time, ending at 6. The answer 5 comes from adding the loop counts (2 + 3) instead of multiplying them.",
+      "memoryHook": "T-Rexy says: Nested loops multiply - the inner loop restarts fresh on every outer pass!",
+      "imageUrl": "topic:loops",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "loops"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_064",
+      "question": "Consider the following code segment.\n\ncount ← 0\nREPEAT 4 TIMES\n{\n  count ← count + 2\n}\nDISPLAY(count)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "8",
+      "distractors": [
+        "6",
+        "10",
+        "2"
+      ],
+      "explanation": "REPEAT 4 TIMES runs the block exactly 4 times. Starting from 0, count becomes 2 after the first pass, then 4, then 6, then 8. After the fourth pass the loop ends, so DISPLAY(count) displays 8. The answer 6 stops one pass early, and 10 adds one pass too many.",
+      "memoryHook": "T-Rexy says: REPEAT n TIMES is a promise - count the passes and update the variable on every one!",
+      "imageUrl": "topic:loops",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "loops"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_065",
+      "question": "What is the purpose of a flowchart?",
+      "correctAnswer": "To visually represent an algorithm's steps",
+      "distractors": [
+        "To store data",
+        "To write code",
+        "To connect to the internet"
+      ],
+      "explanation": "A flowchart diagrams the steps and decisions in an algorithm.",
+      "memoryHook": "T-Rexy says: Flowcharts map out algorithms!",
+      "imageUrl": "topic:algorithms",
+      "tags": [
+        "algorithms",
+        "design"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_066",
+      "question": "What is pseudocode?",
+      "correctAnswer": "An informal description of an algorithm using plain language",
+      "distractors": [
+        "A programming language",
+        "A type of virus",
+        "A file format"
+      ],
+      "explanation": "Pseudocode describes an algorithm's logic without strict syntax.",
+      "memoryHook": "T-Rexy says: Pseudocode is plain-language code!",
+      "imageUrl": "topic:algorithms",
+      "tags": [
+        "algorithms",
+        "design"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_067",
+      "question": "Consider the following code segment.\n\nword ← \"sun\"\nIF(word = \"moon\")\n{\n  DISPLAY(\"Night\")\n}\nELSE\n{\n  DISPLAY(\"Day\")\n}\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "Day",
+      "distractors": [
+        "Night",
+        "sun",
+        "moon"
+      ],
+      "explanation": "The variable word holds the string \"sun\". The condition word = \"moon\" compares the two strings, and \"sun\" is not equal to \"moon\", so the condition is false. The ELSE block runs, and the program displays Day.",
+      "memoryHook": "T-Rexy says: Strings compare letter by letter - sun and moon are different words, so the test fails!",
+      "imageUrl": "topic:strings",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "strings"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_068",
+      "question": "Consider the following code segment.\n\nvalue ← 17 MOD 5\nDISPLAY(value)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "2",
+      "distractors": [
+        "3",
+        "12",
+        "85"
+      ],
+      "explanation": "MOD gives the remainder after division. 17 divided by 5 is 3 with a remainder of 2, because 3 * 5 = 15 and 17 - 15 = 2. So value is assigned 2, and 2 is displayed. The answer 3 is the quotient, not the remainder.",
+      "memoryHook": "T-Rexy says: MOD keeps only the leftovers - divide, multiply back, and see what remains!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "math"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_069",
+      "question": "What is a floating-point number?",
+      "correctAnswer": "A number with a decimal point",
+      "distractors": [
+        "A whole number",
+        "A text value",
+        "A Boolean"
+      ],
+      "explanation": "A float stores numbers with fractional parts, like 3.14.",
+      "memoryHook": "T-Rexy says: Floats have decimal points!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "data-types"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_070",
+      "question": "What is the purpose of testing a program?",
+      "correctAnswer": "To find and fix errors before users encounter them",
+      "distractors": [
+        "To make it run slower",
+        "To delete code",
+        "To add features"
+      ],
+      "explanation": "Testing checks that a program behaves correctly and reveals bugs.",
+      "memoryHook": "T-Rexy says: Testing catches bugs early!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "testing"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_071",
+      "question": "What is the time complexity of a linear search in the worst case?",
+      "correctAnswer": "O(n)",
+      "distractors": [
+        "O(log n)",
+        "O(1)",
+        "O(n^2)"
+      ],
+      "explanation": "Linear search may check every element, so worst-case time grows linearly with n.",
+      "memoryHook": "T-Rexy says: Linear search checks each one!",
+      "imageUrl": "topic:algorithms",
+      "tags": [
+        "algorithms",
+        "complexity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_072",
+      "question": "What is the time complexity of bubble sort in the worst case?",
+      "correctAnswer": "O(n^2)",
+      "distractors": [
+        "O(n)",
+        "O(log n)",
+        "O(1)"
+      ],
+      "explanation": "Bubble sort compares adjacent pairs repeatedly, giving quadratic worst-case time.",
+      "memoryHook": "T-Rexy says: Bubble sort is slow on big lists!",
+      "imageUrl": "topic:algorithms",
+      "tags": [
+        "algorithms",
+        "sorting"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_073",
+      "question": "What is a heuristic?",
+      "correctAnswer": "An approach that finds a good-enough solution when an exact one is too slow",
+      "distractors": [
+        "An exact algorithm",
+        "A type of virus",
+        "A data structure"
+      ],
+      "explanation": "A heuristic trades exactness for speed, giving a reasonable answer quickly.",
+      "memoryHook": "T-Rexy says: Heuristics are smart shortcuts!",
+      "imageUrl": "topic:algorithms",
+      "tags": [
+        "algorithms",
+        "heuristics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_074",
+      "question": "What is an undecidable problem?",
+      "correctAnswer": "A problem no algorithm can solve for all inputs",
+      "distractors": [
+        "A problem with no solution",
+        "An easy problem",
+        "A problem with one answer"
+      ],
+      "explanation": "Undecidable problems cannot be solved by any algorithm for every possible input.",
+      "memoryHook": "T-Rexy says: Some problems can't be solved!",
+      "imageUrl": "topic:algorithms",
+      "tags": [
+        "algorithms",
+        "theory"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_075",
+      "question": "What is the halting problem?",
+      "correctAnswer": "Determining whether a program will ever finish running",
+      "distractors": [
+        "A program that never starts",
+        "A type of virus",
+        "A network error"
+      ],
+      "explanation": "The halting problem asks whether a program halts; it is proven undecidable.",
+      "memoryHook": "T-Rexy says: The halting problem is undecidable!",
+      "imageUrl": "topic:algorithms",
+      "tags": [
+        "algorithms",
+        "theory"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_076",
+      "question": "What is the difference between symmetric and asymmetric encryption?",
+      "correctAnswer": "Symmetric uses one shared key; asymmetric uses a public-private key pair",
+      "distractors": [
+        "They are the same",
+        "Symmetric is always stronger",
+        "Asymmetric uses one key"
+      ],
+      "explanation": "Symmetric encryption shares one key; asymmetric uses a public key to encrypt and a private key to decrypt.",
+      "memoryHook": "T-Rexy says: Symmetric shares one key, asymmetric uses two!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "encryption"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_077",
+      "question": "What is a Caesar cipher?",
+      "correctAnswer": "A substitution cipher that shifts each letter by a fixed amount",
+      "distractors": [
+        "A type of virus",
+        "A programming language",
+        "A network protocol"
+      ],
+      "explanation": "Worked example with a shift of 3: every letter moves 3 places forward in the alphabet, so A becomes D, B becomes E, and Z wraps around to C. The word CAT becomes FDW (C to F, A to D, T to W). To decrypt, shift every letter back by 3.",
+      "memoryHook": "T-Rexy says: Caesar ciphers shift letters!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "encryption"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_078",
+      "question": "What is a digital signature?",
+      "correctAnswer": "A way to verify a message's sender and integrity using cryptography",
+      "distractors": [
+        "A handwritten signature scanned",
+        "A type of password",
+        "A file format"
+      ],
+      "explanation": "A digital signature uses a private key to sign data, proving authenticity.",
+      "memoryHook": "T-Rexy says: Digital signatures prove who sent it!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "signatures"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_079",
+      "question": "What is a DDoS attack?",
+      "correctAnswer": "Overwhelming a server with traffic from many sources",
+      "distractors": [
+        "A type of virus",
+        "A programming bug",
+        "A hardware failure"
+      ],
+      "explanation": "A distributed denial-of-service attack floods a target with requests to make it unavailable.",
+      "memoryHook": "T-Rexy says: DDoS floods servers with traffic!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "attacks"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_080",
+      "question": "What is a keylogger?",
+      "correctAnswer": "Malware that records keystrokes to steal information",
+      "distractors": [
+        "A type of keyboard",
+        "A programming tool",
+        "A network device"
+      ],
+      "explanation": "A keylogger secretly records what a user types, capturing passwords and messages.",
+      "memoryHook": "T-Rexy says: Keyloggers steal your keystrokes!",
+      "imageUrl": "topic:cybersecurity",
+      "tags": [
+        "cybersecurity",
+        "malware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_081",
+      "question": "What is the difference between a hub, a switch, and a router?",
+      "correctAnswer": "A hub broadcasts to all; a switch sends to the right device; a router connects networks",
+      "distractors": [
+        "They are identical",
+        "A router only connects two computers",
+        "A switch broadcasts to all"
+      ],
+      "explanation": "Hubs send data to every port, switches send to the intended device, routers connect different networks.",
+      "memoryHook": "T-Rexy says: Hubs broadcast, switches target, routers connect!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "networking"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_082",
+      "question": "What is TCP?",
+      "correctAnswer": "A protocol that ensures reliable, ordered delivery of data",
+      "distractors": [
+        "A type of virus",
+        "A programming language",
+        "A file format"
+      ],
+      "explanation": "TCP (Transmission Control Protocol) guarantees data arrives in order and without loss.",
+      "memoryHook": "T-Rexy says: TCP delivers data reliably!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "protocols"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_083",
+      "question": "What is UDP?",
+      "correctAnswer": "A fast protocol that does not guarantee delivery",
+      "distractors": [
+        "A reliable protocol",
+        "A type of virus",
+        "A programming language"
+      ],
+      "explanation": "UDP sends packets quickly without checking delivery, used for video and games.",
+      "memoryHook": "T-Rexy says: UDP is fast but unreliable!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "protocols"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_084",
+      "question": "What is the difference between IPv4 and IPv6?",
+      "correctAnswer": "IPv6 has a much larger address space than IPv4",
+      "distractors": [
+        "IPv4 is newer",
+        "They are the same",
+        "IPv6 is slower"
+      ],
+      "explanation": "IPv4 uses 32-bit addresses (about 4 billion); IPv6 uses 128-bit addresses, vastly more.",
+      "memoryHook": "T-Rexy says: IPv6 has way more addresses!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "networking"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_085",
+      "question": "Consider the following code segment.\n\npets ← [\"cat\", \"dog\", \"bird\"]\nAPPEND(pets, \"frog\")\nREMOVE(pets, 2)\nDISPLAY(pets[2])\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "bird",
+      "distractors": [
+        "dog",
+        "frog",
+        "cat"
+      ],
+      "explanation": "APPEND first adds frog at the end, giving [cat, dog, bird, frog]. REMOVE(pets, 2) then deletes dog, the element at index 2, and every later element shifts one position left, giving [cat, bird, frog]. Index 2 now holds bird, so bird is displayed. The answer dog forgets that REMOVE shifts the remaining elements left.",
+      "memoryHook": "T-Rexy says: REMOVE pulls everyone one seat to the left - recheck the indexes after anything is removed!",
+      "imageUrl": "topic:lists",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "lists"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_086",
+      "question": "What is the purpose of a hash function?",
+      "correctAnswer": "To map data to a fixed-size value for fast lookup",
+      "distractors": [
+        "To encrypt data permanently",
+        "To compress images",
+        "To send email"
+      ],
+      "explanation": "A hash function converts input into a fixed-size hash, used in tables and checksums.",
+      "memoryHook": "T-Rexy says: Hashes turn data into fingerprints!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "hashing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_087",
+      "question": "Consider the following code segment.\n\ncolors ← [\"red\", \"green\", \"blue\", \"yellow\"]\nDISPLAY(colors[2])\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "green",
+      "distractors": [
+        "blue",
+        "red",
+        "yellow"
+      ],
+      "explanation": "In AP pseudocode, list indexes start at 1, not 0. colors[1] is \"red\", colors[2] is \"green\", colors[3] is \"blue\", and colors[4] is \"yellow\". So colors[2] displays green. Choosing blue is the 0-based indexing mistake carried over from languages that start counting at 0.",
+      "memoryHook": "T-Rexy says: AP lists start counting at 1 - the first element wears index 1!",
+      "imageUrl": "topic:lists",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "lists"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_088",
+      "question": "Consider the following code segment.\n\nnums ← [4, 8, 15]\nAPPEND(nums, 16)\nDISPLAY(LENGTH(nums))\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "4",
+      "distractors": [
+        "3",
+        "5",
+        "16"
+      ],
+      "explanation": "The list starts with 3 elements: 4, 8, and 15. APPEND(nums, 16) adds 16 at the end, so the list becomes [4, 8, 15, 16]. LENGTH(nums) now counts 4 elements, so 4 is displayed. The answer 3 forgets that APPEND grows the list.",
+      "memoryHook": "T-Rexy says: APPEND grows the list by one - recount the length after every change!",
+      "imageUrl": "topic:lists",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "lists"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_089",
+      "question": "Consider the following code segment.\n\nx ← 20\nREPEAT UNTIL(x < 10)\n{\n  x ← x - 4\n}\nDISPLAY(x)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "8",
+      "distractors": [
+        "12",
+        "4",
+        "0"
+      ],
+      "explanation": "REPEAT UNTIL tests the condition before each pass and stops as soon as it is true. Starting at 20: 20 is not less than 10, so x becomes 16; then 12; then 8. When x reaches 8, the condition x < 10 is true, so the loop stops before subtracting again. DISPLAY(x) shows 8.",
+      "memoryHook": "T-Rexy says: REPEAT UNTIL checks the exit door before every lap - stop the moment the condition turns true!",
+      "imageUrl": "topic:loops",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "loops"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_090",
+      "question": "What is the difference between a compiler error and a runtime error?",
+      "correctAnswer": "A compiler error prevents the program from running; a runtime error occurs during execution",
+      "distractors": [
+        "They are the same",
+        "A runtime error prevents compilation",
+        "A compiler error happens during execution"
+      ],
+      "explanation": "Compiler errors are caught before running; runtime errors appear while the program runs.",
+      "memoryHook": "T-Rexy says: Compile errors stop you early, runtime errors surprise you!",
+      "imageUrl": "topic:programming",
+      "tags": [
+        "programming",
+        "debugging"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_091",
+      "question": "Consider the following code segment.\n\ni ← 1\ncount ← 0\nREPEAT UNTIL(i > 20)\n{\n  IF(i MOD 3 = 0)\n  {\n    count ← count + 1\n  }\n  i ← i + 1\n}\nDISPLAY(count)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "6",
+      "distractors": [
+        "7",
+        "5",
+        "20"
+      ],
+      "explanation": "The loop body runs once for each value of i from 1 to 20, stopping when i reaches 21. Inside, count increases only when i MOD 3 = 0, which happens for i = 3, 6, 9, 12, 15, and 18 - six values. So count ends at 6, and 6 is displayed. The answer 7 comes from also counting 0 as a multiple of 3, and 20 comes from counting every pass instead of only the passes where the IF test succeeds.",
+      "memoryHook": "T-Rexy says: When an IF guards the accumulator, only count the passes where the test passes!",
+      "imageUrl": "topic:loops",
+      "tags": [
+        "programming",
+        "pseudocode",
+        "loops"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_092",
+      "question": "What is the purpose of the AP CSP Create Performance Task?",
+      "correctAnswer": "To demonstrate programming skills by creating a program and explaining it",
+      "distractors": [
+        "To memorize vocabulary",
+        "To take a multiple-choice test",
+        "To write an essay"
+      ],
+      "explanation": "The Create task requires students to design, code, and document a program of their own.",
+      "memoryHook": "T-Rexy says: Create shows what you can build!",
+      "imageUrl": "topic:ap",
+      "tags": [
+        "ap",
+        "create-task"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_093",
+      "question": "What is the purpose of the AP CSP Explore Performance Task (now the written response)?",
+      "correctAnswer": "To analyze a computing innovation and its impacts",
+      "distractors": [
+        "To write code",
+        "To build hardware",
+        "To take a quiz"
+      ],
+      "explanation": "The Explore Performance Task was discontinued by the College Board after the 2019-20 school year, so it is no longer assigned. The skill it tested - analyzing a computing innovation and its beneficial and harmful effects on society, the economy, and culture - now appears in the written-response questions on the end-of-course exam.",
+      "memoryHook": "T-Rexy says: Explore analyzes real innovations!",
+      "imageUrl": "topic:ap",
+      "tags": [
+        "ap",
+        "explore-task"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_094",
+      "question": "What is data mining?",
+      "correctAnswer": "Finding patterns in large datasets",
+      "distractors": [
+        "Digging for minerals",
+        "A type of virus",
+        "A programming language"
+      ],
+      "explanation": "Data mining uses algorithms to discover patterns and insights in big data.",
+      "memoryHook": "T-Rexy says: Data mining finds hidden patterns!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "analysis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_095",
+      "question": "What is machine learning?",
+      "correctAnswer": "A type of AI where systems learn patterns from data",
+      "distractors": [
+        "A programming language",
+        "A type of hardware",
+        "A network protocol"
+      ],
+      "explanation": "Machine learning trains models on data so they can make predictions or decisions.",
+      "memoryHook": "T-Rexy says: Machine learning learns from data!",
+      "imageUrl": "topic:computing",
+      "tags": [
+        "computing",
+        "ai"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_096",
+      "question": "What is bias in computing?",
+      "correctAnswer": "Systematic unfairness in data or algorithms",
+      "distractors": [
+        "A type of virus",
+        "A programming error",
+        "A network issue"
+      ],
+      "explanation": "Bias in computing means algorithms or data systematically disadvantage certain groups.",
+      "memoryHook": "T-Rexy says: Bias can hide in data and code!",
+      "imageUrl": "topic:computing",
+      "tags": [
+        "computing",
+        "ethics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_097",
+      "question": "What is the difference between copyright and a Creative Commons license?",
+      "correctAnswer": "Copyright reserves all rights; Creative Commons lets creators allow specific uses",
+      "distractors": [
+        "They are the same",
+        "Creative Commons is stricter",
+        "Copyright is free"
+      ],
+      "explanation": "Copyright gives the creator full control; Creative Commons licenses grant permission for certain uses.",
+      "memoryHook": "T-Rexy says: Creative Commons shares with rules!",
+      "imageUrl": "topic:computing",
+      "tags": [
+        "computing",
+        "legal"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_098",
+      "question": "What is the purpose of a checksum?",
+      "correctAnswer": "To detect errors in transmitted or stored data",
+      "distractors": [
+        "To encrypt data",
+        "To compress data",
+        "To speed up a network"
+      ],
+      "explanation": "A checksum is a value computed from data; if the data changes, the checksum won't match.",
+      "memoryHook": "T-Rexy says: Checksums catch data errors!",
+      "imageUrl": "topic:data",
+      "tags": [
+        "data",
+        "integrity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_099",
+      "question": "What is redundancy in networking?",
+      "correctAnswer": "Having multiple paths or copies so the network survives failures",
+      "distractors": [
+        "Sending data twice by mistake",
+        "A type of virus",
+        "A programming bug"
+      ],
+      "explanation": "Redundancy adds backup routes and copies so one failure doesn't break the system.",
+      "memoryHook": "T-Rexy says: Redundancy is a backup plan!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "networking"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ECSP_100",
+      "question": "What is the internet's layered model (like the OSI model) used for?",
+      "correctAnswer": "Organizing network functions into layers so each handles one job",
+      "distractors": [
+        "Making the internet faster",
+        "Storing web pages",
+        "Writing code"
+      ],
+      "explanation": "Layered models separate networking into layers (physical, network, transport, application) so each can be designed independently.",
+      "memoryHook": "T-Rexy says: Layers divide the internet's jobs!",
+      "imageUrl": "topic:internet",
+      "tags": [
+        "internet",
+        "protocols"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

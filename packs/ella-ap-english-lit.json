@@ -1,0 +1,2011 @@
+{
+  "packId": "ella-ap-english-lit",
+  "title": "AP English Literature (12th Grade)",
+  "description": "AP English Literature (12th) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-04",
+  "tags": [
+    "english",
+    "literature",
+    "ap",
+    "12th"
+  ],
+  "questions": [
+    {
+      "id": "ELIT_001",
+      "question": "What is a simile?",
+      "correctAnswer": "A comparison using like or as",
+      "distractors": [
+        "A comparison without like or as",
+        "Giving human traits to objects",
+        "An extreme exaggeration"
+      ],
+      "explanation": "A simile compares two unlike things using the words like or as, for example her smile was like sunshine.",
+      "memoryHook": "T-Rexy says: like or as is the simile clue - spot those words and you have got it.",
+      "imageUrl": "topic:simile",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_002",
+      "question": "What is a metaphor?",
+      "correctAnswer": "A direct comparison without using like or as",
+      "distractors": [
+        "A comparison using like or as",
+        "A word that imitates a sound",
+        "Repeating consonant sounds"
+      ],
+      "explanation": "A metaphor states that one thing IS another, for example he is a rock, without using like or as.",
+      "memoryHook": "T-Rexy says: no like, no as - the metaphor just says it IS.",
+      "imageUrl": "topic:metaphor",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_003",
+      "question": "Read this passage from William Shakespeare's Sonnet 18 (1609):\n\n\"Shall I compare thee to a summer's day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May,\nAnd summer's lease hath all too short a date:\nSometime too hot the eye of heaven shines,\nAnd often is his gold complexion dimmed,\nAnd every fair from fair sometime declines,\nBy chance, or nature's changing course untrimmed:\nBut thy eternal summer shall not fade,\nNor lose possession of that fair thou ow'st,\nNor shall death brag thou wand'rest in his shade,\nWhen in eternal lines to time thou grow'st,\nSo long as men can breathe or eyes can see,\nSo long lives this, and this gives life to thee.\"\n\nIn line 5, the phrase \"the eye of heaven\" refers to",
+      "correctAnswer": "The sun, which sometimes shines too hot and is often dimmed by clouds",
+      "distractors": [
+        "The beloved's bright and watchful eye",
+        "A god who watches over the beloved",
+        "The north star that guides sailors home"
+      ],
+      "explanation": "The sun is the only candidate that can shine too hot in one line and have its gold complexion dimmed in the next: clouds dim the sun, not a god or a star. Shakespeare gives the sun a face (complexion) so that its changes can contrast with the beloved's unchanging fairness.",
+      "memoryHook": "T-Rexy says: Gold complexion plus dimming equals the sun behind clouds.",
+      "imageUrl": "topic:shakespeare-sonnet-18",
+      "tags": [
+        "passage analysis",
+        "poetry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_004",
+      "question": "What is the protagonist of a story?",
+      "correctAnswer": "The main character",
+      "distractors": [
+        "The character who opposes the hero",
+        "The narrator of the story",
+        "A minor supporting character"
+      ],
+      "explanation": "The protagonist is the central character around whom the story revolves.",
+      "memoryHook": "T-Rexy says: the protagonist is the star of the show.",
+      "imageUrl": "topic:protagonist",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_005",
+      "question": "In poetry, what is a stanza?",
+      "correctAnswer": "A grouped set of lines, like a paragraph in prose",
+      "distractors": [
+        "A single line of poetry",
+        "The rhyme at the end of lines",
+        "The rhythm pattern of a poem"
+      ],
+      "explanation": "A stanza is a grouped set of lines in a poem, separated by a blank line. Stanzas organize ideas the way paragraphs do in prose, and they are named by line count: a couplet has 2 lines, a quatrain has 4.",
+      "memoryHook": "T-Rexy says: stanza equals poetry paragraph.",
+      "imageUrl": "topic:stanza",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_006",
+      "question": "Read this passage from Emily Dickinson's poem \"The Chariot\" (first published 1890):\n\n\"Because I could not stop for Death,\nHe kindly stopped for me;\nThe carriage held but just ourselves\nAnd Immortality.\n\nWe slowly drove, he knew no haste,\nAnd I had put away\nMy labor, and my leisure too,\nFor his civility.\n\nWe passed the school where children played,\nTheir lessons scarcely done;\nWe passed the fields of gazing grain,\nWe passed the setting sun.\n\nWe paused before a house that seemed\nA swelling of the ground;\nThe roof was scarcely visible,\nThe cornice but a mound.\n\nSince then 't is centuries; but each\nFeels shorter than the day\nI first surmised the horses' heads\nWere toward eternity.\"\n\nIn the poem, Death is personified as",
+      "correctAnswer": "A courteous gentleman who kindly stops his carriage for the speaker",
+      "distractors": [
+        "A violent kidnapper who seizes the speaker by force",
+        "A careless driver in too great a hurry to stop",
+        "A distant stranger who ignores the speaker completely"
+      ],
+      "explanation": "Every signal is gentle: Death kindly stopped, knew no haste, and is thanked for his civility. The carriage ride borrows the manners of a polite caller or suitor, which is why personification - not force or neglect - is the device at work from the first stanza onward.",
+      "memoryHook": "T-Rexy says: Kindly, no haste, civility - this Death has gentleman's manners.",
+      "imageUrl": "topic:dickinson-the-chariot",
+      "tags": [
+        "passage analysis",
+        "poetry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_007",
+      "question": "What is personification?",
+      "correctAnswer": "Giving human qualities to non-human things",
+      "distractors": [
+        "Comparing with like or as",
+        "An extreme exaggeration",
+        "A reference to another work"
+      ],
+      "explanation": "Personification gives human traits, feelings, or actions to animals, objects, or ideas, like the wind whispered.",
+      "memoryHook": "T-Rexy says: if it cannot be human but acts human, that is personification.",
+      "imageUrl": "topic:personification",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_008",
+      "question": "What is alliteration?",
+      "correctAnswer": "The repetition of initial consonant sounds in nearby words",
+      "distractors": [
+        "The repetition of vowel sounds",
+        "Words that imitate sounds",
+        "A contrast of opposites"
+      ],
+      "explanation": "Alliteration repeats the beginning consonant sounds of nearby words, like Peter Piper picked.",
+      "memoryHook": "T-Rexy says: same starting sound, side by side - alliteration.",
+      "imageUrl": "topic:alliteration",
+      "tags": [
+        "literary-devices",
+        "poetry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_009",
+      "question": "Read this passage from Robert Frost's poem \"The Road Not Taken\" (1916):\n\n\"Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I--\nI took the one less traveled by,\nAnd that has made all the difference.\"\n\nWhich statement most accurately describes the two roads as the speaker presents them?",
+      "correctAnswer": "They are worn about the same; the second road's advantage is only a \"perhaps,\" and both lie equally untrodden that morning",
+      "distractors": [
+        "The second road is clearly less traveled, which is exactly why the speaker chooses it",
+        "The first road is the grassy one, while the second has been worn smooth by travelers",
+        "The speaker cannot see either road well enough to compare them at all"
+      ],
+      "explanation": "The middle stanzas correct the famous summary: the passing there \"Had worn them really about the same,\" and \"both that morning equally lay / In leaves no step had trodden black.\" The second road has \"perhaps the better claim\" - a hedge, not a fact - which is why the last stanza is a story the speaker predicts he will tell, not a report of what happened.",
+      "memoryHook": "T-Rexy says: \"Really about the same\" is the line the famous quote forgets.",
+      "imageUrl": "topic:frost-road-not-taken",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_010",
+      "question": "What is the theme of a literary work?",
+      "correctAnswer": "Its central message or underlying meaning",
+      "distractors": [
+        "The time and place of the story",
+        "The main character",
+        "The sequence of events"
+      ],
+      "explanation": "The theme is the central idea or message the author explores, such as the corrupting power of greed.",
+      "memoryHook": "T-Rexy says: theme equals the big message hiding inside the story.",
+      "imageUrl": "topic:theme",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_011",
+      "question": "What is hyperbole?",
+      "correctAnswer": "Extreme exaggeration for emphasis or humor",
+      "distractors": [
+        "A subtle understatement",
+        "A comparison using like",
+        "A serious moral lesson"
+      ],
+      "explanation": "Hyperbole is deliberate overstatement, like I have told you a million times, used for emphasis or comic effect.",
+      "memoryHook": "T-Rexy says: a million times equals hyperbole - the exaggeration gives it away.",
+      "imageUrl": "topic:hyperbole",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_012",
+      "question": "Read this passage from Frederick Douglass's Narrative of the Life of Frederick Douglass (1845), Chapter VII:\n\n\"The more I read, the more I was led to abhor and detest my enslavers. I could regard them in no other light than a band of successful robbers, who had left their homes, and gone to Africa, and stolen us from our homes, and in a strange land reduced us to slavery. I loathed them as being the meanest as well as the most wicked of men. As I read and contemplated the subject, behold! that very discontentment which Master Hugh had predicted would follow my learning to read had already come, to torment and sting my soul to unutterable anguish. As I writhed under it, I would at times feel that learning to read had been a curse rather than a blessing. It had given me a view of my wretched condition, without the remedy. It opened my eyes to the horrible pit, but to no ladder upon which to get out. In moments of agony, I envied my fellow-slaves for their stupidity. I have often wished myself a beast. I preferred the condition of the meanest reptile to my own. Any thing, no matter what, to get rid of thinking! It was this everlasting thinking of my condition that tormented me. There was no getting rid of it. It was pressed upon me by every object within sight or hearing, animate or inanimate. The silver trump of freedom had roused my soul to eternal wakefulness. Freedom now appeared, to disappear no more forever. It was heard in every sound, and seen in every thing. It was ever present to torment me with a sense of my wretched condition. I saw nothing without seeing it, I heard nothing without hearing it, and felt nothing without feeling it. It looked from every star, it smiled in every calm, breathed in every wind, and moved in every storm.\"\n\nDouglass says learning to read felt like \"a curse rather than a blessing\" because it",
+      "correctAnswer": "Gave him a clear view of his wretched condition as a slave while giving him no remedy or way out",
+      "distractors": [
+        "Made his enslavers beat him more often than before",
+        "Destroyed his ability to think about anything else at all",
+        "Convinced him that freedom itself was not worth wanting"
+      ],
+      "explanation": "Douglass states the mechanism in his own next sentences: reading gave a view of my wretched condition, without the remedy, opening his eyes to the pit but to no ladder. Knowledge sharpened the pain of bondage precisely because escape did not come with it - the opposite of losing interest in freedom, which blazes through the whole excerpt.",
+      "memoryHook": "T-Rexy says: Seeing the pit with no ladder - that is the curse inside the blessing.",
+      "imageUrl": "topic:douglass-narrative",
+      "tags": [
+        "passage analysis",
+        "prose nonfiction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_013",
+      "question": "What is a narrator?",
+      "correctAnswer": "The voice or character who tells the story",
+      "distractors": [
+        "The main villain",
+        "The author in real life",
+        "The person who edits the book"
+      ],
+      "explanation": "The narrator is the voice telling the story, which may be a character inside it or an outside observer.",
+      "memoryHook": "T-Rexy says: find who is talking - that is your narrator.",
+      "imageUrl": "topic:narrator",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_014",
+      "question": "What is imagery in literature?",
+      "correctAnswer": "Descriptive language that appeals to the senses",
+      "distractors": [
+        "A type of rhyme scheme",
+        "A chart showing the plot",
+        "The moral of the story"
+      ],
+      "explanation": "Imagery uses vivid sensory details - sight, sound, smell, taste, touch - to create pictures in the reader's mind.",
+      "memoryHook": "T-Rexy says: if you can see it, hear it, or smell it in words, that is imagery.",
+      "imageUrl": "topic:imagery",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_015",
+      "question": "Read this passage from Robert Frost's poem \"The Road Not Taken\" (1916):\n\n\"Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I--\nI took the one less traveled by,\nAnd that has made all the difference.\"\n\nIn the line \"Because it was grassy and wanted wear,\" the road is described as if it",
+      "correctAnswer": "Desired something, like a person - the road is personified as wanting to be walked on",
+      "distractors": [
+        "Had already been worn down by years of heavy traffic",
+        "Was blocked by grass too thick for anyone to pass",
+        "Reminded the speaker of a road he had known in childhood"
+      ],
+      "explanation": "\"Wanted\" gives the road a human desire: it lacks, and longs for, travelers' feet. That is personification - a human want assigned to a thing - and it flatters the speaker's choice by making the road seem to invite him onto it.",
+      "memoryHook": "T-Rexy says: A road that wants something is a road personified.",
+      "imageUrl": "topic:frost-road-not-taken",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "figurative language"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_016",
+      "question": "What is foreshadowing?",
+      "correctAnswer": "Hints or clues about what will happen later",
+      "distractors": [
+        "A flashback to earlier events",
+        "The final resolution",
+        "A character's backstory"
+      ],
+      "explanation": "Foreshadowing plants subtle hints early in a story that suggest later developments.",
+      "memoryHook": "T-Rexy says: a shadow cast forward - foreshadowing warns of what is coming.",
+      "imageUrl": "topic:foreshadowing",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_017",
+      "question": "What is the climax of a plot?",
+      "correctAnswer": "The turning point of greatest tension",
+      "distractors": [
+        "The opening scene",
+        "The background exposition",
+        "The final sentence"
+      ],
+      "explanation": "The climax is the peak of action and tension, the turning point after which the outcome becomes clear.",
+      "memoryHook": "T-Rexy says: climax equals the peak - everything climbs to it.",
+      "imageUrl": "topic:climax",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_018",
+      "question": "Read this passage from Jane Austen's Pride and Prejudice (1813), Chapter 1:\n\n\"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.\n\nHowever little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.\n\n\"My dear Mr. Bennet,\" said his lady to him one day, \"have you heard that Netherfield Park is let at last?\"\n\nMr. Bennet replied that he had not.\n\n\"But it is,\" returned she; \"for Mrs. Long has just been here, and she told me all about it.\"\n\nMr. Bennet made no answer.\n\n\"Do not you want to know who has taken it?\" cried his wife impatiently.\n\n\"You want to tell me, and I have no objection to hearing it.\"\n\nThis was invitation enough.\"\n\nThe celebrated opening sentence is best understood as ironic because the supposed universal truth is actually",
+      "correctAnswer": "Not a truth about men at all, but a fixed assumption in the minds of families with daughters to marry",
+      "distractors": [
+        "A proven fact about what every wealthy man desires",
+        "A law that the narrator expects readers to obey",
+        "Mr. Bennet's private opinion, stated in his own words"
+      ],
+      "explanation": "The second paragraph gives the game away: however little known the man's own feelings or views may be, the truth is fixed in the minds of the surrounding families. The desire belongs to the watching families, not to the man - the aphorism is the neighbourhood's wish dressed up as a law of nature.",
+      "memoryHook": "T-Rexy says: Check whose mind holds the truth - the irony sits there.",
+      "imageUrl": "topic:austen-pride-and-prejudice",
+      "tags": [
+        "passage analysis",
+        "prose fiction",
+        "tone"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_019",
+      "question": "What is onomatopoeia?",
+      "correctAnswer": "A word that imitates the sound it names",
+      "distractors": [
+        "A word with opposite meanings",
+        "A repeated vowel sound",
+        "A hidden symbolic meaning"
+      ],
+      "explanation": "Onomatopoeia forms words from associated sounds, like buzz, hiss, or crash.",
+      "memoryHook": "T-Rexy says: hear the word and you hear the sound - onomatopoeia.",
+      "imageUrl": "topic:onomatopoeia",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_020",
+      "question": "What is a tragedy in drama?",
+      "correctAnswer": "A serious play ending in catastrophe for the protagonist",
+      "distractors": [
+        "A funny play with a happy ending",
+        "A short comic sketch",
+        "A musical performance"
+      ],
+      "explanation": "A tragedy is a serious drama in which the protagonist suffers a downfall, often ending in death.",
+      "memoryHook": "T-Rexy says: tragedy ends in tears, comedy ends in cheers.",
+      "imageUrl": "topic:tragedy",
+      "tags": [
+        "drama"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_021",
+      "question": "Read this passage from William Shakespeare's Sonnet 18 (1609):\n\n\"Shall I compare thee to a summer's day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May,\nAnd summer's lease hath all too short a date:\nSometime too hot the eye of heaven shines,\nAnd often is his gold complexion dimmed,\nAnd every fair from fair sometime declines,\nBy chance, or nature's changing course untrimmed:\nBut thy eternal summer shall not fade,\nNor lose possession of that fair thou ow'st,\nNor shall death brag thou wand'rest in his shade,\nWhen in eternal lines to time thou grow'st,\nSo long as men can breathe or eyes can see,\nSo long lives this, and this gives life to thee.\"\n\nAccording to the speaker, the beloved is superior to a summer's day chiefly because the beloved is",
+      "correctAnswer": "More lovely and more temperate, free of summer's extremes and short duration",
+      "distractors": [
+        "Hotter and more changeable than the season",
+        "Present in every season of the year at once",
+        "An actual season rather than a human being"
+      ],
+      "explanation": "Line 2 states the contrast directly: the beloved is more lovely and more temperate. The next six lines list summer's faults - rough winds, a lease that is too short, heat, dimming - so the beloved's superiority lies in lacking those faults, not in sharing them more intensely.",
+      "memoryHook": "T-Rexy says: Temperate means no extremes - the beloved beats summer by staying steady.",
+      "imageUrl": "topic:shakespeare-sonnet-18",
+      "tags": [
+        "passage analysis",
+        "poetry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_022",
+      "question": "What is dialogue in a literary work?",
+      "correctAnswer": "Conversation between characters",
+      "distractors": [
+        "The author's personal diary",
+        "A description of scenery",
+        "The chapter titles"
+      ],
+      "explanation": "Dialogue is the written conversation between two or more characters in a story or play.",
+      "memoryHook": "T-Rexy says: quotation marks talking - that is dialogue.",
+      "imageUrl": "topic:dialogue",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_023",
+      "question": "What is the setting of a story?",
+      "correctAnswer": "Its time and place",
+      "distractors": [
+        "Its main conflict",
+        "Its moral lesson",
+        "Its chapter divisions"
+      ],
+      "explanation": "The setting establishes when and where the story takes place, shaping mood and context.",
+      "memoryHook": "T-Rexy says: setting equals when plus where.",
+      "imageUrl": "topic:setting",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_024",
+      "question": "Read this passage from Jane Austen's Pride and Prejudice (1813), Chapter 1:\n\n\"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.\n\nHowever little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.\n\n\"My dear Mr. Bennet,\" said his lady to him one day, \"have you heard that Netherfield Park is let at last?\"\n\nMr. Bennet replied that he had not.\n\n\"But it is,\" returned she; \"for Mrs. Long has just been here, and she told me all about it.\"\n\nMr. Bennet made no answer.\n\n\"Do not you want to know who has taken it?\" cried his wife impatiently.\n\n\"You want to tell me, and I have no objection to hearing it.\"\n\nThis was invitation enough.\"\n\nCalling the new arrival \"the rightful property of some one or other of their daughters\" implies that the surrounding families regard a wealthy single man as",
+      "correctAnswer": "A prize that already belongs to them by right, needing only to be claimed by one of their daughters",
+      "distractors": [
+        "A stranger whose private wishes they carefully respect",
+        "A threat to the neighbourhood that must be driven away",
+        "A public official whose property they intend to tax"
+      ],
+      "explanation": "Property language reverses the real power relation: the man owns the fortune, yet the families treat him as the asset. Rightful adds a claim of entitlement, and some one or other shows that which daughter gets him hardly matters - the satire targets a marriage market that assigns people like lots at an auction.",
+      "memoryHook": "T-Rexy says: Property plus rightful - the families have claimed him before meeting him.",
+      "imageUrl": "topic:austen-pride-and-prejudice",
+      "tags": [
+        "passage analysis",
+        "prose fiction",
+        "diction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_025",
+      "question": "What is a symbol in literature?",
+      "correctAnswer": "An object or image that represents an idea",
+      "distractors": [
+        "A character's full name",
+        "The page number",
+        "A spelling error"
+      ],
+      "explanation": "A symbol is a concrete object, character, or image that stands for an abstract idea, like a dove for peace.",
+      "memoryHook": "T-Rexy says: the thing you see stands for something you cannot - that is a symbol.",
+      "imageUrl": "topic:symbol",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_026",
+      "question": "What is rhyme in poetry?",
+      "correctAnswer": "Repetition of similar sounds, usually at line ends",
+      "distractors": [
+        "Counting syllables per line",
+        "Writing without punctuation",
+        "Using only short words"
+      ],
+      "explanation": "Rhyme is the repetition of similar sounds in words, most often at the ends of poetic lines.",
+      "memoryHook": "T-Rexy says: cat plus hat - rhyme is that.",
+      "imageUrl": "topic:rhyme",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_027",
+      "question": "Read this passage from Frederick Douglass's Narrative of the Life of Frederick Douglass (1845), Chapter VII:\n\n\"The more I read, the more I was led to abhor and detest my enslavers. I could regard them in no other light than a band of successful robbers, who had left their homes, and gone to Africa, and stolen us from our homes, and in a strange land reduced us to slavery. I loathed them as being the meanest as well as the most wicked of men. As I read and contemplated the subject, behold! that very discontentment which Master Hugh had predicted would follow my learning to read had already come, to torment and sting my soul to unutterable anguish. As I writhed under it, I would at times feel that learning to read had been a curse rather than a blessing. It had given me a view of my wretched condition, without the remedy. It opened my eyes to the horrible pit, but to no ladder upon which to get out. In moments of agony, I envied my fellow-slaves for their stupidity. I have often wished myself a beast. I preferred the condition of the meanest reptile to my own. Any thing, no matter what, to get rid of thinking! It was this everlasting thinking of my condition that tormented me. There was no getting rid of it. It was pressed upon me by every object within sight or hearing, animate or inanimate. The silver trump of freedom had roused my soul to eternal wakefulness. Freedom now appeared, to disappear no more forever. It was heard in every sound, and seen in every thing. It was ever present to torment me with a sense of my wretched condition. I saw nothing without seeing it, I heard nothing without hearing it, and felt nothing without feeling it. It looked from every star, it smiled in every calm, breathed in every wind, and moved in every storm.\"\n\nIn \"It opened my eyes to the horrible pit, but to no ladder upon which to get out,\" the missing ladder represents",
+      "correctAnswer": "A practical means of escaping slavery, which reading by itself did not supply",
+      "distractors": [
+        "The school lessons that Douglass had not yet finished",
+        "A literal ladder hidden somewhere in his master's house",
+        "The reward his enslavers promised him for good behavior"
+      ],
+      "explanation": "The pit is his condition as a slave, now fully seen; a ladder would be the tool that converts seeing into getting out. The metaphor measures the gap between awareness and power. Nothing in the passage concerns a physical ladder, an unfinished lesson plan, or a promised reward.",
+      "memoryHook": "T-Rexy says: Pit equals his condition; ladder equals a way out - read the pair together.",
+      "imageUrl": "topic:douglass-narrative",
+      "tags": [
+        "passage analysis",
+        "prose nonfiction",
+        "figurative language"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_028",
+      "question": "What is an antagonist?",
+      "correctAnswer": "A character who opposes the protagonist",
+      "distractors": [
+        "The hero of the story",
+        "The narrator",
+        "A comic relief figure"
+      ],
+      "explanation": "The antagonist creates conflict by opposing the protagonist, though not always a villain.",
+      "memoryHook": "T-Rexy says: anti means against - the antagonist pushes against the hero.",
+      "imageUrl": "topic:antagonist",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_029",
+      "question": "What is irony?",
+      "correctAnswer": "A contrast between what is expected and what actually happens",
+      "distractors": [
+        "A type of metal",
+        "A happy coincidence",
+        "A long speech"
+      ],
+      "explanation": "Irony involves a gap between expectation and reality, such as a fire station burning down.",
+      "memoryHook": "T-Rexy says: expect one thing, get the opposite - that is irony.",
+      "imageUrl": "topic:irony",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_030",
+      "question": "Read this passage from Nathaniel Hawthorne's The Scarlet Letter (1850), Chapter I, \"The Prison-Door\":\n\n\"A throng of bearded men, in sad-colored garments, and gray, steeple-crowned hats, intermixed with women, some wearing hoods and others bareheaded, was assembled in front of a wooden edifice, the door of which was heavily timbered with oak, and studded with iron spikes.\n\nThe founders of a new colony, whatever Utopia of human virtue and happiness they might originally project, have invariably recognized it among their earliest practical necessities to allot a portion of the virgin soil as a cemetery, and another portion as the site of a prison. In accordance with this rule, it may safely be assumed that the forefathers of Boston had built the first prison-house somewhere in the vicinity of Cornhill, almost as seasonably as they marked out the first burial-ground, on Isaac Johnson's lot, and round about his grave, which subsequently became the nucleus of all the congregated sepulchres in the old churchyard of King's Chapel. Certain it is, that, some fifteen or twenty years after the settlement of the town, the wooden jail was already marked with weather-stains and other indications of age, which gave a yet darker aspect to its beetle-browed and gloomy front. The rust on the ponderous iron-work of its oaken door looked more antique than anything else in the New World. Like all that pertains to crime, it seemed never to have known a youthful era. Before this ugly edifice, and between it and the wheel-track of the street, was a grass-plot, much overgrown with burdock, pigweed, apple-peru, and such unsightly vegetation, which evidently found something congenial in the soil that had so early borne the black flower of civilized society, a prison.\n\nBut on one side of the portal, and rooted almost at the threshold, was a wild rose-bush, covered, in this month of June, with its delicate gems, which might be imagined to offer their fragrance and fragile beauty to the prisoner as he went in, and to the condemned criminal as he came forth to his doom, in token that the deep heart of Nature could pity and be kind to him.\"\n\nThe description of the crowd and the prison-door chiefly establishes a setting that is",
+      "correctAnswer": "Somber and severe, in a colony where punishment stands among the first institutions built",
+      "distractors": [
+        "Festive and welcoming to newcomers arriving in Boston",
+        "Wealthy and luxurious beyond anything in the Old World",
+        "Peaceful and indifferent to matters of crime and law"
+      ],
+      "explanation": "Sad-colored garments, steeple-crowned hats, oak timbered with iron spikes, weather-stains and rust: every visual detail darkens. The narrator then generalizes - a cemetery and a prison are among the earliest necessities of any new colony - so severity is structural in this world, not an accident of one building.",
+      "memoryHook": "T-Rexy says: Iron spikes plus sad colors - severity is built into this town from day one.",
+      "imageUrl": "topic:hawthorne-scarlet-letter",
+      "tags": [
+        "passage analysis",
+        "prose fiction",
+        "setting"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_031",
+      "question": "What is iambic pentameter?",
+      "correctAnswer": "A line of five iambs, each an unstressed then stressed syllable",
+      "distractors": [
+        "Five stressed syllables in a row",
+        "Ten lines per stanza",
+        "A poem with five rhymes"
+      ],
+      "explanation": "Iambic pentameter is a metrical line of five iambic feet, ten syllables alternating unstressed-stressed, as in Shakespeare.",
+      "memoryHook": "T-Rexy says: five iambs, da-DUM times five - iambic pentameter.",
+      "imageUrl": "topic:iambic-pentameter",
+      "tags": [
+        "poetry",
+        "meter"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_032",
+      "question": "What is the rhyme scheme of a Shakespearean sonnet?",
+      "correctAnswer": "ABAB CDCD EFEF GG",
+      "distractors": [
+        "ABBA ABBA CDE CDE",
+        "AABB CCDD EEFF GG",
+        "ABAB BCBC CDCD EE"
+      ],
+      "explanation": "A Shakespearean sonnet has three quatrains and a couplet rhyming ABAB CDCD EFEF GG.",
+      "memoryHook": "T-Rexy says: three fours plus a pair - ABAB CDCD EFEF GG.",
+      "imageUrl": "topic:sonnet",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_033",
+      "question": "What is dramatic irony?",
+      "correctAnswer": "When the audience knows something the characters do not",
+      "distractors": [
+        "A funny coincidence",
+        "An actor forgetting lines",
+        "A play with no dialogue"
+      ],
+      "explanation": "Dramatic irony occurs when readers or viewers know more than the characters, creating tension.",
+      "memoryHook": "T-Rexy says: you know it, they do not - dramatic irony.",
+      "imageUrl": "topic:dramatic-irony",
+      "tags": [
+        "literary-devices",
+        "drama"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_034",
+      "question": "Read this passage from Nathaniel Hawthorne's The Scarlet Letter (1850), Chapter I, \"The Prison-Door\":\n\n\"A throng of bearded men, in sad-colored garments, and gray, steeple-crowned hats, intermixed with women, some wearing hoods and others bareheaded, was assembled in front of a wooden edifice, the door of which was heavily timbered with oak, and studded with iron spikes.\n\nThe founders of a new colony, whatever Utopia of human virtue and happiness they might originally project, have invariably recognized it among their earliest practical necessities to allot a portion of the virgin soil as a cemetery, and another portion as the site of a prison. In accordance with this rule, it may safely be assumed that the forefathers of Boston had built the first prison-house somewhere in the vicinity of Cornhill, almost as seasonably as they marked out the first burial-ground, on Isaac Johnson's lot, and round about his grave, which subsequently became the nucleus of all the congregated sepulchres in the old churchyard of King's Chapel. Certain it is, that, some fifteen or twenty years after the settlement of the town, the wooden jail was already marked with weather-stains and other indications of age, which gave a yet darker aspect to its beetle-browed and gloomy front. The rust on the ponderous iron-work of its oaken door looked more antique than anything else in the New World. Like all that pertains to crime, it seemed never to have known a youthful era. Before this ugly edifice, and between it and the wheel-track of the street, was a grass-plot, much overgrown with burdock, pigweed, apple-peru, and such unsightly vegetation, which evidently found something congenial in the soil that had so early borne the black flower of civilized society, a prison.\n\nBut on one side of the portal, and rooted almost at the threshold, was a wild rose-bush, covered, in this month of June, with its delicate gems, which might be imagined to offer their fragrance and fragile beauty to the prisoner as he went in, and to the condemned criminal as he came forth to his doom, in token that the deep heart of Nature could pity and be kind to him.\"\n\nThe pairing of the cemetery and the prison as a new colony's earliest necessities suggests that, whatever Utopia the founders projected,",
+      "correctAnswer": "Death and crime are treated as certainties of human life that no ideal plan can design away",
+      "distractors": [
+        "The founders cared about buildings more than about people",
+        "Boston's soil was unsuitable for farms or dwelling houses",
+        "The colony expected to be attacked by enemies within a year"
+      ],
+      "explanation": "The sentence sets Utopia of human virtue and happiness against what the founders invariably did first. Hope said one thing; practice allotted ground for burial and punishment. The implication is about human nature itself - sin and mortality arrive with the settlers - not about soil, enemies, or architecture.",
+      "memoryHook": "T-Rexy says: First a graveyard, then a jail - the founders planned for death and sin, not utopia.",
+      "imageUrl": "topic:hawthorne-scarlet-letter",
+      "tags": [
+        "passage analysis",
+        "prose fiction"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_035",
+      "question": "What is stream of consciousness narration?",
+      "correctAnswer": "Writing that follows a character's uninterrupted flow of thoughts",
+      "distractors": [
+        "A narrator who shouts",
+        "Dialogue only, no description",
+        "A story told backwards"
+      ],
+      "explanation": "Stream of consciousness presents a character's thoughts as a continuous inner flow, used by Woolf and Joyce.",
+      "memoryHook": "T-Rexy says: thoughts flowing like a stream - stream of consciousness.",
+      "imageUrl": "topic:stream-of-consciousness",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_036",
+      "question": "Read this passage from Emily Dickinson's poem \"The Chariot\" (first published 1890):\n\n\"Because I could not stop for Death,\nHe kindly stopped for me;\nThe carriage held but just ourselves\nAnd Immortality.\n\nWe slowly drove, he knew no haste,\nAnd I had put away\nMy labor, and my leisure too,\nFor his civility.\n\nWe passed the school where children played,\nTheir lessons scarcely done;\nWe passed the fields of gazing grain,\nWe passed the setting sun.\n\nWe paused before a house that seemed\nA swelling of the ground;\nThe roof was scarcely visible,\nThe cornice but a mound.\n\nSince then 't is centuries; but each\nFeels shorter than the day\nI first surmised the horses' heads\nWere toward eternity.\"\n\nThe carriage passes a school, then fields of grain, then the setting sun. Read in sequence, these three scenes most plausibly trace",
+      "correctAnswer": "The stages of a human life, from childhood through maturity to its close",
+      "distractors": [
+        "Three places the speaker visited on one real afternoon",
+        "The daily schedule of a farmer in the speaker's town",
+        "Three omens that warn the speaker to turn back"
+      ],
+      "explanation": "Children at play stand for youth, ripened grain for the maturity of working life, and the setting sun for life's end. The order matters: the carriage moves only forward through the sequence, so the landscape becomes a compressed biography passing beside a passenger who no longer acts but only watches.",
+      "memoryHook": "T-Rexy says: Children, ripe grain, sunset - read the ride as a whole life passing.",
+      "imageUrl": "topic:dickinson-the-chariot",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_037",
+      "question": "What is an unreliable narrator?",
+      "correctAnswer": "A narrator whose credibility is compromised",
+      "distractors": [
+        "A narrator who never speaks",
+        "A story with no narrator",
+        "A narrator who is always correct"
+      ],
+      "explanation": "An unreliable narrator misleads readers through bias, ignorance, or deceit, forcing active interpretation.",
+      "memoryHook": "T-Rexy says: do not trust every I - unreliable narrators deceive.",
+      "imageUrl": "topic:unreliable-narrator",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_038",
+      "question": "Read this passage from William Shakespeare's Hamlet (c. 1603), Act III, Scene I - Hamlet's soliloquy:\n\n\"To be, or not to be: that is the question:\nWhether 'tis nobler in the mind to suffer\nThe slings and arrows of outrageous fortune,\nOr to take arms against a sea of troubles,\nAnd by opposing end them? To die: to sleep;\nNo more; and by a sleep to say we end\nThe heart-ache and the thousand natural shocks\nThat flesh is heir to, 'tis a consummation\nDevoutly to be wish'd. To die, to sleep;\nTo sleep: perchance to dream: ay, there's the rub;\nFor in that sleep of death what dreams may come\nWhen we have shuffled off this mortal coil,\nMust give us pause: there's the respect\nThat makes calamity of so long life;\nFor who would bear the whips and scorns of time,\nThe oppressor's wrong, the proud man's contumely,\nThe pangs of despised love, the law's delay,\nThe insolence of office and the spurns\nThat patient merit of the unworthy takes,\nWhen he himself might his quietus make\nWith a bare bodkin? who would fardels bear,\nTo grunt and sweat under a weary life,\nBut that the dread of something after death,\nThe undiscover'd country from whose bourn\nNo traveller returns, puzzles the will\nAnd makes us rather bear those ills we have\nThan fly to others that we know not of?\nThus conscience does make cowards of us all;\nAnd thus the native hue of resolution\nIs sicklied o'er with the pale cast of thought,\nAnd enterprises of great pith and moment\nWith this regard their currents turn awry,\nAnd lose the name of action. Soft you now!\nThe fair Ophelia! Nymph, in thy orisons\nBe all my sins remember'd.\"\n\nIn the speech's opening movement, Hamlet figures death as sleep - \"To die: to sleep; / No more\" - and calls that end",
+      "correctAnswer": "\"A consummation / Devoutly to be wish'd\": death first appears as a rest that would finish suffering altogether",
+      "distractors": [
+        "A punishment the soul must expect for its sins",
+        "A journey to a country that travelers praise",
+        "A battle that Hamlet is eager to fight at last"
+      ],
+      "explanation": "Before the turn, the metaphor promises oblivion: sleep ends \"the heart-ache and the thousand natural shocks / That flesh is heir to,\" which is why the end is \"devoutly to be wish'd.\" The wish depends entirely on sleep meaning nothingness - the assumption the next lines take apart.",
+      "memoryHook": "T-Rexy says: Death as sleep sounds like rest - until dreams apply for the job.",
+      "imageUrl": "topic:hamlet-soliloquy",
+      "tags": [
+        "passage analysis",
+        "drama",
+        "figurative language"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_039",
+      "question": "What is a foil character?",
+      "correctAnswer": "A character who contrasts with another to highlight traits",
+      "distractors": [
+        "A metal sword",
+        "The main villain",
+        "A narrator"
+      ],
+      "explanation": "A foil is a character whose contrasting qualities emphasize another character's traits.",
+      "memoryHook": "T-Rexy says: foil reflects by contrast - opposites highlight.",
+      "imageUrl": "topic:foil",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_040",
+      "question": "Read this passage from Robert Frost's poem \"The Road Not Taken\" (1916):\n\n\"Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I--\nI took the one less traveled by,\nAnd that has made all the difference.\"\n\nThe speaker's prediction \"I shall be telling this with a sigh / Somewhere ages and ages hence\" most strongly suggests that he",
+      "correctAnswer": "Already knows he will retell this small, nearly even choice as a solemn story that made \"all the difference\"",
+      "distractors": [
+        "Regrets the road he took and wishes he could return and choose again",
+        "Is exhausted from the walk and sighs with physical weariness",
+        "Plans to come back the next morning and take the first road instead"
+      ],
+      "explanation": "The sigh belongs to the future act of telling, years from now. The speaker imagines his older self narrating the moment as momentous - \"that has made all the difference\" - even though the poem has shown the roads to be nearly identical. The subject is how a life story gets authored after the fact.",
+      "memoryHook": "T-Rexy says: The sigh is for the story he will tell, not for the road he took.",
+      "imageUrl": "topic:frost-road-not-taken",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "narration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_041",
+      "question": "What is an allegory?",
+      "correctAnswer": "A story where characters and events symbolize deeper meanings",
+      "distractors": [
+        "A funny anecdote",
+        "A list of characters",
+        "A type of rhyme"
+      ],
+      "explanation": "An allegory is a narrative in which every element systematically represents abstract ideas, like Animal Farm.",
+      "memoryHook": "T-Rexy says: every piece means something bigger - allegory.",
+      "imageUrl": "topic:allegory",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_042",
+      "question": "Read this passage from Robert Frost's poem \"The Road Not Taken\" (1916):\n\n\"Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I--\nI took the one less traveled by,\nAnd that has made all the difference.\"\n\nRead as a whole, the poem's structure works against the lesson it is usually quoted for, because the speaker",
+      "correctAnswer": "First establishes that the roads were essentially equal, and only later - inside an imagined future retelling - calls one of them \"the one less traveled by\"",
+      "distractors": [
+        "Admits in the final stanza that he chose the wrong road and ruined his life",
+        "Never actually chooses between the roads at all",
+        "Describes the roads accurately in the last stanza and draws the obvious moral from them"
+      ],
+      "explanation": "Stanzas two and three are a record of sameness: \"really about the same,\" \"equally lay,\" and a first road saved for a return the speaker doubts will ever happen. The difference appears only inside the future telling: \"I shall be telling this...\" The poem thus dramatizes how people manufacture turning points, which is nearly the reverse of the motivational reading.",
+      "memoryHook": "T-Rexy says: The difference is made by the telling, not by the road.",
+      "imageUrl": "topic:frost-road-not-taken",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "structure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_043",
+      "question": "What is free verse poetry?",
+      "correctAnswer": "Poetry without regular meter or rhyme scheme",
+      "distractors": [
+        "Poetry that is free of charge",
+        "Poems about freedom",
+        "Verse with exactly ten syllables"
+      ],
+      "explanation": "Free verse has no set meter or rhyme, relying on natural rhythms, as in Whitman's work.",
+      "memoryHook": "T-Rexy says: free from rules - free verse.",
+      "imageUrl": "topic:free-verse",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_044",
+      "question": "Who is credited with writing The Odyssey?",
+      "correctAnswer": "Homer",
+      "distractors": [
+        "Virgil",
+        "Sophocles",
+        "Plato"
+      ],
+      "explanation": "Homer is traditionally credited with The Odyssey, the ancient Greek epic of Odysseus's journey home.",
+      "memoryHook": "T-Rexy says: Homer plus Odyssey - epic pair.",
+      "imageUrl": "topic:odyssey",
+      "tags": [
+        "epic",
+        "authors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_045",
+      "question": "What is satire?",
+      "correctAnswer": "Writing that uses humor and irony to criticize folly",
+      "distractors": [
+        "A serious tragedy",
+        "A love poem",
+        "A historical chronicle"
+      ],
+      "explanation": "Satire exposes human vice and folly through wit, irony, and exaggeration to provoke reform.",
+      "memoryHook": "T-Rexy says: laughing to criticize - satire stings with a smile.",
+      "imageUrl": "topic:satire",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_046",
+      "question": "Read this passage from Emily Dickinson's poem \"The Chariot\" (first published 1890):\n\n\"Because I could not stop for Death,\nHe kindly stopped for me;\nThe carriage held but just ourselves\nAnd Immortality.\n\nWe slowly drove, he knew no haste,\nAnd I had put away\nMy labor, and my leisure too,\nFor his civility.\n\nWe passed the school where children played,\nTheir lessons scarcely done;\nWe passed the fields of gazing grain,\nWe passed the setting sun.\n\nWe paused before a house that seemed\nA swelling of the ground;\nThe roof was scarcely visible,\nThe cornice but a mound.\n\nSince then 't is centuries; but each\nFeels shorter than the day\nI first surmised the horses' heads\nWere toward eternity.\"\n\nThe \"house that seemed a swelling of the ground,\" whose roof is scarcely visible and whose cornice is but a mound, is",
+      "correctAnswer": "The speaker's grave, described in the architectural language of a low dwelling",
+      "distractors": [
+        "The childhood home the speaker left behind years ago",
+        "A settler's sod hut on the edge of the town",
+        "The schoolhouse seen again from far away"
+      ],
+      "explanation": "A house reduced to a mound in the ground, with roof and cornice barely rising above the earth, matches a burial plot, not a building anyone lives in. The carriage pauses there before the final stanza speaks of centuries and eternity, confirming the stop is the grave on the way to eternity.",
+      "memoryHook": "T-Rexy says: Roof at ground level plus a mound equals a grave dressed as a house.",
+      "imageUrl": "topic:dickinson-the-chariot",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "figurative language"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_047",
+      "question": "What is a motif in literature?",
+      "correctAnswer": "A recurring image, idea, or symbol",
+      "distractors": [
+        "A characters motive",
+        "The book's cover design",
+        "A printing error"
+      ],
+      "explanation": "A motif is a repeated element - image, phrase, or idea - that reinforces theme.",
+      "memoryHook": "T-Rexy says: it keeps coming back - motif means recurring.",
+      "imageUrl": "topic:motif",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_048",
+      "question": "Read this passage from William Blake's poem \"The Tiger\" (1794):\n\n\"Tiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nCould frame thy fearful symmetry?\n\nIn what distant deeps or skies\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand dare seize the fire?\n\nAnd what shoulder and what art\nCould twist the sinews of thy heart?\nAnd, when thy heart began to beat,\nWhat dread hand and what dread feet?\n\nWhat the hammer? what the chain?\nIn what furnace was thy brain?\nWhat the anvil? what dread grasp\nDare its deadly terrors clasp?\n\nWhen the stars threw down their spears,\nAnd watered heaven with their tears,\nDid He smile His work to see?\nDid He who made the lamb make thee?\n\nTiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nDare frame thy fearful symmetry?\"\n\nFire runs through the poem - \"burning bright,\" \"Burnt the fire of thine eyes,\" \"dare seize the fire,\" the furnace and the anvil. Taken together, these images chiefly present the tiger as",
+      "correctAnswer": "A creature of awesome, dangerous energy, forged like hot metal by a power the speaker can only wonder at",
+      "distractors": [
+        "A gentle animal warmed by the mild sun of the forest",
+        "A servant animal working in the smithy of its maker",
+        "A forest fire spreading through the night woods"
+      ],
+      "explanation": "Every fire word attaches either to the tiger itself (burning bright, the fire of its eyes) or to its making (seize the fire, furnace, anvil, hammer, chain). The cluster fuses animal and forge: the tiger is not merely near a fire, it is a made thing of fire - beautiful and terrifying at once.",
+      "memoryHook": "T-Rexy says: Count the fire words; the tiger is forged, not just fierce.",
+      "imageUrl": "topic:blake-the-tiger",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "figurative language"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_049",
+      "question": "What is enjambment in poetry?",
+      "correctAnswer": "A line that continues without pause into the next",
+      "distractors": [
+        "A line that rhymes",
+        "The final line",
+        "A poem with no lines"
+      ],
+      "explanation": "Enjambment carries a sentence past the line break without terminal punctuation, creating momentum.",
+      "memoryHook": "T-Rexy says: the thought jumps the line - enjambment.",
+      "imageUrl": "topic:enjambment",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_050",
+      "question": "Read this passage from William Blake's poem \"The Tiger\" (1794):\n\n\"Tiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nCould frame thy fearful symmetry?\n\nIn what distant deeps or skies\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand dare seize the fire?\n\nAnd what shoulder and what art\nCould twist the sinews of thy heart?\nAnd, when thy heart began to beat,\nWhat dread hand and what dread feet?\n\nWhat the hammer? what the chain?\nIn what furnace was thy brain?\nWhat the anvil? what dread grasp\nDare its deadly terrors clasp?\n\nWhen the stars threw down their spears,\nAnd watered heaven with their tears,\nDid He smile His work to see?\nDid He who made the lamb make thee?\n\nTiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nDare frame thy fearful symmetry?\"\n\nThe poem consists almost entirely of questions that receive no answers. This structure chiefly creates a speaker who",
+      "correctAnswer": "Stands in awe before a mystery he can interrogate but never resolve",
+      "distractors": [
+        "Is conducting a lesson whose answers every reader is expected to supply",
+        "Is furious at the tiger and demands that it explain itself",
+        "Gradually solves the riddle of the tiger's origin by the final stanza"
+      ],
+      "explanation": "Twenty-four lines ask who could frame, twist, seize, and dare - and the last stanza simply asks the first question again, harder (\"Dare\" for \"Could\"). A structure of pure questioning leaves the speaker, and the reader, inside the wonder rather than beyond it.",
+      "memoryHook": "T-Rexy says: A poem of questions with no answers is awe with nowhere to land.",
+      "imageUrl": "topic:blake-the-tiger",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_051",
+      "question": "What is a soliloquy?",
+      "correctAnswer": "A speech by a character alone on stage revealing inner thoughts",
+      "distractors": [
+        "Two characters arguing",
+        "The audience singing",
+        "A narrator's introduction"
+      ],
+      "explanation": "A soliloquy is delivered by a character alone, speaking thoughts aloud for the audience.",
+      "memoryHook": "T-Rexy says: solo plus speech - soliloquy is thinking out loud.",
+      "imageUrl": "topic:soliloquy",
+      "tags": [
+        "drama"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_052",
+      "question": "Read this passage from Jane Austen's Pride and Prejudice (1813), Chapter 1:\n\n\"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.\n\nHowever little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.\n\n\"My dear Mr. Bennet,\" said his lady to him one day, \"have you heard that Netherfield Park is let at last?\"\n\nMr. Bennet replied that he had not.\n\n\"But it is,\" returned she; \"for Mrs. Long has just been here, and she told me all about it.\"\n\nMr. Bennet made no answer.\n\n\"Do not you want to know who has taken it?\" cried his wife impatiently.\n\n\"You want to tell me, and I have no objection to hearing it.\"\n\nThis was invitation enough.\"\n\nMr. Bennet's reply, \"You want to tell me, and I have no objection to hearing it,\" characterizes him as",
+      "correctAnswer": "Dryly amused and detached; he sees exactly what his wife wants and declines to feign curiosity",
+      "distractors": [
+        "Genuinely ignorant of neighbourhood news and eager to learn",
+        "Angry at his wife and refusing to hear another word",
+        "Too timid to admit how interested he actually is"
+      ],
+      "explanation": "Mrs. Bennet builds suspense with questions; Mr. Bennet answers with silence, then names the real transaction - she wants to tell, he will permit it. The joke depends on his detachment: he understands her perfectly, which is why This was invitation enough lands. Nothing in his lines shows anger, fear, or eagerness.",
+      "memoryHook": "T-Rexy says: He is not fooled and not curious - dry detachment is Mr. Bennet's signature.",
+      "imageUrl": "topic:austen-pride-and-prejudice",
+      "tags": [
+        "passage analysis",
+        "prose fiction",
+        "character"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_053",
+      "question": "What is third-person omniscient point of view?",
+      "correctAnswer": "A narrator who knows all characters' thoughts and feelings",
+      "distractors": [
+        "A narrator who is a character",
+        "Only dialogue, no narration",
+        "A narrator who knows nothing"
+      ],
+      "explanation": "Third-person omniscient uses he/she/they while the narrator knows every character's inner life.",
+      "memoryHook": "T-Rexy says: all-knowing outsider - omniscient sees all.",
+      "imageUrl": "topic:point-of-view",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_054",
+      "question": "Read this passage from William Blake's poem \"The Tiger\" (1794):\n\n\"Tiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nCould frame thy fearful symmetry?\n\nIn what distant deeps or skies\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand dare seize the fire?\n\nAnd what shoulder and what art\nCould twist the sinews of thy heart?\nAnd, when thy heart began to beat,\nWhat dread hand and what dread feet?\n\nWhat the hammer? what the chain?\nIn what furnace was thy brain?\nWhat the anvil? what dread grasp\nDare its deadly terrors clasp?\n\nWhen the stars threw down their spears,\nAnd watered heaven with their tears,\nDid He smile His work to see?\nDid He who made the lamb make thee?\n\nTiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nDare frame thy fearful symmetry?\"\n\nThe force of the question \"Did He who made the lamb make thee?\" comes from the fact that it",
+      "correctAnswer": "Sets the tiger's terror against the lamb's innocence and asks whether one creator can be responsible for both",
+      "distractors": [
+        "Proves that the tiger was created by a different and evil god",
+        "Asks whether lambs are able to escape tigers at night",
+        "Compares the softness of the tiger's coat to the lamb's fleece"
+      ],
+      "explanation": "The lamb is the poem's one image of meek innocence - in Blake's Songs, the emblem of the gentle creator. Placing it at the climax of the forge questions turns craft into theology: the same \"He\" who made the lamb may have made this, and the speaker cannot decide whether to praise or to shudder.",
+      "memoryHook": "T-Rexy says: One maker for lamb and tiger is the puzzle that burns.",
+      "imageUrl": "topic:blake-the-tiger",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "figurative language"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_055",
+      "question": "What is a caesura in poetry?",
+      "correctAnswer": "A pause or break within a line of verse",
+      "distractors": [
+        "The final stanza",
+        "A rhyming couplet",
+        "A poem about Caesar"
+      ],
+      "explanation": "A caesura is a deliberate pause inside a poetic line, often marked by punctuation.",
+      "memoryHook": "T-Rexy says: a breath mid-line - caesura cuts the verse.",
+      "imageUrl": "topic:caesura",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_056",
+      "question": "Read this passage from William Blake's poem \"The Tiger\" (1794):\n\n\"Tiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nCould frame thy fearful symmetry?\n\nIn what distant deeps or skies\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand dare seize the fire?\n\nAnd what shoulder and what art\nCould twist the sinews of thy heart?\nAnd, when thy heart began to beat,\nWhat dread hand and what dread feet?\n\nWhat the hammer? what the chain?\nIn what furnace was thy brain?\nWhat the anvil? what dread grasp\nDare its deadly terrors clasp?\n\nWhen the stars threw down their spears,\nAnd watered heaven with their tears,\nDid He smile His work to see?\nDid He who made the lamb make thee?\n\nTiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nDare frame thy fearful symmetry?\"\n\nThe final stanza repeats the first almost word for word, except that \"Could frame thy fearful symmetry?\" becomes \"Dare frame thy fearful symmetry?\" The change chiefly signals that, after the middle stanzas, the speaker's question has shifted from",
+      "correctAnswer": "Whether any maker had the ability to create such a creature, to whether any maker had the audacity to do so",
+      "distractors": [
+        "Doubt to certainty, since the speaker now knows who made the tiger",
+        "The tiger's body to the tiger's eyes as the poem's true subject",
+        "Praise of the tiger to fear of it, as the speaker's mood darkens"
+      ],
+      "explanation": "\"Could\" asks about power; \"dare\" asks about nerve. Between the two stanzas the poem has inventoried the forge - the hammer, chain, furnace, anvil, and a heart set beating - so the repeated question returns heavier: not can such a thing be made, but who would risk making it.",
+      "memoryHook": "T-Rexy says: One word changes - could to dare - and ability becomes audacity.",
+      "imageUrl": "topic:blake-the-tiger",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "structure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_057",
+      "question": "What is synecdoche?",
+      "correctAnswer": "A part representing the whole, like sails for ships",
+      "distractors": [
+        "A whole representing a part",
+        "A comparison with like",
+        "A repeated sound"
+      ],
+      "explanation": "Synecdoche uses a part to stand for the whole, such as hands for workers.",
+      "memoryHook": "T-Rexy says: a piece stands for all - synecdoche.",
+      "imageUrl": "topic:synecdoche",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_058",
+      "question": "Read this passage from Kate Chopin's short story \"The Story of an Hour\" (1894):\n\n\"She could see in the open square before her house the tops of trees that were all aquiver with the new spring life. The delicious breath of rain was in the air. In the street below a peddler was crying his wares. The notes of a distant song which some one was singing reached her faintly, and countless sparrows were twittering in the eaves.\n\n[...]\n\nThere was something coming to her and she was waiting for it, fearfully. What was it? She did not know; it was too subtle and elusive to name. But she felt it, creeping out of the sky, reaching toward her through the sounds, the scents, the color that filled the air. Now her bosom rose and fell tumultuously. She was beginning to recognize this thing that was approaching to possess her, and she was striving to beat it back with her will -- as powerless as her two white slender hands would have been. When she abandoned herself a little whispered word escaped her slightly parted lips. She said it over and over under her breath: \"free, free, free!\"\n\n[...]\n\nThere would be no one to live for her during those coming years; she would live for herself. There would be no powerful will bending hers in that blind persistence with which men and women believe they have a right to impose a private will upon a fellow-creature. A kind intention or a cruel intention made the act seem no less a crime as she looked upon it in that brief moment of illumination.\n\n[...]\n\nSome one was opening the front door with a latchkey. It was Brently Mallard who entered, a little travel-stained, composedly carrying his grip-sack and umbrella. He had been far from the scene of the accident, and did not even know there had been one. He stood amazed at Josephine's piercing cry; at Richards' quick motion to screen him from the view of his wife.\n\nBut Richards was too late. When the doctors came they said she had died of heart disease -- of the joy that kills.\"\n\nThe view from the window - trees \"aquiver with the new spring life,\" the \"delicious breath of rain,\" distant singing, and sparrows twittering - functions in the passage chiefly to",
+      "correctAnswer": "Announce, in the world outside the window, the renewal that is beginning inside Mrs. Mallard",
+      "distractors": [
+        "Distract Mrs. Mallard from thinking about her husband's death",
+        "Show that her sister and Richards have already recovered from the news",
+        "Fix the story's date and city for the reader"
+      ],
+      "explanation": "Every detail is a beginning: new spring life, rain-washed air, song, twittering. Chopin lets the setting do the feeling first - the outer world stirs with exactly the awakening that the next paragraphs name inside Mrs. Mallard, who sits before this window as the unnamed feeling creeps toward her through the sounds, the scents, the color that filled the air.",
+      "memoryHook": "T-Rexy says: Spring outside the window, spring inside the widow.",
+      "imageUrl": "topic:chopin-story-of-an-hour",
+      "tags": [
+        "passage analysis",
+        "short fiction",
+        "setting"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_059",
+      "question": "What is an elegy?",
+      "correctAnswer": "A mournful poem lamenting the dead",
+      "distractors": [
+        "A joyful wedding song",
+        "A funny limerick",
+        "A political speech"
+      ],
+      "explanation": "An elegy is a serious, reflective poem mourning someone's death or a lost past.",
+      "memoryHook": "T-Rexy says: elegy equals eulogy in verse - mournful poem.",
+      "imageUrl": "topic:elegy",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_060",
+      "question": "Read this passage from Frederick Douglass's Narrative of the Life of Frederick Douglass (1845), Chapter VII:\n\n\"The more I read, the more I was led to abhor and detest my enslavers. I could regard them in no other light than a band of successful robbers, who had left their homes, and gone to Africa, and stolen us from our homes, and in a strange land reduced us to slavery. I loathed them as being the meanest as well as the most wicked of men. As I read and contemplated the subject, behold! that very discontentment which Master Hugh had predicted would follow my learning to read had already come, to torment and sting my soul to unutterable anguish. As I writhed under it, I would at times feel that learning to read had been a curse rather than a blessing. It had given me a view of my wretched condition, without the remedy. It opened my eyes to the horrible pit, but to no ladder upon which to get out. In moments of agony, I envied my fellow-slaves for their stupidity. I have often wished myself a beast. I preferred the condition of the meanest reptile to my own. Any thing, no matter what, to get rid of thinking! It was this everlasting thinking of my condition that tormented me. There was no getting rid of it. It was pressed upon me by every object within sight or hearing, animate or inanimate. The silver trump of freedom had roused my soul to eternal wakefulness. Freedom now appeared, to disappear no more forever. It was heard in every sound, and seen in every thing. It was ever present to torment me with a sense of my wretched condition. I saw nothing without seeing it, I heard nothing without hearing it, and felt nothing without feeling it. It looked from every star, it smiled in every calm, breathed in every wind, and moved in every storm.\"\n\nThe parallel repetitions near the end - \"I saw nothing without seeing it, I heard nothing without hearing it, and felt nothing without feeling it\" - chiefly convey that the thought of freedom",
+      "correctAnswer": "Has become inescapable, coloring every sight, sound, and feeling and tormenting him without pause",
+      "distractors": [
+        "Has faded from his mind until he can barely recall it",
+        "Visits him only during storms and other dramatic weather",
+        "Matters less to him than it did before he learned to read"
+      ],
+      "explanation": "The syntax enacts the claim: each sense is named only to be invaded by it - freedom looked from every star, smiled in every calm, breathed in every wind. Repetition with variation across seeing, hearing, and feeling leaves no sense uninvolved, which is why ever present and eternal wakefulness, not fading, is the supported reading.",
+      "memoryHook": "T-Rexy says: When every sense gets the same sentence, the thought never leaves - that is the point.",
+      "imageUrl": "topic:douglass-narrative",
+      "tags": [
+        "passage analysis",
+        "prose nonfiction",
+        "syntax"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_061",
+      "question": "What is juxtaposition?",
+      "correctAnswer": "Placing contrasting elements side by side for effect",
+      "distractors": [
+        "Putting similar things together",
+        "A type of rhyme",
+        "A narrator's aside"
+      ],
+      "explanation": "Juxtaposition sets contrasting images or ideas together to sharpen both.",
+      "memoryHook": "T-Rexy says: side-by-side opposites - juxtaposition.",
+      "imageUrl": "topic:juxtaposition",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_062",
+      "question": "Read this passage from Kate Chopin's short story \"The Story of an Hour\" (1894):\n\n\"She could see in the open square before her house the tops of trees that were all aquiver with the new spring life. The delicious breath of rain was in the air. In the street below a peddler was crying his wares. The notes of a distant song which some one was singing reached her faintly, and countless sparrows were twittering in the eaves.\n\n[...]\n\nThere was something coming to her and she was waiting for it, fearfully. What was it? She did not know; it was too subtle and elusive to name. But she felt it, creeping out of the sky, reaching toward her through the sounds, the scents, the color that filled the air. Now her bosom rose and fell tumultuously. She was beginning to recognize this thing that was approaching to possess her, and she was striving to beat it back with her will -- as powerless as her two white slender hands would have been. When she abandoned herself a little whispered word escaped her slightly parted lips. She said it over and over under her breath: \"free, free, free!\"\n\n[...]\n\nThere would be no one to live for her during those coming years; she would live for herself. There would be no powerful will bending hers in that blind persistence with which men and women believe they have a right to impose a private will upon a fellow-creature. A kind intention or a cruel intention made the act seem no less a crime as she looked upon it in that brief moment of illumination.\n\n[...]\n\nSome one was opening the front door with a latchkey. It was Brently Mallard who entered, a little travel-stained, composedly carrying his grip-sack and umbrella. He had been far from the scene of the accident, and did not even know there had been one. He stood amazed at Josephine's piercing cry; at Richards' quick motion to screen him from the view of his wife.\n\nBut Richards was too late. When the doctors came they said she had died of heart disease -- of the joy that kills.\"\n\nWhen Mrs. Mallard whispers \"free, free, free!\" the passage makes clear that what she welcomes is not her husband's death itself but",
+      "correctAnswer": "A life of her own: years in which she will live for herself, with no powerful will bending hers",
+      "distractors": [
+        "Joy that her husband is dead, a man she had always hated",
+        "A plan to leave town at once and start a new life elsewhere",
+        "Relief that she will no longer have to care for an invalid husband"
+      ],
+      "explanation": "The passage defines the freedom in her own terms: \"she would live for herself,\" with \"no powerful will bending hers.\" Even a kind intention, she reflects, did not lessen the crime of imposing a private will on a fellow-creature - so what ends in this hour is not a hated man but a whole arrangement of being governed.",
+      "memoryHook": "T-Rexy says: She is not cheering a death; she is claiming a will.",
+      "imageUrl": "topic:chopin-story-of-an-hour",
+      "tags": [
+        "passage analysis",
+        "short fiction",
+        "character"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_063",
+      "question": "What is an ode?",
+      "correctAnswer": "A lyric poem of praise, formal and elevated",
+      "distractors": [
+        "A short funny poem",
+        "A poem about death",
+        "A dialogue in verse"
+      ],
+      "explanation": "An ode is a formal lyric poem addressing and praising a person, object, or idea.",
+      "memoryHook": "T-Rexy says: ode equals praise song - lofty tribute.",
+      "imageUrl": "topic:ode",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_064",
+      "question": "Read this passage from Kate Chopin's short story \"The Story of an Hour\" (1894):\n\n\"She could see in the open square before her house the tops of trees that were all aquiver with the new spring life. The delicious breath of rain was in the air. In the street below a peddler was crying his wares. The notes of a distant song which some one was singing reached her faintly, and countless sparrows were twittering in the eaves.\n\n[...]\n\nThere was something coming to her and she was waiting for it, fearfully. What was it? She did not know; it was too subtle and elusive to name. But she felt it, creeping out of the sky, reaching toward her through the sounds, the scents, the color that filled the air. Now her bosom rose and fell tumultuously. She was beginning to recognize this thing that was approaching to possess her, and she was striving to beat it back with her will -- as powerless as her two white slender hands would have been. When she abandoned herself a little whispered word escaped her slightly parted lips. She said it over and over under her breath: \"free, free, free!\"\n\n[...]\n\nThere would be no one to live for her during those coming years; she would live for herself. There would be no powerful will bending hers in that blind persistence with which men and women believe they have a right to impose a private will upon a fellow-creature. A kind intention or a cruel intention made the act seem no less a crime as she looked upon it in that brief moment of illumination.\n\n[...]\n\nSome one was opening the front door with a latchkey. It was Brently Mallard who entered, a little travel-stained, composedly carrying his grip-sack and umbrella. He had been far from the scene of the accident, and did not even know there had been one. He stood amazed at Josephine's piercing cry; at Richards' quick motion to screen him from the view of his wife.\n\nBut Richards was too late. When the doctors came they said she had died of heart disease -- of the joy that kills.\"\n\nIn the sentence \"There would be no powerful will bending hers in that blind persistence with which men and women believe they have a right to impose a private will upon a fellow-creature,\" Mrs. Mallard's judgment of her marriage is that",
+      "correctAnswer": "Even loving authority was a form of coercion: one person's will was imposed on another, and she now counts that imposition a crime",
+      "distractors": [
+        "Her husband alone was a tyrant, unlike other husbands of her time",
+        "Marriage is acceptable whenever the husband's intentions are kind",
+        "She had been forced into the marriage as a girl against her will"
+      ],
+      "explanation": "The sentence refuses the easy defense: \"A kind intention or a cruel intention made the act seem no less a crime.\" Her target is imposition itself - the believed \"right to impose a private will upon a fellow-creature\" - which is why the passage speaks of men and women in general, not of one cruel husband.",
+      "memoryHook": "T-Rexy says: Kind or cruel, an imposed will is still imposed.",
+      "imageUrl": "topic:chopin-story-of-an-hour",
+      "tags": [
+        "passage analysis",
+        "short fiction",
+        "diction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_065",
+      "question": "What is apostrophe in literature?",
+      "correctAnswer": "Addressing an absent person or abstract idea directly",
+      "distractors": [
+        "A punctuation mark only",
+        "A farewell speech",
+        "A type of stanza"
+      ],
+      "explanation": "Literary apostrophe addresses someone absent or something nonhuman, as in O Death.",
+      "memoryHook": "T-Rexy says: talking to the absent - apostrophe calls out.",
+      "imageUrl": "topic:apostrophe",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_066",
+      "question": "Read this passage from Kate Chopin's short story \"The Story of an Hour\" (1894):\n\n\"She could see in the open square before her house the tops of trees that were all aquiver with the new spring life. The delicious breath of rain was in the air. In the street below a peddler was crying his wares. The notes of a distant song which some one was singing reached her faintly, and countless sparrows were twittering in the eaves.\n\n[...]\n\nThere was something coming to her and she was waiting for it, fearfully. What was it? She did not know; it was too subtle and elusive to name. But she felt it, creeping out of the sky, reaching toward her through the sounds, the scents, the color that filled the air. Now her bosom rose and fell tumultuously. She was beginning to recognize this thing that was approaching to possess her, and she was striving to beat it back with her will -- as powerless as her two white slender hands would have been. When she abandoned herself a little whispered word escaped her slightly parted lips. She said it over and over under her breath: \"free, free, free!\"\n\n[...]\n\nThere would be no one to live for her during those coming years; she would live for herself. There would be no powerful will bending hers in that blind persistence with which men and women believe they have a right to impose a private will upon a fellow-creature. A kind intention or a cruel intention made the act seem no less a crime as she looked upon it in that brief moment of illumination.\n\n[...]\n\nSome one was opening the front door with a latchkey. It was Brently Mallard who entered, a little travel-stained, composedly carrying his grip-sack and umbrella. He had been far from the scene of the accident, and did not even know there had been one. He stood amazed at Josephine's piercing cry; at Richards' quick motion to screen him from the view of his wife.\n\nBut Richards was too late. When the doctors came they said she had died of heart disease -- of the joy that kills.\"\n\nThe doctors' conclusion that Mrs. Mallard \"died of heart disease -- of the joy that kills\" is ironic chiefly because",
+      "correctAnswer": "The joy they imagine - a wife's happiness at her husband's return - is the opposite of what the passage shows: she dies at the moment the freedom she had just claimed is taken back",
+      "distractors": [
+        "She did not in fact have any heart disease at all",
+        "The doctors privately knew how unhappy her marriage had been",
+        "The man who entered was not her husband but a stranger"
+      ],
+      "explanation": "Everyone in the house reads her death through the expected script: a wife overcome by joy at her husband restored to her. The passage has shown the inside of the hour - the whispered \"free, free, free!\" and the years she had already begun to live for herself. What comes through the door is not joy but the end of that hour, and only the reader knows it.",
+      "memoryHook": "T-Rexy says: The doctors name the joy exactly wrong - that is the irony.",
+      "imageUrl": "topic:chopin-story-of-an-hour",
+      "tags": [
+        "passage analysis",
+        "short fiction",
+        "irony"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_067",
+      "question": "What is bathos?",
+      "correctAnswer": "An abrupt shift from the serious to the trivial for comic effect",
+      "distractors": [
+        "Deep emotional sincerity",
+        "A type of meter",
+        "A heroic epic"
+      ],
+      "explanation": "Bathos is an anticlimactic drop from elevated to commonplace, often unintentionally comic.",
+      "memoryHook": "T-Rexy says: from lofty to lowly in one step - bathos.",
+      "imageUrl": "topic:bathos",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_068",
+      "question": "Read this passage from William Shakespeare's Sonnet 18 (1609):\n\n\"Shall I compare thee to a summer's day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May,\nAnd summer's lease hath all too short a date:\nSometime too hot the eye of heaven shines,\nAnd often is his gold complexion dimmed,\nAnd every fair from fair sometime declines,\nBy chance, or nature's changing course untrimmed:\nBut thy eternal summer shall not fade,\nNor lose possession of that fair thou ow'st,\nNor shall death brag thou wand'rest in his shade,\nWhen in eternal lines to time thou grow'st,\nSo long as men can breathe or eyes can see,\nSo long lives this, and this gives life to thee.\"\n\nIn line 4, summer is said to hold a \"lease\" with \"all too short a date.\" The legal metaphor chiefly suggests that summer",
+      "correctAnswer": "Possesses its beauty only briefly, as a tenant holds property for a fixed and expiring term",
+      "distractors": [
+        "Has purchased the season and owns it permanently",
+        "Rents its warmth to the beloved at a high price",
+        "Is bound by a contract to return every single year"
+      ],
+      "explanation": "A lease is temporary possession with an end date, and the line stresses that the date comes too soon. The metaphor turns summer into a tenant whose beauty will be repossessed, preparing for the opposite claim about the beloved, whose fair is something owned (ow'st) that shall not fade.",
+      "memoryHook": "T-Rexy says: A lease runs out - that is the whole point of the image.",
+      "imageUrl": "topic:shakespeare-sonnet-18",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "figurative language"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_069",
+      "question": "What is a villanelle?",
+      "correctAnswer": "A 19-line poem with two refrains and two repeating rhymes",
+      "distractors": [
+        "A 14-line sonnet",
+        "A poem with no rules",
+        "A Japanese haiku"
+      ],
+      "explanation": "A villanelle has five tercets and a quatrain, with two refrains, like Dylan Thomas's Do not go gentle.",
+      "memoryHook": "T-Rexy says: nineteen lines, two refrains - villanelle.",
+      "imageUrl": "topic:villanelle",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_070",
+      "question": "Read this passage from O. Henry's short story \"The Gift of the Magi\" (1905):\n\n\"One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty-seven cents. And the next day would be Christmas.\n\nNow, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride. One was Jim's gold watch that had been his father's and his grandfather's. The other was Della's hair. Had the Queen of Sheba lived in the flat across the airshaft, Della would have let her hair hang out the window some day to dry just to depreciate Her Majesty's jewels and gifts. Had King Solomon been the janitor, with all his treasures piled up in the basement, Jim would have pulled out his watch every time he passed, just to see him pluck at his beard from envy.\n\nSo now Della's beautiful hair fell about her, rippling and shining like a cascade of brown waters. It reached below her knee and made itself almost a garment for her.\n\nThe magi, as you know, were wise men -- wonderfully wise men -- who brought gifts to the Babe in the manger. They invented the art of giving Christmas presents. Being wise, their gifts were no doubt wise ones, possibly bearing the privilege of exchange in case of duplication. And here I have lamely related to you the uneventful chronicle of two foolish children in a flat who most unwisely sacrificed for each other the greatest treasures of their house. But in a last word to the wise of these days let it be said that of all who give gifts these two were the wisest. Of all who give and receive gifts, such as they are wisest. Everywhere they are wisest. They are the magi.\"\n\nThe opening paragraph, in which Della counts her $1.87 three times, chiefly establishes",
+      "correctAnswer": "How poor the couple is and how much Della cares about finding a worthy gift for Jim",
+      "distractors": [
+        "That Della is careless with money and loses track of it",
+        "That Jim has been hiding part of his wages from Della",
+        "That Christmas is still a full week away"
+      ],
+      "explanation": "Pennies \"saved one and two at a time,\" cheeks burning at the grocer's - the paragraph prices Della's devotion in the only currency she has. Knowing exactly how little $1.87 is, and that it was gathered for Jim, sets the scale against which her sacrifice will be measured.",
+      "memoryHook": "T-Rexy says: Three counts of almost nothing equals everything she has.",
+      "imageUrl": "topic:ohenry-gift-of-the-magi",
+      "tags": [
+        "passage analysis",
+        "short fiction",
+        "character"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_071",
+      "question": "How is a Petrarchan sonnet structured?",
+      "correctAnswer": "An octave rhyming ABBAABBA plus a sestet with varied rhyme",
+      "distractors": [
+        "Three quatrains plus a couplet",
+        "Seven couplets in a row",
+        "One stanza of fourteen lines"
+      ],
+      "explanation": "The Petrarchan sonnet divides into an eight-line octave and a six-line sestet, with a turn between them.",
+      "memoryHook": "T-Rexy says: eight plus six with a turn - Petrarchan form.",
+      "imageUrl": "topic:petrarchan-sonnet",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_072",
+      "question": "Read this passage from William Shakespeare's Sonnet 18 (1609):\n\n\"Shall I compare thee to a summer's day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May,\nAnd summer's lease hath all too short a date:\nSometime too hot the eye of heaven shines,\nAnd often is his gold complexion dimmed,\nAnd every fair from fair sometime declines,\nBy chance, or nature's changing course untrimmed:\nBut thy eternal summer shall not fade,\nNor lose possession of that fair thou ow'st,\nNor shall death brag thou wand'rest in his shade,\nWhen in eternal lines to time thou grow'st,\nSo long as men can breathe or eyes can see,\nSo long lives this, and this gives life to thee.\"\n\nThe turn at line 9 (\"But thy eternal summer shall not fade\") and the closing couplet together advance the claim that",
+      "correctAnswer": "The beloved's beauty, unlike summer's, will not decline, because this poem will preserve it for as long as readers exist",
+      "distractors": [
+        "The beloved will literally never grow old or die",
+        "Summer will eventually learn to last the whole year",
+        "Death has promised to praise the beloved in verse"
+      ],
+      "explanation": "The first eight lines catalogue decay in nature; the volta at But reverses direction. The couplet then names the mechanism: eternal lines. The beloved grows to time inside the verse, and the poem lives as long as men can breathe or eyes can see - a claim about art's preservation, not about the body escaping death.",
+      "memoryHook": "T-Rexy says: But at line 9 flips the poem - after it, verse does what seasons cannot.",
+      "imageUrl": "topic:shakespeare-sonnet-18",
+      "tags": [
+        "passage analysis",
+        "poetry",
+        "structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_073",
+      "question": "How does metonymy differ from synecdoche?",
+      "correctAnswer": "Metonymy substitutes an associated thing; synecdoche uses part for whole",
+      "distractors": [
+        "They are identical terms",
+        "Metonymy is only for poetry",
+        "Synecdoche is only for prose"
+      ],
+      "explanation": "Metonymy replaces with something closely associated, like the crown for monarchy, while synecdoche uses a part for the whole.",
+      "memoryHook": "T-Rexy says: associated thing versus part of thing - metonymy versus synecdoche.",
+      "imageUrl": "topic:metonymy",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_074",
+      "question": "Read this passage from Emily Dickinson's poem \"The Chariot\" (first published 1890):\n\n\"Because I could not stop for Death,\nHe kindly stopped for me;\nThe carriage held but just ourselves\nAnd Immortality.\n\nWe slowly drove, he knew no haste,\nAnd I had put away\nMy labor, and my leisure too,\nFor his civility.\n\nWe passed the school where children played,\nTheir lessons scarcely done;\nWe passed the fields of gazing grain,\nWe passed the setting sun.\n\nWe paused before a house that seemed\nA swelling of the ground;\nThe roof was scarcely visible,\nThe cornice but a mound.\n\nSince then 't is centuries; but each\nFeels shorter than the day\nI first surmised the horses' heads\nWere toward eternity.\"\n\nIn the final stanza, centuries \"feel shorter than the day\" of the carriage ride because the speaker",
+      "correctAnswer": "Now speaks from eternity, where the single day she first understood the journey's direction outweighs ages of earthly time",
+      "distractors": [
+        "Misremembers the ride after so many hundreds of years",
+        "Rode so slowly that one day literally lasted for centuries",
+        "Regrets the ride and wishes the day had never happened"
+      ],
+      "explanation": "The speaker says she first surmised the horses' heads were toward eternity on that day: the day of recognition. From the far side of that recognition, measured time collapses - centuries shrink beside the one moment whose meaning never faded. Nothing in the stanza blames faulty memory or a slow carriage.",
+      "memoryHook": "T-Rexy says: One day of understanding outweighs centuries - that is eternity talking.",
+      "imageUrl": "topic:dickinson-the-chariot",
+      "tags": [
+        "passage analysis",
+        "poetry"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_075",
+      "question": "What is the pathetic fallacy?",
+      "correctAnswer": "Attributing human emotions to nature or inanimate things",
+      "distractors": [
+        "A logical error",
+        "A sad ending",
+        "A boring description"
+      ],
+      "explanation": "The pathetic fallacy projects human feelings onto nature, like angry storm clouds.",
+      "memoryHook": "T-Rexy says: nature feeling human feelings - pathetic fallacy.",
+      "imageUrl": "topic:pathetic-fallacy",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_076",
+      "question": "Read this passage from O. Henry's short story \"The Gift of the Magi\" (1905):\n\n\"One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty-seven cents. And the next day would be Christmas.\n\nNow, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride. One was Jim's gold watch that had been his father's and his grandfather's. The other was Della's hair. Had the Queen of Sheba lived in the flat across the airshaft, Della would have let her hair hang out the window some day to dry just to depreciate Her Majesty's jewels and gifts. Had King Solomon been the janitor, with all his treasures piled up in the basement, Jim would have pulled out his watch every time he passed, just to see him pluck at his beard from envy.\n\nSo now Della's beautiful hair fell about her, rippling and shining like a cascade of brown waters. It reached below her knee and made itself almost a garment for her.\n\nThe magi, as you know, were wise men -- wonderfully wise men -- who brought gifts to the Babe in the manger. They invented the art of giving Christmas presents. Being wise, their gifts were no doubt wise ones, possibly bearing the privilege of exchange in case of duplication. And here I have lamely related to you the uneventful chronicle of two foolish children in a flat who most unwisely sacrificed for each other the greatest treasures of their house. But in a last word to the wise of these days let it be said that of all who give gifts these two were the wisest. Of all who give and receive gifts, such as they are wisest. Everywhere they are wisest. They are the magi.\"\n\nThe comparisons to the Queen of Sheba and King Solomon - Della's hair would depreciate Sheba's jewels, and Jim's watch would make Solomon pluck at his beard with envy - function chiefly to",
+      "correctAnswer": "Measure the two treasures against legendary wealth, showing that their real value lies in the couple's pride and love rather than in any price",
+      "distractors": [
+        "Prove that Della and Jim are secretly descended from royalty",
+        "Mock the couple for imagining that anything they own has worth",
+        "Explain how the couple became poor despite owning valuable goods"
+      ],
+      "explanation": "Sheba and Solomon are the proverbial ceiling of riches. Borrowing them lets the narrator say that in an eight-dollar flat, a watch and a head of hair carry the weight of kingdoms - because of what they mean to the two people who own them. The closing paragraph cashes the check: these are \"the greatest treasures of their house.\"",
+      "memoryHook": "T-Rexy says: Sheba and Solomon are the story's measuring sticks for love.",
+      "imageUrl": "topic:ohenry-gift-of-the-magi",
+      "tags": [
+        "passage analysis",
+        "short fiction",
+        "figurative language"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_077",
+      "question": "What is defamiliarization in literary theory?",
+      "correctAnswer": "Making the familiar seem strange to renew perception",
+      "distractors": [
+        "Removing family from stories",
+        "Writing in a foreign language",
+        "Avoiding description"
+      ],
+      "explanation": "Defamiliarization presents ordinary things in unfamiliar ways so readers truly see them again.",
+      "memoryHook": "T-Rexy says: make the normal weird - defamiliarization refreshes sight.",
+      "imageUrl": "topic:defamiliarization",
+      "tags": [
+        "literary-theory"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_078",
+      "question": "Read this passage from Jane Austen's Pride and Prejudice (1813), Chapter 1:\n\n\"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.\n\nHowever little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.\n\n\"My dear Mr. Bennet,\" said his lady to him one day, \"have you heard that Netherfield Park is let at last?\"\n\nMr. Bennet replied that he had not.\n\n\"But it is,\" returned she; \"for Mrs. Long has just been here, and she told me all about it.\"\n\nMr. Bennet made no answer.\n\n\"Do not you want to know who has taken it?\" cried his wife impatiently.\n\n\"You want to tell me, and I have no objection to hearing it.\"\n\nThis was invitation enough.\"\n\nThe comedy of the passage arises chiefly from the contrast between",
+      "correctAnswer": "The narrator's solemn, universal tone and the trivial gossip it frames, together with Mrs. Bennet's urgency against her husband's indifference",
+      "distractors": [
+        "The great wealth of Mr. Bingley and the poverty of the Bennets",
+        "Mrs. Long's politeness and Mrs. Bennet's open rudeness",
+        "The speed of the chaise and four and the slowness of the visit"
+      ],
+      "explanation": "A philosophical aphorism opens a scene about who has rented Netherfield Park; Mrs. Bennet presses, Mr. Bennet parries with monosyllables and one perfectly aimed sentence. Neither Bingley's wealth nor the carriage is mocked in this excerpt - the humour is tonal, produced by mismatched registers and mismatched spouses.",
+      "memoryHook": "T-Rexy says: Grand voice, small gossip, eager wife, unbothered husband - that mismatch is the joke.",
+      "imageUrl": "topic:austen-pride-and-prejudice",
+      "tags": [
+        "passage analysis",
+        "prose fiction",
+        "tone"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_079",
+      "question": "What are Aristotle's three unities of drama?",
+      "correctAnswer": "Unity of action, time, and place",
+      "distractors": [
+        "Unity of rhyme, meter, stanza",
+        "Unity of author, actor, audience",
+        "Unity of past, present, future"
+      ],
+      "explanation": "Aristotle held that tragedy should have one action, occur within a day, and in one place.",
+      "memoryHook": "T-Rexy says: one action, one day, one place - the three unities.",
+      "imageUrl": "topic:unities",
+      "tags": [
+        "drama",
+        "literary-theory"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_080",
+      "question": "Read this passage from O. Henry's short story \"The Gift of the Magi\" (1905):\n\n\"One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty-seven cents. And the next day would be Christmas.\n\nNow, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride. One was Jim's gold watch that had been his father's and his grandfather's. The other was Della's hair. Had the Queen of Sheba lived in the flat across the airshaft, Della would have let her hair hang out the window some day to dry just to depreciate Her Majesty's jewels and gifts. Had King Solomon been the janitor, with all his treasures piled up in the basement, Jim would have pulled out his watch every time he passed, just to see him pluck at his beard from envy.\n\nSo now Della's beautiful hair fell about her, rippling and shining like a cascade of brown waters. It reached below her knee and made itself almost a garment for her.\n\nThe magi, as you know, were wise men -- wonderfully wise men -- who brought gifts to the Babe in the manger. They invented the art of giving Christmas presents. Being wise, their gifts were no doubt wise ones, possibly bearing the privilege of exchange in case of duplication. And here I have lamely related to you the uneventful chronicle of two foolish children in a flat who most unwisely sacrificed for each other the greatest treasures of their house. But in a last word to the wise of these days let it be said that of all who give gifts these two were the wisest. Of all who give and receive gifts, such as they are wisest. Everywhere they are wisest. They are the magi.\"\n\nIn the closing paragraph the narrator steps forward and judges the couple directly. His verdict - that these \"two foolish children\" are in fact \"the wisest\" - rests on the fact that each of them",
+      "correctAnswer": "Sacrificed the greatest treasure of the house for the other, which the narrator counts as the essence of wise giving",
+      "distractors": [
+        "Bought exactly the gift the other had asked for",
+        "Spent as little money as possible on the gifts",
+        "Kept the gifts secret from each other until Christmas morning"
+      ],
+      "explanation": "The narrator concedes the practical folly - they \"most unwisely sacrificed for each other the greatest treasures of their house\" - and then reverses the valuation: \"of all who give gifts these two were the wisest.\" The wisdom is located in the giving itself: each gave up the thing prized most, for the other. By the magi's standard - gifts as love made visible - no one gives more wisely than that.",
+      "memoryHook": "T-Rexy says: The magi's math - what you give up is what the gift is worth.",
+      "imageUrl": "topic:ohenry-gift-of-the-magi",
+      "tags": [
+        "passage analysis",
+        "short fiction",
+        "narration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_081",
+      "question": "What is chiasmus?",
+      "correctAnswer": "A reversal of grammatical structure in successive phrases, ABBA pattern",
+      "distractors": [
+        "A type of rhyme",
+        "A long list",
+        "A question with no answer"
+      ],
+      "explanation": "Chiasmus reverses word order across clauses, as in ask not what your country can do for you.",
+      "memoryHook": "T-Rexy says: mirror structure ABBA - chiasmus crosses over.",
+      "imageUrl": "topic:chiasmus",
+      "tags": [
+        "literary-devices",
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_082",
+      "question": "Read this passage from Frederick Douglass's Narrative of the Life of Frederick Douglass (1845), Chapter VII:\n\n\"The more I read, the more I was led to abhor and detest my enslavers. I could regard them in no other light than a band of successful robbers, who had left their homes, and gone to Africa, and stolen us from our homes, and in a strange land reduced us to slavery. I loathed them as being the meanest as well as the most wicked of men. As I read and contemplated the subject, behold! that very discontentment which Master Hugh had predicted would follow my learning to read had already come, to torment and sting my soul to unutterable anguish. As I writhed under it, I would at times feel that learning to read had been a curse rather than a blessing. It had given me a view of my wretched condition, without the remedy. It opened my eyes to the horrible pit, but to no ladder upon which to get out. In moments of agony, I envied my fellow-slaves for their stupidity. I have often wished myself a beast. I preferred the condition of the meanest reptile to my own. Any thing, no matter what, to get rid of thinking! It was this everlasting thinking of my condition that tormented me. There was no getting rid of it. It was pressed upon me by every object within sight or hearing, animate or inanimate. The silver trump of freedom had roused my soul to eternal wakefulness. Freedom now appeared, to disappear no more forever. It was heard in every sound, and seen in every thing. It was ever present to torment me with a sense of my wretched condition. I saw nothing without seeing it, I heard nothing without hearing it, and felt nothing without feeling it. It looked from every star, it smiled in every calm, breathed in every wind, and moved in every storm.\"\n\nBy calling his enslavers \"a band of successful robbers, who had left their homes, and gone to Africa, and stolen us from our homes,\" Douglass reframes slavery as",
+      "correctAnswer": "Theft and kidnapping: enslaved people are stolen persons, so their holders are criminals rather than legitimate owners",
+      "distractors": [
+        "A fair trade in which both sides gained something of value",
+        "A private misfortune for which no one bears any blame",
+        "A legal arrangement whose paperwork was merely misfiled"
+      ],
+      "explanation": "Robbers, gone to Africa, stolen us from our homes: each element strips slavery of legal respectability. If the people were stolen, the holders possess stolen goods and hold them by force - successful only because the crime worked. The diction is argumentative, converting a defended institution into a crime scene with named criminals.",
+      "memoryHook": "T-Rexy says: Stolen people means thieves, not owners - the word robbers does the arguing.",
+      "imageUrl": "topic:douglass-narrative",
+      "tags": [
+        "passage analysis",
+        "prose nonfiction",
+        "diction"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_083",
+      "question": "What is T.S. Eliot's objective correlative?",
+      "correctAnswer": "A set of objects or events that evokes a specific emotion",
+      "distractors": [
+        "An unbiased narrator",
+        "A scientific measurement",
+        "A type of metaphor only"
+      ],
+      "explanation": "Eliot argued that emotion in art needs an objective correlative, external facts that produce the feeling.",
+      "memoryHook": "T-Rexy says: objects that carry the feeling - objective correlative.",
+      "imageUrl": "topic:objective-correlative",
+      "tags": [
+        "literary-theory"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_084",
+      "question": "Read this passage from O. Henry's short story \"The Gift of the Magi\" (1905):\n\n\"One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty-seven cents. And the next day would be Christmas.\n\nNow, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride. One was Jim's gold watch that had been his father's and his grandfather's. The other was Della's hair. Had the Queen of Sheba lived in the flat across the airshaft, Della would have let her hair hang out the window some day to dry just to depreciate Her Majesty's jewels and gifts. Had King Solomon been the janitor, with all his treasures piled up in the basement, Jim would have pulled out his watch every time he passed, just to see him pluck at his beard from envy.\n\nSo now Della's beautiful hair fell about her, rippling and shining like a cascade of brown waters. It reached below her knee and made itself almost a garment for her.\n\nThe magi, as you know, were wise men -- wonderfully wise men -- who brought gifts to the Babe in the manger. They invented the art of giving Christmas presents. Being wise, their gifts were no doubt wise ones, possibly bearing the privilege of exchange in case of duplication. And here I have lamely related to you the uneventful chronicle of two foolish children in a flat who most unwisely sacrificed for each other the greatest treasures of their house. But in a last word to the wise of these days let it be said that of all who give gifts these two were the wisest. Of all who give and receive gifts, such as they are wisest. Everywhere they are wisest. They are the magi.\"\n\nThe passage calls Della and Jim both \"foolish children\" who \"most unwisely sacrificed\" and, in the same breath, \"the wisest... They are the magi.\" This apparent contradiction resolves because the story",
+      "correctAnswer": "Judges the gifts by two different standards: by practical results they are folly, but by the love the sacrifice expresses they are the wisest gifts of all",
+      "distractors": [
+        "Reveals at the end that the gifts were valuable antiques after all",
+        "Shows the narrator changing his mind as he writes the final sentences",
+        "Uses the words \"foolish\" and \"wisest\" as synonyms in the narrator's voice"
+      ],
+      "explanation": "The paradox is the story's thesis stated twice. Measured by outcomes, the sacrifices look like folly; measured by what the magi invented - the art of giving as an act of love - the same acts are perfect wisdom. The narrator holds both ledgers open at once and addresses the verdict \"to the wise of these days,\" asking them to judge by the second.",
+      "memoryHook": "T-Rexy says: Foolish by the receipt, wisest by the reason.",
+      "imageUrl": "topic:ohenry-gift-of-the-magi",
+      "tags": [
+        "passage analysis",
+        "short fiction",
+        "structure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_085",
+      "question": "What is a sestina?",
+      "correctAnswer": "A 39-line poem of six sestets plus a tercet with rotating end-words",
+      "distractors": [
+        "A six-line stanza",
+        "A poem of sixteen lines",
+        "A song with six verses"
+      ],
+      "explanation": "A sestina uses six stanzas of six lines plus a three-line envoi, rotating the same six end-words.",
+      "memoryHook": "T-Rexy says: six words dancing through six stanzas - sestina.",
+      "imageUrl": "topic:sestina",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_086",
+      "question": "Read this passage from William Shakespeare's Hamlet (c. 1603), Act III, Scene I - Hamlet's soliloquy:\n\n\"To be, or not to be: that is the question:\nWhether 'tis nobler in the mind to suffer\nThe slings and arrows of outrageous fortune,\nOr to take arms against a sea of troubles,\nAnd by opposing end them? To die: to sleep;\nNo more; and by a sleep to say we end\nThe heart-ache and the thousand natural shocks\nThat flesh is heir to, 'tis a consummation\nDevoutly to be wish'd. To die, to sleep;\nTo sleep: perchance to dream: ay, there's the rub;\nFor in that sleep of death what dreams may come\nWhen we have shuffled off this mortal coil,\nMust give us pause: there's the respect\nThat makes calamity of so long life;\nFor who would bear the whips and scorns of time,\nThe oppressor's wrong, the proud man's contumely,\nThe pangs of despised love, the law's delay,\nThe insolence of office and the spurns\nThat patient merit of the unworthy takes,\nWhen he himself might his quietus make\nWith a bare bodkin? who would fardels bear,\nTo grunt and sweat under a weary life,\nBut that the dread of something after death,\nThe undiscover'd country from whose bourn\nNo traveller returns, puzzles the will\nAnd makes us rather bear those ills we have\nThan fly to others that we know not of?\nThus conscience does make cowards of us all;\nAnd thus the native hue of resolution\nIs sicklied o'er with the pale cast of thought,\nAnd enterprises of great pith and moment\nWith this regard their currents turn awry,\nAnd lose the name of action. Soft you now!\nThe fair Ophelia! Nymph, in thy orisons\nBe all my sins remember'd.\"\n\nThe speech turns on the phrase \"ay, there's the rub.\" Before it, Hamlet leans toward death; after it, he argues himself out of it. The turn works because \"To sleep: perchance to dream\" introduces",
+      "correctAnswer": "The possibility that death is not blank rest at all, but a state whose unknown contents might be worse than life's known ills",
+      "distractors": [
+        "Proof that the dead are certainly punished for their sins",
+        "A memory of Ophelia that distracts Hamlet from his argument",
+        "The discovery that ending his life would be physically difficult"
+      ],
+      "explanation": "A rub is an obstacle in the path. The obstacle here is knowledge: sleep might contain dreams, death might contain experience, and \"in that sleep of death what dreams may come... Must give us pause.\" Everything after - the catalogue of life's whips and scorns, the undiscovered country, the cowardice of conscience - is built on that single crack in the sleep metaphor.",
+      "memoryHook": "T-Rexy says: One word - perchance - stops the whole argument and reverses it.",
+      "imageUrl": "topic:hamlet-soliloquy",
+      "tags": [
+        "passage analysis",
+        "drama",
+        "structure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_087",
+      "question": "How do tone and mood differ in literature?",
+      "correctAnswer": "Tone is the author's attitude; mood is the readers feeling",
+      "distractors": [
+        "They are synonyms",
+        "Tone is for poetry only",
+        "Mood is the author's attitude"
+      ],
+      "explanation": "Tone reflects the author's attitude toward the subject, while mood is the emotional atmosphere the reader experiences.",
+      "memoryHook": "T-Rexy says: author feels tone, reader feels mood.",
+      "imageUrl": "topic:tone-mood",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_088",
+      "question": "Read this passage from William Shakespeare's Hamlet (c. 1603), Act III, Scene I - Hamlet's soliloquy:\n\n\"To be, or not to be: that is the question:\nWhether 'tis nobler in the mind to suffer\nThe slings and arrows of outrageous fortune,\nOr to take arms against a sea of troubles,\nAnd by opposing end them? To die: to sleep;\nNo more; and by a sleep to say we end\nThe heart-ache and the thousand natural shocks\nThat flesh is heir to, 'tis a consummation\nDevoutly to be wish'd. To die, to sleep;\nTo sleep: perchance to dream: ay, there's the rub;\nFor in that sleep of death what dreams may come\nWhen we have shuffled off this mortal coil,\nMust give us pause: there's the respect\nThat makes calamity of so long life;\nFor who would bear the whips and scorns of time,\nThe oppressor's wrong, the proud man's contumely,\nThe pangs of despised love, the law's delay,\nThe insolence of office and the spurns\nThat patient merit of the unworthy takes,\nWhen he himself might his quietus make\nWith a bare bodkin? who would fardels bear,\nTo grunt and sweat under a weary life,\nBut that the dread of something after death,\nThe undiscover'd country from whose bourn\nNo traveller returns, puzzles the will\nAnd makes us rather bear those ills we have\nThan fly to others that we know not of?\nThus conscience does make cowards of us all;\nAnd thus the native hue of resolution\nIs sicklied o'er with the pale cast of thought,\nAnd enterprises of great pith and moment\nWith this regard their currents turn awry,\nAnd lose the name of action. Soft you now!\nThe fair Ophelia! Nymph, in thy orisons\nBe all my sins remember'd.\"\n\nAccording to the speech, people endure \"the whips and scorns of time\" and the rest of life's injuries instead of ending them chiefly because of",
+      "correctAnswer": "\"The dread of something after death\" - the undiscovered country from which no traveler returns, which \"puzzles the will\"",
+      "distractors": [
+        "Their hope of being rewarded later in this life",
+        "The practical difficulty of obtaining a weapon",
+        "Their confidence that fortune will soon turn kind"
+      ],
+      "explanation": "Hamlet states the cause outright: \"But that the dread of something after death, / The undiscover'd country from whose bourn / No traveller returns, puzzles the will / And makes us rather bear those ills we have / Than fly to others that we know not of.\" Known suffering wins over unknown risk.",
+      "memoryHook": "T-Rexy says: We keep the ills we know; the unknown country keeps us.",
+      "imageUrl": "topic:hamlet-soliloquy",
+      "tags": [
+        "passage analysis",
+        "drama",
+        "argument"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_089",
+      "question": "What is anaphora?",
+      "correctAnswer": "Repetition of a word or phrase at the start of successive clauses",
+      "distractors": [
+        "Repetition at the end of lines",
+        "A type of metaphor",
+        "A silent letter"
+      ],
+      "explanation": "Anaphora repeats opening words for rhetorical force, as in I have a dream.",
+      "memoryHook": "T-Rexy says: same start, again and again - anaphora.",
+      "imageUrl": "topic:anaphora",
+      "tags": [
+        "literary-devices",
+        "rhetoric"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_090",
+      "question": "Read this passage from William Shakespeare's Hamlet (c. 1603), Act III, Scene I - Hamlet's soliloquy:\n\n\"To be, or not to be: that is the question:\nWhether 'tis nobler in the mind to suffer\nThe slings and arrows of outrageous fortune,\nOr to take arms against a sea of troubles,\nAnd by opposing end them? To die: to sleep;\nNo more; and by a sleep to say we end\nThe heart-ache and the thousand natural shocks\nThat flesh is heir to, 'tis a consummation\nDevoutly to be wish'd. To die, to sleep;\nTo sleep: perchance to dream: ay, there's the rub;\nFor in that sleep of death what dreams may come\nWhen we have shuffled off this mortal coil,\nMust give us pause: there's the respect\nThat makes calamity of so long life;\nFor who would bear the whips and scorns of time,\nThe oppressor's wrong, the proud man's contumely,\nThe pangs of despised love, the law's delay,\nThe insolence of office and the spurns\nThat patient merit of the unworthy takes,\nWhen he himself might his quietus make\nWith a bare bodkin? who would fardels bear,\nTo grunt and sweat under a weary life,\nBut that the dread of something after death,\nThe undiscover'd country from whose bourn\nNo traveller returns, puzzles the will\nAnd makes us rather bear those ills we have\nThan fly to others that we know not of?\nThus conscience does make cowards of us all;\nAnd thus the native hue of resolution\nIs sicklied o'er with the pale cast of thought,\nAnd enterprises of great pith and moment\nWith this regard their currents turn awry,\nAnd lose the name of action. Soft you now!\nThe fair Ophelia! Nymph, in thy orisons\nBe all my sins remember'd.\"\n\nThe closing movement - \"Thus conscience does make cowards of us all; / And thus the native hue of resolution / Is sicklied o'er with the pale cast of thought\" - completes the speech's argument by",
+      "correctAnswer": "Widening Hamlet's private dilemma into a general law: reflection itself drains the will to act, in everyone",
+      "distractors": [
+        "Admitting that Hamlet alone is uniquely cowardly among men",
+        "Concluding that death should be chosen after all",
+        "Blaming Ophelia's arrival for interrupting a decision"
+      ],
+      "explanation": "\"Conscience\" here means consciousness - thinking itself. The healthy color (\"native hue\") of resolution turns sickly under thought's \"pale cast,\" and \"enterprises of great pith and moment... lose the name of action.\" What began as one man's question ends as an account of why thought, in anyone, can prevent the very act it contemplates.",
+      "memoryHook": "T-Rexy says: The speech ends bigger than Hamlet - thinking itself is the brake.",
+      "imageUrl": "topic:hamlet-soliloquy",
+      "tags": [
+        "passage analysis",
+        "drama",
+        "structure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_091",
+      "question": "What is catharsis in Aristotle's theory of tragedy?",
+      "correctAnswer": "The purging of pity and fear in the audience",
+      "distractors": [
+        "A cleaning product",
+        "The heroes victory",
+        "A comic interlude"
+      ],
+      "explanation": "Aristotle claimed tragedy produces catharsis, cleansing spectators' emotions of pity and terror.",
+      "memoryHook": "T-Rexy says: purged feelings - catharsis cleanses.",
+      "imageUrl": "topic:catharsis",
+      "tags": [
+        "drama",
+        "literary-theory"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_092",
+      "question": "Read this passage from Nathaniel Hawthorne's The Scarlet Letter (1850), Chapter I, \"The Prison-Door\":\n\n\"A throng of bearded men, in sad-colored garments, and gray, steeple-crowned hats, intermixed with women, some wearing hoods and others bareheaded, was assembled in front of a wooden edifice, the door of which was heavily timbered with oak, and studded with iron spikes.\n\nThe founders of a new colony, whatever Utopia of human virtue and happiness they might originally project, have invariably recognized it among their earliest practical necessities to allot a portion of the virgin soil as a cemetery, and another portion as the site of a prison. In accordance with this rule, it may safely be assumed that the forefathers of Boston had built the first prison-house somewhere in the vicinity of Cornhill, almost as seasonably as they marked out the first burial-ground, on Isaac Johnson's lot, and round about his grave, which subsequently became the nucleus of all the congregated sepulchres in the old churchyard of King's Chapel. Certain it is, that, some fifteen or twenty years after the settlement of the town, the wooden jail was already marked with weather-stains and other indications of age, which gave a yet darker aspect to its beetle-browed and gloomy front. The rust on the ponderous iron-work of its oaken door looked more antique than anything else in the New World. Like all that pertains to crime, it seemed never to have known a youthful era. Before this ugly edifice, and between it and the wheel-track of the street, was a grass-plot, much overgrown with burdock, pigweed, apple-peru, and such unsightly vegetation, which evidently found something congenial in the soil that had so early borne the black flower of civilized society, a prison.\n\nBut on one side of the portal, and rooted almost at the threshold, was a wild rose-bush, covered, in this month of June, with its delicate gems, which might be imagined to offer their fragrance and fragile beauty to the prisoner as he went in, and to the condemned criminal as he came forth to his doom, in token that the deep heart of Nature could pity and be kind to him.\"\n\nIn the phrase \"the black flower of civilized society, a prison,\" the metaphor figures the prison as",
+      "correctAnswer": "The dark blossom that civilization itself naturally grows out of its own soil",
+      "distractors": [
+        "A rare plant that the colonists imported from England",
+        "A sign that the colony's gardens were badly neglected",
+        "The one beautiful object in an otherwise ugly scene"
+      ],
+      "explanation": "The weeds find something congenial in soil that had so early borne the black flower: the prison is cast as the crop, the thing this ground produces. Black keeps the moral darkness of the surrounding imagery while flower makes the prison organic to civilized society - an outgrowth, not an import or an ornament.",
+      "memoryHook": "T-Rexy says: A flower is what soil grows - the prison is civilization's own crop.",
+      "imageUrl": "topic:hawthorne-scarlet-letter",
+      "tags": [
+        "passage analysis",
+        "prose fiction",
+        "figurative language"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_093",
+      "question": "Read this passage from Oscar Wilde's play The Importance of Being Earnest (1895), Act I:\n\n\"Algernon. Did you hear what I was playing, Lane?\nLane. I didn't think it polite to listen, sir.\nAlgernon. I'm sorry for that, for your sake. I don't play accurately -- any one can play accurately -- but I play with wonderful expression. As far as the piano is concerned, sentiment is my forte. I keep science for Life.\n\n[...]\n\nJack. I am in love with Gwendolen. I have come up to town expressly to propose to her.\nAlgernon. I thought you had come up for pleasure? . . . I call that business.\nJack. How utterly unromantic you are!\nAlgernon. I really don't see anything romantic in proposing. It is very romantic to be in love. But there is nothing romantic about a definite proposal. Why, one may be accepted. One usually is, I believe. Then the excitement is all over. The very essence of romance is uncertainty. If ever I get married, I'll certainly try to forget the fact.\n\n[...]\n\nAlgernon. Yes. But why does your aunt call you her uncle? 'From little Cecily, with her fondest love to her dear Uncle Jack.' There is no objection, I admit, to an aunt being a small aunt, but why an aunt, no matter what her size may be, should call her own nephew her uncle, I can't quite make out. Besides, your name isn't Jack at all; it is Ernest.\nJack. It isn't Ernest; it's Jack.\nAlgernon. You have always told me it was Ernest. I have introduced you to every one as Ernest. You answer to the name of Ernest. You look as if your name was Ernest. You are the most earnest-looking person I ever saw in my life. It is perfectly absurd your saying that your name isn't Ernest. It's on your cards. Here is one of them. 'Mr. Ernest Worthing, B. 4, The Albany.' [...]\nJack. Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.\n\n[...]\n\nJack. In fact it's perfectly ordinary. Old Mr. Thomas Cardew, who adopted me when I was a little boy, made me in his will guardian to his grand-daughter, Miss Cecily Cardew. Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, lives at my place in the country under the charge of her admirable governess, Miss Prism.\n\n[...]\n\nJack. When one is placed in the position of guardian, one has to adopt a very high moral tone on all subjects. It's one's duty to do so. And as a high moral tone can hardly be said to conduce very much to either one's health or one's happiness, in order to get up to town I have always pretended to have a younger brother of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes. That, my dear Algy, is the whole truth pure and simple.\nAlgernon. The truth is rarely pure and never simple.\"\n\nAlgernon's remark - \"I don't play accurately -- any one can play accurately -- but I play with wonderful expression... I keep science for Life\" - establishes him from his first lines as a character who",
+      "correctAnswer": "Values style, effect, and wit above correctness and fact",
+      "distractors": [
+        "Is a serious musician devoted to technical mastery",
+        "Is ashamed of his playing and apologizes sincerely for it",
+        "Believes scientific accuracy should govern both art and life"
+      ],
+      "explanation": "Accuracy is dismissed as common (\"any one can\"), expression is the boast, and the piano becomes a philosophy: in art, sentiment over science. Lane's deadpan replies underline that this is performance - Algernon is a man who lives by the well-turned line and prizes how things sound over whether they are right.",
+      "memoryHook": "T-Rexy says: For Algernon, how it sounds beats whether it is right.",
+      "imageUrl": "topic:wilde-earnest",
+      "tags": [
+        "passage analysis",
+        "drama",
+        "character"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_094",
+      "question": "Read this passage from Oscar Wilde's play The Importance of Being Earnest (1895), Act I:\n\n\"Algernon. Did you hear what I was playing, Lane?\nLane. I didn't think it polite to listen, sir.\nAlgernon. I'm sorry for that, for your sake. I don't play accurately -- any one can play accurately -- but I play with wonderful expression. As far as the piano is concerned, sentiment is my forte. I keep science for Life.\n\n[...]\n\nJack. I am in love with Gwendolen. I have come up to town expressly to propose to her.\nAlgernon. I thought you had come up for pleasure? . . . I call that business.\nJack. How utterly unromantic you are!\nAlgernon. I really don't see anything romantic in proposing. It is very romantic to be in love. But there is nothing romantic about a definite proposal. Why, one may be accepted. One usually is, I believe. Then the excitement is all over. The very essence of romance is uncertainty. If ever I get married, I'll certainly try to forget the fact.\n\n[...]\n\nAlgernon. Yes. But why does your aunt call you her uncle? 'From little Cecily, with her fondest love to her dear Uncle Jack.' There is no objection, I admit, to an aunt being a small aunt, but why an aunt, no matter what her size may be, should call her own nephew her uncle, I can't quite make out. Besides, your name isn't Jack at all; it is Ernest.\nJack. It isn't Ernest; it's Jack.\nAlgernon. You have always told me it was Ernest. I have introduced you to every one as Ernest. You answer to the name of Ernest. You look as if your name was Ernest. You are the most earnest-looking person I ever saw in my life. It is perfectly absurd your saying that your name isn't Ernest. It's on your cards. Here is one of them. 'Mr. Ernest Worthing, B. 4, The Albany.' [...]\nJack. Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.\n\n[...]\n\nJack. In fact it's perfectly ordinary. Old Mr. Thomas Cardew, who adopted me when I was a little boy, made me in his will guardian to his grand-daughter, Miss Cecily Cardew. Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, lives at my place in the country under the charge of her admirable governess, Miss Prism.\n\n[...]\n\nJack. When one is placed in the position of guardian, one has to adopt a very high moral tone on all subjects. It's one's duty to do so. And as a high moral tone can hardly be said to conduce very much to either one's health or one's happiness, in order to get up to town I have always pretended to have a younger brother of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes. That, my dear Algy, is the whole truth pure and simple.\nAlgernon. The truth is rarely pure and never simple.\"\n\nAlgernon's claim that \"the very essence of romance is uncertainty\" and that a definite proposal destroys it works as an epigram because it",
+      "correctAnswer": "Inverts common sense with a straight face: certainty, normally the goal, is made the enemy of romance, and being accepted ends the excitement",
+      "distractors": [
+        "Reports Algernon's genuine fear that Gwendolen will refuse Jack",
+        "Offers a scientific definition of the word romance",
+        "States in a roundabout way that proposals are deeply romantic"
+      ],
+      "explanation": "Wilde's epigrams run on reversal. Common sense says a proposal aims at the security of acceptance; Algernon, perfectly calm, argues that success is the disappointment - romance lives only while the answer is in doubt, which is why he would \"try to forget the fact\" of his own marriage.",
+      "memoryHook": "T-Rexy says: In Wilde, yes is the least romantic answer.",
+      "imageUrl": "topic:wilde-earnest",
+      "tags": [
+        "passage analysis",
+        "drama",
+        "diction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_095",
+      "question": "What is zeugma?",
+      "correctAnswer": "One word governing two others in different senses",
+      "distractors": [
+        "A type of animal",
+        "A repeated chorus",
+        "A foreign phrase"
+      ],
+      "explanation": "Zeugma yokes two meanings to one verb, as in he took his hat and his leave.",
+      "memoryHook": "T-Rexy says: one word, two jobs - zeugma.",
+      "imageUrl": "topic:zeugma",
+      "tags": [
+        "literary-devices",
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_096",
+      "question": "Read this passage from Oscar Wilde's play The Importance of Being Earnest (1895), Act I:\n\n\"Algernon. Did you hear what I was playing, Lane?\nLane. I didn't think it polite to listen, sir.\nAlgernon. I'm sorry for that, for your sake. I don't play accurately -- any one can play accurately -- but I play with wonderful expression. As far as the piano is concerned, sentiment is my forte. I keep science for Life.\n\n[...]\n\nJack. I am in love with Gwendolen. I have come up to town expressly to propose to her.\nAlgernon. I thought you had come up for pleasure? . . . I call that business.\nJack. How utterly unromantic you are!\nAlgernon. I really don't see anything romantic in proposing. It is very romantic to be in love. But there is nothing romantic about a definite proposal. Why, one may be accepted. One usually is, I believe. Then the excitement is all over. The very essence of romance is uncertainty. If ever I get married, I'll certainly try to forget the fact.\n\n[...]\n\nAlgernon. Yes. But why does your aunt call you her uncle? 'From little Cecily, with her fondest love to her dear Uncle Jack.' There is no objection, I admit, to an aunt being a small aunt, but why an aunt, no matter what her size may be, should call her own nephew her uncle, I can't quite make out. Besides, your name isn't Jack at all; it is Ernest.\nJack. It isn't Ernest; it's Jack.\nAlgernon. You have always told me it was Ernest. I have introduced you to every one as Ernest. You answer to the name of Ernest. You look as if your name was Ernest. You are the most earnest-looking person I ever saw in my life. It is perfectly absurd your saying that your name isn't Ernest. It's on your cards. Here is one of them. 'Mr. Ernest Worthing, B. 4, The Albany.' [...]\nJack. Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.\n\n[...]\n\nJack. In fact it's perfectly ordinary. Old Mr. Thomas Cardew, who adopted me when I was a little boy, made me in his will guardian to his grand-daughter, Miss Cecily Cardew. Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, lives at my place in the country under the charge of her admirable governess, Miss Prism.\n\n[...]\n\nJack. When one is placed in the position of guardian, one has to adopt a very high moral tone on all subjects. It's one's duty to do so. And as a high moral tone can hardly be said to conduce very much to either one's health or one's happiness, in order to get up to town I have always pretended to have a younger brother of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes. That, my dear Algy, is the whole truth pure and simple.\nAlgernon. The truth is rarely pure and never simple.\"\n\nThe cigarette case drives the scene's conflict because its inscription - \"From little Cecily, with her fondest love to her dear Uncle Jack\" - gives Algernon evidence that",
+      "correctAnswer": "Jack's story does not add up: the supposed aunt at Tunbridge Wells is somehow a \"little Cecily\" who calls her own nephew her uncle",
+      "distractors": [
+        "The cigarette case was stolen from Algernon's flat",
+        "Jack is engaged to be married to a woman named Cecily",
+        "The visiting cards in the case must be forgeries"
+      ],
+      "explanation": "Algernon cross-examines like a lawyer with one exhibit: an aunt who is \"little,\" and a nephew addressed as \"uncle.\" Each contradiction squeezes Jack until the double life - Ernest in town, Jack in the country, and a young ward named Cecily - has to be confessed.",
+      "memoryHook": "T-Rexy says: One inscription, two impossibilities - a little aunt and an uncle-nephew.",
+      "imageUrl": "topic:wilde-earnest",
+      "tags": [
+        "passage analysis",
+        "drama",
+        "character"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_097",
+      "question": "What is litotes?",
+      "correctAnswer": "Deliberate understatement using a negative, like not bad",
+      "distractors": [
+        "Extreme exaggeration",
+        "A type of rhyme",
+        "A long epic"
+      ],
+      "explanation": "Litotes affirms by negating the opposite, as in not unkind for kind.",
+      "memoryHook": "T-Rexy says: saying less to mean more - litotes understates.",
+      "imageUrl": "topic:litotes",
+      "tags": [
+        "literary-devices",
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_098",
+      "question": "Read this passage from Nathaniel Hawthorne's The Scarlet Letter (1850), Chapter I, \"The Prison-Door\":\n\n\"A throng of bearded men, in sad-colored garments, and gray, steeple-crowned hats, intermixed with women, some wearing hoods and others bareheaded, was assembled in front of a wooden edifice, the door of which was heavily timbered with oak, and studded with iron spikes.\n\nThe founders of a new colony, whatever Utopia of human virtue and happiness they might originally project, have invariably recognized it among their earliest practical necessities to allot a portion of the virgin soil as a cemetery, and another portion as the site of a prison. In accordance with this rule, it may safely be assumed that the forefathers of Boston had built the first prison-house somewhere in the vicinity of Cornhill, almost as seasonably as they marked out the first burial-ground, on Isaac Johnson's lot, and round about his grave, which subsequently became the nucleus of all the congregated sepulchres in the old churchyard of King's Chapel. Certain it is, that, some fifteen or twenty years after the settlement of the town, the wooden jail was already marked with weather-stains and other indications of age, which gave a yet darker aspect to its beetle-browed and gloomy front. The rust on the ponderous iron-work of its oaken door looked more antique than anything else in the New World. Like all that pertains to crime, it seemed never to have known a youthful era. Before this ugly edifice, and between it and the wheel-track of the street, was a grass-plot, much overgrown with burdock, pigweed, apple-peru, and such unsightly vegetation, which evidently found something congenial in the soil that had so early borne the black flower of civilized society, a prison.\n\nBut on one side of the portal, and rooted almost at the threshold, was a wild rose-bush, covered, in this month of June, with its delicate gems, which might be imagined to offer their fragrance and fragile beauty to the prisoner as he went in, and to the condemned criminal as he came forth to his doom, in token that the deep heart of Nature could pity and be kind to him.\"\n\nRooted at the prison's threshold, the wild rose-bush functions in the passage chiefly as",
+      "correctAnswer": "A counter-symbol to the prison: Nature's pity and fragile beauty offered to the prisoner and the condemned alike",
+      "distractors": [
+        "A botanical record proving roses grew wild in old Boston",
+        "A warning that the prison walls are about to be overgrown",
+        "A decoration the founders planted to soften the jail's front"
+      ],
+      "explanation": "The passage itself does the interpreting: the bush's fragrance and fragile beauty are imagined as an offering to the prisoner going in and the condemned coming forth, in token that the deep heart of Nature could pity and be kind. Against iron, oak, and rust, the rose carries the chapter's one note of mercy - symbolic work, not gardening history.",
+      "memoryHook": "T-Rexy says: Iron door on one side, roses on the other - Hawthorne sets mercy beside judgment.",
+      "imageUrl": "topic:hawthorne-scarlet-letter",
+      "tags": [
+        "passage analysis",
+        "prose fiction",
+        "symbolism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_099",
+      "question": "What is a dramatic monologue?",
+      "correctAnswer": "A poem in which a single speaker addresses a silent listener",
+      "distractors": [
+        "A play with one actor",
+        "A dialogue between two poets",
+        "A speech in prose"
+      ],
+      "explanation": "A dramatic monologue is a lyric poem spoken by a persona to an implied listener, like Browning's My Last Duchess.",
+      "memoryHook": "T-Rexy says: one voice, silent listener - dramatic monologue.",
+      "imageUrl": "topic:dramatic-monologue",
+      "tags": [
+        "poetry",
+        "drama"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_100",
+      "question": "Read this passage from Oscar Wilde's play The Importance of Being Earnest (1895), Act I:\n\n\"Algernon. Did you hear what I was playing, Lane?\nLane. I didn't think it polite to listen, sir.\nAlgernon. I'm sorry for that, for your sake. I don't play accurately -- any one can play accurately -- but I play with wonderful expression. As far as the piano is concerned, sentiment is my forte. I keep science for Life.\n\n[...]\n\nJack. I am in love with Gwendolen. I have come up to town expressly to propose to her.\nAlgernon. I thought you had come up for pleasure? . . . I call that business.\nJack. How utterly unromantic you are!\nAlgernon. I really don't see anything romantic in proposing. It is very romantic to be in love. But there is nothing romantic about a definite proposal. Why, one may be accepted. One usually is, I believe. Then the excitement is all over. The very essence of romance is uncertainty. If ever I get married, I'll certainly try to forget the fact.\n\n[...]\n\nAlgernon. Yes. But why does your aunt call you her uncle? 'From little Cecily, with her fondest love to her dear Uncle Jack.' There is no objection, I admit, to an aunt being a small aunt, but why an aunt, no matter what her size may be, should call her own nephew her uncle, I can't quite make out. Besides, your name isn't Jack at all; it is Ernest.\nJack. It isn't Ernest; it's Jack.\nAlgernon. You have always told me it was Ernest. I have introduced you to every one as Ernest. You answer to the name of Ernest. You look as if your name was Ernest. You are the most earnest-looking person I ever saw in my life. It is perfectly absurd your saying that your name isn't Ernest. It's on your cards. Here is one of them. 'Mr. Ernest Worthing, B. 4, The Albany.' [...]\nJack. Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.\n\n[...]\n\nJack. In fact it's perfectly ordinary. Old Mr. Thomas Cardew, who adopted me when I was a little boy, made me in his will guardian to his grand-daughter, Miss Cecily Cardew. Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, lives at my place in the country under the charge of her admirable governess, Miss Prism.\n\n[...]\n\nJack. When one is placed in the position of guardian, one has to adopt a very high moral tone on all subjects. It's one's duty to do so. And as a high moral tone can hardly be said to conduce very much to either one's health or one's happiness, in order to get up to town I have always pretended to have a younger brother of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes. That, my dear Algy, is the whole truth pure and simple.\nAlgernon. The truth is rarely pure and never simple.\"\n\nJack explains that being a guardian forced him to \"adopt a very high moral tone,\" so he invented a wicked younger brother, Ernest, as his excuse for trips to town. Taken with Algernon's reply that \"the truth is rarely pure and never simple,\" the exchange exposes the play's central mechanism:",
+      "correctAnswer": "Respectability is preserved by invention - the fiction of Ernest lets Jack keep a spotless public identity while living as he pleases, so the respectable truth is itself a kind of lie",
+      "distractors": [
+        "Guardians of the period were legally required to invent younger brothers",
+        "Jack's real younger brother Ernest will arrive later to resolve the plot",
+        "Algernon believes Jack's explanation completely and drops the matter"
+      ],
+      "explanation": "The high moral tone is real only as a performance: it requires a fictional scapegoat brother to absorb the behavior the tone forbids. Algernon's epigram supplies the verdict - in this world the truth about anyone is manufactured, and the play's comedy runs on maintaining the manufacture.",
+      "memoryHook": "T-Rexy says: Ernest exists so that Jack can be respectable - that is the joke and the point.",
+      "imageUrl": "topic:wilde-earnest",
+      "tags": [
+        "passage analysis",
+        "drama",
+        "structure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

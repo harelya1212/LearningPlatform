@@ -1,0 +1,2119 @@
+{
+  "addedAt": "2026-11-03",
+  "description": "AP Calculus AB prep - limits, derivatives, integrals",
+  "language": "en",
+  "packId": "ella-ap-calc-ab",
+  "passingScore": 70,
+  "tags": [
+    "calculus",
+    "ap",
+    "math",
+    "grade12",
+    "ella"
+  ],
+  "title": "AP Calculus AB (12th Grade)",
+  "totalQuestions": 100,
+  "version": "1.0",
+  "questions": [
+    {
+      "id": "EACALC_001",
+      "question": "The region bounded by the curve y = x^2, the y-axis, and the line y = 9 is revolved around the y-axis. Find the volume of the solid formed.",
+      "correctAnswer": "81pi/2",
+      "distractors": [
+        "18pi",
+        "81pi",
+        "27pi"
+      ],
+      "explanation": "Use discs perpendicular to the y-axis. Solving y = x^2 for x gives the radius R(y) = sqrt(y). V = pi * (integral from 0 to 9 of (sqrt(y))^2 dy) = pi * (integral of y dy) = pi * [y^2/2] from 0 to 9 = pi * 81/2 = 81pi/2.",
+      "memoryHook": "T-Rexy says: spin around the y-axis, slice sideways - the radius is x, and x is sqrt(y)!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Volumes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_002",
+      "question": "Find lim (x -> 0) sin(x) / x.",
+      "correctAnswer": "1",
+      "distractors": [
+        "0",
+        "Does not exist",
+        "Infinity"
+      ],
+      "explanation": "This is the fundamental trigonometric limit. On the unit circle, cos(x) < sin(x)/x < 1 for small nonzero x, and both bounds approach 1, so by the Squeeze Theorem lim (x -> 0) sin(x)/x = 1.",
+      "memoryHook": "T-Rexy says: sine over x near zero always lands at one - memorize it like a dino roar!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Limits"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_003",
+      "question": "A particle moves along a line with position s(t) = t^3 - 6t^2 + 9t for t >= 0. Find the velocity of the particle at t = 2.",
+      "correctAnswer": "-3",
+      "distractors": [
+        "3",
+        "0",
+        "9"
+      ],
+      "explanation": "Velocity is the derivative of position: v(t) = s'(t) = 3t^2 - 12t + 9. At t = 2: v(2) = 3(4) - 12(2) + 9 = 12 - 24 + 9 = -3. The negative sign means the particle is moving in the negative direction at t = 2. (The distractor 0 is the acceleration a(2) = 6(2) - 12 = 0, not the velocity.)",
+      "memoryHook": "T-Rexy says: velocity is the derivative of position - differentiate first, then plug in the time!",
+      "imageUrl": "topic:motion",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_004",
+      "question": "A particle moves along a line with velocity v(t), in feet per second, recorded at time t in seconds: v(0) = 2, v(1) = 6, v(2) = 10, v(3) = 8, v(4) = 4. Use a trapezoidal sum with these subintervals to estimate the displacement of the particle from t = 0 to t = 4.",
+      "correctAnswer": "27",
+      "distractors": [
+        "26",
+        "28",
+        "54"
+      ],
+      "explanation": "Displacement is the integral of v from 0 to 4. With h = 1, the trapezoidal sum is (h/2) * [v(0) + 2v(1) + 2v(2) + 2v(3) + v(4)] = (1/2) * [2 + 12 + 20 + 16 + 4] = (1/2)(54) = 27 feet. It is also the average of the left sum (26) and the right sum (28).",
+      "memoryHook": "T-Rexy says: trapezoids split the difference - the average of the left and right sums, fair and square!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Motion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_005",
+      "question": "The graph of f', the derivative of f, is shown in the figure. At which x-value does f have a local maximum on the interval [0, 4]?",
+      "correctAnswer": "x = 1",
+      "distractors": [
+        "x = 0",
+        "x = 3",
+        "x = 4"
+      ],
+      "explanation": "f is increasing where f' > 0 and decreasing where f' < 0. From the graph, f' is positive on (0, 1) and crosses zero at x = 1, changing from positive to negative, so f has a local maximum there. After x = 1, f' stays negative - it dips to its lowest point at the corner at x = 3 but does not cross zero there - until about x = 3.65, where it crosses zero. That crossing, not the corner at x = 3, is where f has its local minimum.",
+      "memoryHook": "T-Rexy says: watch the sign of f' - plus to minus at the top of the hill means a local max!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Extrema"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_006",
+      "question": "Use a linear approximation at x = 4 to approximate sqrt(4.08).",
+      "correctAnswer": "2.02",
+      "distractors": [
+        "2.04",
+        "2.2",
+        "1.98"
+      ],
+      "explanation": "Let f(x) = sqrt(x). Then f(4) = 2 and f'(x) = 1 / (2 sqrt(x)), so f'(4) = 1/4. The tangent line is L(x) = 2 + (1/4)(x - 4). Then sqrt(4.08) is approximately L(4.08) = 2 + (1/4)(0.08) = 2 + 0.02 = 2.02.",
+      "memoryHook": "T-Rexy says: near the point, the tangent line hugs the curve - zoom in and the curve looks straight!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Linear Approximation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_007",
+      "question": "For y = x^3, find the differential dy when x = 2 and dx = 0.05.",
+      "correctAnswer": "0.6",
+      "distractors": [
+        "0.3",
+        "0.15",
+        "1.2"
+      ],
+      "explanation": "The differential is dy = f'(x) dx. Here f'(x) = 3x^2, so at x = 2, f'(2) = 12. Then dy = 12 * 0.05 = 0.6.",
+      "memoryHook": "T-Rexy says: dy is the change along the tangent line - slope 12 times a tiny step of 0.05!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Linear Approximation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_008",
+      "question": "Find lim (x -> 0+) 1 / x.",
+      "correctAnswer": "Infinity",
+      "distractors": [
+        "0",
+        "1",
+        "Does not exist"
+      ],
+      "explanation": "Approaching 0 from the right, 1/x grows without bound in the positive direction: infinity.",
+      "memoryHook": "T-Rexy says: tiny positive denominator, big positive result - infinity party!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Limits"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_009",
+      "question": "Find the left-hand limit of 1 / x as x approaches 0.",
+      "correctAnswer": "-Infinity",
+      "distractors": [
+        "0",
+        "Infinity",
+        "1"
+      ],
+      "explanation": "Approaching 0 from the left, 1/x grows without bound in the negative direction: -infinity.",
+      "memoryHook": "T-Rexy says: from the left side the sign flips - negative infinity dive!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Limits"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_010",
+      "question": "Find lim (x -> 0) |x| / x.",
+      "correctAnswer": "Does not exist",
+      "distractors": [
+        "1",
+        "-1",
+        "0"
+      ],
+      "explanation": "Right-hand limit is 1, left-hand limit is -1. Since they disagree, the two-sided limit does not exist.",
+      "memoryHook": "T-Rexy says: left says -1, right says 1 - when the sides fight, the limit does not exist!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Limits"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_011",
+      "question": "A particle moves along a line with velocity v(t) = t^2 - 6t + 8. At t = 1, is the particle speeding up or slowing down?",
+      "correctAnswer": "Slowing down",
+      "distractors": [
+        "Speeding up",
+        "At rest",
+        "Moving at constant speed"
+      ],
+      "explanation": "Acceleration is a(t) = v'(t) = 2t - 6, so a(1) = -4. Velocity at t = 1 is v(1) = 1 - 6 + 8 = 3, which is positive, while the acceleration is negative. Velocity and acceleration have opposite signs, so the particle is slowing down.",
+      "memoryHook": "T-Rexy says: same signs speed up, opposite signs slow down - always check BOTH signs!",
+      "imageUrl": "topic:motion",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_012",
+      "question": "Find lim (x -> 0) (1 - cos(x)) / x.",
+      "correctAnswer": "0",
+      "distractors": [
+        "1",
+        "1/2",
+        "Does not exist"
+      ],
+      "explanation": "Multiply top and bottom by (1 + cos(x)): (1 - cos^2(x)) / (x(1 + cos(x))) = sin^2(x) / (x(1 + cos(x))). Then (sin(x)/x) * (sin(x)/(1 + cos(x))) -> 1 * 0 = 0.",
+      "memoryHook": "T-Rexy says: one minus cosine over x always melts to zero - trust the trick!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Limits"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_013",
+      "question": "A solid has as its base the region enclosed by the parabola y = x^2 and the line y = 4. Cross sections perpendicular to the x-axis are squares whose side lies in the base. Find the volume of the solid.",
+      "correctAnswer": "512/15",
+      "distractors": [
+        "256/15",
+        "128/3",
+        "64"
+      ],
+      "explanation": "The curves meet where x^2 = 4, at x = -2 and x = 2. At each x, the side of the square is s = 4 - x^2, so the cross-section area is A(x) = (4 - x^2)^2. V = integral from -2 to 2 of (4 - x^2)^2 dx = integral of (16 - 8x^2 + x^4) dx = [16x - (8/3)x^3 + x^5/5] from -2 to 2 = 2 * (32 - 64/3 + 32/5) = 512/15.",
+      "memoryHook": "T-Rexy says: the square's side is the gap between the curves - top minus bottom, then square it!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Volumes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_014",
+      "question": "Find lim (x -> 2) (sqrt(x + 2) - 2) / (x - 2).",
+      "correctAnswer": "1/4",
+      "distractors": [
+        "1/2",
+        "1",
+        "0"
+      ],
+      "explanation": "Multiply by the conjugate (sqrt(x+2) + 2): ((x + 2) - 4) / ((x - 2)(sqrt(x+2) + 2)) = 1 / (sqrt(x+2) + 2). At x = 2: 1/4.",
+      "memoryHook": "T-Rexy says: root on top? Multiply by the conjugate - the classic dino ambush!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Limits"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_015",
+      "question": "Find lim (x -> infinity) (1 + 3/x)^x.",
+      "correctAnswer": "e^3",
+      "distractors": [
+        "1",
+        "e",
+        "Infinity"
+      ],
+      "explanation": "This matches the form lim (x -> infinity) (1 + a/x)^x = e^a with a = 3, so the limit is e^3.",
+      "memoryHook": "T-Rexy says: one plus a-over-x to the x - that is e to the a, every time!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Limits"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_016",
+      "question": "The slope field for the differential equation dy/dx = (1/2)y is shown in the figure. What is the slope of the segment at the point (2, 4)?",
+      "correctAnswer": "2",
+      "distractors": [
+        "1",
+        "4",
+        "8"
+      ],
+      "explanation": "The slope at any point depends only on y: slope = (1/2)y. At (2, 4), slope = (1/2)(4) = 2. Notice every segment at height y = 4 in the field has this same slope, and segments along y = 0 are horizontal.",
+      "memoryHook": "T-Rexy says: in this field only the height matters - same row, same slope!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Slope Fields"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_017",
+      "question": "A particle moves along a line with velocity v(t) = t^2 - 4 for 0 <= t <= 3. Find the total distance traveled by the particle from t = 0 to t = 3.",
+      "correctAnswer": "23/3",
+      "distractors": [
+        "3",
+        "-3",
+        "25/3"
+      ],
+      "explanation": "Total distance is the integral of |v|. Since v(t) = 0 at t = 2, v is negative on [0, 2] and positive on [2, 3]. Distance = -integral from 0 to 2 of (t^2 - 4) dt + integral from 2 to 3 of (t^2 - 4) dt = 16/3 + 7/3 = 23/3. The plain integral from 0 to 3 is -3, the displacement; distance counts the backward leg as positive too.",
+      "memoryHook": "T-Rexy says: distance never goes negative - flip the backward part up before you add!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Motion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_018",
+      "question": "Find lim (x -> 0) (e^x - 1) / x.",
+      "correctAnswer": "1",
+      "distractors": [
+        "0",
+        "e",
+        "Does not exist"
+      ],
+      "explanation": "This is a standard limit equal to 1 - it is the definition of the derivative of e^x at x = 0.",
+      "memoryHook": "T-Rexy says: e-to-the-x minus one over x - the answer is one, done!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Limits"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_019",
+      "question": "Find lim (x -> infinity) ln(x) / x.",
+      "correctAnswer": "0",
+      "distractors": [
+        "1",
+        "Infinity",
+        "Does not exist"
+      ],
+      "explanation": "Logarithms grow slower than any power of x, so ln(x)/x -> 0 as x -> infinity.",
+      "memoryHook": "T-Rexy says: logs are slowpokes - any power of x outruns them to zero!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Limits"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_020",
+      "question": "The table gives values of a function f: f(0) = 1, f(2) = 4, f(4) = 7, f(6) = 5. Use a trapezoidal sum with these subintervals to estimate the integral of f from 0 to 6.",
+      "correctAnswer": "28",
+      "distractors": [
+        "17",
+        "14",
+        "56"
+      ],
+      "explanation": "The subinterval width is h = 2. Trapezoidal sum = (h/2) * [f(0) + 2f(2) + 2f(4) + f(6)] = (2/2) * [1 + 8 + 14 + 5] = 28. The end values count once and the middle values count twice.",
+      "memoryHook": "T-Rexy says: ends count once, middles count twice - then multiply by h over 2!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Riemann"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_021",
+      "question": "Determine whether f(x) = (x^2 - 9) / (x - 3) is continuous at x = 3.",
+      "correctAnswer": "No, it has a removable discontinuity",
+      "distractors": [
+        "Yes, it is continuous",
+        "No, it has a jump discontinuity",
+        "No, it has an infinite discontinuity"
+      ],
+      "explanation": "f(3) is undefined (0/0 form), but the limit as x -> 3 exists and equals 6. A function must be defined at the point to be continuous, so this is a removable discontinuity.",
+      "memoryHook": "T-Rexy says: hole in the graph? Removable - the dino can patch it with one point!",
+      "imageUrl": "topic:calculus",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Continuity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_022",
+      "question": "A bacteria culture starts with 100 bacteria and doubles every 3 hours. Assuming exponential growth, how many bacteria are present after 9 hours?",
+      "correctAnswer": "800",
+      "distractors": [
+        "300",
+        "400",
+        "900"
+      ],
+      "explanation": "Exponential growth with doubling time 3 hours gives P(t) = 100 * 2^(t/3). At t = 9: P(9) = 100 * 2^3 = 100 * 8 = 800. The population doubles three times: 100 to 200 to 400 to 800.",
+      "memoryHook": "T-Rexy says: count the doublings - 9 hours holds three of them!",
+      "imageUrl": "topic:calculus",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Differential Equations"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_023",
+      "question": "Use a midpoint Riemann sum with n = 4 subintervals to estimate the integral of x^2 from 0 to 4.",
+      "correctAnswer": "21",
+      "distractors": [
+        "14",
+        "22",
+        "64/3"
+      ],
+      "explanation": "Each subinterval has width 1. The midpoints are 0.5, 1.5, 2.5, 3.5, with values 0.25, 2.25, 6.25, 12.25. The midpoint sum is 1 * (0.25 + 2.25 + 6.25 + 12.25) = 21. The exact value is 64/3, about 21.33.",
+      "memoryHook": "T-Rexy says: sample in the middle of each strip - the midpoint is the honest estimate!",
+      "imageUrl": "topic:calculus",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Riemann"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_024",
+      "question": "Find the value of k that makes f continuous at x = 2, where f(x) = x^2 + 1 for x < 2 and f(x) = kx + 3 for x >= 2.",
+      "correctAnswer": "1",
+      "distractors": [
+        "2",
+        "3",
+        "0"
+      ],
+      "explanation": "Left limit: 2^2 + 1 = 5. Right value: k(2) + 3 = 2k + 3. Set equal: 2k + 3 = 5, so k = 1.",
+      "memoryHook": "T-Rexy says: make the two sides shake hands at the boundary - set them equal!",
+      "imageUrl": "topic:calculus",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Continuity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_025",
+      "question": "Determine whether f(x) = |x| is continuous at x = 0.",
+      "correctAnswer": "Yes",
+      "distractors": [
+        "No, jump discontinuity",
+        "No, removable discontinuity",
+        "No, infinite discontinuity"
+      ],
+      "explanation": "f(0) = 0 and lim (x -> 0) |x| = 0, so all three continuity conditions hold even though the function is not differentiable there.",
+      "memoryHook": "T-Rexy says: absolute value has a corner but no break - continuous, just pointy!",
+      "imageUrl": "topic:calculus",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Continuity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_026",
+      "question": "The shaded region in the figure is bounded by the curve y = x^2, the x-axis, and the line x = 2. This region is revolved around the x-axis. Find the volume of the solid formed.",
+      "correctAnswer": "32pi/5",
+      "distractors": [
+        "16pi/5",
+        "64pi/5",
+        "8pi/3"
+      ],
+      "explanation": "Use discs with radius R(x) = x^2. V = pi * integral from 0 to 2 of (x^2)^2 dx = pi * integral of x^4 dx = pi * [x^5/5] from 0 to 2 = pi * 32/5 = 32pi/5.",
+      "memoryHook": "T-Rexy says: the radius is the height of the curve - square it, then integrate!",
+      "imageUrl": "topic:calculus",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Volumes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_027",
+      "question": "If f is continuous on [a, b] and f(a) < 0 < f(b), what does the Intermediate Value Theorem guarantee?",
+      "correctAnswer": "There is a c in (a, b) with f(c) = 0",
+      "distractors": [
+        "f has a maximum on [a, b]",
+        "f is differentiable on (a, b)",
+        "f(a) = f(b)"
+      ],
+      "explanation": "The IVT says a continuous function takes on every value between f(a) and f(b), so it must cross zero somewhere in (a, b).",
+      "memoryHook": "T-Rexy says: continuous from negative to positive - it MUST cross zero somewhere in between!",
+      "imageUrl": "topic:calculus",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Continuity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_028",
+      "question": "The figure shows the graph of the velocity v(t) of a particle moving along a line, in feet per second, for 0 <= t <= 7. Find the total distance traveled by the particle.",
+      "correctAnswer": "20",
+      "distractors": [
+        "16",
+        "24",
+        "28"
+      ],
+      "explanation": "Because v(t) >= 0 throughout, total distance equals the area under the velocity graph. Split it into shapes: a triangle on [0, 2] with area (1/2)(2)(4) = 4, a rectangle on [2, 5] with area (3)(4) = 12, and a triangle on [5, 7] with area (1/2)(2)(4) = 4. Total distance = 4 + 12 + 4 = 20 feet.",
+      "memoryHook": "T-Rexy says: distance hides in the area under the velocity graph - chop it into triangles and rectangles!",
+      "imageUrl": "topic:calculus",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Motion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_029",
+      "question": "Using the definition of derivative, f'(x) = lim (h -> 0) [f(x + h) - f(x)] / h. If f(x) = x^2, find f'(3).",
+      "correctAnswer": "6",
+      "distractors": [
+        "9",
+        "3",
+        "2"
+      ],
+      "explanation": "f'(x) = 2x by the power rule, so f'(3) = 6. Via definition: lim (h -> 0) [(3+h)^2 - 9]/h = lim (h -> 0) (6h + h^2)/h = 6.",
+      "memoryHook": "T-Rexy says: power rule - bring the power down, subtract one from the exponent!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_030",
+      "question": "In the slope field for dy/dx = x + y, each segment at a point has slope equal to x + y at that point. What is the slope of the segment at the point (2, -1)?",
+      "correctAnswer": "1",
+      "distractors": [
+        "-1",
+        "3",
+        "-3"
+      ],
+      "explanation": "A slope field segment at (x, y) has slope dy/dx evaluated at that point. At (2, -1): slope = x + y = 2 + (-1) = 1. The distractor -1 comes from computing x - y instead of x + y. A slope of 1 means the solution curve rises at 45 degrees as it passes through (2, -1).",
+      "memoryHook": "T-Rexy says: a slope field segment just plugs its own point into dy/dx - read the point, get the slope!",
+      "imageUrl": "topic:differential-equations",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Slope Fields"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_031",
+      "question": "Use a linear approximation at x = 8 to approximate the cube root of 8.06.",
+      "correctAnswer": "2.005",
+      "distractors": [
+        "2.02",
+        "2.06",
+        "1.995"
+      ],
+      "explanation": "Let f(x) = x^(1/3). Then f(8) = 2 and f'(x) = (1/3) x^(-2/3), so f'(8) = 1 / (3 * 4) = 1/12. The tangent line is L(x) = 2 + (1/12)(x - 8). So the cube root of 8.06 is approximately L(8.06) = 2 + (1/12)(0.06) = 2 + 0.005 = 2.005.",
+      "memoryHook": "T-Rexy says: 8 is a perfect cube - stand on it and lean on the tangent line!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Linear Approximation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_032",
+      "question": "The graph of f on [0, 4] is shown in the figure. Use a midpoint Riemann sum with n = 2 subintervals to estimate the integral of f from 0 to 4.",
+      "correctAnswer": "22",
+      "distractors": [
+        "11",
+        "18",
+        "26"
+      ],
+      "explanation": "With n = 2, each subinterval has width 2. The midpoints are x = 1 and x = 3, and from the graph f(1) = 3 and f(3) = 8. The midpoint sum is 2 * f(1) + 2 * f(3) = 2(3) + 2(8) = 22.",
+      "memoryHook": "T-Rexy says: two wide strips - read the height at each middle and multiply by the width!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Riemann"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_033",
+      "question": "A slope field for the differential equation dy/dx = x is shown in the figure, together with one solution curve passing through the point (0, 1). Which function gives that solution curve?",
+      "correctAnswer": "y = x^2/2 + 1",
+      "distractors": [
+        "y = x^2/2",
+        "y = x^2 + 1",
+        "y = x/2 + 1"
+      ],
+      "explanation": "Integrate dy/dx = x to get y = x^2/2 + C. The curve passes through (0, 1), so 1 = 0 + C and C = 1. The solution is y = x^2/2 + 1, an upward parabola with vertex at (0, 1), matching the drawn curve: horizontal at x = 0 and steeper as |x| grows.",
+      "memoryHook": "T-Rexy says: integrate the slope, then let the given point choose the constant!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Slope Fields"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_034",
+      "question": "Use L'Hospital's Rule to find lim (x -> 0) (e^x - 1 - x) / x^2.",
+      "correctAnswer": "1/2",
+      "distractors": [
+        "0",
+        "1",
+        "2"
+      ],
+      "explanation": "Direct substitution gives the indeterminate form 0/0, so L'Hospital's Rule applies. Differentiate top and bottom: (e^x - 1) / (2x), which is still 0/0 at x = 0. Apply the rule a second time: e^x / 2, which approaches 1/2 as x -> 0.",
+      "memoryHook": "T-Rexy says: still 0/0 after one round? Differentiate top and bottom again - L'Hospital can repeat!",
+      "imageUrl": "topic:lhopital",
+      "tags": [
+        "Math",
+        "Calculus",
+        "L'Hospital"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_035",
+      "question": "If f(x) = ln(x), find f'(x).",
+      "correctAnswer": "1/x",
+      "distractors": [
+        "x",
+        "e^x",
+        "ln(x)/x"
+      ],
+      "explanation": "d/dx [ln(x)] = 1/x for x > 0. Reason: ln is the inverse of e^x, and differentiating the inverse gives 1 divided by e^(ln(x)), which is 1/x.",
+      "memoryHook": "T-Rexy says: derivative of ln is one-over-x - short, sweet, unforgettable!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_036",
+      "question": "Use L'Hospital's Rule to find lim (x -> 0) ln(1 + x) / x.",
+      "correctAnswer": "1",
+      "distractors": [
+        "0",
+        "2",
+        "Does not exist"
+      ],
+      "explanation": "Direct substitution gives the indeterminate form 0/0, so L'Hospital's Rule applies. Differentiate the numerator and the denominator separately: the numerator derivative is 1 / (1 + x) and the denominator derivative is 1. The new limit is 1 / (1 + 0) = 1.",
+      "memoryHook": "T-Rexy says: 0/0 is the starting bell for L'Hospital - differentiate top and bottom separately, never with the quotient rule!",
+      "imageUrl": "topic:lhopital",
+      "tags": [
+        "Math",
+        "Calculus",
+        "L'Hospital"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_037",
+      "question": "Use L'Hospital's Rule to find lim (x -> infinity) ln(x) / sqrt(x).",
+      "correctAnswer": "0",
+      "distractors": [
+        "1/2",
+        "1",
+        "Infinity"
+      ],
+      "explanation": "As x -> infinity both ln(x) and sqrt(x) grow without bound, giving the indeterminate form infinity/infinity, so L'Hospital's Rule applies. Differentiate top and bottom: (1/x) / (1 / (2sqrt(x))) = 2 / sqrt(x). As x -> infinity, 2 / sqrt(x) approaches 0, so the limit is 0: sqrt(x) outgrows ln(x).",
+      "memoryHook": "T-Rexy says: any power of x outruns ln(x) in the long run - the log always loses the growth race!",
+      "imageUrl": "topic:lhopital",
+      "tags": [
+        "Math",
+        "Calculus",
+        "L'Hospital"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_038",
+      "question": "If f(x) = tan(x), find f'(x).",
+      "correctAnswer": "sec^2(x)",
+      "distractors": [
+        "sec(x)",
+        "csc^2(x)",
+        "1"
+      ],
+      "explanation": "Write tan(x) = sin(x)/cos(x) and apply the quotient rule: (cos^2(x) + sin^2(x)) / cos^2(x) = 1 / cos^2(x) = sec^2(x).",
+      "memoryHook": "T-Rexy says: tan becomes sec-squared - remember the sassy secant!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_039",
+      "question": "Find the slope of the tangent line to f(x) = x^3 - 2x at x = 2.",
+      "correctAnswer": "10",
+      "distractors": [
+        "8",
+        "6",
+        "4"
+      ],
+      "explanation": "f'(x) = 3x^2 - 2. At x = 2: 3(4) - 2 = 10.",
+      "memoryHook": "T-Rexy says: derivative at a point IS the tangent slope - evaluate and go!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_040",
+      "question": "Use L'Hospital's Rule to find lim (x -> 0) (x - sin(x)) / x^3.",
+      "correctAnswer": "1/6",
+      "distractors": [
+        "0",
+        "1/3",
+        "1/2"
+      ],
+      "explanation": "Direct substitution gives 0/0. Apply L'Hospital's Rule: (1 - cos(x)) / (3x^2), still 0/0. Apply it again: sin(x) / (6x), still 0/0. Apply it a third time: cos(x) / 6, which approaches 1/6 as x -> 0.",
+      "memoryHook": "T-Rexy says: three rounds of 0/0, three rounds of L'Hospital - keep going until the form clears!",
+      "imageUrl": "topic:lhopital",
+      "tags": [
+        "Math",
+        "Calculus",
+        "L'Hospital"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_041",
+      "question": "A population N(t) satisfies the differential equation dN/dt = kN. If N(0) = 500 and N(4) = 1500, find the growth constant k.",
+      "correctAnswer": "ln(3)/4",
+      "distractors": [
+        "ln(3)",
+        "3/4",
+        "ln(4)/3"
+      ],
+      "explanation": "The solution of dN/dt = kN is N(t) = N(0) e^(kt) = 500 e^(kt). Using N(4) = 1500: 500 e^(4k) = 1500, so e^(4k) = 3. Take ln of both sides: 4k = ln(3), so k = ln(3)/4, about 0.275 per unit time.",
+      "memoryHook": "T-Rexy says: the population tripled - undo the exponential with a logarithm and divide by the time!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Differential Equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_042",
+      "question": "Find d/dx [x^2 * sin(x)] using the product rule.",
+      "correctAnswer": "2x*sin(x) + x^2*cos(x)",
+      "distractors": [
+        "2x*cos(x)",
+        "2x*sin(x) - x^2*cos(x)",
+        "x^2*cos(x)"
+      ],
+      "explanation": "Product rule: (2x)(sin x) + (x^2)(cos x) = 2x*sin(x) + x^2*cos(x).",
+      "memoryHook": "T-Rexy says: first times derivative of second PLUS second times derivative of first - product rule chant!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_043",
+      "question": "Find d/dx [(x^2 + 1) / (x - 3)] using the quotient rule.",
+      "correctAnswer": "(x^2 - 6x - 1) / (x - 3)^2",
+      "distractors": [
+        "(2x) / 1",
+        "(x^2 - 6x + 1) / (x - 3)^2",
+        "(2x(x - 3) + (x^2 + 1)) / (x - 3)^2"
+      ],
+      "explanation": "Quotient rule: [2x(x-3) - (x^2+1)(1)] / (x-3)^2 = (2x^2 - 6x - x^2 - 1)/(x-3)^2 = (x^2 - 6x - 1)/(x-3)^2.",
+      "memoryHook": "T-Rexy says: low d-high minus high d-low, over low-low - quotient rule rhyme!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_044",
+      "question": "If f(x) = (3x + 1)^4, find f'(x) using the chain rule.",
+      "correctAnswer": "12(3x + 1)^3",
+      "distractors": [
+        "4(3x + 1)^3",
+        "12(3x + 1)^4",
+        "3(3x + 1)^3"
+      ],
+      "explanation": "Chain rule: 4(3x+1)^3 * 3 = 12(3x+1)^3. Do not forget to multiply by the derivative of the inside.",
+      "memoryHook": "T-Rexy says: chain rule - derivative of outside times derivative of inside, never skip the inside!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_045",
+      "question": "If f(x) = sin(2x), find f'(x).",
+      "correctAnswer": "2cos(2x)",
+      "distractors": [
+        "cos(2x)",
+        "-2cos(2x)",
+        "2sin(2x)"
+      ],
+      "explanation": "Chain rule: cos(2x) * 2 = 2cos(2x).",
+      "memoryHook": "T-Rexy says: the 2 inside must come out - chain rule multiplies by the inner derivative!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_046",
+      "question": "If f(x) = e^(x^2), find f'(x).",
+      "correctAnswer": "2x*e^(x^2)",
+      "distractors": [
+        "e^(x^2)",
+        "2e^(x^2)",
+        "x*e^(x^2)"
+      ],
+      "explanation": "Chain rule: e^(x^2) * 2x = 2x*e^(x^2).",
+      "memoryHook": "T-Rexy says: e keeps its exponent, then multiply by the exponent's derivative!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_047",
+      "question": "If f(x) = ln(x^2 + 1), find f'(x).",
+      "correctAnswer": "2x / (x^2 + 1)",
+      "distractors": [
+        "1 / (x^2 + 1)",
+        "2x",
+        "(2x + 1) / (x^2 + 1)"
+      ],
+      "explanation": "Chain rule: (1/(x^2+1)) * 2x = 2x/(x^2+1).",
+      "memoryHook": "T-Rexy says: ln becomes one-over-inside, then chain on the inside!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_048",
+      "question": "If f(x) = sqrt(4x^3 + 2), find f'(x).",
+      "correctAnswer": "6x^2 / sqrt(4x^3 + 2)",
+      "distractors": [
+        "12x^2 / sqrt(4x^3 + 2)",
+        "1 / (2*sqrt(4x^3 + 2))",
+        "6x^2"
+      ],
+      "explanation": "Write as (4x^3 + 2)^(1/2). Chain rule: (1/2)(4x^3 + 2)^(-1/2) * 12x^2 = 6x^2 / sqrt(4x^3 + 2). The 1/2 and the 12 multiply to 6 - do not divide by 2 a second time.",
+      "memoryHook": "T-Rexy says: root chain rule - half comes down, inside derivative multiplies, then simplify!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_049",
+      "question": "Find d/dx [x * e^(3x)].",
+      "correctAnswer": "e^(3x) + 3x*e^(3x)",
+      "distractors": [
+        "e^(3x)",
+        "3e^(3x)",
+        "3x*e^(3x)"
+      ],
+      "explanation": "Product rule: (1)(e^(3x)) + (x)(3e^(3x)) = e^(3x) + 3x*e^(3x).",
+      "memoryHook": "T-Rexy says: product rule meets chain rule - handle the e^(3x) with a chain inside the product!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_050",
+      "question": "The region under the curve y = sqrt(x) from x = 0 to x = 4 is revolved around the x-axis. Find the volume of the solid formed.",
+      "correctAnswer": "8pi",
+      "distractors": [
+        "4pi",
+        "16pi",
+        "2pi"
+      ],
+      "explanation": "The region touches the x-axis, so use the disk method with radius R(x) = sqrt(x). V = pi times the integral from 0 to 4 of (sqrt(x))^2 dx = pi times the integral from 0 to 4 of x dx = pi times [x^2 / 2] from 0 to 4 = pi(8 - 0) = 8pi.",
+      "memoryHook": "T-Rexy says: no hole means disks - pi times radius squared, and sqrt squared just gives x back!",
+      "imageUrl": "topic:volumes",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Volumes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_051",
+      "question": "If f(x) = cos^2(x), find f'(x).",
+      "correctAnswer": "-2cos(x)sin(x)",
+      "distractors": [
+        "2cos(x)",
+        "-sin^2(x)",
+        "-2sin(x)"
+      ],
+      "explanation": "Write as (cos x)^2. Chain rule: 2cos(x) * (-sin(x)) = -2cos(x)sin(x).",
+      "memoryHook": "T-Rexy says: power outside, trig inside - chain them like dino links!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_052",
+      "question": "Find d/dx [arctan(x)].",
+      "correctAnswer": "1 / (1 + x^2)",
+      "distractors": [
+        "1 / sqrt(1 - x^2)",
+        "-1 / (1 + x^2)",
+        "arctan(x)/x"
+      ],
+      "explanation": "Let y = arctan(x), so x = tan(y). Differentiate implicitly: 1 = sec^2(y) * dy/dx. Since sec^2(y) = 1 + tan^2(y) = 1 + x^2, dy/dx = 1 / (1 + x^2).",
+      "memoryHook": "T-Rexy says: arctan derivative is one over one-plus-x-squared - memorize this gem!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_053",
+      "question": "Use implicit differentiation: if x^2 + y^2 = 25, find dy/dx.",
+      "correctAnswer": "-x / y",
+      "distractors": [
+        "x / y",
+        "-y / x",
+        "2x + 2y"
+      ],
+      "explanation": "Differentiate: 2x + 2y(dy/dx) = 0. Solve: dy/dx = -x/y.",
+      "memoryHook": "T-Rexy says: y gets a dy/dx buddy every time you differentiate it - then solve!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Implicit"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_054",
+      "question": "Use implicit differentiation: if x^3 + y^3 = 6xy, find dy/dx.",
+      "correctAnswer": "(2y - x^2) / (y^2 - 2x)",
+      "distractors": [
+        "(x^2 + 2y) / (y^2 - 2x)",
+        "3x^2 + 3y^2",
+        "(2y - x^2) / (y^2 + 2x)"
+      ],
+      "explanation": "3x^2 + 3y^2(dy/dx) = 6y + 6x(dy/dx). Collect dy/dx terms: dy/dx(3y^2 - 6x) = 6y - 3x^2. So dy/dx = (6y - 3x^2)/(3y^2 - 6x) = (2y - x^2)/(y^2 - 2x).",
+      "memoryHook": "T-Rexy says: product rule on 6xy, gather dy/dx terms, then divide - implicit victory!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Implicit"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_055",
+      "question": "If x^2 + y^2 = 25, find the slope of the tangent line at (3, 4).",
+      "correctAnswer": "-3/4",
+      "distractors": [
+        "3/4",
+        "-4/3",
+        "4/3"
+      ],
+      "explanation": "dy/dx = -x/y from implicit differentiation. At (3, 4): -3/4.",
+      "memoryHook": "T-Rexy says: get dy/dx first, then feed in the point - plug and chug!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Implicit"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_056",
+      "question": "If sin(x + y) = y, find dy/dx.",
+      "correctAnswer": "cos(x + y) / (1 - cos(x + y))",
+      "distractors": [
+        "cos(x + y)",
+        "1 - cos(x + y)",
+        "-cos(x + y)"
+      ],
+      "explanation": "cos(x+y)(1 + dy/dx) = dy/dx. So cos(x+y) = dy/dx(1 - cos(x+y)), giving dy/dx = cos(x+y)/(1 - cos(x+y)).",
+      "memoryHook": "T-Rexy says: chain rule inside implicit - the (1 + dy/dx) is the sneaky part!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Implicit"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_057",
+      "question": "Maya inflates a spherical balloon so its radius increases at 2 cm/s. Find how fast the volume is increasing when r = 5 cm. (V = (4/3)pir^3)",
+      "correctAnswer": "200π cm^3/s",
+      "distractors": [
+        "100π cm^3/s",
+        "50π cm^3/s",
+        "20π cm^3/s"
+      ],
+      "explanation": "dV/dt = 4πr^2 (dr/dt) = 4π(25)(2) = 200π cm^3/s.",
+      "memoryHook": "T-Rexy says: related rates - differentiate with respect to TIME, then substitute!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Related Rates"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_058",
+      "question": "A 10-ft ladder slides down a wall. When the bottom is 6 ft from the wall, Alex measures it sliding out at 2 ft/s. Find how fast the top is sliding down.",
+      "correctAnswer": "-1.5 ft/s",
+      "distractors": [
+        "-2 ft/s",
+        "1.5 ft/s",
+        "-0.75 ft/s"
+      ],
+      "explanation": "x^2 + y^2 = 100. When x = 6, y = 8. Differentiate: 2x(dx/dt) + 2y(dy/dt) = 0. So dy/dt = -(x/y)(dx/dt) = -(6/8)(2) = -1.5 ft/s.",
+      "memoryHook": "T-Rexy says: ladder problems - Pythagoras first, differentiate with time, watch the signs!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Related Rates"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_059",
+      "question": "Water pours into a conical tank (radius 4 m, height 8 m) at 3 m^3/min. Find how fast the water level is rising when h = 2 m.",
+      "correctAnswer": "3/π m/min",
+      "distractors": [
+        "3/(4π) m/min",
+        "3/(16π) m/min",
+        "12/π m/min"
+      ],
+      "explanation": "By similar triangles r/h = 4/8, so r = h/2. V = (1/3)πr^2h = (1/3)π(h/2)^2(h) = πh^3/12. Then dV/dt = (πh^2/4)(dh/dt). At h = 2: 3 = π(dh/dt), so dh/dt = 3/π m/min.",
+      "memoryHook": "T-Rexy says: cones need similar triangles first - kill the extra variable before differentiating!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Related Rates"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_060",
+      "question": "The table gives the position s(t), in feet, of a particle at time t in seconds: s(0) = 0, s(2) = 10, s(4) = 28, s(6) = 54. Find the average velocity of the particle on the interval [2, 6].",
+      "correctAnswer": "11",
+      "distractors": [
+        "9",
+        "13.5",
+        "22"
+      ],
+      "explanation": "Average velocity is change in position over change in time: [s(6) - s(2)] / (6 - 2) = (54 - 10) / 4 = 44 / 4 = 11 feet per second.",
+      "memoryHook": "T-Rexy says: average velocity is total travel divided by total time - endpoints only!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_061",
+      "question": "Find the critical numbers of f(x) = x^3 - 3x^2.",
+      "correctAnswer": "0 and 2",
+      "distractors": [
+        "0 only",
+        "2 only",
+        "1 and 3"
+      ],
+      "explanation": "f'(x) = 3x^2 - 6x = 3x(x - 2). Set equal to 0: x = 0 or x = 2.",
+      "memoryHook": "T-Rexy says: critical numbers - where the derivative is zero or undefined!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Extrema"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_062",
+      "question": "Find the x-value of the local maximum of f(x) = x^3 - 3x^2:",
+      "correctAnswer": "x = 0",
+      "distractors": [
+        "x = 2",
+        "x = 1",
+        "x = 3"
+      ],
+      "explanation": "f'(x) = 3x(x - 2). Sign chart: f' > 0 for x < 0, f' < 0 for 0 < x < 2. So f increases then decreases at x = 0: local max.",
+      "memoryHook": "T-Rexy says: first derivative test - plus to minus means a peak, a local max!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Extrema"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_063",
+      "question": "The region between the curves y = x and y = x^2 from x = 0 to x = 1 is revolved around the x-axis. Find the volume of the solid formed.",
+      "correctAnswer": "2pi/15",
+      "distractors": [
+        "pi/15",
+        "4pi/15",
+        "pi/6"
+      ],
+      "explanation": "Revolving the region leaves a hole, so use the washer method. On [0, 1], y = x is the outer curve and y = x^2 is the inner curve, so R(x) = x and r(x) = x^2. V = pi times the integral from 0 to 1 of (x^2 - x^4) dx = pi [x^3/3 - x^5/5] from 0 to 1 = pi(1/3 - 1/5) = pi(2/15) = 2pi/15. Note the distractor pi/6 is pi times the area 1/6 between the curves - volume needs the washer integral.",
+      "memoryHook": "T-Rexy says: a hole means washers - outer radius squared minus inner radius squared, then times pi!",
+      "imageUrl": "topic:volumes",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Volumes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_064",
+      "question": "Find the absolute maximum of f(x) = x^2 - 4x + 3 on [0, 5].",
+      "correctAnswer": "8",
+      "distractors": [
+        "3",
+        "-1",
+        "0"
+      ],
+      "explanation": "f'(x) = 2x - 4 = 0 at x = 2. Check: f(0) = 3, f(2) = -1, f(5) = 8. Absolute max is 8 at x = 5.",
+      "memoryHook": "T-Rexy says: closed interval? Check critical points AND endpoints - no skipping!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Extrema"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_065",
+      "question": "Find the absolute minimum of f(x) = x^3 - 3x on [-2, 2].",
+      "correctAnswer": "-2",
+      "distractors": [
+        "2",
+        "0",
+        "-4"
+      ],
+      "explanation": "f'(x) = 3x^2 - 3 = 0 at x = ±1. Check: f(-2) = -2, f(-1) = 2, f(1) = -2, f(2) = 2. Absolute min is -2.",
+      "memoryHook": "T-Rexy says: endpoints can tie with critical points - list every candidate value!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Extrema"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_066",
+      "question": "A solid has as its base the region under the line y = 2x from x = 0 to x = 3. Cross sections perpendicular to the x-axis are squares whose side lies in the base. Find the volume of the solid.",
+      "correctAnswer": "36",
+      "distractors": [
+        "18",
+        "12",
+        "54"
+      ],
+      "explanation": "At position x the side of the square cross section equals the height of the base region, s = 2x, so the cross-sectional area is A(x) = s^2 = 4x^2. V = the integral from 0 to 3 of 4x^2 dx = 4 [x^3 / 3] from 0 to 3 = 4(27 / 3) = 4(9) = 36.",
+      "memoryHook": "T-Rexy says: cross sections mean integrate the slice area - square the side, then add up the slices!",
+      "imageUrl": "topic:volumes",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Volumes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_067",
+      "question": "Find the inflection point(s) of f(x) = x^3 - 6x^2 + 5.",
+      "correctAnswer": "x = 2",
+      "distractors": [
+        "x = 0",
+        "x = 4",
+        "x = 3"
+      ],
+      "explanation": "f''(x) = 6x - 12 = 0 at x = 2. f'' changes sign there (negative to positive), so x = 2 is an inflection point.",
+      "memoryHook": "T-Rexy says: inflection - where concavity flips, f-double-prime crosses zero!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Concavity"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_068",
+      "question": "Identify the conditions under which the Mean Value Theorem applies to f on [a, b]:",
+      "correctAnswer": "Continuous on [a, b] and differentiable on (a, b)",
+      "distractors": [
+        "Continuous on (a, b) only",
+        "Differentiable at a and b",
+        "Increasing on [a, b]"
+      ],
+      "explanation": "MVT requires continuity on the closed interval and differentiability on the open interval.",
+      "memoryHook": "T-Rexy says: MVT needs continuous on closed, differentiable on open - check both boxes!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "MVT"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_069",
+      "question": "f(x) = x^2 on [0, 2]. Find c guaranteed by the Mean Value Theorem.",
+      "correctAnswer": "1",
+      "distractors": [
+        "0",
+        "2",
+        "1/2"
+      ],
+      "explanation": "f'(c) = (f(2) - f(0))/(2 - 0) = 4/2 = 2. Since f'(x) = 2x, 2c = 2 gives c = 1.",
+      "memoryHook": "T-Rexy says: MVT - secant slope equals tangent slope somewhere inside!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "MVT"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_070",
+      "question": "A sample decays according to dA/dt = -0.1A with A(0) = 80 grams. Find A(10), the amount remaining after 10 years.",
+      "correctAnswer": "80/e",
+      "distractors": [
+        "80e^-10",
+        "80e",
+        "8"
+      ],
+      "explanation": "A rate of change proportional to the amount gives an exponential model: A(t) = A(0) e^(kt) = 80e^(-0.1t). At t = 10: A(10) = 80e^(-0.1 times 10) = 80e^(-1) = 80/e, about 29.4 grams. The exponent is -0.1 times 10 = -1, not -10.",
+      "memoryHook": "T-Rexy says: rate proportional to amount means exponential - multiply k by t inside the exponent!",
+      "imageUrl": "topic:differential-equations",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Differential Equations"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_071",
+      "question": "Farmer Diaz has 100 ft of fencing to enclose a rectangular pen against a barn (one side needs no fence). Find the maximum area.",
+      "correctAnswer": "1250 sq ft",
+      "distractors": [
+        "1000 sq ft",
+        "2500 sq ft",
+        "625 sq ft"
+      ],
+      "explanation": "Let x = sides perpendicular to barn, y = side parallel. 2x + y = 100, so y = 100 - 2x. A = x(100 - 2x) = 100x - 2x^2. A' = 100 - 4x = 0 gives x = 25, y = 50. Max area = 1250.",
+      "memoryHook": "T-Rexy says: optimization - write area with one variable, differentiate, set to zero!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Optimization"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_072",
+      "question": "Find the dimensions of the rectangle with perimeter 40 that has maximum area.",
+      "correctAnswer": "10 by 10",
+      "distractors": [
+        "5 by 15",
+        "8 by 12",
+        "20 by 20"
+      ],
+      "explanation": "2x + 2y = 40, so y = 20 - x. A = x(20 - x) = 20x - x^2. A' = 20 - 2x = 0 gives x = 10, y = 10. A square!",
+      "memoryHook": "T-Rexy says: fixed perimeter, max area - the answer is always a square!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Optimization"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_073",
+      "question": "A solid has as its base the region under the line y = 2x from x = 0 to x = 2. Cross sections perpendicular to the x-axis are semicircles whose diameter lies in the base. Find the volume of the solid.",
+      "correctAnswer": "4pi/3",
+      "distractors": [
+        "2pi/3",
+        "8pi/3",
+        "pi/3"
+      ],
+      "explanation": "At position x the diameter of the semicircle equals the height of the base region, d = 2x, so the radius is x and the cross-sectional area is A(x) = (1/2) pi (radius)^2 = (pi/2) x^2. V = the integral from 0 to 2 of (pi/2) x^2 dx = (pi/2) [x^3 / 3] from 0 to 2 = (pi/2)(8/3) = 4pi/3. Using the full circle instead of a semicircle would double this to the distractor 8pi/3.",
+      "memoryHook": "T-Rexy says: semicircle area is HALF of pi r squared - halve first, then integrate the slices!",
+      "imageUrl": "topic:volumes",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Volumes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_074",
+      "question": "Use the second derivative test: f(x) = x^3 - 3x^2 + 2 has what at x = 2?",
+      "correctAnswer": "Local minimum",
+      "distractors": [
+        "Local maximum",
+        "Inflection point",
+        "Neither"
+      ],
+      "explanation": "f'(x) = 3x^2 - 6x, f''(x) = 6x - 6. At x = 2: f'(2) = 0 and f''(2) = 6 > 0, so local minimum.",
+      "memoryHook": "T-Rexy says: second derivative test - critical point plus positive f-double-prime means minimum!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Extrema"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_075",
+      "question": "The region enclosed by the line y = 2x and the parabola y = x^2 is revolved around the x-axis. Find the volume of the solid formed.",
+      "correctAnswer": "64pi/15",
+      "distractors": [
+        "32pi/3",
+        "32pi/5",
+        "128pi/15"
+      ],
+      "explanation": "The curves intersect where x^2 = 2x, at x = 0 and x = 2. On [0, 2] the line is on top, so washers have outer radius R = 2x and inner radius r = x^2. V = pi * integral from 0 to 2 of [(2x)^2 - (x^2)^2] dx = pi * integral of (4x^2 - x^4) dx = pi * [(4/3)x^3 - x^5/5] from 0 to 2 = pi * (32/3 - 32/5) = pi * 32 * (2/15) = 64pi/15. The values 32pi/3 and 32pi/5 come from forgetting to subtract the inner disc.",
+      "memoryHook": "T-Rexy says: a washer is a disc with a bite taken out - big disc minus little disc!",
+      "imageUrl": "topic:limits",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Volumes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_076",
+      "question": "Explain why f(x) = x^(2/3) has a critical number at x = 0:",
+      "correctAnswer": "f'(0) is undefined",
+      "distractors": [
+        "f'(0) = 0",
+        "f(0) = 0",
+        "f is discontinuous at 0"
+      ],
+      "explanation": "f'(x) = (2/3)x^(-1/3), which is undefined at x = 0. Critical numbers include points where the derivative is undefined.",
+      "memoryHook": "T-Rexy says: cusp at zero - derivative undefined means critical number!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Extrema"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_077",
+      "question": "If the graph of f' changes from negative to positive at x = c, then f has a:",
+      "correctAnswer": "Local minimum at c",
+      "distractors": [
+        "Local maximum at c",
+        "Inflection point at c",
+        "Vertical asymptote at c"
+      ],
+      "explanation": "By the First Derivative Test, f' changing from negative to positive means f decreases then increases: local minimum.",
+      "memoryHook": "T-Rexy says: read the f-prime sign chart like a story - down then up is a valley!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Extrema"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_078",
+      "question": "Find the x-coordinate(s) where f(x) = x^4 - 4x^3 has horizontal tangent lines.",
+      "correctAnswer": "0 and 3",
+      "distractors": [
+        "0 only",
+        "3 only",
+        "4"
+      ],
+      "explanation": "f'(x) = 4x^3 - 12x^2 = 4x^2(x - 3) = 0 gives x = 0 or x = 3.",
+      "memoryHook": "T-Rexy says: horizontal tangent means derivative zero - factor and solve!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_079",
+      "question": "Identify when Rolle's Theorem applies as a special case of the Mean Value Theorem:",
+      "correctAnswer": "f(a) = f(b)",
+      "distractors": [
+        "f is linear",
+        "a = b",
+        "f'(c) = 0 for all c"
+      ],
+      "explanation": "Rolle's Theorem adds the condition f(a) = f(b), which forces the MVT's secant slope to be 0, giving f'(c) = 0.",
+      "memoryHook": "T-Rexy says: Rolle is MVT with equal endpoints - the tangent must go flat somewhere!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "MVT"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_080",
+      "question": "Find the first step when differentiating f(x) = x^x using logarithmic differentiation:",
+      "correctAnswer": "ln(y) = x*ln(x)",
+      "distractors": [
+        "y' = x*x^(x-1)",
+        "ln(y) = ln(x)^x",
+        "y' = x^x * ln(x)"
+      ],
+      "explanation": "Take ln of both sides: ln(y) = ln(x^x) = x*ln(x). Then differentiate implicitly.",
+      "memoryHook": "T-Rexy says: variable in the exponent? Take logs first - logarithmic differentiation to the rescue!",
+      "imageUrl": "topic:derivatives",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Derivatives"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_081",
+      "question": "A solid has as its base the region under the line y = 4 - x from x = 0 to x = 4. Cross sections perpendicular to the x-axis are squares whose side lies in the base. Find the volume of the solid.",
+      "correctAnswer": "64/3",
+      "distractors": [
+        "8",
+        "32/3",
+        "128/3"
+      ],
+      "explanation": "At each x, the side of the square is s = 4 - x, so the cross-section area is A(x) = (4 - x)^2. V = integral from 0 to 4 of (4 - x)^2 dx = [-(4 - x)^3 / 3] from 0 to 4 = 0 - (-64/3) = 64/3. The number 8 is only the area of the triangular base, not the volume.",
+      "memoryHook": "T-Rexy says: square the side, stack the squares - that stack is the volume!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Volumes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_082",
+      "question": "Evaluate the definite integral: ∫(0 to 2) x^3 dx.",
+      "correctAnswer": "4",
+      "distractors": [
+        "8",
+        "2",
+        "16"
+      ],
+      "explanation": "Antiderivative: x^4/4. Evaluate: (2^4/4) - (0^4/4) = 16/4 - 0 = 4.",
+      "memoryHook": "T-Rexy says: definite integral - find antiderivative, plug top, minus plug bottom!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Integrals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_083",
+      "question": "Evaluate: ∫(1 to 3) (2x + 1) dx.",
+      "correctAnswer": "10",
+      "distractors": [
+        "8",
+        "12",
+        "9"
+      ],
+      "explanation": "Antiderivative: x^2 + x. At 3: 9 + 3 = 12. At 1: 1 + 1 = 2. Difference: 12 - 2 = 10.",
+      "memoryHook": "T-Rexy says: integrate term by term, then top minus bottom - steady dino steps!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Integrals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_084",
+      "question": "Find: ∫ e^(2x) dx.",
+      "correctAnswer": "(1/2)e^(2x) + C",
+      "distractors": [
+        "e^(2x) + C",
+        "2e^(2x) + C",
+        "e^(2x)/(2x) + C"
+      ],
+      "explanation": "Use substitution u = 2x: ∫ e^u (du/2) = (1/2)e^u + C = (1/2)e^(2x) + C.",
+      "memoryHook": "T-Rexy says: chain rule in reverse - divide by the inner derivative!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Integrals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_085",
+      "question": "Find: ∫ x*e^(x^2) dx.",
+      "correctAnswer": "(1/2)e^(x^2) + C",
+      "distractors": [
+        "e^(x^2) + C",
+        "2x*e^(x^2) + C",
+        "x^2*e^(x^2) + C"
+      ],
+      "explanation": "Substitution u = x^2, du = 2x dx. ∫ x*e^(x^2) dx = (1/2)∫ e^u du = (1/2)e^u + C = (1/2)e^(x^2) + C.",
+      "memoryHook": "T-Rexy says: spot the inner function and its derivative hiding nearby - u-substitution!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Integrals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_086",
+      "question": "If F(x) = integral from a to x of f(t) dt with f continuous, find F'(x).",
+      "correctAnswer": "f(x)",
+      "distractors": [
+        "F(x)",
+        "f(a)",
+        "0"
+      ],
+      "explanation": "FTC Part 1: the derivative of an accumulation function is the original integrand.",
+      "memoryHook": "T-Rexy says: derivative of an integral from a to x - the integral sign just vanishes!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "FTC"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_087",
+      "question": "A particle moves along a line with velocity v(t) = t - 2 for 0 <= t <= 3. Find the total distance traveled by the particle from t = 0 to t = 3.",
+      "correctAnswer": "5/2",
+      "distractors": [
+        "-3/2",
+        "3/2",
+        "2"
+      ],
+      "explanation": "Total distance uses the integral of speed, |v(t)|, so split where v changes sign: v(t) = 0 at t = 2. Distance = the integral from 0 to 2 of (2 - t) dt plus the integral from 2 to 3 of (t - 2) dt = [2t - t^2/2] from 0 to 2 plus [t^2/2 - 2t] from 2 to 3 = 2 + 1/2 = 5/2. The distractor -3/2 is the displacement, where backward motion cancels forward motion - distance never cancels.",
+      "memoryHook": "T-Rexy says: distance adds every step, displacement cancels - split at the sign change and flip the negative part up!",
+      "imageUrl": "topic:motion",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_088",
+      "question": "If G(x) = ∫(x to 5) cos(t) dt, find G'(x).",
+      "correctAnswer": "-cos(x)",
+      "distractors": [
+        "cos(x)",
+        "-sin(x)",
+        "sin(x)"
+      ],
+      "explanation": "Flip the limits: G(x) = -∫(5 to x) cos(t) dt. By FTC: G'(x) = -cos(x). The variable on the bottom introduces a negative.",
+      "memoryHook": "T-Rexy says: x on the bottom? Flip it and slap on a negative sign!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "FTC"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_089",
+      "question": "Evaluate: ∫(0 to π) sin(x) dx.",
+      "correctAnswer": "2",
+      "distractors": [
+        "0",
+        "1",
+        "-2"
+      ],
+      "explanation": "Antiderivative: -cos(x). Evaluate: -cos(π) - (-cos(0)) = 1 + 1 = 2.",
+      "memoryHook": "T-Rexy says: sine from 0 to pi - the hump has area 2, picture it!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Integrals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_090",
+      "question": "A particle moves along a line with velocity v(t) = 3t^2 + 2 and initial position s(0) = 5. Find the position of the particle at t = 2.",
+      "correctAnswer": "17",
+      "distractors": [
+        "12",
+        "16",
+        "21"
+      ],
+      "explanation": "Position is the antiderivative of velocity plus the initial condition: s(t) = the integral of (3t^2 + 2) dt = t^3 + 2t + C, and s(0) = 5 gives C = 5. So s(2) = 8 + 4 + 5 = 17. The distractor 12 forgets the initial position s(0) = 5.",
+      "memoryHook": "T-Rexy says: integrate velocity to climb back to position - and never drop the starting point!",
+      "imageUrl": "topic:motion",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_091",
+      "question": "Evaluate: ∫(1 to e) (1/x) dx.",
+      "correctAnswer": "1",
+      "distractors": [
+        "e",
+        "0",
+        "ln(e) + 1"
+      ],
+      "explanation": "Antiderivative: ln|x|. ln(e) - ln(1) = 1 - 0 = 1.",
+      "memoryHook": "T-Rexy says: ln(e) is 1, ln(1) is 0 - the answer falls right out!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Integrals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_092",
+      "question": "If H(x) = ∫(1 to x^2) sqrt(t) dt, find H'(x).",
+      "correctAnswer": "2x*sqrt(x^2)",
+      "distractors": [
+        "sqrt(x^2)",
+        "2x",
+        "x*sqrt(x^2)"
+      ],
+      "explanation": "FTC with chain rule: H'(x) = sqrt(x^2) * d/dx[x^2] = sqrt(x^2) * 2x = 2x*sqrt(x^2).",
+      "memoryHook": "T-Rexy says: x-squared on top? FTC then chain rule - multiply by 2x!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "FTC"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_093",
+      "question": "Find the area between y = x^2 and y = x from x = 0 to x = 1.",
+      "correctAnswer": "1/6",
+      "distractors": [
+        "1/3",
+        "1/2",
+        "1/12"
+      ],
+      "explanation": "On [0,1], x >= x^2. Area = ∫(0 to 1) (x - x^2) dx = [x^2/2 - x^3/3](0 to 1) = 1/2 - 1/3 = 1/6.",
+      "memoryHook": "T-Rexy says: area between curves - top minus bottom, then integrate!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Area"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_094",
+      "question": "Find the area enclosed by y = 4 - x^2 and the x-axis.",
+      "correctAnswer": "32/3",
+      "distractors": [
+        "16/3",
+        "8",
+        "64/3"
+      ],
+      "explanation": "Roots at x = ±2. Area = ∫(-2 to 2) (4 - x^2) dx = [4x - x^3/3](-2 to 2) = (8 - 8/3) - (-8 + 8/3) = 32/3.",
+      "memoryHook": "T-Rexy says: find where it hits zero first - those are your limits!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Area"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_095",
+      "question": "Solve the differential equation dy/dx = 2x with y(0) = 5.",
+      "correctAnswer": "y = x^2 + 5",
+      "distractors": [
+        "y = x^2",
+        "y = 2x + 5",
+        "y = x^2 + 2"
+      ],
+      "explanation": "Integrate: y = x^2 + C. Use y(0) = 5: 5 = 0 + C, so C = 5. Solution: y = x^2 + 5.",
+      "memoryHook": "T-Rexy says: separate, integrate, then use the point to find C - initial value victory!",
+      "imageUrl": "topic:calculus",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Differential Equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_096",
+      "question": "Solve dy/dx = y with y(0) = 3.",
+      "correctAnswer": "y = 3e^x",
+      "distractors": [
+        "y = e^x + 3",
+        "y = 3x",
+        "y = e^(3x)"
+      ],
+      "explanation": "dy/y = dx. Integrate: ln|y| = x + C, so y = Ae^x. y(0) = 3 gives A = 3. Solution: y = 3e^x.",
+      "memoryHook": "T-Rexy says: dy/dx = y means exponential - separate and watch e appear!",
+      "imageUrl": "topic:calculus",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Differential Equations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_097",
+      "question": "Find the average value of f(x) = x^2 on [0, 3].",
+      "correctAnswer": "3",
+      "distractors": [
+        "9",
+        "6",
+        "3/2"
+      ],
+      "explanation": "Average = (1/(3-0))∫(0 to 3) x^2 dx = (1/3)(27/3) = (1/3)(9) = 3.",
+      "memoryHook": "T-Rexy says: average value - one over width times the integral!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Integrals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_098",
+      "question": "Using a left Riemann sum with n = 2 subintervals, estimate ∫(0 to 2) x^2 dx.",
+      "correctAnswer": "1",
+      "distractors": [
+        "3",
+        "5",
+        "2"
+      ],
+      "explanation": "Width = 1. Left endpoints: x = 0, 1. Sum: (0^2)(1) + (1^2)(1) = 1.",
+      "memoryHook": "T-Rexy says: left sum uses left endpoints - multiply height by width, add them up!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Riemann"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_099",
+      "question": "Using a right Riemann sum with n = 2 subintervals, estimate ∫(0 to 2) x^2 dx.",
+      "correctAnswer": "5",
+      "distractors": [
+        "1",
+        "3",
+        "9"
+      ],
+      "explanation": "Width = 1. Right endpoints: x = 1, 2. Sum: (1^2)(1) + (2^2)(1) = 1 + 4 = 5.",
+      "memoryHook": "T-Rexy says: right sum uses right endpoints - for increasing functions it overestimates!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Riemann"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    },
+    {
+      "id": "EACALC_100",
+      "question": "If f is continuous and ∫(0 to 4) f(x) dx = 10 and ∫(0 to 4) g(x) dx = 3, find ∫(0 to 4) [2f(x) - g(x)] dx.",
+      "correctAnswer": "17",
+      "distractors": [
+        "7",
+        "13",
+        "23"
+      ],
+      "explanation": "Linearity: 2∫f - ∫g = 2(10) - 3 = 17.",
+      "memoryHook": "T-Rexy says: integrals are linear - constants pull out, sums split apart!",
+      "imageUrl": "topic:integrals",
+      "tags": [
+        "Math",
+        "Calculus",
+        "Integrals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "TReps AP Calc AB"
+    }
+  ]
+}

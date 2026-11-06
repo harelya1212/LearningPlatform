@@ -1,1 +1,2020 @@
-{"packId":"arizona-grade-5","version":"1.0","title":"Arizona Grade 5 (AASA)","description":"Arizona Academic Standards Assessment prep for 5th grade - Math, ELA, and Science","language":"en","passingScore":60,"totalQuestions":100,"addedAt":"2026-11-02","tags":["arizona","grade5","aasa","math","ela","science"],"questions":[{"correctAnswer":"5/8","difficulty":1,"distractors":["3/5","They are equal","1/2"],"dynamic":false,"explanation":"Compare by common denominator: 3/5 = 24/40 and 5/8 = 25/40. Since 25/40 is bigger than 24/40, 5/8 is greater.","id":"AZG5_001","imageUrl":"topic:fractions","memoryHook":"T-Rexy says: line up the fractions on a number line - even a tiny dino step to the right wins!","question":"Which fraction is greater: 3/5 or 5/8?","source":"TReps Arizona Grade 5","tags":["Math","Fractions"]},{"correctAnswer":"1/2","difficulty":1,"distractors":["2/9","1/4","2/6"],"dynamic":false,"explanation":"Find a common denominator: 1/3 = 2/6, so 2/6 + 1/6 = 3/6 = 1/2.","id":"AZG5_002","imageUrl":"topic:fractions","memoryHook":"T-Rexy says: equal-sized bites make adding easy - chop 1/3 into two sixth-size dino bites!","question":"What is 1/3 + 1/6?","source":"TReps Arizona Grade 5","tags":["Math","Fractions"]},{"correctAnswer":"2 1/3","difficulty":1,"distractors":["2 2/3","3 1/3","1 4/3"],"dynamic":false,"explanation":"7/3 means 7 thirds. Three thirds make one whole, so 6 thirds = 2 wholes with 1 third left over: 2 1/3.","id":"AZG5_003","imageUrl":"topic:fractions","memoryHook":"T-Rexy says: every 3 dino thirds squash together into one whole - see how many wholes you can pack!","question":"Write 7/3 as a mixed number.","source":"TReps Arizona Grade 5","tags":["Math","Fractions"]},{"correctAnswer":"7/12","difficulty":2,"distractors":["4/2","4/12","1/3"],"dynamic":false,"explanation":"Use a common denominator of 12: 5/6 = 10/12 and 1/4 = 3/12. Then 10/12 - 3/12 = 7/12.","id":"AZG5_004","imageUrl":"topic:fractions","memoryHook":"T-Rexy says: you cannot subtract until the slices match - slice both into twelfths first!","question":"What is 5/6 - 1/4?","source":"TReps Arizona Grade 5","tags":["Math","Fractions"]},{"correctAnswer":"1 3/4 cups","difficulty":2,"distractors":["1 1/4 cups","2 3/4 cups","1 cup"],"dynamic":false,"explanation":"2 1/2 - 3/4: convert 2 1/2 to 2 2/4, borrow 1 whole to get 1 6/4. Then 1 6/4 - 3/4 = 1 3/4 cups.","id":"AZG5_005","imageUrl":"topic:fractions","memoryHook":"T-Rexy says: a dino baker never wastes flour - borrow a whole cup and count what is left!","question":"Maya has 2 1/2 cups of flour. She uses 3/4 cup to bake cookies. How much flour is left?","source":"TReps Arizona Grade 5","tags":["Math","Fractions"]},{"correctAnswer":"1 3/5","difficulty":2,"distractors":["8/20","4/20","6/5"],"dynamic":false,"explanation":"4 x 2/5 = 8/5. Then convert: 8/5 = 1 3/5.","id":"AZG5_006","imageUrl":"topic:fractions","memoryHook":"T-Rexy says: four stomps of two-fifths each stack up - add up the fifths, then make whole dino piles!","question":"What is 4 x 2/5?","source":"TReps Arizona Grade 5","tags":["Math","Fractions"]},{"correctAnswer":"8/12","difficulty":2,"distractors":["4/5","6/10","2/6"],"dynamic":false,"explanation":"Multiply numerator and denominator by the same number: 2/3 x 4/4 = 8/12, so 8/12 is equivalent.","id":"AZG5_007","imageUrl":"topic:fractions","memoryHook":"T-Rexy says: twins in disguise! Multiply top and bottom by the same number and the fraction stays the same size!","question":"Which of the following is equivalent to 2/3?","source":"TReps Arizona Grade 5","tags":["Math","Fractions"]},{"correctAnswer":"1 1/2 miles","difficulty":3,"distractors":["2 1/2 miles","1 2/3 miles","2 miles"],"dynamic":false,"explanation":"3 1/3 - 1 5/6: convert to sixths: 3 2/6 - 1 5/6. Borrow 1 whole: 2 8/6 - 1 5/6 = 1 3/6 = 1 1/2 miles.","id":"AZG5_008","imageUrl":"topic:fractions","memoryHook":"T-Rexy says: even a tired dino hiker can count the leftover trail - borrow a whole mile and stomp on!","question":"A trail is 3 1/3 miles long. Luis hikes 1 5/6 miles in the morning. How many miles are left to hike?","source":"TReps Arizona Grade 5","tags":["Math","Fractions"]},{"correctAnswer":"4 1/2","difficulty":3,"distractors":["3 7/9","4 1/3","3 1/2"],"dynamic":false,"explanation":"Add wholes and fractions separately: 2 + 1 = 3 wholes; 2/3 + 5/6 = 4/6 + 5/6 = 9/6 = 1 1/2. Then 3 + 1 1/2 = 4 1/2.","id":"AZG5_009","imageUrl":"topic:fractions","memoryHook":"T-Rexy says: whole dinos and baby dinos add up separately - then pile them together into one big herd!","question":"What is 2 2/3 + 1 5/6?","source":"TReps Arizona Grade 5","tags":["Math","Fractions"]},{"correctAnswer":"1 7/8 yards","difficulty":3,"distractors":["15/24 yards","5/24 yards","2 yards"],"dynamic":false,"explanation":"3 x 5/8 = 15/8. Convert to a mixed number: 15/8 = 1 7/8 yards.","id":"AZG5_010","imageUrl":"topic:fractions","memoryHook":"T-Rexy says: three pillows, three stomps of fabric - stack up the eighths and sew them into wholes!","question":"Sam needs 5/8 yard of fabric for one pillow. How many yards does he need for 3 pillows?","source":"TReps Arizona Grade 5","tags":["Math","Fractions"]},{"correctAnswer":"0.75","difficulty":1,"distractors":["0.34","0.7","3.4"],"dynamic":false,"explanation":"3/4 = 75/100 = 0.75","id":"AZG5_011","imageUrl":"topic:decimals","memoryHook":"T-Rexy says: four slices of dino pizza make a whole pie - 3 out of 4 slices is 0.75!","question":"Which decimal is equal to 3/4?","source":"TReps Arizona Grade 5","tags":["Math","Decimals"]},{"correctAnswer":"2","difficulty":1,"distractors":["6","7","4"],"dynamic":false,"explanation":"In 4.672, the digits after the decimal are 6 (tenths), 7 (hundredths), 2 (thousandths).","id":"AZG5_012","imageUrl":"topic:decimals","memoryHook":"T-Rexy says: count the dino steps after the dot - tenths, hundredths, thousandths!","question":"In the number 4.672, which digit is in the thousandths place?","source":"TReps Arizona Grade 5","tags":["Math","Decimals"]},{"correctAnswer":"7.42","difficulty":1,"distractors":["7.042","7.402","74.2"],"dynamic":false,"explanation":"\"Seven\" goes before the decimal point, and \"forty-two hundredths\" = .42, so the number is 7.42.","id":"AZG5_013","imageUrl":"topic:decimals","memoryHook":"T-Rexy says: say it like a roar - seven AND forty-two hundredths - and plant the decimal right after the AND!","question":"Which decimal is read as \"seven and forty-two hundredths\"?","source":"TReps Arizona Grade 5","tags":["Math","Decimals"]},{"correctAnswer":"0.58","difficulty":2,"distractors":["0.508","0.505","0.5"],"dynamic":false,"explanation":"Line up the decimals: 0.580 > 0.508 > 0.505 > 0.500, so 0.58 is greatest.","id":"AZG5_014","imageUrl":"topic:decimals","memoryHook":"T-Rexy says: line up the decimal points like dino footprints and compare digit by digit!","question":"Which decimal is the greatest?","source":"TReps Arizona Grade 5","tags":["Math","Decimals"]},{"correctAnswer":"3.86","difficulty":2,"distractors":["2.51","3.51","2.86"],"dynamic":false,"explanation":"Line up the decimal points: 2.36 + 1.50 = 3.86.","id":"AZG5_015","imageUrl":"topic:decimals","memoryHook":"T-Rexy says: stack the numbers so the decimal points march in one straight dino parade!","question":"What is 2.36 + 1.5?","source":"TReps Arizona Grade 5","tags":["Math","Decimals"]},{"correctAnswer":"3.73","difficulty":2,"distractors":["3.27","4.27","3.83"],"dynamic":false,"explanation":"Write 5.20 - 1.47. Then 520 - 147 = 373, so the answer is 3.73.","id":"AZG5_016","imageUrl":"topic:decimals","memoryHook":"T-Rexy says: borrow bones like a careful dino chef, then subtract each column!","question":"What is 5.2 - 1.47?","source":"TReps Arizona Grade 5","tags":["Math","Decimals"]},{"correctAnswer":"1.2","difficulty":2,"distractors":["0.12","12","0.7"],"dynamic":false,"explanation":"0.4 x 3 = 4 tenths x 3 = 12 tenths = 1.2.","id":"AZG5_017","imageUrl":"topic:decimals","memoryHook":"T-Rexy says: multiply like the dot is not there, then stomp it back into place at the end!","question":"What is 0.4 x 3?","source":"TReps Arizona Grade 5","tags":["Math","Decimals"]},{"correctAnswer":"0.6, 0.603, 0.63, 0.639","difficulty":3,"distractors":["0.603, 0.6, 0.63, 0.639","0.639, 0.63, 0.603, 0.6","0.6, 0.63, 0.603, 0.639"],"dynamic":false,"explanation":"Write them with three places: 0.600 < 0.603 < 0.630 < 0.639.","id":"AZG5_018","imageUrl":"topic:decimals","memoryHook":"T-Rexy says: give every decimal the same number of tail feathers (zeros) so they are easy to compare!","question":"Put these decimals in order from least to greatest: 0.63, 0.639, 0.603, 0.6","source":"TReps Arizona Grade 5","tags":["Math","Decimals"]},{"correctAnswer":"5.00","difficulty":3,"distractors":["4.25","5.25","4.00"],"dynamic":false,"explanation":"1.25 x 4 = 5.00, so she spends $5.00.","id":"AZG5_019","imageUrl":"topic:decimals","memoryHook":"T-Rexy says: four dino snacks at $1.25 each - multiply and count your coins, little hunter!","question":"Lily buys 4 notebooks that cost $1.25 each. How much does she spend in all?","source":"TReps Arizona Grade 5","tags":["Math","Decimals"]},{"correctAnswer":"2 1/20","difficulty":3,"distractors":["2 1/2","2 5/10","2 1/5"],"dynamic":false,"explanation":"2.05 = 2 + 5/100 = 2 + 1/20.","id":"AZG5_020","imageUrl":"topic:decimals","memoryHook":"T-Rexy says: 0.05 is 5 tiny dino toes out of 100 - shrink that fraction down to 1/20!","question":"Which mixed number is equal to 2.05?","source":"TReps Arizona Grade 5","tags":["Math","Decimals"]},{"correctAnswer":"30 cubic inches","difficulty":1,"distractors":["10 square inches","10 cubic inches","20 cubic inches"],"dynamic":false,"explanation":"Volume = length x width x height = 5 x 2 x 3 = 30 cubic inches.","id":"AZG5_021","imageUrl":"topic:volume","memoryHook":"T-Rexy says: multiply all three sides - the chest needs length AND width AND height to hold treasure!","question":"T-Rexy's treasure chest is 5 inches long, 2 inches wide, and 3 inches tall. What is its volume?","source":"TReps Arizona Grade 5","tags":["Math","Volume"]},{"correctAnswer":"24 cubes","difficulty":1,"distractors":["9 cubes","12 cubes","29 cubes"],"dynamic":false,"explanation":"Count the unit cubes: 4 x 3 x 2 = 24 cubes fill the stack.","id":"AZG5_022","imageUrl":"topic:volume","memoryHook":"T-Rexy says: unit cubes are like tiny dino snacks - stack them up to fill the whole box!","question":"A stack of 1-inch cubes is 4 cubes long, 3 cubes wide, and 2 cubes tall. How many unit cubes fill the stack?","source":"TReps Arizona Grade 5","tags":["Math","Volume"]},{"correctAnswer":"300 cubic cm","difficulty":2,"distractors":["60 square cm","21 cubic cm","60 cubic cm"],"dynamic":false,"explanation":"Volume = 10 x 6 x 5 = 300 cubic cm. (21 comes from adding; 60 comes from forgetting one side.)","id":"AZG5_023","imageUrl":"topic:volume","memoryHook":"T-Rexy says: a tank holds WATER - that means volume, not flat area, splashy dino!","question":"A fish tank is 10 cm long, 6 cm wide, and 5 cm tall. What is its volume?","source":"TReps Arizona Grade 5","tags":["Math","Volume"]},{"correctAnswer":"Area measures a flat face; volume needs length x width x height in cubic units","difficulty":2,"distractors":["She multiplied instead of adding","She forgot to include the price of the box","12 is too small to be a volume"],"dynamic":false,"explanation":"Area covers a flat 2D face (square units). Volume fills a 3D solid, so it needs all three dimensions and cubic units.","id":"AZG5_024","imageUrl":"topic:volume","memoryHook":"T-Rexy says: a flat dino footprint is AREA - the whole roaring cave is VOLUME!","question":"Maya found the area of the front face of a box: 12 square cm. She says that is the volume. What mistake did she make?","source":"TReps Arizona Grade 5","tags":["Math","Volume"]},{"correctAnswer":"64 cubic in","difficulty":2,"distractors":["64 square in","14 cubic in","32 cubic in"],"dynamic":false,"explanation":"Volume = 8 x 4 x 2 = 64 cubic in. Square inches are for flat area, not volume.","id":"AZG5_025","imageUrl":"topic:volume","memoryHook":"T-Rexy says: cubic means chunky - like dino bones, not flat like paper!","question":"A book box measures 8 in by 4 in by 2 in. Which is its volume?","source":"TReps Arizona Grade 5","tags":["Math","Volume"]},{"correctAnswer":"189 cubic cm","difficulty":3,"distractors":["179 cubic cm","189 square cm","61 cubic cm"],"dynamic":false,"explanation":"Composite volume = 125 + 64 = 189 cubic cm. (61 comes from subtracting; 179 is a slip in adding.)","id":"AZG5_026","imageUrl":"topic:volume","memoryHook":"T-Rexy says: stack two dino blocks - add their volumes to get the whole mighty tower!","question":"A gift box is made of two stacked cubes: the bottom cube has a volume of 125 cubic cm and the top cube has a volume of 64 cubic cm. What is the total volume?","source":"TReps Arizona Grade 5","tags":["Math","Volume"]},{"correctAnswer":"52 cubic ft","difficulty":3,"distractors":["36 cubic ft","52 square ft","18 cubic ft"],"dynamic":false,"explanation":"Prism A: 6 x 3 x 2 = 36. Prism B: 4 x 2 x 2 = 16. Total = 36 + 16 = 52 cubic ft.","id":"AZG5_027","imageUrl":"topic:volume","memoryHook":"T-Rexy says: split the L-shape into two dino blocks, find each volume, then chomp them together!","question":"An L-shaped planter is made of two rectangular prisms. Prism A is 6 ft by 3 ft by 2 ft. Prism B is 4 ft by 2 ft by 2 ft. What is the total volume?","source":"TReps Arizona Grade 5","tags":["Math","Volume"]},{"correctAnswer":"60 cubes","difficulty":1,"distractors":["20 cubes","12 cubes","37 cubes"],"dynamic":false,"explanation":"One layer = 5 x 4 = 20 cubes. Three layers: 20 x 3 = 60 cubes.","id":"AZG5_028","imageUrl":"topic:volume","memoryHook":"T-Rexy says: count one layer first, then stack the layers - like building a dino sandwich!","question":"A toy crate has a base layer of 5 rows of 4 cubes, and it is 3 cubes tall. How many cubes does it hold?","source":"TReps Arizona Grade 5","tags":["Math","Volume"]},{"correctAnswer":"3 cm","difficulty":3,"distractors":["12 cm","3 square cm","84 cm"],"dynamic":false,"explanation":"96 = 8 x 4 x height, so height = 96 / 32 = 3 cm. (84 comes from subtracting; height is a length, so cm.)","id":"AZG5_029","imageUrl":"topic:volume","memoryHook":"T-Rexy says: work backward like a dino detective - divide the volume by what you already know!","question":"A rectangular prism has a volume of 96 cubic cm. Its length is 8 cm and its width is 4 cm. What is its height?","source":"TReps Arizona Grade 5","tags":["Math","Volume"]},{"correctAnswer":"140 cubic cm, because volume fills 3D space with three dimensions","difficulty":2,"distractors":["140 square cm, because he multiplied three numbers","140 cm, because only the number matters","140 square cm, because the box is small"],"dynamic":false,"explanation":"Multiplying three lengths gives cubic units. Square units are for flat 2D area, so 140 must be cubic cm.","id":"AZG5_030","imageUrl":"topic:volume","memoryHook":"T-Rexy says: three sides multiplied = cubic - that's the dino law of chunkiness!","question":"Leo computed 7 x 5 x 4 = 140 and wrote the answer as 140 square cm. What should the correct units be, and why?","source":"TReps Arizona Grade 5","tags":["Math","Volume"]},{"correctAnswer":"(2, 6)","difficulty":1,"distractors":["(6, 2)","(2, 0)","(0, 6)"],"dynamic":false,"explanation":"Moving right sets the x-coordinate to 2 and moving up sets the y-coordinate to 6, so the point is (2, 6).","id":"AZG5_031","imageUrl":"topic:coordinates","memoryHook":"T-Rexy says: march right first to find x, then climb up to find y - never stomp the other way!","question":"A point is 2 units right and 6 units up from the origin. What are its coordinates?","source":"TReps Arizona Grade 5","tags":["Math","Coordinates"]},{"correctAnswer":"Move 4 units right, then 1 unit up","difficulty":1,"distractors":["Move 1 unit right, then 4 units up","Move 4 units up, then 1 unit right","Move 4 units left, then 1 unit down"],"dynamic":false,"explanation":"In (4, 1), the first number 4 is the x-coordinate (move right) and the second number 1 is the y-coordinate (move up).","id":"AZG5_032","imageUrl":"topic:coordinates","memoryHook":"T-Rexy says: the first number is the runway (run right), the second is the jump (hop up)!","question":"A point is plotted at (4, 1). How do you get there from the origin?","source":"TReps Arizona Grade 5","tags":["Math","Coordinates"]},{"correctAnswer":"6 units right and 4 units up","difficulty":2,"distractors":["4 units right and 6 units up","6 units right and 4 units down","6 units left and 4 units down"],"dynamic":false,"explanation":"In (6, 4), the x-coordinate 6 means 6 units right and the y-coordinate 4 means 4 units up from the origin.","id":"AZG5_033","imageUrl":"topic:coordinates","memoryHook":"T-Rexy says: a smart dino always counts the right steps before the up steps!","question":"T-Rexy hides a bone at the point (6, 4). How many units right and how many units up from the origin is the bone?","source":"TReps Arizona Grade 5","tags":["Math","Coordinates"]},{"correctAnswer":"They are two different points because the order of the numbers matters","difficulty":2,"distractors":["They are the same point","Point A is 7 units right and 2 units up","Point B lies on the y-axis"],"dynamic":false,"explanation":"Swapping the x and y values changes the location: (2, 7) is 2 right and 7 up, while (7, 2) is 7 right and 2 up.","id":"AZG5_034","imageUrl":"topic:coordinates","memoryHook":"T-Rexy says: (2, 7) and (7, 2) are as different as a headbutt and a tail-whack!","question":"Point A is at (2, 7) and Point B is at (7, 2). Which statement about the two points is true?","source":"TReps Arizona Grade 5","tags":["Math","Coordinates"]},{"correctAnswer":"(0, 7)","difficulty":2,"distractors":["(7, 0)","(7, 7)","(2, 7)"],"dynamic":false,"explanation":"Points on the y-axis have an x-coordinate of 0, so (0, 7) sits on the y-axis.","id":"AZG5_035","imageUrl":"topic:coordinates","memoryHook":"T-Rexy says: on the y-axis the x-coordinate is zero - you never marched right at all!","question":"Which of these points lies on the y-axis?","source":"TReps Arizona Grade 5","tags":["Math","Coordinates"]},{"correctAnswer":"(5, 5)","difficulty":3,"distractors":["(2, 5)","(5, 4)","(6, 5)"],"dynamic":false,"explanation":"Add 3 to the x-coordinate: 2 + 3 = 5. Add 4 to the y-coordinate: 1 + 4 = 5. The new point is (5, 5).","id":"AZG5_036","imageUrl":"topic:coordinates","memoryHook":"T-Rexy says: stomp the old x and y, then add your steps - no dino leaves a step behind!","question":"Start at the point (2, 1). Move 3 units right and 4 units up. What are the coordinates of the new point?","source":"TReps Arizona Grade 5","tags":["Math","Coordinates"]},{"correctAnswer":"$3.00","difficulty":2,"distractors":["$7.00","$4.00","$2.00"],"dynamic":false,"explanation":"4 x $1.75 = $7.00. Then $10.00 - $7.00 = $3.00 in change.","id":"AZG5_037","imageUrl":"topic:wordproblems","memoryHook":"T-Rexy says: multiply first like a dino counting eggs, then subtract to find the change!","question":"Maya buys 4 packs of stickers for $1.75 each. She pays with a $10 bill. How much change does she get back?","source":"TReps Arizona Grade 5","tags":["Math","Word Problems"]},{"correctAnswer":"1 1/4 cups","difficulty":3,"distractors":["1/2 cup","1 1/2 cups","1 cup"],"dynamic":false,"explanation":"2 batches need 2 x 3/4 = 6/4 = 1 1/2 cups. Subtract the 1/4 cup used: 1 1/2 - 1/4 = 1 1/4 cups.","id":"AZG5_038","imageUrl":"topic:wordproblems","memoryHook":"T-Rexy says: fractions are just dino crumbs - double them, then munch the crumbs that are gone!","question":"A recipe needs 3/4 cup of sugar per batch. Dan wants to make 2 batches, but he already used 1/4 cup. How much more sugar does he need?","source":"TReps Arizona Grade 5","tags":["Math","Word Problems"]},{"correctAnswer":"36","difficulty":1,"distractors":["48","2","60"],"dynamic":false,"explanation":"The full box holds 6 x 8 = 48 muffins. After selling 12: 48 - 12 = 36 muffins left.","id":"AZG5_039","imageUrl":"topic:wordproblems","memoryHook":"T-Rexy says: multiply the rows first, then let the hungry customers have their share!","question":"A bakery box holds 6 rows of 8 muffins. The baker sells 12 muffins from the box. How many muffins are left in the box?","source":"TReps Arizona Grade 5","tags":["Math","Word Problems"]},{"correctAnswer":"$2.50","difficulty":3,"distractors":["$7.50","$3.75","$5.00"],"dynamic":false,"explanation":"6 notebooks cost 6 x $1.25 = $7.50. Change: $10.00 - $7.50 = $2.50.","id":"AZG5_040","imageUrl":"topic:wordproblems","memoryHook":"T-Rexy says: multiply the price like a swarm of shoppers, then grab the change and roar!","question":"A store sells notebooks for $1.25 each. Lia buys 6 notebooks and pays with a $10 bill. How much change does she get back?","source":"TReps Arizona Grade 5","tags":["Math","Word Problems"]},{"correctAnswer":"Camels have body features that help them survive in the desert","difficulty":1,"distractors":["Camels store drinking water inside their humps","Camels are faster runners than horses","All camels live only in the Sahara Desert"],"dynamic":false,"explanation":"Each detail (weeks without water, fat-storing humps, wide feet) shows how camel bodies are built for desert survival.","id":"AZG5_041","imageUrl":"topic:reading","memoryHook":"T-Rexy says: the main idea is the big dino - details are just its tiny footprints!","question":"Read: Camels can go for weeks without drinking water. Their humps store fat that the body turns into energy. Their wide, flat feet keep them from sinking in soft sand. What is the main idea?","source":"TReps Arizona Grade 5","tags":["ELA","Main Idea"]},{"correctAnswer":"Its roots spread wide and shallow to grab water from light rains","difficulty":2,"distractors":["Saguaros bloom with white flowers only at night","The saguaro is the oldest cactus in the world","Saguaro ribs are used to build desert homes"],"dynamic":false,"explanation":"The wide, shallow roots are a passage detail showing how saguaros collect scarce water; the other choices are not in the passage.","id":"AZG5_042","imageUrl":"topic:reading","memoryHook":"T-Rexy says: a supporting detail is a fossil that proves the big dino bone is real!","question":"Read: A saguaro's ribs fold and unfold like an accordion so the plant can swell with rainwater. Its roots spread wide and shallow to grab water from light rains. A thick waxy skin locks the stored water inside. Which detail from the passage supports the main idea that saguaros are built to save desert water?","source":"TReps Arizona Grade 5","tags":["ELA","Main Idea"]},{"correctAnswer":"Ants work together as a team to help their colony survive","difficulty":3,"distractors":["Ants build rafts whenever it rains","Ants are stronger than every other insect","Soldier ants are the most important ants in the colony"],"dynamic":false,"explanation":"The raft, the hauling, and the guarding all show teamwork; no single detail alone is the main idea.","id":"AZG5_043","imageUrl":"topic:reading","memoryHook":"T-Rexy says: don't pick one tiny footprint when the whole herd is the main idea!","question":"Read: When a colony floods, worker ants link their bodies into a living raft. Some ants haul crumbs many times their own weight back to the nest. Soldier ants guard the tunnel entrances while others dig. What is the main idea?","source":"TReps Arizona Grade 5","tags":["ELA","Main Idea"]},{"correctAnswer":"Maya works hard to become a better soccer player","difficulty":1,"distractors":["Soccer is the most popular sport in the world","Maya only watches game videos","Juggling is the hardest soccer skill to learn"],"dynamic":false,"explanation":"Practicing, juggling, and studying videos all point to one idea: Maya is working hard to improve at soccer.","id":"AZG5_044","imageUrl":"topic:reading","memoryHook":"T-Rexy says: the main idea scores the goal - details are just the warm-up drills!","question":"Read: Maya practices her dribbling every afternoon after school. She juggles the ball to improve her footwork. She watches game videos to learn new moves. What is the main idea?","source":"TReps Arizona Grade 5","tags":["ELA","Main Idea"]},{"correctAnswer":"Dry desert washes fill with rushing water during these storms","difficulty":2,"distractors":["Monsoon storms also happen in other countries","Rainbows often appear after monsoon storms","Haboobs are a kind of desert bird"],"dynamic":false,"explanation":"Rushing water in desert washes is a passage detail proving the storms' power; the other choices are not stated in the passage.","id":"AZG5_045","imageUrl":"topic:reading","memoryHook":"T-Rexy says: a good detail roars like thunder to back up the main idea!","question":"Read: Arizona's monsoon storms can drop an inch of rain in one hour. Dry desert washes fill with rushing water during these storms. Strong winds kick up walls of dust called haboobs. Which detail from the passage supports the main idea that monsoon storms are powerful?","source":"TReps Arizona Grade 5","tags":["ELA","Main Idea"]},{"correctAnswer":"Honeybees use a special dance to share directions to food","difficulty":3,"distractors":["Honeybees are the only insects that can dance","The figure-eight is the bees' favorite shape","Bees fly straight toward the sun at noon"],"dynamic":false,"explanation":"The pattern, the speed, and the angle are all details about one idea: the dance gives directions to food.","id":"AZG5_046","imageUrl":"topic:reading","memoryHook":"T-Rexy says: the waggle dance has one big message - don't get lost in the tiny steps!","question":"Read: A forager bee dances in a figure-eight pattern to tell hive mates where flowers are. The speed of the waggle tells the other bees how far to fly. The angle of the dance points the way using the sun's position. What is the main idea?","source":"TReps Arizona Grade 5","tags":["ELA","Main Idea"]},{"correctAnswer":"Sea turtle hatchlings face many dangers on their journey to the ocean","difficulty":2,"distractors":["Sea turtles hatch only on moonlit nights","Crabs are the sea turtle's only enemy","Baby turtles spend their whole lives in seaweed"],"dynamic":false,"explanation":"Hunting crabs, hunting birds, and the long swim all support the idea that the hatchlings' journey is full of dangers.","id":"AZG5_047","imageUrl":"topic:reading","memoryHook":"T-Rexy says: spot the big danger-dino, not just one of its teeth!","question":"Read: Baby sea turtles hatch at night and scramble toward the moonlit ocean. Along the way, crabs and birds hunt them, so only a few survive. The survivors swim far out to sea, where they hide in floating seaweed. What is the main idea?","source":"TReps Arizona Grade 5","tags":["ELA","Main Idea"]},{"correctAnswer":"Jaden built a fun robot from everyday objects","difficulty":1,"distractors":["Shoeboxes make the best robot bodies","Robots can hear people clap","Jaden plans to become an engineer someday"],"dynamic":false,"explanation":"The shoebox body, bottle-cap wheels, and rubber-band arm all describe the same homemade robot.","id":"AZG5_048","imageUrl":"topic:reading","memoryHook":"T-Rexy says: the main idea is the whole robot - not just one bottle-cap wheel!","question":"Read: Jaden built a robot from a shoebox, bottle caps, and rubber bands. Its bottle-cap wheels roll across the kitchen floor. When Jaden claps, a rubber-band arm waves back at him. What is the main idea?","source":"TReps Arizona Grade 5","tags":["ELA","Main Idea"]},{"correctAnswer":"The Moon's gravity has shaped Earth in important ways","difficulty":3,"distractors":["The Moon is slowly leaving Earth behind","Tides are caused mainly by the Sun","Days on Earth used to be shorter than nights"],"dynamic":false,"explanation":"Tides, the slowing spin, and the drifting orbit are all effects of the Moon's gravity on Earth.","id":"AZG5_049","imageUrl":"topic:reading","memoryHook":"T-Rexy says: gravity is the giant dino pulling every little detail along with it!","question":"Read: The Moon's gravity pulls on Earth's oceans and causes the tides. Long ago, the same pull slowed Earth's spin, stretching our days to 24 hours. Even today, the Moon drifts a little farther away each year. What is the main idea?","source":"TReps Arizona Grade 5","tags":["ELA","Main Idea"]},{"correctAnswer":"They sprint up to 20 miles per hour to chase down lizards","difficulty":2,"distractors":["Roadrunners are famous cartoon characters","Roadrunners are completely unable to fly","Roadrunners sleep in nests high in trees"],"dynamic":false,"explanation":"Sprinting after lizards is a passage detail showing hunting skill; the other choices are not stated in the passage.","id":"AZG5_050","imageUrl":"topic:reading","memoryHook":"T-Rexy says: chase the detail that hunts with the main idea - meep meep!","question":"Read: Roadrunners hunt rattlesnakes by striking them with sharp beaks. They sprint up to 20 miles per hour to chase down lizards. At night they lower their body temperature to save energy. Which detail from the passage supports the main idea that roadrunners are skilled desert hunters?","source":"TReps Arizona Grade 5","tags":["ELA","Main Idea"]},{"correctAnswer":"Saguaro cacti are giant long-lived desert plants that store huge amounts of water","difficulty":1,"distractors":["A saguaro can soak up 200 gallons of water after a heavy rain with its wide roots","Desert plants are cool and cacti are the best plants in Arizona","Saguaros grow in the Sonoran Desert"],"dynamic":false,"explanation":"The best summary captures the main ideas - giant, long-lived desert plants that store water - without listing minor facts like the exact gallons.","id":"AZG5_051","imageUrl":"topic:reading","memoryHook":"T-Rexy says: a summary is a dino-snapshot - keep the big picture, leave the tiny pebbles out!","question":"Read: Saguaro cacti grow only in the Sonoran Desert. They can live for 200 years and grow taller than 40 feet. Their roots spread wide to catch rain. After a heavy rain, a saguaro can soak up 200 gallons of water. Which is the best summary?","source":"TReps Arizona Grade 5","tags":["ELA","Summarizing"]},{"correctAnswer":"The exact names of mining towns like Bisbee and Jerome","difficulty":2,"distractors":["Arizona became the 48th state in 1912","Mining and ranching were important before statehood","Statehood brought new roads and schools"],"dynamic":false,"explanation":"Town names are a minor detail. A summary keeps the main ideas: statehood year, the key industries, and what statehood brought.","id":"AZG5_052","imageUrl":"topic:reading","memoryHook":"T-Rexy says: when you summarize, stomp out the tiny details and keep the giant dino-sized facts!","question":"Read: In 1912, Arizona became the 48th state. Miners had found copper in towns like Bisbee and Jerome. Ranchers raised cattle on wide-open land. Statehood brought new roads and schools. Which detail does NOT belong in a summary of this passage?","source":"TReps Arizona Grade 5","tags":["ELA","Summarizing"]},{"correctAnswer":"Bees carry pollen between flowers, helping plants make seeds and fruit","difficulty":1,"distractors":["Honeybees visit flowers to drink sweet nectar and pollen clings to their legs and they fly to other flowers","Bees are insects","Everyone should protect bees because they are the most important animals in the world"],"dynamic":false,"explanation":"The correct answer keeps the key cause-and-effect idea without copying the passage word for word, and it adds no opinion of its own.","id":"AZG5_053","imageUrl":"topic:reading","memoryHook":"T-Rexy says: buzz like a bee from flower to flower, but only carry the sweetest pollen - the main ideas!","question":"Read: Honeybees visit flowers to drink sweet nectar. As they fly from flower to flower, sticky pollen clings to their legs. The bees drop the pollen on other flowers. This helps the flowers make seeds. Without bees, many plants could not grow fruit. Which is the best summary?","source":"TReps Arizona Grade 5","tags":["ELA","Summarizing"]},{"correctAnswer":"Mammoths once lived in Arizona, but a warming climate destroyed their food and they died out","difficulty":2,"distractors":["Mammoths were huge, hairy elephants with curved tusks that ate grasses and shrubs","A long time ago there were animals","It is sad that the mammoths died because humans should have saved them"],"dynamic":false,"explanation":"A strong summary names the subject, the setting, and the key cause-and-effect. It avoids listing every description and avoids adding feelings.","id":"AZG5_054","imageUrl":"topic:reading","memoryHook":"T-Rexy says: even a giant mammoth fits in a tiny summary when you leave the extra fur behind!","question":"Read: Long ago, mammoths roamed what is now Arizona. They were huge, hairy elephants with curved tusks. They ate grasses and shrubs. When the climate grew warmer and drier, their food disappeared. Scientists believe this helped cause mammoths to die out. Which is the best summary?","source":"TReps Arizona Grade 5","tags":["ELA","Summarizing"]},{"correctAnswer":"The roadrunner is a fast-running desert bird that hunts small animals and nests low in plants","difficulty":2,"distractors":["The roadrunner can sprint up to 20 miles per hour and eats lizards, snakes, and insects and nests in bushes","Birds are animals that live in the desert","Roadrunners are cooler than any other bird because they run like race cars"],"dynamic":false,"explanation":"The best answer keeps the main traits - runs, hunts, nests - while dropping the fun but minor detail about cartoons and the exact speed number.","id":"AZG5_055","imageUrl":"topic:reading","memoryHook":"T-Rexy says: race through the passage like a roadrunner and grab only the main-idea snacks!","question":"Read: The roadrunner is a desert bird that usually runs instead of flying. It can sprint up to 20 miles per hour. It eats lizards, snakes, and insects. Roadrunners build their nests low in bushes or cactus. They are famous in Arizona cartoons, but real roadrunners are quiet hunters. Which is the best summary?","source":"TReps Arizona Grade 5","tags":["ELA","Summarizing"]},{"correctAnswer":"The tomatoes grown were red","difficulty":1,"distractors":["Scientists grew tomatoes in salty water","The seeds help farmers grow food with less fresh water","This could help feed people in hot climates"],"dynamic":false,"explanation":"The tomato color is a minor detail. The summary needs the experiment, the sharing of seeds, and why it matters.","id":"AZG5_056","imageUrl":"topic:reading","memoryHook":"T-Rexy says: red tomatoes are tasty, but a summary only eats the meaty main ideas!","question":"Read: Scientists in a lab grew tomatoes in salty water to help farmers in dry places. The plants grew strong roots and produced red tomatoes. The team shared seeds with farmers near the desert. Those farmers grew food with less fresh water. This could help feed people in hot climates. Which detail does NOT belong in a summary of this passage?","source":"TReps Arizona Grade 5","tags":["ELA","Summarizing"]},{"correctAnswer":"Summer monsoon storms bring fast, dangerous flooding to Arizona, so drivers must avoid flooded roads","difficulty":3,"distractors":["Hot air rises over the desert and pulls in wet air from the south, then dark clouds build and lightning cracks","Arizona has weather","Monsoons are scary and nobody should ever drive in Arizona in the summer"],"dynamic":false,"explanation":"The correct summary keeps the cause (summer storms), the key danger (fast flooding), and the important safety rule. It drops the step-by-step weather science and adds no new opinion.","id":"AZG5_057","imageUrl":"topic:reading","memoryHook":"T-Rexy says: a storm summary is like a rain cloud - pack in the heavy drops, let the mist drift away!","question":"Read: Monsoon storms strike Arizona each summer. Hot air rises over the desert and pulls in wet air from the south. Dark clouds build fast, and lightning cracks across the sky. Heavy rain can flood dry washes in minutes. Drivers must never cross a flooded road. Which is the best summary?","source":"TReps Arizona Grade 5","tags":["ELA","Summarizing"]},{"correctAnswer":"After missing every shot at first, Lena practiced daily and scored two goals in the last game","difficulty":2,"distractors":["Lena joined the school soccer team and missed every shot at her first practice and practiced in her backyard and her coach taught her to aim with the inside of her foot and she scored two goals","A girl played soccer","Soccer is the greatest sport ever and Lena is a hero"],"dynamic":false,"explanation":"The best summary covers the problem, the effort, and the result in a short retelling. It does not copy every sentence or add praise that was not in the passage.","id":"AZG5_058","imageUrl":"topic:reading","memoryHook":"T-Rexy says: kick the extra words out of bounds and keep the goal-scoring main ideas!","question":"Read: Lena joined the school soccer team and missed every shot at her first practice. She practiced dribbling in her backyard each evening. Her coach taught her to aim with the inside of her foot. By the last game, Lena scored two goals. She learned that steady practice beats giving up. Which is the best summary?","source":"TReps Arizona Grade 5","tags":["ELA","Summarizing"]},{"correctAnswer":"Long ago, the Hohokam dug hundreds of miles of canals by hand to water crops, and some of those paths are still used today","difficulty":3,"distractors":["The Hohokam built canals and dug channels by hand and carried water to fields of corn and beans","People lived in Arizona","The Hohokam were the smartest people in history because their canals still work"],"dynamic":false,"explanation":"This summary keeps who, what, when, and why it matters now. It avoids repeating the passage nearly word for word and avoids adding a judgment.","id":"AZG5_059","imageUrl":"topic:reading","memoryHook":"T-Rexy says: dig a canal through the passage and let only the main-idea water flow through!","question":"Read: The Hohokam people built canals in the Phoenix valley over a thousand years ago. They dug hundreds of miles of channels by hand. The canals carried river water to fields of corn and beans. Some modern Arizona canals follow the same paths. Their work still helps the valley grow food today. Which is the best summary?","source":"TReps Arizona Grade 5","tags":["ELA","Summarizing"]},{"correctAnswer":"Ancient lava flows in northern Arizona broke down into soil where pine trees now grow, showing how land changes over time","difficulty":3,"distractors":["Volcanoes erupted thousands of years ago and lava flows spread and cooled into dark rock and wind and rain broke it into soil","Arizona has rocks and trees","Volcanoes are awesome and everyone should visit northern Arizona"],"dynamic":false,"explanation":"The correct choice condenses the whole chain of events - eruptions, cooling, weathering, new forest - into the key takeaway about land changing over time.","id":"AZG5_060","imageUrl":"topic:reading","memoryHook":"T-Rexy says: even an erupting volcano can fit in a tiny summary - just cool it down to the main ideas!","question":"Read: Volcanoes in northern Arizona erupted thousands of years ago. Lava flows spread across the land and cooled into dark rock. Wind and rain slowly broke the rock into soil. Pine trees now grow where lava once flowed. The area shows how land can change over time. Which is the best summary?","source":"TReps Arizona Grade 5","tags":["ELA","Summarizing"]},{"correctAnswer":"For the field trip we packed sandwiches, apples, and juice.","difficulty":1,"distractors":["For the field trip we packed sandwiches apples and juice.","For the field trip we packed, sandwiches, apples, and juice.","For the field trip we packed sandwiches apples, and juice,"],"dynamic":false,"explanation":"Commas separate each item in a series: sandwiches, apples, and juice.","id":"AZG5_061","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: commas are like little dino pauses - give each list item room to breathe!","question":"Which sentence uses commas correctly in a series?","source":"TReps Arizona Grade 5","tags":["ELA","Grammar"]},{"correctAnswer":"Yesterday the class finished the science project and cleaned the lab.","difficulty":2,"distractors":["Yesterday the class finishes the science project and cleaned the lab.","Yesterday the class finished the science project and will clean the lab.","Yesterday the class finish the science project and cleaned the lab."],"dynamic":false,"explanation":"Both verbs should be in the past tense because the action happened yesterday: finished and cleaned.","id":"AZG5_062","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: keep your verb tenses in the same dino herd - don't let one wander off to the past while the other runs to the future!","question":"Choose the sentence with the correct verb tense.","source":"TReps Arizona Grade 5","tags":["ELA","Grammar"]},{"correctAnswer":"The flock of geese flies over the lake every morning.","difficulty":3,"distractors":["The flock of geese fly over the lake every morning.","The flock of geese are flying over the lake every morning.","The flocks of geese flies over the lake every morning."],"dynamic":false,"explanation":"The subject is the singular noun 'flock', so the verb must be the singular 'flies'. The phrase 'of geese' does not change the subject.","id":"AZG5_063","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: one dino means one verb ending - match the verb to the real subject, not the words beside it!","question":"Which sentence shows correct subject-verb agreement?","source":"TReps Arizona Grade 5","tags":["ELA","Grammar"]},{"correctAnswer":"The museum opened on May 14, 2019, with a fossil exhibit.","difficulty":2,"distractors":["The museum opened on May 14 2019, with a fossil exhibit.","The museum opened on May, 14, 2019 with a fossil exhibit.","The museum opened on May 14, 2019 with a fossil exhibit."],"dynamic":false,"explanation":"A comma goes between the day and the year, and another comma follows the year when the sentence continues.","id":"AZG5_064","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: dates need a comma hug around the year, just like a T-Rex hugs a fossil!","question":"Which sentence uses commas correctly in a date?","source":"TReps Arizona Grade 5","tags":["ELA","Grammar"]},{"correctAnswer":"The campers carried their backpacks over there to the trailhead.","difficulty":1,"distractors":["The campers carried there backpacks over their to the trailhead.","The campers carried they're backpacks over there to the trailhead.","The campers carried their backpacks over their to the trailhead."],"dynamic":false,"explanation":"'Their' shows ownership (their backpacks) and 'there' points to a place (over there to the trailhead).","id":"AZG5_065","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: their owns it, there points to it - don't let your words stomp into the wrong footprint!","question":"Choose the sentence that uses the correct word.","source":"TReps Arizona Grade 5","tags":["ELA","Grammar"]},{"correctAnswer":"We hiked to the waterfall, and we ate lunch on the rocks.","difficulty":2,"distractors":["We hiked to the waterfall we ate lunch on the rocks.","We hiked to the waterfall and we ate, lunch on the rocks.","We hiked, to the waterfall, and we ate lunch on the rocks."],"dynamic":false,"explanation":"Two complete ideas joined by a coordinating conjunction need a comma before the conjunction: 'waterfall, and we ate'.","id":"AZG5_066","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: a run-on sentence is a stampede - add a comma and a conjunction to give each idea its own lane!","question":"Which sentence fixes the run-on sentence correctly?","source":"TReps Arizona Grade 5","tags":["ELA","Grammar"]},{"correctAnswer":"When the storm rolled in during the soccer game.","difficulty":3,"distractors":["When the storm rolled in, we left the soccer field quickly.","The storm rolled in during the soccer game and we ran to shelter.","During the soccer game, the storm rolled in."],"dynamic":false,"explanation":"This is a fragment because it starts with 'When' but never finishes the main idea - the reader is left wondering what happened.","id":"AZG5_067","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: a fragment is like a dino with no tail - the sentence is missing its ending!","question":"Which sentence is a fragment that needs fixing?","source":"TReps Arizona Grade 5","tags":["ELA","Grammar"]},{"correctAnswer":"The puppies' toys were scattered across the living room.","difficulty":2,"distractors":["The puppies toys were scattered across the living room.","The puppy's toys were scattered across the living room.","The puppys' toys were scattered across the living room."],"dynamic":false,"explanation":"More than one puppy owns the toys, so the apostrophe goes after the plural s: puppies'.","id":"AZG5_068","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: the apostrophe goes AFTER the s when a whole pack of dinos shares the toy!","question":"Which sentence uses the possessive noun correctly?","source":"TReps Arizona Grade 5","tags":["ELA","Grammar"]},{"correctAnswer":"The two friends walked to the park, and they brought their dog too.","difficulty":1,"distractors":["The too friends walked to the park, and they brought their dog to.","The two friends walked too the park, and they brought their dog two.","The to friends walked two the park, and they brought their dog too."],"dynamic":false,"explanation":"'Two' is the number 2, 'to' shows direction (to the park), and 'too' means 'also'.","id":"AZG5_069","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: two is a number you can count on your claws, to points the way, and too means also - roar it right!","question":"Choose the sentence that uses 'to', 'too', and 'two' correctly.","source":"TReps Arizona Grade 5","tags":["ELA","Grammar"]},{"correctAnswer":"Lila will bake the cupcakes tomorrow, and she will frost them before the party.","difficulty":3,"distractors":["Lila will bake the cupcakes tomorrow, and she frosted them before the party.","Lila will bake the cupcakes tomorrow, and she frosts them before the party.","Lila baked the cupcakes tomorrow, and she will frost them before the party."],"dynamic":false,"explanation":"Since the actions happen tomorrow, both verbs must be in the future tense: will bake and will frost.","id":"AZG5_070","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: future plans need future verbs - don't let your tenses time-travel back to yesterday!","question":"Which sentence keeps verb tense consistent throughout?","source":"TReps Arizona Grade 5","tags":["ELA","Grammar"]},{"correctAnswer":"Evaporation, condensation, precipitation, collection","difficulty":1,"distractors":["Condensation, evaporation, collection, precipitation","Precipitation, collection, evaporation, condensation","Collection, precipitation, condensation, evaporation"],"dynamic":false,"explanation":"Water evaporates into the air, condenses into clouds, falls as precipitation, and collects in oceans, lakes, and rivers.","id":"AZG5_071","imageUrl":"topic:science-earth","memoryHook":"T-Rexy says: water goes UP, clumps UP, falls DOWN, then pools around, just like my dino parade marching in a circle!","question":"What is the correct order of the main stages of the water cycle?","source":"TReps Arizona Grade 5","tags":["Science","Earth Science"]},{"correctAnswer":"Evaporation","difficulty":1,"distractors":["Condensation","Precipitation","Collection"],"dynamic":false,"explanation":"Evaporation happens when heat, usually from the sun, turns liquid water into an invisible gas called water vapor.","id":"AZG5_072","imageUrl":"topic:science-earth","memoryHook":"T-Rexy says: evaporation is water doing a disappearing act, poof, from puddle to sky!","question":"Which process turns liquid water into water vapor?","source":"TReps Arizona Grade 5","tags":["Science","Earth Science"]},{"correctAnswer":"Tiny water droplets that formed when water vapor cooled and condensed","difficulty":2,"distractors":["Smoke that drifted up from the sun","Snowflakes that never learned how to fall","Water vapor that skipped the evaporation step"],"dynamic":false,"explanation":"When warm water vapor rises and cools high in the sky, it condenses into billions of tiny liquid droplets that we see as clouds.","id":"AZG5_073","imageUrl":"topic:science-earth","memoryHook":"T-Rexy says: clouds are just sky-puddles, water vapor that got chilly and huddled together!","question":"What are clouds mostly made of?","source":"TReps Arizona Grade 5","tags":["Science","Earth Science"]},{"correctAnswer":"Weather describes short-term conditions, while climate is the average pattern over many years","difficulty":2,"distractors":["Weather is always hot and climate is always cold","Climate changes every day and weather never changes","Weather and climate are two words for the exact same thing"],"dynamic":false,"explanation":"Weather tells you if you need a jacket today. Climate tells you whether jackets are common in your town all winter long.","id":"AZG5_074","imageUrl":"topic:science-earth","memoryHook":"T-Rexy says: weather is my mood today, climate is my personality, and I am ALWAYS hungry!","question":"What is the difference between weather and climate?","source":"TReps Arizona Grade 5","tags":["Science","Earth Science"]},{"correctAnswer":"The hydrosphere","difficulty":2,"distractors":["The atmosphere","The geosphere","The biosphere"],"dynamic":false,"explanation":"Hydro means water, so the hydrosphere is the sphere of all Earth's water, whether liquid, frozen, or underground.","id":"AZG5_075","imageUrl":"topic:science-earth","memoryHook":"T-Rexy says: hydro sounds like a dino taking a bath, splash! The hydrosphere is ALL the water!","question":"Which of Earth's spheres includes all the water on Earth, such as oceans, rivers, and glaciers?","source":"TReps Arizona Grade 5","tags":["Science","Earth Science"]},{"correctAnswer":"The biosphere and the geosphere","difficulty":3,"distractors":["The hydrosphere and the atmosphere","The atmosphere and the biosphere","The geosphere and the hydrosphere"],"dynamic":false,"explanation":"The tree is a living thing in the biosphere, and the rock is part of the solid Earth in the geosphere. Their interaction weathers the rock.","id":"AZG5_076","imageUrl":"topic:science-earth","memoryHook":"T-Rexy says: my tree-root friends give rocks a great big dino hug until they crack, bio meets geo!","question":"Tree roots grow into cracks in a rock and split the rock apart over time. Which two of Earth's spheres are interacting?","source":"TReps Arizona Grade 5","tags":["Science","Earth Science"]},{"correctAnswer":"Weathering breaks rock into smaller pieces, while erosion moves those pieces to a new place","difficulty":2,"distractors":["Erosion breaks rock apart and weathering moves the pieces","Weathering and erosion are the same process with different names","Weathering only happens in deserts and erosion only happens in rivers"],"dynamic":false,"explanation":"Weathering is the breaking, caused by wind, water, ice, or roots. Erosion is the moving, when wind, water, or ice carry the broken bits away.","id":"AZG5_077","imageUrl":"topic:science-earth","memoryHook":"T-Rexy says: weathering is me stomping a rock to crumbs, erosion is me kicking the crumbs across the playground!","question":"What is the difference between weathering and erosion?","source":"TReps Arizona Grade 5","tags":["Science","Earth Science"]},{"correctAnswer":"A river carrying small pebbles downstream","difficulty":1,"distractors":["Ice freezing in a crack and splitting a boulder","A metal fence slowly turning rusty","A seed sprouting into a young plant"],"dynamic":false,"explanation":"Erosion moves material from one place to another. The river picks up pebbles and carries them downstream.","id":"AZG5_078","imageUrl":"topic:science-earth","memoryHook":"T-Rexy says: erosion is nature's moving day, the river packs up the pebbles and hauls them downstream!","question":"Which of these is an example of erosion?","source":"TReps Arizona Grade 5","tags":["Science","Earth Science"]},{"correctAnswer":"Its heat causes evaporation, lifting water into the air to start the cycle","difficulty":3,"distractors":["It melts clouds, and the melted cloud drips become rain","It pulls water upward using the force of gravity","It cools the ocean so water can rise more easily"],"dynamic":false,"explanation":"The sun heats oceans, lakes, and rivers, turning liquid water into water vapor. Without the sun's heat, the water cycle would stall.","id":"AZG5_079","imageUrl":"topic:science-earth","memoryHook":"T-Rexy says: the sun is the water cycle's engine, revving up heat so water can zoom skyward!","question":"What role does the sun play in the water cycle?","source":"TReps Arizona Grade 5","tags":["Science","Earth Science"]},{"correctAnswer":"Sunlight strikes the equator more directly, so it heats the ground more strongly","difficulty":3,"distractors":["The equator is much closer to the sun than the poles","The North Pole has thicker clouds that block all sunlight","Strong winds blow all the warm air to the equator"],"dynamic":false,"explanation":"Earth is curved, so the sun's rays hit the equator head-on and spread out weakly near the poles. Direct rays carry more heating power.","id":"AZG5_080","imageUrl":"topic:science-earth","memoryHook":"T-Rexy says: the equator gets the sun's full dino-roar beam, while the poles only get a chilly whisper!","question":"Why is the weather near the equator usually warmer than near the North Pole?","source":"TReps Arizona Grade 5","tags":["Science","Earth Science"]},{"correctAnswer":"It makes its own food using sunlight, like a plant","difficulty":1,"distractors":["It eats other animals for energy","It hunts plants for food","It breaks down rocks into soil"],"dynamic":false,"explanation":"Producers are organisms like plants and algae that make their own food using sunlight, water, and air. Consumers eat other living things, and decomposers break down dead matter.","id":"AZG5_081","imageUrl":"topic:science-life","memoryHook":"T-Rexy says: producers are the chefs of nature - they cook up food from pure sunshine!","question":"In a food chain, what is the role of a producer?","source":"TReps Arizona Grade 5","tags":["Science","Life Science"]},{"correctAnswer":"A mushroom growing on a fallen tree log","difficulty":2,"distractors":["A lizard catching a beetle to eat","A flower growing from a seed","A fox drinking from a stream"],"dynamic":false,"explanation":"A decomposer, like a mushroom or bacteria, breaks down dead plants and animals and returns their nutrients to the soil so new plants can grow. That keeps the matter cycle turning.","id":"AZG5_082","imageUrl":"topic:science-life","memoryHook":"T-Rexy says: decomposers are nature's cleanup crew - they turn leftovers back into treasure for plants!","question":"Which of these shows a decomposer doing its job?","source":"TReps Arizona Grade 5","tags":["Science","Life Science"]},{"correctAnswer":"Water, air, and food or nutrients","difficulty":1,"distractors":["Only food and water","Only sunlight and soil","Only air and shelter"],"dynamic":false,"explanation":"All living things need food or nutrients for energy, water, and air (or gases from air) to survive. A plant uses sunlight, water, and carbon dioxide from air; an animal needs food, water, and oxygen.","id":"AZG5_083","imageUrl":"topic:science-life","memoryHook":"T-Rexy says: plants and animals are like dinosaurs - everybody needs a meal, a drink, and fresh air!","question":"Which three things do both plants and animals need to survive?","source":"TReps Arizona Grade 5","tags":["Science","Life Science"]},{"correctAnswer":"A food chain shows one path of energy, while a food web shows many connected paths","difficulty":3,"distractors":["A food chain shows many branching feeding paths, and a food web shows just one","A food chain and a food web are exactly the same diagram","A food chain shows only decomposers, and a food web shows only predators"],"dynamic":false,"explanation":"A food chain is one straight path of energy from producer to consumers. A food web connects many food chains, showing all the feeding relationships in an ecosystem at once.","id":"AZG5_084","imageUrl":"topic:science-life","memoryHook":"T-Rexy says: a food chain is a single line of hungry dinosaurs, but a food web is the whole dino party!","question":"What is the difference between a food chain and a food web?","source":"TReps Arizona Grade 5","tags":["Science","Life Science"]},{"correctAnswer":"A primary consumer, because it eats the grass producer","difficulty":2,"distractors":["A producer, because it eats grass to make food","A decomposer, because it breaks down dead grass","A secondary consumer, because it is eaten by the snake"],"dynamic":false,"explanation":"A primary consumer eats a producer. The rabbit eats the grass (the producer), so it is a primary consumer. The snake and hawk are higher-level consumers, not decomposers or producers.","id":"AZG5_085","imageUrl":"topic:science-life","memoryHook":"T-Rexy says: follow the munch trail - the producer gets eaten first, then everybody else piles on!","question":"In the food chain grass -> rabbit -> snake -> hawk, what is the rabbit?","source":"TReps Arizona Grade 5","tags":["Science","Life Science"]},{"correctAnswer":"The large ears release body heat and help the fox stay cool","difficulty":2,"distractors":["To help it blend in with the snow","To make it run faster in the heat","To attract mates with bright color"],"dynamic":false,"explanation":"The fennec fox's huge ears have many tiny blood vessels that release body heat, which keeps the fox cool in the hot desert. This is a structural adaptation to its habitat.","id":"AZG5_086","imageUrl":"topic:science-life","memoryHook":"T-Rexy says: those giant ears are like built-in air conditioners - cool ears for a hot desert!","question":"Why is a fennec fox's very large ears an adaptation for living in the desert?","source":"TReps Arizona Grade 5","tags":["Science","Life Science"]},{"correctAnswer":"The rabbit population would shrink because more snakes would hunt them","difficulty":3,"distractors":["The rabbit population would grow because fewer predators would hunt them","The snakes would disappear because they lost their food","The grass would disappear because no one would eat it"],"dynamic":false,"explanation":"In the food web, hawks eat both snakes and rabbits. If hawks were removed, snakes would lose their main predator and increase. More snakes would then hunt more rabbits, so the rabbit population would likely drop.","id":"AZG5_087","imageUrl":"topic:science-life","memoryHook":"T-Rexy says: pull one dino out of the web and the whole tangle wiggles - nature is all connected!","question":"In a desert food web, hawks eat snakes and rabbits, snakes eat rabbits, and rabbits eat grass. If all hawks were removed, what would most likely happen to the rabbits?","source":"TReps Arizona Grade 5","tags":["Science","Life Science"]},{"correctAnswer":"A desert with cacti, lizards, rocks, soil, sunlight, and rain","difficulty":1,"distractors":["A single rabbit","A single saguaro cactus","One rattlesnake"],"dynamic":false,"explanation":"An ecosystem includes all the living things in an area plus the nonliving things they interact with, like water, sunlight, air, and soil. A single animal or plant by itself is not a whole ecosystem.","id":"AZG5_088","imageUrl":"topic:science-life","memoryHook":"T-Rexy says: an ecosystem is the whole neighborhood - houses, neighbors, and the weather too!","question":"Which of these is an example of an ecosystem?","source":"TReps Arizona Grade 5","tags":["Science","Life Science"]},{"correctAnswer":"Decomposers break down the leaves, returning nutrients to the soil for new plants","difficulty":2,"distractors":["Plants give the dead leaves back to the sun","Dead leaves turn into sunlight for new plants","Decomposers carry the leaves away to another ecosystem"],"dynamic":false,"explanation":"When leaves fall and die, decomposers like fungi and bacteria break them down. The nutrients in the leaves go back into the soil, and plant roots take them up to grow new leaves. This is matter cycling through the ecosystem.","id":"AZG5_089","imageUrl":"topic:science-life","memoryHook":"T-Rexy says: fallen leaves don't vanish - nature recycles them like a dino-sized compost bin!","question":"How does matter cycle when a tree's leaves fall to the ground and decay?","source":"TReps Arizona Grade 5","tags":["Science","Life Science"]},{"correctAnswer":"Its thick tail, which stores fat for energy and water","difficulty":3,"distractors":["Its long legs, which help it run in the desert","Its sandy fur color, which helps it hide","Its large ears, which help it hear prey"],"dynamic":false,"explanation":"A habitat is the place where an animal or plant lives, with the food, water, and shelter it needs. A sandy color helps the jerboa hide, long legs help it move, and large ears help it hear. But only stored fat in the tail directly provides energy and water between meals, meeting a survival need.","id":"AZG5_090","imageUrl":"topic:science-life","memoryHook":"T-Rexy says: a fat tail is a jerboa's lunchbox and water bottle rolled into one!","question":"A jerboa is a small desert rodent. Which adaptation helps it meet its survival needs during long stretches with little food or water?","source":"TReps Arizona Grade 5","tags":["Science","Life Science"]},{"correctAnswer":"They gain energy, move faster, and spread out as a gas","difficulty":1,"distractors":["They disappear into nothing","They sink down into the ground as liquid","They turn into a new kind of matter"],"dynamic":false,"explanation":"Heat from the sun gives water particles more energy, so they move faster and escape into the air as water vapor. The matter does not disappear; it changes state.","id":"AZG5_091","imageUrl":"topic:science-physical","memoryHook":"T-Rexy says: evaporation is particles bouncing away like dinos escaping a splashy puddle party!","question":"What happens to the particles of a puddle as it evaporates into the air on a hot day?","source":"TReps Arizona Grade 5","tags":["Science","Physical Science"]},{"correctAnswer":"It absorbs heat from her hand and changes from solid to liquid","difficulty":1,"distractors":["It releases cold into the air and changes to a gas","It absorbs heat and changes directly into a gas","The matter in the ice cube is destroyed as it melts"],"dynamic":false,"explanation":"Melting happens when a solid absorbs enough heat energy for its particles to break out of their fixed pattern and flow as a liquid. The water is still there, just in a different state.","id":"AZG5_092","imageUrl":"topic:science-physical","memoryHook":"T-Rexy says: melting ice is like dinos wiggling loose from a frozen conga line!","question":"Maya holds a melting ice cube in her hand. Which statement best describes what is happening to the ice?","source":"TReps Arizona Grade 5","tags":["Science","Physical Science"]},{"correctAnswer":"Weight depends on gravity, while mass is the amount of matter and does not change","difficulty":2,"distractors":["Weight and mass are the same thing, so both change","Mass depends on gravity, while weight stays the same everywhere","Both weight and mass disappear when gravity is weaker"],"dynamic":false,"explanation":"Mass is how much matter an object contains, which is the same everywhere. Weight is the pull of gravity on that matter, so weaker Moon gravity means less weight but the same mass.","id":"AZG5_093","imageUrl":"topic:science-physical","memoryHook":"T-Rexy says: mass is how much dino you are - weight is how hard a planet hugs you!","question":"An astronaut weighs less on the Moon than on Earth, but her mass stays the same. What does this show about weight and mass?","source":"TReps Arizona Grade 5","tags":["Science","Physical Science"]},{"correctAnswer":"Gravity pulls all objects equally, and with no air there is no air resistance to slow the feather","difficulty":2,"distractors":["Gravity pulls harder on the feather without air in the way","The feather becomes heavier inside the empty tube","Gravity only acts on heavy objects, but the tube makes the feather heavy"],"dynamic":false,"explanation":"Gravity accelerates every object at the same rate. In everyday air, the feather's shape lets air resistance slow it down; remove the air and both fall together.","id":"AZG5_094","imageUrl":"topic:science-physical","memoryHook":"T-Rexy says: in a no-air tube, a feather and a dino egg race to the ground neck and neck!","question":"Why do a feather and a rock fall at the same speed when dropped inside a tube with all the air removed?","source":"TReps Arizona Grade 5","tags":["Science","Physical Science"]},{"correctAnswer":"An inclined plane","difficulty":1,"distractors":["A lever","A pulley","A screw"],"dynamic":false,"explanation":"An inclined plane is a sloped surface that spreads the lifting effort over a longer distance, so rolling the rock up a ramp takes less force than lifting it straight up.","id":"AZG5_095","imageUrl":"topic:science-physical","memoryHook":"T-Rexy says: a ramp is a hill that helps dinos roll boulders without the heavy lifting!","question":"You need to lift a heavy rock onto a truck bed. Which simple machine lets you roll the rock up instead of lifting it straight up?","source":"TReps Arizona Grade 5","tags":["Science","Physical Science"]},{"correctAnswer":"The lighter kid sits farther from the pivot point, so a smaller force over a longer distance balances the heavier side","difficulty":3,"distractors":["The lever removes the weight of the heavier kid","The lever changes the heavier kid into a lighter kid","The lever works because gravity stops pulling on the lighter side"],"dynamic":false,"explanation":"A lever has a pivot point called a fulcrum. Pushing farther from the fulcrum multiplies the force, so a small effort far from the pivot can lift a larger load close to the pivot.","id":"AZG5_096","imageUrl":"topic:science-physical","memoryHook":"T-Rexy says: levers are dino teamwork - tiny push far from the middle lifts a giant dino!","question":"A seesaw is an example of a lever. How does the lever make it easier to lift the heavier kid on the other end?","source":"TReps Arizona Grade 5","tags":["Science","Physical Science"]},{"correctAnswer":"It changes the direction of the force, letting the person pull down instead of lifting up","difficulty":2,"distractors":["It makes the flag weigh less than it really does","It creates extra energy so the flag rises by itself","It turns the pulling motion into heat energy"],"dynamic":false,"explanation":"The wheel at the top is a pulley. A single fixed pulley does not multiply force; it redirects it, so pulling down on the rope lifts the flag up.","id":"AZG5_097","imageUrl":"topic:science-physical","memoryHook":"T-Rexy says: a pulley is a wheel that flips your pull - down goes your arms, up goes the flag!","question":"A flag is raised to the top of a pole by pulling down on a rope. What does the simple machine at the top of the pole do?","source":"TReps Arizona Grade 5","tags":["Science","Physical Science"]},{"correctAnswer":"A campfire - heat and light; a drum - sound; a rolling ball - motion","difficulty":2,"distractors":["A campfire - sound; a drum - heat; a rolling ball - light","A campfire - motion; a drum - light; a rolling ball - heat","A campfire - light only; a drum - motion; a rolling ball - sound"],"dynamic":false,"explanation":"A campfire releases heat and light energy, a drum's vibrating skin produces sound energy, and a moving ball carries kinetic (motion) energy.","id":"AZG5_098","imageUrl":"topic:science-physical","memoryHook":"T-Rexy says: fire warms, drums boom, and rolling boulders go - dinos love every kind of energy!","question":"Which pair correctly matches each example to the main form of energy it gives off?","source":"TReps Arizona Grade 5","tags":["Science","Physical Science"]},{"correctAnswer":"The plastic spoon held onto static electric charge, while the metal spoon let the charge flow away","difficulty":3,"distractors":["The plastic spoon became a magnet and the metal spoon did not","The metal spoon absorbed the paper's gravity","The plastic spoon gained extra mass from the rubbing"],"dynamic":false,"explanation":"Rubbing builds up static electricity. Plastic is an insulator, so the charge stays on it and attracts the paper. Metal is a conductor, so the charge quickly flows off through the student's hand.","id":"AZG5_099","imageUrl":"topic:science-physical","memoryHook":"T-Rexy says: plastic holds its zap like a dino hoarding snacks - metal shares it and the zap slips away!","question":"A student rubs a metal spoon and a plastic spoon with the same cloth, then holds each near tiny paper bits. Only the plastic spoon picks up the paper. What explains this?","source":"TReps Arizona Grade 5","tags":["Science","Physical Science"]},{"correctAnswer":"The mass stays exactly the same, because matter is conserved in a sealed container","difficulty":3,"distractors":["The mass decreases because steam weighs nothing","The mass increases because warm air enters through the glass","The mass changes because melting and boiling create new matter"],"dynamic":false,"explanation":"In a sealed jar nothing enters or leaves, so the total mass is conserved no matter how the water changes state. Phase changes rearrange particles; they never create or destroy matter.","id":"AZG5_100","imageUrl":"topic:science-physical","memoryHook":"T-Rexy says: sealed jar, same stuff - dinos count their snacks before AND after the melt!","question":"A sealed glass jar contains ice, water, and steam all at once. If the jar is left in a warm room until everything inside becomes the same temperature, what can you conclude about the total mass inside the jar?","source":"TReps Arizona Grade 5","tags":["Science","Physical Science"]}]}
+{
+  "packId": "arizona-grade-5",
+  "version": "1.0",
+  "title": "Arizona AASA (5th Grade)",
+  "description": "Arizona Academic Standards Assessment prep for 5th grade - Math, ELA, and Science",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-02",
+  "tags": [
+    "arizona",
+    "grade5",
+    "aasa",
+    "math",
+    "ela",
+    "science"
+  ],
+  "questions": [
+    {
+      "correctAnswer": "5/8",
+      "difficulty": 1,
+      "distractors": [
+        "3/5",
+        "They are equal",
+        "1/2"
+      ],
+      "dynamic": false,
+      "explanation": "Compare by common denominator: 3/5 = 24/40 and 5/8 = 25/40. Since 25/40 is bigger than 24/40, 5/8 is greater.",
+      "id": "AZG5_001",
+      "imageUrl": "topic:fractions",
+      "memoryHook": "T-Rexy says: line up the fractions on a number line - even a tiny dino step to the right wins!",
+      "question": "Which fraction is greater: 3/5 or 5/8?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Fractions"
+      ]
+    },
+    {
+      "correctAnswer": "1/2",
+      "difficulty": 1,
+      "distractors": [
+        "2/9",
+        "1/4",
+        "2/6"
+      ],
+      "dynamic": false,
+      "explanation": "Find a common denominator: 1/3 = 2/6, so 2/6 + 1/6 = 3/6 = 1/2.",
+      "id": "AZG5_002",
+      "imageUrl": "topic:fractions",
+      "memoryHook": "T-Rexy says: equal-sized bites make adding easy - chop 1/3 into two sixth-size dino bites!",
+      "question": "What is 1/3 + 1/6?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Fractions"
+      ]
+    },
+    {
+      "correctAnswer": "2 1/3",
+      "difficulty": 1,
+      "distractors": [
+        "2 2/3",
+        "3 1/3",
+        "1 4/3"
+      ],
+      "dynamic": false,
+      "explanation": "7/3 means 7 thirds. Three thirds make one whole, so 6 thirds = 2 wholes with 1 third left over: 2 1/3.",
+      "id": "AZG5_003",
+      "imageUrl": "topic:fractions",
+      "memoryHook": "T-Rexy says: every 3 dino thirds squash together into one whole - see how many wholes you can pack!",
+      "question": "Write 7/3 as a mixed number.",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Fractions"
+      ]
+    },
+    {
+      "correctAnswer": "7/12",
+      "difficulty": 2,
+      "distractors": [
+        "4/2",
+        "4/12",
+        "1/3"
+      ],
+      "dynamic": false,
+      "explanation": "Use a common denominator of 12: 5/6 = 10/12 and 1/4 = 3/12. Then 10/12 - 3/12 = 7/12.",
+      "id": "AZG5_004",
+      "imageUrl": "topic:fractions",
+      "memoryHook": "T-Rexy says: you cannot subtract until the slices match - slice both into twelfths first!",
+      "question": "What is 5/6 - 1/4?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Fractions"
+      ]
+    },
+    {
+      "correctAnswer": "1 3/4 cups",
+      "difficulty": 2,
+      "distractors": [
+        "1 1/4 cups",
+        "2 3/4 cups",
+        "1 cup"
+      ],
+      "dynamic": false,
+      "explanation": "2 1/2 - 3/4: convert 2 1/2 to 2 2/4, borrow 1 whole to get 1 6/4. Then 1 6/4 - 3/4 = 1 3/4 cups.",
+      "id": "AZG5_005",
+      "imageUrl": "topic:fractions",
+      "memoryHook": "T-Rexy says: a dino baker never wastes flour - borrow a whole cup and count what is left!",
+      "question": "Maya has 2 1/2 cups of flour. She uses 3/4 cup to bake cookies. How much flour is left?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Fractions"
+      ]
+    },
+    {
+      "correctAnswer": "1 3/5",
+      "difficulty": 2,
+      "distractors": [
+        "8/20",
+        "4/20",
+        "6/5"
+      ],
+      "dynamic": false,
+      "explanation": "4 x 2/5 = 8/5. Then convert: 8/5 = 1 3/5.",
+      "id": "AZG5_006",
+      "imageUrl": "topic:fractions",
+      "memoryHook": "T-Rexy says: four stomps of two-fifths each stack up - add up the fifths, then make whole dino piles!",
+      "question": "What is 4 x 2/5?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Fractions"
+      ]
+    },
+    {
+      "correctAnswer": "8/12",
+      "difficulty": 2,
+      "distractors": [
+        "4/5",
+        "6/10",
+        "2/6"
+      ],
+      "dynamic": false,
+      "explanation": "Multiply numerator and denominator by the same number: 2/3 x 4/4 = 8/12, so 8/12 is equivalent.",
+      "id": "AZG5_007",
+      "imageUrl": "topic:fractions",
+      "memoryHook": "T-Rexy says: twins in disguise! Multiply top and bottom by the same number and the fraction stays the same size!",
+      "question": "Which of the following is equivalent to 2/3?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Fractions"
+      ]
+    },
+    {
+      "correctAnswer": "1 1/2 miles",
+      "difficulty": 3,
+      "distractors": [
+        "2 1/2 miles",
+        "1 2/3 miles",
+        "2 miles"
+      ],
+      "dynamic": false,
+      "explanation": "3 1/3 - 1 5/6: convert to sixths: 3 2/6 - 1 5/6. Borrow 1 whole: 2 8/6 - 1 5/6 = 1 3/6 = 1 1/2 miles.",
+      "id": "AZG5_008",
+      "imageUrl": "topic:fractions",
+      "memoryHook": "T-Rexy says: even a tired dino hiker can count the leftover trail - borrow a whole mile and stomp on!",
+      "question": "A trail is 3 1/3 miles long. Luis hikes 1 5/6 miles in the morning. How many miles are left to hike?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Fractions"
+      ]
+    },
+    {
+      "correctAnswer": "4 1/2",
+      "difficulty": 3,
+      "distractors": [
+        "3 7/9",
+        "4 1/3",
+        "3 1/2"
+      ],
+      "dynamic": false,
+      "explanation": "Add wholes and fractions separately: 2 + 1 = 3 wholes; 2/3 + 5/6 = 4/6 + 5/6 = 9/6 = 1 1/2. Then 3 + 1 1/2 = 4 1/2.",
+      "id": "AZG5_009",
+      "imageUrl": "topic:fractions",
+      "memoryHook": "T-Rexy says: whole dinos and baby dinos add up separately - then pile them together into one big herd!",
+      "question": "What is 2 2/3 + 1 5/6?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Fractions"
+      ]
+    },
+    {
+      "correctAnswer": "1 7/8 yards",
+      "difficulty": 3,
+      "distractors": [
+        "15/24 yards",
+        "5/24 yards",
+        "2 yards"
+      ],
+      "dynamic": false,
+      "explanation": "3 x 5/8 = 15/8. Convert to a mixed number: 15/8 = 1 7/8 yards.",
+      "id": "AZG5_010",
+      "imageUrl": "topic:fractions",
+      "memoryHook": "T-Rexy says: three pillows, three stomps of fabric - stack up the eighths and sew them into wholes!",
+      "question": "Sam needs 5/8 yard of fabric for one pillow. How many yards does he need for 3 pillows?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Fractions"
+      ]
+    },
+    {
+      "correctAnswer": "0.75",
+      "difficulty": 1,
+      "distractors": [
+        "0.34",
+        "0.7",
+        "3.4"
+      ],
+      "dynamic": false,
+      "explanation": "3/4 = 75/100 = 0.75",
+      "id": "AZG5_011",
+      "imageUrl": "topic:decimals",
+      "memoryHook": "T-Rexy says: four slices of dino pizza make a whole pie - 3 out of 4 slices is 0.75!",
+      "question": "Which decimal is equal to 3/4?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Decimals"
+      ]
+    },
+    {
+      "correctAnswer": "2",
+      "difficulty": 1,
+      "distractors": [
+        "6",
+        "7",
+        "4"
+      ],
+      "dynamic": false,
+      "explanation": "In 4.672, the digits after the decimal are 6 (tenths), 7 (hundredths), 2 (thousandths).",
+      "id": "AZG5_012",
+      "imageUrl": "topic:decimals",
+      "memoryHook": "T-Rexy says: count the dino steps after the dot - tenths, hundredths, thousandths!",
+      "question": "In the number 4.672, which digit is in the thousandths place?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Decimals"
+      ]
+    },
+    {
+      "correctAnswer": "7.42",
+      "difficulty": 1,
+      "distractors": [
+        "7.042",
+        "7.402",
+        "74.2"
+      ],
+      "dynamic": false,
+      "explanation": "\"Seven\" goes before the decimal point, and \"forty-two hundredths\" = .42, so the number is 7.42.",
+      "id": "AZG5_013",
+      "imageUrl": "topic:decimals",
+      "memoryHook": "T-Rexy says: say it like a roar - seven AND forty-two hundredths - and plant the decimal right after the AND!",
+      "question": "Which decimal is read as \"seven and forty-two hundredths\"?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Decimals"
+      ]
+    },
+    {
+      "correctAnswer": "0.58",
+      "difficulty": 2,
+      "distractors": [
+        "0.508",
+        "0.505",
+        "0.5"
+      ],
+      "dynamic": false,
+      "explanation": "Line up the decimals: 0.580 > 0.508 > 0.505 > 0.500, so 0.58 is greatest.",
+      "id": "AZG5_014",
+      "imageUrl": "topic:decimals",
+      "memoryHook": "T-Rexy says: line up the decimal points like dino footprints and compare digit by digit!",
+      "question": "Which decimal is the greatest?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Decimals"
+      ]
+    },
+    {
+      "correctAnswer": "3.86",
+      "difficulty": 2,
+      "distractors": [
+        "2.51",
+        "3.51",
+        "2.86"
+      ],
+      "dynamic": false,
+      "explanation": "Line up the decimal points: 2.36 + 1.50 = 3.86.",
+      "id": "AZG5_015",
+      "imageUrl": "topic:decimals",
+      "memoryHook": "T-Rexy says: stack the numbers so the decimal points march in one straight dino parade!",
+      "question": "What is 2.36 + 1.5?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Decimals"
+      ]
+    },
+    {
+      "correctAnswer": "3.73",
+      "difficulty": 2,
+      "distractors": [
+        "3.27",
+        "4.27",
+        "3.83"
+      ],
+      "dynamic": false,
+      "explanation": "Write 5.20 - 1.47. Then 520 - 147 = 373, so the answer is 3.73.",
+      "id": "AZG5_016",
+      "imageUrl": "topic:decimals",
+      "memoryHook": "T-Rexy says: borrow bones like a careful dino chef, then subtract each column!",
+      "question": "What is 5.2 - 1.47?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Decimals"
+      ]
+    },
+    {
+      "correctAnswer": "1.2",
+      "difficulty": 2,
+      "distractors": [
+        "0.12",
+        "12",
+        "0.7"
+      ],
+      "dynamic": false,
+      "explanation": "0.4 x 3 = 4 tenths x 3 = 12 tenths = 1.2.",
+      "id": "AZG5_017",
+      "imageUrl": "topic:decimals",
+      "memoryHook": "T-Rexy says: multiply like the dot is not there, then stomp it back into place at the end!",
+      "question": "What is 0.4 x 3?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Decimals"
+      ]
+    },
+    {
+      "correctAnswer": "0.6, 0.603, 0.63, 0.639",
+      "difficulty": 3,
+      "distractors": [
+        "0.603, 0.6, 0.63, 0.639",
+        "0.639, 0.63, 0.603, 0.6",
+        "0.6, 0.63, 0.603, 0.639"
+      ],
+      "dynamic": false,
+      "explanation": "Write them with three places: 0.600 < 0.603 < 0.630 < 0.639.",
+      "id": "AZG5_018",
+      "imageUrl": "topic:decimals",
+      "memoryHook": "T-Rexy says: give every decimal the same number of tail feathers (zeros) so they are easy to compare!",
+      "question": "Put these decimals in order from least to greatest: 0.63, 0.639, 0.603, 0.6",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Decimals"
+      ]
+    },
+    {
+      "correctAnswer": "5.00",
+      "difficulty": 2,
+      "distractors": [
+        "4.25",
+        "5.25",
+        "4.00"
+      ],
+      "dynamic": false,
+      "explanation": "1.25 x 4 = 5.00, so she spends $5.00.",
+      "id": "AZG5_019",
+      "imageUrl": "topic:decimals",
+      "memoryHook": "T-Rexy says: four dino snacks at $1.25 each - multiply and count your coins, little hunter!",
+      "question": "Lily buys 4 notebooks that cost $1.25 each. How much does she spend in all?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Decimals"
+      ]
+    },
+    {
+      "correctAnswer": "2 1/20",
+      "difficulty": 3,
+      "distractors": [
+        "2 1/2",
+        "2 5/10",
+        "2 1/5"
+      ],
+      "dynamic": false,
+      "explanation": "2.05 = 2 + 5/100 = 2 + 1/20.",
+      "id": "AZG5_020",
+      "imageUrl": "topic:decimals",
+      "memoryHook": "T-Rexy says: 0.05 is 5 tiny dino toes out of 100 - shrink that fraction down to 1/20!",
+      "question": "Which mixed number is equal to 2.05?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Decimals"
+      ]
+    },
+    {
+      "correctAnswer": "30 cubic inches",
+      "difficulty": 1,
+      "distractors": [
+        "10 square inches",
+        "10 cubic inches",
+        "20 cubic inches"
+      ],
+      "dynamic": false,
+      "explanation": "Volume = length x width x height = 5 x 2 x 3 = 30 cubic inches.",
+      "id": "AZG5_021",
+      "imageUrl": "topic:volume",
+      "memoryHook": "T-Rexy says: multiply all three sides - the chest needs length AND width AND height to hold treasure!",
+      "question": "T-Rexy's treasure chest is 5 inches long, 2 inches wide, and 3 inches tall. What is its volume?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Volume"
+      ]
+    },
+    {
+      "correctAnswer": "24 cubes",
+      "difficulty": 1,
+      "distractors": [
+        "9 cubes",
+        "12 cubes",
+        "29 cubes"
+      ],
+      "dynamic": false,
+      "explanation": "Count the unit cubes: 4 x 3 x 2 = 24 cubes fill the stack.",
+      "id": "AZG5_022",
+      "imageUrl": "topic:volume",
+      "memoryHook": "T-Rexy says: unit cubes are like tiny dino snacks - stack them up to fill the whole box!",
+      "question": "A stack of 1-inch cubes is 4 cubes long, 3 cubes wide, and 2 cubes tall. How many unit cubes fill the stack?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Volume"
+      ]
+    },
+    {
+      "correctAnswer": "300 cubic cm",
+      "difficulty": 2,
+      "distractors": [
+        "60 square cm",
+        "21 cubic cm",
+        "60 cubic cm"
+      ],
+      "dynamic": false,
+      "explanation": "Volume = 10 x 6 x 5 = 300 cubic cm. (21 comes from adding; 60 comes from forgetting one side.)",
+      "id": "AZG5_023",
+      "imageUrl": "topic:volume",
+      "memoryHook": "T-Rexy says: a tank holds WATER - that means volume, not flat area, splashy dino!",
+      "question": "A fish tank is 10 cm long, 6 cm wide, and 5 cm tall. What is its volume?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Volume"
+      ]
+    },
+    {
+      "correctAnswer": "Area measures a flat face; volume needs length x width x height in cubic units",
+      "difficulty": 2,
+      "distractors": [
+        "She multiplied instead of adding",
+        "She forgot to include the price of the box",
+        "12 is too small to be a volume"
+      ],
+      "dynamic": false,
+      "explanation": "Area covers a flat 2D face (square units). Volume fills a 3D solid, so it needs all three dimensions and cubic units.",
+      "id": "AZG5_024",
+      "imageUrl": "topic:volume",
+      "memoryHook": "T-Rexy says: a flat dino footprint is AREA - the whole roaring cave is VOLUME!",
+      "question": "Maya found the area of the front face of a box: 12 square cm. She says that is the volume. What mistake did she make?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Volume"
+      ]
+    },
+    {
+      "correctAnswer": "64 cubic in",
+      "difficulty": 2,
+      "distractors": [
+        "64 square in",
+        "14 cubic in",
+        "32 cubic in"
+      ],
+      "dynamic": false,
+      "explanation": "Volume = 8 x 4 x 2 = 64 cubic in. Square inches are for flat area, not volume.",
+      "id": "AZG5_025",
+      "imageUrl": "topic:volume",
+      "memoryHook": "T-Rexy says: cubic means chunky - like dino bones, not flat like paper!",
+      "question": "A book box measures 8 in by 4 in by 2 in. Which is its volume?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Volume"
+      ]
+    },
+    {
+      "correctAnswer": "189 cubic cm",
+      "difficulty": 2,
+      "distractors": [
+        "179 cubic cm",
+        "189 square cm",
+        "61 cubic cm"
+      ],
+      "dynamic": false,
+      "explanation": "Composite volume = 125 + 64 = 189 cubic cm. (61 comes from subtracting; 179 is a slip in adding.)",
+      "id": "AZG5_026",
+      "imageUrl": "topic:volume",
+      "memoryHook": "T-Rexy says: stack two dino blocks - add their volumes to get the whole mighty tower!",
+      "question": "A gift box is made of two stacked cubes: the bottom cube has a volume of 125 cubic cm and the top cube has a volume of 64 cubic cm. What is the total volume?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Volume"
+      ]
+    },
+    {
+      "correctAnswer": "52 cubic ft",
+      "difficulty": 3,
+      "distractors": [
+        "36 cubic ft",
+        "52 square ft",
+        "18 cubic ft"
+      ],
+      "dynamic": false,
+      "explanation": "Prism A: 6 x 3 x 2 = 36. Prism B: 4 x 2 x 2 = 16. Total = 36 + 16 = 52 cubic ft.",
+      "id": "AZG5_027",
+      "imageUrl": "topic:volume",
+      "memoryHook": "T-Rexy says: split the L-shape into two dino blocks, find each volume, then chomp them together!",
+      "question": "An L-shaped planter is made of two rectangular prisms. Prism A is 6 ft by 3 ft by 2 ft. Prism B is 4 ft by 2 ft by 2 ft. What is the total volume?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Volume"
+      ]
+    },
+    {
+      "correctAnswer": "60 cubes",
+      "difficulty": 1,
+      "distractors": [
+        "20 cubes",
+        "12 cubes",
+        "37 cubes"
+      ],
+      "dynamic": false,
+      "explanation": "One layer = 5 x 4 = 20 cubes. Three layers: 20 x 3 = 60 cubes.",
+      "id": "AZG5_028",
+      "imageUrl": "topic:volume",
+      "memoryHook": "T-Rexy says: count one layer first, then stack the layers - like building a dino sandwich!",
+      "question": "A toy crate has a base layer of 5 rows of 4 cubes, and it is 3 cubes tall. How many cubes does it hold?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Volume"
+      ]
+    },
+    {
+      "correctAnswer": "3 cm",
+      "difficulty": 3,
+      "distractors": [
+        "12 cm",
+        "3 square cm",
+        "84 cm"
+      ],
+      "dynamic": false,
+      "explanation": "96 = 8 x 4 x height, so height = 96 / 32 = 3 cm. (84 comes from subtracting; height is a length, so cm.)",
+      "id": "AZG5_029",
+      "imageUrl": "topic:volume",
+      "memoryHook": "T-Rexy says: work backward like a dino detective - divide the volume by what you already know!",
+      "question": "A rectangular prism has a volume of 96 cubic cm. Its length is 8 cm and its width is 4 cm. What is its height?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Volume"
+      ]
+    },
+    {
+      "correctAnswer": "140 cubic cm, because volume fills 3D space with three dimensions",
+      "difficulty": 2,
+      "distractors": [
+        "140 square cm, because he multiplied three numbers",
+        "140 cm, because only the number matters",
+        "140 square cm, because the box is small"
+      ],
+      "dynamic": false,
+      "explanation": "Multiplying three lengths gives cubic units. Square units are for flat 2D area, so 140 must be cubic cm.",
+      "id": "AZG5_030",
+      "imageUrl": "topic:volume",
+      "memoryHook": "T-Rexy says: three sides multiplied = cubic - that's the dino law of chunkiness!",
+      "question": "Leo computed 7 x 5 x 4 = 140 and wrote the answer as 140 square cm. What should the correct units be, and why?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Volume"
+      ]
+    },
+    {
+      "correctAnswer": "(2, 6)",
+      "difficulty": 1,
+      "distractors": [
+        "(6, 2)",
+        "(2, 0)",
+        "(0, 6)"
+      ],
+      "dynamic": false,
+      "explanation": "Moving right sets the x-coordinate to 2 and moving up sets the y-coordinate to 6, so the point is (2, 6).",
+      "id": "AZG5_031",
+      "imageUrl": "topic:coordinates",
+      "memoryHook": "T-Rexy says: march right first to find x, then climb up to find y - never stomp the other way!",
+      "question": "A point is 2 units right and 6 units up from the origin. What are its coordinates?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Coordinates"
+      ]
+    },
+    {
+      "correctAnswer": "Move 4 units right, then 1 unit up",
+      "difficulty": 1,
+      "distractors": [
+        "Move 1 unit right, then 4 units up",
+        "Move 4 units up, then 1 unit right",
+        "Move 4 units left, then 1 unit down"
+      ],
+      "dynamic": false,
+      "explanation": "In (4, 1), the first number 4 is the x-coordinate (move right) and the second number 1 is the y-coordinate (move up).",
+      "id": "AZG5_032",
+      "imageUrl": "topic:coordinates",
+      "memoryHook": "T-Rexy says: the first number is the runway (run right), the second is the jump (hop up)!",
+      "question": "A point is plotted at (4, 1). How do you get there from the origin?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Coordinates"
+      ]
+    },
+    {
+      "correctAnswer": "6 units right and 4 units up",
+      "difficulty": 2,
+      "distractors": [
+        "4 units right and 6 units up",
+        "6 units right and 4 units down",
+        "6 units left and 4 units down"
+      ],
+      "dynamic": false,
+      "explanation": "In (6, 4), the x-coordinate 6 means 6 units right and the y-coordinate 4 means 4 units up from the origin.",
+      "id": "AZG5_033",
+      "imageUrl": "topic:coordinates",
+      "memoryHook": "T-Rexy says: a smart dino always counts the right steps before the up steps!",
+      "question": "T-Rexy hides a bone at the point (6, 4). How many units right and how many units up from the origin is the bone?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Coordinates"
+      ]
+    },
+    {
+      "correctAnswer": "They are two different points because the order of the numbers matters",
+      "difficulty": 2,
+      "distractors": [
+        "They are the same point",
+        "Point A is 7 units right and 2 units up",
+        "Point B lies on the y-axis"
+      ],
+      "dynamic": false,
+      "explanation": "Swapping the x and y values changes the location: (2, 7) is 2 right and 7 up, while (7, 2) is 7 right and 2 up.",
+      "id": "AZG5_034",
+      "imageUrl": "topic:coordinates",
+      "memoryHook": "T-Rexy says: (2, 7) and (7, 2) are as different as a headbutt and a tail-whack!",
+      "question": "Point A is at (2, 7) and Point B is at (7, 2). Which statement about the two points is true?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Coordinates"
+      ]
+    },
+    {
+      "correctAnswer": "(0, 7)",
+      "difficulty": 2,
+      "distractors": [
+        "(7, 0)",
+        "(7, 7)",
+        "(2, 7)"
+      ],
+      "dynamic": false,
+      "explanation": "Points on the y-axis have an x-coordinate of 0, so (0, 7) sits on the y-axis.",
+      "id": "AZG5_035",
+      "imageUrl": "topic:coordinates",
+      "memoryHook": "T-Rexy says: on the y-axis the x-coordinate is zero - you never marched right at all!",
+      "question": "Which of these points lies on the y-axis?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Coordinates"
+      ]
+    },
+    {
+      "correctAnswer": "(5, 5)",
+      "difficulty": 3,
+      "distractors": [
+        "(2, 5)",
+        "(5, 4)",
+        "(6, 5)"
+      ],
+      "dynamic": false,
+      "explanation": "Add 3 to the x-coordinate: 2 + 3 = 5. Add 4 to the y-coordinate: 1 + 4 = 5. The new point is (5, 5).",
+      "id": "AZG5_036",
+      "imageUrl": "topic:coordinates",
+      "memoryHook": "T-Rexy says: stomp the old x and y, then add your steps - no dino leaves a step behind!",
+      "question": "Start at the point (2, 1). Move 3 units right and 4 units up. What are the coordinates of the new point?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Coordinates"
+      ]
+    },
+    {
+      "correctAnswer": "$3.00",
+      "difficulty": 2,
+      "distractors": [
+        "$7.00",
+        "$4.00",
+        "$2.00"
+      ],
+      "dynamic": false,
+      "explanation": "4 x $1.75 = $7.00. Then $10.00 - $7.00 = $3.00 in change.",
+      "id": "AZG5_037",
+      "imageUrl": "topic:wordproblems",
+      "memoryHook": "T-Rexy says: multiply first like a dino counting eggs, then subtract to find the change!",
+      "question": "Maya buys 4 packs of stickers for $1.75 each. She pays with a $10 bill. How much change does she get back?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Word Problems"
+      ]
+    },
+    {
+      "correctAnswer": "1 1/4 cups",
+      "difficulty": 3,
+      "distractors": [
+        "1/2 cup",
+        "1 1/2 cups",
+        "1 cup"
+      ],
+      "dynamic": false,
+      "explanation": "2 batches need 2 x 3/4 = 6/4 = 1 1/2 cups. Subtract the 1/4 cup used: 1 1/2 - 1/4 = 1 1/4 cups.",
+      "id": "AZG5_038",
+      "imageUrl": "topic:wordproblems",
+      "memoryHook": "T-Rexy says: fractions are just dino crumbs - double them, then munch the crumbs that are gone!",
+      "question": "A recipe needs 3/4 cup of sugar per batch. Dan wants to make 2 batches, but he already used 1/4 cup. How much more sugar does he need?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Word Problems"
+      ]
+    },
+    {
+      "correctAnswer": "36",
+      "difficulty": 2,
+      "distractors": [
+        "48",
+        "2",
+        "60"
+      ],
+      "dynamic": false,
+      "explanation": "The full box holds 6 x 8 = 48 muffins. After selling 12: 48 - 12 = 36 muffins left.",
+      "id": "AZG5_039",
+      "imageUrl": "topic:wordproblems",
+      "memoryHook": "T-Rexy says: multiply the rows first, then let the hungry customers have their share!",
+      "question": "A bakery box holds 6 rows of 8 muffins. The baker sells 12 muffins from the box. How many muffins are left in the box?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Word Problems"
+      ]
+    },
+    {
+      "correctAnswer": "$2.50",
+      "difficulty": 3,
+      "distractors": [
+        "$7.50",
+        "$3.75",
+        "$5.00"
+      ],
+      "dynamic": false,
+      "explanation": "6 notebooks cost 6 x $1.25 = $7.50. Change: $10.00 - $7.50 = $2.50.",
+      "id": "AZG5_040",
+      "imageUrl": "topic:wordproblems",
+      "memoryHook": "T-Rexy says: multiply the price like a swarm of shoppers, then grab the change and roar!",
+      "question": "A store sells notebooks for $1.25 each. Lia buys 6 notebooks and pays with a $10 bill. How much change does she get back?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Math",
+        "Word Problems"
+      ]
+    },
+    {
+      "correctAnswer": "Camels have body features that help them survive in the desert",
+      "difficulty": 1,
+      "distractors": [
+        "Camels store drinking water inside their humps",
+        "Camels are faster runners than horses",
+        "All camels live only in the Sahara Desert"
+      ],
+      "dynamic": false,
+      "explanation": "Each detail (weeks without water, fat-storing humps, wide feet) shows how camel bodies are built for desert survival.",
+      "id": "AZG5_041",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: the main idea is the big dino - details are just its tiny footprints!",
+      "question": "Read: Camels can go for weeks without drinking water. Their humps store fat that the body turns into energy. Their wide, flat feet keep them from sinking in soft sand. What is the main idea?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Main Idea"
+      ]
+    },
+    {
+      "correctAnswer": "Its roots spread wide and shallow to grab water from light rains",
+      "difficulty": 2,
+      "distractors": [
+        "Saguaros bloom with white flowers only at night",
+        "The saguaro is the oldest cactus in the world",
+        "Saguaro ribs are used to build desert homes"
+      ],
+      "dynamic": false,
+      "explanation": "The wide, shallow roots are a passage detail showing how saguaros collect scarce water; the other choices are not in the passage.",
+      "id": "AZG5_042",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: a supporting detail is a fossil that proves the big dino bone is real!",
+      "question": "Read: A saguaro's ribs fold and unfold like an accordion so the plant can swell with rainwater. Its roots spread wide and shallow to grab water from light rains. A thick waxy skin locks the stored water inside. Which detail from the passage supports the main idea that saguaros are built to save desert water?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Main Idea"
+      ]
+    },
+    {
+      "correctAnswer": "Ants work together as a team to help their colony survive",
+      "difficulty": 3,
+      "distractors": [
+        "Ants build rafts whenever it rains",
+        "Ants are stronger than every other insect",
+        "Soldier ants are the most important ants in the colony"
+      ],
+      "dynamic": false,
+      "explanation": "The raft, the hauling, and the guarding all show teamwork; no single detail alone is the main idea.",
+      "id": "AZG5_043",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: don't pick one tiny footprint when the whole herd is the main idea!",
+      "question": "Read: When a colony floods, worker ants link their bodies into a living raft. Some ants haul crumbs many times their own weight back to the nest. Soldier ants guard the tunnel entrances while others dig. What is the main idea?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Main Idea"
+      ]
+    },
+    {
+      "correctAnswer": "Maya works hard to become a better soccer player",
+      "difficulty": 1,
+      "distractors": [
+        "Soccer is the most popular sport in the world",
+        "Maya only watches game videos",
+        "Juggling is the hardest soccer skill to learn"
+      ],
+      "dynamic": false,
+      "explanation": "Practicing, juggling, and studying videos all point to one idea: Maya is working hard to improve at soccer.",
+      "id": "AZG5_044",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: the main idea scores the goal - details are just the warm-up drills!",
+      "question": "Read: Maya practices her dribbling every afternoon after school. She juggles the ball to improve her footwork. She watches game videos to learn new moves. What is the main idea?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Main Idea"
+      ]
+    },
+    {
+      "correctAnswer": "Dry desert washes fill with rushing water during these storms",
+      "difficulty": 2,
+      "distractors": [
+        "Monsoon storms also happen in other countries",
+        "Rainbows often appear after monsoon storms",
+        "Haboobs are a kind of desert bird"
+      ],
+      "dynamic": false,
+      "explanation": "Rushing water in desert washes is a passage detail proving the storms' power; the other choices are not stated in the passage.",
+      "id": "AZG5_045",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: a good detail roars like thunder to back up the main idea!",
+      "question": "Read: Arizona's monsoon storms can drop an inch of rain in one hour. Dry desert washes fill with rushing water during these storms. Strong winds kick up walls of dust called haboobs. Which detail from the passage supports the main idea that monsoon storms are powerful?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Main Idea"
+      ]
+    },
+    {
+      "correctAnswer": "Honeybees use a special dance to share directions to food",
+      "difficulty": 3,
+      "distractors": [
+        "Honeybees are the only insects that can dance",
+        "The figure-eight is the bees' favorite shape",
+        "Bees fly straight toward the sun at noon"
+      ],
+      "dynamic": false,
+      "explanation": "The pattern, the speed, and the angle are all details about one idea: the dance gives directions to food.",
+      "id": "AZG5_046",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: the waggle dance has one big message - don't get lost in the tiny steps!",
+      "question": "Read: A forager bee dances in a figure-eight pattern to tell hive mates where flowers are. The speed of the waggle tells the other bees how far to fly. The angle of the dance points the way using the sun's position. What is the main idea?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Main Idea"
+      ]
+    },
+    {
+      "correctAnswer": "Sea turtle hatchlings face many dangers on their journey to the ocean",
+      "difficulty": 2,
+      "distractors": [
+        "Sea turtles hatch only on moonlit nights",
+        "Crabs are the sea turtle's only enemy",
+        "Baby turtles spend their whole lives in seaweed"
+      ],
+      "dynamic": false,
+      "explanation": "Hunting crabs, hunting birds, and the long swim all support the idea that the hatchlings' journey is full of dangers.",
+      "id": "AZG5_047",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: spot the big danger-dino, not just one of its teeth!",
+      "question": "Read: Baby sea turtles hatch at night and scramble toward the moonlit ocean. Along the way, crabs and birds hunt them, so only a few survive. The survivors swim far out to sea, where they hide in floating seaweed. What is the main idea?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Main Idea"
+      ]
+    },
+    {
+      "correctAnswer": "Jaden built a fun robot from everyday objects",
+      "difficulty": 1,
+      "distractors": [
+        "Shoeboxes make the best robot bodies",
+        "Robots can hear people clap",
+        "Jaden plans to become an engineer someday"
+      ],
+      "dynamic": false,
+      "explanation": "The shoebox body, bottle-cap wheels, and rubber-band arm all describe the same homemade robot.",
+      "id": "AZG5_048",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: the main idea is the whole robot - not just one bottle-cap wheel!",
+      "question": "Read: Jaden built a robot from a shoebox, bottle caps, and rubber bands. Its bottle-cap wheels roll across the kitchen floor. When Jaden claps, a rubber-band arm waves back at him. What is the main idea?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Main Idea"
+      ]
+    },
+    {
+      "correctAnswer": "The Moon's gravity has shaped Earth in important ways",
+      "difficulty": 3,
+      "distractors": [
+        "The Moon is slowly leaving Earth behind",
+        "Tides are caused mainly by the Sun",
+        "Days on Earth used to be shorter than nights"
+      ],
+      "dynamic": false,
+      "explanation": "Tides, the slowing spin, and the drifting orbit are all effects of the Moon's gravity on Earth.",
+      "id": "AZG5_049",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: gravity is the giant dino pulling every little detail along with it!",
+      "question": "Read: The Moon's gravity pulls on Earth's oceans and causes the tides. Long ago, the same pull slowed Earth's spin, stretching our days to 24 hours. Even today, the Moon drifts a little farther away each year. What is the main idea?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Main Idea"
+      ]
+    },
+    {
+      "correctAnswer": "They sprint up to 20 miles per hour to chase down lizards",
+      "difficulty": 2,
+      "distractors": [
+        "Roadrunners are famous cartoon characters",
+        "Roadrunners are completely unable to fly",
+        "Roadrunners sleep in nests high in trees"
+      ],
+      "dynamic": false,
+      "explanation": "Sprinting after lizards is a passage detail showing hunting skill; the other choices are not stated in the passage.",
+      "id": "AZG5_050",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: chase the detail that hunts with the main idea - meep meep!",
+      "question": "Read: Roadrunners hunt rattlesnakes by striking them with sharp beaks. They sprint up to 20 miles per hour to chase down lizards. At night they lower their body temperature to save energy. Which detail from the passage supports the main idea that roadrunners are skilled desert hunters?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Main Idea"
+      ]
+    },
+    {
+      "correctAnswer": "Saguaro cacti are giant long-lived desert plants that store huge amounts of water",
+      "difficulty": 1,
+      "distractors": [
+        "A saguaro can soak up 200 gallons of water after a heavy rain with its wide roots",
+        "Desert plants are cool and cacti are the best plants in Arizona",
+        "Saguaros grow in the Sonoran Desert"
+      ],
+      "dynamic": false,
+      "explanation": "The best summary captures the main ideas - giant, long-lived desert plants that store water - without listing minor facts like the exact gallons.",
+      "id": "AZG5_051",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: a summary is a dino-snapshot - keep the big picture, leave the tiny pebbles out!",
+      "question": "Read: Saguaro cacti grow only in the Sonoran Desert. They can live for 200 years and grow taller than 40 feet. Their roots spread wide to catch rain. After a heavy rain, a saguaro can soak up 200 gallons of water. Which is the best summary?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Summarizing"
+      ]
+    },
+    {
+      "correctAnswer": "The exact names of mining towns like Bisbee and Jerome",
+      "difficulty": 2,
+      "distractors": [
+        "Arizona became the 48th state in 1912",
+        "Mining and ranching were important before statehood",
+        "Statehood brought new roads and schools"
+      ],
+      "dynamic": false,
+      "explanation": "Town names are a minor detail. A summary keeps the main ideas: statehood year, the key industries, and what statehood brought.",
+      "id": "AZG5_052",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: when you summarize, stomp out the tiny details and keep the giant dino-sized facts!",
+      "question": "Read: In 1912, Arizona became the 48th state. Miners had found copper in towns like Bisbee and Jerome. Ranchers raised cattle on wide-open land. Statehood brought new roads and schools. Which detail does NOT belong in a summary of this passage?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Summarizing"
+      ]
+    },
+    {
+      "correctAnswer": "Bees carry pollen between flowers, helping plants make seeds and fruit",
+      "difficulty": 1,
+      "distractors": [
+        "Honeybees visit flowers to drink sweet nectar and pollen clings to their legs and they fly to other flowers",
+        "Bees are insects",
+        "Everyone should protect bees because they are the most important animals in the world"
+      ],
+      "dynamic": false,
+      "explanation": "The correct answer keeps the key cause-and-effect idea without copying the passage word for word, and it adds no opinion of its own.",
+      "id": "AZG5_053",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: buzz like a bee from flower to flower, but only carry the sweetest pollen - the main ideas!",
+      "question": "Read: Honeybees visit flowers to drink sweet nectar. As they fly from flower to flower, sticky pollen clings to their legs. The bees drop the pollen on other flowers. This helps the flowers make seeds. Without bees, many plants could not grow fruit. Which is the best summary?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Summarizing"
+      ]
+    },
+    {
+      "correctAnswer": "Mammoths once lived in Arizona, but a warming climate destroyed their food and they died out",
+      "difficulty": 2,
+      "distractors": [
+        "Mammoths were huge, hairy elephants with curved tusks that ate grasses and shrubs",
+        "A long time ago there were animals",
+        "It is sad that the mammoths died because humans should have saved them"
+      ],
+      "dynamic": false,
+      "explanation": "A strong summary names the subject, the setting, and the key cause-and-effect. It avoids listing every description and avoids adding feelings.",
+      "id": "AZG5_054",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: even a giant mammoth fits in a tiny summary when you leave the extra fur behind!",
+      "question": "Read: Long ago, mammoths roamed what is now Arizona. They were huge, hairy elephants with curved tusks. They ate grasses and shrubs. When the climate grew warmer and drier, their food disappeared. Scientists believe this helped cause mammoths to die out. Which is the best summary?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Summarizing"
+      ]
+    },
+    {
+      "correctAnswer": "The roadrunner is a fast-running desert bird that hunts small animals and nests low in plants",
+      "difficulty": 2,
+      "distractors": [
+        "The roadrunner can sprint up to 20 miles per hour and eats lizards, snakes, and insects and nests in bushes",
+        "Birds are animals that live in the desert",
+        "Roadrunners are cooler than any other bird because they run like race cars"
+      ],
+      "dynamic": false,
+      "explanation": "The best answer keeps the main traits - runs, hunts, nests - while dropping the fun but minor detail about cartoons and the exact speed number.",
+      "id": "AZG5_055",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: race through the passage like a roadrunner and grab only the main-idea snacks!",
+      "question": "Read: The roadrunner is a desert bird that usually runs instead of flying. It can sprint up to 20 miles per hour. It eats lizards, snakes, and insects. Roadrunners build their nests low in bushes or cactus. They are famous in Arizona cartoons, but real roadrunners are quiet hunters. Which is the best summary?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Summarizing"
+      ]
+    },
+    {
+      "correctAnswer": "The tomatoes grown were red",
+      "difficulty": 1,
+      "distractors": [
+        "Scientists grew tomatoes in salty water",
+        "The seeds help farmers grow food with less fresh water",
+        "This could help feed people in hot climates"
+      ],
+      "dynamic": false,
+      "explanation": "The tomato color is a minor detail. The summary needs the experiment, the sharing of seeds, and why it matters.",
+      "id": "AZG5_056",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: red tomatoes are tasty, but a summary only eats the meaty main ideas!",
+      "question": "Read: Scientists in a lab grew tomatoes in salty water to help farmers in dry places. The plants grew strong roots and produced red tomatoes. The team shared seeds with farmers near the desert. Those farmers grew food with less fresh water. This could help feed people in hot climates. Which detail does NOT belong in a summary of this passage?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Summarizing"
+      ]
+    },
+    {
+      "correctAnswer": "Summer monsoon storms bring fast, dangerous flooding to Arizona, so drivers must avoid flooded roads",
+      "difficulty": 3,
+      "distractors": [
+        "Hot air rises over the desert and pulls in wet air from the south, then dark clouds build and lightning cracks",
+        "Arizona has weather",
+        "Monsoons are scary and nobody should ever drive in Arizona in the summer"
+      ],
+      "dynamic": false,
+      "explanation": "The correct summary keeps the cause (summer storms), the key danger (fast flooding), and the important safety rule. It drops the step-by-step weather science and adds no new opinion.",
+      "id": "AZG5_057",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: a storm summary is like a rain cloud - pack in the heavy drops, let the mist drift away!",
+      "question": "Read: Monsoon storms strike Arizona each summer. Hot air rises over the desert and pulls in wet air from the south. Dark clouds build fast, and lightning cracks across the sky. Heavy rain can flood dry washes in minutes. Drivers must never cross a flooded road. Which is the best summary?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Summarizing"
+      ]
+    },
+    {
+      "correctAnswer": "After missing every shot at first, Lena practiced daily and scored two goals in the last game",
+      "difficulty": 2,
+      "distractors": [
+        "Lena joined the school soccer team and missed every shot at her first practice and practiced in her backyard and her coach taught her to aim with the inside of her foot and she scored two goals",
+        "A girl played soccer",
+        "Soccer is the greatest sport ever and Lena is a hero"
+      ],
+      "dynamic": false,
+      "explanation": "The best summary covers the problem, the effort, and the result in a short retelling. It does not copy every sentence or add praise that was not in the passage.",
+      "id": "AZG5_058",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: kick the extra words out of bounds and keep the goal-scoring main ideas!",
+      "question": "Read: Lena joined the school soccer team and missed every shot at her first practice. She practiced dribbling in her backyard each evening. Her coach taught her to aim with the inside of her foot. By the last game, Lena scored two goals. She learned that steady practice beats giving up. Which is the best summary?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Summarizing"
+      ]
+    },
+    {
+      "correctAnswer": "Long ago, the Hohokam dug hundreds of miles of canals by hand to water crops, and some of those paths are still used today",
+      "difficulty": 3,
+      "distractors": [
+        "The Hohokam built canals and dug channels by hand and carried water to fields of corn and beans",
+        "People lived in Arizona",
+        "The Hohokam were the smartest people in history because their canals still work"
+      ],
+      "dynamic": false,
+      "explanation": "This summary keeps who, what, when, and why it matters now. It avoids repeating the passage nearly word for word and avoids adding a judgment.",
+      "id": "AZG5_059",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: dig a canal through the passage and let only the main-idea water flow through!",
+      "question": "Read: The Hohokam people built canals in the Phoenix valley over a thousand years ago. They dug hundreds of miles of channels by hand. The canals carried river water to fields of corn and beans. Some modern Arizona canals follow the same paths. Their work still helps the valley grow food today. Which is the best summary?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Summarizing"
+      ]
+    },
+    {
+      "correctAnswer": "Ancient lava flows in northern Arizona broke down into soil where pine trees now grow, showing how land changes over time",
+      "difficulty": 3,
+      "distractors": [
+        "Volcanoes erupted thousands of years ago and lava flows spread and cooled into dark rock and wind and rain broke it into soil",
+        "Arizona has rocks and trees",
+        "Volcanoes are awesome and everyone should visit northern Arizona"
+      ],
+      "dynamic": false,
+      "explanation": "The correct choice condenses the whole chain of events - eruptions, cooling, weathering, new forest - into the key takeaway about land changing over time.",
+      "id": "AZG5_060",
+      "imageUrl": "topic:reading",
+      "memoryHook": "T-Rexy says: even an erupting volcano can fit in a tiny summary - just cool it down to the main ideas!",
+      "question": "Read: Volcanoes in northern Arizona erupted thousands of years ago. Lava flows spread across the land and cooled into dark rock. Wind and rain slowly broke the rock into soil. Pine trees now grow where lava once flowed. The area shows how land can change over time. Which is the best summary?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Summarizing"
+      ]
+    },
+    {
+      "correctAnswer": "For the field trip we packed sandwiches, apples, and juice.",
+      "difficulty": 1,
+      "distractors": [
+        "For the field trip we packed sandwiches apples and juice.",
+        "For the field trip we packed, sandwiches, apples, and juice.",
+        "For the field trip we packed sandwiches apples, and juice,"
+      ],
+      "dynamic": false,
+      "explanation": "Commas separate each item in a series: sandwiches, apples, and juice.",
+      "id": "AZG5_061",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: commas are like little dino pauses - give each list item room to breathe!",
+      "question": "Which sentence uses commas correctly in a series?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ]
+    },
+    {
+      "correctAnswer": "Yesterday the class finished the science project and cleaned the lab.",
+      "difficulty": 2,
+      "distractors": [
+        "Yesterday the class finishes the science project and cleaned the lab.",
+        "Yesterday the class finished the science project and will clean the lab.",
+        "Yesterday the class finish the science project and cleaned the lab."
+      ],
+      "dynamic": false,
+      "explanation": "Both verbs should be in the past tense because the action happened yesterday: finished and cleaned.",
+      "id": "AZG5_062",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: keep your verb tenses in the same dino herd - don't let one wander off to the past while the other runs to the future!",
+      "question": "Choose the sentence with the correct verb tense.",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ]
+    },
+    {
+      "correctAnswer": "The flock of geese flies over the lake every morning.",
+      "difficulty": 3,
+      "distractors": [
+        "The flock of geese fly over the lake every morning.",
+        "The flock of geese are flying over the lake every morning.",
+        "The flocks of geese flies over the lake every morning."
+      ],
+      "dynamic": false,
+      "explanation": "The subject is the singular noun 'flock', so the verb must be the singular 'flies'. The phrase 'of geese' does not change the subject.",
+      "id": "AZG5_063",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: one dino means one verb ending - match the verb to the real subject, not the words beside it!",
+      "question": "Which sentence shows correct subject-verb agreement?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ]
+    },
+    {
+      "correctAnswer": "The museum opened on May 14, 2019, with a fossil exhibit.",
+      "difficulty": 2,
+      "distractors": [
+        "The museum opened on May 14 2019, with a fossil exhibit.",
+        "The museum opened on May, 14, 2019 with a fossil exhibit.",
+        "The museum opened on May 14, 2019 with a fossil exhibit."
+      ],
+      "dynamic": false,
+      "explanation": "A comma goes between the day and the year, and another comma follows the year when the sentence continues.",
+      "id": "AZG5_064",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: dates need a comma hug around the year, just like a T-Rex hugs a fossil!",
+      "question": "Which sentence uses commas correctly in a date?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ]
+    },
+    {
+      "correctAnswer": "The campers carried their backpacks over there to the trailhead.",
+      "difficulty": 1,
+      "distractors": [
+        "The campers carried there backpacks over their to the trailhead.",
+        "The campers carried they're backpacks over there to the trailhead.",
+        "The campers carried their backpacks over their to the trailhead."
+      ],
+      "dynamic": false,
+      "explanation": "'Their' shows ownership (their backpacks) and 'there' points to a place (over there to the trailhead).",
+      "id": "AZG5_065",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: their owns it, there points to it - don't let your words stomp into the wrong footprint!",
+      "question": "Choose the sentence that uses the correct word.",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ]
+    },
+    {
+      "correctAnswer": "We hiked to the waterfall, and we ate lunch on the rocks.",
+      "difficulty": 2,
+      "distractors": [
+        "We hiked to the waterfall we ate lunch on the rocks.",
+        "We hiked to the waterfall and we ate, lunch on the rocks.",
+        "We hiked, to the waterfall, and we ate lunch on the rocks."
+      ],
+      "dynamic": false,
+      "explanation": "Two complete ideas joined by a coordinating conjunction need a comma before the conjunction: 'waterfall, and we ate'.",
+      "id": "AZG5_066",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: a run-on sentence is a stampede - add a comma and a conjunction to give each idea its own lane!",
+      "question": "Which sentence fixes the run-on sentence correctly?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ]
+    },
+    {
+      "correctAnswer": "When the storm rolled in during the soccer game.",
+      "difficulty": 3,
+      "distractors": [
+        "When the storm rolled in, we left the soccer field quickly.",
+        "The storm rolled in during the soccer game and we ran to shelter.",
+        "During the soccer game, the storm rolled in."
+      ],
+      "dynamic": false,
+      "explanation": "This is a fragment because it starts with 'When' but never finishes the main idea - the reader is left wondering what happened.",
+      "id": "AZG5_067",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: a fragment is like a dino with no tail - the sentence is missing its ending!",
+      "question": "Which sentence is a fragment that needs fixing?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ]
+    },
+    {
+      "correctAnswer": "The puppies' toys were scattered across the living room.",
+      "difficulty": 2,
+      "distractors": [
+        "The puppies toys were scattered across the living room.",
+        "The puppy's toys were scattered across the living room.",
+        "The puppys' toys were scattered across the living room."
+      ],
+      "dynamic": false,
+      "explanation": "More than one puppy owns the toys, so the apostrophe goes after the plural s: puppies'.",
+      "id": "AZG5_068",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: the apostrophe goes AFTER the s when a whole pack of dinos shares the toy!",
+      "question": "The toys belong to more than one puppy. Which sentence uses the possessive noun correctly?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ]
+    },
+    {
+      "correctAnswer": "The two friends walked to the park, and they brought their dog too.",
+      "difficulty": 1,
+      "distractors": [
+        "The too friends walked to the park, and they brought their dog to.",
+        "The two friends walked too the park, and they brought their dog two.",
+        "The to friends walked two the park, and they brought their dog too."
+      ],
+      "dynamic": false,
+      "explanation": "'Two' is the number 2, 'to' shows direction (to the park), and 'too' means 'also'.",
+      "id": "AZG5_069",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: two is a number you can count on your claws, to points the way, and too means also - roar it right!",
+      "question": "Choose the sentence that uses 'to', 'too', and 'two' correctly.",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ]
+    },
+    {
+      "correctAnswer": "Lila will bake the cupcakes tomorrow, and she will frost them before the party.",
+      "difficulty": 3,
+      "distractors": [
+        "Lila will bake the cupcakes tomorrow, and she frosted them before the party.",
+        "Lila will bake the cupcakes tomorrow, and she frosts them before the party.",
+        "Lila baked the cupcakes tomorrow, and she will frost them before the party."
+      ],
+      "dynamic": false,
+      "explanation": "Since the actions happen tomorrow, both verbs must be in the future tense: will bake and will frost.",
+      "id": "AZG5_070",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: future plans need future verbs - don't let your tenses time-travel back to yesterday!",
+      "question": "Which sentence keeps verb tense consistent throughout?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ]
+    },
+    {
+      "correctAnswer": "Evaporation, condensation, precipitation, collection",
+      "difficulty": 1,
+      "distractors": [
+        "Condensation, evaporation, collection, precipitation",
+        "Precipitation, collection, evaporation, condensation",
+        "Collection, precipitation, condensation, evaporation"
+      ],
+      "dynamic": false,
+      "explanation": "Water evaporates into the air, condenses into clouds, falls as precipitation, and collects in oceans, lakes, and rivers.",
+      "id": "AZG5_071",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: water goes UP, clumps UP, falls DOWN, then pools around, just like my dino parade marching in a circle!",
+      "question": "What is the correct order of the main stages of the water cycle?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Evaporation",
+      "difficulty": 1,
+      "distractors": [
+        "Condensation",
+        "Precipitation",
+        "Collection"
+      ],
+      "dynamic": false,
+      "explanation": "Evaporation happens when heat, usually from the sun, turns liquid water into an invisible gas called water vapor.",
+      "id": "AZG5_072",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: evaporation is water doing a disappearing act, poof, from puddle to sky!",
+      "question": "Which process turns liquid water into water vapor?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Tiny water droplets that formed when water vapor cooled and condensed",
+      "difficulty": 2,
+      "distractors": [
+        "Smoke that drifted up from the sun",
+        "Snowflakes that never learned how to fall",
+        "Water vapor that skipped the evaporation step"
+      ],
+      "dynamic": false,
+      "explanation": "When warm water vapor rises and cools high in the sky, it condenses into billions of tiny liquid droplets that we see as clouds.",
+      "id": "AZG5_073",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: clouds are just sky-puddles, water vapor that got chilly and huddled together!",
+      "question": "What are clouds mostly made of?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Weather describes short-term conditions, while climate is the average pattern over many years",
+      "difficulty": 2,
+      "distractors": [
+        "Weather is always hot and climate is always cold",
+        "Climate changes every day and weather never changes",
+        "Weather and climate are two words for the exact same thing"
+      ],
+      "dynamic": false,
+      "explanation": "Weather tells you if you need a jacket today. Climate tells you whether jackets are common in your town all winter long.",
+      "id": "AZG5_074",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: weather is my mood today, climate is my personality, and I am ALWAYS hungry!",
+      "question": "What is the difference between weather and climate?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "The hydrosphere",
+      "difficulty": 2,
+      "distractors": [
+        "The atmosphere",
+        "The geosphere",
+        "The biosphere"
+      ],
+      "dynamic": false,
+      "explanation": "Hydro means water, so the hydrosphere is the sphere of all Earth's water, whether liquid, frozen, or underground.",
+      "id": "AZG5_075",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: hydro sounds like a dino taking a bath, splash! The hydrosphere is ALL the water!",
+      "question": "Which of Earth's spheres includes all the water on Earth, such as oceans, rivers, and glaciers?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "The biosphere and the geosphere",
+      "difficulty": 3,
+      "distractors": [
+        "The hydrosphere and the atmosphere",
+        "The atmosphere and the biosphere",
+        "The geosphere and the hydrosphere"
+      ],
+      "dynamic": false,
+      "explanation": "The tree is a living thing in the biosphere, and the rock is part of the solid Earth in the geosphere. Their interaction weathers the rock.",
+      "id": "AZG5_076",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: my tree-root friends give rocks a great big dino hug until they crack, bio meets geo!",
+      "question": "Tree roots grow into cracks in a rock and split the rock apart over time. Which two of Earth's spheres are interacting?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Weathering breaks rock into smaller pieces, while erosion moves those pieces to a new place",
+      "difficulty": 2,
+      "distractors": [
+        "Erosion breaks rock apart and weathering moves the pieces",
+        "Weathering and erosion are the same process with different names",
+        "Weathering only happens in deserts and erosion only happens in rivers"
+      ],
+      "dynamic": false,
+      "explanation": "Weathering is the breaking, caused by wind, water, ice, or roots. Erosion is the moving, when wind, water, or ice carry the broken bits away.",
+      "id": "AZG5_077",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: weathering is me stomping a rock to crumbs, erosion is me kicking the crumbs across the playground!",
+      "question": "What is the difference between weathering and erosion?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "A river carrying small pebbles downstream",
+      "difficulty": 1,
+      "distractors": [
+        "Ice freezing in a crack and splitting a boulder",
+        "A metal fence slowly turning rusty",
+        "A seed sprouting into a young plant"
+      ],
+      "dynamic": false,
+      "explanation": "Erosion moves material from one place to another. The river picks up pebbles and carries them downstream.",
+      "id": "AZG5_078",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: erosion is nature's moving day, the river packs up the pebbles and hauls them downstream!",
+      "question": "Which of these is an example of erosion?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Its heat causes evaporation, lifting water into the air to start the cycle",
+      "difficulty": 3,
+      "distractors": [
+        "It melts clouds, and the melted cloud drips become rain",
+        "It pulls water upward using the force of gravity",
+        "It cools the ocean so water can rise more easily"
+      ],
+      "dynamic": false,
+      "explanation": "The sun heats oceans, lakes, and rivers, turning liquid water into water vapor. Without the sun's heat, the water cycle would stall.",
+      "id": "AZG5_079",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: the sun is the water cycle's engine, revving up heat so water can zoom skyward!",
+      "question": "What role does the sun play in the water cycle?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Sunlight strikes the equator more directly, so it heats the ground more strongly",
+      "difficulty": 3,
+      "distractors": [
+        "The equator is much closer to the sun than the poles",
+        "The North Pole has thicker clouds that block all sunlight",
+        "Strong winds blow all the warm air to the equator"
+      ],
+      "dynamic": false,
+      "explanation": "Earth is curved, so the sun's rays hit the equator head-on and spread out weakly near the poles. Direct rays carry more heating power.",
+      "id": "AZG5_080",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: the equator gets the sun's full dino-roar beam, while the poles only get a chilly whisper!",
+      "question": "Why is the weather near the equator usually warmer than near the North Pole?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "It makes its own food using sunlight, like a plant",
+      "difficulty": 1,
+      "distractors": [
+        "It eats other animals for energy",
+        "It hunts plants for food",
+        "It breaks down rocks into soil"
+      ],
+      "dynamic": false,
+      "explanation": "Producers are organisms like plants and algae that make their own food using sunlight, water, and air. Consumers eat other living things, and decomposers break down dead matter.",
+      "id": "AZG5_081",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: producers are the chefs of nature - they cook up food from pure sunshine!",
+      "question": "In a food chain, what is the role of a producer?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Life Science"
+      ]
+    },
+    {
+      "correctAnswer": "A mushroom growing on a fallen tree log",
+      "difficulty": 2,
+      "distractors": [
+        "A lizard catching a beetle to eat",
+        "A flower growing from a seed",
+        "A fox drinking from a stream"
+      ],
+      "dynamic": false,
+      "explanation": "A decomposer, like a mushroom or bacteria, breaks down dead plants and animals and returns their nutrients to the soil so new plants can grow. That keeps the matter cycle turning.",
+      "id": "AZG5_082",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: decomposers are nature's cleanup crew - they turn leftovers back into treasure for plants!",
+      "question": "Which of these shows a decomposer doing its job?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Life Science"
+      ]
+    },
+    {
+      "correctAnswer": "Water, air, and food or nutrients",
+      "difficulty": 1,
+      "distractors": [
+        "Only food and water",
+        "Only sunlight and soil",
+        "Only air and shelter"
+      ],
+      "dynamic": false,
+      "explanation": "All living things need food or nutrients for energy, water, and air (or gases from air) to survive. A plant uses sunlight, water, and carbon dioxide from air; an animal needs food, water, and oxygen.",
+      "id": "AZG5_083",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: plants and animals are like dinosaurs - everybody needs a meal, a drink, and fresh air!",
+      "question": "Which three things do both plants and animals need to survive?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Life Science"
+      ]
+    },
+    {
+      "correctAnswer": "A food chain shows one path of energy, while a food web shows many connected paths",
+      "difficulty": 3,
+      "distractors": [
+        "A food chain shows many branching feeding paths, and a food web shows just one",
+        "A food chain and a food web are exactly the same diagram",
+        "A food chain shows only decomposers, and a food web shows only predators"
+      ],
+      "dynamic": false,
+      "explanation": "A food chain is one straight path of energy from producer to consumers. A food web connects many food chains, showing all the feeding relationships in an ecosystem at once.",
+      "id": "AZG5_084",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: a food chain is a single line of hungry dinosaurs, but a food web is the whole dino party!",
+      "question": "What is the difference between a food chain and a food web?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Life Science"
+      ]
+    },
+    {
+      "correctAnswer": "A primary consumer, because it eats the grass producer",
+      "difficulty": 2,
+      "distractors": [
+        "A producer, because it eats grass to make food",
+        "A decomposer, because it breaks down dead grass",
+        "A secondary consumer, because it is eaten by the snake"
+      ],
+      "dynamic": false,
+      "explanation": "A primary consumer eats a producer. The rabbit eats the grass (the producer), so it is a primary consumer. The snake and hawk are higher-level consumers, not decomposers or producers.",
+      "id": "AZG5_085",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: follow the munch trail - the producer gets eaten first, then everybody else piles on!",
+      "question": "In the food chain grass -> rabbit -> snake -> hawk, what is the rabbit?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Life Science"
+      ]
+    },
+    {
+      "correctAnswer": "The large ears release body heat and help the fox stay cool",
+      "difficulty": 2,
+      "distractors": [
+        "To help it blend in with the snow",
+        "To make it run faster in the heat",
+        "To attract mates with bright color"
+      ],
+      "dynamic": false,
+      "explanation": "The fennec fox's huge ears have many tiny blood vessels that release body heat, which keeps the fox cool in the hot desert. This is a structural adaptation to its habitat.",
+      "id": "AZG5_086",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: those giant ears are like built-in air conditioners - cool ears for a hot desert!",
+      "question": "Why is a fennec fox's very large ears an adaptation for living in the desert?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Life Science"
+      ]
+    },
+    {
+      "correctAnswer": "The rabbit population would shrink because more snakes would hunt them",
+      "difficulty": 3,
+      "distractors": [
+        "The rabbit population would grow because fewer predators would hunt them",
+        "The snakes would disappear because they lost their food",
+        "The grass would disappear because no one would eat it"
+      ],
+      "dynamic": false,
+      "explanation": "In the food web, hawks keep the snake population in check. If hawks were removed, snakes would lose their main predator and increase. More snakes would then hunt more rabbits, so the rabbit population would likely drop.",
+      "id": "AZG5_087",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: pull one dino out of the web and the whole tangle wiggles - nature is all connected!",
+      "question": "In a desert food web, hawks eat snakes, snakes eat rabbits, and rabbits eat grass. If all hawks were removed, what would most likely happen to the rabbits?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Life Science"
+      ]
+    },
+    {
+      "correctAnswer": "A desert with cacti, lizards, rocks, soil, sunlight, and rain",
+      "difficulty": 1,
+      "distractors": [
+        "A single rabbit",
+        "A single saguaro cactus",
+        "One rattlesnake"
+      ],
+      "dynamic": false,
+      "explanation": "An ecosystem includes all the living things in an area plus the nonliving things they interact with, like water, sunlight, air, and soil. A single animal or plant by itself is not a whole ecosystem.",
+      "id": "AZG5_088",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: an ecosystem is the whole neighborhood - houses, neighbors, and the weather too!",
+      "question": "Which of these is an example of an ecosystem?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Life Science"
+      ]
+    },
+    {
+      "correctAnswer": "Decomposers break down the leaves, returning nutrients to the soil for new plants",
+      "difficulty": 2,
+      "distractors": [
+        "Plants give the dead leaves back to the sun",
+        "Dead leaves turn into sunlight for new plants",
+        "Decomposers carry the leaves away to another ecosystem"
+      ],
+      "dynamic": false,
+      "explanation": "When leaves fall and die, decomposers like fungi and bacteria break them down. The nutrients in the leaves go back into the soil, and plant roots take them up to grow new leaves. This is matter cycling through the ecosystem.",
+      "id": "AZG5_089",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: fallen leaves don't vanish - nature recycles them like a dino-sized compost bin!",
+      "question": "How does matter cycle when a tree's leaves fall to the ground and decay?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Life Science"
+      ]
+    },
+    {
+      "correctAnswer": "Its thick tail, which stores fat for energy and water",
+      "difficulty": 3,
+      "distractors": [
+        "Its long legs, which help it run in the desert",
+        "Its sandy fur color, which helps it hide",
+        "Its large ears, which help it hear prey"
+      ],
+      "dynamic": false,
+      "explanation": "The jerboa's thick tail stores fat, and the body can break that fat down for energy and water during long stretches with little food or drink. Sandy fur helps the jerboa hide, long legs help it move, and large ears help it hear - but only the stored fat provides energy and water between meals.",
+      "id": "AZG5_090",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: a fat tail is a jerboa's lunchbox and water bottle rolled into one!",
+      "question": "A jerboa is a small desert rodent. Which adaptation helps it meet its survival needs during long stretches with little food or water?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Life Science"
+      ]
+    },
+    {
+      "correctAnswer": "They gain energy, move faster, and spread out as a gas",
+      "difficulty": 1,
+      "distractors": [
+        "They disappear into nothing",
+        "They sink down into the ground as liquid",
+        "They turn into a new kind of matter"
+      ],
+      "dynamic": false,
+      "explanation": "Heat from the sun gives water particles more energy, so they move faster and escape into the air as water vapor. The matter does not disappear; it changes state.",
+      "id": "AZG5_091",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: evaporation is particles bouncing away like dinos escaping a splashy puddle party!",
+      "question": "What happens to the particles of a puddle as it evaporates into the air on a hot day?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Physical Science"
+      ]
+    },
+    {
+      "correctAnswer": "It absorbs heat from her hand and changes from solid to liquid",
+      "difficulty": 1,
+      "distractors": [
+        "It releases cold into the air and changes to a gas",
+        "It absorbs heat and changes directly into a gas",
+        "The matter in the ice cube is destroyed as it melts"
+      ],
+      "dynamic": false,
+      "explanation": "Melting happens when a solid absorbs enough heat energy for its particles to break out of their fixed pattern and flow as a liquid. The water is still there, just in a different state.",
+      "id": "AZG5_092",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: melting ice is like dinos wiggling loose from a frozen conga line!",
+      "question": "Maya holds a melting ice cube in her hand. Which statement best describes what is happening to the ice?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Physical Science"
+      ]
+    },
+    {
+      "correctAnswer": "Weight depends on gravity, while mass is the amount of matter and does not change",
+      "difficulty": 2,
+      "distractors": [
+        "Weight and mass are the same thing, so both change",
+        "Mass depends on gravity, while weight stays the same everywhere",
+        "Both weight and mass disappear when gravity is weaker"
+      ],
+      "dynamic": false,
+      "explanation": "Mass is how much matter an object contains, which is the same everywhere. Weight is the pull of gravity on that matter, so weaker Moon gravity means less weight but the same mass.",
+      "id": "AZG5_093",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: mass is how much dino you are - weight is how hard a planet hugs you!",
+      "question": "An astronaut weighs less on the Moon than on Earth, but her mass stays the same. What does this show about weight and mass?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Physical Science"
+      ]
+    },
+    {
+      "correctAnswer": "Gravity pulls all objects equally, and with no air there is no air resistance to slow the feather",
+      "difficulty": 2,
+      "distractors": [
+        "Gravity pulls harder on the feather without air in the way",
+        "The feather becomes heavier inside the empty tube",
+        "Gravity only acts on heavy objects, but the tube makes the feather heavy"
+      ],
+      "dynamic": false,
+      "explanation": "Gravity accelerates every object at the same rate. In everyday air, the feather's shape lets air resistance slow it down; remove the air and both fall together.",
+      "id": "AZG5_094",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: in a no-air tube, a feather and a dino egg race to the ground neck and neck!",
+      "question": "Why do a feather and a rock fall at the same speed when dropped inside a tube with all the air removed?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Physical Science"
+      ]
+    },
+    {
+      "correctAnswer": "An inclined plane",
+      "difficulty": 1,
+      "distractors": [
+        "A lever",
+        "A pulley",
+        "A screw"
+      ],
+      "dynamic": false,
+      "explanation": "An inclined plane is a sloped surface that spreads the lifting effort over a longer distance, so rolling the rock up a ramp takes less force than lifting it straight up.",
+      "id": "AZG5_095",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: a ramp is a hill that helps dinos roll boulders without the heavy lifting!",
+      "question": "You need to lift a heavy rock onto a truck bed. Which simple machine lets you roll the rock up instead of lifting it straight up?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Physical Science"
+      ]
+    },
+    {
+      "correctAnswer": "The lighter kid sits farther from the pivot point, so a smaller force over a longer distance balances the heavier side",
+      "difficulty": 3,
+      "distractors": [
+        "The lever removes the weight of the heavier kid",
+        "The lever changes the heavier kid into a lighter kid",
+        "The lever works because gravity stops pulling on the lighter side"
+      ],
+      "dynamic": false,
+      "explanation": "A lever has a pivot point called a fulcrum. Pushing farther from the fulcrum multiplies the force, so a small effort far from the pivot can lift a larger load close to the pivot.",
+      "id": "AZG5_096",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: levers are dino teamwork - tiny push far from the middle lifts a giant dino!",
+      "question": "A seesaw is an example of a lever. How does the lever make it easier to lift the heavier kid on the other end?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Physical Science"
+      ]
+    },
+    {
+      "correctAnswer": "It changes the direction of the force, letting the person pull down instead of lifting up",
+      "difficulty": 2,
+      "distractors": [
+        "It makes the flag weigh less than it really does",
+        "It creates extra energy so the flag rises by itself",
+        "It turns the pulling motion into heat energy"
+      ],
+      "dynamic": false,
+      "explanation": "The wheel at the top is a pulley. A single fixed pulley does not multiply force; it redirects it, so pulling down on the rope lifts the flag up.",
+      "id": "AZG5_097",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: a pulley is a wheel that flips your pull - down goes your arms, up goes the flag!",
+      "question": "A flag is raised to the top of a pole by pulling down on a rope. What does the simple machine at the top of the pole do?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Physical Science"
+      ]
+    },
+    {
+      "correctAnswer": "A campfire - heat and light; a drum - sound; a rolling ball - motion",
+      "difficulty": 2,
+      "distractors": [
+        "A campfire - sound; a drum - heat; a rolling ball - light",
+        "A campfire - motion; a drum - light; a rolling ball - heat",
+        "A campfire - light only; a drum - motion; a rolling ball - sound"
+      ],
+      "dynamic": false,
+      "explanation": "A campfire releases heat and light energy, a drum's vibrating skin produces sound energy, and a moving ball carries kinetic (motion) energy.",
+      "id": "AZG5_098",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: fire warms, drums boom, and rolling boulders go - dinos love every kind of energy!",
+      "question": "Which pair correctly matches each example to the main form of energy it gives off?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Physical Science"
+      ]
+    },
+    {
+      "correctAnswer": "The plastic spoon held onto static electric charge, while the metal spoon let the charge flow away",
+      "difficulty": 3,
+      "distractors": [
+        "The plastic spoon became a magnet and the metal spoon did not",
+        "The metal spoon absorbed the paper's gravity",
+        "The plastic spoon gained extra mass from the rubbing"
+      ],
+      "dynamic": false,
+      "explanation": "Rubbing builds up static electricity. Plastic is an insulator, so the charge stays on it and attracts the paper. Metal is a conductor, so the charge quickly flows off through the student's hand.",
+      "id": "AZG5_099",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: plastic holds its zap like a dino hoarding snacks - metal shares it and the zap slips away!",
+      "question": "A student rubs a metal spoon and a plastic spoon with the same cloth, then holds each near tiny paper bits. Only the plastic spoon picks up the paper. What explains this?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Physical Science"
+      ]
+    },
+    {
+      "correctAnswer": "The mass stays exactly the same, because matter is conserved in a sealed container",
+      "difficulty": 3,
+      "distractors": [
+        "The mass decreases because steam weighs nothing",
+        "The mass increases because warm air enters through the glass",
+        "The mass changes because melting and boiling create new matter"
+      ],
+      "dynamic": false,
+      "explanation": "In a sealed jar nothing enters or leaves, so the total mass is conserved no matter how the water changes state. Phase changes rearrange particles; they never create or destroy matter.",
+      "id": "AZG5_100",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: sealed jar, same stuff - dinos count their snacks before AND after the melt!",
+      "question": "A sealed glass jar contains ice, water, and steam all at once. If the jar is left in a warm room until everything inside becomes the same temperature, what can you conclude about the total mass inside the jar?",
+      "source": "TReps Arizona Grade 5",
+      "tags": [
+        "Science",
+        "Physical Science"
+      ]
+    }
+  ]
+}

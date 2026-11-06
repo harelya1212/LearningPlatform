@@ -1,0 +1,1918 @@
+{
+  "packId": "ella-ap-physics-1",
+  "title": "AP Physics 1 (11th Grade)",
+  "description": "AP Physics 1 (11th) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-04",
+  "tags": [
+    "science",
+    "physics",
+    "ap",
+    "11th"
+  ],
+  "questions": [
+    {
+      "id": "EPHY_001",
+      "question": "A car travels 60 meters in 4 seconds at constant velocity. What is its velocity?",
+      "correctAnswer": "15 m/s",
+      "distractors": [
+        "24 m/s",
+        "240 m/s",
+        "0.067 m/s"
+      ],
+      "explanation": "Velocity = displacement / time = 60 m / 4 s = 15 m/s.",
+      "memoryHook": "T-Rexy says: Divide distance by time to find velocity.",
+      "imageUrl": "topic:velocity",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_002",
+      "question": "An object starts from rest and accelerates at 2 m/s^2 for 5 seconds. What is its final velocity?",
+      "correctAnswer": "10 m/s",
+      "distractors": [
+        "2.5 m/s",
+        "7 m/s",
+        "25 m/s"
+      ],
+      "explanation": "v = v0 + at = 0 + (2)(5) = 10 m/s.",
+      "memoryHook": "T-Rexy says: Multiply acceleration by time when starting from rest.",
+      "imageUrl": "topic:acceleration",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_003",
+      "question": "Which graph represents constant acceleration?",
+      "correctAnswer": "A velocity-time graph with a straight sloped line",
+      "distractors": [
+        "A position-time graph with a horizontal line",
+        "A velocity-time graph with a horizontal line",
+        "An acceleration-time graph with a curved line"
+      ],
+      "explanation": "Constant acceleration means velocity changes at a steady rate, so the v-t graph is a straight line with constant slope.",
+      "memoryHook": "T-Rexy says: Constant acceleration means a straight sloped v-t line.",
+      "imageUrl": "topic:graphs",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_004",
+      "question": "A ball is dropped from rest. Ignoring air resistance, how far does it fall in 2 seconds? (g = 10 m/s^2)",
+      "correctAnswer": "20 m",
+      "distractors": [
+        "10 m",
+        "40 m",
+        "5 m"
+      ],
+      "explanation": "d = (1/2)gt^2 = (1/2)(10)(4) = 20 m.",
+      "memoryHook": "T-Rexy says: Half g times time squared gives the fall distance.",
+      "imageUrl": "topic:free-fall",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_005",
+      "question": "A projectile is launched horizontally from a cliff. What is its initial vertical velocity?",
+      "correctAnswer": "0 m/s",
+      "distractors": [
+        "Equal to its horizontal velocity",
+        "9.8 m/s downward",
+        "Depends on the cliff height"
+      ],
+      "explanation": "Horizontal launch means the initial velocity is purely horizontal; the vertical component starts at zero.",
+      "memoryHook": "T-Rexy says: Horizontal launch starts with zero vertical speed.",
+      "imageUrl": "topic:projectile",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_006",
+      "question": "In projectile motion without air resistance, the horizontal velocity:",
+      "correctAnswer": "Remains constant",
+      "distractors": [
+        "Decreases steadily",
+        "Increases steadily",
+        "Becomes zero at the top"
+      ],
+      "explanation": "No horizontal force acts, so horizontal velocity never changes.",
+      "memoryHook": "T-Rexy says: No horizontal force means no horizontal change.",
+      "imageUrl": "topic:projectile",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_007",
+      "question": "At the top of its trajectory, a projectile's vertical velocity is:",
+      "correctAnswer": "0 m/s",
+      "distractors": [
+        "Equal to its launch velocity",
+        "Maximum",
+        "9.8 m/s"
+      ],
+      "explanation": "At the peak, the object momentarily stops moving vertically before falling back down.",
+      "memoryHook": "T-Rexy says: The peak is where vertical motion pauses.",
+      "imageUrl": "topic:projectile",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_008",
+      "question": "A car accelerates from 10 m/s to 30 m/s in 4 seconds. What is its acceleration?",
+      "correctAnswer": "5 m/s^2",
+      "distractors": [
+        "20 m/s^2",
+        "2.5 m/s^2",
+        "8 m/s^2"
+      ],
+      "explanation": "a = (v - v0)/t = (30 - 10)/4 = 5 m/s^2.",
+      "memoryHook": "T-Rexy says: Change in velocity divided by time is acceleration.",
+      "imageUrl": "topic:acceleration",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_009",
+      "question": "What is the SI unit of acceleration?",
+      "correctAnswer": "m/s^2",
+      "distractors": [
+        "m/s",
+        "N",
+        "kg"
+      ],
+      "explanation": "Acceleration is change in velocity per time, so meters per second squared.",
+      "memoryHook": "T-Rexy says: Acceleration units are meters per second squared.",
+      "imageUrl": "topic:units",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_010",
+      "question": "An object moves with constant velocity. Its acceleration is:",
+      "correctAnswer": "0 m/s^2",
+      "distractors": [
+        "Equal to its velocity",
+        "9.8 m/s^2",
+        "Increasing"
+      ],
+      "explanation": "Constant velocity means no change in velocity, so acceleration is zero.",
+      "memoryHook": "T-Rexy says: No change in velocity means zero acceleration.",
+      "imageUrl": "topic:acceleration",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_011",
+      "question": "A stone is thrown upward at 20 m/s. How long until it reaches its highest point? (g = 10 m/s^2)",
+      "correctAnswer": "2 s",
+      "distractors": [
+        "4 s",
+        "1 s",
+        "20 s"
+      ],
+      "explanation": "t = v/g = 20/10 = 2 s at the top where v = 0.",
+      "memoryHook": "T-Rexy says: Launch speed divided by g gives time to the top.",
+      "imageUrl": "topic:free-fall",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_012",
+      "question": "Two balls are dropped from the same height at the same time, one twice as heavy. Ignoring air resistance, they hit the ground:",
+      "correctAnswer": "At the same time",
+      "distractors": [
+        "The heavier one first",
+        "The lighter one first",
+        "It depends on their shape"
+      ],
+      "explanation": "Mass does not affect free-fall acceleration; both accelerate at g.",
+      "memoryHook": "T-Rexy says: Mass does not matter in free fall.",
+      "imageUrl": "topic:free-fall",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_013",
+      "question": "A car travels 100 m in 5 s, then 100 m in 10 s. Its average velocity over the whole trip is:",
+      "correctAnswer": "13.3 m/s",
+      "distractors": [
+        "20 m/s",
+        "10 m/s",
+        "15 m/s"
+      ],
+      "explanation": "Average velocity is total displacement divided by total time. The car keeps moving the same way, so displacement is 100 + 100 = 200 m and time is 5 + 10 = 15 s: 200 / 15 = 13.3 m/s. Do not average 20 m/s and 10 m/s - the car spends longer at the slower speed.",
+      "memoryHook": "T-Rexy says: Total displacement over total time, not an average of speeds.",
+      "imageUrl": "topic:velocity",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_014",
+      "question": "The area under a velocity-time graph gives:",
+      "correctAnswer": "Displacement",
+      "distractors": [
+        "Acceleration",
+        "Force",
+        "Jerk"
+      ],
+      "explanation": "Area under v-t = velocity times time = displacement.",
+      "memoryHook": "T-Rexy says: Area under v-t is displacement.",
+      "imageUrl": "topic:graphs",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_015",
+      "question": "The slope of a position-time graph gives:",
+      "correctAnswer": "Velocity",
+      "distractors": [
+        "Acceleration",
+        "Displacement",
+        "Force"
+      ],
+      "explanation": "Slope of x-t = change in position over time = velocity.",
+      "memoryHook": "T-Rexy says: Slope of position-time is velocity.",
+      "imageUrl": "topic:graphs",
+      "tags": [
+        "kinematics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_016",
+      "question": "Newton's first law is also called the law of:",
+      "correctAnswer": "Inertia",
+      "distractors": [
+        "Action-reaction",
+        "Gravitation",
+        "Conservation of energy"
+      ],
+      "explanation": "The first law states objects resist changes in motion, which is inertia.",
+      "memoryHook": "T-Rexy says: First law equals inertia.",
+      "imageUrl": "topic:newton-laws",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_017",
+      "question": "A net force of 20 N acts on a 4 kg mass. Its acceleration is:",
+      "correctAnswer": "5 m/s^2",
+      "distractors": [
+        "80 m/s^2",
+        "0.2 m/s^2",
+        "24 m/s^2"
+      ],
+      "explanation": "a = F/m = 20/4 = 5 m/s^2.",
+      "memoryHook": "T-Rexy says: Force divided by mass is acceleration.",
+      "imageUrl": "topic:newton-laws",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_018",
+      "question": "Newton's third law states that forces always occur in:",
+      "correctAnswer": "Equal and opposite pairs",
+      "distractors": [
+        "The same direction",
+        "Proportional to mass",
+        "The direction of motion"
+      ],
+      "explanation": "For every action there is an equal and opposite reaction.",
+      "memoryHook": "T-Rexy says: Action-reaction pairs are equal and opposite.",
+      "imageUrl": "topic:newton-laws",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_019",
+      "question": "The weight of a 10 kg object on Earth (g = 10 m/s^2) is:",
+      "correctAnswer": "100 N",
+      "distractors": [
+        "10 N",
+        "1 N",
+        "1000 N"
+      ],
+      "explanation": "Weight = mg = (10)(10) = 100 N.",
+      "memoryHook": "T-Rexy says: Weight is mass times g.",
+      "imageUrl": "topic:forces",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_020",
+      "question": "What is the SI unit of force?",
+      "correctAnswer": "Newton",
+      "distractors": [
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "explanation": "Force is measured in newtons (N). From F = ma, 1 N is the force that gives 1 kg an acceleration of 1 m/s^2, so 1 N = 1 kg m/s^2.",
+      "memoryHook": "T-Rexy says: Force is measured in newtons.",
+      "imageUrl": "topic:units",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_021",
+      "question": "A book rests on a table. The normal force on the book is:",
+      "correctAnswer": "Equal to its weight, upward",
+      "distractors": [
+        "Equal to its weight, downward",
+        "Zero",
+        "Twice its weight"
+      ],
+      "explanation": "The table pushes up with a force equal to the book's weight, balancing it.",
+      "memoryHook": "T-Rexy says: The table pushes up exactly as hard as gravity pulls down.",
+      "imageUrl": "topic:forces",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_022",
+      "question": "Friction always acts in a direction:",
+      "correctAnswer": "Opposite to motion or attempted motion",
+      "distractors": [
+        "In the direction of motion",
+        "Perpendicular to the surface",
+        "Downward"
+      ],
+      "explanation": "Friction opposes relative motion between surfaces.",
+      "memoryHook": "T-Rexy says: Friction fights motion.",
+      "imageUrl": "topic:friction",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_023",
+      "question": "Static friction is generally:",
+      "correctAnswer": "Greater than kinetic friction",
+      "distractors": [
+        "Less than kinetic friction",
+        "Equal to kinetic friction",
+        "Zero"
+      ],
+      "explanation": "It takes more force to start motion than to maintain it.",
+      "memoryHook": "T-Rexy says: Starting is harder than sliding.",
+      "imageUrl": "topic:friction",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_024",
+      "question": "A 5 kg block is pulled with 30 N of force and friction is 10 N. Its acceleration is:",
+      "correctAnswer": "4 m/s^2",
+      "distractors": [
+        "6 m/s^2",
+        "2 m/s^2",
+        "8 m/s^2"
+      ],
+      "explanation": "Net force = 30 - 10 = 20 N; a = 20/5 = 4 m/s^2.",
+      "memoryHook": "T-Rexy says: Subtract friction first, then divide by mass.",
+      "imageUrl": "topic:newton-laws",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_025",
+      "question": "An object in free fall experiences only:",
+      "correctAnswer": "Gravity",
+      "distractors": [
+        "Air resistance",
+        "Normal force",
+        "Tension"
+      ],
+      "explanation": "Free fall means gravity is the only force acting.",
+      "memoryHook": "T-Rexy says: Free fall means gravity alone.",
+      "imageUrl": "topic:forces",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_026",
+      "question": "The coefficient of friction depends on:",
+      "correctAnswer": "The materials of the surfaces",
+      "distractors": [
+        "The mass of the object",
+        "The speed of the object",
+        "The area of contact"
+      ],
+      "explanation": "Mu is a property of the two surfaces in contact.",
+      "memoryHook": "T-Rexy says: Friction coefficient is about the materials.",
+      "imageUrl": "topic:friction",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_027",
+      "question": "If the net force on an object doubles and mass stays the same, acceleration:",
+      "correctAnswer": "Doubles",
+      "distractors": [
+        "Halves",
+        "Stays the same",
+        "Quadruples"
+      ],
+      "explanation": "From F = ma, acceleration is proportional to net force.",
+      "memoryHook": "T-Rexy says: Double the force, double the acceleration.",
+      "imageUrl": "topic:newton-laws",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_028",
+      "question": "A person pushes a wall with 50 N. The wall pushes back with:",
+      "correctAnswer": "50 N",
+      "distractors": [
+        "0 N",
+        "100 N",
+        "25 N"
+      ],
+      "explanation": "Newton's third law: the reaction is equal in magnitude.",
+      "memoryHook": "T-Rexy says: The wall pushes back equally.",
+      "imageUrl": "topic:newton-laws",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_029",
+      "question": "Tension in a rope pulling a hanging mass at rest equals:",
+      "correctAnswer": "The weight of the mass",
+      "distractors": [
+        "Zero",
+        "Twice the weight",
+        "Half the weight"
+      ],
+      "explanation": "At rest, tension balances weight exactly.",
+      "memoryHook": "T-Rexy says: At rest, tension equals weight.",
+      "imageUrl": "topic:forces",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_030",
+      "question": "In an elevator accelerating upward, your apparent weight:",
+      "correctAnswer": "Increases",
+      "distractors": [
+        "Decreases",
+        "Stays the same",
+        "Becomes zero"
+      ],
+      "explanation": "The floor must push harder to accelerate you upward, so the normal force increases.",
+      "memoryHook": "T-Rexy says: Upward acceleration feels heavier.",
+      "imageUrl": "topic:forces",
+      "tags": [
+        "dynamics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_031",
+      "question": "Centripetal acceleration always points:",
+      "correctAnswer": "Toward the center of the circle",
+      "distractors": [
+        "Away from the center",
+        "Along the velocity",
+        "Opposite the velocity"
+      ],
+      "explanation": "Centripetal acceleration comes from the change in the direction of velocity as the object moves around the circle. That change points toward the center, so a_c = v^2/r is always directed toward the center.",
+      "memoryHook": "T-Rexy says: Centripetal points to the center.",
+      "imageUrl": "topic:circular",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_032",
+      "question": "The formula for centripetal acceleration is:",
+      "correctAnswer": "v^2/r",
+      "distractors": [
+        "v/r",
+        "mv^2",
+        "2(pi)r/T"
+      ],
+      "explanation": "Centripetal acceleration grows with the square of the tangential speed and shrinks with radius: a_c = v^2/r. Check the units: (m/s)^2 / m = m/s^2, as an acceleration must be.",
+      "memoryHook": "T-Rexy says: Centripetal acceleration is speed squared over radius.",
+      "imageUrl": "topic:circular",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_033",
+      "question": "A car rounds a curve at constant speed. Its acceleration is:",
+      "correctAnswer": "Nonzero, toward the center",
+      "distractors": [
+        "Zero",
+        "In the direction of motion",
+        "Away from the center"
+      ],
+      "explanation": "Direction changes even at constant speed, so there is centripetal acceleration.",
+      "memoryHook": "T-Rexy says: Turning means accelerating even at constant speed.",
+      "imageUrl": "topic:circular",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_034",
+      "question": "If speed doubles while radius stays the same, centripetal force:",
+      "correctAnswer": "Quadruples",
+      "distractors": [
+        "Doubles",
+        "Halves",
+        "Stays the same"
+      ],
+      "explanation": "F = mv^2/r, so doubling v quadruples F.",
+      "memoryHook": "T-Rexy says: Speed squared means double speed, four times force.",
+      "imageUrl": "topic:circular",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_035",
+      "question": "The period of uniform circular motion is:",
+      "correctAnswer": "Time for one complete revolution",
+      "distractors": [
+        "Number of revolutions per second",
+        "The radius of the circle",
+        "The speed of the object"
+      ],
+      "explanation": "The period T is the time for one complete revolution. Its partner is frequency: f = 1/T, the number of revolutions per second, so T = 2(pi)r/v for motion at speed v around a circle of radius r.",
+      "memoryHook": "T-Rexy says: Period is time per revolution.",
+      "imageUrl": "topic:circular",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_036",
+      "question": "Newton's law of universal gravitation states force is proportional to:",
+      "correctAnswer": "The product of the masses divided by distance squared",
+      "distractors": [
+        "The sum of the masses",
+        "Distance",
+        "The larger mass only"
+      ],
+      "explanation": "F = G(m1m2)/r^2.",
+      "memoryHook": "T-Rexy says: Gravity follows an inverse-square law.",
+      "imageUrl": "topic:gravitation",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_037",
+      "question": "If the distance between two masses doubles, gravitational force becomes:",
+      "correctAnswer": "One-fourth",
+      "distractors": [
+        "One-half",
+        "Double",
+        "Four times"
+      ],
+      "explanation": "Inverse-square: doubling r divides force by 4.",
+      "memoryHook": "T-Rexy says: Double the distance, quarter the gravity.",
+      "imageUrl": "topic:gravitation",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_038",
+      "question": "A satellite in circular orbit has its centripetal force provided by:",
+      "correctAnswer": "Gravity",
+      "distractors": [
+        "Thrust",
+        "Air resistance",
+        "Centrifugal force"
+      ],
+      "explanation": "Gravity pulls the satellite toward Earth, keeping it in orbit.",
+      "memoryHook": "T-Rexy says: Orbit is gravity acting as centripetal force.",
+      "imageUrl": "topic:gravitation",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_039",
+      "question": "Geosynchronous satellites orbit with a period of:",
+      "correctAnswer": "24 hours",
+      "distractors": [
+        "1 hour",
+        "12 hours",
+        "1 year"
+      ],
+      "explanation": "They stay above the same spot on Earth, matching Earth's rotation period.",
+      "memoryHook": "T-Rexy says: Geosynchronous means matching Earth's day.",
+      "imageUrl": "topic:gravitation",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_040",
+      "question": "The gravitational field strength g at Earth's surface is approximately:",
+      "correctAnswer": "9.8 N/kg",
+      "distractors": [
+        "1 N/kg",
+        "6.67 N/kg",
+        "100 N/kg"
+      ],
+      "explanation": "g = 9.8 m/s^2, equivalently 9.8 N/kg.",
+      "memoryHook": "T-Rexy says: g is about 9.8 newtons per kilogram.",
+      "imageUrl": "topic:gravitation",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_041",
+      "question": "The SI unit of energy is the:",
+      "correctAnswer": "Joule",
+      "distractors": [
+        "Newton",
+        "Watt",
+        "Volt"
+      ],
+      "explanation": "Energy is measured in joules (J). One joule is the work done by a 1 N force moving an object 1 m in the force direction, so 1 J = 1 N m.",
+      "memoryHook": "T-Rexy says: Energy is measured in joules.",
+      "imageUrl": "topic:units",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_042",
+      "question": "Kinetic energy depends on:",
+      "correctAnswer": "Mass and speed squared",
+      "distractors": [
+        "Mass only",
+        "Speed only",
+        "Height"
+      ],
+      "explanation": "KE = (1/2)mv^2.",
+      "memoryHook": "T-Rexy says: Kinetic energy is half mass times speed squared.",
+      "imageUrl": "topic:energy",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_043",
+      "question": "A 2 kg object moving at 3 m/s has kinetic energy of:",
+      "correctAnswer": "9 J",
+      "distractors": [
+        "6 J",
+        "18 J",
+        "3 J"
+      ],
+      "explanation": "KE = (1/2)(2)(9) = 9 J.",
+      "memoryHook": "T-Rexy says: Half mass times speed squared.",
+      "imageUrl": "topic:energy",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_044",
+      "question": "Gravitational potential energy near Earth is:",
+      "correctAnswer": "mgh",
+      "distractors": [
+        "mv^2",
+        "kx^2",
+        "Fd"
+      ],
+      "explanation": "PE = mgh for height h above a reference.",
+      "memoryHook": "T-Rexy says: Potential energy is mass times g times height.",
+      "imageUrl": "topic:energy",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_045",
+      "question": "Work is defined as:",
+      "correctAnswer": "Force times displacement in the direction of the force",
+      "distractors": [
+        "Force divided by time",
+        "Mass times acceleration",
+        "Energy divided by time"
+      ],
+      "explanation": "W = Fd cos(theta).",
+      "memoryHook": "T-Rexy says: Work is force along the displacement.",
+      "imageUrl": "topic:work",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_046",
+      "question": "If a force acts perpendicular to displacement, the work done is:",
+      "correctAnswer": "Zero",
+      "distractors": [
+        "Maximum",
+        "Negative",
+        "Equal to the force"
+      ],
+      "explanation": "cos(90 deg) = 0, so W = 0.",
+      "memoryHook": "T-Rexy says: Perpendicular force does no work.",
+      "imageUrl": "topic:work",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_047",
+      "question": "Power is:",
+      "correctAnswer": "Work divided by time",
+      "distractors": [
+        "Force times distance",
+        "Energy times time",
+        "Mass times velocity"
+      ],
+      "explanation": "P = W/t.",
+      "memoryHook": "T-Rexy says: Power is work per time.",
+      "imageUrl": "topic:power",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_048",
+      "question": "The SI unit of power is the:",
+      "correctAnswer": "Watt",
+      "distractors": [
+        "Joule",
+        "Newton",
+        "Horsepower"
+      ],
+      "explanation": "Power is measured in watts (W). One watt is one joule of work done per second, so 1 W = 1 J/s.",
+      "memoryHook": "T-Rexy says: Power is measured in watts.",
+      "imageUrl": "topic:units",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_049",
+      "question": "A machine does 100 J of work in 5 seconds. Its power is:",
+      "correctAnswer": "20 W",
+      "distractors": [
+        "500 W",
+        "5 W",
+        "0.05 W"
+      ],
+      "explanation": "P = 100/5 = 20 W.",
+      "memoryHook": "T-Rexy says: Work divided by time is power.",
+      "imageUrl": "topic:power",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_050",
+      "question": "The work-energy theorem states that net work equals:",
+      "correctAnswer": "Change in kinetic energy",
+      "distractors": [
+        "Change in potential energy",
+        "Total energy",
+        "Momentum"
+      ],
+      "explanation": "W_net = delta KE.",
+      "memoryHook": "T-Rexy says: Net work changes kinetic energy.",
+      "imageUrl": "topic:work",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_051",
+      "question": "In a closed system with only conservative forces, mechanical energy is:",
+      "correctAnswer": "Conserved",
+      "distractors": [
+        "Always increasing",
+        "Always decreasing",
+        "Zero"
+      ],
+      "explanation": "Without friction or other nonconservative work, KE + PE stays constant.",
+      "memoryHook": "T-Rexy says: Conservative forces conserve mechanical energy.",
+      "imageUrl": "topic:energy",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_052",
+      "question": "A ball dropped from height h hits the ground with speed:",
+      "correctAnswer": "sqrt(2gh)",
+      "distractors": [
+        "gh",
+        "2gh",
+        "h/g"
+      ],
+      "explanation": "From energy conservation: mgh = (1/2)mv^2, so v = sqrt(2gh).",
+      "memoryHook": "T-Rexy says: Energy conservation gives root 2gh.",
+      "imageUrl": "topic:energy",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_053",
+      "question": "Elastic potential energy in a spring is:",
+      "correctAnswer": "(1/2)kx^2",
+      "distractors": [
+        "kx",
+        "mgh",
+        "Fd"
+      ],
+      "explanation": "Stretching or compressing a spring by x stores PE = (1/2)kx^2. The factor 1/2 appears because the spring force grows from 0 to kx as it stretches, so the average force is kx/2 and the work done is (kx/2)(x).",
+      "memoryHook": "T-Rexy says: Spring energy is half k x squared.",
+      "imageUrl": "topic:energy",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_054",
+      "question": "If speed triples, kinetic energy increases by a factor of:",
+      "correctAnswer": "9",
+      "distractors": [
+        "3",
+        "6",
+        "27"
+      ],
+      "explanation": "KE depends on v^2, so 3^2 = 9.",
+      "memoryHook": "T-Rexy says: Triple speed, nine times energy.",
+      "imageUrl": "topic:energy",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_055",
+      "question": "A pendulum's maximum speed occurs at:",
+      "correctAnswer": "The lowest point",
+      "distractors": [
+        "The highest point",
+        "The midpoint of the swing upward",
+        "It is constant"
+      ],
+      "explanation": "At the bottom, all potential energy has become kinetic energy.",
+      "memoryHook": "T-Rexy says: Lowest point means fastest swing.",
+      "imageUrl": "topic:energy",
+      "tags": [
+        "energy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_056",
+      "question": "Momentum is defined as:",
+      "correctAnswer": "Mass times velocity",
+      "distractors": [
+        "Mass times acceleration",
+        "Force times time",
+        "Energy divided by speed"
+      ],
+      "explanation": "p = mv.",
+      "memoryHook": "T-Rexy says: Momentum is mass times velocity.",
+      "imageUrl": "topic:momentum",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_057",
+      "question": "The SI unit of momentum is:",
+      "correctAnswer": "kg m/s",
+      "distractors": [
+        "kg m/s^2",
+        "kg/s",
+        "J"
+      ],
+      "explanation": "Momentum p = mv, so its unit combines mass and velocity units: kg times m/s, giving kg m/s.",
+      "memoryHook": "T-Rexy says: Momentum units are kilogram meters per second.",
+      "imageUrl": "topic:units",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_058",
+      "question": "Impulse equals:",
+      "correctAnswer": "Change in momentum",
+      "distractors": [
+        "Force times distance",
+        "Mass times acceleration",
+        "Kinetic energy"
+      ],
+      "explanation": "J = F delta t = delta p.",
+      "memoryHook": "T-Rexy says: Impulse is change in momentum.",
+      "imageUrl": "topic:momentum",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_059",
+      "question": "In a closed system with no external forces, total momentum is:",
+      "correctAnswer": "Conserved",
+      "distractors": [
+        "Always zero",
+        "Always increasing",
+        "Converted to energy"
+      ],
+      "explanation": "Conservation of momentum holds without external impulses.",
+      "memoryHook": "T-Rexy says: No external force means momentum conserved.",
+      "imageUrl": "topic:momentum",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_060",
+      "question": "A 2 kg object moving at 4 m/s collides and sticks to a stationary 2 kg object. Their final speed is:",
+      "correctAnswer": "2 m/s",
+      "distractors": [
+        "4 m/s",
+        "8 m/s",
+        "0 m/s"
+      ],
+      "explanation": "Total momentum before = 8 kg m/s; total mass after = 4 kg; v = 8/4 = 2 m/s.",
+      "memoryHook": "T-Rexy says: Sticky collisions share momentum across total mass.",
+      "imageUrl": "topic:momentum",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_061",
+      "question": "An elastic collision conserves both momentum and:",
+      "correctAnswer": "Kinetic energy",
+      "distractors": [
+        "Potential energy",
+        "Heat",
+        "Mass"
+      ],
+      "explanation": "Elastic means no kinetic energy is lost.",
+      "memoryHook": "T-Rexy says: Elastic collisions keep kinetic energy too.",
+      "imageUrl": "topic:momentum",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_062",
+      "question": "Airbags reduce injury by:",
+      "correctAnswer": "Increasing the time of impact, reducing force",
+      "distractors": [
+        "Decreasing the momentum change",
+        "Increasing the force",
+        "Reducing the mass"
+      ],
+      "explanation": "Same impulse over longer time means smaller force.",
+      "memoryHook": "T-Rexy says: Longer impact time means smaller force.",
+      "imageUrl": "topic:momentum",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_063",
+      "question": "A force of 10 N acts for 3 seconds. The impulse is:",
+      "correctAnswer": "30 N s",
+      "distractors": [
+        "3.3 N s",
+        "13 N s",
+        "0.3 N s"
+      ],
+      "explanation": "J = F t = (10)(3) = 30 N s.",
+      "memoryHook": "T-Rexy says: Impulse is force times time.",
+      "imageUrl": "topic:momentum",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_064",
+      "question": "Two objects of equal mass collide elastically head-on, one moving and one at rest. After collision, the moving object:",
+      "correctAnswer": "Stops",
+      "distractors": [
+        "Continues at the same speed",
+        "Reverses direction",
+        "Doubles its speed"
+      ],
+      "explanation": "In an equal-mass elastic collision, velocities exchange.",
+      "memoryHook": "T-Rexy says: Equal masses swap velocities elastically.",
+      "imageUrl": "topic:momentum",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_065",
+      "question": "A rocket moves forward by expelling gas backward. This is an example of:",
+      "correctAnswer": "Conservation of momentum",
+      "distractors": [
+        "Conservation of energy",
+        "Newton's first law",
+        "Friction"
+      ],
+      "explanation": "The rocket-gas system has zero net external force, so momentum is conserved.",
+      "memoryHook": "T-Rexy says: Rockets ride on momentum conservation.",
+      "imageUrl": "topic:momentum",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_066",
+      "question": "Torque is:",
+      "correctAnswer": "Force times lever arm distance",
+      "distractors": [
+        "Force divided by distance",
+        "Mass times acceleration",
+        "Energy per rotation"
+      ],
+      "explanation": "Torque = r F sin(theta).",
+      "memoryHook": "T-Rexy says: Torque is force times lever arm.",
+      "imageUrl": "topic:torque",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_067",
+      "question": "The SI unit of torque is:",
+      "correctAnswer": "N m",
+      "distractors": [
+        "N/m",
+        "J/s",
+        "kg m^2"
+      ],
+      "explanation": "Torque is measured in newton-meters (N m), from torque = rF sin(theta): meters times newtons. It is written N m, not J, because torque is a rotational effect, not an amount of energy.",
+      "memoryHook": "T-Rexy says: Torque is measured in newton-meters.",
+      "imageUrl": "topic:units",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_068",
+      "question": "A longer wrench makes loosening a bolt easier because it:",
+      "correctAnswer": "Increases the lever arm",
+      "distractors": [
+        "Decreases the force needed directly",
+        "Reduces friction",
+        "Changes the bolt"
+      ],
+      "explanation": "Longer r means more torque for the same force.",
+      "memoryHook": "T-Rexy says: Longer wrench means more torque.",
+      "imageUrl": "topic:torque",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_069",
+      "question": "For an object in static equilibrium, the net torque must be:",
+      "correctAnswer": "Zero",
+      "distractors": [
+        "Maximum",
+        "Equal to its weight",
+        "Positive"
+      ],
+      "explanation": "No rotation means net torque is zero.",
+      "memoryHook": "T-Rexy says: No turning means zero net torque.",
+      "imageUrl": "topic:torque",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_070",
+      "question": "Rotational inertia depends on mass and:",
+      "correctAnswer": "How mass is distributed from the axis",
+      "distractors": [
+        "The object's color",
+        "The applied force",
+        "The object's velocity"
+      ],
+      "explanation": "Moment of inertia grows as mass moves farther from the axis.",
+      "memoryHook": "T-Rexy says: Farther mass means more rotational inertia.",
+      "imageUrl": "topic:rotation",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_071",
+      "question": "A solid sphere and a hollow sphere of equal mass and radius roll down a ramp. The solid sphere wins because:",
+      "correctAnswer": "It has smaller rotational inertia",
+      "distractors": [
+        "It is heavier",
+        "It has more friction",
+        "It is denser"
+      ],
+      "explanation": "Less rotational inertia means more energy goes to translation, so it accelerates faster.",
+      "memoryHook": "T-Rexy says: Less spin inertia means faster rolling.",
+      "imageUrl": "topic:rotation",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_072",
+      "question": "Angular velocity is measured in:",
+      "correctAnswer": "rad/s",
+      "distractors": [
+        "m/s",
+        "rev",
+        "Hz"
+      ],
+      "explanation": "Angular velocity omega = (change in angle)/(time) is measured in radians per second (rad/s). A full turn is 2(pi) rad, so an object with omega = 2(pi) rad/s completes one revolution every second.",
+      "memoryHook": "T-Rexy says: Angular velocity is radians per second.",
+      "imageUrl": "topic:units",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_073",
+      "question": "The relationship between linear speed and angular speed is:",
+      "correctAnswer": "v = omega r",
+      "distractors": [
+        "v = omega / r",
+        "v = r / omega",
+        "v = omega r^2"
+      ],
+      "explanation": "In one period the object travels the circumference 2(pi)r, so v = 2(pi)r/T. Since omega = 2(pi)/T, this gives v = omega r: points farther from the axis move faster at the same spin rate.",
+      "memoryHook": "T-Rexy says: Linear speed is angular speed times radius.",
+      "imageUrl": "topic:rotation",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_074",
+      "question": "A figure skater pulls her arms in and spins faster due to:",
+      "correctAnswer": "Conservation of angular momentum",
+      "distractors": [
+        "Conservation of energy",
+        "Increased torque",
+        "Friction"
+      ],
+      "explanation": "Smaller moment of inertia means larger angular velocity when L is conserved.",
+      "memoryHook": "T-Rexy says: Tucking in spins faster by angular momentum.",
+      "imageUrl": "topic:rotation",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_075",
+      "question": "The center of mass of a uniform rod is at its:",
+      "correctAnswer": "Midpoint",
+      "distractors": [
+        "End",
+        "Heaviest end",
+        "Top"
+      ],
+      "explanation": "Uniform mass distribution centers at the middle.",
+      "memoryHook": "T-Rexy says: Uniform rod balances at its middle.",
+      "imageUrl": "topic:rotation",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_076",
+      "question": "A mass on a spring is pulled away from equilibrium and released. The motion is simple harmonic because the spring force on the mass is:",
+      "correctAnswer": "Directed toward equilibrium and proportional to the displacement",
+      "distractors": [
+        "Constant in magnitude and direction",
+        "Directed away from equilibrium",
+        "Proportional to the mass's velocity"
+      ],
+      "explanation": "Simple harmonic motion requires a restoring force: F = -kx. The force is proportional to the displacement x, and the negative sign means it always points back toward equilibrium, which is what keeps the mass oscillating around that point.",
+      "memoryHook": "T-Rexy says: SHM happens when the force always pulls you back, harder the farther you stray.",
+      "imageUrl": "topic:oscillations",
+      "tags": [
+        "oscillations"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_077",
+      "question": "A mass m hangs on a spring and oscillates with period T. If the mass is replaced by one with mass 4m on the same spring, the new period is:",
+      "correctAnswer": "2T",
+      "distractors": [
+        "4T",
+        "T",
+        "T/2"
+      ],
+      "explanation": "For a spring oscillator, T = 2pi sqrt(m/k). The period grows with the square root of the mass, so quadrupling m multiplies the period by sqrt(4) = 2, giving 2T.",
+      "memoryHook": "T-Rexy says: Four times the mass on a spring means only twice the period - square roots shrink big changes.",
+      "imageUrl": "topic:oscillations",
+      "tags": [
+        "oscillations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_078",
+      "question": "The period of a simple pendulum is the time it takes for the pendulum to:",
+      "correctAnswer": "Swing out and back to its starting point once",
+      "distractors": [
+        "Stop moving completely",
+        "Reach its maximum height once",
+        "Swing from one side to the other once"
+      ],
+      "explanation": "One period is one complete oscillation: the pendulum leaves a point, swings to the far side, and returns to the same point moving the same way. Going from one side to the other is only half a cycle.",
+      "memoryHook": "T-Rexy says: A period is a full round trip, not just the trip out.",
+      "imageUrl": "topic:oscillations",
+      "tags": [
+        "oscillations"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_079",
+      "question": "Two pendulum bobs of different masses hang from strings of the same length. Compared with the lighter bob, the heavier bob's period is:",
+      "correctAnswer": "The same",
+      "distractors": [
+        "Longer",
+        "Shorter",
+        "Twice as long"
+      ],
+      "explanation": "The pendulum period T = 2pi sqrt(L/g) depends only on the string length L and the gravitational field g. The bob's mass cancels out, so both bobs swing with the same period.",
+      "memoryHook": "T-Rexy says: A pendulum does not care how heavy its bob is - only how long its string is.",
+      "imageUrl": "topic:oscillations",
+      "tags": [
+        "oscillations"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_080",
+      "question": "A 0.25 kg mass attached to a spring with spring constant 100 N/m oscillates on a frictionless surface. What is the period of oscillation? (Use pi = 3.14.)",
+      "correctAnswer": "0.31 s",
+      "distractors": [
+        "0.05 s",
+        "0.63 s",
+        "3.1 s"
+      ],
+      "explanation": "T = 2pi sqrt(m/k) = 2(3.14) sqrt(0.25/100) = 6.28 sqrt(0.0025) = 6.28(0.05) = 0.31 s. A stiff spring and a light mass give a fast oscillation.",
+      "memoryHook": "T-Rexy says: Stiff spring, light mass, quick bounce - plug m and k into 2pi sqrt(m/k).",
+      "imageUrl": "topic:oscillations",
+      "tags": [
+        "oscillations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_081",
+      "question": "A spring oscillator's amplitude is doubled while everything else stays the same. The total mechanical energy of the oscillator becomes:",
+      "correctAnswer": "Four times as great",
+      "distractors": [
+        "Twice as great",
+        "The same",
+        "Half as great"
+      ],
+      "explanation": "The total energy of a spring oscillator is E = (1/2)kA^2, so energy scales with the square of the amplitude. Doubling A multiplies E by 2^2 = 4.",
+      "memoryHook": "T-Rexy says: Double the stretch, quadruple the energy - amplitude is squared in SHM energy.",
+      "imageUrl": "topic:oscillations",
+      "tags": [
+        "oscillations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_082",
+      "question": "A mass in simple harmonic motion reaches its maximum displacement from equilibrium. At that instant, its speed is:",
+      "correctAnswer": "Zero, while its acceleration is greatest",
+      "distractors": [
+        "Greatest, while its acceleration is zero",
+        "Zero, and its acceleration is also zero",
+        "Half its maximum value"
+      ],
+      "explanation": "At the turning points the mass momentarily stops, so its speed is zero, but the restoring force F = -kx is largest there because x is largest, so the acceleration is at its maximum. Speed and acceleration peak at opposite points of the cycle.",
+      "memoryHook": "T-Rexy says: At the edge of the swing you stop for an instant, but the pull back is strongest.",
+      "imageUrl": "topic:oscillations",
+      "tags": [
+        "oscillations"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_083",
+      "question": "What is the period of a simple pendulum with a string length of 0.25 m? (Use g = 10 m/s^2 and pi = 3.14.)",
+      "correctAnswer": "1.0 s",
+      "distractors": [
+        "0.50 s",
+        "2.0 s",
+        "6.3 s"
+      ],
+      "explanation": "T = 2pi sqrt(L/g) = 2(3.14) sqrt(0.25/10) = 6.28 sqrt(0.025) = 6.28(0.158) = 1.0 s. A short string gives a quick, one-second swing.",
+      "memoryHook": "T-Rexy says: A quarter-meter pendulum ticks about once per second.",
+      "imageUrl": "topic:oscillations",
+      "tags": [
+        "oscillations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_084",
+      "question": "A spring oscillator completes 20 full oscillations in 10 seconds. Its frequency is:",
+      "correctAnswer": "2 Hz",
+      "distractors": [
+        "0.5 Hz",
+        "20 Hz",
+        "200 Hz"
+      ],
+      "explanation": "Frequency counts cycles per second: f = 20 cycles / 10 s = 2 Hz. The period would be the inverse, 1/2 = 0.5 s, which is the trap hidden behind the 0.5 Hz distractor.",
+      "memoryHook": "T-Rexy says: Frequency is cycles divided by seconds - count the bounces, divide by the time.",
+      "imageUrl": "topic:oscillations",
+      "tags": [
+        "oscillations"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_085",
+      "question": "An object has a mass of 2 kg and a volume of 0.002 m^3. Its density is:",
+      "correctAnswer": "1000 kg/m^3",
+      "distractors": [
+        "0.001 kg/m^3",
+        "500 kg/m^3",
+        "4000 kg/m^3"
+      ],
+      "explanation": "Density is mass per unit volume: rho = m/V = 2 kg / 0.002 m^3 = 1000 kg/m^3, the density of water.",
+      "memoryHook": "T-Rexy says: Density packs mass into volume - divide the kilograms by the cubic meters.",
+      "imageUrl": "topic:fluids",
+      "tags": [
+        "fluids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_086",
+      "question": "A diver descends deeper underwater. The water pressure on the diver:",
+      "correctAnswer": "Increases, because a taller column of water sits above",
+      "distractors": [
+        "Decreases, because the water is colder",
+        "Stays the same at all depths",
+        "Acts only downward on the diver"
+      ],
+      "explanation": "Fluid pressure grows with depth: P = rho g h. The deeper the diver, the more water is piled above, and the pressure pushes from every direction, not just down.",
+      "memoryHook": "T-Rexy says: The deeper you dive, the more ocean is standing on you.",
+      "imageUrl": "topic:fluids",
+      "tags": [
+        "fluids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_087",
+      "question": "What is the gauge pressure at a depth of 2 m below the surface of a lake? (Density of water = 1000 kg/m^3; use g = 10 m/s^2.)",
+      "correctAnswer": "20,000 Pa",
+      "distractors": [
+        "2,000 Pa",
+        "5,000 Pa",
+        "200,000 Pa"
+      ],
+      "explanation": "Gauge pressure from a fluid column is P = rho g h = (1000)(10)(2) = 20,000 Pa. Atmospheric pressure is not included because the question asks for gauge pressure, the pressure due to the water alone.",
+      "memoryHook": "T-Rexy says: rho g h - density times g times depth gives the squeeze of the water alone.",
+      "imageUrl": "topic:fluids",
+      "tags": [
+        "fluids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_088",
+      "question": "According to Archimedes' principle, the buoyant force on a submerged object equals:",
+      "correctAnswer": "The weight of the fluid the object displaces",
+      "distractors": [
+        "The weight of the object itself",
+        "The object's volume times g",
+        "The pressure at the object's depth"
+      ],
+      "explanation": "A fluid pushes up on an object with a force equal to the weight of the fluid pushed aside (displaced) by the object: F_b = rho_fluid V_displaced g. It does not depend on the object's own weight or on how deep it sits.",
+      "memoryHook": "T-Rexy says: The water pushes you up with the weight of the water you pushed out of the way.",
+      "imageUrl": "topic:fluids",
+      "tags": [
+        "fluids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_089",
+      "question": "A block with density 500 kg/m^3 floats in water (density 1000 kg/m^3). What fraction of the block's volume is submerged?",
+      "correctAnswer": "1/2",
+      "distractors": [
+        "1/4",
+        "3/4",
+        "All of it"
+      ],
+      "explanation": "A floating object displaces its own weight in water, so the submerged fraction equals the density ratio: 500/1000 = 1/2. Half the block sits below the waterline and half above.",
+      "memoryHook": "T-Rexy says: Float fraction is just the density ratio - half as dense as water, half under water.",
+      "imageUrl": "topic:fluids",
+      "tags": [
+        "fluids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_090",
+      "question": "Water flows through a horizontal pipe that narrows to half its original cross-sectional area. In the narrow section, the water's speed:",
+      "correctAnswer": "Doubles",
+      "distractors": [
+        "Halves",
+        "Stays the same",
+        "Drops to zero"
+      ],
+      "explanation": "The continuity equation A1v1 = A2v2 conserves the flow rate: the same volume per second must pass every section of the pipe. Halving the area forces the speed to double.",
+      "memoryHook": "T-Rexy says: Squeeze the pipe and the water hurries - what flows in must flow out.",
+      "imageUrl": "topic:fluids",
+      "tags": [
+        "fluids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_091",
+      "question": "Two points in a still lake are at the same depth but different horizontal positions. The water pressure at the two points is:",
+      "correctAnswer": "Equal at both points",
+      "distractors": [
+        "Greater at the point nearer the shore",
+        "Greater at the point nearer the middle",
+        "Zero at both points"
+      ],
+      "explanation": "In a fluid at rest, pressure depends only on depth (P = rho g h), not on horizontal position. Both points have the same depth, so the pressures match.",
+      "memoryHook": "T-Rexy says: Same depth, same squeeze - sideways position does not matter.",
+      "imageUrl": "topic:fluids",
+      "tags": [
+        "fluids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_092",
+      "question": "Air flows faster over the top of an airplane wing than underneath it. According to Bernoulli's principle, the air pressure above the wing is:",
+      "correctAnswer": "Lower than the pressure below the wing",
+      "distractors": [
+        "Higher than the pressure below the wing",
+        "Equal to the pressure below the wing",
+        "Zero above the wing"
+      ],
+      "explanation": "Bernoulli's principle: where a fluid moves faster, its pressure is lower. The faster air on top creates lower pressure above the wing, and the higher pressure below pushes the wing up.",
+      "memoryHook": "T-Rexy says: Fast flow, low pressure - that pressure difference is what lifts the wing.",
+      "imageUrl": "topic:fluids",
+      "tags": [
+        "fluids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_093",
+      "question": "Two objects attract each other with a gravitational force F. If the distance between their centers is tripled, the new gravitational force is:",
+      "correctAnswer": "F/9",
+      "distractors": [
+        "F/3",
+        "F/6",
+        "3F"
+      ],
+      "explanation": "Newton's law of gravitation is an inverse-square law: F = G m1 m2 / r^2. Tripling r divides the force by 3^2 = 9, so the new force is F/9.",
+      "memoryHook": "T-Rexy says: Gravity fades with distance squared - three times farther, nine times weaker.",
+      "imageUrl": "topic:gravitation",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_094",
+      "question": "A ball on a string moves in a circle at constant speed. Its velocity is:",
+      "correctAnswer": "Constantly changing, because its direction changes",
+      "distractors": [
+        "Constant, because its speed is constant",
+        "Zero at the top of the circle",
+        "Directed toward the center of the circle"
+      ],
+      "explanation": "Velocity is a vector, so direction matters. The ball's speed never changes, but its direction turns continuously, which means the velocity changes and the ball accelerates toward the center.",
+      "memoryHook": "T-Rexy says: Constant speed is not constant velocity - turning is changing.",
+      "imageUrl": "topic:circular",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_095",
+      "question": "The Moon stays in orbit around Earth mainly because of:",
+      "correctAnswer": "Earth's gravitational pull on the Moon",
+      "distractors": [
+        "The Moon's own engine-like thrust",
+        "Earth's magnetic field",
+        "The absence of any forces on the Moon"
+      ],
+      "explanation": "Gravity between Earth and the Moon supplies the centripetal force that continually bends the Moon's path into an orbit. The Moon is always falling toward Earth while its sideways motion carries it around.",
+      "memoryHook": "T-Rexy says: The Moon is forever falling around Earth, held in its circle by gravity.",
+      "imageUrl": "topic:gravitation",
+      "tags": [
+        "circular-motion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_096",
+      "question": "A 20 N force acts on a cart for 2 s. The change in the cart's momentum is:",
+      "correctAnswer": "40 kg m/s",
+      "distractors": [
+        "10 kg m/s",
+        "22 kg m/s",
+        "80 kg m/s"
+      ],
+      "explanation": "Impulse equals the change in momentum: delta p = F delta t = (20 N)(2 s) = 40 N s, and 1 N s is the same unit as 1 kg m/s.",
+      "memoryHook": "T-Rexy says: Push strength times push time tells you the momentum change.",
+      "imageUrl": "topic:momentum",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_097",
+      "question": "A 4 kg object at rest explodes into two pieces. One piece has mass 1 kg and moves off at 6 m/s. The speed of the other piece (mass 3 kg) is:",
+      "correctAnswer": "2 m/s",
+      "distractors": [
+        "6 m/s",
+        "3 m/s",
+        "18 m/s"
+      ],
+      "explanation": "Total momentum starts at zero and is conserved: 0 = (1 kg)(6 m/s) + (3 kg)(v), so 3v = -6 and v = -2 m/s. The minus sign means it flies opposite the first piece, at a speed of 2 m/s.",
+      "memoryHook": "T-Rexy says: The explosion starts from zero momentum, so the pieces' momenta must cancel.",
+      "imageUrl": "topic:momentum",
+      "tags": [
+        "momentum"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_098",
+      "question": "A 10 N force is applied perpendicular to a wrench 0.5 m from the bolt. The torque on the bolt is:",
+      "correctAnswer": "5 N m",
+      "distractors": [
+        "20 N m",
+        "0.5 N m",
+        "50 N m"
+      ],
+      "explanation": "For a perpendicular force, torque = rF = (0.5 m)(10 N) = 5 N m. A longer handle would give more torque from the same force.",
+      "memoryHook": "T-Rexy says: Torque is leverage times push - grip the wrench at the end.",
+      "imageUrl": "topic:torque",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_099",
+      "question": "A rotating platform's moment of inertia is cut in half when the mass on it moves closer to the axis. With no outside torques, its angular speed:",
+      "correctAnswer": "Doubles",
+      "distractors": [
+        "Halves",
+        "Stays the same",
+        "Quadruples"
+      ],
+      "explanation": "Angular momentum L = I omega is conserved when no net external torque acts. Halving I forces omega to double so the product I omega stays constant - the same reason spinning skaters speed up when they pull their arms in.",
+      "memoryHook": "T-Rexy says: Pull the mass in and the spin speeds up - angular momentum refuses to change.",
+      "imageUrl": "topic:rotation",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPHY_100",
+      "question": "A net torque applied to a rigid object causes the object to:",
+      "correctAnswer": "Change its angular velocity",
+      "distractors": [
+        "Move in a straight line",
+        "Gain linear momentum only",
+        "Stop rotating immediately"
+      ],
+      "explanation": "Torque is the rotational counterpart of force: just as a net force changes linear velocity, a net torque produces angular acceleration and changes the object's angular velocity.",
+      "memoryHook": "T-Rexy says: Torque is the twist that changes how fast something spins.",
+      "imageUrl": "topic:torque",
+      "tags": [
+        "rotation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

@@ -1,0 +1,1992 @@
+{
+ "packId": "ella-algebra-2",
+ "title": "Algebra 2 (11th Grade)",
+ "description": "Algebra 2 (11th) practice - 100 questions",
+ "version": "1.0",
+ "language": "en",
+ "passingScore": 60,
+ "totalQuestions": 100,
+ "addedAt": "2026-11-04",
+ "tags": [
+  "math",
+  "algebra",
+  "11th"
+ ],
+ "questions": [
+  {
+   "id": "ALG2_001",
+   "question": "What is the vertex of the parabola y = x^2 - 6x + 5?",
+   "correctAnswer": "(3, -4)",
+   "distractors": [
+    "(3, 4)",
+    "(-3, -4)",
+    "(6, 5)"
+   ],
+   "explanation": "Complete the square: y = (x-3)^2 - 4, so vertex is (3, -4).",
+   "memoryHook": "T-Rexy says: The vertex is where the parabola turns around.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "quadratic",
+    "vertex"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_002",
+   "question": "Solve x^2 = 49.",
+   "correctAnswer": "x = 7 or x = -7",
+   "distractors": [
+    "x = 7 only",
+    "x = 14",
+    "x = 24.5"
+   ],
+   "explanation": "Taking square roots gives x = plus or minus 7.",
+   "memoryHook": "T-Rexy says: Square roots always give two answers, plus and minus.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "quadratic",
+    "equations"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_003",
+   "question": "What is the discriminant of x^2 + 5x + 6 = 0?",
+   "correctAnswer": "1",
+   "distractors": [
+    "25",
+    "49",
+    "-1"
+   ],
+   "explanation": "b^2 - 4ac = 25 - 24 = 1.",
+   "memoryHook": "T-Rexy says: The discriminant tells you how many real roots there are.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "quadratic",
+    "discriminant"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_004",
+   "question": "Factor x^2 - 9.",
+   "correctAnswer": "(x - 3)(x + 3)",
+   "distractors": [
+    "(x - 9)(x + 1)",
+    "(x + 3)^2",
+    "(x - 3)^2"
+   ],
+   "explanation": "Difference of squares: a^2 - b^2 = (a-b)(a+b).",
+   "memoryHook": "T-Rexy says: A minus sign between two squares factors into a sum times a difference.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "factoring"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_005",
+   "question": "What is (x + 2)^2 expanded?",
+   "correctAnswer": "x^2 + 4x + 4",
+   "distractors": [
+    "x^2 + 4",
+    "x^2 + 2x + 4",
+    "x^2 + 4x + 2"
+   ],
+   "explanation": "(x+2)^2 = x^2 + 4x + 4 by FOIL.",
+   "memoryHook": "T-Rexy says: Square the first, twice the product, square the last.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_006",
+   "question": "What is the degree of the polynomial 3x^4 - 2x^2 + 7?",
+   "correctAnswer": "4",
+   "distractors": [
+    "3",
+    "7",
+    "2"
+   ],
+   "explanation": "The degree is the highest exponent, which is 4.",
+   "memoryHook": "T-Rexy says: Degree means the biggest exponent in the polynomial.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "degree"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_007",
+   "question": "Simplify (2x^3)(3x^2).",
+   "correctAnswer": "6x^5",
+   "distractors": [
+    "5x^5",
+    "6x^6",
+    "5x^6"
+   ],
+   "explanation": "Multiply coefficients (2 times 3 = 6) and add exponents (3+2 = 5).",
+   "memoryHook": "T-Rexy says: Multiply the numbers, add the exponents.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "multiplication"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_008",
+   "question": "What is log_2(8)?",
+   "correctAnswer": "3",
+   "distractors": [
+    "2",
+    "4",
+    "8"
+   ],
+   "explanation": "2^3 = 8, so log base 2 of 8 is 3.",
+   "memoryHook": "T-Rexy says: A log asks: what power gives this number?",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "logarithms"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_009",
+   "question": "What is 2^0?",
+   "correctAnswer": "1",
+   "distractors": [
+    "0",
+    "2",
+    "Undefined"
+   ],
+   "explanation": "Any nonzero number to the zero power equals 1.",
+   "memoryHook": "T-Rexy says: Any nonzero number to the zero power is 1.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "exponents"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_010",
+   "question": "What are the center and radius of the circle (x - 2)^2 + (y + 3)^2 = 16?",
+   "correctAnswer": "Center (2, -3), radius 4",
+   "distractors": [
+    "Center (-2, 3), radius 4",
+    "Center (2, -3), radius 16",
+    "Center (-2, -3), radius 2"
+   ],
+   "explanation": "Compare with the standard form (x - h)^2 + (y - k)^2 = r^2. Here h = 2 and k = -3 (because y + 3 means y - (-3)), so the center is (2, -3). The radius is r = sqrt(16) = 4, not 16.",
+   "memoryHook": "T-Rexy says: The signs inside the parentheses flip - (x - 2) means the center moved right 2.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "conics",
+    "circles"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_011",
+   "question": "What is the y-intercept of y = 2x + 3?",
+   "correctAnswer": "3",
+   "distractors": [
+    "2",
+    "-3",
+    "0"
+   ],
+   "explanation": "The y-intercept is the constant term, 3.",
+   "memoryHook": "T-Rexy says: Set x to zero to find where it hits the y-axis.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "linear"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_012",
+   "question": "If A = [[1, 2], [3, 4]] and B = [[5, 0], [1, 2]], what is A + B?",
+   "correctAnswer": "[[6, 2], [4, 6]]",
+   "distractors": [
+    "[[5, 2], [3, 6]]",
+    "[[6, 3], [5, 6]]",
+    "[[-4, 2], [2, 2]]"
+   ],
+   "explanation": "Matrix addition is entry by entry: add the numbers in matching positions. Top-left: 1 + 5 = 6. Top-right: 2 + 0 = 2. Bottom-left: 3 + 1 = 4. Bottom-right: 4 + 2 = 6. The sum is [[6, 2], [4, 6]].",
+   "memoryHook": "T-Rexy says: Add matrices position by position - each entry only meets its twin.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "matrices",
+    "addition"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_013",
+   "question": "Simplify sqrt(64).",
+   "correctAnswer": "8",
+   "distractors": [
+    "32",
+    "4",
+    "16"
+   ],
+   "explanation": "8 times 8 = 64, so sqrt(64) = 8.",
+   "memoryHook": "T-Rexy says: Ask yourself: what times itself gives 64?",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "radicals"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_014",
+   "question": "What is the common difference of the arithmetic sequence 3, 7, 11, 15, ...?",
+   "correctAnswer": "4",
+   "distractors": [
+    "3",
+    "7",
+    "2"
+   ],
+   "explanation": "Each term increases by 4.",
+   "memoryHook": "T-Rexy says: Subtract consecutive terms to find the difference.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "sequences",
+    "arithmetic"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_015",
+   "question": "What is the common ratio of the geometric sequence 2, 6, 18, 54, ...?",
+   "correctAnswer": "3",
+   "distractors": [
+    "2",
+    "6",
+    "4"
+   ],
+   "explanation": "Each term is multiplied by 3.",
+   "memoryHook": "T-Rexy says: Divide consecutive terms to find the ratio.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "sequences",
+    "geometric"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_016",
+   "question": "What is f(2) if f(x) = x^2 + 3x?",
+   "correctAnswer": "10",
+   "distractors": [
+    "7",
+    "8",
+    "12"
+   ],
+   "explanation": "f(2) = 4 + 6 = 10.",
+   "memoryHook": "T-Rexy says: Plug in 2 wherever you see x.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "functions",
+    "evaluation"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_017",
+   "question": "What is the domain of f(x) = sqrt(x - 2)?",
+   "correctAnswer": "x >= 2",
+   "distractors": [
+    "x > 2",
+    "All real numbers",
+    "x <= 2"
+   ],
+   "explanation": "The radicand must be non-negative: x - 2 >= 0, so x >= 2.",
+   "memoryHook": "T-Rexy says: You cannot take the square root of a negative number.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "functions",
+    "domain"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_018",
+   "question": "A bag contains 4 red, 3 blue, and 5 green marbles. If one marble is drawn at random, what is the probability that it is blue?",
+   "correctAnswer": "1/4",
+   "distractors": [
+    "3/4",
+    "1/3",
+    "5/12"
+   ],
+   "explanation": "Probability = (favorable outcomes) / (total outcomes). There are 3 blue marbles and 4 + 3 + 5 = 12 marbles in total, so P(blue) = 3/12 = 1/4 after simplifying.",
+   "memoryHook": "T-Rexy says: Count what you want, count everything, then simplify the fraction.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "probability"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_019",
+   "question": "Solve x^2 - 5x + 6 = 0 by factoring.",
+   "correctAnswer": "x = 2 or x = 3",
+   "distractors": [
+    "x = 1 or x = 6",
+    "x = -2 or x = -3",
+    "x = 5 or x = 6"
+   ],
+   "explanation": "x^2 - 5x + 6 = (x - 2)(x - 3) = 0, so x = 2 or 3.",
+   "memoryHook": "T-Rexy says: Find two numbers that multiply to 6 and add to -5.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "quadratic",
+    "factoring"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_020",
+   "question": "What is 5! (5 factorial)?",
+   "correctAnswer": "120",
+   "distractors": [
+    "25",
+    "15",
+    "60"
+   ],
+   "explanation": "5! = 5 x 4 x 3 x 2 x 1 = 120.",
+   "memoryHook": "T-Rexy says: Factorial means multiply down to 1.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "factorial"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_021",
+   "question": "What is 3 * [[2, -1], [0, 5]] (scalar multiplication)?",
+   "correctAnswer": "[[6, -3], [0, 15]]",
+   "distractors": [
+    "[[5, 2], [3, 8]]",
+    "[[6, -3], [0, 5]]",
+    "[[2, -1], [0, 15]]"
+   ],
+   "explanation": "A scalar multiplies EVERY entry of the matrix: 3 * 2 = 6, 3 * (-1) = -3, 3 * 0 = 0, and 3 * 5 = 15. The result is [[6, -3], [0, 15]]. No entry gets skipped, and the scalar is multiplied, not added.",
+   "memoryHook": "T-Rexy says: A scalar visits every single entry - nobody gets left out.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "matrices",
+    "scalar multiplication"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_022",
+   "question": "What is the axis of symmetry of y = x^2 + 4x + 3?",
+   "correctAnswer": "x = -2",
+   "distractors": [
+    "x = 2",
+    "x = 4",
+    "x = -4"
+   ],
+   "explanation": "x = -b/(2a) = -4/2 = -2.",
+   "memoryHook": "T-Rexy says: The axis of symmetry splits the parabola in half.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "quadratic",
+    "vertex"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_023",
+   "question": "A committee of 3 students is chosen from a group of 8 students. How many different committees are possible?",
+   "correctAnswer": "56",
+   "distractors": [
+    "336",
+    "24",
+    "256"
+   ],
+   "explanation": "Choosing a committee is a combination, because the order of the members does not matter: C(8, 3) = 8! / (3! * 5!) = (8 * 7 * 6) / (3 * 2 * 1) = 336 / 6 = 56. The value 336 counts ordered picks (permutations), which overcounts a committee where every member is equal.",
+   "memoryHook": "T-Rexy says: If order does not matter, divide it out - committees are combinations.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "probability",
+    "combinations"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_024",
+   "question": "What is log(100) (base 10)?",
+   "correctAnswer": "2",
+   "distractors": [
+    "10",
+    "1",
+    "100"
+   ],
+   "explanation": "10^2 = 100, so log(100) = 2.",
+   "memoryHook": "T-Rexy says: Base 10 logs count the zeros.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "logarithms"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_025",
+   "question": "Solve 2^x = 16.",
+   "correctAnswer": "x = 4",
+   "distractors": [
+    "x = 8",
+    "x = 2",
+    "x = 32"
+   ],
+   "explanation": "2^4 = 16, so x = 4.",
+   "memoryHook": "T-Rexy says: Match the bases, then match the exponents.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "exponential"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_026",
+   "question": "What is the remainder when x^2 + 3x + 2 is divided by (x + 1)?",
+   "correctAnswer": "0",
+   "distractors": [
+    "2",
+    "6",
+    "-2"
+   ],
+   "explanation": "By the Remainder Theorem, evaluate at x = -1: 1 - 3 + 2 = 0.",
+   "memoryHook": "T-Rexy says: Plug in the zero of the divisor to find the remainder.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "remainder"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_027",
+   "question": "What is the mean of the data set 4, 6, 8, 10, 12?",
+   "correctAnswer": "8",
+   "distractors": [
+    "40",
+    "9",
+    "10"
+   ],
+   "explanation": "Add all the values: 4 + 6 + 8 + 10 + 12 = 40. Then divide by the number of values, which is 5: 40 / 5 = 8. The value 40 is only the sum - the mean must be divided back down by the count.",
+   "memoryHook": "T-Rexy says: Mean means share it out - add everything, then divide by how many there are.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "statistics",
+    "mean"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_028",
+   "question": "What is the inverse of f(x) = 2x + 6?",
+   "correctAnswer": "f^-1(x) = (x - 6)/2",
+   "distractors": [
+    "f^-1(x) = 2x - 6",
+    "f^-1(x) = (x + 6)/2",
+    "f^-1(x) = x/2 + 6"
+   ],
+   "explanation": "Swap x and y, then solve: x = 2y + 6 gives y = (x - 6)/2.",
+   "memoryHook": "T-Rexy says: Swap x and y, then solve for y.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "functions",
+    "inverse"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_029",
+   "question": "Simplify (x^2 - 4)/(x - 2).",
+   "correctAnswer": "x + 2",
+   "distractors": [
+    "x - 2",
+    "x^2 + 2",
+    "2x"
+   ],
+   "explanation": "Factor: (x-2)(x+2)/(x-2) = x + 2 (for x not equal 2).",
+   "memoryHook": "T-Rexy says: Factor first, then cancel common factors.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "rational"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_030",
+   "question": "In a right triangle, the side opposite angle theta has length 6 and the hypotenuse has length 10. What is sin(theta)?",
+   "correctAnswer": "3/5",
+   "distractors": [
+    "4/5",
+    "3/4",
+    "5/3"
+   ],
+   "explanation": "Sine is opposite over hypotenuse: sin(theta) = 6/10 = 3/5. The adjacent side (found from the Pythagorean theorem) is 8, so 4/5 would be cos(theta) and 3/4 would be tan(theta) - keep the three ratios separate.",
+   "memoryHook": "T-Rexy says: SOH - Sine is Opposite over Hypotenuse.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "trigonometry",
+    "right triangles"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_031",
+   "question": "Solve 2x^2 - 8x + 6 = 0 using the quadratic formula.",
+   "correctAnswer": "x = 1 or x = 3",
+   "distractors": [
+    "x = 2 or x = 4",
+    "x = -1 or x = -3",
+    "x = 1 or x = 2"
+   ],
+   "explanation": "x = [8 plus/minus sqrt(64 - 48)]/4 = [8 plus/minus 4]/4 = 1 or 3.",
+   "memoryHook": "T-Rexy says: The quadratic formula is x = (-b plus/minus sqrt(b^2 - 4ac)) / 2a.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "quadratic",
+    "formula"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_032",
+   "question": "What are the roots of x^2 + 2x + 5 = 0?",
+   "correctAnswer": "-1 + 2i and -1 - 2i",
+   "distractors": [
+    "1 + 2i and 1 - 2i",
+    "-1 + 4i and -1 - 4i",
+    "No solutions"
+   ],
+   "explanation": "Discriminant is 4 - 20 = -16, so roots are (-2 plus/minus 4i)/2 = -1 plus/minus 2i.",
+   "memoryHook": "T-Rexy says: A negative discriminant means complex roots.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "quadratic",
+    "complex"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_033",
+   "question": "Expand (x + 3)(x^2 - 3x + 9).",
+   "correctAnswer": "x^3 + 27",
+   "distractors": [
+    "x^3 - 27",
+    "x^3 + 9x + 27",
+    "x^3 - 9x - 27"
+   ],
+   "explanation": "This is the sum of cubes pattern: (a+b)(a^2 - ab + b^2) = a^3 + b^3 = x^3 + 27.",
+   "memoryHook": "T-Rexy says: Sum of cubes: a^3 + b^3 factors with a plus sign.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "cubes"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_034",
+   "question": "Divide (x^3 - 2x^2 + 3x - 4) by (x - 1) using synthetic division. What is the remainder?",
+   "correctAnswer": "-2",
+   "distractors": [
+    "0",
+    "2",
+    "-4"
+   ],
+   "explanation": "Synthetic division with 1: coefficients 1, -2, 3, -4 give remainder -2.",
+   "memoryHook": "T-Rexy says: Synthetic division is long division in shorthand.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "division"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_035",
+   "question": "Simplify (3x^2 - 12)/(x^2 - 4).",
+   "correctAnswer": "3",
+   "distractors": [
+    "3x + 3",
+    "x + 2",
+    "3(x - 2)"
+   ],
+   "explanation": "Factor: 3(x^2 - 4)/(x^2 - 4) = 3.",
+   "memoryHook": "T-Rexy says: Factor top and bottom, then cancel.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "rational"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_036",
+   "question": "Solve (x + 1)/(x - 2) = 3.",
+   "correctAnswer": "x = 7/2",
+   "distractors": [
+    "x = 5/2",
+    "x = 3",
+    "x = -7"
+   ],
+   "explanation": "x + 1 = 3(x - 2) gives x + 1 = 3x - 6, so 2x = 7, x = 7/2.",
+   "memoryHook": "T-Rexy says: Multiply both sides by the denominator.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "rational",
+    "equations"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_037",
+   "question": "What is log_3(27) + log_3(9)?",
+   "correctAnswer": "5",
+   "distractors": [
+    "6",
+    "4",
+    "8"
+   ],
+   "explanation": "log_3(27) = 3 and log_3(9) = 2, so the sum is 5.",
+   "memoryHook": "T-Rexy says: Logs turn multiplication into addition.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "logarithms"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_038",
+   "question": "Solve log_2(x) = 5.",
+   "correctAnswer": "x = 32",
+   "distractors": [
+    "x = 10",
+    "x = 25",
+    "x = 16"
+   ],
+   "explanation": "2^5 = 32.",
+   "memoryHook": "T-Rexy says: Convert the log equation to exponential form.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "logarithms",
+    "equations"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_039",
+   "question": "Solve 3^(2x) = 81.",
+   "correctAnswer": "x = 2",
+   "distractors": [
+    "x = 4",
+    "x = 3",
+    "x = 1"
+   ],
+   "explanation": "81 = 3^4, so 2x = 4, x = 2.",
+   "memoryHook": "T-Rexy says: Write both sides with the same base.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "exponential"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_040",
+   "question": "What is the 10th term of the arithmetic sequence with a1 = 5 and d = 3?",
+   "correctAnswer": "32",
+   "distractors": [
+    "35",
+    "29",
+    "30"
+   ],
+   "explanation": "a10 = 5 + 9(3) = 32.",
+   "memoryHook": "T-Rexy says: The nth term formula is a1 + (n-1)d.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "sequences",
+    "arithmetic"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_041",
+   "question": "What is the sum of the first 10 terms of the geometric series 1 + 2 + 4 + ... + 512?",
+   "correctAnswer": "1023",
+   "distractors": [
+    "1024",
+    "511",
+    "2047"
+   ],
+   "explanation": "Sum = 2^10 - 1 = 1023.",
+   "memoryHook": "T-Rexy says: Geometric series sum: a(r^n - 1)/(r - 1).",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "series",
+    "geometric"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_042",
+   "question": "What is the sum of the infinite geometric series 1 + 1/2 + 1/4 + ...?",
+   "correctAnswer": "2",
+   "distractors": [
+    "1",
+    "Infinity",
+    "3/2"
+   ],
+   "explanation": "Sum = a/(1 - r) = 1/(1 - 1/2) = 2.",
+   "memoryHook": "T-Rexy says: Infinite geometric series converge when |r| < 1.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "series",
+    "infinite"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_043",
+   "question": "Solve the system: x + y = 10, x - y = 4.",
+   "correctAnswer": "x = 7, y = 3",
+   "distractors": [
+    "x = 6, y = 4",
+    "x = 3, y = 7",
+    "x = 5, y = 5"
+   ],
+   "explanation": "Adding the equations: 2x = 14, so x = 7, then y = 3.",
+   "memoryHook": "T-Rexy says: Add the equations to eliminate y.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "systems"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_044",
+   "question": "Solve the system: 2x + y = 7, x - y = 2.",
+   "correctAnswer": "x = 3, y = 1",
+   "distractors": [
+    "x = 2, y = 3",
+    "x = 1, y = 5",
+    "x = 4, y = -1"
+   ],
+   "explanation": "Adding: 3x = 9, so x = 3, then y = 1.",
+   "memoryHook": "T-Rexy says: Elimination works when coefficients cancel.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "systems"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_045",
+   "question": "What is the composition (f o g)(2) if f(x) = x^2 and g(x) = x + 3?",
+   "correctAnswer": "25",
+   "distractors": [
+    "7",
+    "10",
+    "4"
+   ],
+   "explanation": "g(2) = 5, then f(5) = 25.",
+   "memoryHook": "T-Rexy says: Work from the inside out.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "functions",
+    "composition"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_046",
+   "question": "If f(x) = 3x - 2, what is f^-1(7)?",
+   "correctAnswer": "3",
+   "distractors": [
+    "5",
+    "19",
+    "7/3"
+   ],
+   "explanation": "Set 3x - 2 = 7, so x = 3.",
+   "memoryHook": "T-Rexy says: The inverse undoes the function.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "functions",
+    "inverse"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_047",
+   "question": "What is the equation of the circle with center (-1, 4) and radius 3?",
+   "correctAnswer": "(x + 1)^2 + (y - 4)^2 = 9",
+   "distractors": [
+    "(x - 1)^2 + (y + 4)^2 = 9",
+    "(x + 1)^2 + (y - 4)^2 = 3",
+    "(x - 4)^2 + (y + 1)^2 = 9"
+   ],
+   "explanation": "Use the standard form (x - h)^2 + (y - k)^2 = r^2 with h = -1, k = 4 and r = 3. Subtracting h = -1 gives x - (-1) = x + 1, and r^2 = 3^2 = 9, so the equation is (x + 1)^2 + (y - 4)^2 = 9.",
+   "memoryHook": "T-Rexy says: Plug the center in with flipped signs, and remember to square the radius.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "conics",
+    "circles"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_048",
+   "question": "Simplify sqrt(50).",
+   "correctAnswer": "5 sqrt(2)",
+   "distractors": [
+    "10 sqrt(5)",
+    "25 sqrt(2)",
+    "5 sqrt(10)"
+   ],
+   "explanation": "sqrt(50) = sqrt(25 x 2) = 5 sqrt(2).",
+   "memoryHook": "T-Rexy says: Pull out the largest perfect square factor.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "radicals"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_049",
+   "question": "Rationalize the denominator of 1/sqrt(3).",
+   "correctAnswer": "sqrt(3)/3",
+   "distractors": [
+    "1/3",
+    "sqrt(3)",
+    "3 sqrt(3)"
+   ],
+   "explanation": "Multiply top and bottom by sqrt(3): sqrt(3)/3.",
+   "memoryHook": "T-Rexy says: Multiply by the radical over itself.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "radicals"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_050",
+   "question": "What is (2 + 3i) + (4 - i)?",
+   "correctAnswer": "6 + 2i",
+   "distractors": [
+    "6 - 2i",
+    "2 + 4i",
+    "8 + 2i"
+   ],
+   "explanation": "Add real parts (2+4=6) and imaginary parts (3-1=2).",
+   "memoryHook": "T-Rexy says: Add real to real, imaginary to imaginary.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "complex"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_051",
+   "question": "What is (2i)^2?",
+   "correctAnswer": "-4",
+   "distractors": [
+    "4",
+    "2i",
+    "-2"
+   ],
+   "explanation": "(2i)^2 = 4i^2 = 4(-1) = -4.",
+   "memoryHook": "T-Rexy says: Remember i^2 = -1.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "complex"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_052",
+   "question": "Convert the angle 3pi/4 radians to degrees.",
+   "correctAnswer": "135 degrees",
+   "distractors": [
+    "120 degrees",
+    "150 degrees",
+    "240 degrees"
+   ],
+   "explanation": "Multiply by the conversion factor 180/pi: (3pi/4) * (180/pi) = 3 * 180 / 4 = 540 / 4 = 135 degrees. The pi in the angle cancels the pi in the factor, which is the check that the setup is right.",
+   "memoryHook": "T-Rexy says: Radians to degrees, multiply by 180 over pi - a quarter of 180 is 45, and three of those make 135.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "trigonometry",
+    "angle measures"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_053",
+   "question": "What is |3 + 4i| (the modulus)?",
+   "correctAnswer": "5",
+   "distractors": [
+    "7",
+    "25",
+    "4"
+   ],
+   "explanation": "|3 + 4i| = sqrt(9 + 16) = sqrt(25) = 5.",
+   "memoryHook": "T-Rexy says: Modulus is the distance from the origin.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "complex",
+    "modulus"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_054",
+   "question": "Solve sqrt(x + 5) = 3.",
+   "correctAnswer": "x = 4",
+   "distractors": [
+    "x = 9",
+    "x = -2",
+    "x = 14"
+   ],
+   "explanation": "Square both sides: x + 5 = 9, so x = 4.",
+   "memoryHook": "T-Rexy says: Square both sides to undo the square root.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "radical",
+    "equations"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_055",
+   "question": "What are the vertices of the ellipse x^2/25 + y^2/9 = 1?",
+   "correctAnswer": "(5, 0) and (-5, 0)",
+   "distractors": [
+    "(3, 0) and (-3, 0)",
+    "(0, 5) and (0, -5)",
+    "(25, 0) and (-25, 0)"
+   ],
+   "explanation": "The larger denominator sits under x^2, so the major axis is horizontal with a^2 = 25, giving a = 5. The vertices are the endpoints of the major axis: (5, 0) and (-5, 0). The value b = 3 gives the co-vertices (0, 3) and (0, -3) instead.",
+   "memoryHook": "T-Rexy says: Vertices live at the ends of the longer axis - take the square root of the bigger denominator.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "conics",
+    "ellipses"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_056",
+   "question": "For what values of x is x^2 - 4x + 3 > 0?",
+   "correctAnswer": "x < 1 or x > 3",
+   "distractors": [
+    "1 < x < 3",
+    "x > 3 only",
+    "x < 1 only"
+   ],
+   "explanation": "Factor: (x-1)(x-3) > 0. The product is positive outside the roots.",
+   "memoryHook": "T-Rexy says: A parabola opening up is positive outside its roots.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "inequalities",
+    "quadratic"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_057",
+   "question": "What is the equation of the horizontal asymptote of f(x) = (2x + 1)/(x - 3)?",
+   "correctAnswer": "y = 2",
+   "distractors": [
+    "y = 1",
+    "y = 0",
+    "y = 3"
+   ],
+   "explanation": "When degrees are equal, the horizontal asymptote is the ratio of leading coefficients: 2/1 = 2.",
+   "memoryHook": "T-Rexy says: Equal degrees: divide the leading coefficients.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "rational",
+    "asymptotes"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_058",
+   "question": "What is the determinant of the matrix [[3, 2], [1, 4]]?",
+   "correctAnswer": "10",
+   "distractors": [
+    "14",
+    "12",
+    "-10"
+   ],
+   "explanation": "For a 2x2 matrix [[a, b], [c, d]], the determinant is ad - bc: multiply the main diagonal and subtract the product of the other diagonal. Here det = 3 * 4 - 2 * 1 = 12 - 2 = 10.",
+   "memoryHook": "T-Rexy says: Down-diagonal product minus up-diagonal product - det is a difference, not a sum.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "matrices",
+    "determinants"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_059",
+   "question": "Expand (2x - 1)^3.",
+   "correctAnswer": "8x^3 - 12x^2 + 6x - 1",
+   "distractors": [
+    "8x^3 - 1",
+    "8x^3 + 12x^2 + 6x + 1",
+    "8x^3 - 6x^2 + 2x - 1"
+   ],
+   "explanation": "Using the binomial expansion: (2x)^3 - 3(2x)^2(1) + 3(2x)(1)^2 - 1 = 8x^3 - 12x^2 + 6x - 1.",
+   "memoryHook": "T-Rexy says: Use Pascal's triangle: 1, 3, 3, 1.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "binomial"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_060",
+   "question": "What is the coefficient of x^2 in (x + 2)^4?",
+   "correctAnswer": "24",
+   "distractors": [
+    "16",
+    "8",
+    "32"
+   ],
+   "explanation": "The x^2 term is C(4,2) x^2 (2)^2 = 6 x 4 x^2 = 24x^2.",
+   "memoryHook": "T-Rexy says: Binomial theorem: C(n,k) a^(n-k) b^k.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "binomial"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_061",
+   "question": "What is 8^(2/3)?",
+   "correctAnswer": "4",
+   "distractors": [
+    "16",
+    "2",
+    "64"
+   ],
+   "explanation": "8^(1/3) = 2, then 2^2 = 4.",
+   "memoryHook": "T-Rexy says: Fractional exponents: root first, then power.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "exponents",
+    "rational"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_062",
+   "question": "What is the product [[1, 2], [0, 3]] * [[2, 1], [1, 0]]?",
+   "correctAnswer": "[[4, 1], [3, 0]]",
+   "distractors": [
+    "[[2, 2], [0, 0]]",
+    "[[2, 7], [1, 2]]",
+    "[[4, 1], [0, 3]]"
+   ],
+   "explanation": "Each entry is a row of the first matrix dotted with a column of the second. Top-left: 1*2 + 2*1 = 4. Top-right: 1*1 + 2*0 = 1. Bottom-left: 0*2 + 3*1 = 3. Bottom-right: 0*1 + 3*0 = 0. The product is [[4, 1], [3, 0]]. Multiplying entry-by-entry instead gives the wrong matrix [[2, 2], [0, 0]].",
+   "memoryHook": "T-Rexy says: Row times column, entry by entry - matrix multiplication is never position-by-position.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "matrices",
+    "multiplication"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_063",
+   "question": "What is the range of f(x) = x^2 + 1?",
+   "correctAnswer": "y >= 1",
+   "distractors": [
+    "All real numbers",
+    "y > 0",
+    "y <= 1"
+   ],
+   "explanation": "x^2 >= 0, so x^2 + 1 >= 1.",
+   "memoryHook": "T-Rexy says: A parabola opening up from (0,1) covers y >= 1.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "functions",
+    "range"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_064",
+   "question": "In triangle ABC, angle A = 30 degrees, side a = 10 (opposite angle A), and angle B = 45 degrees. What is the length of side b?",
+   "correctAnswer": "10 sqrt(2)",
+   "distractors": [
+    "5 sqrt(2)",
+    "10 sqrt(3)",
+    "10"
+   ],
+   "explanation": "Use the law of sines: b / sin(B) = a / sin(A), so b = 10 * sin(45) / sin(30) = 10 * (sqrt(2)/2) / (1/2) = 10 sqrt(2). The two (1/2)-style factors come from sin(30) = 1/2 in the denominator, which doubles instead of cancelling.",
+   "memoryHook": "T-Rexy says: Law of sines pairs each side with the sine of the angle across from it.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "trigonometry",
+    "law of sines"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_065",
+   "question": "Two fair six-sided dice are rolled. What is the probability that the sum of the two dice is 7?",
+   "correctAnswer": "1/6",
+   "distractors": [
+    "7/36",
+    "1/7",
+    "5/36"
+   ],
+   "explanation": "There are 6 * 6 = 36 equally likely outcomes. The pairs that sum to 7 are (1, 6), (2, 5), (3, 4), (4, 3), (5, 2), and (6, 1) - exactly 6 pairs. So P(sum of 7) = 6/36 = 1/6. In fact 7 is the most likely sum of two dice.",
+   "memoryHook": "T-Rexy says: Build the 6 by 6 grid of outcomes - the pairs that sum to 7 fill the whole anti-diagonal, corner to corner.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "probability"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_066",
+   "question": "What is the exact value of cos(5pi/6)?",
+   "correctAnswer": "-sqrt(3)/2",
+   "distractors": [
+    "sqrt(3)/2",
+    "-1/2",
+    "-sqrt(2)/2"
+   ],
+   "explanation": "The angle 5pi/6 lies in quadrant II, where cosine is negative. Its reference angle is pi - 5pi/6 = pi/6, and cos(pi/6) = sqrt(3)/2. Applying the quadrant II sign gives cos(5pi/6) = -sqrt(3)/2.",
+   "memoryHook": "T-Rexy says: Find the reference angle first, then let the quadrant choose the sign.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "trigonometry",
+    "unit circle"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_067",
+   "question": "What is the 6th term of the geometric sequence 3, 6, 12, 24, ...?",
+   "correctAnswer": "96",
+   "distractors": [
+    "48",
+    "192",
+    "72"
+   ],
+   "explanation": "a6 = 3 x 2^5 = 96.",
+   "memoryHook": "T-Rexy says: Geometric nth term: a1 x r^(n-1).",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "sequences",
+    "geometric"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_068",
+   "question": "What is the sum of the arithmetic series 2 + 5 + 8 + ... + 20?",
+   "correctAnswer": "77",
+   "distractors": [
+    "70",
+    "84",
+    "66"
+   ],
+   "explanation": "There are 7 terms; sum = 7/2 x (2 + 20) = 77.",
+   "memoryHook": "T-Rexy says: Sum = n/2 times (first + last).",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "series",
+    "arithmetic"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_069",
+   "question": "Solve |x - 3| = 7.",
+   "correctAnswer": "x = 10 or x = -4",
+   "distractors": [
+    "x = 10 only",
+    "x = -4 only",
+    "x = 4 or x = 10"
+   ],
+   "explanation": "x - 3 = 7 or x - 3 = -7, giving x = 10 or x = -4.",
+   "memoryHook": "T-Rexy says: Absolute value splits into two cases.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "absolute value"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_070",
+   "question": "What is the solution set of |2x + 1| < 5?",
+   "correctAnswer": "-3 < x < 2",
+   "distractors": [
+    "x < -3 or x > 2",
+    "-2 < x < 3",
+    "x > 2"
+   ],
+   "explanation": "-5 < 2x + 1 < 5 gives -6 < 2x < 4, so -3 < x < 2.",
+   "memoryHook": "T-Rexy says: Less-than absolute value gives a between-inequality.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "absolute value",
+    "inequalities"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_071",
+   "question": "Solve x^4 - 5x^2 + 4 = 0.",
+   "correctAnswer": "x = 1, -1, 2, -2",
+   "distractors": [
+    "x = 1, 2 only",
+    "x = -1, -2 only",
+    "x = 4, 1 only"
+   ],
+   "explanation": "Let u = x^2: u^2 - 5u + 4 = (u-1)(u-4) = 0, so x^2 = 1 or 4, giving x = plus/minus 1, plus/minus 2.",
+   "memoryHook": "T-Rexy says: Substitute u = x^2 to turn it into a quadratic.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "biquadratic"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_072",
+   "question": "What is the remainder when x^3 - 2x + 5 is divided by (x + 2)?",
+   "correctAnswer": "1",
+   "distractors": [
+    "-3",
+    "5",
+    "9"
+   ],
+   "explanation": "By the Remainder Theorem: (-2)^3 - 2(-2) + 5 = -8 + 4 + 5 = 1.",
+   "memoryHook": "T-Rexy says: Plug in the zero of the divisor.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "remainder"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_073",
+   "question": "Find all zeros of f(x) = x^3 - 3x^2 - 4x + 12.",
+   "correctAnswer": "x = 3, 2, -2",
+   "distractors": [
+    "x = 3, 4, -1",
+    "x = 1, 2, 6",
+    "x = -3, 2, 2"
+   ],
+   "explanation": "Factor by grouping: x^2(x-3) - 4(x-3) = (x^2-4)(x-3) = (x-2)(x+2)(x-3).",
+   "memoryHook": "T-Rexy says: Group terms to find a common factor.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "zeros"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_074",
+   "question": "What is the end behavior of f(x) = -2x^3 + x^2 - 5?",
+   "correctAnswer": "As x -> infinity, f -> -infinity; as x -> -infinity, f -> infinity",
+   "distractors": [
+    "As x -> infinity, f -> infinity; as x -> -infinity, f -> -infinity",
+    "Both ends go to infinity",
+    "Both ends go to -infinity"
+   ],
+   "explanation": "Odd degree with negative leading coefficient: falls right, rises left.",
+   "memoryHook": "T-Rexy says: Odd degree: ends go opposite directions; negative coefficient flips them.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "end behavior"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_075",
+   "question": "Solve (x^2 - 9)/(x - 3) > 0.",
+   "correctAnswer": "x > -3, x not equal 3",
+   "distractors": [
+    "x > 3",
+    "x < -3",
+    "All real numbers except 3"
+   ],
+   "explanation": "Simplify to x + 3 (for x not equal 3), which is positive when x > -3.",
+   "memoryHook": "T-Rexy says: Cancel first, but remember the excluded value.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "rational",
+    "inequalities"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_076",
+   "question": "What is the partial fraction decomposition setup for (3x + 5)/((x - 1)(x + 2))?",
+   "correctAnswer": "A/(x - 1) + B/(x + 2)",
+   "distractors": [
+    "A/(x - 1) + B/(x - 1)^2",
+    "(Ax + B)/((x-1)(x+2))",
+    "A/x + B/(x+2)"
+   ],
+   "explanation": "Distinct linear factors each get their own term with a constant numerator.",
+   "memoryHook": "T-Rexy says: Each distinct linear factor gets a constant numerator.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "rational",
+    "partial fractions"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_077",
+   "question": "Solve 2 log(x) = log(9) + log(4).",
+   "correctAnswer": "x = 6",
+   "distractors": [
+    "x = 36",
+    "x = 13",
+    "x = 3"
+   ],
+   "explanation": "2 log(x) = log(36), so log(x^2) = log(36), x^2 = 36, x = 6 (x must be positive).",
+   "memoryHook": "T-Rexy says: Combine logs, then equate arguments.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "logarithms",
+    "equations"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_078",
+   "question": "Solve e^(2x) = 7.",
+   "correctAnswer": "x = (ln 7)/2",
+   "distractors": [
+    "x = ln 14",
+    "x = 2 ln 7",
+    "x = 7/2"
+   ],
+   "explanation": "Take ln of both sides: 2x = ln 7, so x = (ln 7)/2.",
+   "memoryHook": "T-Rexy says: The natural log undoes e.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "exponential",
+    "natural log"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_079",
+   "question": "What is the half-life equation if a substance decays as A = A0 (1/2)^(t/10)?",
+   "correctAnswer": "Half-life is 10",
+   "distractors": [
+    "Half-life is 5",
+    "Half-life is 20",
+    "Half-life is 2"
+   ],
+   "explanation": "The amount halves when t/10 = 1, so t = 10.",
+   "memoryHook": "T-Rexy says: Half-life is the time for the amount to halve.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "exponential",
+    "half-life"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_080",
+   "question": "What is the 20th term of the sequence defined by a_n = 2n^2 - n?",
+   "correctAnswer": "780",
+   "distractors": [
+    "760",
+    "800",
+    "740"
+   ],
+   "explanation": "a20 = 2(400) - 20 = 780.",
+   "memoryHook": "T-Rexy says: Plug n = 20 into the formula.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "sequences"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_081",
+   "question": "Find the sum of the series sum from k=1 to 4 of (3k - 1).",
+   "correctAnswer": "26",
+   "distractors": [
+    "22",
+    "30",
+    "18"
+   ],
+   "explanation": "Terms: 2, 5, 8, 11. Sum = 26.",
+   "memoryHook": "T-Rexy says: Evaluate each term, then add.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "series",
+    "sigma"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_082",
+   "question": "Solve the system: x^2 + y^2 = 25, x + y = 7.",
+   "correctAnswer": "(3, 4) and (4, 3)",
+   "distractors": [
+    "(5, 2) and (2, 5)",
+    "(0, 5) and (5, 0)",
+    "(1, 6) and (6, 1)"
+   ],
+   "explanation": "Substitute y = 7 - x: x^2 + (7-x)^2 = 25 gives x^2 - 7x + 12 = 0, so x = 3 or 4.",
+   "memoryHook": "T-Rexy says: Substitute one equation into the other.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "systems",
+    "nonlinear"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_083",
+   "question": "What is the inverse of f(x) = (x + 2)/(x - 1)?",
+   "correctAnswer": "f^-1(x) = (x + 2)/(x - 1)",
+   "distractors": [
+    "f^-1(x) = (x - 2)/(x + 1)",
+    "f^-1(x) = (2x + 1)/(x - 1)",
+    "f^-1(x) = (x + 1)/(x - 2)"
+   ],
+   "explanation": "Swap and solve: x = (y+2)/(y-1) gives xy - x = y + 2, so y(x - 1) = x + 2, y = (x+2)/(x-1). This function is its own inverse.",
+   "memoryHook": "T-Rexy says: Swap x and y, solve carefully with fractions.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "functions",
+    "inverse"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_084",
+   "question": "What is (f o g)(x) if f(x) = sqrt(x) and g(x) = x^2 - 4?",
+   "correctAnswer": "sqrt(x^2 - 4)",
+   "distractors": [
+    "x - 2",
+    "sqrt(x) - 4",
+    "x^2 - 4"
+   ],
+   "explanation": "(f o g)(x) = f(g(x)) = sqrt(x^2 - 4).",
+   "memoryHook": "T-Rexy says: Plug g into f.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "functions",
+    "composition"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_085",
+   "question": "What are the foci of the ellipse x^2/16 + y^2/7 = 1?",
+   "correctAnswer": "(3, 0) and (-3, 0)",
+   "distractors": [
+    "(4, 0) and (-4, 0)",
+    "(0, 3) and (0, -3)",
+    "(sqrt(23), 0) and (-sqrt(23), 0)"
+   ],
+   "explanation": "For an ellipse, the focal distance satisfies c^2 = a^2 - b^2. Here a^2 = 16 and b^2 = 7, so c^2 = 16 - 7 = 9 and c = 3. The major axis is horizontal, so the foci sit on the x-axis at (3, 0) and (-3, 0), inside the vertices (4, 0) and (-4, 0).",
+   "memoryHook": "T-Rexy says: For an ellipse, subtract: c^2 = a^2 - b^2, and the foci hide inside the vertices.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "conics",
+    "ellipses"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_086",
+   "question": "Solve 4^(x+1) = 8^(x-1).",
+   "correctAnswer": "x = 5",
+   "distractors": [
+    "x = 3",
+    "x = -5",
+    "x = 1"
+   ],
+   "explanation": "Write as powers of 2: 2^(2x+2) = 2^(3x-3), so 2x + 2 = 3x - 3, x = 5.",
+   "memoryHook": "T-Rexy says: Convert to a common base first.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "exponential"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_087",
+   "question": "Two sides of a triangle have lengths 5 and 7, and the angle between them is 60 degrees. What is the length of the third side?",
+   "correctAnswer": "sqrt(39)",
+   "distractors": [
+    "sqrt(109)",
+    "sqrt(74)",
+    "6"
+   ],
+   "explanation": "Use the law of cosines with the included angle: c^2 = 5^2 + 7^2 - 2 * 5 * 7 * cos(60) = 25 + 49 - 70 * (1/2) = 74 - 35 = 39, so c = sqrt(39). The subtraction term is what separates this from the plain Pythagorean sum sqrt(74).",
+   "memoryHook": "T-Rexy says: Law of cosines is Pythagoras plus a correction term - and at 60 degrees the correction is half the product term.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "trigonometry",
+    "law of cosines"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_088",
+   "question": "Solve sqrt(2x - 1) - sqrt(x) = 0.",
+   "correctAnswer": "x = 1",
+   "distractors": [
+    "x = 0",
+    "x = 2",
+    "No solution"
+   ],
+   "explanation": "sqrt(2x-1) = sqrt(x) gives 2x - 1 = x, so x = 1. Check: sqrt(1) - sqrt(1) = 0. Valid.",
+   "memoryHook": "T-Rexy says: Isolate one radical, square, and always check.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "radical",
+    "equations"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_089",
+   "question": "What is the vertex of y = -x^2 + 6x - 8?",
+   "correctAnswer": "(3, 1)",
+   "distractors": [
+    "(3, -1)",
+    "(-3, 1)",
+    "(6, -8)"
+   ],
+   "explanation": "x = -b/(2a) = -6/(-2) = 3; y = -9 + 18 - 8 = 1. Vertex (3, 1).",
+   "memoryHook": "T-Rexy says: Use x = -b/2a, then plug back for y.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "quadratic",
+    "vertex"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_090",
+   "question": "A quadratic has roots 2 and -5. What is the quadratic in factored form?",
+   "correctAnswer": "a(x - 2)(x + 5)",
+   "distractors": [
+    "a(x + 2)(x - 5)",
+    "a(x - 2)(x - 5)",
+    "a(x + 2)(x + 5)"
+   ],
+   "explanation": "Roots r give factors (x - r), so (x - 2)(x + 5).",
+   "memoryHook": "T-Rexy says: A root r means a factor (x - r).",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "quadratic",
+    "roots"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_091",
+   "question": "What are the asymptotes of the hyperbola x^2/9 - y^2/16 = 1?",
+   "correctAnswer": "y = 4x/3 and y = -4x/3",
+   "distractors": [
+    "y = 3x/4 and y = -3x/4",
+    "y = 16x/9 and y = -16x/9",
+    "y = 4x and y = -4x"
+   ],
+   "explanation": "For a hyperbola x^2/a^2 - y^2/b^2 = 1, the asymptotes are y = (b/a)x and y = -(b/a)x. Here a^2 = 9 gives a = 3 and b^2 = 16 gives b = 4, so the slopes are 4/3 and -4/3. The branches open left and right and approach these two lines.",
+   "memoryHook": "T-Rexy says: Hyperbola asymptotes use b over a - take square roots first, then form the slope.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "conics",
+    "hyperbolas"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_092",
+   "question": "Test scores are normally distributed with a mean of 70 and a standard deviation of 10. Using the empirical rule, what percentage of scores lie between 60 and 80?",
+   "correctAnswer": "68%",
+   "distractors": [
+    "95%",
+    "34%",
+    "99.7%"
+   ],
+   "explanation": "The scores 60 and 80 are each exactly one standard deviation from the mean (70 - 10 and 70 + 10). The empirical rule says about 68% of a normal distribution lies within one standard deviation of the mean. The 95% figure covers two standard deviations (50 to 90), and 34% is only one half of the middle band.",
+   "memoryHook": "T-Rexy says: One sigma out on each side traps about 68 percent in the middle.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "statistics",
+    "normal distribution"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_093",
+   "question": "What is the inverse of the matrix [[2, 1], [1, 1]]?",
+   "correctAnswer": "[[1, -1], [-1, 2]]",
+   "distractors": [
+    "[[2, -1], [-1, 1]]",
+    "[[1, 1], [1, 2]]",
+    "[[-1, 1], [1, -2]]"
+   ],
+   "explanation": "For [[a, b], [c, d]], the inverse is (1/(ad - bc)) * [[d, -b], [-c, a]]. The determinant is 2 * 1 - 1 * 1 = 1, so no scaling is needed. Swap the diagonal entries (2 and 1 trade places) and flip the signs of the off-diagonal entries: the inverse is [[1, -1], [-1, 2]]. Check: [[2, 1], [1, 1]] * [[1, -1], [-1, 2]] = [[1, 0], [0, 1]].",
+   "memoryHook": "T-Rexy says: Swap the corners, flip the other two signs, then divide by the determinant.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "matrices",
+    "inverses"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_094",
+   "question": "How does the graph of f(x) = (x - 2)^3 cross the x-axis at x = 2?",
+   "correctAnswer": "It crosses (odd multiplicity)",
+   "distractors": [
+    "It touches and turns (even multiplicity)",
+    "It does not reach the axis",
+    "It has a vertical asymptote"
+   ],
+   "explanation": "The factor (x - 2) has exponent 3, which is odd. Near x = 2 the factor changes sign, so the graph passes from one side of the x-axis to the other: it crosses (flattening) at x = 2 instead of bouncing back.",
+   "memoryHook": "T-Rexy says: Odd multiplicity crosses; even multiplicity bounces.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "polynomials",
+    "graph"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_095",
+   "question": "What is the slant asymptote of f(x) = (x^2 + 3x + 2)/(x + 1)?",
+   "correctAnswer": "y = x + 2",
+   "distractors": [
+    "y = x + 3",
+    "y = x + 1",
+    "No slant asymptote"
+   ],
+   "explanation": "Divide: (x^2 + 3x + 2)/(x + 1) = x + 2, so the slant asymptote is y = x + 2.",
+   "memoryHook": "T-Rexy says: When the numerator degree is one more, divide to find the slant asymptote.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "rational",
+    "asymptotes"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_096",
+   "question": "Solve (x - 1)(x + 2) < 0.",
+   "correctAnswer": "-2 < x < 1",
+   "distractors": [
+    "x < -2 or x > 1",
+    "x > 1",
+    "x < -2"
+   ],
+   "explanation": "The product of two factors is negative between the roots -2 and 1.",
+   "memoryHook": "T-Rexy says: A product is negative when the factors have opposite signs.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "inequalities"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_097",
+   "question": "What is the sum of the first n terms of an arithmetic series with a1 = 3, d = 4, n = 20?",
+   "correctAnswer": "820",
+   "distractors": [
+    "800",
+    "760",
+    "860"
+   ],
+   "explanation": "a20 = 3 + 19(4) = 79; sum = 20/2 x (3 + 79) = 820.",
+   "memoryHook": "T-Rexy says: Use Sn = n/2 (a1 + an).",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "series",
+    "arithmetic"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_098",
+   "question": "A ball is thrown upward with h(t) = -16t^2 + 48t + 6. When does it reach maximum height?",
+   "correctAnswer": "t = 1.5 seconds",
+   "distractors": [
+    "t = 3 seconds",
+    "t = 1 second",
+    "t = 2 seconds"
+   ],
+   "explanation": "Vertex time: t = -b/(2a) = -48/(-32) = 1.5 seconds.",
+   "memoryHook": "T-Rexy says: Maximum height happens at the vertex time.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "quadratic",
+    "applications"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_099",
+   "question": "For a ball thrown upward with h(t) = -16t^2 + 48t + 6, what is the maximum height of the ball?",
+   "correctAnswer": "42 feet",
+   "distractors": [
+    "36 feet",
+    "48 feet",
+    "54 feet"
+   ],
+   "explanation": "h(1.5) = -16(2.25) + 48(1.5) + 6 = -36 + 72 + 6 = 42.",
+   "memoryHook": "T-Rexy says: Plug the vertex time back into the height function.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "quadratic",
+    "applications"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ALG2_100",
+   "question": "Solve the inequality: (x - 2)/(x + 1) >= 0.",
+   "correctAnswer": "x < -1 or x >= 2",
+   "distractors": [
+    "x > -1 and x <= 2",
+    "x >= 2 only",
+    "All real numbers except -1"
+   ],
+   "explanation": "The fraction is non-negative when numerator and denominator have the same sign (or numerator is zero), excluding x = -1: x < -1 or x >= 2.",
+   "memoryHook": "T-Rexy says: Check sign changes at critical points -1 and 2, and exclude denominator zeros.",
+   "imageUrl": "topic:algebra2",
+   "tags": [
+    "rational",
+    "inequalities"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  }
+ ]
+}

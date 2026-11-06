@@ -1,1 +1,2020 @@
-{"packId":"arizona-grade-8","version":"1.0","title":"Arizona Grade 8 (AASA)","description":"Arizona Academic Standards Assessment prep for 8th grade - Math and ELA, high school readiness","language":"en","passingScore":60,"totalQuestions":100,"addedAt":"2026-11-02","tags":["arizona","grade8","aasa","math","ela"],"questions":[{"correctAnswer":"5","difficulty":1,"distractors":["19","-5","12"],"dynamic":false,"explanation":"Subtract 7 from both sides: x = 12 - 7 = 5.","id":"AZG8_001","imageUrl":"topic:linear-equations","memoryHook":"T-Rexy says: to free the x, do the opposite! A +7 becomes a -7 on both sides, chomp!","question":"Solve for x: x + 7 = 12","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"12","difficulty":1,"distractors":["42","4","3"],"dynamic":false,"explanation":"Subtract 5 first: x/3 = 4. Then multiply both sides by 3: x = 12.","id":"AZG8_002","imageUrl":"topic:linear-equations","memoryHook":"T-Rexy says: peel the onion outside in! Undo the +5 first, then undo the divide-by-3 with tiny dino steps.","question":"Solve for x: x/3 + 5 = 9","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"36","difficulty":1,"distractors":["13","5","2.25"],"dynamic":false,"explanation":"x is divided by 4, so multiply both sides by 4: x = 9 * 4 = 36.","id":"AZG8_003","imageUrl":"topic:linear-equations","memoryHook":"T-Rexy says: if x is being divided, MULTIPLY to stomp it free! Dividing and multiplying are dino rivals.","question":"Solve for x: x/4 = 9","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"9","difficulty":2,"distractors":["7","18","1"],"dynamic":false,"explanation":"Distribute the 2: 2x - 8 = 10. Add 8: 2x = 18. Divide by 2: x = 9.","id":"AZG8_004","imageUrl":"topic:linear-equations","memoryHook":"T-Rexy says: parentheses are treasure eggs - CRACK them open first by distributing before anything else!","question":"Solve for x: 2(x - 4) = 10","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"6","difficulty":2,"distractors":["-0.5","12","-6"],"dynamic":false,"explanation":"Move the x terms together: 5x - 3x = 4 + 8, so 2x = 12. Divide by 2: x = 6.","id":"AZG8_005","imageUrl":"topic:linear-equations","memoryHook":"T-Rexy says: x's on both sides? Herd all the x's to one pen and all the numbers to the other, like a tiny dino roundup!","question":"Solve for x: 5x - 8 = 3x + 4","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"5","difficulty":2,"distractors":["9","15/7","15"],"dynamic":false,"explanation":"Combine like terms: 3x + 6 = 21. Subtract 6: 3x = 15. Divide by 3: x = 5.","id":"AZG8_006","imageUrl":"topic:linear-equations","memoryHook":"T-Rexy says: 5x minus 2x is 3x, not 7x! Watch your minus sign or the dino gets grumpy.","question":"Solve for x: 5x - 2x + 6 = 21","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"7","difficulty":3,"distractors":["4","5","-7"],"dynamic":false,"explanation":"Distribute: 2x + 6 = 3x - 1. Subtract 2x: 6 = x - 1. Add 1: x = 7.","id":"AZG8_007","imageUrl":"topic:linear-equations","memoryHook":"T-Rexy says: big equation, big appetite! Distribute first, herd the x's together, then finish with one mighty chomp.","question":"Solve for x: 2(x + 3) = 3x - 1","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"4","difficulty":2,"distractors":["4.5","5","9"],"dynamic":false,"explanation":"Let t be the number of tickets: 12t + 6 = 54. Subtract 6: 12t = 48. Divide by 12: t = 4.","id":"AZG8_008","imageUrl":"topic:linear-equations","memoryHook":"T-Rexy says: the fee is not per ticket, it is one lump! Subtract the $6 first, then share the rest among the tickets.","question":"Movie tickets cost $12 each plus a $6 processing fee for the whole order. Your total was $54. How many tickets did you buy?","source":"TReps Arizona Grade 8","tags":["Math","Algebra","Word Problems"]},{"correctAnswer":"Step 2","difficulty":3,"distractors":["Step 1","No mistake","Both steps"],"dynamic":false,"explanation":"Step 1 is correct. In Step 2, both sides must be divided by 2: x = 4 / 2 = 2, not 4. The student forgot to divide.","id":"AZG8_009","imageUrl":"topic:linear-equations","memoryHook":"T-Rexy says: whatever you do to one side, do to the OTHER! Dividing only the x is a classic dino trap - divide the 4 too!","question":"A student solved 2x + 6 = 10 this way. Step 1: 2x = 4. Step 2: x = 4. In which step is the mistake?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"5","difficulty":3,"distractors":["4","-2","10"],"dynamic":false,"explanation":"Distribute: 6x - 3 = 4x + 7. Subtract 4x: 2x - 3 = 7. Add 3: 2x = 10. Divide by 2: x = 5.","id":"AZG8_010","imageUrl":"topic:linear-equations","memoryHook":"T-Rexy says: four moves - distribute, herd, isolate, divide. Count them on your tiny dino claws so you skip none!","question":"Solve for x: 3(2x - 1) = 4x + 7","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"3","difficulty":1,"distractors":["1/3","-3","12"],"dynamic":false,"explanation":"Slope = (change in y) / (change in x) = (16 - 4) / (5 - 1) = 12 / 4 = 3.","id":"AZG8_011","imageUrl":"topic:slope","memoryHook":"T-Rexy says: slope is rise over run - climb the dino hill, up then across!","question":"What is the slope of the line passing through (1, 4) and (5, 16)?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"slope = -4, y-intercept = 7","difficulty":1,"distractors":["slope = 7, y-intercept = -4","slope = 4, y-intercept = 7","slope = -7, y-intercept = 4"],"dynamic":false,"explanation":"In slope-intercept form y = mx + b, m is the slope and b is the y-intercept. Here m = -4 and b = 7.","id":"AZG8_012","imageUrl":"topic:slope-intercept","memoryHook":"T-Rexy says: m is the mountain's steepness, b is where the dino starts its hike!","question":"In the equation y = -4x + 7, what are the slope and the y-intercept?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"0","difficulty":1,"distractors":["1","undefined","-1"],"dynamic":false,"explanation":"A horizontal line has no rise, so slope = 0 / (change in x) = 0. A vertical line's slope is undefined.","id":"AZG8_013","imageUrl":"topic:horizontal-lines","memoryHook":"T-Rexy says: flat ground, no climb - the lazy dino naps on a zero-slope line!","question":"What is the slope of a horizontal line?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"-2","difficulty":2,"distractors":["2","-1/2","10/5"],"dynamic":false,"explanation":"Slope = (change in y) / (change in x) = (-2 - 8) / (2 - (-3)) = -10 / 5 = -2.","id":"AZG8_014","imageUrl":"topic:slope","memoryHook":"T-Rexy says: watch the signs! A minus minus is a plus - double-check every step like a careful raptor.","question":"What is the slope of the line passing through (-3, 8) and (2, -2)?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"y = (2/3)x - 5","difficulty":2,"distractors":["y = (2/3)x + 5","y = (3/2)x - 5","y = -5x + 2/3"],"dynamic":false,"explanation":"Slope-intercept form is y = mx + b with m = 2/3 and b = -5, giving y = (2/3)x - 5.","id":"AZG8_015","imageUrl":"topic:slope-intercept","memoryHook":"T-Rexy says: plug m and b into y = mx + b like fitting dino teeth into place!","question":"A line has slope 2/3 and y-intercept -5. What is its equation in slope-intercept form?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"y = 15x + 25","difficulty":2,"distractors":["y = 25x + 15","y = 40x","y = 15x - 25"],"dynamic":false,"explanation":"The per-month charge is the rate (slope = 15) and the activation fee is the starting amount (y-intercept = 25), so y = 15x + 25.","id":"AZG8_016","imageUrl":"topic:linear-word-problems","memoryHook":"T-Rexy says: the monthly fee is the steepness of your bill, the activation fee is where the dino starts paying!","question":"A cell phone plan charges a $25 activation fee plus $15 per month. Which equation gives the total cost y after x months?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"undefined","difficulty":2,"distractors":["0","6","1"],"dynamic":false,"explanation":"x = 6 is a vertical line. Any two points on it have the same x-coordinate, so the run is 0 and division by 0 is undefined.","id":"AZG8_017","imageUrl":"topic:vertical-lines","memoryHook":"T-Rexy says: a vertical cliff is too steep to climb - its slope is undefined, like a dino's vertical leap!","question":"What is the slope of the line x = 6?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"y = 2x - 3","difficulty":3,"distractors":["y = (1/2)x - 3","y = 2x + 5","y = -2x - 3"],"dynamic":false,"explanation":"Slope = (5 - (-3)) / (4 - 0) = 8 / 4 = 2. The point (0, -3) is the y-intercept, so y = 2x - 3.","id":"AZG8_018","imageUrl":"topic:graphing-lines","memoryHook":"T-Rexy says: when the point starts at (0, something), that something is your b - free dino shortcut!","question":"A line passes through (0, -3) and (4, 5). What is its equation in slope-intercept form?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"y = 3x + 6","difficulty":3,"distractors":["y = -3x + 6","y = 3x - 6","y = (1/3)x + 6"],"dynamic":false,"explanation":"Slope = (6 - 0) / (0 - (-2)) = 6 / 2 = 3. The y-intercept is 6 from the point (0, 6), so y = 3x + 6.","id":"AZG8_019","imageUrl":"topic:graphing-lines","memoryHook":"T-Rexy says: read the graph like dino footprints - rise first, then run, then check where it crosses the y-axis!","question":"A graph shows a line that passes through (-2, 0) and (0, 6). Which equation matches the graph?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"y = -8x + 120; the slope -8 means 8 gallons drain per minute","difficulty":3,"distractors":["y = 8x + 120; the slope 8 means 8 gallons drain per minute","y = -8x + 120; the slope -8 means 8 gallons are added per minute","y = 120x - 8; the slope 120 means the tank started with 8 gallons"],"dynamic":false,"explanation":"The tank loses 8 gallons per minute, so the rate (slope) is -8, and it starts with 120 gallons (y-intercept), giving y = -8x + 120. A negative slope means the amount decreases.","id":"AZG8_020","imageUrl":"topic:linear-word-problems","memoryHook":"T-Rexy says: draining means going down - a negative slope is the dino drinking the tank dry!","question":"A water tank holds 120 gallons and drains at a rate of 8 gallons per minute. Which equation gives the gallons y remaining after x minutes, and what is the slope's meaning?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"B","difficulty":1,"distractors":["A","C","A and C"],"dynamic":false,"explanation":"A function gives each input exactly one output. In B, inputs 1, 2, 3 each appear once. In A, input 1 has outputs 2 and 3. In C, input 2 has outputs 1 and 5. Note: repeated outputs are fine; repeated inputs with different outputs are not.","id":"AZG8_021","imageUrl":"topic:functions","memoryHook":"T-Rexy says: one input, one output - a function never double-books its dino-dates!","question":"Which table represents a function? A: (1,2), (1,3), (2,4)  B: (1,2), (2,2), (3,2)  C: (2,1), (2,5), (3,6)","source":"TReps Arizona Grade 8","tags":["Math","Functions"]},{"correctAnswer":"19","difficulty":1,"distractors":["15","27","35"],"dynamic":false,"explanation":"Substitute 5 for x: f(5) = 3(5) + 4 = 15 + 4 = 19. Forgetting the +4 gives 15; adding before multiplying gives 3(9) = 27.","id":"AZG8_022","imageUrl":"topic:functions","memoryHook":"T-Rexy says: plug the number in, multiply first, then add - order of operations is the T-Rexy's pecking order!","question":"If f(x) = 3x + 4, what is f(5)?","source":"TReps Arizona Grade 8","tags":["Math","Functions"]},{"correctAnswer":"C","difficulty":1,"distractors":["A","B","All three are functions"],"dynamic":false,"explanation":"In C, the input 0 is paired with two different outputs, 5 and 6, so it fails the one-output rule. B looks suspicious because the output 1 repeats, but repeated outputs are allowed.","id":"AZG8_023","imageUrl":"topic:functions","memoryHook":"T-Rexy says: repeated outputs are fine, but repeated inputs with different outputs means the function fizzles out!","question":"Which set of ordered pairs is NOT a function? A: {(1,2), (2,3), (3,4)}  B: {(4,1), (5,1), (6,1)}  C: {(0,5), (0,6), (1,7)}","source":"TReps Arizona Grade 8","tags":["Math","Functions"]},{"correctAnswer":"Yes","difficulty":2,"distractors":["No","Cannot tell","Only if 9 is removed"],"dynamic":false,"explanation":"Each input (4, 7, 2) has exactly one arrow, so it is a function. Two inputs pointing to the same output (9) is allowed - inputs cannot share outputs only when one input goes to two outputs.","id":"AZG8_024","imageUrl":"topic:mapping-diagram","memoryHook":"T-Rexy says: two dinos can share the same snack, but one dino cannot eat two snacks at once!","question":"A mapping diagram shows input 4 pointing to 9, input 7 pointing to 9, and input 2 pointing to 5. Does this represent a function?","source":"TReps Arizona Grade 8","tags":["Math","Functions"]},{"correctAnswer":"13","difficulty":2,"distractors":["1","-13","-1"],"dynamic":false,"explanation":"Substitute -3 for x: f(-3) = -2(-3) + 7 = 6 + 7 = 13. A negative times a negative is positive, so -2(-3) = 6, not -6.","id":"AZG8_025","imageUrl":"topic:functions","memoryHook":"T-Rexy says: negative times negative makes a positive - even a T-Rex turns a double negative into a happy stomp!","question":"If f(x) = -2x + 7, what is f(-3)?","source":"TReps Arizona Grade 8","tags":["Math","Functions"]},{"correctAnswer":"B","difficulty":2,"distractors":["A","C","A and C"],"dynamic":false,"explanation":"A linear function has x to the first power only. In B, the x^2 term makes the graph a curve (a parabola), so it is nonlinear. A and C are straight-line functions.","id":"AZG8_026","imageUrl":"topic:linear-nonlinear","memoryHook":"T-Rexy says: if the x wears a square hat (exponent 2), the graph curves like a dino's tail - not a straight road!","question":"Which equation describes a nonlinear function? A: y = 2x + 1  B: y = x^2 - 3  C: y = -4x","source":"TReps Arizona Grade 8","tags":["Math","Functions"]},{"correctAnswer":"Function A","difficulty":2,"distractors":["Function B","They are equal","Cannot tell"],"dynamic":false,"explanation":"Rate of change is the slope. Function A has slope 4. Function B rises 3 each time x rises 1 (8 - 5 = 3), so its rate of change is 3. Since 4 > 3, Function A grows faster.","id":"AZG8_027","imageUrl":"topic:rate-of-change","memoryHook":"T-Rexy says: compare the slopes, not the starting lines - the fastest dino wins the race, no matter where it starts!","question":"Function A: y = 4x + 2. Function B: x=0 gives 5, x=1 gives 8, x=2 gives 11. Which function has the greater rate of change?","source":"TReps Arizona Grade 8","tags":["Math","Functions"]},{"correctAnswer":"The flat booking fee","difficulty":3,"distractors":["The cost per guest","The total cost","The number of guests"],"dynamic":false,"explanation":"In C(n) = 12n + 25, the 12 multiplies n, so 12 dollars is the per-guest cost. The 25 is added once no matter how many guests come, so it is the flat room booking fee.","id":"AZG8_028","imageUrl":"topic:functions-context","memoryHook":"T-Rexy says: the lonely number with no x attached is the cover charge - it shows up even if zero dinos come to party!","question":"A party room costs C(n) = 12n + 25 dollars, where n is the number of guests. What does the 25 represent in this context?","source":"TReps Arizona Grade 8","tags":["Math","Functions"]},{"correctAnswer":"After 3 hours the cyclist traveled 45 miles","difficulty":3,"distractors":["After 45 hours the cyclist traveled 3 miles","The cyclist's speed is 45 mph","The cyclist rode for 45 hours"],"dynamic":false,"explanation":"D(3) = 45 means the input (time) is 3 hours and the output (distance) is 45 miles. Do not swap input and output - the number inside the parentheses is the input.","id":"AZG8_029","imageUrl":"topic:functions-context","memoryHook":"T-Rexy says: the number inside the parentheses goes IN first - feed the T-Rex hours, and it spits out miles!","question":"D(t) gives the miles a cyclist travels after t hours. If D(3) = 45, what does this mean?","source":"TReps Arizona Grade 8","tags":["Math","Functions"]},{"correctAnswer":"Not a function; nonlinear","difficulty":3,"distractors":["Function; linear","Function; nonlinear","Not a function; linear"],"dynamic":false,"explanation":"Since one input (x = 2) has two outputs (1 and 9), it fails the vertical line test and is not a function. The U-shaped curve means it is nonlinear anyway, but not being a function is the key finding.","id":"AZG8_030","imageUrl":"topic:functions","memoryHook":"T-Rexy says: if a vertical line stabs the graph twice, it is not a function - the T-Rex only bites once per spot!","question":"A graph is a U-shaped curve where x = 2 gives both y = 1 and y = 9. Which statement is true?","source":"TReps Arizona Grade 8","tags":["Math","Functions"]},{"correctAnswer":"10","difficulty":1,"distractors":["14","100","48"],"dynamic":false,"explanation":"Using a^2 + b^2 = c^2: 6^2 + 8^2 = 36 + 64 = 100, and the square root of 100 is 10.","id":"AZG8_031","imageUrl":"topic:pythagorean","memoryHook":"T-Rexy says: the hypotenuse is always the longest side and sits across from the right angle. Spot the right angle, find the hypotenuse!","question":"What is the length of the hypotenuse of a right triangle with legs 6 and 8?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"12","difficulty":1,"distractors":["18","144","8"],"dynamic":false,"explanation":"Using a^2 + b^2 = c^2: 5^2 + b^2 = 13^2, so 25 + b^2 = 169, b^2 = 144, and b = 12. When solving for a leg, subtract the square of the known leg from the square of the hypotenuse.","id":"AZG8_032","imageUrl":"topic:missing-leg","memoryHook":"T-Rexy says: hunting a missing leg? Subtract inside the cage, then take the square root to let it out!","question":"A right triangle has a hypotenuse of 13 and one leg of 5. What is the length of the other leg?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"5","difficulty":2,"distractors":["7","25","12"],"dynamic":false,"explanation":"The horizontal change is 6 - 2 = 4 and the vertical change is 4 - 1 = 3. Using a^2 + b^2 = c^2: 4^2 + 3^2 = 16 + 9 = 25, and the square root of 25 is 5.","id":"AZG8_033","imageUrl":"topic:distance-formula","memoryHook":"T-Rexy says: distance problems are secret right triangles. Find the horizontal and vertical gaps, then treat them as legs!","question":"What is the distance between the points (2, 1) and (6, 4) on a coordinate plane?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"Yes","difficulty":2,"distractors":["No","No, 9 + 12 = 21 not 15","Cannot be determined"],"dynamic":false,"explanation":"Check with the converse of the Pythagorean theorem: 9^2 + 12^2 = 81 + 144 = 225, and 15^2 = 225. Since the two smaller squares add up to the largest square, it is a right triangle.","id":"AZG8_034","imageUrl":"topic:converse-pythagoras","memoryHook":"T-Rexy says: to test a triangle, add the squares of the two SHORT sides and see if they match the LONG side's square. Match means right angle!","question":"Do side lengths of 9, 12, and 15 form a right triangle?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"8","difficulty":1,"distractors":["16","64","4"],"dynamic":false,"explanation":"The ladder is the hypotenuse (10) and the base is one leg (6). Using a^2 + b^2 = c^2: 6^2 + b^2 = 10^2, so 36 + b^2 = 100, b^2 = 64, and b = 8 feet.","id":"AZG8_035","imageUrl":"topic:ladder-problem","memoryHook":"T-Rexy says: a leaning ladder is a triangle in disguise. The ladder itself is always the hypotenuse, never a leg!","question":"A 10-foot ladder leans against a wall. The base of the ladder is 6 feet from the wall. How high up the wall does the ladder reach?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"15","difficulty":2,"distractors":["21","225","42"],"dynamic":false,"explanation":"The diagonal splits the rectangle into two right triangles with legs 9 and 12. Using a^2 + b^2 = c^2: 9^2 + 12^2 = 81 + 144 = 225, and the square root of 225 is 15 yards.","id":"AZG8_036","imageUrl":"topic:rectangle-diagonal","memoryHook":"T-Rexy says: a rectangle's diagonal is just a hypotenuse wearing a disguise. Slice the rectangle in half and solve it like any right triangle!","question":"A rectangular field is 9 yards wide and 12 yards long. What is the length of the diagonal across the field?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"24","difficulty":3,"distractors":["32","576","18"],"dynamic":false,"explanation":"Using a^2 + b^2 = c^2: 7^2 + b^2 = 25^2, so 49 + b^2 = 625, b^2 = 576, and the square root of 576 is 24.","id":"AZG8_037","imageUrl":"topic:missing-leg","memoryHook":"T-Rexy says: square the hypotenuse FIRST, then subtract. Big square minus little square gives the hidden leg's square!","question":"A right triangle has a hypotenuse of 25 and one leg of 7. What is the length of the other leg?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"13","difficulty":3,"distractors":["17","169","7"],"dynamic":false,"explanation":"The horizontal change is 2 - (-3) = 5 and the vertical change is -7 - 5 = -12, so the legs are 5 and 12 (distance is always positive). Using a^2 + b^2 = c^2: 5^2 + 12^2 = 25 + 144 = 169, and the square root of 169 is 13.","id":"AZG8_038","imageUrl":"topic:distance-formula","memoryHook":"T-Rexy says: negative coordinates cannot scare you. Subtract carefully, take the absolute value of each gap, then run the theorem as usual!","question":"What is the distance between the points (-3, 5) and (2, -7) on a coordinate plane?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"No","difficulty":3,"distractors":["Yes","Yes, it is a 7-24-25 triangle","Cannot be determined"],"dynamic":false,"explanation":"Check with the converse of the Pythagorean theorem: 7^2 + 24^2 = 49 + 576 = 625, but 26^2 = 676. Since 625 does not equal 676, it is not a right triangle. Do not be fooled by the look-alike 7-24-25 triple.","id":"AZG8_039","imageUrl":"topic:converse-pythagoras","memoryHook":"T-Rexy says: close is not equal! Always square and compare, because sneaky look-alike triples love to trick hungry mathematicians.","question":"Do side lengths of 7, 24, and 26 form a right triangle?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"10.9","difficulty":2,"distractors":["13","119","7"],"dynamic":false,"explanation":"The ladder is the hypotenuse (12) and the base is one leg (5). Using a^2 + b^2 = c^2: 5^2 + b^2 = 12^2, so 25 + b^2 = 144, b^2 = 119, and the square root of 119 is about 10.9 feet.","id":"AZG8_040","imageUrl":"topic:ladder-problem","memoryHook":"T-Rexy says: when the square root is messy, grab a calculator and round. A decimal answer is still a victory roar!","question":"A 12-foot ladder leans against a wall. The base of the ladder is 5 feet from the wall. About how high up the wall does the ladder reach? Round to the nearest tenth.","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"282.6 cubic cm","difficulty":1,"distractors":["94.2 cubic cm","188.4 cubic cm","31.4 cubic cm"],"dynamic":false,"explanation":"V = pi r^2 h = 3.14 x 3^2 x 10 = 3.14 x 9 x 10 = 282.6 cubic cm.","id":"AZG8_041","imageUrl":"topic:volume-cylinder","memoryHook":"T-Rexy says: square the radius FIRST - little T-Rexy arms always square the radius before multiplying!","question":"What is the volume of a cylinder with radius 3 cm and height 10 cm? Use 3.14 for pi.","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"113.04 cubic in","difficulty":1,"distractors":["84.78 cubic in","37.68 cubic in","904.32 cubic in"],"dynamic":false,"explanation":"V = (4/3) pi r^3 = (4/3) x 3.14 x 27 = 4 x 3.14 x 9 = 113.04 cubic in.","id":"AZG8_042","imageUrl":"topic:volume-sphere","memoryHook":"T-Rexy says: a sphere is FOUR-thirds - picture four tiny T-Rexy arms hugging the ball!","question":"What is the volume of a sphere with radius 3 inches? Use 3.14 for pi.","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"150.72 cubic cm","difficulty":1,"distractors":["452.16 cubic cm","37.68 cubic cm","602.88 cubic cm"],"dynamic":false,"explanation":"V = (1/3) pi r^2 h = (1/3) x 3.14 x 16 x 9 = 3.14 x 16 x 3 = 150.72 cubic cm.","id":"AZG8_043","imageUrl":"topic:volume-cone","memoryHook":"T-Rexy says: a cone is one-third of its cylinder buddy - never forget the 1/3!","question":"What is the volume of a cone with radius 4 cm and height 9 cm? Use 3.14 for pi.","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"942 cubic ft","difficulty":2,"distractors":["3768 cubic ft","188.4 cubic ft","376.8 cubic ft"],"dynamic":false,"explanation":"Diameter 10 ft means radius 5 ft. V = pi r^2 h = 3.14 x 25 x 12 = 942 cubic ft.","id":"AZG8_044","imageUrl":"topic:volume-water-tank","memoryHook":"T-Rexy says: diameter is the WHOLE cookie, radius is HALF the cookie - always halve it first!","question":"A cylindrical water tank has a diameter of 10 feet and a height of 12 feet. How many cubic feet of water can it hold? Use 3.14 for pi.","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"12 cm","difficulty":2,"distractors":["4 cm","3 cm","6 cm"],"dynamic":false,"explanation":"314 = (1/3) x 3.14 x 25 x h, so h = 314 x 3 / (3.14 x 25) = 942 / 78.5 = 12 cm.","id":"AZG8_045","imageUrl":"topic:volume-cone","memoryHook":"T-Rexy says: going backwards? Multiply by 3 to undo the cone's sneaky one-third!","question":"A cone has a volume of 314 cubic cm and a radius of 5 cm. What is its height? Use 3.14 for pi.","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"They are the same: 113.04 cubic units","difficulty":2,"distractors":["The cylinder is greater","The cone is greater","The cone: 339.12 cubic units"],"dynamic":false,"explanation":"Cylinder: 3.14 x 4 x 9 = 113.04. Cone: (1/3) x 3.14 x 36 x 3 = 113.04. The wide short cone exactly ties the tall skinny cylinder.","id":"AZG8_046","imageUrl":"topic:volume-comparison","memoryHook":"T-Rexy says: don't trust your eyes - a short wide cone can tie a tall skinny cylinder, so always do the math!","question":"A cylinder has radius 2 units and height 9 units. A cone has radius 6 units and height 3 units. Which solid has the greater volume? Use 3.14 for pi.","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"3 in","difficulty":2,"distractors":["9 in","6 in","27 in"],"dynamic":false,"explanation":"113.04 = (4/3) x 3.14 x r^3, so r^3 = 113.04 x 3 / (4 x 3.14) = 27, and r = 3 in.","id":"AZG8_047","imageUrl":"topic:volume-sphere","memoryHook":"T-Rexy says: r-cubed is the treasure - dig it out with a cube root, tiny dino shovel and all!","question":"A sphere has a volume of 113.04 cubic inches. What is its radius? Use 3.14 for pi.","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"37.68 cubic in","difficulty":3,"distractors":["79.55 cubic in","54.43 cubic in","96.29 cubic in"],"dynamic":false,"explanation":"Cone: (1/3) x 3.14 x 4 x 5 = 20.93. Hemisphere: (1/2) x (4/3) x 3.14 x 8 = 16.75. Total = 37.68 cubic in.","id":"AZG8_048","imageUrl":"topic:volume-ice-cream","memoryHook":"T-Rexy says: a scoop is HALF a sphere - T-Rexy only gets half because his arms can't hold the whole scoop!","question":"An ice cream cone is a cone with radius 2 inches and height 5 inches, topped with a hemisphere scoop of the same radius. What is the total volume of cone plus scoop? Use 3.14 for pi.","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"The sphere holds 37.68 cubic cm more","difficulty":3,"distractors":["The cylinder holds 37.68 cubic cm more","The sphere holds 9.42 cubic cm more","The sphere holds 75.36 cubic cm more"],"dynamic":false,"explanation":"Cylinder: 3.14 x 4 x 6 = 75.36. Sphere: (4/3) x 3.14 x 27 = 113.04. Difference: 113.04 - 75.36 = 37.68 cubic cm in favor of the sphere.","id":"AZG8_049","imageUrl":"topic:volume-comparison","memoryHook":"T-Rexy says: when comparing shapes, compute BOTH volumes - never let the taller shape bully you into guessing!","question":"A cylindrical can has radius 2 cm and height 6 cm. A spherical ball has radius 3 cm. Which holds more, and by how much? Use 3.14 for pi.","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"10 ft","difficulty":3,"distractors":["5 ft","25 ft","20 ft"],"dynamic":false,"explanation":"1570 = 3.14 x r^2 x 20, so r^2 = 1570 / 62.8 = 25 and r = 5 ft. Diameter = 2 x 5 = 10 ft.","id":"AZG8_050","imageUrl":"topic:volume-water-tank","memoryHook":"T-Rexy says: they asked for DIAMETER but you found RADIUS - double it, because T-Rexy always doubles his snacks!","question":"A cylindrical water tank holds 1570 cubic feet of water and is 20 feet tall. What is the diameter of the tank? Use 3.14 for pi.","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"(6, 2)","difficulty":1,"distractors":["(6, 4)","(-2, 2)","(2, 6)"],"dynamic":false,"explanation":"Right 4: x becomes 2 + 4 = 6. Down 1: y becomes 3 - 1 = 2. So A' is at (6, 2).","id":"AZG8_051","imageUrl":"topic:transformations","memoryHook":"T-Rexy says: right means x grows, up means y grows - stomp in the right direction!","question":"Point A is at (2, 3). After a translation 4 units right and 1 unit down, where is A'?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"(4, 5)","difficulty":2,"distractors":["(-4, -5)","(-4, 5)","(5, -4)"],"dynamic":false,"explanation":"A reflection across the x-axis keeps the x-coordinate and flips the sign of the y-coordinate. So (4, -5) becomes (4, 5).","id":"AZG8_052","imageUrl":"topic:transformations","memoryHook":"T-Rexy says: the x-axis is like a mirror on the floor - your x stays the same, your y flips upside down!","question":"Point B is at (4, -5). If B is reflected across the x-axis, where is B'?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"(2, 3)","difficulty":2,"distractors":["(-2, -3)","(-3, 2)","(3, -2)"],"dynamic":false,"explanation":"For a 90-degree counterclockwise rotation about the origin, (x, y) becomes (-y, x). So (3, -2) becomes (2, 3).","id":"AZG8_053","imageUrl":"topic:transformations","memoryHook":"T-Rexy says: spin left 90 - swap the numbers and flip the sign of the NEW x, like doing a dinosaur twirl!","question":"Point C is at (3, -2). If C is rotated 90 degrees counterclockwise about the origin, where is C'?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"(-1, 4)","difficulty":3,"distractors":["(-4, 4)","(2, 4)","(-1, 2)"],"dynamic":false,"explanation":"Step 1 - dilation by 2: (1 x 2, 2 x 2) = (2, 4). Step 2 - translate 3 left: x becomes 2 - 3 = -1. So P' is at (-1, 4).","id":"AZG8_054","imageUrl":"topic:transformations","memoryHook":"T-Rexy says: order matters - grow the dino FIRST with dilation, then stomp it sideways with the translation!","question":"Point P is at (1, 2). First, the figure is dilated by a scale factor of 2 centered at the origin. Then it is translated 3 units left. Where is P' after both transformations?","source":"TReps Arizona Grade 8","tags":["Math","Geometry"]},{"correctAnswer":"(3, 6)","difficulty":1,"distractors":["(6, 3)","(3, 3)","(4.5, 4.5)"],"dynamic":false,"explanation":"Substitute 2x for y: x + 2x = 9, so 3x = 9 and x = 3. Then y = 2(3) = 6. The solution is (3, 6).","id":"AZG8_055","imageUrl":"topic:systems-equations","memoryHook":"T-Rexy says: substitution is like swapping a toy - trade y for 2x, then solve with one crunchy bite!","question":"Solve the system by substitution: y = 2x and x + y = 9. What is the solution?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"(3, 2)","difficulty":2,"distractors":["(3, -2)","(2, 3)","(0, 4)"],"dynamic":false,"explanation":"Subtract the second equation from the first: (2x + 3y) - (2x - y) = 12 - 4, so 4y = 8 and y = 2. Plug back in: 2x - 2 = 4, so 2x = 6 and x = 3. The solution is (3, 2).","id":"AZG8_056","imageUrl":"topic:systems-equations","memoryHook":"T-Rexy says: matching 2x terms cancel like dinner plates - subtract and chomp what's left!","question":"Solve the system by elimination: 2x + 3y = 12 and 2x - y = 4. What is the solution?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"Infinitely many solutions","difficulty":3,"distractors":["One solution: (0, -2)","No solution","One solution: (2, 4)"],"dynamic":false,"explanation":"Divide the second equation by 2: 3x - y = 2, which rearranges to y = 3x - 2. Both equations describe the same line, so every point on the line is a solution - infinitely many.","id":"AZG8_057","imageUrl":"topic:systems-equations","memoryHook":"T-Rexy says: same line twice means the dino is chasing its own tail - infinite solutions!","question":"Consider the system: y = 3x - 2 and 6x - 2y = 4. How many solutions does this system have?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"32","difficulty":1,"distractors":["64","2","10"],"dynamic":false,"explanation":"When multiplying powers with the same base, add the exponents: 2^3 x 2^2 = 2^(3+2) = 2^5 = 32.","id":"AZG8_058","imageUrl":"topic:exponents","memoryHook":"T-Rexy says: same base multiplying? ADD the exponents - stack those power snacks up!","question":"What is the value of 2^3 x 2^2?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"4.5 x 10^-4","difficulty":2,"distractors":["4.5 x 10^4","4.5 x 10^-3","45 x 10^-4"],"dynamic":false,"explanation":"Move the decimal point 4 places to the right to get 4.5, a number between 1 and 10. Moving right means the exponent is negative: 4.5 x 10^-4.","id":"AZG8_059","imageUrl":"topic:exponents","memoryHook":"T-Rexy says: tiny decimal scurries RIGHT, so the exponent goes negative - small dino, negative power!","question":"Which shows 0.00045 written in scientific notation?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"6 x 10^2","difficulty":3,"distractors":["6 x 10^-8","5 x 10^2","6 x 10^6"],"dynamic":false,"explanation":"Multiply the coefficients: 3 x 2 = 6. Add the exponents: 4 + (-2) = 2. The result is 6 x 10^2.","id":"AZG8_060","imageUrl":"topic:exponents","memoryHook":"T-Rexy says: multiply the front numbers, ADD the exponents - even when one is negative, the dino adds!","question":"What is (3 x 10^4) x (2 x 10^-2) written in scientific notation?","source":"TReps Arizona Grade 8","tags":["Math","Algebra"]},{"correctAnswer":"The saguaro cactus survives desert droughts by storing rainwater in its expandable ribs.","difficulty":1,"distractors":["The saguaro cactus can live for more than 150 years.","The Sonoran Desert is one of the hottest places on Earth.","All desert plants store water in their stems."],"dynamic":false,"explanation":"The correct answer captures the full point: how saguaros survive drought. The first distractor is a true supporting detail, not the main idea; the second is not stated in the passage; the third is an overly broad generalization.","id":"AZG8_061","imageUrl":"topic:reading-informational","memoryHook":"T-Rexy says: the main idea is the whole dino - details are just the scales!","question":"Read the passage: 'The saguaro cactus can live for more than 150 years in the Sonoran Desert. Its accordion-like ribs expand to store water after rare rainstorms. This stored water keeps the cactus alive through months of drought.' What is the main idea of the passage?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Sequence, because the passage lists events in the order they happen.","difficulty":1,"distractors":["Compare and contrast, because it compares summer and winter weather.","Cause and effect, because the passage explains why floods happen.","Problem and solution, because it describes how to stay safe in floods."],"dynamic":false,"explanation":"Words like first, next, and finally signal chronological sequence. The passage does not compare two things, it presents no problem to solve, and cause/effect is not the organizing pattern.","id":"AZG8_062","imageUrl":"topic:text-structure","memoryHook":"T-Rexy says: first, next, finally - that's the dino timeline marching by!","question":"Read the passage: 'Arizona's monsoon season follows a clear pattern. First, hot summer air rises and draws moist air from the south. Next, towering thunderheads build up each afternoon. Finally, sudden downpours and flash floods can sweep through desert canyons.' Which text structure does the author use?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"To show that both trees survive drought using different strategies.","difficulty":2,"distractors":["To argue that mesquite trees are stronger than palo verdes.","To explain why desert trees drop their leaves every year.","To prove that green bark is better than deep roots."],"dynamic":false,"explanation":"The passage contrasts two strategies without ranking them. The distractors add a judgment (stronger, better) the passage never makes, or overgeneralize a detail to all desert trees.","id":"AZG8_063","imageUrl":"topic:compare-contrast","memoryHook":"T-Rexy says: compare means two dinos side by side, not a winner's trophy!","question":"Read the passage: 'Mesquite trees and palo verde trees both thrive in Arizona's desert, but they survive drought in different ways. Mesquite trees grow taproots that reach deep underground water. Palo verdes, in contrast, use their green bark to photosynthesize after dropping their small leaves.' What is the purpose of this comparison?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Drought reduces river water, which cuts irrigation, which forces farmers to plant less.","difficulty":2,"distractors":["Farmers cause droughts by using too much irrigation water.","Desert rivers dry up because farmers plant too many crops.","Low crop harvests cause less rain to fall on the mountains."],"dynamic":false,"explanation":"The chain flows from drought to less water to less planting. The distractors reverse the chain, blaming farmers for the drought or the harvest for the rain.","id":"AZG8_064","imageUrl":"topic:cause-effect","memoryHook":"T-Rexy says: follow the cause like dino footprints - step one, then step two!","question":"Read the passage: 'During Arizona's drought years, less rain falls on the mountains that feed desert rivers. As river levels drop, irrigation canals deliver less water to farms. Farmers then leave fields unplanted, which reduces the state's crop harvest.' Which statement best describes the cause-and-effect chain?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"To persuade readers to volunteer for a saguaro cleanup crew.","difficulty":1,"distractors":["To inform readers that saguaros are hundreds of years old.","To explain how wildfires spread through desert grasses.","To entertain readers with a story about Arizona plants."],"dynamic":false,"explanation":"The call to action (\"Join a cleanup crew\") shows a persuasive purpose. The distractors describe real details but miss the author's goal of recruiting volunteers.","id":"AZG8_065","imageUrl":"topic:authors-purpose","memoryHook":"T-Rexy says: when the author says JOIN ME, the purpose is to persuade the herd!","question":"Read the passage: 'Saguaro National Park needs volunteers to help protect its ancient cacti. Without help, invasive grasses could fuel wildfires that destroy centuries-old saguaros. Join a cleanup crew this spring and be part of saving Arizona's most iconic plant.' What is the author's purpose?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Central idea: the Grand Canyon draws millions of visitors and reveals Earth's deep history; supporting detail: the Bright Angel Trail drops 4,000 feet to the river.","difficulty":2,"distractors":["Central idea: the Bright Angel Trail is 4,000 feet long; supporting detail: six million people visit yearly.","Central idea: the Colorado River runs through the canyon; supporting detail: rock layers show two billion years of history.","Central idea: hiking trails are dangerous; supporting detail: the canyon walls are layered."],"dynamic":false,"explanation":"The central idea covers the whole passage (visitors plus what the canyon shows); the trail depth is one specific detail. The distractors promote details to central ideas or add claims (dangerous) the passage never makes.","id":"AZG8_066","imageUrl":"topic:central-idea","memoryHook":"T-Rexy says: central idea is the dino skeleton, supporting details are the fossil footprints!","question":"Read the passage: 'The Grand Canyon attracts over six million visitors each year. Many of them hike the Bright Angel Trail, which drops more than 4,000 feet to the Colorado River. The canyon's layered rock walls reveal nearly two billion years of Earth's history.' Which statement is the central idea, and which is a supporting detail?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Arizona built a massive canal system to bring Colorado River water to its desert cities, and that water now supports farms, homes, and industry.","difficulty":3,"distractors":["The Central Arizona Project took twenty years to build and moves water hundreds of miles.","Arizona should negotiate harder with other states to get more water from the Colorado River.","Phoenix and Tucson would not exist without water from the Central Arizona Project."],"dynamic":false,"explanation":"The best summary captures the passage's full scope without adding opinions. The first distractor is only details, the second adds an opinion the author never states, and the third is an overly absolute claim not supported by the text.","id":"AZG8_067","imageUrl":"topic:summarizing","memoryHook":"T-Rexy says: a summary is the dino on a postcard - small, complete, no extra tail!","question":"Read the passage: 'Arizona's canals move water hundreds of miles from the Colorado River to Phoenix and Tucson. Engineers built the Central Arizona Project over twenty years to make desert cities possible. Today, farmers, homeowners, and industries all depend on this delivered water, and Arizona negotiates with other states to keep its share.' Which is the best summary of the passage?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"A haboob, a dust storm that can make it impossible to see within minutes.","difficulty":2,"distractors":["A cool breeze that makes summer thunderstorms less dangerous.","Longer thunderstorms that bring much-needed rain to the desert.","Fertile soil deposits that help desert plants grow."],"dynamic":false,"explanation":"The passage states the result directly: the plunging air lifts dust and creates a haboob. The distractors invent positive outcomes (cooling, rain, fertile soil) that the passage never mentions.","id":"AZG8_068","imageUrl":"topic:cause-effect","memoryHook":"T-Rexy says: cause is the stomp, effect is the dust cloud that follows!","question":"Read the passage: 'Intense desert thunderstorms cool the air above the ground. This cold air plunges downward and spreads out, lifting huge walls of dust. The result is a haboob, a towering dust storm that can reduce visibility to zero in minutes.' What effect do the plunging cold air and dust produce?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"To motivate Arizona homeowners to fix leaks and install low-flow fixtures.","difficulty":3,"distractors":["To describe how plumbing fixtures are manufactured.","To compare Arizona's water use with other states.","To report the exact number of gallons wasted statewide."],"dynamic":false,"explanation":"Though the passage gives facts, its purpose is persuasive: the statistics build urgency and the final sentence urges action. The distractors treat the passage as a neutral report or invent topics (manufacturing, comparisons) never mentioned.","id":"AZG8_069","imageUrl":"topic:authors-purpose","memoryHook":"T-Rexy says: numbers plus a nudge to act - that's a dino asking for help!","question":"Read the passage: 'A single leaking toilet can waste more than 200 gallons of water a day. In a desert state like Arizona, every saved gallon matters. Fixing leaks and installing low-flow fixtures are simple steps any homeowner can take this weekend.' Which best states the author's implied purpose?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"The Grand Canyon was carved by two slow, different forces working together: gradual uplift and steady river erosion.","difficulty":3,"distractors":["The Colorado Plateau rises only a few inches every century.","The Colorado River is the most powerful force in the canyon.","The Grand Canyon formed quickly during a single ancient flood."],"dynamic":false,"explanation":"The passage compares two cooperating processes without ranking them. The distractors isolate one detail, add a ranking the passage never makes, or contradict the passage's emphasis on millions of years.","id":"AZG8_070","imageUrl":"topic:main-idea","memoryHook":"T-Rexy says: two slow dinos pushed together - main idea holds both in one bite!","question":"Read the passage: 'Two forces carved the Grand Canyon, but they worked at very different speeds. Uplift raised the Colorado Plateau slowly over millions of years, while the Colorado River cut downward through the rising rock. The plateau rose only inches per century, yet the river's steady erosion removed entire layers of stone.' What is the main idea of the passage?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Setbacks can be turned into opportunities when you respond with patience and creativity.","difficulty":1,"distractors":["Marcus is late for school because he missed the bus twice this week.","Drawing is a better use of time than catching the bus.","Rain makes people calm enough to sketch peacefully."],"dynamic":false,"explanation":"The theme is the deeper message - patience and creativity turn a setback into something useful. The distractors are traps: a plot summary of what happened, a claim the passage never makes about drawing being better, and a literal comment about rain rather than the bigger idea.","id":"AZG8_071","imageUrl":"topic:reading-literary","memoryHook":"T-Rexy says: theme is the buried treasure - dig past the plot to find it!","question":"Read the excerpt: 'Marcus missed the bus again. Instead of panicking, he pulled out his notebook and sketched the rain on the shelter roof. By the time the next bus arrived, he had three drawings and a calm mind.' What is the theme of this passage?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Honesty and kindness matter more than personal gain.","difficulty":2,"distractors":["People should always go to concerts when they get the chance.","Tourists are careless with their wallets while traveling.","Priya is saving her money by walking home instead of riding."],"dynamic":false,"explanation":"The passage shows Priya choosing honesty over an easy reward, so the theme is about valuing kindness over personal gain. Distractors include a misread life lesson the passage never supports, a generalization about tourists, and a detail (walking home) twisted into a false point about saving money.","id":"AZG8_072","imageUrl":"topic:reading-literary","memoryHook":"T-Rexy says: theme is the buried treasure - dig past the plot to find it!","question":"Read the excerpt: 'Priya could have kept the found wallet. The cash inside would have covered her concert ticket. Instead, she returned it to the trembling tourist who had lost it, and walked home smiling anyway.' Which theme is best supported by this passage?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Compassion - she puts her frustration aside to comfort her brother.","difficulty":1,"distractors":["Carelessness - she lets her brother spill things around her work.","Impatience - she rolls her eyes and wants to finish her homework.","Silliness - she laughs at a serious situation."],"dynamic":false,"explanation":"Lena's eye-roll shows brief frustration, but her actions (grabbing a towel, laughing kindly, helping) reveal compassion. The distractors freeze-frame her first reaction (impatience), mislabel her kindness (silliness), or blame her for the spill (carelessness) instead of judging her by her final choices.","id":"AZG8_073","imageUrl":"topic:reading-literary","memoryHook":"T-Rexy says: don't judge a dino by its first roar - watch what it does by the end!","question":"Read the excerpt: 'Lena rolled her eyes when her little brother spilled juice on her homework. Then she saw his lip quiver. She grabbed a towel, laughed, and helped him clean it up.' What character trait does Lena show by the end of the passage?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Devon is driven by his belief in a cause, which pushes him to face his fear of speaking.","difficulty":3,"distractors":["Devon joins the debate team because he enjoys the sound of his own voice.","Devon practices in the garage because he wants to be left alone.","Devon wants the library funded so he has a quieter place to practice."],"dynamic":false,"explanation":"Devon's reason is his commitment to the library funding - he practices through shaking fear because the cause matters to him. The distractors swap in surface readings: enjoying his voice (contradicted by his terror), wanting solitude (a literal detail misread as motive), and a backwards cause-and-effect about the library.","id":"AZG8_074","imageUrl":"topic:reading-literary","memoryHook":"T-Rexy says: motivation is the engine under the hood - ask what fuel the character runs on!","question":"Read the excerpt: 'Devon signed up for the debate team even though public speaking terrified him. Every morning he practiced in the empty garage, voice shaking, because he wanted to argue for the new library funding. Fear would not decide for him.' What best explains Devon's motivation?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Internal conflict - Sofia is torn between wanting the ticket and not wanting to hurt her friend.","difficulty":1,"distractors":["External conflict - Sofia is fighting with Elena at the pool.","Character vs. nature conflict - Sofia is battling the water during the race.","No conflict - the girls already agreed on a fair plan."],"dynamic":false,"explanation":"The struggle happens inside Sofia (her twisting stomach over disappointing Elena), making it internal conflict. Traps: calling it a fight with Elena (no argument is described), mislabeling the swim race as a nature conflict, and claiming the agreement removed the conflict (the agreement created the dilemma).","id":"AZG8_075","imageUrl":"topic:reading-literary","memoryHook":"T-Rexy says: when the battle is inside the dino's head, that's internal conflict!","question":"Read the excerpt: 'Sofia wanted the last concert ticket, but her best friend Elena wanted it too. They promised whoever won their swim race would take the ticket. At the pool's edge, Sofia's stomach twisted - winning meant Elena would be disappointed.' What type of conflict does Sofia face?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"The lightning striking the pine and Carlos abandoning the shortcut to run for shelter.","difficulty":2,"distractors":["Carlos studying the trail map and choosing the shortcut.","Carlos dropping his backpack as he starts to run.","Carlos mocking the shelter earlier that morning."],"dynamic":false,"explanation":"The lightning strike is the moment of highest tension where everything changes - Carlos reverses his proud choice. The map study is the setup, mocking the shelter is background, and dropping the pack is a detail within the climax, not the turning point itself.","id":"AZG8_076","imageUrl":"topic:reading-literary","memoryHook":"T-Rexy says: the climax is the volcano erupting - the peak moment when the story can't turn back!","question":"Read the excerpt: 'The trail map showed a shortcut across the ridge. Halfway across, the sky went black and lightning split a pine fifty yards ahead. Carlos dropped his pack and ran - not toward the shortcut, but back to the shelter he had mocked that morning.' Which event is the climax of this mini-story?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Simile - both comparisons use 'like' or 'as' to compare sounds to something else.","difficulty":2,"distractors":["Metaphor - the passage calls the roar a tidal wave directly.","Personification - the stadium is given the human ability to wait.","Hyperbole - the comparisons are exaggerated beyond belief."],"dynamic":false,"explanation":"Both comparisons use 'like' or 'as' ('like a tidal wave,' 'silent as a library'), which defines simile. The distractors are near-miss traps: a metaphor would skip the 'like/as,' the stadium's 'waiting' is a minor detail not the main device, and hyperbole misses the specific comparison structure.","id":"AZG8_077","imageUrl":"topic:figurative-language","memoryHook":"T-Rexy says: simile is a comparison with training wheels - look for 'like' or 'as' holding it up!","question":"Read the excerpt: 'The crowd's roar hit like a tidal wave as the final goal landed. Then the stadium fell silent as a library, waiting for the referee's call.' Which type of figurative language is used in this passage?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"It creates a spooky, alive feeling by giving the house human behaviors such as groaning, gossiping, and winking.","difficulty":3,"distractors":["It proves the house is haunted by actual ghosts.","It explains how wind physically damages old houses.","It shows the house is friendly and welcoming visitors."],"dynamic":false,"explanation":"The personification (groaning, gossiping, winking) makes the house feel eerily alive. The distractors take the figure of speech literally: treating it as proof of ghosts, reading it as a science explanation, or mistaking the creepy tone for a welcoming one.","id":"AZG8_078","imageUrl":"topic:figurative-language","memoryHook":"T-Rexy says: personification gives things a heartbeat - listen for objects acting like people!","question":"Read the excerpt: 'The old house groaned in the wind, its shutters gossiping with every gust. The porch light winked at us like it knew our secret.' What is the effect of the figurative language in this passage?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"First person - the narrator uses 'I' and shares only their own inner thoughts and feelings.","difficulty":2,"distractors":["Second person - the narrator addresses the reader directly as 'you.'","Third person limited - the narrator describes one character from the outside.","Third person omniscient - the narrator knows what the audience is thinking."],"dynamic":false,"explanation":"The 'I' pronouns and access to only the speaker's private fears mark first person. The distractors misidentify: no 'you' addresses the reader, a third-person narrator would not say 'I,' and we never learn the audience's actual thoughts - only the narrator's worry about them.","id":"AZG8_079","imageUrl":"topic:reading-literary","memoryHook":"T-Rexy says: first person wears an 'I' badge - if the narrator says 'I', they're in the story!","question":"Read the excerpt: 'I gripped the podium and felt my notes shake in my hand. I could hear my heart pounding louder than the applause, and I wondered if anyone in the audience could tell how scared I was.' From which point of view is this passage told?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"The third-person omniscient narrator reveals what both characters misunderstand, creating dramatic irony the characters cannot see.","difficulty":3,"distractors":["The first-person narrator shows only Noah's feelings about the seat.","The second-person narrator asks the reader to take Maya's side.","The third-person narrator stays neutral and reports only physical actions."],"dynamic":false,"explanation":"The narrator knows both characters' mistaken beliefs plus the real cause (the unsent text) - omniscience the characters lack, which is dramatic irony. The distractors wrongly label the POV as first or second person, or claim the narrator is neutral when it clearly reports inner thoughts.","id":"AZG8_080","imageUrl":"topic:reading-literary","memoryHook":"T-Rexy says: omniscient is the all-seeing dino - it knows everyone's secrets at once!","question":"Read the excerpt: 'Noah believed the empty seat beside him meant his invitation had been lost. Across the room, Maya kept checking her phone, sure that Noah was ignoring her message. Neither one knew the truth: the text had never been sent.' How does the point of view shape the reader's understanding?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Maria expects it to rain soon and is preparing for wet weather.","difficulty":1,"distractors":["Maria is frightened of thunderstorms and dark clouds.","Maria decided to cancel her plans and stay home all day.","Maria believes the clouds over the hills look beautiful."],"dynamic":false,"explanation":"Maria's actions (grabbing an umbrella and rain boots) plus the detail of dark clouds support the inference that she expects rain. The distractors fail: nothing suggests fear, she is heading out the door rather than staying home, and her sigh suggests resignation, not admiration of the clouds.","id":"AZG8_081","imageUrl":"topic:inference","memoryHook":"T-Rexy says: an inference is a dino footprint - the text leaves the print, you find the dinosaur!","question":"Read the passage: 'Maria grabbed her umbrella and rain boots before heading out the door. She glanced at the dark clouds gathering over the hills and sighed.' What can the reader infer from the passage?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"The students cared about the new library and were excited that it would finally open.","difficulty":2,"distractors":["The principal built the new library without any help from the students.","The students were cheering because classes were cancelled for the day.","The students already had a large library they were happy with."],"dynamic":false,"explanation":"The principal credits the students' fundraising, so they were invested in the project, and their cheers show excitement about the opening. The distractors fail: the text credits the students rather than the principal alone, nothing mentions cancelled classes, and the cheers contradict the idea that they already had a satisfactory library.","id":"AZG8_082","imageUrl":"topic:inference","memoryHook":"T-Rexy says: don't just read the words - sniff out the clues like a raptor on the hunt!","question":"Read the passage: ''Because of your fundraising efforts,' the principal announced, 'the new library will open next Monday.' The auditorium exploded in cheers.' What can the reader infer from the passage?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Jonah expected a guest for dinner, but the guest never arrived.","difficulty":3,"distractors":["Jonah was preparing breakfast for the following morning.","Jonah had an argument with his guest during the meal.","Jonah always sets two plates on the table out of habit."],"dynamic":false,"explanation":"Two plates suggest he expected company, one filled glass and repeated clock-checking suggest he was waiting, and eating alone confirms the guest never came. The distractors fail: nothing points to breakfast, no meal or argument occurred, and the clock-checking shows he was waiting for someone rather than following a routine.","id":"AZG8_083","imageUrl":"topic:inference","memoryHook":"T-Rexy says: small clues grow into big answers, just like a tiny egg grows into a T-Rex!","question":"Read the passage: 'Jonah set two plates on the table but filled only one glass with water. He checked the clock twice, then sat down to eat alone.' What is the best inference the reader can make?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"The team lost an important championship, and the coach is disappointed.","difficulty":2,"distractors":["The team decided that trophies were no longer important to them.","Coach Rivera sold the trophies to raise money for the school.","The trophy case was empty because it had just been installed."],"dynamic":false,"explanation":"The empty case, the missing cup, and the coach's downcast behavior point to a painful loss. The distractors fail: the coach's sadness contradicts indifference, nothing suggests selling, and the case 'once held' the cup, so it is not new.","id":"AZG8_084","imageUrl":"topic:inference","memoryHook":"T-Rexy says: the text won't hand you the answer - dig it up like a fossil!","question":"Read the passage: 'The trophy case that once held the regional cup stood empty. Coach Rivera walked past it staring at the floor, his whistle silent in his pocket.' What can the reader infer?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"'Unlike rabbits, it cannot run from danger.'","difficulty":1,"distractors":["'The desert tortoise moves slowly across the hot sand.'","'Instead, it relies on its hard shell for protection.'","'The tortoise prefers hiding in its shell over fighting predators.'"],"dynamic":false,"explanation":"The correct sentence states the point directly, making it the strongest evidence. 'Moves slowly' is related but less direct; the shell sentence explains a different survival strategy; the last option is a paraphrase about hiding, not about running.","id":"AZG8_085","imageUrl":"topic:text-evidence","memoryHook":"T-Rexy says: evidence is your club - swing the exact sentence that smashes the claim home!","question":"Read the passage: 'The desert tortoise moves slowly across the hot sand. Unlike rabbits, it cannot run from danger. Instead, it relies on its hard shell for protection.' Which sentence from the passage is the strongest evidence that the tortoise cannot escape predators by running?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"The recycling bins overflowed every Friday while the trash cans sat half empty.","difficulty":2,"distractors":["One hallway bin remained unused.","The principal noticed a problem with a hallway bin.","Maya created a poster campaign."],"dynamic":false,"explanation":"Overflowing recycling bins and emptier trash cans show students actually changed what they threw away, which is direct evidence of changed behavior. The unused hallway bin weakens the claim, the principal's note describes a problem rather than a result, and the fact that Maya made posters describes her action, not its effect.","id":"AZG8_086","imageUrl":"topic:text-evidence","memoryHook":"T-Rexy says: strong evidence stomps like a T-Rex; weak evidence trips like a baby raptor!","question":"Read the passage: 'Recycling bins in the cafeteria overflowed every Friday, yet the trash cans sat half empty. Maya's poster campaign had clearly worked. Still, the principal noted, one hallway bin remained unused.' A student claims that Maya's campaign changed student behavior. Which detail from the passage best supports this claim?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Many beekeepers wear white suits because bees are calmed by light colors.","difficulty":3,"distractors":["Bees carry pollen from bloom to bloom.","Pollination helps plants produce fruit and seeds.","Bees visit flowers to collect nectar."],"dynamic":false,"explanation":"The beekeepers' suits are about human safety and bee behavior, not about plant reproduction, so the detail is irrelevant to the claim. The other three details all connect bees to pollination and to fruit and seed production, which is how plants reproduce.","id":"AZG8_087","imageUrl":"topic:irrelevant-evidence","memoryHook":"T-Rexy says: if the clue doesn't bite the claim, leave it in the fossil pit - it's irrelevant!","question":"Read the passage: 'Bees visit flowers to collect nectar, and in the process they carry pollen from bloom to bloom. This pollination helps plants produce fruit and seeds. Many beekeepers wear white suits because bees are calmed by light colors.' Which detail is IRRELEVANT as evidence for the claim that bees help plants reproduce?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Many people consider the saguaro the most beautiful plant in the desert.","difficulty":1,"distractors":["Cacti store water in their thick stems.","Thick stems help cacti survive months without rain.","Saguaros can grow more than 40 feet tall."],"dynamic":false,"explanation":"'Most beautiful' is a judgment that cannot be proven true or false, so it is an opinion. The other statements are facts that can be verified through measurement or observation.","id":"AZG8_088","imageUrl":"topic:fact-vs-opinion","memoryHook":"T-Rexy says: facts are hard bones you can measure; opinions are just dino feelings!","question":"Read the passage: 'Cacti store water in their thick stems, which helps them survive months without rain. Many people consider the saguaro the most beautiful plant in the desert. Saguaros can grow more than 40 feet tall.' Which statement from the passage is an opinion rather than a fact?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"'Skateboarding is more fun than basketball.'","difficulty":2,"distractors":["'Teenagers need a safe place to practice.'","'Over 200 teens signed a petition asking for one.'","'The town should build a skate park.'"],"dynamic":false,"explanation":"'More fun than basketball' is a personal opinion that gives no logical reason to build a park. The need for a safe place is a relevant reason, and the 200-signature petition is concrete evidence of demand. 'The town should build a skate park' is the claim itself, not support at all.","id":"AZG8_089","imageUrl":"topic:argument","memoryHook":"T-Rexy says: a weak argument wobbles like a T-Rex on a skateboard - spot what doesn't hold it up!","question":"Read the passage: 'The town should build a skate park because teenagers need a safe place to practice. Last year, over 200 teens signed a petition asking for one. Skateboarding is more fun than basketball.' Which sentence is the WEAKEST support for the claim that the town should build a skate park?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"School lunches should include a vegetarian option every day.","difficulty":3,"distractors":["A survey of 500 students found that one-third would choose it regularly.","Meat production creates more pollution than growing vegetables.","Growing vegetables is better for the environment than raising animals."],"dynamic":false,"explanation":"The claim is the position the author wants readers to accept: that school lunches should include a daily vegetarian option. The survey result is evidence supporting the claim, the pollution comparison is a reason supporting it, and the last option merely restates that reason rather than the claim itself.","id":"AZG8_090","imageUrl":"topic:argument","memoryHook":"T-Rexy says: find the claim first - it's the alpha dino leading the whole argument herd!","question":"Read the passage: 'School lunches should include a vegetarian option every day. A survey of 500 students found that one-third would choose it regularly. Meat production also creates more pollution than growing vegetables, according to a recent environmental study.' Which statement identifies the CLAIM of this argument?","source":"TReps Arizona Grade 8","tags":["ELA","Reading"]},{"correctAnswer":"Rough and fast-moving","difficulty":1,"distractors":["Quiet and still","Wide and shallow","Full of fish"],"dynamic":false,"explanation":"The context clue 'churning with fast, rough water' tells you turbulent means rough and fast-moving. 'Quiet and still' is the opposite trap.","id":"AZG8_091","imageUrl":"topic:vocabulary","memoryHook":"T-Rexy says: context clues are dino tracks - follow the words around the mystery word!","question":"Read the sentence: 'After the heavy rains, the creek became turbulent, churning with fast, rough water.' What does 'turbulent' most likely mean?","source":"TReps Arizona Grade 8","tags":["ELA","Vocabulary"]},{"correctAnswer":"Sociable and outgoing","difficulty":2,"distractors":["Shy and withdrawn","Easily angered","Carefully organized"],"dynamic":false,"explanation":"The contrast word 'though' is the clue: sitting silent now is the opposite of her usual gregarious self, so gregarious means sociable and outgoing.","id":"AZG8_092","imageUrl":"topic:vocabulary","memoryHook":"T-Rexy says: watch for contrast words like 'though' and 'but' - they flip the track around!","question":"Read the sentence: 'Though Maya was usually gregarious, she sat silent at the back of the auditorium during the ceremony.' What does 'gregarious' most likely mean?","source":"TReps Arizona Grade 8","tags":["ELA","Vocabulary"]},{"correctAnswer":"False or not genuine","difficulty":3,"distractors":["Brilliant and original","Complicated and detailed","Popular and celebrated"],"dynamic":false,"explanation":"The clue 'every artifact she cited was later shown to be a modern forgery' shows her evidence was fake, so spurious means false or not genuine.","id":"AZG8_093","imageUrl":"topic:vocabulary","memoryHook":"T-Rexy says: when the evidence turns out to be a fossil forgery, the theory is spurious - phony, like a plastic dino tooth!","question":"Read the sentence: 'The archaeologist's theory was spurious, because every artifact she cited was later shown to be a modern forgery.' What does 'spurious' most likely mean?","source":"TReps Arizona Grade 8","tags":["ELA","Vocabulary"]},{"correctAnswer":"Preview","difficulty":1,"distractors":["Review","Interview","Overview"],"dynamic":false,"explanation":"'Pre-' means before, so a preview is a look before the main event. Review is a look back after.","id":"AZG8_094","imageUrl":"topic:word-roots","memoryHook":"T-Rexy says: pre- means BEFORE - like a pre-historic breakfast you eat before the hunt!","question":"The prefix 'pre-' means 'before'. Which word means to look at something before the main event?","source":"TReps Arizona Grade 8","tags":["ELA","Vocabulary"]},{"correctAnswer":"Celebration","difficulty":2,"distractors":["Celebratory","Celebrating","Celebrates"],"dynamic":false,"explanation":"Adding '-tion' to 'celebrate' makes the noun 'celebration'. 'Celebratory' is an adjective, 'celebrating' and 'celebrates' are still verb forms.","id":"AZG8_095","imageUrl":"topic:word-roots","memoryHook":"T-Rexy says: slap -tion on a verb and POOF - it becomes a thing! Celebrate becomes celebration, like a dino dance party!","question":"The suffix '-tion' turns a verb into a noun. Which noun is formed from the verb 'celebrate'?","source":"TReps Arizona Grade 8","tags":["ELA","Vocabulary"]},{"correctAnswer":"Chronological","difficulty":3,"distractors":["Synchronized","Meteorological","Geological"],"dynamic":false,"explanation":"'Chron' means time, so chronological order is time order. 'Synchronized' uses the root 'syn-' (together), not 'chron'.","id":"AZG8_096","imageUrl":"topic:word-roots","memoryHook":"T-Rexy says: chron = time! A chronological list is a timeline of your dino day, breakfast first, nap last!","question":"The Greek root 'chron' means 'time'. Which word describes events arranged in the order they happened in time?","source":"TReps Arizona Grade 8","tags":["ELA","Vocabulary"]},{"correctAnswer":"I hereby request permission to attend the conference.","difficulty":2,"distractors":["Can I go to the conference, please?","Gimme a pass to the conference.","I wanna attend the conference thing."],"dynamic":false,"explanation":"'I hereby request permission' uses formal, precise word choice. The others use casual or slangy language like 'gimme' and 'wanna'.","id":"AZG8_097","imageUrl":"topic:word-choice","memoryHook":"T-Rexy says: formal tone wears a tiny suit - fancy words, no slang, ready for the museum gala!","question":"Which sentence has the most formal tone?","source":"TReps Arizona Grade 8","tags":["ELA","Language"]},{"correctAnswer":"They're going to lose their keys over there.","difficulty":3,"distractors":["Their going to lose they're keys over there.","There going to lose their keys over they're.","They're going to lose there keys over their."],"dynamic":false,"explanation":"They're = they are, their = belonging to them, there = a place. Check each one: 'They are going to lose' works, 'belonging to them keys' works, 'over at that place' works.","id":"AZG8_098","imageUrl":"topic:word-choice","memoryHook":"T-Rexy says: they're = they ARE, their = THEIR stuff, there = THAT place over there!","question":"Choose the sentence that uses 'their', 'there', and 'they're' correctly.","source":"TReps Arizona Grade 8","tags":["ELA","Language"]},{"correctAnswer":"The dog chased its tail across the yard.","difficulty":1,"distractors":["The dog chased it's tail across the yard.","The dog's chased its tail across the yard.","The dogs' chased its tail across the yard."],"dynamic":false,"explanation":"'Its' (no apostrophe) shows possession - the tail belongs to the dog. 'It's' always means 'it is', which does not fit here.","id":"AZG8_099","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: its = belongs to it, like a T-Rex's tail... wait, ITS tail! No apostrophe for possession!","question":"Which sentence uses the apostrophe correctly?","source":"TReps Arizona Grade 8","tags":["ELA","Language"]},{"correctAnswer":"The bouquet of flowers smells wonderful.","difficulty":2,"distractors":["The bouquet of flowers smell wonderful.","The flowers in the bouquet smells wonderful.","The bouquet of flowers was smelling wonderful."],"dynamic":false,"explanation":"The subject is 'bouquet' (singular), not 'flowers', so it takes the singular verb 'smells'. Phrases between the subject and verb do not change the number.","id":"AZG8_100","imageUrl":"topic:grammar","memoryHook":"T-Rexy says: cross out the middle junk - 'of flowers' is just camouflage! The bouquet (singular) smells!","question":"Choose the sentence with correct subject-verb agreement.","source":"TReps Arizona Grade 8","tags":["ELA","Language"]}]}
+{
+  "packId": "arizona-grade-8",
+  "version": "1.0",
+  "title": "Arizona AASA (8th Grade)",
+  "description": "Arizona Academic Standards Assessment prep for 8th grade - Math and ELA, high school readiness",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-02",
+  "tags": [
+    "arizona",
+    "grade8",
+    "aasa",
+    "math",
+    "ela"
+  ],
+  "questions": [
+    {
+      "correctAnswer": "5",
+      "difficulty": 1,
+      "distractors": [
+        "19",
+        "-5",
+        "12"
+      ],
+      "dynamic": false,
+      "explanation": "Subtract 7 from both sides: x = 12 - 7 = 5.",
+      "id": "AZG8_001",
+      "imageUrl": "topic:linear-equations",
+      "memoryHook": "T-Rexy says: to free the x, do the opposite! A +7 becomes a -7 on both sides, chomp!",
+      "question": "Solve for x: x + 7 = 12",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "12",
+      "difficulty": 1,
+      "distractors": [
+        "42",
+        "4",
+        "3"
+      ],
+      "dynamic": false,
+      "explanation": "Subtract 5 first: x/3 = 4. Then multiply both sides by 3: x = 12.",
+      "id": "AZG8_002",
+      "imageUrl": "topic:linear-equations",
+      "memoryHook": "T-Rexy says: peel the onion outside in! Undo the +5 first, then undo the divide-by-3 with tiny dino steps.",
+      "question": "Solve for x: x/3 + 5 = 9",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "36",
+      "difficulty": 1,
+      "distractors": [
+        "13",
+        "5",
+        "2.25"
+      ],
+      "dynamic": false,
+      "explanation": "x is divided by 4, so multiply both sides by 4: x = 9 * 4 = 36.",
+      "id": "AZG8_003",
+      "imageUrl": "topic:linear-equations",
+      "memoryHook": "T-Rexy says: if x is being divided, MULTIPLY to stomp it free! Dividing and multiplying are dino rivals.",
+      "question": "Solve for x: x/4 = 9",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "9",
+      "difficulty": 2,
+      "distractors": [
+        "7",
+        "18",
+        "1"
+      ],
+      "dynamic": false,
+      "explanation": "Distribute the 2: 2x - 8 = 10. Add 8: 2x = 18. Divide by 2: x = 9.",
+      "id": "AZG8_004",
+      "imageUrl": "topic:linear-equations",
+      "memoryHook": "T-Rexy says: parentheses are treasure eggs - CRACK them open first by distributing before anything else!",
+      "question": "Solve for x: 2(x - 4) = 10",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "6",
+      "difficulty": 2,
+      "distractors": [
+        "-0.5",
+        "12",
+        "-6"
+      ],
+      "dynamic": false,
+      "explanation": "Move the x terms together: 5x - 3x = 4 + 8, so 2x = 12. Divide by 2: x = 6.",
+      "id": "AZG8_005",
+      "imageUrl": "topic:linear-equations",
+      "memoryHook": "T-Rexy says: x's on both sides? Herd all the x's to one pen and all the numbers to the other, like a tiny dino roundup!",
+      "question": "Solve for x: 5x - 8 = 3x + 4",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "5",
+      "difficulty": 2,
+      "distractors": [
+        "9",
+        "15/7",
+        "15"
+      ],
+      "dynamic": false,
+      "explanation": "Combine like terms: 3x + 6 = 21. Subtract 6: 3x = 15. Divide by 3: x = 5.",
+      "id": "AZG8_006",
+      "imageUrl": "topic:linear-equations",
+      "memoryHook": "T-Rexy says: 5x minus 2x is 3x, not 7x! Watch your minus sign or the dino gets grumpy.",
+      "question": "Solve for x: 5x - 2x + 6 = 21",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "7",
+      "difficulty": 3,
+      "distractors": [
+        "4",
+        "5",
+        "-7"
+      ],
+      "dynamic": false,
+      "explanation": "Distribute: 2x + 6 = 3x - 1. Subtract 2x: 6 = x - 1. Add 1: x = 7.",
+      "id": "AZG8_007",
+      "imageUrl": "topic:linear-equations",
+      "memoryHook": "T-Rexy says: big equation, big appetite! Distribute first, herd the x's together, then finish with one mighty chomp.",
+      "question": "Solve for x: 2(x + 3) = 3x - 1",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "4",
+      "difficulty": 2,
+      "distractors": [
+        "4.5",
+        "5",
+        "9"
+      ],
+      "dynamic": false,
+      "explanation": "Let t be the number of tickets: 12t + 6 = 54. Subtract 6: 12t = 48. Divide by 12: t = 4.",
+      "id": "AZG8_008",
+      "imageUrl": "topic:linear-equations",
+      "memoryHook": "T-Rexy says: the fee is not per ticket, it is one lump! Subtract the $6 first, then share the rest among the tickets.",
+      "question": "Movie tickets cost $12 each plus a $6 processing fee for the whole order. Your total was $54. How many tickets did you buy?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra",
+        "Word Problems"
+      ]
+    },
+    {
+      "correctAnswer": "Step 2",
+      "difficulty": 3,
+      "distractors": [
+        "Step 1",
+        "No mistake",
+        "Both steps"
+      ],
+      "dynamic": false,
+      "explanation": "Step 1 is correct. In Step 2, both sides must be divided by 2: x = 4 / 2 = 2, not 4. The student forgot to divide.",
+      "id": "AZG8_009",
+      "imageUrl": "topic:linear-equations",
+      "memoryHook": "T-Rexy says: whatever you do to one side, do to the OTHER! Dividing only the x is a classic dino trap - divide the 4 too!",
+      "question": "A student solved 2x + 6 = 10 this way. Step 1: 2x = 4. Step 2: x = 4. In which step is the mistake?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "5",
+      "difficulty": 3,
+      "distractors": [
+        "4",
+        "-2",
+        "10"
+      ],
+      "dynamic": false,
+      "explanation": "Distribute: 6x - 3 = 4x + 7. Subtract 4x: 2x - 3 = 7. Add 3: 2x = 10. Divide by 2: x = 5.",
+      "id": "AZG8_010",
+      "imageUrl": "topic:linear-equations",
+      "memoryHook": "T-Rexy says: four moves - distribute, herd, isolate, divide. Count them on your tiny dino claws so you skip none!",
+      "question": "Solve for x: 3(2x - 1) = 4x + 7",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "3",
+      "difficulty": 1,
+      "distractors": [
+        "1/3",
+        "-3",
+        "12"
+      ],
+      "dynamic": false,
+      "explanation": "Slope = (change in y) / (change in x) = (16 - 4) / (5 - 1) = 12 / 4 = 3.",
+      "id": "AZG8_011",
+      "imageUrl": "topic:slope",
+      "memoryHook": "T-Rexy says: slope is rise over run - climb the dino hill, up then across!",
+      "question": "What is the slope of the line passing through (1, 4) and (5, 16)?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "slope = -4, y-intercept = 7",
+      "difficulty": 1,
+      "distractors": [
+        "slope = 7, y-intercept = -4",
+        "slope = 4, y-intercept = 7",
+        "slope = -7, y-intercept = 4"
+      ],
+      "dynamic": false,
+      "explanation": "In slope-intercept form y = mx + b, m is the slope and b is the y-intercept. Here m = -4 and b = 7.",
+      "id": "AZG8_012",
+      "imageUrl": "topic:slope-intercept",
+      "memoryHook": "T-Rexy says: m is the mountain's steepness, b is where the dino starts its hike!",
+      "question": "In the equation y = -4x + 7, what are the slope and the y-intercept?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "0",
+      "difficulty": 1,
+      "distractors": [
+        "1",
+        "undefined",
+        "-1"
+      ],
+      "dynamic": false,
+      "explanation": "A horizontal line has no rise, so slope = 0 / (change in x) = 0. A vertical line's slope is undefined.",
+      "id": "AZG8_013",
+      "imageUrl": "topic:horizontal-lines",
+      "memoryHook": "T-Rexy says: flat ground, no climb - the lazy dino naps on a zero-slope line!",
+      "question": "What is the slope of a horizontal line?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "-2",
+      "difficulty": 2,
+      "distractors": [
+        "2",
+        "-1/2",
+        "1/2"
+      ],
+      "dynamic": false,
+      "explanation": "Slope = (change in y) / (change in x) = (-2 - 8) / (2 - (-3)) = -10 / 5 = -2.",
+      "id": "AZG8_014",
+      "imageUrl": "topic:slope",
+      "memoryHook": "T-Rexy says: watch the signs! A minus minus is a plus - double-check every step like a careful raptor.",
+      "question": "What is the slope of the line passing through (-3, 8) and (2, -2)?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "y = (2/3)x - 5",
+      "difficulty": 2,
+      "distractors": [
+        "y = (2/3)x + 5",
+        "y = (3/2)x - 5",
+        "y = -5x + 2/3"
+      ],
+      "dynamic": false,
+      "explanation": "Slope-intercept form is y = mx + b with m = 2/3 and b = -5, giving y = (2/3)x - 5.",
+      "id": "AZG8_015",
+      "imageUrl": "topic:slope-intercept",
+      "memoryHook": "T-Rexy says: plug m and b into y = mx + b like fitting dino teeth into place!",
+      "question": "A line has slope 2/3 and y-intercept -5. What is its equation in slope-intercept form?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "y = 15x + 25",
+      "difficulty": 2,
+      "distractors": [
+        "y = 25x + 15",
+        "y = 40x",
+        "y = 15x - 25"
+      ],
+      "dynamic": false,
+      "explanation": "The per-month charge is the rate (slope = 15) and the activation fee is the starting amount (y-intercept = 25), so y = 15x + 25.",
+      "id": "AZG8_016",
+      "imageUrl": "topic:linear-word-problems",
+      "memoryHook": "T-Rexy says: the monthly fee is the steepness of your bill, the activation fee is where the dino starts paying!",
+      "question": "A cell phone plan charges a $25 activation fee plus $15 per month. Which equation gives the total cost y after x months?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "undefined",
+      "difficulty": 2,
+      "distractors": [
+        "0",
+        "6",
+        "1"
+      ],
+      "dynamic": false,
+      "explanation": "x = 6 is a vertical line. Any two points on it have the same x-coordinate, so the run is 0 and division by 0 is undefined.",
+      "id": "AZG8_017",
+      "imageUrl": "topic:vertical-lines",
+      "memoryHook": "T-Rexy says: a vertical cliff is too steep to climb - its slope is undefined, like a dino's vertical leap!",
+      "question": "What is the slope of the line x = 6?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "y = 2x - 3",
+      "difficulty": 3,
+      "distractors": [
+        "y = (1/2)x - 3",
+        "y = 2x + 5",
+        "y = -2x - 3"
+      ],
+      "dynamic": false,
+      "explanation": "Slope = (5 - (-3)) / (4 - 0) = 8 / 4 = 2. The point (0, -3) is the y-intercept, so y = 2x - 3.",
+      "id": "AZG8_018",
+      "imageUrl": "topic:graphing-lines",
+      "memoryHook": "T-Rexy says: when the point starts at (0, something), that something is your b - free dino shortcut!",
+      "question": "A line passes through (0, -3) and (4, 5). What is its equation in slope-intercept form?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "y = 3x + 6",
+      "difficulty": 3,
+      "distractors": [
+        "y = -3x + 6",
+        "y = 3x - 6",
+        "y = (1/3)x + 6"
+      ],
+      "dynamic": false,
+      "explanation": "Slope = (6 - 0) / (0 - (-2)) = 6 / 2 = 3. The y-intercept is 6 from the point (0, 6), so y = 3x + 6.",
+      "id": "AZG8_019",
+      "imageUrl": "topic:graphing-lines",
+      "memoryHook": "T-Rexy says: read the graph like dino footprints - rise first, then run, then check where it crosses the y-axis!",
+      "question": "A graph shows a line that passes through (-2, 0) and (0, 6). Which equation matches the graph?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "y = -8x + 120; the slope -8 means 8 gallons drain per minute",
+      "difficulty": 3,
+      "distractors": [
+        "y = 8x + 120; the slope 8 means 8 gallons drain per minute",
+        "y = -8x + 120; the slope -8 means 8 gallons are added per minute",
+        "y = 120x - 8; the slope 120 means the tank started with 8 gallons"
+      ],
+      "dynamic": false,
+      "explanation": "The tank loses 8 gallons per minute, so the rate (slope) is -8, and it starts with 120 gallons (y-intercept), giving y = -8x + 120. A negative slope means the amount decreases.",
+      "id": "AZG8_020",
+      "imageUrl": "topic:linear-word-problems",
+      "memoryHook": "T-Rexy says: draining means going down - a negative slope is the dino drinking the tank dry!",
+      "question": "A water tank holds 120 gallons and drains at a rate of 8 gallons per minute. Which equation gives the gallons y remaining after x minutes, and what is the slope's meaning?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "B",
+      "difficulty": 1,
+      "distractors": [
+        "A",
+        "C",
+        "A and C"
+      ],
+      "dynamic": false,
+      "explanation": "A function gives each input exactly one output. In B, inputs 1, 2, 3 each appear once. In A, input 1 has outputs 2 and 3. In C, input 2 has outputs 1 and 5. Note: repeated outputs are fine; repeated inputs with different outputs are not.",
+      "id": "AZG8_021",
+      "imageUrl": "topic:functions",
+      "memoryHook": "T-Rexy says: one input, one output - a function never double-books its dino-dates!",
+      "question": "Which table represents a function? A: (1,2), (1,3), (2,4)  B: (1,2), (2,2), (3,2)  C: (2,1), (2,5), (3,6)",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Functions"
+      ]
+    },
+    {
+      "correctAnswer": "19",
+      "difficulty": 1,
+      "distractors": [
+        "15",
+        "27",
+        "35"
+      ],
+      "dynamic": false,
+      "explanation": "Substitute 5 for x: f(5) = 3(5) + 4 = 15 + 4 = 19. Forgetting the +4 gives 15; adding before multiplying gives 3(9) = 27.",
+      "id": "AZG8_022",
+      "imageUrl": "topic:functions",
+      "memoryHook": "T-Rexy says: plug the number in, multiply first, then add - order of operations is the T-Rexy's pecking order!",
+      "question": "If f(x) = 3x + 4, what is f(5)?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Functions"
+      ]
+    },
+    {
+      "correctAnswer": "C",
+      "difficulty": 1,
+      "distractors": [
+        "A",
+        "B",
+        "All three are functions"
+      ],
+      "dynamic": false,
+      "explanation": "In C, the input 0 is paired with two different outputs, 5 and 6, so it fails the one-output rule. B looks suspicious because the output 1 repeats, but repeated outputs are allowed.",
+      "id": "AZG8_023",
+      "imageUrl": "topic:functions",
+      "memoryHook": "T-Rexy says: repeated outputs are fine, but repeated inputs with different outputs means the function fizzles out!",
+      "question": "Which set of ordered pairs is NOT a function? A: {(1,2), (2,3), (3,4)}  B: {(4,1), (5,1), (6,1)}  C: {(0,5), (0,6), (1,7)}",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Functions"
+      ]
+    },
+    {
+      "correctAnswer": "Yes",
+      "difficulty": 2,
+      "distractors": [
+        "No",
+        "Cannot tell",
+        "Only if 9 is removed"
+      ],
+      "dynamic": false,
+      "explanation": "Each input (4, 7, 2) has exactly one arrow, so it is a function. Two inputs pointing to the same output (9) is allowed - a relation is NOT a function only when one input points to two different outputs.",
+      "id": "AZG8_024",
+      "imageUrl": "topic:mapping-diagram",
+      "memoryHook": "T-Rexy says: two dinos can share the same snack, but one dino cannot eat two snacks at once!",
+      "question": "A mapping diagram shows input 4 pointing to 9, input 7 pointing to 9, and input 2 pointing to 5. Does this represent a function?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Functions"
+      ]
+    },
+    {
+      "correctAnswer": "13",
+      "difficulty": 2,
+      "distractors": [
+        "1",
+        "-13",
+        "-1"
+      ],
+      "dynamic": false,
+      "explanation": "Substitute -3 for x: f(-3) = -2(-3) + 7 = 6 + 7 = 13. A negative times a negative is positive, so -2(-3) = 6, not -6.",
+      "id": "AZG8_025",
+      "imageUrl": "topic:functions",
+      "memoryHook": "T-Rexy says: negative times negative makes a positive - even a T-Rex turns a double negative into a happy stomp!",
+      "question": "If f(x) = -2x + 7, what is f(-3)?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Functions"
+      ]
+    },
+    {
+      "correctAnswer": "B",
+      "difficulty": 2,
+      "distractors": [
+        "A",
+        "C",
+        "A and C"
+      ],
+      "dynamic": false,
+      "explanation": "A linear function has x to the first power only. In B, the x^2 term makes the graph a curve (a parabola), so it is nonlinear. A and C are straight-line functions.",
+      "id": "AZG8_026",
+      "imageUrl": "topic:linear-nonlinear",
+      "memoryHook": "T-Rexy says: if the x wears a square hat (exponent 2), the graph curves like a dino's tail - not a straight road!",
+      "question": "Which equation describes a nonlinear function? A: y = 2x + 1  B: y = x^2 - 3  C: y = -4x",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Functions"
+      ]
+    },
+    {
+      "correctAnswer": "Function A",
+      "difficulty": 2,
+      "distractors": [
+        "Function B",
+        "They are equal",
+        "Cannot tell"
+      ],
+      "dynamic": false,
+      "explanation": "Rate of change is the slope. Function A has slope 4. Function B rises 3 each time x rises 1 (8 - 5 = 3), so its rate of change is 3. Since 4 > 3, Function A grows faster.",
+      "id": "AZG8_027",
+      "imageUrl": "topic:rate-of-change",
+      "memoryHook": "T-Rexy says: compare the slopes, not the starting lines - the fastest dino wins the race, no matter where it starts!",
+      "question": "Function A: y = 4x + 2. Function B: x=0 gives 5, x=1 gives 8, x=2 gives 11. Which function has the greater rate of change?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Functions"
+      ]
+    },
+    {
+      "correctAnswer": "The flat booking fee",
+      "difficulty": 3,
+      "distractors": [
+        "The cost per guest",
+        "The total cost",
+        "The number of guests"
+      ],
+      "dynamic": false,
+      "explanation": "In C(n) = 12n + 25, the 12 multiplies n, so 12 dollars is the per-guest cost. The 25 is added once no matter how many guests come, so it is the flat room booking fee.",
+      "id": "AZG8_028",
+      "imageUrl": "topic:functions-context",
+      "memoryHook": "T-Rexy says: the lonely number with no x attached is the cover charge - it shows up even if zero dinos come to party!",
+      "question": "A party room costs C(n) = 12n + 25 dollars, where n is the number of guests. What does the 25 represent in this context?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Functions"
+      ]
+    },
+    {
+      "correctAnswer": "After 3 hours the cyclist traveled 45 miles",
+      "difficulty": 3,
+      "distractors": [
+        "After 45 hours the cyclist traveled 3 miles",
+        "The cyclist's speed is 45 mph",
+        "The cyclist rode for 45 hours"
+      ],
+      "dynamic": false,
+      "explanation": "D(3) = 45 means the input (time) is 3 hours and the output (distance) is 45 miles. Do not swap input and output - the number inside the parentheses is the input.",
+      "id": "AZG8_029",
+      "imageUrl": "topic:functions-context",
+      "memoryHook": "T-Rexy says: the number inside the parentheses goes IN first - feed the T-Rex hours, and it spits out miles!",
+      "question": "D(t) gives the miles a cyclist travels after t hours. If D(3) = 45, what does this mean?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Functions"
+      ]
+    },
+    {
+      "correctAnswer": "Not a function; nonlinear",
+      "difficulty": 3,
+      "distractors": [
+        "Function; linear",
+        "Function; nonlinear",
+        "Not a function; linear"
+      ],
+      "dynamic": false,
+      "explanation": "Since one input (x = 2) has two outputs (1 and 9), it fails the vertical line test and is not a function. The U-shaped curve means it is nonlinear anyway, but not being a function is the key finding.",
+      "id": "AZG8_030",
+      "imageUrl": "topic:functions",
+      "memoryHook": "T-Rexy says: if a vertical line stabs the graph twice, it is not a function - the T-Rex only bites once per spot!",
+      "question": "A graph is a sideways U-shaped curve (opening to the right) where x = 2 gives both y = 1 and y = 9. Which statement is true?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Functions"
+      ]
+    },
+    {
+      "correctAnswer": "10",
+      "difficulty": 1,
+      "distractors": [
+        "14",
+        "100",
+        "48"
+      ],
+      "dynamic": false,
+      "explanation": "Using a^2 + b^2 = c^2: 6^2 + 8^2 = 36 + 64 = 100, and the square root of 100 is 10.",
+      "id": "AZG8_031",
+      "imageUrl": "topic:pythagorean",
+      "memoryHook": "T-Rexy says: the hypotenuse is always the longest side and sits across from the right angle. Spot the right angle, find the hypotenuse!",
+      "question": "What is the length of the hypotenuse of a right triangle with legs 6 and 8?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "12",
+      "difficulty": 1,
+      "distractors": [
+        "18",
+        "144",
+        "8"
+      ],
+      "dynamic": false,
+      "explanation": "Using a^2 + b^2 = c^2: 5^2 + b^2 = 13^2, so 25 + b^2 = 169, b^2 = 144, and b = 12. When solving for a leg, subtract the square of the known leg from the square of the hypotenuse.",
+      "id": "AZG8_032",
+      "imageUrl": "topic:missing-leg",
+      "memoryHook": "T-Rexy says: hunting a missing leg? Subtract inside the cage, then take the square root to let it out!",
+      "question": "A right triangle has a hypotenuse of 13 and one leg of 5. What is the length of the other leg?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "5",
+      "difficulty": 2,
+      "distractors": [
+        "7",
+        "25",
+        "12"
+      ],
+      "dynamic": false,
+      "explanation": "The horizontal change is 6 - 2 = 4 and the vertical change is 4 - 1 = 3. Using a^2 + b^2 = c^2: 4^2 + 3^2 = 16 + 9 = 25, and the square root of 25 is 5.",
+      "id": "AZG8_033",
+      "imageUrl": "topic:distance-formula",
+      "memoryHook": "T-Rexy says: distance problems are secret right triangles. Find the horizontal and vertical gaps, then treat them as legs!",
+      "question": "What is the distance between the points (2, 1) and (6, 4) on a coordinate plane?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "Yes",
+      "difficulty": 2,
+      "distractors": [
+        "No",
+        "No, 9 + 12 = 21 not 15",
+        "Cannot be determined"
+      ],
+      "dynamic": false,
+      "explanation": "Check with the converse of the Pythagorean theorem: 9^2 + 12^2 = 81 + 144 = 225, and 15^2 = 225. Since the two smaller squares add up to the largest square, it is a right triangle.",
+      "id": "AZG8_034",
+      "imageUrl": "topic:converse-pythagoras",
+      "memoryHook": "T-Rexy says: to test a triangle, add the squares of the two SHORT sides and see if they match the LONG side's square. Match means right angle!",
+      "question": "Do side lengths of 9, 12, and 15 form a right triangle?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "8",
+      "difficulty": 1,
+      "distractors": [
+        "16",
+        "64",
+        "4"
+      ],
+      "dynamic": false,
+      "explanation": "The ladder is the hypotenuse (10) and the base is one leg (6). Using a^2 + b^2 = c^2: 6^2 + b^2 = 10^2, so 36 + b^2 = 100, b^2 = 64, and b = 8 feet.",
+      "id": "AZG8_035",
+      "imageUrl": "topic:ladder-problem",
+      "memoryHook": "T-Rexy says: a leaning ladder is a triangle in disguise. The ladder itself is always the hypotenuse, never a leg!",
+      "question": "A 10-foot ladder leans against a wall. The base of the ladder is 6 feet from the wall. How high up the wall does the ladder reach?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "15",
+      "difficulty": 2,
+      "distractors": [
+        "21",
+        "225",
+        "42"
+      ],
+      "dynamic": false,
+      "explanation": "The diagonal splits the rectangle into two right triangles with legs 9 and 12. Using a^2 + b^2 = c^2: 9^2 + 12^2 = 81 + 144 = 225, and the square root of 225 is 15 yards.",
+      "id": "AZG8_036",
+      "imageUrl": "topic:rectangle-diagonal",
+      "memoryHook": "T-Rexy says: a rectangle's diagonal is just a hypotenuse wearing a disguise. Slice the rectangle in half and solve it like any right triangle!",
+      "question": "A rectangular field is 9 yards wide and 12 yards long. What is the length of the diagonal across the field?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "24",
+      "difficulty": 3,
+      "distractors": [
+        "32",
+        "576",
+        "18"
+      ],
+      "dynamic": false,
+      "explanation": "Using a^2 + b^2 = c^2: 7^2 + b^2 = 25^2, so 49 + b^2 = 625, b^2 = 576, and the square root of 576 is 24.",
+      "id": "AZG8_037",
+      "imageUrl": "topic:missing-leg",
+      "memoryHook": "T-Rexy says: square the hypotenuse FIRST, then subtract. Big square minus little square gives the hidden leg's square!",
+      "question": "A right triangle has a hypotenuse of 25 and one leg of 7. What is the length of the other leg?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "13",
+      "difficulty": 3,
+      "distractors": [
+        "17",
+        "169",
+        "7"
+      ],
+      "dynamic": false,
+      "explanation": "The horizontal change is 2 - (-3) = 5 and the vertical change is -7 - 5 = -12, so the legs are 5 and 12 (distance is always positive). Using a^2 + b^2 = c^2: 5^2 + 12^2 = 25 + 144 = 169, and the square root of 169 is 13.",
+      "id": "AZG8_038",
+      "imageUrl": "topic:distance-formula",
+      "memoryHook": "T-Rexy says: negative coordinates cannot scare you. Subtract carefully, take the absolute value of each gap, then run the theorem as usual!",
+      "question": "What is the distance between the points (-3, 5) and (2, -7) on a coordinate plane?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "No",
+      "difficulty": 3,
+      "distractors": [
+        "Yes",
+        "Yes, it is a 7-24-25 triangle",
+        "Cannot be determined"
+      ],
+      "dynamic": false,
+      "explanation": "Check with the converse of the Pythagorean theorem: 7^2 + 24^2 = 49 + 576 = 625, but 26^2 = 676. Since 625 does not equal 676, it is not a right triangle. Do not be fooled by the look-alike 7-24-25 triple.",
+      "id": "AZG8_039",
+      "imageUrl": "topic:converse-pythagoras",
+      "memoryHook": "T-Rexy says: close is not equal! Always square and compare, because sneaky look-alike triples love to trick hungry mathematicians.",
+      "question": "Do side lengths of 7, 24, and 26 form a right triangle?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "10.9",
+      "difficulty": 2,
+      "distractors": [
+        "13",
+        "119",
+        "7"
+      ],
+      "dynamic": false,
+      "explanation": "The ladder is the hypotenuse (12) and the base is one leg (5). Using a^2 + b^2 = c^2: 5^2 + b^2 = 12^2, so 25 + b^2 = 144, b^2 = 119, and the square root of 119 is about 10.9 feet.",
+      "id": "AZG8_040",
+      "imageUrl": "topic:ladder-problem",
+      "memoryHook": "T-Rexy says: when the square root is messy, grab a calculator and round. A decimal answer is still a victory roar!",
+      "question": "A 12-foot ladder leans against a wall. The base of the ladder is 5 feet from the wall. About how high up the wall does the ladder reach? Round to the nearest tenth.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "282.6 cubic cm",
+      "difficulty": 1,
+      "distractors": [
+        "94.2 cubic cm",
+        "188.4 cubic cm",
+        "31.4 cubic cm"
+      ],
+      "dynamic": false,
+      "explanation": "V = pi r^2 h = 3.14 x 3^2 x 10 = 3.14 x 9 x 10 = 282.6 cubic cm.",
+      "id": "AZG8_041",
+      "imageUrl": "topic:volume-cylinder",
+      "memoryHook": "T-Rexy says: square the radius FIRST - little T-Rexy arms always square the radius before multiplying!",
+      "question": "What is the volume of a cylinder with radius 3 cm and height 10 cm? Use 3.14 for pi.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "113.04 cubic in",
+      "difficulty": 1,
+      "distractors": [
+        "84.78 cubic in",
+        "37.68 cubic in",
+        "904.32 cubic in"
+      ],
+      "dynamic": false,
+      "explanation": "V = (4/3) pi r^3 = (4/3) x 3.14 x 27 = 4 x 3.14 x 9 = 113.04 cubic in.",
+      "id": "AZG8_042",
+      "imageUrl": "topic:volume-sphere",
+      "memoryHook": "T-Rexy says: a sphere is FOUR-thirds - picture four tiny T-Rexy arms hugging the ball!",
+      "question": "What is the volume of a sphere with radius 3 inches? Use 3.14 for pi.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "150.72 cubic cm",
+      "difficulty": 1,
+      "distractors": [
+        "452.16 cubic cm",
+        "37.68 cubic cm",
+        "602.88 cubic cm"
+      ],
+      "dynamic": false,
+      "explanation": "V = (1/3) pi r^2 h = (1/3) x 3.14 x 16 x 9 = 3.14 x 16 x 3 = 150.72 cubic cm.",
+      "id": "AZG8_043",
+      "imageUrl": "topic:volume-cone",
+      "memoryHook": "T-Rexy says: a cone is one-third of its cylinder buddy - never forget the 1/3!",
+      "question": "What is the volume of a cone with radius 4 cm and height 9 cm? Use 3.14 for pi.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "942 cubic ft",
+      "difficulty": 2,
+      "distractors": [
+        "3768 cubic ft",
+        "188.4 cubic ft",
+        "376.8 cubic ft"
+      ],
+      "dynamic": false,
+      "explanation": "Diameter 10 ft means radius 5 ft. V = pi r^2 h = 3.14 x 25 x 12 = 942 cubic ft.",
+      "id": "AZG8_044",
+      "imageUrl": "topic:volume-water-tank",
+      "memoryHook": "T-Rexy says: diameter is the WHOLE cookie, radius is HALF the cookie - always halve it first!",
+      "question": "A cylindrical water tank has a diameter of 10 feet and a height of 12 feet. How many cubic feet of water can it hold? Use 3.14 for pi.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "12 cm",
+      "difficulty": 2,
+      "distractors": [
+        "4 cm",
+        "3 cm",
+        "6 cm"
+      ],
+      "dynamic": false,
+      "explanation": "314 = (1/3) x 3.14 x 25 x h, so h = 314 x 3 / (3.14 x 25) = 942 / 78.5 = 12 cm.",
+      "id": "AZG8_045",
+      "imageUrl": "topic:volume-cone",
+      "memoryHook": "T-Rexy says: going backwards? Multiply by 3 to undo the cone's sneaky one-third!",
+      "question": "A cone has a volume of 314 cubic cm and a radius of 5 cm. What is its height? Use 3.14 for pi.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "They are the same: 113.04 cubic units",
+      "difficulty": 2,
+      "distractors": [
+        "The cylinder is greater",
+        "The cone is greater",
+        "The cone: 339.12 cubic units"
+      ],
+      "dynamic": false,
+      "explanation": "Cylinder: 3.14 x 4 x 9 = 113.04. Cone: (1/3) x 3.14 x 36 x 3 = 113.04. The wide short cone exactly ties the tall skinny cylinder.",
+      "id": "AZG8_046",
+      "imageUrl": "topic:volume-comparison",
+      "memoryHook": "T-Rexy says: don't trust your eyes - a short wide cone can tie a tall skinny cylinder, so always do the math!",
+      "question": "A cylinder has radius 2 units and height 9 units. A cone has radius 6 units and height 3 units. Which solid has the greater volume? Use 3.14 for pi.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "3 in",
+      "difficulty": 2,
+      "distractors": [
+        "9 in",
+        "6 in",
+        "27 in"
+      ],
+      "dynamic": false,
+      "explanation": "113.04 = (4/3) x 3.14 x r^3, so r^3 = 113.04 x 3 / (4 x 3.14) = 27, and r = 3 in.",
+      "id": "AZG8_047",
+      "imageUrl": "topic:volume-sphere",
+      "memoryHook": "T-Rexy says: r-cubed is the treasure - dig it out with a cube root, tiny dino shovel and all!",
+      "question": "A sphere has a volume of 113.04 cubic inches. What is its radius? Use 3.14 for pi.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "37.68 cubic in",
+      "difficulty": 3,
+      "distractors": [
+        "79.55 cubic in",
+        "54.43 cubic in",
+        "96.29 cubic in"
+      ],
+      "dynamic": false,
+      "explanation": "Cone: (1/3) x 3.14 x 4 x 5 = 20.93. Hemisphere: (1/2) x (4/3) x 3.14 x 8 = 16.75. Total = 37.68 cubic in.",
+      "id": "AZG8_048",
+      "imageUrl": "topic:volume-ice-cream",
+      "memoryHook": "T-Rexy says: a scoop is HALF a sphere - T-Rexy only gets half because his arms can't hold the whole scoop!",
+      "question": "An ice cream cone is a cone with radius 2 inches and height 5 inches, topped with a hemisphere scoop of the same radius. What is the total volume of cone plus scoop? Use 3.14 for pi.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "The sphere holds 37.68 cubic cm more",
+      "difficulty": 3,
+      "distractors": [
+        "The cylinder holds 37.68 cubic cm more",
+        "The sphere holds 9.42 cubic cm more",
+        "The sphere holds 75.36 cubic cm more"
+      ],
+      "dynamic": false,
+      "explanation": "Cylinder: 3.14 x 4 x 6 = 75.36. Sphere: (4/3) x 3.14 x 27 = 113.04. Difference: 113.04 - 75.36 = 37.68 cubic cm in favor of the sphere.",
+      "id": "AZG8_049",
+      "imageUrl": "topic:volume-comparison",
+      "memoryHook": "T-Rexy says: when comparing shapes, compute BOTH volumes - never let the taller shape bully you into guessing!",
+      "question": "A cylindrical can has radius 2 cm and height 6 cm. A spherical ball has radius 3 cm. Which holds more, and by how much? Use 3.14 for pi.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "10 ft",
+      "difficulty": 3,
+      "distractors": [
+        "5 ft",
+        "25 ft",
+        "20 ft"
+      ],
+      "dynamic": false,
+      "explanation": "1570 = 3.14 x r^2 x 20, so r^2 = 1570 / 62.8 = 25 and r = 5 ft. Diameter = 2 x 5 = 10 ft.",
+      "id": "AZG8_050",
+      "imageUrl": "topic:volume-water-tank",
+      "memoryHook": "T-Rexy says: they asked for DIAMETER but you found RADIUS - double it, because T-Rexy always doubles his snacks!",
+      "question": "A cylindrical water tank holds 1570 cubic feet of water and is 20 feet tall. What is the diameter of the tank? Use 3.14 for pi.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "(6, 2)",
+      "difficulty": 1,
+      "distractors": [
+        "(6, 4)",
+        "(-2, 2)",
+        "(2, 6)"
+      ],
+      "dynamic": false,
+      "explanation": "Right 4: x becomes 2 + 4 = 6. Down 1: y becomes 3 - 1 = 2. So A' is at (6, 2).",
+      "id": "AZG8_051",
+      "imageUrl": "topic:transformations",
+      "memoryHook": "T-Rexy says: right means x grows, up means y grows - stomp in the right direction!",
+      "question": "Point A is at (2, 3). After a translation 4 units right and 1 unit down, where is A'?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "(4, 5)",
+      "difficulty": 2,
+      "distractors": [
+        "(-4, -5)",
+        "(-4, 5)",
+        "(5, -4)"
+      ],
+      "dynamic": false,
+      "explanation": "A reflection across the x-axis keeps the x-coordinate and flips the sign of the y-coordinate. So (4, -5) becomes (4, 5).",
+      "id": "AZG8_052",
+      "imageUrl": "topic:transformations",
+      "memoryHook": "T-Rexy says: the x-axis is like a mirror on the floor - your x stays the same, your y flips upside down!",
+      "question": "Point B is at (4, -5). If B is reflected across the x-axis, where is B'?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "(2, 3)",
+      "difficulty": 2,
+      "distractors": [
+        "(-2, -3)",
+        "(-3, 2)",
+        "(3, -2)"
+      ],
+      "dynamic": false,
+      "explanation": "For a 90-degree counterclockwise rotation about the origin, (x, y) becomes (-y, x). So (3, -2) becomes (2, 3).",
+      "id": "AZG8_053",
+      "imageUrl": "topic:transformations",
+      "memoryHook": "T-Rexy says: spin left 90 - swap the numbers and flip the sign of the NEW x, like doing a dinosaur twirl!",
+      "question": "Point C is at (3, -2). If C is rotated 90 degrees counterclockwise about the origin, where is C'?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "(-1, 4)",
+      "difficulty": 3,
+      "distractors": [
+        "(-4, 4)",
+        "(2, 4)",
+        "(-1, 2)"
+      ],
+      "dynamic": false,
+      "explanation": "Step 1 - dilation by 2: (1 x 2, 2 x 2) = (2, 4). Step 2 - translate 3 left: x becomes 2 - 3 = -1. So P' is at (-1, 4).",
+      "id": "AZG8_054",
+      "imageUrl": "topic:transformations",
+      "memoryHook": "T-Rexy says: order matters - grow the dino FIRST with dilation, then stomp it sideways with the translation!",
+      "question": "Point P is at (1, 2). First, the figure is dilated by a scale factor of 2 centered at the origin. Then it is translated 3 units left. Where is P' after both transformations?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "correctAnswer": "(3, 6)",
+      "difficulty": 1,
+      "distractors": [
+        "(6, 3)",
+        "(3, 3)",
+        "(4.5, 4.5)"
+      ],
+      "dynamic": false,
+      "explanation": "Substitute 2x for y: x + 2x = 9, so 3x = 9 and x = 3. Then y = 2(3) = 6. The solution is (3, 6).",
+      "id": "AZG8_055",
+      "imageUrl": "topic:systems-equations",
+      "memoryHook": "T-Rexy says: substitution is like swapping a toy - trade y for 2x, then solve with one crunchy bite!",
+      "question": "Solve the system by substitution: y = 2x and x + y = 9. What is the solution?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "(3, 2)",
+      "difficulty": 2,
+      "distractors": [
+        "(3, -2)",
+        "(2, 3)",
+        "(0, 4)"
+      ],
+      "dynamic": false,
+      "explanation": "Subtract the second equation from the first: (2x + 3y) - (2x - y) = 12 - 4, so 4y = 8 and y = 2. Plug back in: 2x - 2 = 4, so 2x = 6 and x = 3. The solution is (3, 2).",
+      "id": "AZG8_056",
+      "imageUrl": "topic:systems-equations",
+      "memoryHook": "T-Rexy says: matching 2x terms cancel like dinner plates - subtract and chomp what's left!",
+      "question": "Solve the system by elimination: 2x + 3y = 12 and 2x - y = 4. What is the solution?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "Infinitely many solutions",
+      "difficulty": 3,
+      "distractors": [
+        "One solution: (0, -2)",
+        "No solution",
+        "One solution: (2, 4)"
+      ],
+      "dynamic": false,
+      "explanation": "Divide the second equation by 2: 3x - y = 2, which rearranges to y = 3x - 2. Both equations describe the same line, so every point on the line is a solution - infinitely many.",
+      "id": "AZG8_057",
+      "imageUrl": "topic:systems-equations",
+      "memoryHook": "T-Rexy says: same line twice means the dino is chasing its own tail - infinite solutions!",
+      "question": "Consider the system: y = 3x - 2 and 6x - 2y = 4. How many solutions does this system have?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "32",
+      "difficulty": 1,
+      "distractors": [
+        "64",
+        "2",
+        "10"
+      ],
+      "dynamic": false,
+      "explanation": "When multiplying powers with the same base, add the exponents: 2^3 x 2^2 = 2^(3+2) = 2^5 = 32.",
+      "id": "AZG8_058",
+      "imageUrl": "topic:exponents",
+      "memoryHook": "T-Rexy says: same base multiplying? ADD the exponents - stack those power snacks up!",
+      "question": "What is the value of 2^3 x 2^2?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "4.5 x 10^-4",
+      "difficulty": 2,
+      "distractors": [
+        "4.5 x 10^4",
+        "4.5 x 10^-3",
+        "45 x 10^-4"
+      ],
+      "dynamic": false,
+      "explanation": "Move the decimal point 4 places to the right to get 4.5, a number between 1 and 10. Moving right means the exponent is negative: 4.5 x 10^-4.",
+      "id": "AZG8_059",
+      "imageUrl": "topic:exponents",
+      "memoryHook": "T-Rexy says: tiny decimal scurries RIGHT, so the exponent goes negative - small dino, negative power!",
+      "question": "Which shows 0.00045 written in scientific notation?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "6 x 10^2",
+      "difficulty": 3,
+      "distractors": [
+        "6 x 10^-8",
+        "5 x 10^2",
+        "6 x 10^6"
+      ],
+      "dynamic": false,
+      "explanation": "Multiply the coefficients: 3 x 2 = 6. Add the exponents: 4 + (-2) = 2. The result is 6 x 10^2.",
+      "id": "AZG8_060",
+      "imageUrl": "topic:exponents",
+      "memoryHook": "T-Rexy says: multiply the front numbers, ADD the exponents - even when one is negative, the dino adds!",
+      "question": "What is (3 x 10^4) x (2 x 10^-2) written in scientific notation?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "Math",
+        "Algebra"
+      ]
+    },
+    {
+      "correctAnswer": "The saguaro cactus survives desert droughts by storing rainwater in its expandable ribs.",
+      "difficulty": 1,
+      "distractors": [
+        "The saguaro cactus can live for more than 150 years.",
+        "The Sonoran Desert is one of the hottest places on Earth.",
+        "All desert plants store water in their stems."
+      ],
+      "dynamic": false,
+      "explanation": "The correct answer captures the full point: how saguaros survive drought. The first distractor is a true supporting detail, not the main idea; the second is not stated in the passage; the third is an overly broad generalization.",
+      "id": "AZG8_061",
+      "imageUrl": "topic:reading-informational",
+      "memoryHook": "T-Rexy says: the main idea is the whole dino - details are just the scales!",
+      "question": "Read the passage: 'The saguaro cactus can live for more than 150 years in the Sonoran Desert. Its accordion-like ribs expand to store water after rare rainstorms. This stored water keeps the cactus alive through months of drought.' What is the main idea of the passage?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Sequence, because the passage lists events in the order they happen.",
+      "difficulty": 1,
+      "distractors": [
+        "Compare and contrast, because it compares summer and winter weather.",
+        "Cause and effect, because the passage explains why floods happen.",
+        "Problem and solution, because it describes how to stay safe in floods."
+      ],
+      "dynamic": false,
+      "explanation": "Words like first, next, and finally signal chronological sequence. The passage does not compare two things, it presents no problem to solve, and cause/effect is not the organizing pattern.",
+      "id": "AZG8_062",
+      "imageUrl": "topic:text-structure",
+      "memoryHook": "T-Rexy says: first, next, finally - that's the dino timeline marching by!",
+      "question": "Read the passage: 'Arizona's monsoon season follows a clear pattern. First, hot summer air rises and draws moist air from the south. Next, towering thunderheads build up each afternoon. Finally, sudden downpours and flash floods can sweep through desert canyons.' Which text structure does the author use?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "To show that both trees survive drought using different strategies.",
+      "difficulty": 2,
+      "distractors": [
+        "To argue that mesquite trees are stronger than palo verdes.",
+        "To explain why desert trees drop their leaves every year.",
+        "To prove that green bark is better than deep roots."
+      ],
+      "dynamic": false,
+      "explanation": "The passage contrasts two strategies without ranking them. The distractors add a judgment (stronger, better) the passage never makes, or overgeneralize a detail to all desert trees.",
+      "id": "AZG8_063",
+      "imageUrl": "topic:compare-contrast",
+      "memoryHook": "T-Rexy says: compare means two dinos side by side, not a winner's trophy!",
+      "question": "Read the passage: 'Mesquite trees and palo verde trees both thrive in Arizona's desert, but they survive drought in different ways. Mesquite trees grow taproots that reach deep underground water. Palo verdes, in contrast, use their green bark to photosynthesize after dropping their small leaves.' What is the purpose of this comparison?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Drought reduces river water, which cuts irrigation, which forces farmers to plant less.",
+      "difficulty": 2,
+      "distractors": [
+        "Farmers cause droughts by using too much irrigation water.",
+        "Desert rivers dry up because farmers plant too many crops.",
+        "Low crop harvests cause less rain to fall on the mountains."
+      ],
+      "dynamic": false,
+      "explanation": "The chain flows from drought to less water to less planting. The distractors reverse the chain, blaming farmers for the drought or the harvest for the rain.",
+      "id": "AZG8_064",
+      "imageUrl": "topic:cause-effect",
+      "memoryHook": "T-Rexy says: follow the cause like dino footprints - step one, then step two!",
+      "question": "Read the passage: 'During Arizona's drought years, less rain falls on the mountains that feed desert rivers. As river levels drop, irrigation canals deliver less water to farms. Farmers then leave fields unplanted, which reduces the state's crop harvest.' Which statement best describes the cause-and-effect chain?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "To persuade readers to volunteer for a saguaro cleanup crew.",
+      "difficulty": 1,
+      "distractors": [
+        "To inform readers that saguaros are hundreds of years old.",
+        "To explain how wildfires spread through desert grasses.",
+        "To entertain readers with a story about Arizona plants."
+      ],
+      "dynamic": false,
+      "explanation": "The call to action (\"Join a cleanup crew\") shows a persuasive purpose. The distractors describe real details but miss the author's goal of recruiting volunteers.",
+      "id": "AZG8_065",
+      "imageUrl": "topic:authors-purpose",
+      "memoryHook": "T-Rexy says: when the author says JOIN ME, the purpose is to persuade the herd!",
+      "question": "Read the passage: 'Saguaro National Park needs volunteers to help protect its ancient cacti. Without help, invasive grasses could fuel wildfires that destroy centuries-old saguaros. Join a cleanup crew this spring and be part of saving Arizona's most iconic plant.' What is the author's purpose?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Central idea: the Grand Canyon draws millions of visitors and reveals Earth's deep history; supporting detail: the Bright Angel Trail drops 4,000 feet to the river.",
+      "difficulty": 2,
+      "distractors": [
+        "Central idea: the Bright Angel Trail is 4,000 feet long; supporting detail: six million people visit yearly.",
+        "Central idea: the Colorado River runs through the canyon; supporting detail: rock layers show two billion years of history.",
+        "Central idea: hiking trails are dangerous; supporting detail: the canyon walls are layered."
+      ],
+      "dynamic": false,
+      "explanation": "The central idea covers the whole passage (visitors plus what the canyon shows); the trail depth is one specific detail. The distractors promote details to central ideas or add claims (dangerous) the passage never makes.",
+      "id": "AZG8_066",
+      "imageUrl": "topic:central-idea",
+      "memoryHook": "T-Rexy says: central idea is the dino skeleton, supporting details are the fossil footprints!",
+      "question": "Read the passage: 'The Grand Canyon attracts over six million visitors each year. Many of them hike the Bright Angel Trail, which drops more than 4,000 feet to the Colorado River. The canyon's layered rock walls reveal nearly two billion years of Earth's history.' Which statement is the central idea, and which is a supporting detail?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Arizona built a massive canal system to bring Colorado River water to its desert cities, and that water now supports farms, homes, and industry.",
+      "difficulty": 3,
+      "distractors": [
+        "The Central Arizona Project took twenty years to build and moves water hundreds of miles.",
+        "Arizona should negotiate harder with other states to get more water from the Colorado River.",
+        "Phoenix and Tucson would not exist without water from the Central Arizona Project."
+      ],
+      "dynamic": false,
+      "explanation": "The best summary captures the passage's full scope without adding opinions. The first distractor is only details, the second adds an opinion the author never states, and the third is an overly absolute claim not supported by the text.",
+      "id": "AZG8_067",
+      "imageUrl": "topic:summarizing",
+      "memoryHook": "T-Rexy says: a summary is the dino on a postcard - small, complete, no extra tail!",
+      "question": "Read the passage: 'Arizona's canals move water hundreds of miles from the Colorado River to Phoenix and Tucson. Engineers built the Central Arizona Project over twenty years to make desert cities possible. Today, farmers, homeowners, and industries all depend on this delivered water, and Arizona negotiates with other states to keep its share.' Which is the best summary of the passage?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "A haboob, a dust storm that can make it impossible to see within minutes.",
+      "difficulty": 2,
+      "distractors": [
+        "A cool breeze that makes summer thunderstorms less dangerous.",
+        "Longer thunderstorms that bring much-needed rain to the desert.",
+        "Fertile soil deposits that help desert plants grow."
+      ],
+      "dynamic": false,
+      "explanation": "The passage states the result directly: the plunging air lifts dust and creates a haboob. The distractors invent positive outcomes (cooling, rain, fertile soil) that the passage never mentions.",
+      "id": "AZG8_068",
+      "imageUrl": "topic:cause-effect",
+      "memoryHook": "T-Rexy says: cause is the stomp, effect is the dust cloud that follows!",
+      "question": "Read the passage: 'Intense desert thunderstorms cool the air above the ground. This cold air plunges downward and spreads out, lifting huge walls of dust. The result is a haboob, a towering dust storm that can reduce visibility to zero in minutes.' What effect do the plunging cold air and dust produce?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "To motivate Arizona homeowners to fix leaks and install low-flow fixtures.",
+      "difficulty": 3,
+      "distractors": [
+        "To describe how plumbing fixtures are manufactured.",
+        "To compare Arizona's water use with other states.",
+        "To report the exact number of gallons wasted statewide."
+      ],
+      "dynamic": false,
+      "explanation": "Though the passage gives facts, its purpose is persuasive: the statistics build urgency and the final sentence urges action. The distractors treat the passage as a neutral report or invent topics (manufacturing, comparisons) never mentioned.",
+      "id": "AZG8_069",
+      "imageUrl": "topic:authors-purpose",
+      "memoryHook": "T-Rexy says: numbers plus a nudge to act - that's a dino asking for help!",
+      "question": "Read the passage: 'A single leaking toilet can waste more than 200 gallons of water a day. In a desert state like Arizona, every saved gallon matters. Fixing leaks and installing low-flow fixtures are simple steps any homeowner can take this weekend.' Which best states the author's implied purpose?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "The Grand Canyon was carved by two slow, different forces working together: gradual uplift and steady river erosion.",
+      "difficulty": 3,
+      "distractors": [
+        "The Colorado Plateau rises only a few inches every century.",
+        "The Colorado River is the most powerful force in the canyon.",
+        "The Grand Canyon formed quickly during a single ancient flood."
+      ],
+      "dynamic": false,
+      "explanation": "The passage compares two cooperating processes without ranking them. The distractors isolate one detail, add a ranking the passage never makes, or contradict the passage's emphasis on millions of years.",
+      "id": "AZG8_070",
+      "imageUrl": "topic:main-idea",
+      "memoryHook": "T-Rexy says: two slow dinos pushed together - main idea holds both in one bite!",
+      "question": "Read the passage: 'Two forces carved the Grand Canyon, but they worked at very different speeds. Uplift raised the Colorado Plateau slowly over millions of years, while the Colorado River cut downward through the rising rock. The plateau rose only inches per century, yet the river's steady erosion removed entire layers of stone.' What is the main idea of the passage?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Setbacks can be turned into opportunities when you respond with patience and creativity.",
+      "difficulty": 1,
+      "distractors": [
+        "Marcus is late for school because he missed the bus twice this week.",
+        "Drawing is a better use of time than catching the bus.",
+        "Rain makes people calm enough to sketch peacefully."
+      ],
+      "dynamic": false,
+      "explanation": "The theme is the deeper message - patience and creativity turn a setback into something useful. The distractors are traps: a plot summary of what happened, a claim the passage never makes about drawing being better, and a literal comment about rain rather than the bigger idea.",
+      "id": "AZG8_071",
+      "imageUrl": "topic:reading-literary",
+      "memoryHook": "T-Rexy says: theme is the buried treasure - dig past the plot to find it!",
+      "question": "Read the excerpt: 'Marcus missed the bus again. Instead of panicking, he pulled out his notebook and sketched the rain on the shelter roof. By the time the next bus arrived, he had three drawings and a calm mind.' What is the theme of this passage?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Honesty and kindness matter more than personal gain.",
+      "difficulty": 2,
+      "distractors": [
+        "People should always go to concerts when they get the chance.",
+        "Tourists are careless with their wallets while traveling.",
+        "Priya is saving her money by walking home instead of riding."
+      ],
+      "dynamic": false,
+      "explanation": "The passage shows Priya choosing honesty over an easy reward, so the theme is about valuing kindness over personal gain. Distractors include a misread life lesson the passage never supports, a generalization about tourists, and a detail (walking home) twisted into a false point about saving money.",
+      "id": "AZG8_072",
+      "imageUrl": "topic:reading-literary",
+      "memoryHook": "T-Rexy says: watch what the character GIVES UP - the sacrifice points straight at the theme!",
+      "question": "Read the excerpt: 'Priya could have kept the found wallet. The cash inside would have covered her concert ticket. Instead, she returned it to the trembling tourist who had lost it, and walked home smiling anyway.' Which theme is best supported by this passage?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Compassion - she puts her frustration aside to comfort her brother.",
+      "difficulty": 1,
+      "distractors": [
+        "Carelessness - she lets her brother spill things around her work.",
+        "Impatience - she rolls her eyes and wants to finish her homework.",
+        "Silliness - she laughs at a serious situation."
+      ],
+      "dynamic": false,
+      "explanation": "Lena's eye-roll shows brief frustration, but her actions (grabbing a towel, laughing kindly, helping) reveal compassion. The distractors freeze-frame her first reaction (impatience), mislabel her kindness (silliness), or blame her for the spill (carelessness) instead of judging her by her final choices.",
+      "id": "AZG8_073",
+      "imageUrl": "topic:reading-literary",
+      "memoryHook": "T-Rexy says: don't judge a dino by its first roar - watch what it does by the end!",
+      "question": "Read the excerpt: 'Lena rolled her eyes when her little brother spilled juice on her homework. Then she saw his lip quiver. She grabbed a towel, laughed, and helped him clean it up.' What character trait does Lena show by the end of the passage?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Devon is driven by his belief in a cause, which pushes him to face his fear of speaking.",
+      "difficulty": 3,
+      "distractors": [
+        "Devon joins the debate team because he enjoys the sound of his own voice.",
+        "Devon practices in the garage because he wants to be left alone.",
+        "Devon wants the library funded so he has a quieter place to practice."
+      ],
+      "dynamic": false,
+      "explanation": "Devon's reason is his commitment to the library funding - he practices through shaking fear because the cause matters to him. The distractors swap in surface readings: enjoying his voice (contradicted by his terror), wanting solitude (a literal detail misread as motive), and a backwards cause-and-effect about the library.",
+      "id": "AZG8_074",
+      "imageUrl": "topic:reading-literary",
+      "memoryHook": "T-Rexy says: motivation is the engine under the hood - ask what fuel the character runs on!",
+      "question": "Read the excerpt: 'Devon signed up for the debate team even though public speaking terrified him. Every morning he practiced in the empty garage, voice shaking, because he wanted to argue for the new library funding. Fear would not decide for him.' What best explains Devon's motivation?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Internal conflict - Sofia is torn between wanting the ticket and not wanting to hurt her friend.",
+      "difficulty": 1,
+      "distractors": [
+        "External conflict - Sofia is fighting with Elena at the pool.",
+        "Character vs. nature conflict - Sofia is battling the water during the race.",
+        "No conflict - the girls already agreed on a fair plan."
+      ],
+      "dynamic": false,
+      "explanation": "The struggle happens inside Sofia (her twisting stomach over disappointing Elena), making it internal conflict. Traps: calling it a fight with Elena (no argument is described), mislabeling the swim race as a nature conflict, and claiming the agreement removed the conflict (the agreement created the dilemma).",
+      "id": "AZG8_075",
+      "imageUrl": "topic:reading-literary",
+      "memoryHook": "T-Rexy says: when the battle is inside the dino's head, that's internal conflict!",
+      "question": "Read the excerpt: 'Sofia wanted the last concert ticket, but her best friend Elena wanted it too. They promised whoever won their swim race would take the ticket. At the pool's edge, Sofia's stomach twisted - winning meant Elena would be disappointed.' What type of conflict does Sofia face?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "The lightning striking the pine and Carlos abandoning the shortcut to run for shelter.",
+      "difficulty": 2,
+      "distractors": [
+        "Carlos studying the trail map and choosing the shortcut.",
+        "Carlos dropping his backpack as he starts to run.",
+        "Carlos mocking the shelter earlier that morning."
+      ],
+      "dynamic": false,
+      "explanation": "The lightning strike is the moment of highest tension where everything changes - Carlos reverses his proud choice. The map study is the setup, mocking the shelter is background, and dropping the pack is a detail within the climax, not the turning point itself.",
+      "id": "AZG8_076",
+      "imageUrl": "topic:reading-literary",
+      "memoryHook": "T-Rexy says: the climax is the volcano erupting - the peak moment when the story can't turn back!",
+      "question": "Read the excerpt: 'The trail map showed a shortcut across the ridge. Halfway across, the sky went black and lightning split a pine fifty yards ahead. Carlos dropped his pack and ran - not toward the shortcut, but back to the shelter he had mocked that morning.' Which event is the climax of this mini-story?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Simile - both comparisons use 'like' or 'as' to compare sounds to something else.",
+      "difficulty": 2,
+      "distractors": [
+        "Metaphor - the passage calls the roar a tidal wave directly.",
+        "Personification - the stadium is given the human ability to wait.",
+        "Hyperbole - the comparisons are exaggerated beyond belief."
+      ],
+      "dynamic": false,
+      "explanation": "Both comparisons use 'like' or 'as' ('like a tidal wave,' 'silent as a library'), which defines simile. The distractors are near-miss traps: a metaphor would skip the 'like/as,' the stadium's 'waiting' is a minor detail not the main device, and hyperbole misses the specific comparison structure.",
+      "id": "AZG8_077",
+      "imageUrl": "topic:figurative-language",
+      "memoryHook": "T-Rexy says: simile is a comparison with training wheels - look for 'like' or 'as' holding it up!",
+      "question": "Read the excerpt: 'The crowd's roar hit like a tidal wave as the final goal landed. Then the stadium fell silent as a library, waiting for the referee's call.' Which type of figurative language is used in this passage?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "It creates a spooky, alive feeling by giving the house human behaviors such as groaning, gossiping, and winking.",
+      "difficulty": 3,
+      "distractors": [
+        "It proves the house is haunted by actual ghosts.",
+        "It explains how wind physically damages old houses.",
+        "It shows the house is friendly and welcoming visitors."
+      ],
+      "dynamic": false,
+      "explanation": "The personification (groaning, gossiping, winking) makes the house feel eerily alive. The distractors take the figure of speech literally: treating it as proof of ghosts, reading it as a science explanation, or mistaking the creepy tone for a welcoming one.",
+      "id": "AZG8_078",
+      "imageUrl": "topic:figurative-language",
+      "memoryHook": "T-Rexy says: personification gives things a heartbeat - listen for objects acting like people!",
+      "question": "Read the excerpt: 'The old house groaned in the wind, its shutters gossiping with every gust. The porch light winked at us like it knew our secret.' What is the effect of the figurative language in this passage?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "First person - the narrator uses 'I' and shares only their own inner thoughts and feelings.",
+      "difficulty": 2,
+      "distractors": [
+        "Second person - the narrator addresses the reader directly as 'you.'",
+        "Third person limited - the narrator describes one character from the outside.",
+        "Third person omniscient - the narrator knows what the audience is thinking."
+      ],
+      "dynamic": false,
+      "explanation": "The 'I' pronouns and access to only the speaker's private fears mark first person. The distractors misidentify: no 'you' addresses the reader, a third-person narrator would not say 'I,' and we never learn the audience's actual thoughts - only the narrator's worry about them.",
+      "id": "AZG8_079",
+      "imageUrl": "topic:reading-literary",
+      "memoryHook": "T-Rexy says: first person wears an 'I' badge - if the narrator says 'I', they're in the story!",
+      "question": "Read the excerpt: 'I gripped the podium and felt my notes shake in my hand. I could hear my heart pounding louder than the applause, and I wondered if anyone in the audience could tell how scared I was.' From which point of view is this passage told?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "The third-person omniscient narrator reveals what both characters misunderstand, creating dramatic irony the characters cannot see.",
+      "difficulty": 3,
+      "distractors": [
+        "The first-person narrator shows only Noah's feelings about the seat.",
+        "The second-person narrator asks the reader to take Maya's side.",
+        "The third-person narrator stays neutral and reports only physical actions."
+      ],
+      "dynamic": false,
+      "explanation": "The narrator knows both characters' mistaken beliefs plus the real cause (the unsent text) - omniscience the characters lack, which is dramatic irony. The distractors wrongly label the POV as first or second person, or claim the narrator is neutral when it clearly reports inner thoughts.",
+      "id": "AZG8_080",
+      "imageUrl": "topic:reading-literary",
+      "memoryHook": "T-Rexy says: omniscient is the all-seeing dino - it knows everyone's secrets at once!",
+      "question": "Read the excerpt: 'Noah believed the empty seat beside him meant his invitation had been lost. Across the room, Maya kept checking her phone, sure that Noah was ignoring her message. Neither one knew the truth: the text had never been sent.' How does the point of view shape the reader's understanding?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Maria expects it to rain soon and is preparing for wet weather.",
+      "difficulty": 1,
+      "distractors": [
+        "Maria is frightened of thunderstorms and dark clouds.",
+        "Maria decided to cancel her plans and stay home all day.",
+        "Maria believes the clouds over the hills look beautiful."
+      ],
+      "dynamic": false,
+      "explanation": "Maria's actions (grabbing an umbrella and rain boots) plus the detail of dark clouds support the inference that she expects rain. The distractors fail: nothing suggests fear, she is heading out the door rather than staying home, and her sigh suggests resignation, not admiration of the clouds.",
+      "id": "AZG8_081",
+      "imageUrl": "topic:inference",
+      "memoryHook": "T-Rexy says: an inference is a dino footprint - the text leaves the print, you find the dinosaur!",
+      "question": "Read the passage: 'Maria grabbed her umbrella and rain boots before heading out the door. She glanced at the dark clouds gathering over the hills and sighed.' What can the reader infer from the passage?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "The students cared about the new library and were excited that it would finally open.",
+      "difficulty": 2,
+      "distractors": [
+        "The principal built the new library without any help from the students.",
+        "The students were cheering because classes were cancelled for the day.",
+        "The students already had a large library they were happy with."
+      ],
+      "dynamic": false,
+      "explanation": "The principal credits the students' fundraising, so they were invested in the project, and their cheers show excitement about the opening. The distractors fail: the text credits the students rather than the principal alone, nothing mentions cancelled classes, and the cheers contradict the idea that they already had a satisfactory library.",
+      "id": "AZG8_082",
+      "imageUrl": "topic:inference",
+      "memoryHook": "T-Rexy says: don't just read the words - sniff out the clues like a raptor on the hunt!",
+      "question": "Read the passage: ''Because of your fundraising efforts,' the principal announced, 'the new library will open next Monday.' The auditorium exploded in cheers.' What can the reader infer from the passage?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Jonah expected a guest for dinner, but the guest never arrived.",
+      "difficulty": 3,
+      "distractors": [
+        "Jonah was preparing breakfast for the following morning.",
+        "Jonah had an argument with his guest during the meal.",
+        "Jonah always sets two plates on the table out of habit."
+      ],
+      "dynamic": false,
+      "explanation": "Two plates suggest he expected company, one filled glass and repeated clock-checking suggest he was waiting, and eating alone confirms the guest never came. The distractors fail: nothing points to breakfast, no meal or argument occurred, and the clock-checking shows he was waiting for someone rather than following a routine.",
+      "id": "AZG8_083",
+      "imageUrl": "topic:inference",
+      "memoryHook": "T-Rexy says: small clues grow into big answers, just like a tiny egg grows into a T-Rex!",
+      "question": "Read the passage: 'Jonah set two plates on the table but filled only one glass with water. He checked the clock twice, then sat down to eat alone.' What is the best inference the reader can make?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "The team lost an important championship, and the coach is disappointed.",
+      "difficulty": 2,
+      "distractors": [
+        "The team decided that trophies were no longer important to them.",
+        "Coach Rivera sold the trophies to raise money for the school.",
+        "The trophy case was empty because it had just been installed."
+      ],
+      "dynamic": false,
+      "explanation": "The empty case, the missing cup, and the coach's downcast behavior point to a painful loss. The distractors fail: the coach's sadness contradicts indifference, nothing suggests selling, and the case 'once held' the cup, so it is not new.",
+      "id": "AZG8_084",
+      "imageUrl": "topic:inference",
+      "memoryHook": "T-Rexy says: the text won't hand you the answer - dig it up like a fossil!",
+      "question": "Read the passage: 'The trophy case that once held the regional cup stood empty. Coach Rivera walked past it staring at the floor, his whistle silent in his pocket.' What can the reader infer?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "'Unlike rabbits, it cannot run from danger.'",
+      "difficulty": 1,
+      "distractors": [
+        "'The desert tortoise moves slowly across the hot sand.'",
+        "'Instead, it relies on its hard shell for protection.'",
+        "'The tortoise prefers hiding in its shell over fighting predators.'"
+      ],
+      "dynamic": false,
+      "explanation": "The correct sentence states the point directly, making it the strongest evidence. 'Moves slowly' is related but less direct; the shell sentence explains a different survival strategy; the last option is a paraphrase about hiding, not about running.",
+      "id": "AZG8_085",
+      "imageUrl": "topic:text-evidence",
+      "memoryHook": "T-Rexy says: evidence is your club - swing the exact sentence that smashes the claim home!",
+      "question": "Read the passage: 'The desert tortoise moves slowly across the hot sand. Unlike rabbits, it cannot run from danger. Instead, it relies on its hard shell for protection.' Which sentence from the passage is the strongest evidence that the tortoise cannot escape predators by running?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "The recycling bins overflowed every Friday while the trash cans sat half empty.",
+      "difficulty": 2,
+      "distractors": [
+        "One hallway bin remained unused.",
+        "The principal noticed a problem with a hallway bin.",
+        "Maya created a poster campaign."
+      ],
+      "dynamic": false,
+      "explanation": "Overflowing recycling bins and emptier trash cans show students actually changed what they threw away, which is direct evidence of changed behavior. The unused hallway bin weakens the claim, the principal's note describes a problem rather than a result, and the fact that Maya made posters describes her action, not its effect.",
+      "id": "AZG8_086",
+      "imageUrl": "topic:text-evidence",
+      "memoryHook": "T-Rexy says: strong evidence stomps like a T-Rex; weak evidence trips like a baby raptor!",
+      "question": "Read the passage: 'Recycling bins in the cafeteria overflowed every Friday, yet the trash cans sat half empty. Maya's poster campaign had clearly worked. Still, the principal noted, one hallway bin remained unused.' A student claims that Maya's campaign changed student behavior. Which detail from the passage best supports this claim?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Many beekeepers wear white suits because bees are calmed by light colors.",
+      "difficulty": 3,
+      "distractors": [
+        "Bees carry pollen from bloom to bloom.",
+        "Pollination helps plants produce fruit and seeds.",
+        "Bees visit flowers to collect nectar."
+      ],
+      "dynamic": false,
+      "explanation": "The beekeepers' suits are about human safety and bee behavior, not about plant reproduction, so the detail is irrelevant to the claim. The other three details all connect bees to pollination and to fruit and seed production, which is how plants reproduce.",
+      "id": "AZG8_087",
+      "imageUrl": "topic:irrelevant-evidence",
+      "memoryHook": "T-Rexy says: if the clue doesn't bite the claim, leave it in the fossil pit - it's irrelevant!",
+      "question": "Read the passage: 'Bees visit flowers to collect nectar, and in the process they carry pollen from bloom to bloom. This pollination helps plants produce fruit and seeds. Many beekeepers wear white suits because bees are calmed by light colors.' Which detail is IRRELEVANT as evidence for the claim that bees help plants reproduce?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Many people consider the saguaro the most beautiful plant in the desert.",
+      "difficulty": 1,
+      "distractors": [
+        "Cacti store water in their thick stems.",
+        "Thick stems help cacti survive months without rain.",
+        "Saguaros can grow more than 40 feet tall."
+      ],
+      "dynamic": false,
+      "explanation": "'Most beautiful' is a judgment that cannot be proven true or false, so it is an opinion. The other statements are facts that can be verified through measurement or observation.",
+      "id": "AZG8_088",
+      "imageUrl": "topic:fact-vs-opinion",
+      "memoryHook": "T-Rexy says: facts are hard bones you can measure; opinions are just dino feelings!",
+      "question": "Read the passage: 'Cacti store water in their thick stems, which helps them survive months without rain. Many people consider the saguaro the most beautiful plant in the desert. Saguaros can grow more than 40 feet tall.' Which statement from the passage is an opinion rather than a fact?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "'Skateboarding is more fun than basketball.'",
+      "difficulty": 2,
+      "distractors": [
+        "'Teenagers need a safe place to practice.'",
+        "'Over 200 teens signed a petition asking for one.'",
+        "'The town should build a skate park.'"
+      ],
+      "dynamic": false,
+      "explanation": "'More fun than basketball' is a personal opinion that gives no logical reason to build a park. The need for a safe place is a relevant reason, and the 200-signature petition is concrete evidence of demand. 'The town should build a skate park' is the claim itself, not support at all.",
+      "id": "AZG8_089",
+      "imageUrl": "topic:argument",
+      "memoryHook": "T-Rexy says: a weak argument wobbles like a T-Rex on a skateboard - spot what doesn't hold it up!",
+      "question": "Read the passage: 'The town should build a skate park because teenagers need a safe place to practice. Last year, over 200 teens signed a petition asking for one. Skateboarding is more fun than basketball.' Which sentence is the WEAKEST support for the claim that the town should build a skate park?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "School lunches should include a vegetarian option every day.",
+      "difficulty": 3,
+      "distractors": [
+        "A survey of 500 students found that one-third would choose it regularly.",
+        "Meat production creates more pollution than growing vegetables.",
+        "Growing vegetables is better for the environment than raising animals."
+      ],
+      "dynamic": false,
+      "explanation": "The claim is the position the author wants readers to accept: that school lunches should include a daily vegetarian option. The survey result is evidence supporting the claim, the pollution comparison is a reason supporting it, and the last option merely restates that reason rather than the claim itself.",
+      "id": "AZG8_090",
+      "imageUrl": "topic:argument",
+      "memoryHook": "T-Rexy says: find the claim first - it's the alpha dino leading the whole argument herd!",
+      "question": "Read the passage: 'School lunches should include a vegetarian option every day. A survey of 500 students found that one-third would choose it regularly. Meat production also creates more pollution than growing vegetables, according to a recent environmental study.' Which statement identifies the CLAIM of this argument?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Reading"
+      ]
+    },
+    {
+      "correctAnswer": "Rough and fast-moving",
+      "difficulty": 1,
+      "distractors": [
+        "Quiet and still",
+        "Wide and shallow",
+        "Full of fish"
+      ],
+      "dynamic": false,
+      "explanation": "The context clue 'churning with fast, rough water' tells you turbulent means rough and fast-moving. 'Quiet and still' is the opposite trap.",
+      "id": "AZG8_091",
+      "imageUrl": "topic:vocabulary",
+      "memoryHook": "T-Rexy says: context clues are dino tracks - follow the words around the mystery word!",
+      "question": "Read the sentence: 'After the heavy rains, the creek became turbulent, churning with fast, rough water.' What does 'turbulent' most likely mean?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ]
+    },
+    {
+      "correctAnswer": "Sociable and outgoing",
+      "difficulty": 2,
+      "distractors": [
+        "Shy and withdrawn",
+        "Easily angered",
+        "Carefully organized"
+      ],
+      "dynamic": false,
+      "explanation": "The contrast word 'though' is the clue: sitting silent now is the opposite of her usual gregarious self, so gregarious means sociable and outgoing.",
+      "id": "AZG8_092",
+      "imageUrl": "topic:vocabulary",
+      "memoryHook": "T-Rexy says: watch for contrast words like 'though' and 'but' - they flip the track around!",
+      "question": "Read the sentence: 'Though Maya was usually gregarious, she sat silent at the back of the auditorium during the ceremony.' What does 'gregarious' most likely mean?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ]
+    },
+    {
+      "correctAnswer": "False or not genuine",
+      "difficulty": 3,
+      "distractors": [
+        "Brilliant and original",
+        "Complicated and detailed",
+        "Popular and celebrated"
+      ],
+      "dynamic": false,
+      "explanation": "The clue 'every artifact she cited was later shown to be a modern forgery' shows her evidence was fake, so spurious means false or not genuine.",
+      "id": "AZG8_093",
+      "imageUrl": "topic:vocabulary",
+      "memoryHook": "T-Rexy says: when the evidence turns out to be a fossil forgery, the theory is spurious - phony, like a plastic dino tooth!",
+      "question": "Read the sentence: 'The archaeologist's theory was spurious, because every artifact she cited was later shown to be a modern forgery.' What does 'spurious' most likely mean?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ]
+    },
+    {
+      "correctAnswer": "Preview",
+      "difficulty": 1,
+      "distractors": [
+        "Review",
+        "Interview",
+        "Overview"
+      ],
+      "dynamic": false,
+      "explanation": "'Pre-' means before, so a preview is a look before the main event. Review is a look back after.",
+      "id": "AZG8_094",
+      "imageUrl": "topic:word-roots",
+      "memoryHook": "T-Rexy says: pre- means BEFORE - like a pre-historic breakfast you eat before the hunt!",
+      "question": "The prefix 'pre-' means 'before'. Which word means to look at something before the main event?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ]
+    },
+    {
+      "correctAnswer": "Celebration",
+      "difficulty": 2,
+      "distractors": [
+        "Celebratory",
+        "Celebrating",
+        "Celebrates"
+      ],
+      "dynamic": false,
+      "explanation": "Adding '-tion' to 'celebrate' makes the noun 'celebration'. 'Celebratory' is an adjective, 'celebrating' and 'celebrates' are still verb forms.",
+      "id": "AZG8_095",
+      "imageUrl": "topic:word-roots",
+      "memoryHook": "T-Rexy says: slap -tion on a verb and POOF - it becomes a thing! Celebrate becomes celebration, like a dino dance party!",
+      "question": "The suffix '-tion' turns a verb into a noun. Which noun is formed from the verb 'celebrate'?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ]
+    },
+    {
+      "correctAnswer": "Chronological",
+      "difficulty": 3,
+      "distractors": [
+        "Synchronized",
+        "Meteorological",
+        "Geological"
+      ],
+      "dynamic": false,
+      "explanation": "'Chron' means time, so chronological order is time order. 'Synchronized' also contains 'chron,' but it means things happening at the SAME time, not one after another in time order.",
+      "id": "AZG8_096",
+      "imageUrl": "topic:word-roots",
+      "memoryHook": "T-Rexy says: chron = time! A chronological list is a timeline of your dino day, breakfast first, nap last!",
+      "question": "The Greek root 'chron' means 'time'. Which word describes events arranged in the order they happened in time?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ]
+    },
+    {
+      "correctAnswer": "I hereby request permission to attend the conference.",
+      "difficulty": 2,
+      "distractors": [
+        "Can I go to the conference, please?",
+        "Gimme a pass to the conference.",
+        "I wanna attend the conference thing."
+      ],
+      "dynamic": false,
+      "explanation": "'I hereby request permission' uses formal, precise word choice. The others use casual or slangy language like 'gimme' and 'wanna'.",
+      "id": "AZG8_097",
+      "imageUrl": "topic:word-choice",
+      "memoryHook": "T-Rexy says: formal tone wears a tiny suit - fancy words, no slang, ready for the museum gala!",
+      "question": "Which sentence has the most formal tone?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Language"
+      ]
+    },
+    {
+      "correctAnswer": "They're going to lose their keys over there.",
+      "difficulty": 3,
+      "distractors": [
+        "Their going to lose they're keys over there.",
+        "There going to lose their keys over they're.",
+        "They're going to lose there keys over their."
+      ],
+      "dynamic": false,
+      "explanation": "They're = they are, their = belonging to them, there = a place. Check each one: 'They are going to lose' works, 'belonging to them keys' works, 'over at that place' works.",
+      "id": "AZG8_098",
+      "imageUrl": "topic:word-choice",
+      "memoryHook": "T-Rexy says: they're = they ARE, their = THEIR stuff, there = THAT place over there!",
+      "question": "Choose the sentence that uses 'their', 'there', and 'they're' correctly.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Language"
+      ]
+    },
+    {
+      "correctAnswer": "The dog chased its tail across the yard.",
+      "difficulty": 1,
+      "distractors": [
+        "The dog chased it's tail across the yard.",
+        "The dog's chased its tail across the yard.",
+        "The dogs' chased its tail across the yard."
+      ],
+      "dynamic": false,
+      "explanation": "'Its' (no apostrophe) shows possession - the tail belongs to the dog. 'It's' always means 'it is', which does not fit here.",
+      "id": "AZG8_099",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: its = belongs to it, like a T-Rex's tail... wait, ITS tail! No apostrophe for possession!",
+      "question": "Which sentence uses the apostrophe correctly?",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Language"
+      ]
+    },
+    {
+      "correctAnswer": "The bouquet of flowers smells wonderful.",
+      "difficulty": 2,
+      "distractors": [
+        "The bouquet of flowers smell wonderful.",
+        "The flowers in the bouquet smells wonderful.",
+        "The bouquet of flowers was smelling wonderful."
+      ],
+      "dynamic": false,
+      "explanation": "The subject is 'bouquet' (singular), not 'flowers', so it takes the singular verb 'smells'. Phrases between the subject and verb do not change the number.",
+      "id": "AZG8_100",
+      "imageUrl": "topic:grammar",
+      "memoryHook": "T-Rexy says: cross out the middle junk - 'of flowers' is just camouflage! The bouquet (singular) smells!",
+      "question": "Choose the sentence with correct subject-verb agreement.",
+      "source": "TReps Arizona Grade 8",
+      "tags": [
+        "ELA",
+        "Language"
+      ]
+    }
+  ]
+}

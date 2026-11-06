@@ -1,0 +1,2018 @@
+{
+ "packId": "ella-ap-precalculus",
+ "title": "AP Precalculus (11th Grade)",
+ "description": "AP Precalculus (11th) practice - 100 questions",
+ "version": "1.0",
+ "language": "en",
+ "passingScore": 60,
+ "totalQuestions": 100,
+ "addedAt": "2026-11-04",
+ "tags": [
+  "math",
+  "precalculus",
+  "ap",
+  "11th"
+ ],
+ "questions": [
+  {
+   "id": "EPRE_001",
+   "question": "An arithmetic sequence has first term a_1 = 5 and common difference d = 3. What is the 10th term of the sequence?",
+   "correctAnswer": "32",
+   "distractors": [
+    "35",
+    "29",
+    "27"
+   ],
+   "explanation": "For an arithmetic sequence, a_n = a_1 + (n - 1)d. There are only 9 steps of size d from the 1st term to the 10th term, so a_10 = 5 + 9(3) = 5 + 27 = 32.",
+   "memoryHook": "T-Rexy says: Count the steps, not the terms - term 10 is only 9 jumps from term 1.",
+   "imageUrl": "topic:arithmetic-sequences",
+   "tags": [
+    "sequences",
+    "arithmetic"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_002",
+   "question": "What is the leading coefficient of f(x) = -5x^3 + 2x - 1?",
+   "correctAnswer": "-5",
+   "distractors": [
+    "5",
+    "3",
+    "-1"
+   ],
+   "explanation": "The leading coefficient is the coefficient of the highest-degree term, -5x^3.",
+   "memoryHook": "T-Rexy says: Lead the pack with the first coefficient.",
+   "imageUrl": "topic:leading-coefficient",
+   "tags": [
+    "polynomial",
+    "leading-coefficient"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_003",
+   "question": "How many real zeros does f(x) = x^2 + 4 have?",
+   "correctAnswer": "0",
+   "distractors": [
+    "1",
+    "2",
+    "4"
+   ],
+   "explanation": "x^2 = -4 has no real solution, so there are no real zeros.",
+   "memoryHook": "T-Rexy says: No real roots when the square stays positive.",
+   "imageUrl": "topic:real-zeros",
+   "tags": [
+    "polynomial",
+    "zeros"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_004",
+   "question": "What is the end behavior of f(x) = 2x^3 - x + 1 as x approaches infinity?",
+   "correctAnswer": "f(x) approaches infinity",
+   "distractors": [
+    "f(x) approaches negative infinity",
+    "f(x) approaches 0",
+    "f(x) approaches 2"
+   ],
+   "explanation": "The leading term 2x^3 dominates for large values of x. It has odd degree and a positive coefficient, so as x approaches infinity, f(x) approaches infinity; as x approaches negative infinity, f(x) approaches negative infinity.",
+   "memoryHook": "T-Rexy says: Odd and positive: up on the right.",
+   "imageUrl": "topic:end-behavior",
+   "tags": [
+    "polynomial",
+    "end-behavior"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_005",
+   "question": "If f(x) = (x - 2)(x + 3)(x - 1), what are the zeros?",
+   "correctAnswer": "2, -3, 1",
+   "distractors": [
+    "-2, 3, -1",
+    "2, 3, 1",
+    "-2, -3, -1"
+   ],
+   "explanation": "Set each factor to zero: x = 2, x = -3, x = 1.",
+   "memoryHook": "T-Rexy says: Flip the sign inside each factor.",
+   "imageUrl": "topic:zeros-factored",
+   "tags": [
+    "polynomial",
+    "zeros"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_006",
+   "question": "What is the multiplicity of the zero x = 3 in f(x) = (x - 3)^2(x + 1)?",
+   "correctAnswer": "2",
+   "distractors": [
+    "1",
+    "3",
+    "0"
+   ],
+   "explanation": "The exponent on (x - 3) is 2, so the multiplicity is 2.",
+   "memoryHook": "T-Rexy says: The exponent tells you how many times it counts.",
+   "imageUrl": "topic:multiplicity",
+   "tags": [
+    "polynomial",
+    "multiplicity"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_007",
+   "question": "At a zero of even multiplicity, the graph of a polynomial does what?",
+   "correctAnswer": "Touches the x-axis and turns around",
+   "distractors": [
+    "Crosses the x-axis",
+    "Has a vertical asymptote",
+    "Has a hole"
+   ],
+   "explanation": "The factor for that zero is raised to an even power, so the function has the same sign on both sides of the zero. The graph meets the x-axis and turns back instead of passing through it.",
+   "memoryHook": "T-Rexy says: Even bounces, odd crosses.",
+   "imageUrl": "topic:graph-behavior",
+   "tags": [
+    "polynomial",
+    "graph"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_008",
+   "question": "What is the remainder when f(x) = x^3 - 2x + 5 is divided by (x - 1)?",
+   "correctAnswer": "4",
+   "distractors": [
+    "2",
+    "6",
+    "-4"
+   ],
+   "explanation": "By the Remainder Theorem, f(1) = 1 - 2 + 5 = 4.",
+   "memoryHook": "T-Rexy says: Plug in the root, get the remainder.",
+   "imageUrl": "topic:remainder-theorem",
+   "tags": [
+    "polynomial",
+    "remainder"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_009",
+   "question": "Which is a factor of f(x) = x^3 - 6x^2 + 11x - 6?",
+   "correctAnswer": "x - 1",
+   "distractors": [
+    "x + 1",
+    "x - 4",
+    "x + 2"
+   ],
+   "explanation": "f(1) = 1 - 6 + 11 - 6 = 0, so (x - 1) is a factor by the Factor Theorem.",
+   "memoryHook": "T-Rexy says: Zero in, factor out.",
+   "imageUrl": "topic:factor-theorem",
+   "tags": [
+    "polynomial",
+    "factor"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_010",
+   "question": "What is the quotient when x^3 + 2x^2 - 5x + 1 is divided by (x + 2) using synthetic division?",
+   "correctAnswer": "x^2 - 5 remainder 11",
+   "distractors": [
+    "x^2 + 5 remainder -9",
+    "x^2 - 5 remainder -11",
+    "x^2 + 2x - 1 remainder 3"
+   ],
+   "explanation": "Synthetic with -2: coefficients 1, 2, -5, 1 give 1, 0, -5, 11, so quotient x^2 - 5 remainder 11.",
+   "memoryHook": "T-Rexy says: Bring down, multiply, add, repeat.",
+   "imageUrl": "topic:synthetic-division",
+   "tags": [
+    "polynomial",
+    "division"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_011",
+   "question": "How many turning points can a degree-5 polynomial have at most?",
+   "correctAnswer": "4",
+   "distractors": [
+    "5",
+    "3",
+    "6"
+   ],
+   "explanation": "A degree-n polynomial has at most n - 1 turning points, so 4.",
+   "memoryHook": "T-Rexy says: One less than the degree.",
+   "imageUrl": "topic:turning-points",
+   "tags": [
+    "polynomial",
+    "graph"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_012",
+   "question": "What is the y-intercept of f(x) = 2x^3 - 3x^2 + x - 4?",
+   "correctAnswer": "-4",
+   "distractors": [
+    "4",
+    "2",
+    "0"
+   ],
+   "explanation": "f(0) = -4.",
+   "memoryHook": "T-Rexy says: Set x to zero and read the constant.",
+   "imageUrl": "topic:y-intercept",
+   "tags": [
+    "polynomial",
+    "intercepts"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_013",
+   "question": "If a polynomial has zeros 0, 2, and -5, what is a possible factored form?",
+   "correctAnswer": "x(x - 2)(x + 5)",
+   "distractors": [
+    "x(x + 2)(x - 5)",
+    "(x - 2)(x + 5)",
+    "x(x - 2)(x - 5)"
+   ],
+   "explanation": "Zeros a give factors (x - a); zero 0 gives factor x.",
+   "memoryHook": "T-Rexy says: Zero a means factor (x minus a).",
+   "imageUrl": "topic:factored-form",
+   "tags": [
+    "polynomial",
+    "zeros"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_014",
+   "question": "What does the Rational Zeros Theorem say about possible rational zeros of f(x) = 2x^3 - 3x + 1?",
+   "correctAnswer": "Factors of 1 over factors of 2",
+   "distractors": [
+    "Factors of 2 over factors of 1",
+    "Only 1 and -1",
+    "Only 1/2 and -1/2"
+   ],
+   "explanation": "Possible rational zeros are p/q where p divides the constant term 1 and q divides the leading coefficient 2.",
+   "memoryHook": "T-Rexy says: Constant on top, leading below.",
+   "imageUrl": "topic:rational-zeros",
+   "tags": [
+    "polynomial",
+    "zeros"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_015",
+   "question": "What is the sum of the roots of x^2 - 7x + 12 = 0?",
+   "correctAnswer": "7",
+   "distractors": [
+    "-7",
+    "12",
+    "-12"
+   ],
+   "explanation": "By Vieta's formulas, the sum of roots is -b/a = 7.",
+   "memoryHook": "T-Rexy says: Sum is negative b over a.",
+   "imageUrl": "topic:vietas-formulas",
+   "tags": [
+    "polynomial",
+    "roots"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_016",
+   "question": "An arithmetic sequence has a_3 = 11 and a_7 = 27. What is a_10?",
+   "correctAnswer": "39",
+   "distractors": [
+    "31",
+    "35",
+    "43"
+   ],
+   "explanation": "From a_3 to a_7 there are 4 steps, so 4d = 27 - 11 = 16 and d = 4. From a_7 to a_10 there are 3 more steps, so a_10 = 27 + 3(4) = 39.",
+   "memoryHook": "T-Rexy says: Find d from the gap you know, then walk it forward to the term you want.",
+   "imageUrl": "topic:arithmetic-sequences",
+   "tags": [
+    "sequences",
+    "arithmetic"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_017",
+   "question": "Which transformation shifts f(x) = x^2 three units left and two units down?",
+   "correctAnswer": "f(x) = (x + 3)^2 - 2",
+   "distractors": [
+    "f(x) = (x - 3)^2 - 2",
+    "f(x) = (x + 3)^2 + 2",
+    "f(x) = (x - 3)^2 + 2"
+   ],
+   "explanation": "Left means x + 3 inside, down means -2 outside.",
+   "memoryHook": "T-Rexy says: Inside opposite, outside as-is.",
+   "imageUrl": "topic:transformations",
+   "tags": [
+    "polynomial",
+    "transformations"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_018",
+   "question": "What is the vertex of f(x) = x^2 - 6x + 5?",
+   "correctAnswer": "(3, -4)",
+   "distractors": [
+    "(-3, -4)",
+    "(3, 4)",
+    "(-3, 14)"
+   ],
+   "explanation": "x = -b/2a = 3, and f(3) = 9 - 18 + 5 = -4.",
+   "memoryHook": "T-Rexy says: Half of b, flip the sign.",
+   "imageUrl": "topic:vertex",
+   "tags": [
+    "polynomial",
+    "vertex"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_019",
+   "question": "A linear transformation T is represented by the matrix [[2, 1], [1, -1]]. What is the output vector T(v) for the input vector v = <3, 1>?",
+   "correctAnswer": "<7, 2>",
+   "distractors": [
+    "<7, 4>",
+    "<5, 2>",
+    "<2, 7>"
+   ],
+   "explanation": "Multiply the matrix by the column vector. The first output component is row 1 dotted with v: 2(3) + 1(1) = 7. The second output component is row 2 dotted with v: 1(3) + (-1)(1) = 3 - 1 = 2. So T(v) = <7, 2>.",
+   "memoryHook": "T-Rexy says: The matrix is a machine - each row builds one component of the output.",
+   "imageUrl": "topic:matrices",
+   "tags": [
+    "matrices",
+    "transformations"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_020",
+   "question": "What is the average rate of change of f(x) = x^2 on [1, 3]?",
+   "correctAnswer": "4",
+   "distractors": [
+    "2",
+    "8",
+    "3"
+   ],
+   "explanation": "(f(3) - f(1))/(3 - 1) = (9 - 1)/2 = 4.",
+   "memoryHook": "T-Rexy says: Slope of the secant line.",
+   "imageUrl": "topic:average-rate-change",
+   "tags": [
+    "polynomial",
+    "rate-of-change"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_021",
+   "question": "What is the vertical asymptote of f(x) = 1/(x - 4)?",
+   "correctAnswer": "x = 4",
+   "distractors": [
+    "x = -4",
+    "y = 4",
+    "x = 0"
+   ],
+   "explanation": "The denominator is zero at x = 4.",
+   "memoryHook": "T-Rexy says: Denominator zero means a wall.",
+   "imageUrl": "topic:vertical-asymptote",
+   "tags": [
+    "rational",
+    "asymptotes"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_022",
+   "question": "What is the horizontal asymptote of f(x) = (3x + 1)/(x - 2)?",
+   "correctAnswer": "y = 3",
+   "distractors": [
+    "y = 1",
+    "y = -2",
+    "y = 0"
+   ],
+   "explanation": "Equal degrees means the asymptote is the ratio of leading coefficients, 3/1.",
+   "memoryHook": "T-Rexy says: Equal degrees: divide the leaders.",
+   "imageUrl": "topic:horizontal-asymptote",
+   "tags": [
+    "rational",
+    "asymptotes"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_023",
+   "question": "A geometric sequence has first term a_1 = 4 and common ratio r = 3. What is the 6th term of the sequence?",
+   "correctAnswer": "972",
+   "distractors": [
+    "324",
+    "2916",
+    "243"
+   ],
+   "explanation": "For a geometric sequence, a_n = a_1 x r^(n - 1), so a_6 = 4 x 3^5. Since 3^5 = 243, a_6 = 4 x 243 = 972.",
+   "memoryHook": "T-Rexy says: The exponent is n - 1, because the first term has not been multiplied yet.",
+   "imageUrl": "topic:geometric-sequences",
+   "tags": [
+    "sequences",
+    "geometric"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_024",
+   "question": "A sequence is defined by a_1 = 3 and a_n = 2 x a_(n - 1) for n >= 2. What is a_5?",
+   "correctAnswer": "48",
+   "distractors": [
+    "24",
+    "96",
+    "11"
+   ],
+   "explanation": "Apply the rule one term at a time: a_2 = 2 x 3 = 6, a_3 = 2 x 6 = 12, a_4 = 2 x 12 = 24, and a_5 = 2 x 24 = 48.",
+   "memoryHook": "T-Rexy says: A recursive rule is a relay race - each term hands its value to the next.",
+   "imageUrl": "topic:sequences",
+   "tags": [
+    "sequences",
+    "recursive"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_025",
+   "question": "What is the slant asymptote of f(x) = (x^2 + 3x + 2)/x?",
+   "correctAnswer": "y = x + 3",
+   "distractors": [
+    "y = x + 2",
+    "y = x",
+    "y = 3x"
+   ],
+   "explanation": "Dividing gives x + 3 + 2/x, so the slant asymptote is y = x + 3.",
+   "memoryHook": "T-Rexy says: Divide and drop the remainder.",
+   "imageUrl": "topic:slant-asymptote",
+   "tags": [
+    "rational",
+    "asymptotes"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_026",
+   "question": "Where is the hole in f(x) = (x^2 - 9)/(x - 3)?",
+   "correctAnswer": "x = 3",
+   "distractors": [
+    "x = -3",
+    "x = 9",
+    "No hole"
+   ],
+   "explanation": "Factoring gives (x - 3)(x + 3)/(x - 3); the canceled factor creates a hole at x = 3.",
+   "memoryHook": "T-Rexy says: Canceled factor means a hole, not a wall.",
+   "imageUrl": "topic:hole",
+   "tags": [
+    "rational",
+    "holes"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_027",
+   "question": "What is the domain of f(x) = 1/(x^2 - 4)?",
+   "correctAnswer": "All real numbers except x = 2 and x = -2",
+   "distractors": [
+    "All real numbers",
+    "All real numbers except x = 2",
+    "x > 0"
+   ],
+   "explanation": "The denominator x^2 - 4 = 0 at x = 2 and x = -2, which must be excluded.",
+   "memoryHook": "T-Rexy says: Exclude where the bottom is zero.",
+   "imageUrl": "topic:domain",
+   "tags": [
+    "rational",
+    "domain"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_028",
+   "question": "Simplify (x^2 - 4)/(x^2 + 2x) to lowest terms.",
+   "correctAnswer": "(x - 2)/x",
+   "distractors": [
+    "(x + 2)/x",
+    "(x - 2)/(x + 2)",
+    "x - 2"
+   ],
+   "explanation": "Factor: (x - 2)(x + 2)/[x(x + 2)] = (x - 2)/x.",
+   "memoryHook": "T-Rexy says: Cancel matching factors only.",
+   "imageUrl": "topic:simplify-rational",
+   "tags": [
+    "rational",
+    "simplification"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_029",
+   "question": "The first term of an arithmetic sequence is 7 and the fourth term is 19. What is the common difference?",
+   "correctAnswer": "4",
+   "distractors": [
+    "3",
+    "12",
+    "6"
+   ],
+   "explanation": "Going from the 1st term to the 4th term takes 3 steps of size d, so 3d = 19 - 7 = 12, which gives d = 12/3 = 4. Check: 7, 11, 15, 19.",
+   "memoryHook": "T-Rexy says: Four terms have only three gaps between them - divide by the gaps.",
+   "imageUrl": "topic:arithmetic-sequences",
+   "tags": [
+    "sequences",
+    "arithmetic"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_030",
+   "question": "Let A = [[2, 1], [3, 4]] and B = [[1, 5], [2, 0]]. What is AB?",
+   "correctAnswer": "[[4, 10], [11, 15]]",
+   "distractors": [
+    "[[17, 21], [4, 2]]",
+    "[[2, 5], [6, 0]]",
+    "[[4, 11], [10, 15]]"
+   ],
+   "explanation": "Each entry of AB is a row of A dotted with a column of B: entry (1, 1) = 2(1) + 1(2) = 4, entry (1, 2) = 2(5) + 1(0) = 10, entry (2, 1) = 3(1) + 4(2) = 11, and entry (2, 2) = 3(5) + 4(0) = 15.",
+   "memoryHook": "T-Rexy says: Rows meet columns - run across A, dive down B.",
+   "imageUrl": "topic:matrices",
+   "tags": [
+    "matrices",
+    "multiplication"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_031",
+   "question": "What value must be excluded when solving (x + 1)/(x - 2) = 3?",
+   "correctAnswer": "x = 2",
+   "distractors": [
+    "x = -1",
+    "x = 3",
+    "x = 1"
+   ],
+   "explanation": "The denominator x - 2 cannot be zero, so x = 2 is excluded.",
+   "memoryHook": "T-Rexy says: Never divide by zero.",
+   "imageUrl": "topic:excluded-values",
+   "tags": [
+    "rational",
+    "equations"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_032",
+   "question": "What is the domain of f(x) = sqrt(x - 5)?",
+   "correctAnswer": "x >= 5",
+   "distractors": [
+    "x > 5",
+    "x <= 5",
+    "All real numbers"
+   ],
+   "explanation": "The radicand must be nonnegative: x - 5 >= 0, so x >= 5.",
+   "memoryHook": "T-Rexy says: Square roots need non-negative insides.",
+   "imageUrl": "topic:domain-radical",
+   "tags": [
+    "rational",
+    "domain"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_033",
+   "question": "What is the inverse of f(x) = 2x + 3?",
+   "correctAnswer": "f^-1(x) = (x - 3)/2",
+   "distractors": [
+    "f^-1(x) = (x + 3)/2",
+    "f^-1(x) = 2x - 3",
+    "f^-1(x) = x/2 - 3"
+   ],
+   "explanation": "Swap x and y: x = 2y + 3, so y = (x - 3)/2.",
+   "memoryHook": "T-Rexy says: Swap and solve.",
+   "imageUrl": "topic:inverse",
+   "tags": [
+    "functions",
+    "inverse"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_034",
+   "question": "If f(x) = x^2 and g(x) = x + 1, what is (f composed with g)(x)?",
+   "correctAnswer": "(x + 1)^2",
+   "distractors": [
+    "x^2 + 1",
+    "x^2 + x",
+    "2x + 1"
+   ],
+   "explanation": "(f o g)(x) = f(g(x)) = (x + 1)^2.",
+   "memoryHook": "T-Rexy says: Inside out: g goes in first.",
+   "imageUrl": "topic:composition",
+   "tags": [
+    "functions",
+    "composition"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_035",
+   "question": "If f(x) = 3x - 1, what is f(f(2))?",
+   "correctAnswer": "14",
+   "distractors": [
+    "5",
+    "17",
+    "8"
+   ],
+   "explanation": "f(2) = 5, then f(5) = 14.",
+   "memoryHook": "T-Rexy says: Feed the output back in.",
+   "imageUrl": "topic:composition",
+   "tags": [
+    "functions",
+    "composition"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_036",
+   "question": "What is 2^0?",
+   "correctAnswer": "1",
+   "distractors": [
+    "0",
+    "2",
+    "Undefined"
+   ],
+   "explanation": "Any nonzero base to the zero power is 1.",
+   "memoryHook": "T-Rexy says: Zero power means one.",
+   "imageUrl": "topic:exponents",
+   "tags": [
+    "exponential",
+    "exponents"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_037",
+   "question": "Simplify 3^2 times 3^4.",
+   "correctAnswer": "3^6",
+   "distractors": [
+    "3^8",
+    "9^6",
+    "3^2"
+   ],
+   "explanation": "When multiplying like bases, add exponents: 2 + 4 = 6.",
+   "memoryHook": "T-Rexy says: Multiply means add the powers.",
+   "imageUrl": "topic:exponent-rules",
+   "tags": [
+    "exponential",
+    "exponents"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_038",
+   "question": "What is 4^(-1/2)?",
+   "correctAnswer": "1/2",
+   "distractors": [
+    "2",
+    "-2",
+    "1/4"
+   ],
+   "explanation": "4^(-1/2) = 1/sqrt(4) = 1/2.",
+   "memoryHook": "T-Rexy says: Negative flips, half roots.",
+   "imageUrl": "topic:exponent-rules",
+   "tags": [
+    "exponential",
+    "exponents"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_039",
+   "question": "What is log base 2 of 32?",
+   "correctAnswer": "5",
+   "distractors": [
+    "4",
+    "6",
+    "16"
+   ],
+   "explanation": "2^5 = 32, so log2(32) = 5.",
+   "memoryHook": "T-Rexy says: Logs ask: what power?",
+   "imageUrl": "topic:logarithms",
+   "tags": [
+    "logarithmic",
+    "evaluation"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_040",
+   "question": "What is log(1000)?",
+   "correctAnswer": "3",
+   "distractors": [
+    "10",
+    "100",
+    "0"
+   ],
+   "explanation": "log base 10 of 1000 = 3 because 10^3 = 1000.",
+   "memoryHook": "T-Rexy says: Count the zeros.",
+   "imageUrl": "topic:logarithms",
+   "tags": [
+    "logarithmic",
+    "evaluation"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_041",
+   "question": "What is ln(e^5)?",
+   "correctAnswer": "5",
+   "distractors": [
+    "e",
+    "1",
+    "25"
+   ],
+   "explanation": "ln and e are inverse functions, so ln(e^5) = 5.",
+   "memoryHook": "T-Rexy says: ln undoes e.",
+   "imageUrl": "topic:natural-log",
+   "tags": [
+    "logarithmic",
+    "natural-log"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_042",
+   "question": "Expand log(x^2 y).",
+   "correctAnswer": "2 log x + log y",
+   "distractors": [
+    "log x + 2 log y",
+    "2 log(xy)",
+    "log x^2 - log y"
+   ],
+   "explanation": "Product rule gives log(x^2) + log y = 2 log x + log y.",
+   "memoryHook": "T-Rexy says: Products split into sums.",
+   "imageUrl": "topic:log-properties",
+   "tags": [
+    "logarithmic",
+    "properties"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_043",
+   "question": "Condense 3 log x - log y into a single logarithm.",
+   "correctAnswer": "log(x^3 / y)",
+   "distractors": [
+    "log(x^3 y)",
+    "log(x/y^3)",
+    "3 log(x/y)"
+   ],
+   "explanation": "3 log x = log x^3, and subtracting gives division: log(x^3 / y).",
+   "memoryHook": "T-Rexy says: Coefficients become powers, minus becomes divide.",
+   "imageUrl": "topic:log-properties",
+   "tags": [
+    "logarithmic",
+    "properties"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_044",
+   "question": "What is the change-of-base formula for log base b of x?",
+   "correctAnswer": "ln x / ln b",
+   "distractors": [
+    "ln b / ln x",
+    "log x times log b",
+    "x / b"
+   ],
+   "explanation": "Write the definition backwards: if y = log base b of x, then b^y = x. Taking ln of both sides gives y ln b = ln x, so y = ln x / ln b.",
+   "memoryHook": "T-Rexy says: New base goes on the bottom.",
+   "imageUrl": "topic:change-of-base",
+   "tags": [
+    "logarithmic",
+    "change-of-base"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_045",
+   "question": "Solve 2^x = 16.",
+   "correctAnswer": "x = 4",
+   "distractors": [
+    "x = 8",
+    "x = 2",
+    "x = 32"
+   ],
+   "explanation": "16 = 2^4, so x = 4.",
+   "memoryHook": "T-Rexy says: Match the bases.",
+   "imageUrl": "topic:solve-exponential",
+   "tags": [
+    "exponential",
+    "equations"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_046",
+   "question": "Solve log(x) = 2.",
+   "correctAnswer": "x = 100",
+   "distractors": [
+    "x = 20",
+    "x = 2",
+    "x = 10"
+   ],
+   "explanation": "log base 10: x = 10^2 = 100.",
+   "memoryHook": "T-Rexy says: Undo the log with a power.",
+   "imageUrl": "topic:solve-logarithmic",
+   "tags": [
+    "logarithmic",
+    "equations"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_047",
+   "question": "Solve e^x = 7, rounded to two decimal places.",
+   "correctAnswer": "1.95",
+   "distractors": [
+    "2.00",
+    "1.90",
+    "7.00"
+   ],
+   "explanation": "x = ln 7, which is approximately 1.95.",
+   "memoryHook": "T-Rexy says: Take ln of both sides.",
+   "imageUrl": "topic:solve-exponential",
+   "tags": [
+    "exponential",
+    "equations"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_048",
+   "question": "What is the domain of f(x) = log(x - 3)?",
+   "correctAnswer": "x > 3",
+   "distractors": [
+    "x >= 3",
+    "x < 3",
+    "All real numbers"
+   ],
+   "explanation": "Logarithm arguments must be positive: x - 3 > 0, so x > 3.",
+   "memoryHook": "T-Rexy says: Logs only eat positives.",
+   "imageUrl": "topic:domain-log",
+   "tags": [
+    "logarithmic",
+    "domain"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_049",
+   "question": "What is the horizontal asymptote of f(x) = 2^x?",
+   "correctAnswer": "y = 0",
+   "distractors": [
+    "y = 2",
+    "x = 0",
+    "No asymptote"
+   ],
+   "explanation": "As x approaches negative infinity, 2^x approaches 0.",
+   "memoryHook": "T-Rexy says: Exponential decay hugs zero.",
+   "imageUrl": "topic:exponential-graph",
+   "tags": [
+    "exponential",
+    "graphs"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_050",
+   "question": "If a population doubles every 3 hours, what is the growth factor per hour?",
+   "correctAnswer": "2^(1/3)",
+   "distractors": [
+    "2^3",
+    "3",
+    "6"
+   ],
+   "explanation": "Doubling over 3 hours means the hourly factor r satisfies r^3 = 2, so r = 2^(1/3).",
+   "memoryHook": "T-Rexy says: Split the doubling across the hours.",
+   "imageUrl": "topic:exponential-growth",
+   "tags": [
+    "exponential",
+    "modeling"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_051",
+   "question": "What is the half-life formula amount after t years if the half-life is h?",
+   "correctAnswer": "A0 times (1/2)^(t/h)",
+   "distractors": [
+    "A0 times 2^(t/h)",
+    "A0 times (1/2)^(h/t)",
+    "A0 minus t/h"
+   ],
+   "explanation": "Each half-life multiplies the amount by 1/2, and there are t/h half-lives.",
+   "memoryHook": "T-Rexy says: Half each time, count the halves.",
+   "imageUrl": "topic:half-life",
+   "tags": [
+    "exponential",
+    "modeling"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_052",
+   "question": "What is log base 5 of 1?",
+   "correctAnswer": "0",
+   "distractors": [
+    "1",
+    "5",
+    "Undefined"
+   ],
+   "explanation": "5^0 = 1, so log5(1) = 0.",
+   "memoryHook": "T-Rexy says: Log of one is always zero.",
+   "imageUrl": "topic:logarithms",
+   "tags": [
+    "logarithmic",
+    "evaluation"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_053",
+   "question": "What is the value of 10^(log 7)?",
+   "correctAnswer": "7",
+   "distractors": [
+    "10",
+    "70",
+    "1"
+   ],
+   "explanation": "10^log(x) = x for base 10.",
+   "memoryHook": "T-Rexy says: Power undoes the log.",
+   "imageUrl": "topic:log-inverse",
+   "tags": [
+    "logarithmic",
+    "inverse"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_054",
+   "question": "Solve 3^(2x) = 27.",
+   "correctAnswer": "x = 3/2",
+   "distractors": [
+    "x = 3",
+    "x = 9",
+    "x = 1/2"
+   ],
+   "explanation": "27 = 3^3, so 2x = 3 and x = 3/2.",
+   "memoryHook": "T-Rexy says: Equal bases mean equal exponents.",
+   "imageUrl": "topic:solve-exponential",
+   "tags": [
+    "exponential",
+    "equations"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_055",
+   "question": "What is the compound interest formula for principal P, rate r, n compounds per year, t years?",
+   "correctAnswer": "P(1 + r/n)^(nt)",
+   "distractors": [
+    "P(1 + r)^t",
+    "P e^(rt)",
+    "P(1 + rn)^t"
+   ],
+   "explanation": "Each compounding period adds interest at the rate r/n, and there are nt periods in t years. The balance is multiplied by (1 + r/n) a total of nt times, giving A = P(1 + r/n)^(nt).",
+   "memoryHook": "T-Rexy says: Rate split by n, time multiplied by n.",
+   "imageUrl": "topic:compound-interest",
+   "tags": [
+    "exponential",
+    "modeling"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_056",
+   "question": "What is sin(pi/6)?",
+   "correctAnswer": "1/2",
+   "distractors": [
+    "sqrt(3)/2",
+    "sqrt(2)/2",
+    "1"
+   ],
+   "explanation": "sin(30 degrees) = 1/2.",
+   "memoryHook": "T-Rexy says: Thirty degrees gives a half.",
+   "imageUrl": "topic:unit-circle",
+   "tags": [
+    "trigonometry",
+    "unit-circle"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_057",
+   "question": "Which of the following sequences is geometric?",
+   "correctAnswer": "3, 6, 12, 24",
+   "distractors": [
+    "2, 5, 8, 11",
+    "5, 10, 15, 20",
+    "1, 2, 4, 7"
+   ],
+   "explanation": "A geometric sequence multiplies by the same ratio at every step: 6/3 = 2, 12/6 = 2, and 24/12 = 2. The sequences 2, 5, 8, 11 and 5, 10, 15, 20 add the same amount each step, so they are arithmetic, and 1, 2, 4, 7 has ratios 2, 2, and 7/4, which are not constant.",
+   "memoryHook": "T-Rexy says: Geometric means the same multiplier every step - check the ratios, not the gaps.",
+   "imageUrl": "topic:geometric-sequences",
+   "tags": [
+    "sequences",
+    "geometric"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_058",
+   "question": "What is tan(pi/4)?",
+   "correctAnswer": "1",
+   "distractors": [
+    "sqrt(3)",
+    "0",
+    "sqrt(2)"
+   ],
+   "explanation": "tan(45 degrees) = sin/cos = 1.",
+   "memoryHook": "T-Rexy says: Forty-five is perfectly balanced.",
+   "imageUrl": "topic:unit-circle",
+   "tags": [
+    "trigonometry",
+    "unit-circle"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_059",
+   "question": "Let A = [[1, 4], [3, -2]] and B = [[5, -1], [0, 6]]. What is A + B?",
+   "correctAnswer": "[[6, 3], [3, 4]]",
+   "distractors": [
+    "[[6, 5], [3, 4]]",
+    "[[-4, 5], [3, -8]]",
+    "[[5, -4], [0, -12]]"
+   ],
+   "explanation": "Matrices of the same size are added entry by entry: 1 + 5 = 6, 4 + (-1) = 3, 3 + 0 = 3, and -2 + 6 = 4, so A + B = [[6, 3], [3, 4]].",
+   "memoryHook": "T-Rexy says: Matrix addition is four tiny additions - each entry stays in its own home.",
+   "imageUrl": "topic:matrices",
+   "tags": [
+    "matrices",
+    "operations"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_060",
+   "question": "What is the period of y = sin(x)?",
+   "correctAnswer": "2pi",
+   "distractors": [
+    "pi",
+    "pi/2",
+    "4pi"
+   ],
+   "explanation": "After one full turn of 2pi radians around the unit circle, the same points and the same sine values repeat. That full turn is the period of y = sin(x).",
+   "memoryHook": "T-Rexy says: Sine circles back after 2pi.",
+   "imageUrl": "topic:period",
+   "tags": [
+    "trigonometry",
+    "graphs"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_061",
+   "question": "What is the amplitude of y = 3 cos(x)?",
+   "correctAnswer": "3",
+   "distractors": [
+    "1",
+    "2pi",
+    "0"
+   ],
+   "explanation": "The amplitude is |3| = 3.",
+   "memoryHook": "T-Rexy says: Amplitude is the coefficient's size.",
+   "imageUrl": "topic:amplitude",
+   "tags": [
+    "trigonometry",
+    "graphs"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_062",
+   "question": "What is the period of y = sin(2x)?",
+   "correctAnswer": "pi",
+   "distractors": [
+    "2pi",
+    "4pi",
+    "pi/2"
+   ],
+   "explanation": "Period = 2pi/B = 2pi/2 = pi.",
+   "memoryHook": "T-Rexy says: Divide 2pi by the inside multiplier.",
+   "imageUrl": "topic:period",
+   "tags": [
+    "trigonometry",
+    "graphs"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_063",
+   "question": "What is the phase shift of y = sin(x - pi/2)?",
+   "correctAnswer": "pi/2 to the right",
+   "distractors": [
+    "pi/2 to the left",
+    "pi to the right",
+    "No shift"
+   ],
+   "explanation": "The form sin(x - C) shifts right by C = pi/2.",
+   "memoryHook": "T-Rexy says: Minus inside means right.",
+   "imageUrl": "topic:phase-shift",
+   "tags": [
+    "trigonometry",
+    "graphs"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_064",
+   "question": "What is sin^2(x) + cos^2(x)?",
+   "correctAnswer": "1",
+   "distractors": [
+    "0",
+    "2",
+    "sin(2x)"
+   ],
+   "explanation": "The unit-circle point at angle x is (cos(x), sin(x)), and every point on the unit circle satisfies x^2 + y^2 = 1. Substituting gives sin^2(x) + cos^2(x) = 1.",
+   "memoryHook": "T-Rexy says: The classic identity equals one.",
+   "imageUrl": "topic:pythagorean-identity",
+   "tags": [
+    "trigonometry",
+    "identities"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_065",
+   "question": "What is tan(x) in terms of sin and cos?",
+   "correctAnswer": "sin(x)/cos(x)",
+   "distractors": [
+    "cos(x)/sin(x)",
+    "sin(x) cos(x)",
+    "1 - sin(x)"
+   ],
+   "explanation": "In a right triangle, tan is opposite over adjacent. Dividing the top and bottom of that ratio by the hypotenuse gives (opposite/hypotenuse) over (adjacent/hypotenuse), which is sin(x)/cos(x).",
+   "memoryHook": "T-Rexy says: Tangent is sine over cosine.",
+   "imageUrl": "topic:identities",
+   "tags": [
+    "trigonometry",
+    "identities"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_066",
+   "question": "Simplify sin(2x) using a double-angle identity.",
+   "correctAnswer": "2 sin(x) cos(x)",
+   "distractors": [
+    "sin^2(x) - cos^2(x)",
+    "2 cos(x)",
+    "sin(x) + cos(x)"
+   ],
+   "explanation": "Apply sin(A + B) = sin A cos B + cos A sin B with A = B = x: sin(2x) = sin(x)cos(x) + cos(x)sin(x) = 2 sin(x) cos(x).",
+   "memoryHook": "T-Rexy says: Double the angle, double the product.",
+   "imageUrl": "topic:double-angle",
+   "tags": [
+    "trigonometry",
+    "identities"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_067",
+   "question": "What is cos(2x) in terms of cos(x)?",
+   "correctAnswer": "2cos^2(x) - 1",
+   "distractors": [
+    "2 cos(x)",
+    "cos^2(x) + 1",
+    "1 - 2sin(x)"
+   ],
+   "explanation": "Apply cos(A + B) = cos A cos B - sin A sin B with A = B = x: cos(2x) = cos^2(x) - sin^2(x). Replacing sin^2(x) with 1 - cos^2(x) gives 2cos^2(x) - 1.",
+   "memoryHook": "T-Rexy says: Two cos squared minus one.",
+   "imageUrl": "topic:double-angle",
+   "tags": [
+    "trigonometry",
+    "identities"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_068",
+   "question": "What is the range of y = arcsin(x)?",
+   "correctAnswer": "[-pi/2, pi/2]",
+   "distractors": [
+    "[0, pi]",
+    "[-1, 1]",
+    "All real numbers"
+   ],
+   "explanation": "Arcsin has to undo sine where sine is one-to-one, which is the piece from -pi/2 to pi/2. Those endpoints are the smallest and largest values arcsin can return, so its range is [-pi/2, pi/2].",
+   "memoryHook": "T-Rexy says: Arcsin lives in the fourth and first quadrants.",
+   "imageUrl": "topic:inverse-trig",
+   "tags": [
+    "trigonometry",
+    "inverse"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_069",
+   "question": "What is arcsin(1)?",
+   "correctAnswer": "pi/2",
+   "distractors": [
+    "0",
+    "pi",
+    "pi/4"
+   ],
+   "explanation": "sin(pi/2) = 1, so arcsin(1) = pi/2.",
+   "memoryHook": "T-Rexy says: Sine hits one at the top.",
+   "imageUrl": "topic:inverse-trig",
+   "tags": [
+    "trigonometry",
+    "inverse"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_070",
+   "question": "Let A = [[2, -3], [0, 5]]. What is 3A?",
+   "correctAnswer": "[[6, -9], [0, 15]]",
+   "distractors": [
+    "[[5, 0], [3, 8]]",
+    "[[6, 9], [0, 15]]",
+    "[[6, -9], [3, 15]]"
+   ],
+   "explanation": "Scalar multiplication multiplies EVERY entry by the scalar: 3 x 2 = 6, 3 x (-3) = -9, 3 x 0 = 0, and 3 x 5 = 15, so 3A = [[6, -9], [0, 15]].",
+   "memoryHook": "T-Rexy says: A scalar visits every single entry - no entry gets skipped.",
+   "imageUrl": "topic:matrices",
+   "tags": [
+    "matrices",
+    "operations"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_071",
+   "question": "Convert pi/3 radians to degrees.",
+   "correctAnswer": "60 degrees",
+   "distractors": [
+    "30 degrees",
+    "120 degrees",
+    "45 degrees"
+   ],
+   "explanation": "pi/3 times 180/pi = 60 degrees.",
+   "memoryHook": "T-Rexy says: Multiply by 180 over pi.",
+   "imageUrl": "topic:angle-conversion",
+   "tags": [
+    "trigonometry",
+    "angles"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_072",
+   "question": "What is the arc length of a sector with radius 4 and central angle pi/2?",
+   "correctAnswer": "2pi",
+   "distractors": [
+    "4pi",
+    "pi",
+    "8"
+   ],
+   "explanation": "Arc length s = r times theta = 4 times pi/2 = 2pi.",
+   "memoryHook": "T-Rexy says: Radius times angle.",
+   "imageUrl": "topic:arc-length",
+   "tags": [
+    "trigonometry",
+    "circles"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_073",
+   "question": "What is the area of a sector with radius 3 and central angle 2pi/3?",
+   "correctAnswer": "3pi",
+   "distractors": [
+    "6pi",
+    "2pi",
+    "9pi"
+   ],
+   "explanation": "Area = (1/2) r^2 theta = (1/2)(9)(2pi/3) = 3pi.",
+   "memoryHook": "T-Rexy says: Half r squared times angle.",
+   "imageUrl": "topic:sector-area",
+   "tags": [
+    "trigonometry",
+    "circles"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_074",
+   "question": "What is the reference angle for 150 degrees?",
+   "correctAnswer": "30 degrees",
+   "distractors": [
+    "60 degrees",
+    "150 degrees",
+    "210 degrees"
+   ],
+   "explanation": "150 degrees is 30 degrees from 180 degrees.",
+   "memoryHook": "T-Rexy says: Measure to the nearest x-axis.",
+   "imageUrl": "topic:reference-angle",
+   "tags": [
+    "trigonometry",
+    "angles"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_075",
+   "question": "In which quadrant is sin positive and cos negative?",
+   "correctAnswer": "Quadrant II",
+   "distractors": [
+    "Quadrant I",
+    "Quadrant III",
+    "Quadrant IV"
+   ],
+   "explanation": "Sine is positive in quadrants I and II; cosine is negative in II and III. Only II has both.",
+   "memoryHook": "T-Rexy says: All Students Take Calculus: quadrant II is sine.",
+   "imageUrl": "topic:quadrants",
+   "tags": [
+    "trigonometry",
+    "unit-circle"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_076",
+   "question": "Solve sin(x) = 1/2 for x in [0, 2pi).",
+   "correctAnswer": "pi/6 and 5pi/6",
+   "distractors": [
+    "pi/3 and 2pi/3",
+    "pi/6 and 7pi/6",
+    "pi/4 and 3pi/4"
+   ],
+   "explanation": "Sine equals 1/2 at pi/6 (quadrant I) and 5pi/6 (quadrant II).",
+   "memoryHook": "T-Rexy says: Thirty degrees and its supplement.",
+   "imageUrl": "topic:solve-trig",
+   "tags": [
+    "trigonometry",
+    "equations"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_077",
+   "question": "What is the maximum value of y = 2 sin(x) + 1?",
+   "correctAnswer": "3",
+   "distractors": [
+    "2",
+    "1",
+    "4"
+   ],
+   "explanation": "The maximum of sin is 1, so max y = 2(1) + 1 = 3.",
+   "memoryHook": "T-Rexy says: Amplitude times one plus the shift.",
+   "imageUrl": "topic:trig-graph",
+   "tags": [
+    "trigonometry",
+    "graphs"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_078",
+   "question": "What is the midline of y = 3 cos(x) - 2?",
+   "correctAnswer": "y = -2",
+   "distractors": [
+    "y = 3",
+    "y = 0",
+    "y = 2"
+   ],
+   "explanation": "The vertical shift D = -2 is the midline.",
+   "memoryHook": "T-Rexy says: The shift sets the center line.",
+   "imageUrl": "topic:midline",
+   "tags": [
+    "trigonometry",
+    "graphs"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_079",
+   "question": "What is sec(x) equal to?",
+   "correctAnswer": "1/cos(x)",
+   "distractors": [
+    "1/sin(x)",
+    "cos(x)/sin(x)",
+    "sin(x)/cos(x)"
+   ],
+   "explanation": "Cosine is adjacent over hypotenuse in a right triangle. Secant is the reciprocal ratio, hypotenuse over adjacent, so sec(x) = 1/cos(x).",
+   "memoryHook": "T-Rexy says: Secant pairs with cosine.",
+   "imageUrl": "topic:reciprocal-trig",
+   "tags": [
+    "trigonometry",
+    "identities"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_080",
+   "question": "What is the determinant of the matrix [[3, 5], [2, 4]]?",
+   "correctAnswer": "2",
+   "distractors": [
+    "22",
+    "-2",
+    "12"
+   ],
+   "explanation": "For a 2 x 2 matrix [[a, b], [c, d]], the determinant is ad - bc. Here det = 3(4) - 5(2) = 12 - 10 = 2.",
+   "memoryHook": "T-Rexy says: Down diagonal minus up diagonal - main street minus side street.",
+   "imageUrl": "topic:matrices",
+   "tags": [
+    "matrices",
+    "determinant"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_081",
+   "question": "Convert the polar point (3, pi/2) to rectangular coordinates.",
+   "correctAnswer": "(0, 3)",
+   "distractors": [
+    "(3, 0)",
+    "(0, -3)",
+    "(-3, 0)"
+   ],
+   "explanation": "x = 3 cos(pi/2) = 0 and y = 3 sin(pi/2) = 3.",
+   "memoryHook": "T-Rexy says: Cosine for x, sine for y.",
+   "imageUrl": "topic:polar-rectangular",
+   "tags": [
+    "polar",
+    "conversion"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_082",
+   "question": "Convert the rectangular point (1, 1) to polar form (r, theta) with theta in [0, 2pi).",
+   "correctAnswer": "(sqrt(2), pi/4)",
+   "distractors": [
+    "(2, pi/4)",
+    "(sqrt(2), pi/2)",
+    "(1, pi/4)"
+   ],
+   "explanation": "r = sqrt(1 + 1) = sqrt(2) and theta = arctan(1/1) = pi/4.",
+   "memoryHook": "T-Rexy says: Radius is the distance, angle is the arctangent.",
+   "imageUrl": "topic:polar-rectangular",
+   "tags": [
+    "polar",
+    "conversion"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_083",
+   "question": "Matrix A has dimensions 2 x 3 and matrix B has dimensions 3 x 4. What are the dimensions of the product AB?",
+   "correctAnswer": "2 x 4",
+   "distractors": [
+    "3 x 3",
+    "The product AB is not defined",
+    "4 x 2"
+   ],
+   "explanation": "The product AB is defined because the number of columns of A (3) equals the number of rows of B (3). The product takes the outer numbers - 2 rows from A and 4 columns from B - so AB has dimensions 2 x 4.",
+   "memoryHook": "T-Rexy says: Inner numbers must match; outer numbers give the answer's size.",
+   "imageUrl": "topic:matrices",
+   "tags": [
+    "matrices",
+    "multiplication"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_084",
+   "question": "What shape does r = 2 cos(theta) graph?",
+   "correctAnswer": "A circle",
+   "distractors": [
+    "A line",
+    "A cardioid",
+    "A rose"
+   ],
+   "explanation": "r = a cos(theta) graphs a circle of diameter a centered on the x-axis.",
+   "memoryHook": "T-Rexy says: Cosine times r makes a circle.",
+   "imageUrl": "topic:polar-graphs",
+   "tags": [
+    "polar",
+    "graphs"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_085",
+   "question": "How many petals does the rose r = 3 sin(2 theta) have?",
+   "correctAnswer": "4",
+   "distractors": [
+    "2",
+    "6",
+    "8"
+   ],
+   "explanation": "For r = a sin(n theta) with n even, the rose has 2n = 4 petals.",
+   "memoryHook": "T-Rexy says: Even n doubles the petals.",
+   "imageUrl": "topic:polar-rose",
+   "tags": [
+    "polar",
+    "graphs"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_086",
+   "question": "What is the polar form of the complex number 1 + i?",
+   "correctAnswer": "sqrt(2)(cos pi/4 + i sin pi/4)",
+   "distractors": [
+    "2(cos pi/4 + i sin pi/4)",
+    "sqrt(2)(cos pi/2 + i sin pi/2)",
+    "1(cos pi/4 + i sin pi/4)"
+   ],
+   "explanation": "For 1 + i: the modulus is sqrt(1^2 + 1^2) = sqrt(2). The point (1, 1) is in quadrant I and tan(theta) = 1/1 = 1, so theta = pi/4. The polar form is sqrt(2)(cos pi/4 + i sin pi/4).",
+   "memoryHook": "T-Rexy says: Modulus and angle describe the complex number.",
+   "imageUrl": "topic:complex-polar",
+   "tags": [
+    "polar",
+    "complex"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_087",
+   "question": "What is the modulus of the complex number 3 - 4i?",
+   "correctAnswer": "5",
+   "distractors": [
+    "7",
+    "1",
+    "25"
+   ],
+   "explanation": "|3 - 4i| = sqrt(9 + 16) = 5.",
+   "memoryHook": "T-Rexy says: Square the parts, add, root.",
+   "imageUrl": "topic:complex-modulus",
+   "tags": [
+    "polar",
+    "complex"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_088",
+   "question": "Multiply (2 cis 30 degrees) by (3 cis 45 degrees).",
+   "correctAnswer": "6 cis 75 degrees",
+   "distractors": [
+    "5 cis 75 degrees",
+    "6 cis 15 degrees",
+    "5 cis 15 degrees"
+   ],
+   "explanation": "Multiply moduli (2 times 3 = 6) and add arguments (30 + 45 = 75).",
+   "memoryHook": "T-Rexy says: Multiply lengths, add angles.",
+   "imageUrl": "topic:complex-multiplication",
+   "tags": [
+    "polar",
+    "complex"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_089",
+   "question": "What is the magnitude of vector <3, 4>?",
+   "correctAnswer": "5",
+   "distractors": [
+    "7",
+    "12",
+    "25"
+   ],
+   "explanation": "Magnitude = sqrt(3^2 + 4^2) = 5.",
+   "memoryHook": "T-Rexy says: The 3-4-5 triangle again.",
+   "imageUrl": "topic:vector-magnitude",
+   "tags": [
+    "vectors",
+    "magnitude"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_090",
+   "question": "What is the dot product of <2, 3> and <4, -1>?",
+   "correctAnswer": "5",
+   "distractors": [
+    "11",
+    "8",
+    "2"
+   ],
+   "explanation": "Dot product = 2(4) + 3(-1) = 8 - 3 = 5.",
+   "memoryHook": "T-Rexy says: Multiply matching parts and add.",
+   "imageUrl": "topic:dot-product",
+   "tags": [
+    "vectors",
+    "dot-product"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_091",
+   "question": "What is the angle between vectors <1, 0> and <0, 1>?",
+   "correctAnswer": "90 degrees",
+   "distractors": [
+    "0 degrees",
+    "45 degrees",
+    "180 degrees"
+   ],
+   "explanation": "The vectors are perpendicular, so the angle is 90 degrees.",
+   "memoryHook": "T-Rexy says: The axes are perpendicular.",
+   "imageUrl": "topic:vector-angle",
+   "tags": [
+    "vectors",
+    "angle"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_092",
+   "question": "What is the component form of a vector with magnitude 10 and angle 30 degrees?",
+   "correctAnswer": "<5 sqrt(3), 5>",
+   "distractors": [
+    "<5, 5 sqrt(3)>",
+    "<10, 5>",
+    "<5 sqrt(3), 10>"
+   ],
+   "explanation": "x = 10 cos 30 = 5 sqrt(3), y = 10 sin 30 = 5.",
+   "memoryHook": "T-Rexy says: Cosine for x, sine for y.",
+   "imageUrl": "topic:vector-components",
+   "tags": [
+    "vectors",
+    "components"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_093",
+   "question": "What is the parametric equation x = 2t, y = t^2 in rectangular form?",
+   "correctAnswer": "y = x^2 / 4",
+   "distractors": [
+    "y = x^2",
+    "y = 4x^2",
+    "y = x/2"
+   ],
+   "explanation": "From x = 2t, t = x/2, so y = (x/2)^2 = x^2/4.",
+   "memoryHook": "T-Rexy says: Solve for t and substitute.",
+   "imageUrl": "topic:parametric",
+   "tags": [
+    "parametric",
+    "conversion"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_094",
+   "question": "What is the rectangular equation of the parametric curve x = cos(t), y = sin(t)?",
+   "correctAnswer": "x^2 + y^2 = 1",
+   "distractors": [
+    "x + y = 1",
+    "x^2 - y^2 = 1",
+    "y = x"
+   ],
+   "explanation": "cos^2 + sin^2 = 1, so x^2 + y^2 = 1.",
+   "memoryHook": "T-Rexy says: The unit circle in disguise.",
+   "imageUrl": "topic:parametric",
+   "tags": [
+    "parametric",
+    "conversion"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_095",
+   "question": "What is the distance between points (1, 2) and (4, 6)?",
+   "correctAnswer": "5",
+   "distractors": [
+    "7",
+    "3",
+    "25"
+   ],
+   "explanation": "Distance = sqrt((4-1)^2 + (6-2)^2) = sqrt(9 + 16) = 5.",
+   "memoryHook": "T-Rexy says: Another 3-4-5 triangle.",
+   "imageUrl": "topic:distance",
+   "tags": [
+    "functions",
+    "distance"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_096",
+   "question": "What is the midpoint of (2, 8) and (6, 4)?",
+   "correctAnswer": "(4, 6)",
+   "distractors": [
+    "(4, 2)",
+    "(8, 12)",
+    "(3, 6)"
+   ],
+   "explanation": "Midpoint = ((2+6)/2, (8+4)/2) = (4, 6).",
+   "memoryHook": "T-Rexy says: Average each coordinate.",
+   "imageUrl": "topic:midpoint",
+   "tags": [
+    "functions",
+    "midpoint"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_097",
+   "question": "If f(x) = x^2 - 1 and g(x) = 2x, what is f(g(3))?",
+   "correctAnswer": "35",
+   "distractors": [
+    "17",
+    "11",
+    "7"
+   ],
+   "explanation": "g(3) = 6, then f(6) = 36 - 1 = 35.",
+   "memoryHook": "T-Rexy says: Work from the inside out.",
+   "imageUrl": "topic:composition",
+   "tags": [
+    "functions",
+    "composition"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_098",
+   "question": "What is the range of f(x) = e^x?",
+   "correctAnswer": "(0, infinity)",
+   "distractors": [
+    "[0, infinity)",
+    "All real numbers",
+    "(-infinity, 0)"
+   ],
+   "explanation": "e^x is always positive, so the range is (0, infinity).",
+   "memoryHook": "T-Rexy says: Exponentials never touch zero.",
+   "imageUrl": "topic:exponential-range",
+   "tags": [
+    "exponential",
+    "range"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_099",
+   "question": "What is the value of log base 2 of 8 plus log base 2 of 4?",
+   "correctAnswer": "5",
+   "distractors": [
+    "6",
+    "3",
+    "32"
+   ],
+   "explanation": "log2(8) = 3 and log2(4) = 2, so 3 + 2 = 5.",
+   "memoryHook": "T-Rexy says: Add the logs like counting powers.",
+   "imageUrl": "topic:logarithms",
+   "tags": [
+    "logarithmic",
+    "evaluation"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "EPRE_100",
+   "question": "A ball is thrown with height h(t) = -16t^2 + 64t. When does it reach its maximum height?",
+   "correctAnswer": "t = 2 seconds",
+   "distractors": [
+    "t = 4 seconds",
+    "t = 1 second",
+    "t = 8 seconds"
+   ],
+   "explanation": "The vertex is at t = -b/(2a) = -64/(2 times -16) = 2 seconds.",
+   "memoryHook": "T-Rexy says: The vertex is the peak.",
+   "imageUrl": "topic:vertex-application",
+   "tags": [
+    "polynomial",
+    "applications"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  }
+ ]
+}

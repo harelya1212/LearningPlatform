@@ -1,0 +1,1998 @@
+{
+ "packId": "ella-ap-english-lang",
+ "title": "AP English Language (11th Grade)",
+ "description": "AP English Language (11th) practice - 100 questions",
+ "version": "1.0",
+ "language": "en",
+ "passingScore": 60,
+ "totalQuestions": 100,
+ "addedAt": "2026-11-04",
+ "tags": [
+  "english",
+  "language",
+  "ap",
+  "11th"
+ ],
+ "questions": [
+  {
+   "id": "ELAN_001",
+   "question": "What is ethos in rhetoric?",
+   "correctAnswer": "An appeal to the speaker's credibility or character",
+   "distractors": [
+    "An appeal to the audience's emotions",
+    "An appeal to logic and facts",
+    "An appeal to the timing of an argument"
+   ],
+   "explanation": "Ethos persuades by making the speaker seem trustworthy, knowledgeable, or morally upright.",
+   "memoryHook": "T-Rexy says: Trust the speaker first, then the speech.",
+   "imageUrl": "topic:ethos-appeal",
+   "tags": [
+    "rhetoric",
+    "appeals"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_002",
+   "question": "What is pathos in rhetoric?",
+   "correctAnswer": "An appeal to the audience's emotions",
+   "distractors": [
+    "An appeal to the speaker's credibility",
+    "An appeal to logic and evidence",
+    "An appeal to historical facts"
+   ],
+   "explanation": "Pathos persuades by stirring feelings such as sympathy, anger, hope, or fear.",
+   "memoryHook": "T-Rexy says: Feelings move people faster than facts.",
+   "imageUrl": "topic:pathos-appeal",
+   "tags": [
+    "rhetoric",
+    "appeals"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_003",
+   "question": "What is logos in rhetoric?",
+   "correctAnswer": "An appeal to logic, reason, and evidence",
+   "distractors": [
+    "An appeal to the speaker's reputation",
+    "An appeal to the audience's fears",
+    "An appeal to tradition"
+   ],
+   "explanation": "Logos persuades through facts, statistics, examples, and sound reasoning.",
+   "memoryHook": "T-Rexy says: Logic is the backbone of any strong argument.",
+   "imageUrl": "topic:logos-appeal",
+   "tags": [
+    "rhetoric",
+    "appeals"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_004",
+   "question": "What is the purpose of a thesis statement?",
+   "correctAnswer": "To state the writer's main claim clearly",
+   "distractors": [
+    "To summarize every detail of the essay",
+    "To ask the reader a question",
+    "To list the sources used"
+   ],
+   "explanation": "A thesis gives the reader the central argument the essay will defend.",
+   "memoryHook": "T-Rexy says: One sentence, one clear claim.",
+   "imageUrl": "topic:thesis-statement",
+   "tags": [
+    "argument",
+    "writing"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_005",
+   "question": "What is a rhetorical question?",
+   "correctAnswer": "A question asked for effect, not expecting an answer",
+   "distractors": [
+    "A question the writer cannot answer",
+    "A question from the audience",
+    "A question with no correct answer"
+   ],
+   "explanation": "Rhetorical questions make readers think and emphasize a point.",
+   "memoryHook": "T-Rexy says: Ask it, then let the silence argue for you.",
+   "imageUrl": "topic:rhetorical-question",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_006",
+   "question": "What is parallelism?",
+   "correctAnswer": "Using the same grammatical structure for related ideas",
+   "distractors": [
+    "Repeating the same word at the start of clauses",
+    "Using opposite ideas in one sentence",
+    "Leaving out conjunctions"
+   ],
+   "explanation": "Parallelism creates rhythm and makes ideas feel balanced and equal.",
+   "memoryHook": "T-Rexy says: Same shape, same weight, stronger punch.",
+   "imageUrl": "topic:parallelism",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_007",
+   "question": "What is anaphora?",
+   "correctAnswer": "Repeating a word or phrase at the beginning of successive clauses",
+   "distractors": [
+    "Repeating a word at the end of clauses",
+    "Using a metaphor repeatedly",
+    "Reversing word order"
+   ],
+   "explanation": "Anaphora builds rhythm and emphasis, as in famous speeches that repeat a key phrase.",
+   "memoryHook": "T-Rexy says: Repeat the start, and the crowd remembers.",
+   "imageUrl": "topic:anaphora",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_008",
+   "question": "What is a claim in an argument?",
+   "correctAnswer": "A statement the writer argues is true",
+   "distractors": [
+    "A piece of evidence from a source",
+    "A quote from an expert",
+    "A summary of the opposing view"
+   ],
+   "explanation": "A claim is the debatable position an argument tries to prove.",
+   "memoryHook": "T-Rexy says: No claim, no argument.",
+   "imageUrl": "topic:claim",
+   "tags": [
+    "argument"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_009",
+   "question": "What is evidence in an argument?",
+   "correctAnswer": "Facts, examples, or testimony that support a claim",
+   "distractors": [
+    "The writer's opinion restated",
+    "A rhetorical question",
+    "The conclusion of an essay"
+   ],
+   "explanation": "Evidence is the support you can point to: a statistic, a quotation, an example, or expert testimony. Unlike the writer's own opinion, it can be checked by the reader, which is why a claim backed by evidence is harder to dismiss.",
+   "memoryHook": "T-Rexy says: Claims need backup, or they fall flat.",
+   "imageUrl": "topic:evidence",
+   "tags": [
+    "argument"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_010",
+   "question": "What is tone in writing?",
+   "correctAnswer": "The author's attitude toward the subject",
+   "distractors": [
+    "The reader's feeling after reading",
+    "The setting of a text",
+    "The length of the sentences"
+   ],
+   "explanation": "Tone is conveyed through word choice, syntax, and style.",
+   "memoryHook": "T-Rexy says: Tone is the author's voice in the room.",
+   "imageUrl": "topic:tone",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_011",
+   "question": "What is diction?",
+   "correctAnswer": "The writer's choice of words",
+   "distractors": [
+    "The structure of sentences",
+    "The rhythm of a speech",
+    "The main idea of a paragraph"
+   ],
+   "explanation": "Diction shapes tone: formal words sound serious, casual words sound friendly.",
+   "memoryHook": "T-Rexy says: Words are the writer's wardrobe.",
+   "imageUrl": "topic:diction",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_012",
+   "question": "What is syntax?",
+   "correctAnswer": "The arrangement of words into sentences",
+   "distractors": [
+    "The choice of vocabulary",
+    "The theme of a text",
+    "The speaker's credibility"
+   ],
+   "explanation": "Syntax includes sentence length, structure, and punctuation patterns.",
+   "memoryHook": "T-Rexy says: Sentence shape changes how a point lands.",
+   "imageUrl": "topic:syntax",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_013",
+   "question": "What is a counterargument?",
+   "correctAnswer": "An opposing viewpoint the writer acknowledges",
+   "distractors": [
+    "The writer's main claim",
+    "A piece of supporting evidence",
+    "The conclusion of an essay"
+   ],
+   "explanation": "Acknowledging a counterargument shows fairness and strengthens credibility.",
+   "memoryHook": "T-Rexy says: Face the other side, then answer it.",
+   "imageUrl": "topic:counterargument",
+   "tags": [
+    "argument"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_014",
+   "question": "What is a rebuttal?",
+   "correctAnswer": "A response that answers or refutes a counterargument",
+   "distractors": [
+    "A restatement of the thesis",
+    "An introduction to a new topic",
+    "A quote from a source"
+   ],
+   "explanation": "A rebuttal explains why the opposing view is weaker or wrong.",
+   "memoryHook": "T-Rexy says: Answer back, and your argument grows stronger.",
+   "imageUrl": "topic:rebuttal",
+   "tags": [
+    "argument"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_015",
+   "question": "What is a logical fallacy?",
+   "correctAnswer": "An error in reasoning that weakens an argument",
+   "distractors": [
+    "A type of rhetorical question",
+    "A persuasive technique that always works",
+    "A grammatical error"
+   ],
+   "explanation": "Fallacies look persuasive but rest on faulty logic.",
+   "memoryHook": "T-Rexy says: Pretty logic can still be broken logic.",
+   "imageUrl": "topic:fallacy",
+   "tags": [
+    "argument",
+    "fallacies"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_016",
+   "question": "What is an ad hominem fallacy?",
+   "correctAnswer": "Attacking the person instead of their argument",
+   "distractors": [
+    "Attacking a weak version of an argument",
+    "Appealing to popular opinion",
+    "Using too many statistics"
+   ],
+   "explanation": "Ad hominem dodges the issue by targeting character rather than ideas.",
+   "memoryHook": "T-Rexy says: Attack the idea, not the person.",
+   "imageUrl": "topic:ad-hominem",
+   "tags": [
+    "argument",
+    "fallacies"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_017",
+   "question": "What is a straw man fallacy?",
+   "correctAnswer": "Misrepresenting an opponent's argument to make it easier to attack",
+   "distractors": [
+    "Attacking the speaker's character",
+    "Appealing to fear",
+    "Using circular reasoning"
+   ],
+   "explanation": "A straw man replaces the real argument with a weaker, fake version.",
+   "memoryHook": "T-Rexy says: Fight the real argument, not a scarecrow.",
+   "imageUrl": "topic:straw-man",
+   "tags": [
+    "argument",
+    "fallacies"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_018",
+   "question": "What is a slippery slope fallacy?",
+   "correctAnswer": "Claiming one small step will inevitably lead to extreme consequences",
+   "distractors": [
+    "Attacking a person's background",
+    "Repeating the same point",
+    "Appealing to tradition"
+   ],
+   "explanation": "Slippery slope arguments skip the steps that would prove the chain of events.",
+   "memoryHook": "T-Rexy says: One step is not a landslide.",
+   "imageUrl": "topic:slippery-slope",
+   "tags": [
+    "argument",
+    "fallacies"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_019",
+   "question": "What is the purpose of an introduction in an argumentative essay?",
+   "correctAnswer": "To present the issue and state the thesis",
+   "distractors": [
+    "To list all evidence in detail",
+    "To refute the counterargument",
+    "To summarize the conclusion"
+   ],
+   "explanation": "The introduction hooks the reader, gives context, and states the claim.",
+   "memoryHook": "T-Rexy says: Hook them, then tell them your claim.",
+   "imageUrl": "topic:introduction",
+   "tags": [
+    "argument",
+    "writing"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_020",
+   "question": "What is a concession?",
+   "correctAnswer": "Admitting a point from the opposing side is partly valid",
+   "distractors": [
+    "Giving up your entire argument",
+    "Refusing to consider other views",
+    "Repeating your thesis"
+   ],
+   "explanation": "A concession shows fairness and makes the writer seem reasonable.",
+   "memoryHook": "T-Rexy says: Give a little ground to gain a lot of trust.",
+   "imageUrl": "topic:concession",
+   "tags": [
+    "argument"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_021",
+   "question": "What is a synthesis essay?",
+   "correctAnswer": "An essay that combines ideas from multiple sources to support a claim",
+   "distractors": [
+    "An essay that summarizes one source",
+    "An essay with no sources",
+    "An essay that only analyzes style"
+   ],
+   "explanation": "Synthesis weaves sources together into a new, original argument.",
+   "memoryHook": "T-Rexy says: Sources are ingredients, not the whole meal.",
+   "imageUrl": "topic:synthesis-essay",
+   "tags": [
+    "exam",
+    "writing"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_022",
+   "question": "What is the rhetorical triangle?",
+   "correctAnswer": "The relationship between speaker, audience, and subject",
+   "distractors": [
+    "A diagram of essay structure",
+    "Three types of fallacies",
+    "Three parts of a thesis"
+   ],
+   "explanation": "The triangle reminds writers that speaker, audience, and subject shape every message.",
+   "memoryHook": "T-Rexy says: Speaker, audience, subject: always connected.",
+   "imageUrl": "topic:rhetorical-triangle",
+   "tags": [
+    "rhetoric"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_023",
+   "question": "What is kairos?",
+   "correctAnswer": "The right or opportune moment to make an argument",
+   "distractors": [
+    "The speaker's credibility",
+    "The emotional appeal",
+    "The logical structure"
+   ],
+   "explanation": "Kairos is why the same speech can fail in January and succeed in June: the audience must be ready to hear it. A speech about new beginnings lands at a graduation because the moment itself is already about change and moving on.",
+   "memoryHook": "T-Rexy says: Timing turns a good point into a great one.",
+   "imageUrl": "topic:kairos",
+   "tags": [
+    "rhetoric"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_024",
+   "question": "What is an allusion?",
+   "correctAnswer": "A brief reference to another work, person, or event",
+   "distractors": [
+    "A long quotation from a source",
+    "A type of metaphor",
+    "A grammatical error"
+   ],
+   "explanation": "Allusions borrow meaning from something the audience already knows.",
+   "memoryHook": "T-Rexy says: One reference can carry a whole story.",
+   "imageUrl": "topic:allusion",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_025",
+   "question": "What is hyperbole?",
+   "correctAnswer": "Deliberate exaggeration for emphasis",
+   "distractors": [
+    "Understating a point",
+    "A literal statement",
+    "A comparison using like or as"
+   ],
+   "explanation": "Hyperbole is not meant literally; it stresses a feeling or idea.",
+   "memoryHook": "T-Rexy says: Exaggerate to make the point unforgettable.",
+   "imageUrl": "topic:hyperbole",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_026",
+   "question": "What is understatement?",
+   "correctAnswer": "Deliberately presenting something as less important than it is",
+   "distractors": [
+    "Exaggerating for effect",
+    "Repeating a phrase",
+    "Using complex vocabulary"
+   ],
+   "explanation": "Understatement creates irony or dry humor by downplaying significance.",
+   "memoryHook": "T-Rexy says: Say less, mean more.",
+   "imageUrl": "topic:understatement",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_027",
+   "question": "What is a metaphor?",
+   "correctAnswer": "A direct comparison between two unlike things",
+   "distractors": [
+    "A comparison using like or as",
+    "An exaggeration",
+    "A reference to history"
+   ],
+   "explanation": "Metaphors say one thing IS another to reveal a shared quality.",
+   "memoryHook": "T-Rexy says: Say it IS, and the image sticks.",
+   "imageUrl": "topic:metaphor",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_028",
+   "question": "What is a simile?",
+   "correctAnswer": "A comparison using like or as",
+   "distractors": [
+    "A direct comparison without like or as",
+    "An appeal to emotion",
+    "A repeated phrase"
+   ],
+   "explanation": "Similes compare two things explicitly with like, as, or than.",
+   "memoryHook": "T-Rexy says: Like or as makes the comparison clear.",
+   "imageUrl": "topic:simile",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_029",
+   "question": "What is the purpose of SOAPSTone analysis?",
+   "correctAnswer": "To identify Speaker, Occasion, Audience, Purpose, Subject, and Tone",
+   "distractors": [
+    "To count the paragraphs in a text",
+    "To find grammatical errors",
+    "To summarize the plot"
+   ],
+   "explanation": "SOAPSTone helps readers understand the rhetorical situation of a text.",
+   "memoryHook": "T-Rexy says: Six letters unlock any text's situation.",
+   "imageUrl": "topic:soapstone",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_030",
+   "question": "In SOAPSTone, what does 'Occasion' mean?",
+   "correctAnswer": "The time, place, and context that prompted the text",
+   "distractors": [
+    "The speaker's job",
+    "The reader's age",
+    "The length of the text"
+   ],
+   "explanation": "Occasion covers what event or situation led the speaker to write or speak.",
+   "memoryHook": "T-Rexy says: Every text answers a moment.",
+   "imageUrl": "topic:soapstone-occasion",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_031",
+   "question": "A speaker cites her 20 years as a doctor before giving health advice. Which appeal is she using?",
+   "correctAnswer": "Ethos",
+   "distractors": [
+    "Pathos",
+    "Logos",
+    "Kairos"
+   ],
+   "explanation": "Citing credentials builds credibility, which is the core of ethos.",
+   "memoryHook": "T-Rexy says: Credentials are ethos in action.",
+   "imageUrl": "topic:ethos-example",
+   "tags": [
+    "rhetoric",
+    "appeals"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_032",
+   "question": "A charity ad shows a hungry child to move viewers to donate. Which appeal dominates?",
+   "correctAnswer": "Pathos",
+   "distractors": [
+    "Ethos",
+    "Logos",
+    "Kairos"
+   ],
+   "explanation": "The ad offers no statistics and no expert credentials; it works entirely by making viewers feel pity and compassion for the child. When feelings, not facts or trust, do the persuading, the appeal is pathos.",
+   "memoryHook": "T-Rexy says: A single image can carry the whole appeal.",
+   "imageUrl": "topic:pathos-example",
+   "tags": [
+    "rhetoric",
+    "appeals"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_033",
+   "question": "A writer uses statistics showing a 40 percent drop in accidents after a new law. Which appeal is this?",
+   "correctAnswer": "Logos",
+   "distractors": [
+    "Ethos",
+    "Pathos",
+    "Kairos"
+   ],
+   "explanation": "The writer does not ask you to trust a speaker or to feel an emotion; the 40 percent figure is offered as measurable proof that the law worked. An argument built on data and measurable results appeals to logos.",
+   "memoryHook": "T-Rexy says: Numbers argue with logic.",
+   "imageUrl": "topic:logos-example",
+   "tags": [
+    "rhetoric",
+    "appeals"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_034",
+   "question": "Read the following passage.\n\nOn a July afternoon, two streets in the same city can feel like different climates. The street with mature trees may be ten degrees cooler than the bare street two blocks away, and the difference is not a mystery of weather. It is arithmetic. A single large tree transpires hundreds of gallons of water on a hot day, and evaporation carries heat away from the air, exactly as sweat cools skin. Shade does the quieter work: it keeps pavement from storing the sun's energy and radiating it back all evening. Cities that treat trees as decoration therefore make an expensive mistake. A neighborhood canopy is infrastructure, as practical as a storm drain. It lowers cooling bills, slows rainwater before it floods the drains, and cleans the air that traffic dirties. Planting a tree is slow medicine, admittedly. A sapling planted this spring will not shade a bus stop for a decade. But every canopy shading a street today exists because someone, years ago, decided that a benefit they would never fully enjoy was still worth planting for.\n\nThe parallel structure of the sentence 'It lowers cooling bills, slows rainwater before it floods the drains, and cleans the air that traffic dirties' functions mainly to",
+   "correctAnswer": "accumulate several distinct benefits into a single, weighty case for treating trees as infrastructure",
+   "distractors": [
+    "slow the reader's pace to imitate the gradual growth of a tree",
+    "imply that each benefit is too small to matter on its own",
+    "shift the passage from scientific explanation to personal anecdote"
+   ],
+   "explanation": "Three matched verb phrases stack three separate public benefits (money, flooding, air) one after another, so the list itself performs the author's claim that a canopy is infrastructure, 'as practical as a storm drain.' No anecdote follows, and the piling up increases rather than diminishes each benefit's weight.",
+   "memoryHook": "T-Rexy says: A matched list of verbs usually means the case is being stacked.",
+   "imageUrl": "topic:urban-trees",
+   "tags": [
+    "passage analysis",
+    "style"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_035",
+   "question": "How does parallelism strengthen an argument?",
+   "correctAnswer": "It makes related ideas feel balanced and equal in importance",
+   "distractors": [
+    "It makes sentences longer",
+    "It hides weak evidence",
+    "It removes the need for a thesis"
+   ],
+   "explanation": "Parallel structure signals that ideas belong together and carry equal weight.",
+   "memoryHook": "T-Rexy says: Balance in form signals balance in thought.",
+   "imageUrl": "topic:parallelism-effect",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_036",
+   "question": "Read the following passage.\n\nEditor, our town council keeps postponing its vote on the community pool, and the delay makes no sense. Last Saturday I spent one afternoon at the pool in neighboring Fairview, and the place was packed. Families picnicked on the grass. Teenagers who might otherwise have been staring at phones were teaching younger children to swim. One afternoon was all the evidence anyone should need: give people a pool and they will use it, gladly and together. Why should Riverton families have to drive twenty minutes for what Fairview residents enjoy in their own town? Our council members say a pool is too expensive, yet they found money last year for new office furniture. A town is judged by what it builds for everyone, not by what it buys for itself. The council should stop studying the question and vote to build the pool this year.\n\nThe rhetorical question 'Why should Riverton families have to drive twenty minutes for what Fairview residents enjoy in their own town?' functions primarily to",
+   "correctAnswer": "frame the situation as unfair, so readers feel the drive as an injustice rather than a neutral inconvenience",
+   "distractors": [
+    "request information about Fairview's pool that the writer does not have",
+    "introduce the topic of transportation, which the letter then develops",
+    "concede that Fairview manages its pool better than Riverton would"
+   ],
+   "explanation": "A rhetorical question asserts its own implied answer: Riverton families should not have to make that drive. By asking it this way, the writer turns a logistical detail (twenty minutes) into a question of fairness between two towns. The letter never returns to transportation and concedes nothing about Fairview's management.",
+   "memoryHook": "T-Rexy says: A rhetorical question is a statement wearing a question mark.",
+   "imageUrl": "topic:community-pool",
+   "tags": [
+    "passage analysis",
+    "rhetorical choices"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_037",
+   "question": "What is antithesis?",
+   "correctAnswer": "Placing contrasting ideas side by side in balanced structure",
+   "distractors": [
+    "Repeating the same idea twice",
+    "Using a metaphor",
+    "Asking a question"
+   ],
+   "explanation": "Antithesis highlights contrast, as in 'not what your country can do for you, but what you can do for your country.'",
+   "memoryHook": "T-Rexy says: Opposites side by side make both sharper.",
+   "imageUrl": "topic:antithesis",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_038",
+   "question": "What is chiasmus?",
+   "correctAnswer": "A reversal of grammatical structure in two parallel phrases",
+   "distractors": [
+    "A type of metaphor",
+    "A repeated question",
+    "An appeal to emotion"
+   ],
+   "explanation": "Chiasmus flips the order, as in 'Ask not what your country can do for you; ask what you can do for your country.'",
+   "memoryHook": "T-Rexy says: Flip the phrase and it flips the thought.",
+   "imageUrl": "topic:chiasmus",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_039",
+   "question": "What is the difference between deductive and inductive reasoning?",
+   "correctAnswer": "Deductive starts from a general principle; inductive builds from specific examples",
+   "distractors": [
+    "Deductive uses emotion; inductive uses logic",
+    "Deductive is always wrong; inductive is always right",
+    "There is no difference"
+   ],
+   "explanation": "Deductive reasoning applies a rule to a case; inductive reasoning infers a rule from cases.",
+   "memoryHook": "T-Rexy says: General to specific, or specific to general.",
+   "imageUrl": "topic:deductive-inductive",
+   "tags": [
+    "argument",
+    "reasoning"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_040",
+   "question": "What is a syllogism?",
+   "correctAnswer": "A three-part deductive argument: major premise, minor premise, conclusion",
+   "distractors": [
+    "A type of metaphor",
+    "A rhetorical question",
+    "A list of evidence"
+   ],
+   "explanation": "A syllogism moves logically from two premises to a conclusion.",
+   "memoryHook": "T-Rexy says: Two premises, one conclusion, no escape.",
+   "imageUrl": "topic:syllogism",
+   "tags": [
+    "argument",
+    "reasoning"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_041",
+   "question": "What is the Toulmin model of argument?",
+   "correctAnswer": "A structure of claim, grounds, warrant, backing, qualifier, and rebuttal",
+   "distractors": [
+    "A way to organize paragraphs",
+    "A type of fallacy",
+    "A method of citing sources"
+   ],
+   "explanation": "Toulmin's model breaks arguments into parts so writers can check each link.",
+   "memoryHook": "T-Rexy says: Name the parts, and the argument becomes testable.",
+   "imageUrl": "topic:toulmin-model",
+   "tags": [
+    "argument",
+    "reasoning"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_042",
+   "question": "In Toulmin's model, what is a warrant?",
+   "correctAnswer": "The assumption that connects evidence to a claim",
+   "distractors": [
+    "The main claim itself",
+    "A piece of statistical evidence",
+    "The conclusion"
+   ],
+   "explanation": "The warrant is the often unstated bridge between grounds and claim.",
+   "memoryHook": "T-Rexy says: The warrant is the hidden bridge.",
+   "imageUrl": "topic:toulmin-warrant",
+   "tags": [
+    "argument",
+    "reasoning"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_043",
+   "question": "In Toulmin's model, what is a qualifier?",
+   "correctAnswer": "A word or phrase that limits how strongly a claim is made",
+   "distractors": [
+    "A type of evidence",
+    "A counterargument",
+    "A rhetorical device"
+   ],
+   "explanation": "Qualifiers like 'usually' or 'probably' make claims more precise and honest.",
+   "memoryHook": "T-Rexy says: Qualify the claim, and it gets harder to knock down.",
+   "imageUrl": "topic:toulmin-qualifier",
+   "tags": [
+    "argument",
+    "reasoning"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_044",
+   "question": "What is the purpose of addressing a counterargument?",
+   "correctAnswer": "To show fairness and strengthen credibility",
+   "distractors": [
+    "To weaken your own claim",
+    "To confuse the reader",
+    "To fill space in the essay"
+   ],
+   "explanation": "Answering objections proves the writer has considered other views.",
+   "memoryHook": "T-Rexy says: Answer the objection before it is raised.",
+   "imageUrl": "topic:counterargument-purpose",
+   "tags": [
+    "argument"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_045",
+   "question": "How does a speaker establish credibility with an audience?",
+   "correctAnswer": "By showing expertise, honesty, and shared values",
+   "distractors": [
+    "By speaking loudly",
+    "By avoiding evidence",
+    "By using only emotional appeals"
+   ],
+   "explanation": "Credibility grows from demonstrated knowledge, sincerity, and connection to the audience.",
+   "memoryHook": "T-Rexy says: Trust is earned before it is used.",
+   "imageUrl": "topic:credibility",
+   "tags": [
+    "rhetoric",
+    "appeals"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_046",
+   "question": "What is the effect of short sentences in rhetoric?",
+   "correctAnswer": "They create emphasis, urgency, or punch",
+   "distractors": [
+    "They make ideas seem unimportant",
+    "They confuse the reader",
+    "They slow the pace"
+   ],
+   "explanation": "Short sentences hit hard and draw attention to a key point.",
+   "memoryHook": "T-Rexy says: Short. Sharp. Unforgettable.",
+   "imageUrl": "topic:short-sentences",
+   "tags": [
+    "rhetoric",
+    "syntax"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_047",
+   "question": "What is the effect of long, complex sentences?",
+   "correctAnswer": "They build detail, rhythm, and a sense of flow",
+   "distractors": [
+    "They always weaken an argument",
+    "They hide the main point",
+    "They are never used in speeches"
+   ],
+   "explanation": "Long sentences can layer ideas and create a sweeping, thoughtful tone.",
+   "memoryHook": "T-Rexy says: Long sentences carry the reader along.",
+   "imageUrl": "topic:long-sentences",
+   "tags": [
+    "rhetoric",
+    "syntax"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_048",
+   "question": "What is a periodic sentence?",
+   "correctAnswer": "A sentence that delays its main idea until the end",
+   "distractors": [
+    "A sentence that starts with the main idea",
+    "A very short sentence",
+    "A sentence with no verb"
+   ],
+   "explanation": "Periodic sentences build suspense by holding the key point until the end.",
+   "memoryHook": "T-Rexy says: Hold the punchline until the last word.",
+   "imageUrl": "topic:periodic-sentence",
+   "tags": [
+    "rhetoric",
+    "syntax"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_049",
+   "question": "What is a loose sentence?",
+   "correctAnswer": "A sentence that states its main idea first, then adds details",
+   "distractors": [
+    "A sentence with no punctuation",
+    "A sentence that delays its main idea",
+    "A run-on sentence"
+   ],
+   "explanation": "Loose sentences give the point early and then expand on it.",
+   "memoryHook": "T-Rexy says: Point first, details after.",
+   "imageUrl": "topic:loose-sentence",
+   "tags": [
+    "rhetoric",
+    "syntax"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_050",
+   "question": "What is the purpose of repetition in rhetoric?",
+   "correctAnswer": "To emphasize a key idea and make it memorable",
+   "distractors": [
+    "To fill time in a speech",
+    "To confuse the audience",
+    "To avoid using evidence"
+   ],
+   "explanation": "Repetition hammers a point home and creates rhythm.",
+   "memoryHook": "T-Rexy says: Say it again, and it sticks.",
+   "imageUrl": "topic:repetition",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_051",
+   "question": "What is the difference between denotation and connotation?",
+   "correctAnswer": "Denotation is literal meaning; connotation is the feeling or association a word carries",
+   "distractors": [
+    "Denotation is emotional; connotation is literal",
+    "They mean the same thing",
+    "Denotation applies only to verbs"
+   ],
+   "explanation": "Writers choose words for both their dictionary meaning and their emotional charge.",
+   "memoryHook": "T-Rexy says: The dictionary gives one meaning; feeling gives another.",
+   "imageUrl": "topic:denotation-connotation",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_052",
+   "question": "How does connotation affect tone?",
+   "correctAnswer": "Words with strong associations color the writer's attitude",
+   "distractors": [
+    "It has no effect on tone",
+    "It only affects grammar",
+    "It makes sentences longer"
+   ],
+   "explanation": "Words can share a denotation but carry opposite connotations: 'thrifty' and 'cheap' both describe saving money, but choosing 'thrifty' makes the tone positive and approving, while 'cheap' makes it negative and insulting.",
+   "memoryHook": "T-Rexy says: Pick the word, pick the feeling.",
+   "imageUrl": "topic:connotation-tone",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_053",
+   "question": "What is a rhetorical shift?",
+   "correctAnswer": "A change in tone, perspective, or focus within a text",
+   "distractors": [
+    "A change in font",
+    "A new paragraph",
+    "A grammatical error"
+   ],
+   "explanation": "Shifts signal that the writer is moving to a new idea or mood.",
+   "memoryHook": "T-Rexy says: When the tone turns, pay attention.",
+   "imageUrl": "topic:rhetorical-shift",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_054",
+   "question": "What is the purpose of sources in a synthesis essay?",
+   "correctAnswer": "To provide evidence that supports the writer's own argument",
+   "distractors": [
+    "To be summarized one by one",
+    "To replace the writer's voice",
+    "To fill the word count"
+   ],
+   "explanation": "Sources support the writer's claim; the writer's voice leads.",
+   "memoryHook": "T-Rexy says: Sources serve your argument, not the other way around.",
+   "imageUrl": "topic:synthesis-sources",
+   "tags": [
+    "exam",
+    "writing"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_055",
+   "question": "What is the difference between summarizing and synthesizing?",
+   "correctAnswer": "Summarizing restates one source; synthesizing combines sources into a new argument",
+   "distractors": [
+    "They are the same thing",
+    "Summarizing uses quotes; synthesizing does not",
+    "Synthesizing is shorter"
+   ],
+   "explanation": "Synthesis creates something new from the conversation between sources.",
+   "memoryHook": "T-Rexy says: Summary reports; synthesis builds.",
+   "imageUrl": "topic:summarize-synthesize",
+   "tags": [
+    "exam",
+    "writing"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_056",
+   "question": "What is a rhetorical analysis essay?",
+   "correctAnswer": "An essay that explains how a writer uses rhetorical choices to achieve a purpose",
+   "distractors": [
+    "An essay that argues a position",
+    "An essay that summarizes a text",
+    "An essay that tells a story"
+   ],
+   "explanation": "Rhetorical analysis focuses on HOW the text persuades, not just WHAT it says.",
+   "memoryHook": "T-Rexy says: Analyze the how, not just the what.",
+   "imageUrl": "topic:rhetorical-analysis-essay",
+   "tags": [
+    "exam",
+    "writing"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_057",
+   "question": "What is the argument essay (Question 3) on the AP Lang exam?",
+   "correctAnswer": "An essay that defends a position on an issue using evidence and reasoning",
+   "distractors": [
+    "An essay that analyzes a speech",
+    "An essay that uses seven sources",
+    "An essay that summarizes a novel"
+   ],
+   "explanation": "Question 3 asks students to build their own argument on a given topic.",
+   "memoryHook": "T-Rexy says: Q3 is your argument, your evidence.",
+   "imageUrl": "topic:ap-lang-q3",
+   "tags": [
+    "exam"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_058",
+   "question": "What is the rhetorical analysis essay (Question 2) on the AP Lang exam?",
+   "correctAnswer": "An essay analyzing how a writer's choices create meaning or persuade",
+   "distractors": [
+    "An essay using multiple sources",
+    "An essay arguing a personal opinion",
+    "An essay summarizing a book"
+   ],
+   "explanation": "Question 2 gives a passage and asks how its rhetorical strategies work.",
+   "memoryHook": "T-Rexy says: Q2 is about how the passage works.",
+   "imageUrl": "topic:ap-lang-q2",
+   "tags": [
+    "exam"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_059",
+   "question": "What is the synthesis essay (Question 1) on the AP Lang exam?",
+   "correctAnswer": "An essay that uses at least three sources to support an argument",
+   "distractors": [
+    "An essay with no sources",
+    "An essay analyzing one speech",
+    "An essay about literature"
+   ],
+   "explanation": "Question 1 provides sources and asks students to build an argument from them.",
+   "memoryHook": "T-Rexy says: Q1 weaves sources into your argument.",
+   "imageUrl": "topic:ap-lang-q1",
+   "tags": [
+    "exam"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_060",
+   "question": "How many free-response essays are on the AP English Language exam?",
+   "correctAnswer": "Three",
+   "distractors": [
+    "One",
+    "Two",
+    "Five"
+   ],
+   "explanation": "The exam has three essays: synthesis, rhetorical analysis, and argument.",
+   "memoryHook": "T-Rexy says: Three essays, three different skills.",
+   "imageUrl": "topic:ap-lang-essays",
+   "tags": [
+    "exam"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_061",
+   "question": "What does the multiple-choice section of the AP Lang exam test?",
+   "correctAnswer": "Reading and analyzing nonfiction texts",
+   "distractors": [
+    "Creative writing",
+    "Poetry memorization",
+    "Grammar drills only"
+   ],
+   "explanation": "Multiple-choice questions ask students to analyze rhetoric in nonfiction passages.",
+   "memoryHook": "T-Rexy says: Read closely, analyze the rhetoric.",
+   "imageUrl": "topic:ap-lang-multiple-choice",
+   "tags": [
+    "exam"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_062",
+   "question": "Read the following passage.\n\nWhen Lincoln Middle School turned the cracked asphalt lot behind its gym into a garden, few people expected much. The soil was thin, the budget was thinner, and the first planting, a row of tomato seedlings, was flattened by a late storm. Yet by October, the same students who had grumbled about digging for a grade were arriving early to check on the peppers. The garden works because it makes learning visible. A seed does not care about a report card; it responds to water, light, and patience, and it shows the results without argument. In science class, photosynthesis stops being a diagram and becomes the reason the beans climbed the fence. In math, a harvest is weighed, graphed, and argued over. Critics call the garden a distraction from test preparation. They should spend one morning pulling weeds beside a seventh grader who is explaining, unprompted, why the shaded row grew taller. Some lessons refuse to stay inside a classroom.\n\nThe author's primary purpose in writing the passage is to",
+   "correctAnswer": "argue that a school garden is a valuable part of students' education",
+   "distractors": [
+    "explain how to grow tomatoes and peppers in poor soil",
+    "describe how a late storm damaged the school's first planting",
+    "persuade the school to spend more money on its science classes"
+   ],
+   "explanation": "The whole passage defends the garden as education: it 'makes learning visible,' it turns photosynthesis into something students can see, and the author answers the critics who call it a distraction. The storm and the planting details are the opening story, not the purpose, and no spending request is ever made.",
+   "memoryHook": "T-Rexy says: Find what the whole passage defends, not what one detail describes.",
+   "imageUrl": "topic:school-garden",
+   "tags": [
+    "passage analysis",
+    "rhetorical situation"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_063",
+   "question": "Read the following passage.\n\nWhen Lincoln Middle School turned the cracked asphalt lot behind its gym into a garden, few people expected much. The soil was thin, the budget was thinner, and the first planting, a row of tomato seedlings, was flattened by a late storm. Yet by October, the same students who had grumbled about digging for a grade were arriving early to check on the peppers. The garden works because it makes learning visible. A seed does not care about a report card; it responds to water, light, and patience, and it shows the results without argument. In science class, photosynthesis stops being a diagram and becomes the reason the beans climbed the fence. In math, a harvest is weighed, graphed, and argued over. Critics call the garden a distraction from test preparation. They should spend one morning pulling weeds beside a seventh grader who is explaining, unprompted, why the shaded row grew taller. Some lessons refuse to stay inside a classroom.\n\nThe passage is most likely written for readers who",
+   "correctAnswer": "doubt that a garden belongs in a school",
+   "distractors": [
+    "want step-by-step instructions for starting a garden",
+    "already run successful school garden programs",
+    "are choosing plants for a home vegetable plot"
+   ],
+   "explanation": "The author argues against skeptics: 'Critics call the garden a distraction from test preparation. They should spend one morning pulling weeds beside a seventh grader.' A text that answers critics is aimed at the doubters it is trying to convert, not at gardeners looking for instructions.",
+   "memoryHook": "T-Rexy says: The audience is whoever the author is trying to convince.",
+   "imageUrl": "topic:school-garden",
+   "tags": [
+    "passage analysis",
+    "rhetorical situation"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_064",
+   "question": "Read the following passage.\n\nA century ago, a public library was a bold promise: that a mill worker's daughter could read the same books as a banker's son, free of charge. Steel magnate Andrew Carnegie funded more than 2,500 library buildings around the world, but the buildings alone did not keep the promise. The librarians did. They ordered books in Polish, Italian, and Yiddish for immigrant neighborhoods. They kept the doors open late so working readers could come after their shifts. During the Great Depression, when many towns cut services, librarians stretched budgets, mended spines, and turned reading rooms into informal job centers where the unemployed could read newspapers without buying them. The promise survives today in altered form. Branches now lend internet access, host citizenship classes, and loan tools and seeds alongside novels. The shelves have changed. The idea has not. A library belongs to everyone who walks through its doors, and its value cannot be measured by what it charges, because it charges nothing.\n\nThe tone of the passage is best described as",
+   "correctAnswer": "admiring and hopeful",
+   "distractors": [
+    "angry and accusatory",
+    "detached and neutral",
+    "bitter and regretful"
+   ],
+   "explanation": "The diction is praise: the library is a 'bold promise,' the pivot sentence 'The librarians did' credits the staff, and the passage closes by insisting the idea survives. Facts are present, but they are chosen to celebrate, so the tone is not detached; nothing in the passage attacks anyone or mourns a loss.",
+   "memoryHook": "T-Rexy says: Tone lives in the words the author chooses, not the facts alone.",
+   "imageUrl": "topic:public-library",
+   "tags": [
+    "passage analysis",
+    "style"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_065",
+   "question": "What is an exigence?",
+   "correctAnswer": "The issue or problem that prompts a text",
+   "distractors": [
+    "The conclusion of an essay",
+    "A type of fallacy",
+    "The speaker's tone"
+   ],
+   "explanation": "Exigence is the urgency or need that calls a text into being.",
+   "memoryHook": "T-Rexy says: Something demanded a response, and this text is it.",
+   "imageUrl": "topic:exigence",
+   "tags": [
+    "rhetoric"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_066",
+   "question": "What is a rhetorical situation?",
+   "correctAnswer": "The context of speaker, audience, purpose, and occasion",
+   "distractors": [
+    "A type of essay",
+    "A grammatical structure",
+    "A fallacy"
+   ],
+   "explanation": "The rhetorical situation shapes every choice a writer makes.",
+   "memoryHook": "T-Rexy says: Context shapes every word.",
+   "imageUrl": "topic:rhetorical-situation",
+   "tags": [
+    "rhetoric"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_067",
+   "question": "What is the effect of first-person point of view in nonfiction?",
+   "correctAnswer": "It creates intimacy and personal authority",
+   "distractors": [
+    "It makes the text objective",
+    "It hides the author's opinion",
+    "It confuses the reader"
+   ],
+   "explanation": "First person lets the writer speak directly from experience.",
+   "memoryHook": "T-Rexy says: 'I' brings the reader close.",
+   "imageUrl": "topic:first-person",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_068",
+   "question": "What is the effect of second-person point of view?",
+   "correctAnswer": "It addresses the reader directly and involves them",
+   "distractors": [
+    "It makes the text formal",
+    "It removes the audience",
+    "It tells a story about others"
+   ],
+   "explanation": "Second person turns the audience into a participant: instead of reading about someone else's problem, the reader is told 'you' are part of it and 'you' must act, which makes the message much harder to ignore.",
+   "memoryHook": "T-Rexy says: 'You' makes the reader part of the argument.",
+   "imageUrl": "topic:second-person",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_069",
+   "question": "What is the effect of third-person point of view in nonfiction?",
+   "correctAnswer": "It creates distance and an objective, authoritative tone",
+   "distractors": [
+    "It makes the text personal",
+    "It addresses the reader",
+    "It shows the author's feelings"
+   ],
+   "explanation": "Third person sounds neutral and lets evidence speak.",
+   "memoryHook": "T-Rexy says: 'He,' 'she,' and 'they' keep the writer at a distance.",
+   "imageUrl": "topic:third-person",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_070",
+   "question": "What is an appeal to authority?",
+   "correctAnswer": "Using a credible expert or source to support a claim",
+   "distractors": [
+    "Appealing to the audience's fears",
+    "Using statistics",
+    "Attacking an opponent"
+   ],
+   "explanation": "Citing an expert borrows their credibility for the argument.",
+   "memoryHook": "T-Rexy says: Borrow an expert's trust, but use it honestly.",
+   "imageUrl": "topic:appeal-to-authority",
+   "tags": [
+    "rhetoric",
+    "appeals"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_071",
+   "question": "A writer argues: 'If we allow students to retake one test, soon they will demand to retake every test, and grades will mean nothing.' What fallacy is this?",
+   "correctAnswer": "Slippery slope",
+   "distractors": [
+    "Ad hominem",
+    "Straw man",
+    "Appeal to authority"
+   ],
+   "explanation": "The argument leaps from one step to an extreme outcome without proving the chain.",
+   "memoryHook": "T-Rexy says: One retake does not erase all grades.",
+   "imageUrl": "topic:slippery-slope-example",
+   "tags": [
+    "argument",
+    "fallacies"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_072",
+   "question": "Read the following passage.\n\nA century ago, a public library was a bold promise: that a mill worker's daughter could read the same books as a banker's son, free of charge. Steel magnate Andrew Carnegie funded more than 2,500 library buildings around the world, but the buildings alone did not keep the promise. The librarians did. They ordered books in Polish, Italian, and Yiddish for immigrant neighborhoods. They kept the doors open late so working readers could come after their shifts. During the Great Depression, when many towns cut services, librarians stretched budgets, mended spines, and turned reading rooms into informal job centers where the unemployed could read newspapers without buying them. The promise survives today in altered form. Branches now lend internet access, host citizenship classes, and loan tools and seeds alongside novels. The shelves have changed. The idea has not. A library belongs to everyone who walks through its doors, and its value cannot be measured by what it charges, because it charges nothing.\n\nWhich statement best expresses the main idea of the passage?",
+   "correctAnswer": "Public libraries have endured because the people who run them keep adapting the service to their communities",
+   "distractors": [
+    "Andrew Carnegie was the single most important person in the history of libraries",
+    "Public libraries should begin charging fees so their value can be measured",
+    "The Great Depression forced most public libraries to close permanently"
+   ],
+   "explanation": "The passage turns on a contrast: Carnegie's buildings 'alone did not keep the promise. The librarians did,' and today's branches still adapt by lending internet access and hosting classes. Carnegie is only one detail, charging fees is contradicted by the final line, and the passage says towns cut services, not that libraries closed.",
+   "memoryHook": "T-Rexy says: The main idea must cover the ending as well as the beginning.",
+   "imageUrl": "topic:public-library",
+   "tags": [
+    "passage analysis",
+    "claims and evidence"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_073",
+   "question": "What is a red herring fallacy?",
+   "correctAnswer": "Introducing an irrelevant topic to distract from the real issue",
+   "distractors": [
+    "Attacking the speaker",
+    "Repeating a claim",
+    "Using too much evidence"
+   ],
+   "explanation": "A red herring drags attention away from the argument that matters.",
+   "memoryHook": "T-Rexy says: Follow the argument, not the distraction.",
+   "imageUrl": "topic:red-herring",
+   "tags": [
+    "argument",
+    "fallacies"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_074",
+   "question": "What is a bandwagon fallacy?",
+   "correctAnswer": "Arguing something is true because many people believe it",
+   "distractors": [
+    "Arguing from a single example",
+    "Attacking a straw man",
+    "Using a false analogy"
+   ],
+   "explanation": "Popularity does not make a claim true.",
+   "memoryHook": "T-Rexy says: Everyone believing it does not make it true.",
+   "imageUrl": "topic:bandwagon",
+   "tags": [
+    "argument",
+    "fallacies"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_075",
+   "question": "Read the following passage.\n\nOn a July afternoon, two streets in the same city can feel like different climates. The street with mature trees may be ten degrees cooler than the bare street two blocks away, and the difference is not a mystery of weather. It is arithmetic. A single large tree transpires hundreds of gallons of water on a hot day, and evaporation carries heat away from the air, exactly as sweat cools skin. Shade does the quieter work: it keeps pavement from storing the sun's energy and radiating it back all evening. Cities that treat trees as decoration therefore make an expensive mistake. A neighborhood canopy is infrastructure, as practical as a storm drain. It lowers cooling bills, slows rainwater before it floods the drains, and cleans the air that traffic dirties. Planting a tree is slow medicine, admittedly. A sapling planted this spring will not shade a bus stop for a decade. But every canopy shading a street today exists because someone, years ago, decided that a benefit they would never fully enjoy was still worth planting for.\n\nThe author states that a tree-lined street 'may be ten degrees cooler' than a bare one primarily to",
+   "correctAnswer": "support the claim with a measurable fact rather than an impression",
+   "distractors": [
+    "make readers feel pity for people who live on streets without trees",
+    "explain the process by which sweat cools the human body",
+    "show that weather patterns differ from one city to another"
+   ],
+   "explanation": "A temperature figure is evidence: it lets the reader measure the cooling effect instead of taking the author's word for it, which is an appeal to logic. The sweat comparison comes later and explains evaporation, and the passage compares streets within one city, not weather between cities.",
+   "memoryHook": "T-Rexy says: A number in an argument is usually there to prove, not to move.",
+   "imageUrl": "topic:urban-trees",
+   "tags": [
+    "passage analysis",
+    "claims and evidence"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_076",
+   "question": "What is a post hoc fallacy?",
+   "correctAnswer": "Assuming that because one event followed another, the first caused the second",
+   "distractors": [
+    "Attacking the speaker's motives",
+    "Using a weak analogy",
+    "Appealing to tradition"
+   ],
+   "explanation": "Sequence alone does not prove causation.",
+   "memoryHook": "T-Rexy says: After is not the same as because.",
+   "imageUrl": "topic:post-hoc",
+   "tags": [
+    "argument",
+    "fallacies"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_077",
+   "question": "Read the following passage.\n\nOn a July afternoon, two streets in the same city can feel like different climates. The street with mature trees may be ten degrees cooler than the bare street two blocks away, and the difference is not a mystery of weather. It is arithmetic. A single large tree transpires hundreds of gallons of water on a hot day, and evaporation carries heat away from the air, exactly as sweat cools skin. Shade does the quieter work: it keeps pavement from storing the sun's energy and radiating it back all evening. Cities that treat trees as decoration therefore make an expensive mistake. A neighborhood canopy is infrastructure, as practical as a storm drain. It lowers cooling bills, slows rainwater before it floods the drains, and cleans the air that traffic dirties. Planting a tree is slow medicine, admittedly. A sapling planted this spring will not shade a bus stop for a decade. But every canopy shading a street today exists because someone, years ago, decided that a benefit they would never fully enjoy was still worth planting for.\n\nAs used in the passage, the word 'transpires' most nearly means",
+   "correctAnswer": "releases water vapor",
+   "distractors": [
+    "absorbs sunlight",
+    "grows new leaves",
+    "stores rainwater"
+   ],
+   "explanation": "The sentence says a tree 'transpires hundreds of gallons of water' and the next clause explains that 'evaporation carries heat away.' The water must leave the tree before it can evaporate, so transpire here means releasing water vapor, the opposite of storing it.",
+   "memoryHook": "T-Rexy says: The sentence after the word usually explains the word.",
+   "imageUrl": "topic:urban-trees",
+   "tags": [
+    "passage analysis",
+    "reading"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_078",
+   "question": "What is circular reasoning?",
+   "correctAnswer": "Restating the claim as its own evidence",
+   "distractors": [
+    "Using a metaphor",
+    "Citing an expert",
+    "Asking a rhetorical question"
+   ],
+   "explanation": "Circular arguments assume the conclusion instead of proving it.",
+   "memoryHook": "T-Rexy says: A claim cannot prove itself.",
+   "imageUrl": "topic:circular-reasoning",
+   "tags": [
+    "argument",
+    "fallacies"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_079",
+   "question": "Read the following passage.\n\nEditor, our town council keeps postponing its vote on the community pool, and the delay makes no sense. Last Saturday I spent one afternoon at the pool in neighboring Fairview, and the place was packed. Families picnicked on the grass. Teenagers who might otherwise have been staring at phones were teaching younger children to swim. One afternoon was all the evidence anyone should need: give people a pool and they will use it, gladly and together. Why should Riverton families have to drive twenty minutes for what Fairview residents enjoy in their own town? Our council members say a pool is too expensive, yet they found money last year for new office furniture. A town is judged by what it builds for everyone, not by what it buys for itself. The council should stop studying the question and vote to build the pool this year.\n\nThe writer's closing demand, 'The council should stop studying the question and vote to build the pool this year,' is best classified as",
+   "correctAnswer": "a claim of policy, because it urges a specific course of action",
+   "distractors": [
+    "a claim of fact, because it describes the council's past behavior",
+    "a claim of value, because it judges what kind of town Riverton is",
+    "a concession, because it admits that building a pool is expensive"
+   ],
+   "explanation": "The demand tells the council what it should do: stop studying and vote to build. A claim that prescribes an action is a claim of policy. The letter does report facts and pass judgments elsewhere, but the sentence being classified argues for a decision, and it concedes nothing about cost.",
+   "memoryHook": "T-Rexy says: 'Should' plus an action almost always means policy.",
+   "imageUrl": "topic:community-pool",
+   "tags": [
+    "passage analysis",
+    "claims and evidence"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_080",
+   "question": "How does a speaker use concession to strengthen an argument?",
+   "correctAnswer": "By admitting a valid opposing point, then showing the main claim still holds",
+   "distractors": [
+    "By giving up the argument entirely",
+    "By ignoring the opposition",
+    "By attacking the opponent"
+   ],
+   "explanation": "A concession followed by a rebuttal shows confidence and fairness.",
+   "memoryHook": "T-Rexy says: Concede the small point, win the big one.",
+   "imageUrl": "topic:concession-strength",
+   "tags": [
+    "argument"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_081",
+   "question": "What is the difference between claims of fact, value, and policy?",
+   "correctAnswer": "Fact claims state what is true; value claims judge worth; policy claims propose action",
+   "distractors": [
+    "They are identical",
+    "Fact claims use emotion; value claims use logic",
+    "Policy claims are always false"
+   ],
+   "explanation": "Each claim type needs different evidence: facts need data, values need criteria, policies need plans.",
+   "memoryHook": "T-Rexy says: Fact, value, policy: three claims, three kinds of proof.",
+   "imageUrl": "topic:claim-types",
+   "tags": [
+    "argument"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_082",
+   "question": "Read the following passage.\n\nEditor, our town council keeps postponing its vote on the community pool, and the delay makes no sense. Last Saturday I spent one afternoon at the pool in neighboring Fairview, and the place was packed. Families picnicked on the grass. Teenagers who might otherwise have been staring at phones were teaching younger children to swim. One afternoon was all the evidence anyone should need: give people a pool and they will use it, gladly and together. Why should Riverton families have to drive twenty minutes for what Fairview residents enjoy in their own town? Our council members say a pool is too expensive, yet they found money last year for new office furniture. A town is judged by what it builds for everyone, not by what it buys for itself. The council should stop studying the question and vote to build the pool this year.\n\nThe writer mentions that the council 'found money last year for new office furniture' in order to",
+   "correctAnswer": "undercut the council's argument that a pool is too expensive",
+   "distractors": [
+    "prove that the council spends most of its budget on furniture",
+    "describe what the council members do during their meetings",
+    "show that the writer has studied the town's budget carefully"
+   ],
+   "explanation": "The detail is placed directly against the objection it answers: members 'say a pool is too expensive, yet they found money' for furniture. The word 'yet' makes the spending a rebuttal about priorities. One purchase, however, is not 'most of the budget,' so the stronger claim goes beyond what the letter says.",
+   "memoryHook": "T-Rexy says: A detail placed right after an objection is usually a reply to it.",
+   "imageUrl": "topic:community-pool",
+   "tags": [
+    "passage analysis",
+    "reasoning and organization"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_083",
+   "question": "What is a claim of value?",
+   "correctAnswer": "A claim that judges something as good, bad, right, or wrong",
+   "distractors": [
+    "A claim about a fact",
+    "A claim proposing a law",
+    "A claim with statistics"
+   ],
+   "explanation": "Value claims rest on criteria for what counts as good or bad.",
+   "memoryHook": "T-Rexy says: Value claims judge, so they need standards.",
+   "imageUrl": "topic:claim-of-value",
+   "tags": [
+    "argument"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_084",
+   "question": "The passage below is a student's draft essay about school start times, with its sentences numbered.\n\n(1) Many high schools begin classes before 8 a.m., and many teenagers are tired in their first classes. (2) Research on sleep shows that the body clocks of teenagers shift later during puberty, so falling asleep early is biologically difficult for them. (3) It is a problem that affects their grades. (4) Some schools that moved start times later reported better attendance and higher participation in morning classes. (5) Students also got into fewer car accidents in the morning. (6) Opponents say later starts would disrupt bus schedules and sports practices. (7) These concerns are real, but districts that made the change have found solutions, such as adjusting bus routes. (8) The change asks a school to rearrange its morning, not to rebuild it. (9) Schools should start later because students cannot learn well when they are exhausted.\n\nThe writer wants to revise sentence 3 ('It is a problem that affects their grades') to make its meaning clearer. Which revision best accomplishes this goal?",
+   "correctAnswer": "This lack of sleep harms their grades and their ability to focus in class.",
+   "distractors": [
+    "It is a problem that affects their grades in a negative way.",
+    "Their grades are affected by this problem of it.",
+    "A problem that affects grades is what it is."
+   ],
+   "explanation": "Sentence 3 is unclear because 'It' has no firm referent and 'affects' does not say how. The best revision names the problem the draft has been describing (lack of sleep, from sentences 1 and 2) and states the harm directly. The other options keep the vague 'it' or tangle the sentence further.",
+   "memoryHook": "T-Rexy says: A clear revision names the thing instead of pointing at it with 'it'.",
+   "imageUrl": "topic:school-start-times",
+   "tags": [
+    "writing",
+    "grammar in context"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_085",
+   "question": "Read the following passage.\n\nOn a July afternoon, two streets in the same city can feel like different climates. The street with mature trees may be ten degrees cooler than the bare street two blocks away, and the difference is not a mystery of weather. It is arithmetic. A single large tree transpires hundreds of gallons of water on a hot day, and evaporation carries heat away from the air, exactly as sweat cools skin. Shade does the quieter work: it keeps pavement from storing the sun's energy and radiating it back all evening. Cities that treat trees as decoration therefore make an expensive mistake. A neighborhood canopy is infrastructure, as practical as a storm drain. It lowers cooling bills, slows rainwater before it floods the drains, and cleans the air that traffic dirties. Planting a tree is slow medicine, admittedly. A sapling planted this spring will not shade a bus stop for a decade. But every canopy shading a street today exists because someone, years ago, decided that a benefit they would never fully enjoy was still worth planting for.\n\nThe sentence 'It is arithmetic' is notable for its brevity, which serves to",
+   "correctAnswer": "present the cooling effect as a settled, calculable fact rather than a matter of opinion",
+   "distractors": [
+    "withhold the explanation so that the reader stays curious",
+    "introduce a formula that the reader is expected to solve",
+    "signal that the author is joking about the temperature difference"
+   ],
+   "explanation": "The sentence answers the line before it: the temperature gap is 'not a mystery of weather. It is arithmetic.' The blunt, three-word stop presents the effect as something that can simply be computed, closing off debate before the mechanism (transpiration and shade) is explained.",
+   "memoryHook": "T-Rexy says: A very short sentence in an argument usually lands a punch.",
+   "imageUrl": "topic:urban-trees",
+   "tags": [
+    "passage analysis",
+    "style"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_086",
+   "question": "What is asyndeton?",
+   "correctAnswer": "Omitting conjunctions between words or clauses",
+   "distractors": [
+    "Adding extra conjunctions",
+    "Repeating a word",
+    "Using a metaphor"
+   ],
+   "explanation": "Asyndeton speeds up a sentence and creates punch, as in 'I came, I saw, I conquered.'",
+   "memoryHook": "T-Rexy says: Drop the 'and' and the pace quickens.",
+   "imageUrl": "topic:asyndeton",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_087",
+   "question": "What is polysyndeton?",
+   "correctAnswer": "Using many conjunctions between words or clauses",
+   "distractors": [
+    "Omitting conjunctions",
+    "Repeating a phrase",
+    "Using short sentences"
+   ],
+   "explanation": "Polysyndeton slows a sentence and adds weight to each item.",
+   "memoryHook": "T-Rexy says: Add the 'ands' and every item gains weight.",
+   "imageUrl": "topic:polysyndeton",
+   "tags": [
+    "rhetoric",
+    "devices"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_088",
+   "question": "Read the following passage.\n\nWhen Lincoln Middle School turned the cracked asphalt lot behind its gym into a garden, few people expected much. The soil was thin, the budget was thinner, and the first planting, a row of tomato seedlings, was flattened by a late storm. Yet by October, the same students who had grumbled about digging for a grade were arriving early to check on the peppers. The garden works because it makes learning visible. A seed does not care about a report card; it responds to water, light, and patience, and it shows the results without argument. In science class, photosynthesis stops being a diagram and becomes the reason the beans climbed the fence. In math, a harvest is weighed, graphed, and argued over. Critics call the garden a distraction from test preparation. They should spend one morning pulling weeds beside a seventh grader who is explaining, unprompted, why the shaded row grew taller. Some lessons refuse to stay inside a classroom.\n\nIn the sentence 'A seed does not care about a report card; it responds to water, light, and patience, and it shows the results without argument,' the author is primarily",
+   "correctAnswer": "contrasting the garden's honest, visible feedback with the indirect feedback of grades",
+   "distractors": [
+    "listing the supplies students must bring to work in the garden",
+    "admitting that the garden failed to teach students anything measurable",
+    "introducing the story of the storm that flattened the first planting"
+   ],
+   "explanation": "The sentence personifies the seed as a judge that cannot be argued with: give it water, light, and patience and the result shows itself. Set against 'a report card,' that direct feedback is the author's evidence for the claim that the garden makes learning visible.",
+   "memoryHook": "T-Rexy says: When a sentence compares two things, its job is the comparison.",
+   "imageUrl": "topic:school-garden",
+   "tags": [
+    "passage analysis",
+    "style"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_089",
+   "question": "Read the following passage.\n\nA century ago, a public library was a bold promise: that a mill worker's daughter could read the same books as a banker's son, free of charge. Steel magnate Andrew Carnegie funded more than 2,500 library buildings around the world, but the buildings alone did not keep the promise. The librarians did. They ordered books in Polish, Italian, and Yiddish for immigrant neighborhoods. They kept the doors open late so working readers could come after their shifts. During the Great Depression, when many towns cut services, librarians stretched budgets, mended spines, and turned reading rooms into informal job centers where the unemployed could read newspapers without buying them. The promise survives today in altered form. Branches now lend internet access, host citizenship classes, and loan tools and seeds alongside novels. The shelves have changed. The idea has not. A library belongs to everyone who walks through its doors, and its value cannot be measured by what it charges, because it charges nothing.\n\nThe author mentions books ordered 'in Polish, Italian, and Yiddish' and doors kept open late primarily in order to",
+   "correctAnswer": "show that librarians shaped the library around the needs of the people it served",
+   "distractors": [
+    "suggest that Carnegie's buildings were built in the wrong neighborhoods",
+    "explain why immigrant families valued education",
+    "argue that libraries needed larger budgets during the Depression"
+   ],
+   "explanation": "Both details are decisions librarians made to fit their readers: books in the languages immigrants actually spoke, and hours that working people could actually use. Together they support the passage's point that librarians, not buildings, kept the library's promise.",
+   "memoryHook": "T-Rexy says: Ask what the details have in common, not just what they say.",
+   "imageUrl": "topic:public-library",
+   "tags": [
+    "passage analysis",
+    "rhetorical choices"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_090",
+   "question": "The passage below is a student's draft essay about school start times, with its sentences numbered.\n\n(1) Many high schools begin classes before 8 a.m., and many teenagers are tired in their first classes. (2) Research on sleep shows that the body clocks of teenagers shift later during puberty, so falling asleep early is biologically difficult for them. (3) It is a problem that affects their grades. (4) Some schools that moved start times later reported better attendance and higher participation in morning classes. (5) Students also got into fewer car accidents in the morning. (6) Opponents say later starts would disrupt bus schedules and sports practices. (7) These concerns are real, but districts that made the change have found solutions, such as adjusting bus routes. (8) The change asks a school to rearrange its morning, not to rebuild it. (9) Schools should start later because students cannot learn well when they are exhausted.\n\nWhich of the following is the most effective combination of sentences 4 and 5?",
+   "correctAnswer": "Schools that moved start times later reported better attendance and higher participation in morning classes, and their students got into fewer car accidents in the morning.",
+   "distractors": [
+    "Some schools that moved start times later reported better attendance and higher participation in morning classes, students also got into fewer car accidents in the morning.",
+    "Reporting better attendance and higher participation in morning classes, fewer car accidents in the morning were gotten into by students of schools that moved start times later.",
+    "Some schools that moved start times later. They reported better attendance and higher participation in morning classes and fewer car accidents in the morning by their students."
+   ],
+   "explanation": "The effective combination keeps both reported benefits in one grammatical sentence with a clear subject. The first alternative is a comma splice, the second tangles the ideas into an awkward passive, and the third breaks the thought into a fragment followed by a choppy sentence, so none of them improves on the original pair.",
+   "memoryHook": "T-Rexy says: Combining sentences should remove seams, not add bumps.",
+   "imageUrl": "topic:school-start-times",
+   "tags": [
+    "writing",
+    "grammar in context"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_091",
+   "question": "Read the following passage.\n\nA century ago, a public library was a bold promise: that a mill worker's daughter could read the same books as a banker's son, free of charge. Steel magnate Andrew Carnegie funded more than 2,500 library buildings around the world, but the buildings alone did not keep the promise. The librarians did. They ordered books in Polish, Italian, and Yiddish for immigrant neighborhoods. They kept the doors open late so working readers could come after their shifts. During the Great Depression, when many towns cut services, librarians stretched budgets, mended spines, and turned reading rooms into informal job centers where the unemployed could read newspapers without buying them. The promise survives today in altered form. Branches now lend internet access, host citizenship classes, and loan tools and seeds alongside novels. The shelves have changed. The idea has not. A library belongs to everyone who walks through its doors, and its value cannot be measured by what it charges, because it charges nothing.\n\nThe contrast in the final paragraph, 'The shelves have changed. The idea has not,' serves mainly to",
+   "correctAnswer": "emphasize that the library's mission has remained constant while its services have evolved",
+   "distractors": [
+    "suggest that modern libraries have betrayed their original purpose",
+    "object to branches lending tools and seeds instead of books",
+    "predict that printed books will soon disappear from libraries"
+   ],
+   "explanation": "The changed 'shelves' are the new services just listed (internet access, classes, tools, seeds); the unchanged 'idea' is the sentence that follows: a library belongs to everyone and charges nothing. The contrast reassures the reader that change in form is not loss of mission.",
+   "memoryHook": "T-Rexy says: In a contrast, decide which side the author is cheering for.",
+   "imageUrl": "topic:public-library",
+   "tags": [
+    "passage analysis",
+    "reasoning and organization"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_092",
+   "question": "The passage below is a student's draft essay about school start times, with its sentences numbered.\n\n(1) Many high schools begin classes before 8 a.m., and many teenagers are tired in their first classes. (2) Research on sleep shows that the body clocks of teenagers shift later during puberty, so falling asleep early is biologically difficult for them. (3) It is a problem that affects their grades. (4) Some schools that moved start times later reported better attendance and higher participation in morning classes. (5) Students also got into fewer car accidents in the morning. (6) Opponents say later starts would disrupt bus schedules and sports practices. (7) These concerns are real, but districts that made the change have found solutions, such as adjusting bus routes. (8) The change asks a school to rearrange its morning, not to rebuild it. (9) Schools should start later because students cannot learn well when they are exhausted.\n\nThe writer is considering adding the following sentence to the draft: 'In one district, average first-period grades rose noticeably after the start time moved from 7:30 to 8:45.' Where would this sentence most effectively be placed?",
+   "correctAnswer": "After sentence 5, alongside the other reported benefits of later start times",
+   "distractors": [
+    "Before sentence 1, as an attention-getting opening",
+    "After sentence 6, as a reply to the opponents' concerns about buses and sports",
+    "After sentence 9, as an additional conclusion"
+   ],
+   "explanation": "The new sentence is evidence of a benefit, and sentences 4 and 5 already list reported benefits (attendance, participation, accidents), so the grade data belongs with them. It answers nothing about bus schedules or sports, and evidence placed after the conclusion in sentence 9 would arrive after the argument has closed.",
+   "memoryHook": "T-Rexy says: New evidence moves in with the evidence already on the page.",
+   "imageUrl": "topic:school-start-times",
+   "tags": [
+    "writing",
+    "reasoning and organization"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_093",
+   "question": "What is the difference between a rhetorical device and a rhetorical strategy?",
+   "correctAnswer": "A device is a specific technique; a strategy is the overall plan for achieving a purpose",
+   "distractors": [
+    "They are the same thing",
+    "Devices are for speeches; strategies are for essays",
+    "Strategies are always fallacies"
+   ],
+   "explanation": "Devices serve strategies: a writer chooses devices to carry out a larger plan.",
+   "memoryHook": "T-Rexy says: Devices are tools; strategy is the plan.",
+   "imageUrl": "topic:device-vs-strategy",
+   "tags": [
+    "rhetoric"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_094",
+   "question": "What is the difference between the rhetorical triangle and the rhetorical situation?",
+   "correctAnswer": "The triangle names speaker, audience, and subject; the situation adds context, purpose, and exigence",
+   "distractors": [
+    "They are identical",
+    "The triangle is for essays only",
+    "The situation ignores the audience"
+   ],
+   "explanation": "The situation is the fuller picture: the triangle plus the circumstances that call for the text.",
+   "memoryHook": "T-Rexy says: Triangle plus context equals situation.",
+   "imageUrl": "topic:triangle-vs-situation",
+   "tags": [
+    "rhetoric"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_095",
+   "question": "Read the following passage.\n\nEditor, our town council keeps postponing its vote on the community pool, and the delay makes no sense. Last Saturday I spent one afternoon at the pool in neighboring Fairview, and the place was packed. Families picnicked on the grass. Teenagers who might otherwise have been staring at phones were teaching younger children to swim. One afternoon was all the evidence anyone should need: give people a pool and they will use it, gladly and together. Why should Riverton families have to drive twenty minutes for what Fairview residents enjoy in their own town? Our council members say a pool is too expensive, yet they found money last year for new office furniture. A town is judged by what it builds for everyone, not by what it buys for itself. The council should stop studying the question and vote to build the pool this year.\n\nThe writer's argument is most vulnerable to criticism on the grounds that it",
+   "correctAnswer": "generalizes from a single afternoon in one town to what the people of another town will do",
+   "distractors": [
+    "offers no evidence whatsoever in support of its claim",
+    "attacks the council members' intelligence rather than their position",
+    "depends entirely on the writer's credentials as an expert"
+   ],
+   "explanation": "The writer announces the weakness directly: 'One afternoon was all the evidence anyone should need.' A single crowded Saturday in Fairview becomes a prediction about all of Riverton, which is a hasty generalization. The argument does offer evidence (the visit, the furniture comparison), so 'no evidence' is inaccurate, and the writer claims no expertise at all.",
+   "memoryHook": "T-Rexy says: One example can illustrate a claim, but it cannot carry it.",
+   "imageUrl": "topic:community-pool",
+   "tags": [
+    "passage analysis",
+    "reasoning and organization"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_096",
+   "question": "Read the following passage.\n\nWhen Lincoln Middle School turned the cracked asphalt lot behind its gym into a garden, few people expected much. The soil was thin, the budget was thinner, and the first planting, a row of tomato seedlings, was flattened by a late storm. Yet by October, the same students who had grumbled about digging for a grade were arriving early to check on the peppers. The garden works because it makes learning visible. A seed does not care about a report card; it responds to water, light, and patience, and it shows the results without argument. In science class, photosynthesis stops being a diagram and becomes the reason the beans climbed the fence. In math, a harvest is weighed, graphed, and argued over. Critics call the garden a distraction from test preparation. They should spend one morning pulling weeds beside a seventh grader who is explaining, unprompted, why the shaded row grew taller. Some lessons refuse to stay inside a classroom.\n\nWhich detail from the passage best supports the author's claim that the garden 'makes learning visible'?",
+   "correctAnswer": "Photosynthesis stops being a diagram and becomes the reason the beans climbed the fence",
+   "distractors": [
+    "The first planting of tomato seedlings was flattened by a late storm",
+    "The school's budget for the garden was very thin",
+    "Critics call the garden a distraction from test preparation"
+   ],
+   "explanation": "The claim is that abstract lessons become concrete in the garden. Photosynthesis turning from a textbook diagram into the visible reason beans climbed a fence is exactly that: a concept students can now see. The storm and the budget are background, and the critics' line states the opposing view, not support.",
+   "memoryHook": "T-Rexy says: Match the evidence to the exact words of the claim.",
+   "imageUrl": "topic:school-garden",
+   "tags": [
+    "passage analysis",
+    "claims and evidence"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_097",
+   "question": "What is the difference between primary and secondary sources in synthesis?",
+   "correctAnswer": "Primary sources are original materials; secondary sources analyze or discuss them",
+   "distractors": [
+    "Primary sources are always better",
+    "Secondary sources are always unreliable",
+    "There is no difference"
+   ],
+   "explanation": "A speech is a primary source; an article about the speech is secondary.",
+   "memoryHook": "T-Rexy says: Original versus about the original.",
+   "imageUrl": "topic:primary-secondary",
+   "tags": [
+    "exam",
+    "writing"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_098",
+   "question": "What is the role of a counterargument in a synthesis essay?",
+   "correctAnswer": "To acknowledge an opposing view and show why the writer's position still holds",
+   "distractors": [
+    "To take up space",
+    "To replace the writer's claim",
+    "To summarize a source"
+   ],
+   "explanation": "A synthesis essay that answers objections is more persuasive than one that ignores them.",
+   "memoryHook": "T-Rexy says: Answer the other side, even in synthesis.",
+   "imageUrl": "topic:synthesis-counterargument",
+   "tags": [
+    "exam",
+    "writing"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_099",
+   "question": "The passage below is a student's draft essay about school start times, with its sentences numbered.\n\n(1) Many high schools begin classes before 8 a.m., and many teenagers are tired in their first classes. (2) Research on sleep shows that the body clocks of teenagers shift later during puberty, so falling asleep early is biologically difficult for them. (3) It is a problem that affects their grades. (4) Some schools that moved start times later reported better attendance and higher participation in morning classes. (5) Students also got into fewer car accidents in the morning. (6) Opponents say later starts would disrupt bus schedules and sports practices. (7) These concerns are real, but districts that made the change have found solutions, such as adjusting bus routes. (8) The change asks a school to rearrange its morning, not to rebuild it. (9) Schools should start later because students cannot learn well when they are exhausted.\n\nThe writer wants to revise the beginning of sentence 7 so that the relationship between the opponents' objection and the writer's response is clearer. Which revision best achieves this?",
+   "correctAnswer": "Although these concerns are real, districts that made the change have found solutions, such as adjusting bus routes.",
+   "distractors": [
+    "Because these concerns are real, districts that made the change have found solutions, such as adjusting bus routes.",
+    "These concerns are real, and districts that made the change have found solutions, such as adjusting bus routes.",
+    "These concerns are real. Districts that made the change have found solutions, such as adjusting bus routes."
+   ],
+   "explanation": "Sentence 7 concedes the objection and then answers it, and 'Although' names exactly that concession-then-response relationship. 'Because' would wrongly make the concerns the cause of the solutions, 'and' flattens the contrast into a simple addition, and splitting the sentence with a period deletes the connection the writer wants to clarify.",
+   "memoryHook": "T-Rexy says: Pick the transition that names the relationship, not just the next idea.",
+   "imageUrl": "topic:school-start-times",
+   "tags": [
+    "writing",
+    "style in context"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "ELAN_100",
+   "question": "A passage uses short, punchy sentences, repetition, and direct address to urge action. Which rhetorical strategy best describes this?",
+   "correctAnswer": "A call to action built on urgency and direct engagement",
+   "distractors": [
+    "A detached, academic analysis",
+    "A neutral summary of facts",
+    "A fictional narrative"
+   ],
+   "explanation": "The combination of short sentences, repetition, and 'you' language is designed to move readers to act.",
+   "memoryHook": "T-Rexy says: Short sentences plus 'you' equals urgency.",
+   "imageUrl": "topic:call-to-action",
+   "tags": [
+    "rhetoric",
+    "analysis"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  }
+ ]
+}

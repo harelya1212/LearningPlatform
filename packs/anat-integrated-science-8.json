@@ -1,0 +1,2017 @@
+{
+  "addedAt": "2026-11-03",
+  "description": "Integrated Science prep for 8th grade - life, earth, physical science",
+  "language": "en",
+  "packId": "anat-integrated-science-8",
+  "passingScore": 70,
+  "questions": [
+    {
+      "correctAnswer": "The cell",
+      "difficulty": "easy",
+      "distractors": [
+        "The atom",
+        "The tissue",
+        "The organ"
+      ],
+      "dynamic": false,
+      "explanation": "The cell is the smallest unit that can carry out all life processes. Atoms are smaller but are not alive, and tissues and organs are made of many cells.",
+      "id": "ASCI8_001",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: every dino, from the tiniest to the T-Rex, is built from cells - life's LEGO bricks!",
+      "question": "Which statement best describes the basic unit of life?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Cell membrane",
+      "difficulty": "easy",
+      "distractors": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria"
+      ],
+      "dynamic": false,
+      "explanation": "The cell membrane is a selective barrier that controls which substances pass in and out, keeping the cell's interior stable.",
+      "id": "ASCI8_002",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: the membrane is the bouncer at the dino club - it decides who gets in and who stays out!",
+      "question": "Which cell structure best controls what enters and leaves the cell?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Mitochondria",
+      "difficulty": "easy",
+      "distractors": [
+        "Nucleus",
+        "Chloroplast",
+        "Vacuole"
+      ],
+      "dynamic": false,
+      "explanation": "Mitochondria break down food molecules to release energy in a usable form, so they are called the powerhouses of the cell.",
+      "id": "ASCI8_003",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: mitochondria are the dino's snack-powered batteries - munch food, make energy!",
+      "question": "Which organelle is best described as the energy producer of the cell?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Chloroplast",
+      "difficulty": "easy",
+      "distractors": [
+        "Mitochondria",
+        "Nucleus",
+        "Cell membrane"
+      ],
+      "dynamic": false,
+      "explanation": "Chloroplasts capture sunlight for photosynthesis. Animal cells do not photosynthesize, so they lack chloroplasts (mitochondria, nuclei, and membranes are in both).",
+      "id": "ASCI8_004",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: plants are solar-powered dinos - their chloroplasts are tiny green solar panels!",
+      "question": "Which organelle is found in plant cells but not in animal cells?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Nucleus",
+      "difficulty": "easy",
+      "distractors": [
+        "Cytoplasm",
+        "Cell wall",
+        "Lysosome"
+      ],
+      "dynamic": false,
+      "explanation": "The nucleus stores DNA, the instructions for the cell. It acts as the control center directing all cell activities.",
+      "id": "ASCI8_005",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: the nucleus is the dino's brain-in-a-bubble - it keeps the DNA instruction manual safe!",
+      "question": "In which part of the cell is the genetic material held?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Tissue",
+      "difficulty": "easy",
+      "distractors": [
+        "Organ",
+        "Organism",
+        "Organ system"
+      ],
+      "dynamic": false,
+      "explanation": "Tissues are groups of similar cells doing the same job, like muscle tissue. Many tissues form an organ, and organs form organ systems.",
+      "id": "ASCI8_006",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: cells form a tissue team, tissues build an organ, organs join the system squad!",
+      "question": "A group of similar cells working together is best described as a:",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Ribosome",
+      "difficulty": "medium",
+      "distractors": [
+        "Vacuole",
+        "Chloroplast",
+        "Cell wall"
+      ],
+      "dynamic": false,
+      "explanation": "Ribosomes read genetic instructions and link amino acids into proteins, which do most of the cell's work.",
+      "id": "ASCI8_007",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: ribosomes are tiny dino chefs - they follow the recipe and cook up proteins!",
+      "question": "Which organelle is responsible for building proteins in the cell?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Cytoplasm",
+      "difficulty": "medium",
+      "distractors": [
+        "Chlorophyll",
+        "Plasma",
+        "Enzyme"
+      ],
+      "dynamic": false,
+      "explanation": "Cytoplasm is the thick fluid inside the cell where organelles sit and where many chemical reactions happen.",
+      "id": "ASCI8_008",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: cytoplasm is the dino's swimming pool - all the organelles float around in it!",
+      "question": "What is the jelly-like substance that fills the cell and holds the organelles in place?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Cell wall",
+      "difficulty": "medium",
+      "distractors": [
+        "Cell membrane",
+        "Cytoskeleton",
+        "Nuclear envelope"
+      ],
+      "dynamic": false,
+      "explanation": "The stiff cell wall outside the membrane supports the plant cell and helps plants stand upright without bones.",
+      "id": "ASCI8_009",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: the cell wall is the plant's suit of armor - stiff, strong, and holding everything up!",
+      "question": "Which structure best gives plant cells their rigid shape and support?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Lysosome",
+      "difficulty": "medium",
+      "distractors": [
+        "Ribosome",
+        "Vacuole",
+        "Nucleolus"
+      ],
+      "dynamic": false,
+      "explanation": "Lysosomes contain digestive enzymes that break down waste, invaders, and old organelles for recycling.",
+      "id": "ASCI8_010",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: lysosomes are the dino cleanup crew - they munch trash and recycle the leftovers!",
+      "question": "Which organelle is responsible for breaking down waste and worn-out cell parts?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Golgi apparatus",
+      "difficulty": "medium",
+      "distractors": [
+        "Endoplasmic reticulum",
+        "Mitochondria",
+        "Centriole"
+      ],
+      "dynamic": false,
+      "explanation": "The Golgi apparatus receives proteins, folds and labels them, then sends them off in vesicles like a post office.",
+      "id": "ASCI8_011",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: the Golgi is the dino post office - it wraps proteins in packages and ships them out!",
+      "question": "Which organelle packages proteins and ships them to their destinations?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Central vacuole",
+      "difficulty": "medium",
+      "distractors": [
+        "Nucleus",
+        "Lysosome",
+        "Ribosome"
+      ],
+      "dynamic": false,
+      "explanation": "The large central vacuole holds water and pushes against the cell wall, keeping the plant firm. When it loses water, the plant wilts.",
+      "id": "ASCI8_012",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: the vacuole is the plant's water balloon - full balloon means a perky plant, flat balloon means a sad wilt!",
+      "question": "In plant cells, which large organelle stores water and keeps the cell firm?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "First quarter",
+      "difficulty": "medium",
+      "distractors": [
+        "Full moon",
+        "Last quarter",
+        "New moon"
+      ],
+      "dynamic": false,
+      "explanation": "At first quarter, the Moon has completed one quarter of its orbit around Earth, and from Earth we see exactly half of the sunlit side - the right half lit as seen from the Northern Hemisphere. A full moon is fully lit, a new moon appears dark, and at last quarter the left half is lit instead.",
+      "id": "ASCI8_013",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: first quarter, right side bright - the Moon is filling up like a dino's dinner plate!",
+      "question": "An observer on Earth sees the Moon with its right half brightly lit and its left half dark. Which phase is this?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Astronomy"
+      ]
+    },
+    {
+      "correctAnswer": "Unicellular",
+      "difficulty": "medium",
+      "distractors": [
+        "Multicellular",
+        "Acellular",
+        "Colonial"
+      ],
+      "dynamic": false,
+      "explanation": "An amoeba is a single cell that carries out all life functions on its own, making it unicellular.",
+      "id": "ASCI8_014",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: the amoeba is a one-dino show - a single cell doing every job all by itself!",
+      "question": "An amoeba is observed under a microscope as a single cell. It is best classified as what kind of organism?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Plant cells have both chloroplasts and mitochondria",
+      "difficulty": "hard",
+      "distractors": [
+        "Plant cells have no mitochondria",
+        "Animal cells have chloroplasts",
+        "Only animal cells use energy"
+      ],
+      "dynamic": false,
+      "explanation": "Plants need chloroplasts to capture sunlight AND mitochondria to release energy from food. Animals skip photosynthesis, so they only need mitochondria.",
+      "id": "ASCI8_015",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: plants double-dip on energy - solar panels AND batteries, while animals just bring batteries!",
+      "question": "Plant cells get energy from both photosynthesis and cellular respiration, while animal cells use only cellular respiration. What is the best conclusion from this observation?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Wave A carries more energy, because a wave's energy increases as its amplitude increases",
+      "difficulty": "hard",
+      "distractors": [
+        "Wave B carries more energy, because its smaller amplitude lets it travel faster",
+        "Both waves carry the same energy, because their frequencies are equal",
+        "Wave A carries less energy, because energy is used up making the wave taller"
+      ],
+      "dynamic": false,
+      "explanation": "For a wave, energy grows with amplitude: pushing the medium farther from its rest position takes more work, and that extra energy is what the wave carries. With equal frequencies, the wave with twice the amplitude (Wave A) delivers more energy - which is why a loud sound with a large amplitude can rattle a window while a quiet one cannot.",
+      "id": "ASCI8_016",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: taller wave, bigger energy - amplitude is the wave's muscle!",
+      "question": "Two waves travel through the same medium with the same frequency. Wave A has twice the amplitude of Wave B. Which statement is correct?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Waves"
+      ]
+    },
+    {
+      "correctAnswer": "Its surface area would be too small to supply the large volume inside",
+      "difficulty": "hard",
+      "distractors": [
+        "Cell walls are too weak",
+        "DNA cannot stretch that far",
+        "Water would freeze inside"
+      ],
+      "dynamic": false,
+      "explanation": "As a cell grows, volume grows faster than surface area. A giant cell could not move materials in and out fast enough through its relatively small surface.",
+      "id": "ASCI8_017",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: a cell is like a dino drive-through - if the restaurant gets huge but the window stays tiny, nobody gets fed!",
+      "question": "Based on the relationship between surface area and volume, why can't a single cell grow as large as a basketball?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Chloroplasts capture energy; mitochondria release energy",
+      "difficulty": "hard",
+      "distractors": [
+        "Chloroplasts make proteins; mitochondria make DNA",
+        "Mitochondria capture energy; chloroplasts release energy",
+        "Both do exactly the same job"
+      ],
+      "dynamic": false,
+      "explanation": "Chloroplasts trap light energy to build food (photosynthesis). Mitochondria break food down to release usable energy (cellular respiration).",
+      "id": "ASCI8_018",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: chloroplasts are the farmers growing food, mitochondria are the kitchens cooking it into energy!",
+      "question": "How do the jobs of chloroplasts and mitochondria differ?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "The DNA must be copied",
+      "difficulty": "hard",
+      "distractors": [
+        "The cell membrane dissolves",
+        "The nucleus leaves the cell",
+        "All proteins are destroyed"
+      ],
+      "dynamic": false,
+      "explanation": "During interphase the cell grows and copies its DNA, so each daughter cell will get a complete set of genetic instructions.",
+      "id": "ASCI8_019",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: before the dino splits into two, it photocopies the instruction manual - no copy, no split!",
+      "question": "Before a cell divides by mitosis, what must happen during interphase?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "It allows some substances through but blocks others",
+      "difficulty": "hard",
+      "distractors": [
+        "It lets everything pass freely",
+        "It blocks everything completely",
+        "It dissolves in water"
+      ],
+      "dynamic": false,
+      "explanation": "Selectively permeable means the membrane chooses: nutrients and needed materials pass in, while harmful or unneeded substances are kept out.",
+      "id": "ASCI8_020",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: the membrane is a picky dino bouncer with a VIP list - some molecules get in, the rest wait outside!",
+      "question": "The cell membrane is described as selectively permeable. What does that mean?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Cells"
+      ]
+    },
+    {
+      "correctAnswer": "Double helix",
+      "difficulty": "easy",
+      "distractors": [
+        "Single strand",
+        "Triple coil",
+        "Flat sheet"
+      ],
+      "dynamic": false,
+      "explanation": "DNA looks like a twisted ladder, called a double helix. The rungs are pairs of bases and the sides are sugar and phosphate.",
+      "id": "ASCI8_021",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: DNA is a twisted dino ladder - climb up and read the rungs to find the traits!",
+      "question": "Which statement best describes the shape of a DNA molecule?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "A gene",
+      "difficulty": "easy",
+      "distractors": [
+        "A ribosome",
+        "A protein",
+        "A lipid"
+      ],
+      "dynamic": false,
+      "explanation": "A gene works because its sequence of DNA bases is read as instructions for building a specific protein, and that protein helps produce the trait - a gene for eye pigment, for example, helps decide eye color.",
+      "id": "ASCI8_022",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: a gene is one recipe card in the giant dino cookbook of DNA!",
+      "question": "A section of DNA that codes for one trait is best defined as:",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Heredity",
+      "difficulty": "easy",
+      "distractors": [
+        "Mitosis",
+        "Photosynthesis",
+        "Diffusion"
+      ],
+      "dynamic": false,
+      "explanation": "Heredity works through genes on chromosomes: each parent contributes one allele for each gene, so offspring receive a shuffled combination of both parents' traits - which is why children resemble both parents but match neither exactly.",
+      "id": "ASCI8_023",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: heredity is why baby dinos look like their dino parents - traits get handed down!",
+      "question": "The passing of traits from parents to offspring is called:",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Dominant",
+      "difficulty": "easy",
+      "distractors": [
+        "Recessive",
+        "Mutated",
+        "Silent"
+      ],
+      "dynamic": false,
+      "explanation": "A dominant allele shows its trait even when only one copy is present, masking the recessive allele.",
+      "id": "ASCI8_024",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: the dominant allele is the loud dino - it shouts its trait even with just one copy!",
+      "question": "A trait that appears when only one copy of the allele is present is best described as:",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Two copies of the recessive allele",
+      "difficulty": "easy",
+      "distractors": [
+        "One dominant allele",
+        "No alleles at all",
+        "Two dominant alleles"
+      ],
+      "dynamic": false,
+      "explanation": "A recessive trait is hidden by a dominant allele, so it only shows when the organism has two recessive copies.",
+      "id": "ASCI8_025",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: recessive traits are shy dinos - they only come out when the loud dominant one is gone!",
+      "question": "For a recessive trait to appear, what must an organism have?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "A Punnett square",
+      "difficulty": "easy",
+      "distractors": [
+        "A food web",
+        "A periodic table",
+        "A bar graph"
+      ],
+      "dynamic": false,
+      "explanation": "A Punnett square is a grid that shows the possible allele combinations offspring can inherit from two parents.",
+      "id": "ASCI8_026",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: a Punnett square is the dino's crystal ball for predicting baby traits!",
+      "question": "Which tool is used to predict the possible traits of offspring from two parents?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Genotype is the alleles; phenotype is the visible trait",
+      "difficulty": "medium",
+      "distractors": [
+        "Genotype is visible; phenotype is hidden",
+        "They mean exactly the same thing",
+        "Genotype is in RNA; phenotype is in DNA"
+      ],
+      "dynamic": false,
+      "explanation": "Genotype is the pair of alleles an organism carries (like Tt), while phenotype is the trait you actually see (like tall).",
+      "id": "ASCI8_027",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: genotype is the secret dino recipe, phenotype is the dish you see on the table!",
+      "question": "How do genotype and phenotype differ?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Homozygous has two identical alleles; heterozygous has two different alleles",
+      "difficulty": "medium",
+      "distractors": [
+        "Homozygous is dominant; heterozygous is recessive",
+        "They are the same",
+        "Homozygous means no alleles"
+      ],
+      "dynamic": false,
+      "explanation": "Homozygous (TT or tt) means both copies match. Heterozygous (Tt) means the copies differ.",
+      "id": "ASCI8_028",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: homozygous is twin dinos in matching outfits, heterozygous is twins in different outfits!",
+      "question": "How do homozygous and heterozygous genotypes differ?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "50 percent",
+      "difficulty": "medium",
+      "distractors": [
+        "100 percent",
+        "25 percent",
+        "0 percent"
+      ],
+      "dynamic": false,
+      "explanation": "In a Tt x tt cross, half the boxes of the Punnett square are Tt (tall) and half are tt (short), so each offspring has a 50 percent chance of being tall.",
+      "id": "ASCI8_029",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: flipping a dino coin - heads or tails, each baby has a fifty-fifty shot at tall!",
+      "question": "In pea plants, tall (T) is dominant over short (t). If a Tt plant crosses with a tt plant, what is the most likely chance of a tall offspring?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "A change in the DNA sequence",
+      "difficulty": "medium",
+      "distractors": [
+        "A change in diet",
+        "A broken bone",
+        "A learned behavior"
+      ],
+      "dynamic": false,
+      "explanation": "A mutation is any change in the DNA code. Some are harmless, some cause disease, and a few create helpful new traits.",
+      "id": "ASCI8_030",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: a mutation is a typo in the dino instruction manual - sometimes harmless, sometimes a superpower!",
+      "question": "Which statement best defines a mutation?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Gravity",
+      "difficulty": "medium",
+      "distractors": [
+        "Magnetism",
+        "Friction",
+        "Electric force"
+      ],
+      "dynamic": false,
+      "explanation": "Gravity is an attractive force between objects that have mass. Earth's gravity constantly pulls the Moon toward Earth, bending its path into an orbit, and the Sun's gravity does the same for all the planets. The Sun's huge mass is why it sits at the center of the solar system with the planets circling it.",
+      "id": "ASCI8_031",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: gravity is the universe's invisible leash - it keeps every planet walking in a circle around the Sun!",
+      "question": "Which force keeps the Moon in orbit around Earth and the planets in orbit around the Sun?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Astronomy"
+      ]
+    },
+    {
+      "correctAnswer": "X and Y",
+      "difficulty": "medium",
+      "distractors": [
+        "A and B",
+        "M and N",
+        "P and Q"
+      ],
+      "dynamic": false,
+      "explanation": "Females have two X chromosomes; males have one X and one Y. The father's sperm decides the child's sex.",
+      "id": "ASCI8_032",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: XX means a girl dino, XY means a boy dino - dad's chromosome picks the team!",
+      "question": "Which chromosomes determine biological sex in humans?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Asexual reproduction",
+      "difficulty": "medium",
+      "distractors": [
+        "Sexual reproduction",
+        "Meiosis",
+        "Fertilization"
+      ],
+      "dynamic": false,
+      "explanation": "Asexual reproduction uses one parent and mitosis, so offspring are genetically identical clones.",
+      "id": "ASCI8_033",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: asexual reproduction is the dino photocopier - one parent, exact copies, no mixing!",
+      "question": "A starfish regrows from a single arm into a whole new starfish identical to the parent. Which type of reproduction does this best describe?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Sexual reproduction",
+      "difficulty": "medium",
+      "distractors": [
+        "Binary fission",
+        "Budding",
+        "Cloning"
+      ],
+      "dynamic": false,
+      "explanation": "Sexual reproduction mixes genes from two parents through meiosis and fertilization, creating unique offspring.",
+      "id": "ASCI8_034",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: sexual reproduction shuffles the dino deck - every baby gets a brand-new hand of genes!",
+      "question": "Which type of reproduction creates offspring with genetic variation from two parents?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "A-T and C-G",
+      "difficulty": "hard",
+      "distractors": [
+        "A-C and T-G",
+        "A-G and C-T",
+        "All bases pair randomly"
+      ],
+      "dynamic": false,
+      "explanation": "In DNA, adenine always pairs with thymine and cytosine always pairs with guanine, held by hydrogen bonds.",
+      "id": "ASCI8_035",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: A hugs T, C hugs G - the dino base-pair dance partners never switch!",
+      "question": "Which base pairing is correct in DNA?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Mitosis makes 2 identical cells; meiosis makes 4 different gametes",
+      "difficulty": "hard",
+      "distractors": [
+        "Mitosis makes 4 cells; meiosis makes 2",
+        "They produce the same result",
+        "Meiosis happens in skin cells"
+      ],
+      "dynamic": false,
+      "explanation": "Mitosis copies a cell exactly for growth and repair. Meiosis halves the chromosomes to make gametes with new gene combinations.",
+      "id": "ASCI8_036",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: mitosis is the copy machine for body cells, meiosis is the shuffle machine for baby-making cells!",
+      "question": "What is the main difference between mitosis and meiosis?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Crossing over during meiosis shuffles genes",
+      "difficulty": "hard",
+      "distractors": [
+        "Siblings get different food",
+        "Mutations never happen",
+        "Mitosis creates variation"
+      ],
+      "dynamic": false,
+      "explanation": "During meiosis, chromosomes swap pieces (crossing over) and line up randomly, so each gamete - and each sibling - gets a unique gene mix.",
+      "id": "ASCI8_037",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: meiosis shuffles the gene deck and deals a fresh hand to every dino sibling!",
+      "question": "Based on genetic variation, why do siblings from the same parents look different from each other?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Pink",
+      "difficulty": "hard",
+      "distractors": [
+        "Red",
+        "White",
+        "Purple"
+      ],
+      "dynamic": false,
+      "explanation": "In incomplete dominance neither allele fully wins, so the heterozygous offspring show a blended intermediate trait - pink.",
+      "id": "ASCI8_038",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: red plus white paint makes pink - incomplete dominance blends the dino colors!",
+      "question": "In snapdragons, red (R) and white (W) show incomplete dominance. What color are RW offspring most likely to be?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "25 percent",
+      "difficulty": "hard",
+      "distractors": [
+        "50 percent",
+        "75 percent",
+        "100 percent"
+      ],
+      "dynamic": false,
+      "explanation": "A Tt x Tt Punnett square has four boxes: TT, Tt, Tt, tt. Only one box (tt) shows the recessive short trait, so 1 out of 4 is 25 percent.",
+      "id": "ASCI8_039",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: one lucky box out of four - the short dino hides until both recessive alleles team up!",
+      "question": "Two heterozygous tall pea plants (Tt x Tt) cross. What percent of offspring will most likely be short (tt)?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Mutations, crossing over, and random fertilization",
+      "difficulty": "hard",
+      "distractors": [
+        "Mitosis, diffusion, and osmosis",
+        "Eating, sleeping, and growing",
+        "Sunlight, water, and soil"
+      ],
+      "dynamic": false,
+      "explanation": "New gene combinations come from DNA mutations, chromosome pieces swapping in crossing over, and the random joining of gametes.",
+      "id": "ASCI8_040",
+      "imageUrl": "topic:genetics",
+      "memoryHook": "T-Rexy says: three ways to remix the dino genes - typos, swaps, and surprise pairings!",
+      "question": "Which three processes create genetic variation?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Genetics"
+      ]
+    },
+    {
+      "correctAnswer": "Energy, while the medium itself stays mostly in place",
+      "difficulty": "easy",
+      "distractors": [
+        "Matter, as the medium travels along with the wave",
+        "Nothing at all - a wave is only a shape",
+        "Sound only, because other waves cannot move through matter"
+      ],
+      "dynamic": false,
+      "explanation": "A wave is a disturbance that carries energy from place to place. The material it passes through - the medium - vibrates in place but does not travel with the wave. A floating cork bobs up and down as water waves pass, yet it stays in nearly the same spot while the wave's energy moves across the pond.",
+      "id": "ASCI8_041",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: a wave is energy on the move - the water stays, but the energy travels, like a cheer spreading through a stadium crowd!",
+      "question": "Which statement best describes what a wave transfers as it travels?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Waves"
+      ]
+    },
+    {
+      "correctAnswer": "Decomposer",
+      "difficulty": "easy",
+      "distractors": [
+        "Producer",
+        "Herbivore",
+        "Carnivore"
+      ],
+      "dynamic": false,
+      "explanation": "Decomposers such as bacteria and fungi break down dead matter and return nutrients to the soil.",
+      "id": "ASCI8_042",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: decomposers are nature's recyclers - they turn dino leftovers back into soil snacks!",
+      "question": "Which type of organism breaks down dead plants and animals?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "Consumer",
+      "difficulty": "easy",
+      "distractors": [
+        "Producer",
+        "Decomposer",
+        "Autotroph"
+      ],
+      "dynamic": false,
+      "explanation": "Consumers cannot make their own food, so they eat producers or other consumers.",
+      "id": "ASCI8_043",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: consumers are the dino diners - they show up hungry and eat what others made!",
+      "question": "An organism that eats other organisms for energy is best classified as a:",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "The Moon orbits Earth, so we see different amounts of its sunlit half",
+      "difficulty": "easy",
+      "distractors": [
+        "Earth's shadow slowly covers and uncovers the Moon",
+        "The Moon produces more or less light at different times of the month",
+        "The Moon spins, showing us a different side each night"
+      ],
+      "dynamic": false,
+      "explanation": "The Moon does not make its own light; it reflects sunlight, so one half of it is always lit by the Sun. As the Moon orbits Earth over about a month, our viewing angle changes and we see more or less of that sunlit half. Those changing views are the phases. Earth's shadow causes lunar eclipses, not the monthly phases.",
+      "id": "ASCI8_044",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: the Moon is a mirror ball in space - as it circles us, we catch different amounts of its sunny side!",
+      "question": "What causes the phases of the Moon?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Astronomy"
+      ]
+    },
+    {
+      "correctAnswer": "Grass to rabbit to fox",
+      "difficulty": "easy",
+      "distractors": [
+        "Fox to rabbit to grass",
+        "Rabbit to grass to fox",
+        "Grass to fox to rabbit"
+      ],
+      "dynamic": false,
+      "explanation": "A food chain flows from producer to herbivore to carnivore: grass is eaten by the rabbit, which is eaten by the fox.",
+      "id": "ASCI8_045",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: follow the dino dinner - grass feeds the rabbit, rabbit feeds the fox, nobody eats backwards!",
+      "question": "Which of the following best shows a correct food chain?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "Habitat is where it lives; niche is its role",
+      "difficulty": "easy",
+      "distractors": [
+        "They mean the same thing",
+        "Habitat is the role; niche is the address",
+        "Niche is bigger than habitat"
+      ],
+      "dynamic": false,
+      "explanation": "A habitat is an organism's address - where it lives. A niche is its job - what it eats, what eats it, and how it fits in.",
+      "id": "ASCI8_046",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: habitat is the dino's home address, niche is the dino's job description!",
+      "question": "How do habitat and niche differ?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "A food web shows many connected food chains",
+      "difficulty": "medium",
+      "distractors": [
+        "A food web has only one chain",
+        "A food chain has more organisms",
+        "They are identical"
+      ],
+      "dynamic": false,
+      "explanation": "Real ecosystems have overlapping feeding relationships. A food web links many food chains, showing the true complexity.",
+      "id": "ASCI8_047",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: a food chain is one dino dinner line, a food web is the whole cafeteria at lunch rush!",
+      "question": "How is a food web different from a food chain?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "Energy is lost as heat at each level",
+      "difficulty": "medium",
+      "distractors": [
+        "Producers make less each year",
+        "Top predators eat very little",
+        "Decomposers steal the energy"
+      ],
+      "dynamic": false,
+      "explanation": "Only about 10 percent of energy moves up each level; the rest is used for life processes or lost as heat, so higher levels support fewer organisms.",
+      "id": "ASCI8_048",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: energy leaks like a dino's leaky lunchbox - only a tenth makes it to the next level!",
+      "question": "Based on energy transfer between trophic levels, why are there fewer organisms at the top of an energy pyramid?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "8 m/s",
+      "difficulty": "medium",
+      "distractors": [
+        "2 m/s",
+        "6 m/s",
+        "0.5 m/s"
+      ],
+      "dynamic": false,
+      "explanation": "Wave speed equals frequency times wavelength: speed = 4 Hz x 2 m = 8 m/s. Each second, 4 complete waves pass a point, and each wave is 2 meters long, so the wave pattern advances 4 x 2 = 8 meters every second.",
+      "id": "ASCI8_049",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: speed is frequency times wavelength - 4 waves a second, each 2 meters long, zooms the energy 8 meters a second!",
+      "question": "A wave in a rope has a frequency of 4 Hz and a wavelength of 2 meters. What is the wave's speed?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Waves"
+      ]
+    },
+    {
+      "correctAnswer": "Predator and prey",
+      "difficulty": "medium",
+      "distractors": [
+        "Producer and consumer",
+        "Host and parasite",
+        "Two predators"
+      ],
+      "dynamic": false,
+      "explanation": "Wolves hunt rabbits (predator), and rabbits are hunted (prey). Their populations rise and fall together.",
+      "id": "ASCI8_050",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: wolves chase rabbits, rabbits dodge wolves - the classic dino chase that never ends!",
+      "question": "Wolves eat rabbits, and rabbit numbers affect wolf numbers. Which type of relationship does this best describe?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "Mutualism",
+      "difficulty": "medium",
+      "distractors": [
+        "Parasitism",
+        "Commensalism",
+        "Competition"
+      ],
+      "dynamic": false,
+      "explanation": "In mutualism both species benefit - the bee gets nectar and the flower gets pollinated.",
+      "id": "ASCI8_051",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: mutualism is the dino buddy system - both pals win, high-five!",
+      "question": "Bees get nectar from flowers while pollinating them, and both benefit. Which symbiotic relationship does this best describe?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "Compressions",
+      "difficulty": "medium",
+      "distractors": [
+        "Rarefactions",
+        "Crests",
+        "Troughs"
+      ],
+      "dynamic": false,
+      "explanation": "In a longitudinal wave, the medium vibrates back and forth in the same direction the wave travels. Where particles are pushed together they form compressions; where they spread apart they form rarefactions. Crests and troughs belong to transverse waves, not longitudinal waves.",
+      "id": "ASCI8_052",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: compressions are the crowded squeeze zones of a sound wave - rarefactions are where everyone gets elbow room!",
+      "question": "Sound travels through air as a longitudinal wave. What are the regions where the air particles are squeezed closest together called?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Waves"
+      ]
+    },
+    {
+      "correctAnswer": "It can outcompete native species",
+      "difficulty": "medium",
+      "distractors": [
+        "It always helps the ecosystem",
+        "It cannot survive long",
+        "It only eats decomposers"
+      ],
+      "dynamic": false,
+      "explanation": "Invasive species have no natural predators in the new area, so they spread fast and crowd out native organisms.",
+      "id": "ASCI8_053",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: invasive species are uninvited dino party crashers - they eat everything and push the locals out!",
+      "question": "Based on ecosystem interactions, why is an invasive species harmful to an ecosystem?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "Carbon dioxide",
+      "difficulty": "medium",
+      "distractors": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "dynamic": false,
+      "explanation": "Plants take in carbon dioxide for photosynthesis, and respiration and decay release it back, cycling carbon through the ecosystem.",
+      "id": "ASCI8_054",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: carbon dioxide is the dino's recycled breath - plants breathe it in, animals breathe it out!",
+      "question": "Which gas cycles between the air, plants, and animals in the carbon cycle?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "About 10 percent",
+      "difficulty": "hard",
+      "distractors": [
+        "About 90 percent",
+        "About 50 percent",
+        "About 100 percent"
+      ],
+      "dynamic": false,
+      "explanation": "Roughly 90 percent of energy is lost as heat or used by the organism, leaving about 10 percent for the next trophic level.",
+      "id": "ASCI8_055",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: the 10 percent rule - the dino tax collector takes 90 percent at every level!",
+      "question": "Based on energy pyramids, about how much energy transfers from one trophic level to the next?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "Biomagnification",
+      "difficulty": "hard",
+      "distractors": [
+        "Photosynthesis",
+        "Succession",
+        "Erosion"
+      ],
+      "dynamic": false,
+      "explanation": "Biomagnification is the increase in toxin concentration at each higher trophic level: each predator eats many contaminated prey and keeps their toxins, so top predators get the highest dose. (Bioaccumulation is different - it is the build-up of a toxin inside one organism over its lifetime.)",
+      "id": "ASCI8_056",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: toxins climb the dino food ladder - the top predator gets the biggest poisonous pile!",
+      "question": "Pollutants become more concentrated in top predators. This process is called:",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "Primary starts on bare rock; secondary starts where soil exists",
+      "difficulty": "hard",
+      "distractors": [
+        "Primary is faster than secondary",
+        "Secondary starts on bare rock",
+        "They are the same process"
+      ],
+      "dynamic": false,
+      "explanation": "Primary succession begins on lifeless surfaces like lava rock and takes centuries to build soil. Secondary succession regrows after a disturbance where soil already exists.",
+      "id": "ASCI8_057",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: primary succession builds a dino city from bare rock, secondary rebuilds after the storm!",
+      "question": "How do primary and secondary succession differ?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "A limiting factor",
+      "difficulty": "hard",
+      "distractors": [
+        "A renewable resource",
+        "A niche",
+        "A mutation"
+      ],
+      "dynamic": false,
+      "explanation": "A limiting factor is whatever resource runs out first: desert rabbits can find food and space, but without more water, fewer young survive and the population cannot grow past what the water supply supports.",
+      "id": "ASCI8_058",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: a limiting factor is the dino's empty water bowl - no water, no more dinos!",
+      "question": "In a desert, lack of water keeps the rabbit population small. The water is best described as a:",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "Evaporation, condensation, precipitation, collection",
+      "difficulty": "hard",
+      "distractors": [
+        "Erosion, deposition, melting, freezing",
+        "Mitosis, meiosis, fission, fusion",
+        "Ignition, compression, power, exhaust"
+      ],
+      "dynamic": false,
+      "explanation": "Water evaporates, condenses into clouds, falls as precipitation, and collects in bodies of water - then the cycle repeats.",
+      "id": "ASCI8_059",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: the water cycle is the dino's endless road trip - up to the clouds, down as rain, back to the sea!",
+      "question": "Which is the correct order of the water cycle?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Ecosystems"
+      ]
+    },
+    {
+      "correctAnswer": "The Moon's orbit is tilted relative to Earth's orbit, so the Sun, Moon, and Earth line up exactly only at certain times",
+      "difficulty": "hard",
+      "distractors": [
+        "The Moon is too small to cast a shadow in most months",
+        "Earth's shadow is usually too small to cover the Moon",
+        "The Moon's orbit changes shape, so it is too far away in most months"
+      ],
+      "dynamic": false,
+      "explanation": "Eclipses need a nearly perfect straight-line arrangement of the Sun, Moon, and Earth. The Moon's orbit is tilted by about 5 degrees compared with Earth's orbit around the Sun, so at most new and full moons the Moon passes a little above or below the line, and its shadow misses Earth (or Earth's shadow misses the Moon). Only when a new or full moon happens near a place where the two orbits cross do we get an eclipse.",
+      "id": "ASCI8_060",
+      "imageUrl": "topic:science-life",
+      "memoryHook": "T-Rexy says: the Moon's orbit is tilted like a wobbly hula hoop - only sometimes does everything line up for an eclipse!",
+      "question": "The Moon orbits Earth about once a month, yet solar and lunar eclipses do not happen every month. What is the best explanation?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Astronomy"
+      ]
+    },
+    {
+      "correctAnswer": "Igneous, sedimentary, and metamorphic",
+      "difficulty": "easy",
+      "distractors": [
+        "Liquid, solid, and gas",
+        "Metal, wood, and plastic",
+        "Acid, base, and salt"
+      ],
+      "dynamic": false,
+      "explanation": "The three rock types are igneous (cooled magma), sedimentary (pressed layers), and metamorphic (changed by heat and pressure).",
+      "id": "ASCI8_061",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: three dino rock flavors - fire-cooled, layer-cake, and squeeze-changed!",
+      "question": "What are the three main types of rock?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Igneous",
+      "difficulty": "easy",
+      "distractors": [
+        "Sedimentary",
+        "Metamorphic",
+        "Fossil"
+      ],
+      "dynamic": false,
+      "explanation": "Igneous rocks form when melted rock (magma or lava) cools and hardens.",
+      "id": "ASCI8_062",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: igneous rocks are born in dino fire - hot lava cools into hard stone!",
+      "question": "Which rock type forms from cooled magma or lava?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Sedimentary",
+      "difficulty": "easy",
+      "distractors": [
+        "Igneous",
+        "Metamorphic",
+        "Volcanic"
+      ],
+      "dynamic": false,
+      "explanation": "Sedimentary rocks form when layers of sand, mud, and shells press together over time.",
+      "id": "ASCI8_063",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: sedimentary rocks are layer-cake dinos - pressed flat, one tasty layer at a time!",
+      "question": "Which rock type forms from pressed layers of sediment?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Metamorphic",
+      "difficulty": "easy",
+      "distractors": [
+        "Igneous",
+        "Sedimentary",
+        "Organic"
+      ],
+      "dynamic": false,
+      "explanation": "Metamorphic rocks are existing rocks transformed by intense heat and pressure deep underground.",
+      "id": "ASCI8_064",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: metamorphic rocks got the dino squeeze - heat and pressure remodeled them!",
+      "question": "Which rock type forms when heat and pressure change an existing rock?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Weathering breaks rock down; erosion moves it away",
+      "difficulty": "easy",
+      "distractors": [
+        "They are the same thing",
+        "Erosion breaks rock; weathering moves it",
+        "Neither affects rocks"
+      ],
+      "dynamic": false,
+      "explanation": "Weathering cracks and crumbles rock in place. Erosion then carries the pieces away by water, wind, or ice.",
+      "id": "ASCI8_065",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: weathering is the dino hammer smashing rock, erosion is the dino truck hauling it away!",
+      "question": "How do weathering and erosion differ?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "The Moon is directly between the Sun and Earth, and the Moon's shadow falls on Earth",
+      "difficulty": "easy",
+      "distractors": [
+        "Earth is directly between the Sun and the Moon, and Earth's shadow falls on the Moon",
+        "The Moon is on the far side of Earth from the Sun, fully lit by sunlight",
+        "The Sun moves between the Moon and Earth"
+      ],
+      "dynamic": false,
+      "explanation": "In a solar eclipse the Moon lines up exactly between the Sun and Earth. The Moon blocks sunlight and casts a small shadow on Earth; people inside that shadow see the Sun covered. When Earth is between the Sun and the Moon instead, Earth's shadow falls on the Moon - that is a lunar eclipse.",
+      "id": "ASCI8_066",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: solar eclipse means the Moon cuts the line - Moon in the middle, shadow on us!",
+      "question": "During a total solar eclipse, how are the Sun, Moon, and Earth arranged?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Astronomy"
+      ]
+    },
+    {
+      "correctAnswer": "Tectonic plates move",
+      "difficulty": "medium",
+      "distractors": [
+        "The moon pulls harder",
+        "Rocks shrink as they cool",
+        "Wind pushes the ground"
+      ],
+      "dynamic": false,
+      "explanation": "Earth's crust is broken into plates that drift on the hot mantle. Their collisions and separations cause earthquakes, volcanoes, and mountains.",
+      "id": "ASCI8_067",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: Earth's crust is a cracked dino eggshell - the pieces drift and crash into each other!",
+      "question": "According to the theory of plate tectonics, what causes continents to move?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "At plate boundaries",
+      "difficulty": "medium",
+      "distractors": [
+        "In the middle of plates",
+        "Only under oceans",
+        "Only on mountains"
+      ],
+      "dynamic": false,
+      "explanation": "Most earthquakes strike where plates grind past, pull apart, or collide - the boundaries are the active zones.",
+      "id": "ASCI8_068",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: plate boundaries are the dino wrestling ring - that's where the ground shakes!",
+      "question": "Based on plate boundary activity, where do most earthquakes occur?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Where plates pull apart or push together",
+      "difficulty": "medium",
+      "distractors": [
+        "In the center of continents",
+        "At the North Pole",
+        "Under deserts"
+      ],
+      "dynamic": false,
+      "explanation": "Magma rises where plates separate (like mid-ocean ridges) or where one plate dives under another, melting as it sinks.",
+      "id": "ASCI8_069",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: volcanoes pop up where dino plates split or crash - magma just can't resist the drama!",
+      "question": "Based on plate tectonics, volcanoes most often form:",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Sedimentary",
+      "difficulty": "medium",
+      "distractors": [
+        "Igneous",
+        "Metamorphic",
+        "All rock types equally"
+      ],
+      "dynamic": false,
+      "explanation": "Fossils form in the soft layers of sedimentary rock. Igneous rock's heat would destroy them, and metamorphic pressure crushes them.",
+      "id": "ASCI8_070",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: fossils love the sedimentary layer-cake - soft beds where dino bones can rest!",
+      "question": "Fossils are most commonly found in which rock type?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Physical weathering breaks rock; chemical weathering changes its composition",
+      "difficulty": "medium",
+      "distractors": [
+        "They are identical",
+        "Chemical is faster always",
+        "Physical only happens in deserts"
+      ],
+      "dynamic": false,
+      "explanation": "Physical weathering (like freezing water cracking rock) changes size and shape. Chemical weathering (like acid rain dissolving limestone) changes what the rock is made of.",
+      "id": "ASCI8_071",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: physical weathering smashes the dino cookie, chemical weathering changes the recipe!",
+      "question": "How do physical and chemical weathering differ?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Broken-down rock mixed with decayed organisms",
+      "difficulty": "medium",
+      "distractors": [
+        "Pure sand only",
+        "Melted lava",
+        "Crushed seashells only"
+      ],
+      "dynamic": false,
+      "explanation": "Soil forms as weathering crumbles rock and decomposers add humus from dead organisms, creating a mix that supports plants.",
+      "id": "ASCI8_072",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: soil is the dino's crunchy granola - crumbled rock mixed with bits of old plants!",
+      "question": "Which statement best describes what soil is made of?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "They redistribute heat around the planet",
+      "difficulty": "medium",
+      "distractors": [
+        "They make the ocean salty",
+        "They stop all rain",
+        "They freeze the poles"
+      ],
+      "dynamic": false,
+      "explanation": "Warm currents carry heat toward the poles and cold currents cool the tropics, shaping climates of nearby coasts.",
+      "id": "ASCI8_073",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: ocean currents are the planet's dino conveyor belts - hauling warm and cold water around the globe!",
+      "question": "How do ocean currents affect climate?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Earth's tilted axis",
+      "difficulty": "medium",
+      "distractors": [
+        "Earth's distance from the sun",
+        "The moon's gravity",
+        "Volcanic eruptions"
+      ],
+      "dynamic": false,
+      "explanation": "The 23.5-degree tilt aims each hemisphere toward the sun for half the year (summer) and away for the other half (winter).",
+      "id": "ASCI8_074",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: Earth's tilt is the dino's lean - lean toward the sun for summer, away for winter!",
+      "question": "What causes the seasons on Earth?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Matching rock layers and fossils on different continents",
+      "difficulty": "hard",
+      "distractors": [
+        "Tides going in and out",
+        "Clouds moving west",
+        "Birds migrating south"
+      ],
+      "dynamic": false,
+      "explanation": "Identical fossils and rock sequences on continents now separated by oceans show those lands were once joined.",
+      "id": "ASCI8_075",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: matching fossils on far-apart continents are puzzle pieces - the dino map was once whole!",
+      "question": "Which evidence best supports the idea that continents were once joined?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Convergent: plates collide; divergent: plates separate; transform: plates slide past",
+      "difficulty": "hard",
+      "distractors": [
+        "They are all the same",
+        "Convergent means separating",
+        "Transform means melting"
+      ],
+      "dynamic": false,
+      "explanation": "Convergent boundaries crash together (mountains, trenches), divergent pull apart (new crust), transform grind sideways (faults).",
+      "id": "ASCI8_076",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: crash, split, or slide - the three dino dance moves of plate boundaries!",
+      "question": "How do convergent, divergent, and transform plate boundaries differ?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Igneous to sedimentary to metamorphic and back, in any order",
+      "difficulty": "hard",
+      "distractors": [
+        "Only one direction is possible",
+        "Rocks never change type",
+        "Only sedimentary rocks cycle"
+      ],
+      "dynamic": false,
+      "explanation": "Any rock can become any other: igneous weathers into sediment, sediment compacts to sedimentary rock, heat and pressure metamorphose it, melting restarts the loop.",
+      "id": "ASCI8_077",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: the rock cycle is the dino's endless costume change - fire, layers, squeeze, repeat!",
+      "question": "Which path can a rock take through the rock cycle?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Greenhouse gases trap heat radiating from Earth",
+      "difficulty": "hard",
+      "distractors": [
+        "The sun gets hotter each year",
+        "Oceans stop absorbing heat",
+        "Clouds disappear completely"
+      ],
+      "dynamic": false,
+      "explanation": "Sunlight warms the ground, which radiates heat. Greenhouse gases absorb that heat and re-emit it, warming the air like a blanket.",
+      "id": "ASCI8_078",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: greenhouse gases are Earth's dino blanket - they tuck the heat in so it can't escape!",
+      "question": "How does the greenhouse effect warm Earth?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Warm water moves east across the Pacific, shifting weather patterns",
+      "difficulty": "hard",
+      "distractors": [
+        "The Atlantic freezes over",
+        "All wind stops worldwide",
+        "The moon moves closer"
+      ],
+      "dynamic": false,
+      "explanation": "During El Nino, warm Pacific water sloshes east, changing storm tracks and causing floods in some regions and droughts in others.",
+      "id": "ASCI8_079",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: El Nino is the Pacific's warm dino bath spilling east - and the weather goes wild!",
+      "question": "What happens during El Nino?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "Relative dating compares layers; absolute dating gives an actual age",
+      "difficulty": "hard",
+      "distractors": [
+        "They are the same method",
+        "Relative uses clocks; absolute uses fossils",
+        "Absolute dating is always wrong"
+      ],
+      "dynamic": false,
+      "explanation": "Relative dating orders events (this layer is older than that one). Absolute dating uses radioactive decay to assign a number of years.",
+      "id": "ASCI8_080",
+      "imageUrl": "topic:science-earth",
+      "memoryHook": "T-Rexy says: relative dating lines up the dino photo album, absolute dating stamps each photo with a year!",
+      "question": "How do relative and absolute dating of rocks differ?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Earth Science"
+      ]
+    },
+    {
+      "correctAnswer": "A push or a pull",
+      "difficulty": "easy",
+      "distractors": [
+        "A type of energy",
+        "A kind of matter",
+        "A unit of time"
+      ],
+      "dynamic": false,
+      "explanation": "A force is any push or pull that can change an object's motion - kicking a ball pushes it, gravity pulls it down.",
+      "id": "ASCI8_081",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: forces are dino shoves and tugs - push it, pull it, make it move!",
+      "question": "Which statement best defines a force?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Physics"
+      ]
+    },
+    {
+      "correctAnswer": "Inertia",
+      "difficulty": "medium",
+      "distractors": [
+        "Friction",
+        "Gravity",
+        "Momentum"
+      ],
+      "dynamic": false,
+      "explanation": "Newton's first law: objects keep doing what they are doing unless a force acts. Inertia is why passengers lurch forward when a car stops suddenly.",
+      "id": "ASCI8_082",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: inertia is the lazy dino - it keeps napping or keeps running until something makes it change!",
+      "question": "An object at rest stays at rest unless a force acts on it. Which principle does this best describe?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Physics"
+      ]
+    },
+    {
+      "correctAnswer": "Force = mass x acceleration",
+      "difficulty": "medium",
+      "distractors": [
+        "Force = mass / acceleration",
+        "Force = speed x time",
+        "Force = distance / time"
+      ],
+      "dynamic": false,
+      "explanation": "Newton's second law: a bigger force or a smaller mass gives more acceleration - pushing a light wagon is easier than pushing a heavy truck.",
+      "id": "ASCI8_083",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: F = ma - the dino's pushing recipe: heavy things need a bigger shove to get moving!",
+      "question": "Which equation represents Newton's second law of motion?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Physics"
+      ]
+    },
+    {
+      "correctAnswer": "For every action there is an equal and opposite reaction",
+      "difficulty": "easy",
+      "distractors": [
+        "Objects at rest stay at rest",
+        "Force equals mass times acceleration",
+        "Energy cannot be created"
+      ],
+      "dynamic": false,
+      "explanation": "Newton's third law: when you push on something, it pushes back just as hard - like a rocket pushing gas down and the gas pushing the rocket up.",
+      "id": "ASCI8_084",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: push the dino and the dino pushes back - every shove gets an equal shove in return!",
+      "question": "Which statement best describes Newton's third law of motion?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Physics"
+      ]
+    },
+    {
+      "correctAnswer": "The crest",
+      "difficulty": "easy",
+      "distractors": [
+        "The trough",
+        "The amplitude",
+        "The wavelength"
+      ],
+      "dynamic": false,
+      "explanation": "A transverse wave moves the medium at right angles to the direction the wave travels, making a repeating up-and-down pattern. The highest point is the crest and the lowest point is the trough. Amplitude is the distance from the rest position to a crest, and wavelength is the distance between two matching points on neighboring waves.",
+      "id": "ASCI8_085",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: the crest is the top of the wave's mountain - a trough is the valley at the bottom!",
+      "question": "In a transverse wave, what is the highest point of the wave called?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Waves"
+      ]
+    },
+    {
+      "correctAnswer": "Friction",
+      "difficulty": "easy",
+      "distractors": [
+        "Gravity",
+        "Inertia",
+        "Magnetism"
+      ],
+      "dynamic": false,
+      "explanation": "Friction is the force that resists sliding between surfaces - it lets shoes grip the floor but slows a rolling ball.",
+      "id": "ASCI8_086",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: friction is the dino's invisible handbrake - it grabs sliding things and slows them down!",
+      "question": "Which force opposes motion between two touching surfaces?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Physics"
+      ]
+    },
+    {
+      "correctAnswer": "Toward the center of Earth",
+      "difficulty": "easy",
+      "distractors": [
+        "Toward the moon",
+        "Away from Earth",
+        "Sideways"
+      ],
+      "dynamic": false,
+      "explanation": "Gravity pulls everything toward Earth's center, which is why dropped objects fall down.",
+      "id": "ASCI8_087",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: gravity is Earth's dino hug - it pulls everything in tight toward the middle!",
+      "question": "In which direction does gravity pull objects on Earth?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Physics"
+      ]
+    },
+    {
+      "correctAnswer": "Kinetic is energy of motion; potential is stored energy",
+      "difficulty": "medium",
+      "distractors": [
+        "They are the same thing",
+        "Kinetic is stored; potential is motion",
+        "Only objects have kinetic energy"
+      ],
+      "dynamic": false,
+      "explanation": "A rolling ball has kinetic energy. A ball held at the top of a hill has potential energy waiting to be released.",
+      "id": "ASCI8_088",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: kinetic energy is the running dino, potential energy is the dino crouched at the top of the slide!",
+      "question": "How do kinetic and potential energy differ?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Physics"
+      ]
+    },
+    {
+      "correctAnswer": "It changes form but the total stays the same",
+      "difficulty": "medium",
+      "distractors": [
+        "It disappears completely",
+        "It doubles each time",
+        "It turns into matter"
+      ],
+      "dynamic": false,
+      "explanation": "Energy is conserved: a falling ball's potential energy becomes kinetic energy, and the total never changes - it just switches forms.",
+      "id": "ASCI8_089",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: energy is the dino's shape-shifter - it changes costumes but never leaves the party!",
+      "question": "What happens to energy in a closed system?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Physics"
+      ]
+    },
+    {
+      "correctAnswer": "It multiplies the force",
+      "difficulty": "hard",
+      "distractors": [
+        "It multiplies the speed",
+        "It changes the color",
+        "It stores electricity"
+      ],
+      "dynamic": false,
+      "explanation": "A lever trades distance for force: a long handle lets a small effort lift a heavy load, giving mechanical advantage.",
+      "id": "ASCI8_090",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: a lever is the dino's cheat code - a long stick turns a tiny push into a giant lift!",
+      "question": "A crowbar lets a person lift a heavy rock with little effort. Which principle best explains this?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Physics"
+      ]
+    },
+    {
+      "correctAnswer": "Work = force x distance",
+      "difficulty": "hard",
+      "distractors": [
+        "Work = mass x speed",
+        "Work = force / time",
+        "Work = energy x power"
+      ],
+      "dynamic": false,
+      "explanation": "Work is done when a force moves something: pushing a box 2 meters with 10 newtons of force does 20 joules of work.",
+      "id": "ASCI8_091",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: no move, no work - the dino only earns work points when the force actually pushes something somewhere!",
+      "question": "Which formula is used to calculate work?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Physics"
+      ]
+    },
+    {
+      "correctAnswer": "It has a higher frequency, so it sounds higher in pitch",
+      "difficulty": "medium",
+      "distractors": [
+        "It has a lower frequency, so it sounds lower in pitch",
+        "It becomes louder, because faster vibrations always have larger amplitudes",
+        "It travels through the air much faster than before"
+      ],
+      "dynamic": false,
+      "explanation": "Pitch is how high or low a sound seems, and it is set by frequency: faster vibrations mean more waves per second, which we hear as a higher pitch. Loudness depends on amplitude instead, and sound travels through air at about the same speed regardless of its pitch.",
+      "id": "ASCI8_092",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: faster wiggle, higher note - a tight string sings like a little bird, a loose string growls like a sleepy dino!",
+      "question": "A guitarist tightens a string so it vibrates faster when plucked. How does the sound change?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Waves"
+      ]
+    },
+    {
+      "correctAnswer": "Protons, neutrons, and electrons",
+      "difficulty": "easy",
+      "distractors": [
+        "Cells, tissues, and organs",
+        "Solids, liquids, and gases",
+        "Acids, bases, and salts"
+      ],
+      "dynamic": false,
+      "explanation": "Atoms contain protons and neutrons in the nucleus, with electrons orbiting around them.",
+      "id": "ASCI8_093",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: the atom is the dino's solar system - heavy nucleus in the middle, speedy electrons zooming around!",
+      "question": "What are the three main particles of an atom?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Chemistry"
+      ]
+    },
+    {
+      "correctAnswer": "An element has one type of atom; a compound has two or more bonded types",
+      "difficulty": "medium",
+      "distractors": [
+        "They are the same thing",
+        "Compounds have one atom type",
+        "Elements are always gases"
+      ],
+      "dynamic": false,
+      "explanation": "Oxygen (O2) is an element - one atom type. Water (H2O) is a compound - hydrogen and oxygen chemically bonded.",
+      "id": "ASCI8_094",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: an element is a solo dino singer, a compound is the whole dino band playing together!",
+      "question": "How does an element differ from a compound?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Chemistry"
+      ]
+    },
+    {
+      "correctAnswer": "By increasing atomic number",
+      "difficulty": "medium",
+      "distractors": [
+        "Alphabetically by name",
+        "By color",
+        "By weight in pounds"
+      ],
+      "dynamic": false,
+      "explanation": "The periodic table orders elements by atomic number (proton count), grouping elements with similar properties in columns.",
+      "id": "ASCI8_095",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: the periodic table is the dino's seating chart - elements sit by proton number with their chemical cousins!",
+      "question": "How are elements arranged on the periodic table?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Chemistry"
+      ]
+    },
+    {
+      "correctAnswer": "A chemical change forms a new substance; a physical change does not",
+      "difficulty": "medium",
+      "distractors": [
+        "They are the same",
+        "Physical changes form new substances",
+        "Chemical changes are always reversible"
+      ],
+      "dynamic": false,
+      "explanation": "Melting ice is physical - still water. Burning wood is chemical - it becomes ash, smoke, and gases, brand-new substances.",
+      "id": "ASCI8_096",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: melt the dino ice cube and it's still water, but burn the dino toast and it's gone forever!",
+      "question": "How do chemical and physical changes differ?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Chemistry"
+      ]
+    },
+    {
+      "correctAnswer": "pH below 7 is acidic; above 7 is basic",
+      "difficulty": "hard",
+      "distractors": [
+        "pH 7 is acidic",
+        "Acids and bases have the same pH",
+        "pH measures temperature"
+      ],
+      "dynamic": false,
+      "explanation": "The pH scale runs 0 to 14. Below 7 means acidic (like lemon juice), above 7 means basic (like soap), and 7 is neutral.",
+      "id": "ASCI8_097",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: the pH scale is the dino's sour-to-soapy meter - low numbers pucker, high numbers feel slippery!",
+      "question": "How does the pH scale identify acids and bases?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Chemistry"
+      ]
+    },
+    {
+      "correctAnswer": "The total mass stays the same",
+      "difficulty": "hard",
+      "distractors": [
+        "Mass disappears",
+        "Mass doubles",
+        "Mass turns into energy"
+      ],
+      "dynamic": false,
+      "explanation": "Atoms are rearranged, never created or destroyed, in a chemical reaction - so the mass of the products always equals the mass of the reactants.",
+      "id": "ASCI8_098",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: atoms are dino LEGO bricks - you can rebuild them into new shapes but you never lose a single brick!",
+      "question": "In a sealed container, what happens to total mass during a chemical reaction?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Chemistry"
+      ]
+    },
+    {
+      "correctAnswer": "Their electrons move freely between atoms",
+      "difficulty": "hard",
+      "distractors": [
+        "They are always liquid",
+        "They have no protons",
+        "They never react"
+      ],
+      "dynamic": false,
+      "explanation": "Metals conduct electricity and heat because their outer electrons flow freely through the metal, carrying energy along.",
+      "id": "ASCI8_099",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: metal electrons are speedy dino messengers - they zip through the metal delivering electricity!",
+      "question": "Based on atomic structure, why do metals conduct electricity well?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Chemistry"
+      ]
+    },
+    {
+      "correctAnswer": "Gas particles spread far apart and move freely; solid particles vibrate in fixed positions",
+      "difficulty": "hard",
+      "distractors": [
+        "Solids have no particles at all",
+        "Gas particles stop moving",
+        "Both behave identically"
+      ],
+      "dynamic": false,
+      "explanation": "Particle attractions explain the difference: in a solid, strong attractions hold particles in fixed positions so the solid keeps its shape, while gas particles move fast and far apart, spreading in all directions until they fill the whole container evenly.",
+      "id": "ASCI8_100",
+      "imageUrl": "topic:science-physical",
+      "memoryHook": "T-Rexy says: solid dinos stand frozen in formation, gas dinos run wild and fill the whole room!",
+      "question": "Based on particle motion, why does a gas fill its container while a solid keeps its own shape?",
+      "source": "TReps Science 8",
+      "tags": [
+        "Science",
+        "Chemistry"
+      ]
+    }
+  ],
+  "tags": [
+    "science",
+    "grade8",
+    "anat"
+  ],
+  "title": "Integrated Science (8th Grade)",
+  "totalQuestions": 100,
+  "version": "1.0"
+}

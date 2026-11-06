@@ -1,0 +1,2018 @@
+{
+  "packId": "ella-ap-statistics",
+  "title": "AP Statistics (12th Grade)",
+  "description": "AP Statistics (12th) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-04",
+  "tags": [
+    "math",
+    "statistics",
+    "ap",
+    "12th"
+  ],
+  "questions": [
+    {
+      "id": "ESTAT_001",
+      "question": "A quality inspector checks 50 randomly selected parts from a large production run. Each part independently has probability 0.4 of being classified as high-grade, and X counts the number of high-grade parts in the sample. What is the mean of the binomial distribution of X?",
+      "correctAnswer": "20",
+      "distractors": [
+        "12",
+        "30",
+        "2.5"
+      ],
+      "explanation": "X is binomial with n = 50 and p = 0.4. The mean of a binomial random variable is mu = np = 50 x 0.4 = 20. The value 12 is np(1-p), the variance, and 30 is the expected number of failures, n(1-p). The value 2.5 is 1/p, which is the mean of a geometric distribution, not a binomial one.",
+      "memoryHook": "T-Rexy says: Binomial mean is n times p - 50 trials at 0.4 gives 20!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "probability",
+        "binomial-parameters"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_002",
+      "question": "A machine produces a defective item with probability 0.2 on each independent try. Let T be the number of items produced up to and including the first defective item. What is the mean of this geometric distribution?",
+      "correctAnswer": "5",
+      "distractors": [
+        "0.2",
+        "4",
+        "25"
+      ],
+      "explanation": "For a geometric distribution, the mean waiting time to the first success is mu = 1/p = 1/0.2 = 5 items. The value 4 is (1-p)/p, the expected number of failures before the first success, not the trial number of the first success itself. The value 25 is 1/p squared, which has no role here.",
+      "memoryHook": "T-Rexy says: Geometric mean is 1 over p - one success in five tries on average!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "probability",
+        "geometric-parameters"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_003",
+      "question": "What is the mode of the data set 5, 3, 5, 8, 5, 2?",
+      "correctAnswer": "5",
+      "distractors": [
+        "3",
+        "8",
+        "2"
+      ],
+      "explanation": "The mode is the most frequent value. 5 appears three times, more than any other value.",
+      "memoryHook": "T-Rexy says: Mode is the most popular - it wins the popularity contest!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "descriptive-statistics",
+        "mode"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_004",
+      "question": "Each try at a ring-toss game is independent and has probability 0.25 of winning a prize. Let W be the number of tries up to and including the first win, so W is geometric with p = 0.25. What is the standard deviation of W?",
+      "correctAnswer": "3.46",
+      "distractors": [
+        "4",
+        "12",
+        "1.73"
+      ],
+      "explanation": "For a geometric distribution, sigma = sqrt(1 - p) / p. Here sigma = sqrt(0.75) / 0.25 = 0.866 / 0.25 = 3.46 tries. The value 4 is the mean, 1/p = 1/0.25, not the spread. The value 12 is the variance, (1 - p)/p^2 = 0.75/0.0625 - it still needs a square root before it is a standard deviation. The value 1.73 is sqrt((1 - p)/p) = sqrt(3), which divides by p only once under the root instead of twice.",
+      "memoryHook": "T-Rexy says: Geometric spread is sqrt(1-p) over p - the wait averages 4 tries but swings by 3.46!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "probability",
+        "geometric-parameters"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_005",
+      "question": "A fair coin is flipped once. What is the probability of getting heads?",
+      "correctAnswer": "1/2",
+      "distractors": [
+        "1/3",
+        "1/4",
+        "2/3"
+      ],
+      "explanation": "A fair coin has two equally likely outcomes, heads and tails, so P(heads) = 1/2.",
+      "memoryHook": "T-Rexy says: Fair coin, fifty-fifty - heads gets half the chances!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_006",
+      "question": "A standard six-sided die is rolled once. What is the probability of rolling a 4?",
+      "correctAnswer": "1/6",
+      "distractors": [
+        "1/4",
+        "1/3",
+        "1/2"
+      ],
+      "explanation": "There are 6 equally likely outcomes and only one is a 4, so the probability is 1/6.",
+      "memoryHook": "T-Rexy says: One lucky face out of six - that is 1/6!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_007",
+      "question": "In a population, 64% of voters favor a ballot measure, so p = 0.64. Random samples of size 50 are taken repeatedly and the sample proportion p-hat is computed for each sample. What is the mean of the sampling distribution of p-hat?",
+      "correctAnswer": "0.64",
+      "distractors": [
+        "0.068",
+        "32",
+        "0.36"
+      ],
+      "explanation": "The sampling distribution of p-hat is centered at the population proportion: the mean of p-hat equals p = 0.64. That is why p-hat is called an unbiased estimator of p - its long-run average equals the parameter it estimates. The value 0.068 is the standard deviation, sqrt(0.64 x 0.36 / 50), not the center, and 32 is np, the expected count of supporters in one sample.",
+      "memoryHook": "T-Rexy says: p-hat aims at p - the sampling distribution is centered on the truth!",
+      "imageUrl": "topic:sampling",
+      "tags": [
+        "sampling-distributions",
+        "sample-proportion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_008",
+      "question": "A least-squares regression line predicts a tomato plant's yield in kilograms from its height in centimeters. The standard deviation of the residuals for this model is s = 0.9 kg. What does s = 0.9 kg tell us?",
+      "correctAnswer": "Predictions from the line are typically off by about 0.9 kg",
+      "distractors": [
+        "The correlation between height and yield is 0.9",
+        "Each extra centimeter of height adds 0.9 kg to the predicted yield",
+        "The residuals from the line add up to 0.9 kg"
+      ],
+      "explanation": "The value s is the standard deviation of the residuals: it measures the typical size of a prediction error, in the units of the response variable. So predictions from this line are typically off by about 0.9 kg. The correlation r is a separate, unitless number between -1 and 1. The amount added per extra centimeter is the slope, not s. And the residuals from a least-squares line always add up to about 0, never to s. In slope inference (Unit 9), this same s is the starting point for the standard error of the slope.",
+      "memoryHook": "T-Rexy says: s is the typical miss of the line - here predictions miss by about 0.9 kg!",
+      "imageUrl": "topic:data-types",
+      "tags": [
+        "regression",
+        "interpretation-of-s"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_009",
+      "question": "A histogram has a long tail extending to the right. How would you describe its shape?",
+      "correctAnswer": "Skewed right",
+      "distractors": [
+        "Skewed left",
+        "Symmetric",
+        "Uniform"
+      ],
+      "explanation": "When the tail points right, the distribution is skewed right (positively skewed).",
+      "memoryHook": "T-Rexy says: The tail tells the tale - tail to the right means skewed right!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "descriptive-statistics",
+        "shape"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_010",
+      "question": "A chi-square test for independence is performed on a two-way table with 3 rows and 4 columns. How many degrees of freedom does the test have?",
+      "correctAnswer": "6",
+      "distractors": [
+        "12",
+        "11",
+        "5"
+      ],
+      "explanation": "For a chi-square test on a two-way table, df = (r - 1)(c - 1) = (3 - 1)(4 - 1) = 2 x 3 = 6. Multiplying the raw table size, 3 x 4 = 12, counts every cell and ignores that the row and column totals are fixed, which removes one free row and one free column. For comparison, a goodness-of-fit test uses df = number of categories minus 1.",
+      "memoryHook": "T-Rexy says: Chi-square df is (rows minus 1) times (columns minus 1) - 2 times 3 is 6!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "inference",
+        "chi-square-degrees-of-freedom"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_011",
+      "question": "In a trial of a new headache medicine, the treatment group receives the real pill. The control group receives a sugar pill that looks and tastes identical but contains no active ingredient, so improvement caused simply by believing one was treated can be measured separately. What is the sugar pill called?",
+      "correctAnswer": "A placebo",
+      "distractors": [
+        "A blocking variable",
+        "A confounding variable",
+        "A response variable"
+      ],
+      "explanation": "The inactive but identical-looking pill is a placebo. Comparing the treatment group with a control group that receives a placebo separates the effect of the medicine itself from the placebo effect - improvement caused by expectation alone. Without a control group receiving a placebo, the researchers could not tell how much of the improvement the medicine actually caused.",
+      "memoryHook": "T-Rexy says: A placebo looks real but does nothing - it exposes the power of believing!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "study-design",
+        "placebo"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_012",
+      "question": "In one city, 68% of elementary-school parents and 52% of high-school parents favor a later school start time, so p1 = 0.68 and p2 = 0.52. Independent random samples are taken from the two groups, and the difference p-hat1 - p-hat2 is computed for each pair of samples. What is the mean of the sampling distribution of p-hat1 - p-hat2?",
+      "correctAnswer": "0.16",
+      "distractors": [
+        "1.20",
+        "0.60",
+        "-0.16"
+      ],
+      "explanation": "The sampling distribution of a difference of sample proportions is centered at the difference of the population proportions: mean = p1 - p2 = 0.68 - 0.52 = 0.16, so p-hat1 - p-hat2 is an unbiased estimator of p1 - p2. The value 1.20 adds the two proportions, 0.60 averages them, and -0.16 subtracts in the wrong order (high-school minus elementary). Its standard deviation would be sqrt(p1(1 - p1)/n1 + p2(1 - p2)/n2) - the variances add even though the centers subtract.",
+      "memoryHook": "T-Rexy says: A difference centers on the difference - 0.68 minus 0.52 is 0.16!",
+      "imageUrl": "topic:graphs",
+      "tags": [
+        "sampling-distributions",
+        "difference-of-proportions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_013",
+      "question": "What is a simple random sample?",
+      "correctAnswer": "A sample in which every group of n individuals has an equal chance of being selected",
+      "distractors": [
+        "A sample chosen by convenience",
+        "A sample with equal numbers from each group",
+        "A sample of volunteers"
+      ],
+      "explanation": "A chance process does the choosing - for example, numbering everyone and drawing numbers at random - so no individual or group is favored. Convenience samples and volunteer samples are not simple random samples, because the choice is not left entirely to chance.",
+      "memoryHook": "T-Rexy says: Simple random means everybody gets a fair lottery ticket!",
+      "imageUrl": "topic:sampling",
+      "tags": [
+        "sampling",
+        "methods"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_014",
+      "question": "What is bias in sampling?",
+      "correctAnswer": "A systematic error that favors certain outcomes",
+      "distractors": [
+        "Random variation in results",
+        "A large sample size",
+        "Using a census"
+      ],
+      "explanation": "Bias is a systematic tendency to over- or under-estimate, favoring certain outcomes over others.",
+      "memoryHook": "T-Rexy says: Bias tilts the scale the same way every time - it is not random!",
+      "imageUrl": "topic:sampling",
+      "tags": [
+        "sampling",
+        "bias"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_015",
+      "question": "What is the difference between an observational study and an experiment?",
+      "correctAnswer": "An experiment imposes a treatment; an observational study only observes",
+      "distractors": [
+        "An observational study is always biased",
+        "An experiment uses only surveys",
+        "There is no difference"
+      ],
+      "explanation": "In an experiment the researcher assigns treatments; in an observational study the researcher only observes without intervening.",
+      "memoryHook": "T-Rexy says: Experiments poke the subject, observations just watch!",
+      "imageUrl": "topic:study-design",
+      "tags": [
+        "study-design",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_016",
+      "question": "A large population of exam scores has mean mu = 100 and standard deviation sigma = 15. A random sample of 36 scores is selected. About what is the probability that the sample mean x-bar is greater than 105?",
+      "correctAnswer": "0.0228",
+      "distractors": [
+        "0.3694",
+        "0.9772",
+        "0.0456"
+      ],
+      "explanation": "The sampling distribution of x-bar has mean 100 and standard error sigma/sqrt(n) = 15/sqrt(36) = 15/6 = 2.5, and with n = 36 the Central Limit Theorem makes it approximately normal. Standardize the endpoint: z = (105 - 100)/2.5 = 2.00, and the area to the right of z = 2.00 is 0.0228. The value 0.3694 uses sigma = 15 as the spread of x-bar, ignoring that averaging 36 scores shrinks the spread. The value 0.9772 is the area to the LEFT of 105 - the wrong tail. The value 0.0456 doubles 0.0228, the mistake of reporting a two-sided probability for a one-sided question.",
+      "memoryHook": "T-Rexy says: Averages hug the mean - 105 is 2 standard errors out, leaving only 0.0228 beyond!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "sampling-distributions",
+        "sample-mean-probability"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_017",
+      "question": "A scatterplot shows points rising from left to right. What kind of association is this?",
+      "correctAnswer": "Positive association",
+      "distractors": [
+        "Negative association",
+        "No association",
+        "Nonlinear association"
+      ],
+      "explanation": "When larger x-values tend to go with larger y-values, the association is positive.",
+      "memoryHook": "T-Rexy says: Up and to the right means positive - they climb together!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "scatterplot"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_018",
+      "question": "In a strongly right-skewed distribution, how does the mean compare to the median?",
+      "correctAnswer": "The mean is greater than the median",
+      "distractors": [
+        "The mean is less than the median",
+        "The mean equals the median",
+        "They cannot be compared"
+      ],
+      "explanation": "Skew pulls the mean toward the tail, so in a right-skewed distribution the mean exceeds the median.",
+      "memoryHook": "T-Rexy says: The tail drags the mean along - right tail pulls the mean up!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "descriptive-statistics",
+        "mean-median"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_019",
+      "question": "What does a large standard deviation tell you about a data set?",
+      "correctAnswer": "The values are widely spread out from the mean",
+      "distractors": [
+        "The values are all close to the mean",
+        "The mean is large",
+        "The data set has outliers"
+      ],
+      "explanation": "Standard deviation measures typical distance from the mean; a large value means wide spread.",
+      "memoryHook": "T-Rexy says: Big standard deviation means the data scatters far and wide!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "descriptive-statistics",
+        "spread"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_020",
+      "question": "If P(A) = 0.3, what is P(not A)?",
+      "correctAnswer": "0.7",
+      "distractors": [
+        "0.3",
+        "1.3",
+        "0.03"
+      ],
+      "explanation": "By the complement rule, P(not A) = 1 - P(A) = 1 - 0.3 = 0.7.",
+      "memoryHook": "T-Rexy says: Not-A is everything left over - 1 minus P(A)!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "complement"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_021",
+      "question": "Events A and B are disjoint with P(A) = 0.2 and P(B) = 0.5. What is P(A or B)?",
+      "correctAnswer": "0.7",
+      "distractors": [
+        "0.1",
+        "0.3",
+        "1.0"
+      ],
+      "explanation": "For disjoint events, P(A or B) = P(A) + P(B) = 0.2 + 0.5 = 0.7.",
+      "memoryHook": "T-Rexy says: Disjoint means no overlap - just add them up!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "addition-rule"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_022",
+      "question": "What is the difference between a parameter and a statistic?",
+      "correctAnswer": "A parameter describes a population; a statistic describes a sample",
+      "distractors": [
+        "A parameter is always larger",
+        "A statistic is always biased",
+        "There is no difference"
+      ],
+      "explanation": "Parameters are fixed numbers describing populations; statistics are computed from samples and vary.",
+      "memoryHook": "T-Rexy says: Parameter = Population (both start with P); statistic = sample!",
+      "imageUrl": "topic:sampling",
+      "tags": [
+        "sampling",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_023",
+      "question": "Let X be the number of heads in 100 flips of a fair coin, so X is binomial with n = 100 and p = 0.5. What is the standard deviation of X?",
+      "correctAnswer": "5",
+      "distractors": [
+        "25",
+        "50",
+        "10"
+      ],
+      "explanation": "For a binomial random variable, sigma = sqrt(np(1-p)) = sqrt(100 x 0.5 x 0.5) = sqrt(25) = 5. The value 25 is the variance - it still needs a square root before it is a standard deviation - and 50 is the mean, np. The value 10 is sqrt(n) alone, which ignores p and (1-p).",
+      "memoryHook": "T-Rexy says: Binomial SD is the square root of np(1-p) - root of 25 is 5!",
+      "imageUrl": "topic:sampling",
+      "tags": [
+        "probability",
+        "binomial-parameters"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_024",
+      "question": "In stratified random sampling, the population is first divided into:",
+      "correctAnswer": "Groups of similar individuals called strata",
+      "distractors": [
+        "Equal-sized random chunks",
+        "Treatment and control groups",
+        "Volunteers and non-volunteers"
+      ],
+      "explanation": "Stratified sampling divides the population into homogeneous groups (strata), then samples within each.",
+      "memoryHook": "T-Rexy says: Strata are layers - sort into similar piles first, then sample each!",
+      "imageUrl": "topic:sampling",
+      "tags": [
+        "sampling",
+        "methods"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_025",
+      "question": "In a boxplot, what does the line inside the box represent?",
+      "correctAnswer": "The median",
+      "distractors": [
+        "The mean",
+        "The mode",
+        "The range"
+      ],
+      "explanation": "The line inside the box marks the median (second quartile); the box edges are Q1 and Q3.",
+      "memoryHook": "T-Rexy says: The line in the box is the median sitting in the middle!",
+      "imageUrl": "topic:graphs",
+      "tags": [
+        "graphs",
+        "boxplot"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_026",
+      "question": "Using the 1.5 x IQR rule, a value is a suspected outlier if it falls:",
+      "correctAnswer": "More than 1.5 x IQR below Q1 or above Q3",
+      "distractors": [
+        "More than 1.5 x IQR from the mean",
+        "Outside the range",
+        "Below Q1 or above Q3"
+      ],
+      "explanation": "Suspected outliers are values below Q1 - 1.5(IQR) or above Q3 + 1.5(IQR).",
+      "memoryHook": "T-Rexy says: 1.5 IQRs past the box edges - that is outlier territory!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "descriptive-statistics",
+        "outliers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_027",
+      "question": "A two-way table shows 40 males and 60 females surveyed about pet preference. What percent of respondents are female?",
+      "correctAnswer": "60%",
+      "distractors": [
+        "40%",
+        "50%",
+        "66.7%"
+      ],
+      "explanation": "60 females out of 100 total respondents = 60/100 = 60%.",
+      "memoryHook": "T-Rexy says: Part divided by whole - 60 out of 100 is 60 percent!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "two-way-table"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_028",
+      "question": "If P(A and B) = 0.2 and P(B) = 0.5, what is P(A given B)?",
+      "correctAnswer": "0.4",
+      "distractors": [
+        "0.7",
+        "0.1",
+        "0.25"
+      ],
+      "explanation": "P(A|B) = P(A and B) / P(B) = 0.2 / 0.5 = 0.4.",
+      "memoryHook": "T-Rexy says: Given B shrinks your world to B - divide by P(B)!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "conditional"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_029",
+      "question": "The law of large numbers states that as the sample size increases:",
+      "correctAnswer": "The sample mean gets closer to the population mean",
+      "distractors": [
+        "The standard deviation increases",
+        "Bias is eliminated",
+        "The data becomes normal"
+      ],
+      "explanation": "With more trials, the observed relative frequency (or sample mean) converges to the true value.",
+      "memoryHook": "T-Rexy says: More flips, closer to truth - big samples settle down!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "law-of-large-numbers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_030",
+      "question": "A population has proportion p = 0.5. Random samples of size 100 are taken and p-hat is computed for each sample. What is the standard deviation of the sampling distribution of p-hat?",
+      "correctAnswer": "0.05",
+      "distractors": [
+        "0.5",
+        "0.25",
+        "5"
+      ],
+      "explanation": "The standard deviation of p-hat is sqrt(p(1-p)/n) = sqrt(0.5 x 0.5 / 100) = sqrt(0.0025) = 0.05. The value 5 is the standard deviation of the count X, not of the proportion - dividing the count by n = 100 shrinks the spread by a factor of 100. Conditions check: np = 50 and n(1-p) = 50 are both at least 10, so this sampling distribution is approximately normal.",
+      "memoryHook": "T-Rexy says: Spread of p-hat is sqrt(p(1-p)/n) - bigger samples squeeze it down!",
+      "imageUrl": "topic:graphs",
+      "tags": [
+        "sampling-distributions",
+        "sample-proportion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_031",
+      "question": "The standard deviation of 2, 4, 4, 4, 6 is approximately:",
+      "correctAnswer": "1.41",
+      "distractors": [
+        "2.00",
+        "1.00",
+        "4.00"
+      ],
+      "explanation": "Mean = 4. Squared deviations: 4, 0, 0, 0, 4; sum = 8; variance = 8/4 = 2; sd = sqrt(2) = 1.41.",
+      "memoryHook": "T-Rexy says: Square the gaps, average them (n-1), then square-root!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "descriptive-statistics",
+        "standard-deviation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_032",
+      "question": "A value of 85 comes from a distribution with mean 70 and standard deviation 10. What is its z-score?",
+      "correctAnswer": "1.5",
+      "distractors": [
+        "1.0",
+        "2.0",
+        "0.5"
+      ],
+      "explanation": "z = (x - mean)/sd = (85 - 70)/10 = 15/10 = 1.5.",
+      "memoryHook": "T-Rexy says: Z-score counts standard deviations from the mean - how many steps away!",
+      "imageUrl": "topic:normal-distribution",
+      "tags": [
+        "normal-distribution",
+        "z-score"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_033",
+      "question": "Using the Empirical Rule, about what percent of data in a normal distribution falls within 2 standard deviations of the mean?",
+      "correctAnswer": "95%",
+      "distractors": [
+        "68%",
+        "99.7%",
+        "50%"
+      ],
+      "explanation": "The 68-95-99.7 rule: about 95% of values lie within 2 standard deviations of the mean.",
+      "memoryHook": "T-Rexy says: 68, 95, 99.7 - two sigmas grabs 95 percent!",
+      "imageUrl": "topic:normal-distribution",
+      "tags": [
+        "normal-distribution",
+        "empirical-rule"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_034",
+      "question": "To test whether a six-sided die is fair, a student rolls it 60 times. The observed counts for faces 1 through 6 are 13, 8, 8, 11, 11, 9. If the die is fair, the expected count for each face is 10. What is the chi-square test statistic for the goodness-of-fit test?",
+      "correctAnswer": "2.0",
+      "distractors": [
+        "20",
+        "10",
+        "0"
+      ],
+      "explanation": "The chi-square statistic adds (observed - expected)^2 / expected over all six faces: (13 - 10)^2/10 + (8 - 10)^2/10 + (8 - 10)^2/10 + (11 - 10)^2/10 + (11 - 10)^2/10 + (9 - 10)^2/10 = 0.9 + 0.4 + 0.4 + 0.1 + 0.1 + 0.1 = 2.0, with df = 6 - 1 = 5. The value 20 stops after summing the squared differences - it never divides by the expected count. The value 10 sums the absolute differences |O - E|, and 0 sums O - E itself, which is always 0 and measures nothing. A statistic this small means the counts sit close to what fairness predicts.",
+      "memoryHook": "T-Rexy says: Chi-square sums squared gaps over expected - six small gaps make just 2.0!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "inference",
+        "chi-square-statistic"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_035",
+      "question": "If 5 is added to every value in a data set, what happens to the mean?",
+      "correctAnswer": "The mean increases by 5",
+      "distractors": [
+        "The mean stays the same",
+        "The mean is multiplied by 5",
+        "The mean decreases by 5"
+      ],
+      "explanation": "Adding a constant shifts every value, so the mean shifts by the same constant.",
+      "memoryHook": "T-Rexy says: Add to all, add to the mean - the whole herd moves together!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "descriptive-statistics",
+        "transformations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_036",
+      "question": "If every value in a data set is multiplied by 3, what happens to the standard deviation?",
+      "correctAnswer": "It is multiplied by 3",
+      "distractors": [
+        "It stays the same",
+        "It is multiplied by 9",
+        "It is divided by 3"
+      ],
+      "explanation": "Multiplying by a constant scales spread by |constant|; standard deviation is multiplied by 3.",
+      "memoryHook": "T-Rexy says: Stretch the data, stretch the spread - times 3!",
+      "imageUrl": "topic:descriptive-statistics",
+      "tags": [
+        "descriptive-statistics",
+        "transformations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_037",
+      "question": "Which condition is NOT part of the BINS checklist for a binomial setting?",
+      "correctAnswer": "Normality of the population",
+      "distractors": [
+        "Binary outcomes",
+        "Independent trials",
+        "Fixed number of trials"
+      ],
+      "explanation": "BINS = Binary, Independent, Number fixed, Same probability of success. Normality is not required.",
+      "memoryHook": "T-Rexy says: BINS - Binary, Independent, Number, Same p - no Normality needed!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "binomial"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_038",
+      "question": "A fair coin is flipped 10 times. What is the probability of exactly 3 heads?",
+      "correctAnswer": "About 0.117",
+      "distractors": [
+        "0.3",
+        "0.5",
+        "0.031"
+      ],
+      "explanation": "P(X=3) = C(10,3)(0.5)^3(0.5)^7 = 120 x 0.000977 = 0.117.",
+      "memoryHook": "T-Rexy says: Choose the spots, then coin-flip math - C(10,3) times (1/2)^10!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "binomial"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_039",
+      "question": "A basketball player makes 70% of free throws. What is the probability she makes her first basket on the 3rd attempt?",
+      "correctAnswer": "0.063",
+      "distractors": [
+        "0.343",
+        "0.7",
+        "0.21"
+      ],
+      "explanation": "Geometric: P(first success on 3rd) = (0.3)^2(0.7) = 0.09 x 0.7 = 0.063.",
+      "memoryHook": "T-Rexy says: Miss, miss, then swish - (0.3)(0.3)(0.7)!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "geometric"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_040",
+      "question": "A game pays $10 with probability 0.2 and $0 otherwise. What is the expected value?",
+      "correctAnswer": "$2",
+      "distractors": [
+        "$10",
+        "$5",
+        "$0.20"
+      ],
+      "explanation": "Expected value = 10(0.2) + 0(0.8) = 2.",
+      "memoryHook": "T-Rexy says: Expected value is the long-run average payout - probability times prize!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "expected-value"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_041",
+      "question": "If X has mean 10 and Y has mean 4, and X and Y are independent, what is the mean of X + Y?",
+      "correctAnswer": "14",
+      "distractors": [
+        "6",
+        "40",
+        "10"
+      ],
+      "explanation": "The mean of a sum is the sum of the means: 10 + 4 = 14, regardless of independence.",
+      "memoryHook": "T-Rexy says: Means just add up - 10 plus 4 is 14!",
+      "imageUrl": "topic:random-variables",
+      "tags": [
+        "random-variables",
+        "linear-combinations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_042",
+      "question": "X and Y are independent with variances 9 and 16. What is the variance of X - Y?",
+      "correctAnswer": "25",
+      "distractors": [
+        "7",
+        "5",
+        "-7"
+      ],
+      "explanation": "For independent variables, variances add even for differences: 9 + 16 = 25.",
+      "memoryHook": "T-Rexy says: Variances always add for independent variables - even when subtracting!",
+      "imageUrl": "topic:random-variables",
+      "tags": [
+        "random-variables",
+        "linear-combinations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_043",
+      "question": "A manufacturer claims that 50% of its batteries last at least 5 years. In a random sample of 100 batteries, only 40 lasted at least 5 years. For a test of H0: p = 0.5 against Ha: p < 0.5 at alpha = 0.05, what is the test statistic z? (Check: np0 = 50 and n(1-p0) = 50, both at least 10.)",
+      "correctAnswer": "-2.00",
+      "distractors": [
+        "-0.10",
+        "-1.00",
+        "2.00"
+      ],
+      "explanation": "p-hat = 40/100 = 0.40. Under H0 the standard error uses p0, not p-hat: SE = sqrt(0.5 x 0.5 / 100) = 0.05. Then z = (0.40 - 0.50)/0.05 = -0.10/0.05 = -2.00. The value -0.10 is the numerator alone, before dividing by the standard error. The one-sided p-value is about 0.0228, below alpha = 0.05, so we reject H0: the sample gives convincing evidence that fewer than half of the batteries reach 5 years.",
+      "memoryHook": "T-Rexy says: z is difference over standard error - two full SEs below the claim!",
+      "imageUrl": "topic:sampling-distributions",
+      "tags": [
+        "inference",
+        "one-proportion-z-test"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_044",
+      "question": "The Central Limit Theorem says the sampling distribution of the sample mean becomes approximately normal when:",
+      "correctAnswer": "The sample size is large (typically n >= 30)",
+      "distractors": [
+        "The population standard deviation is known",
+        "The sample size is small",
+        "The data has no outliers"
+      ],
+      "explanation": "For large n (rule of thumb n >= 30), the sampling distribution of x-bar is approximately normal regardless of population shape.",
+      "memoryHook": "T-Rexy says: Big samples tame wild shapes - n of 30 makes means normal-ish!",
+      "imageUrl": "topic:sampling-distributions",
+      "tags": [
+        "sampling-distributions",
+        "clt"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_045",
+      "question": "A population has standard deviation 12. What is the standard error of the sample mean for n = 36?",
+      "correctAnswer": "2",
+      "distractors": [
+        "12",
+        "6",
+        "0.33"
+      ],
+      "explanation": "Standard error = sigma/sqrt(n) = 12/sqrt(36) = 12/6 = 2.",
+      "memoryHook": "T-Rexy says: Standard error shrinks with root-n - 12 divided by 6!",
+      "imageUrl": "topic:sampling-distributions",
+      "tags": [
+        "sampling-distributions",
+        "standard-error"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_046",
+      "question": "What does a 95% confidence interval mean?",
+      "correctAnswer": "We are 95% confident the interval captures the true parameter",
+      "distractors": [
+        "95% of the data falls in the interval",
+        "The parameter has a 95% probability of being in this specific interval",
+        "95% of samples give the same interval"
+      ],
+      "explanation": "The confidence level describes the long-run capture rate of the method, not a probability about one interval.",
+      "memoryHook": "T-Rexy says: 95% confident means the method works 95 times out of 100!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "confidence-interval"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_047",
+      "question": "What happens to the margin of error if the sample size is quadrupled?",
+      "correctAnswer": "It is cut in half",
+      "distractors": [
+        "It doubles",
+        "It stays the same",
+        "It is cut to one-fourth"
+      ],
+      "explanation": "Margin of error is proportional to 1/sqrt(n); quadrupling n divides it by sqrt(4) = 2.",
+      "memoryHook": "T-Rexy says: Four times the data, half the wiggle - root-n rules!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "margin-of-error"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_048",
+      "question": "In a sample of 200 voters, 110 support a candidate. What is the 95% confidence interval for the true proportion? (Use z* = 1.96)",
+      "correctAnswer": "0.55 plus or minus 0.069",
+      "distractors": [
+        "0.55 plus or minus 0.035",
+        "0.50 plus or minus 0.069",
+        "0.55 plus or minus 0.138"
+      ],
+      "explanation": "p-hat = 0.55. SE = sqrt(0.55(0.45)/200) = 0.0352. ME = 1.96(0.0352) = 0.069.",
+      "memoryHook": "T-Rexy says: p-hat plus or minus z-star times the standard error!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "proportion-interval"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_049",
+      "question": "A random sample of 25 students has mean study time x-bar = 80 minutes with standard deviation s = 10 minutes. Using t* = 2.064 for df = 24, what is the 95% confidence interval for the population mean study time?",
+      "correctAnswer": "80 plus or minus 4.13",
+      "distractors": [
+        "80 plus or minus 2.00",
+        "80 plus or minus 20.64",
+        "80 plus or minus 3.92"
+      ],
+      "explanation": "For a mean with unknown sigma, use a t interval: x-bar plus or minus t* x s/sqrt(n). The standard error is 10/sqrt(25) = 10/5 = 2, so the margin of error is 2.064 x 2 = 4.128, about 4.13, giving 80 plus or minus 4.13, or (75.87, 84.13). The distractor 2.00 is the standard error alone, 20.64 forgets to divide s by sqrt(n), and 3.92 uses z* = 1.96 instead of t*, which understates the margin because s is only an estimate of sigma.",
+      "memoryHook": "T-Rexy says: t interval is x-bar plus or minus t-star times s over root n!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "t-interval"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_050",
+      "question": "To estimate a proportion within 0.03 with 95% confidence and no prior estimate, what sample size is needed?",
+      "correctAnswer": "1068",
+      "distractors": [
+        "385",
+        "267",
+        "752"
+      ],
+      "explanation": "n = (z*/m)^2 x 0.25 = (1.96/0.03)^2 x 0.25 = 1067.1, round up to 1068.",
+      "memoryHook": "T-Rexy says: No guess? Use 0.5 - it gives the biggest, safest sample size!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "sample-size"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_051",
+      "question": "In a hypothesis test, the null hypothesis typically states:",
+      "correctAnswer": "No effect or no difference",
+      "distractors": [
+        "There is an effect",
+        "The alternative is true",
+        "The sample is biased"
+      ],
+      "explanation": "H0 is the status-quo claim of no effect/no difference that we test against.",
+      "memoryHook": "T-Rexy says: Null means nothing happening - the boring default claim!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "hypothesis-test"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_052",
+      "question": "A p-value of 0.03 means:",
+      "correctAnswer": "If H0 were true, we would see results this extreme about 3% of the time",
+      "distractors": [
+        "There is a 3% chance H0 is true",
+        "There is a 97% chance Ha is true",
+        "The result is practically important"
+      ],
+      "explanation": "The p-value is the probability of data this extreme assuming H0 is true; it is not P(H0 true).",
+      "memoryHook": "T-Rexy says: P-value assumes null is true - how weird is our data then?",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "p-value"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_053",
+      "question": "What is a Type I error?",
+      "correctAnswer": "Rejecting a true null hypothesis",
+      "distractors": [
+        "Failing to reject a false null",
+        "Using the wrong test",
+        "Having a biased sample"
+      ],
+      "explanation": "Type I error = false positive: rejecting H0 when it is actually true.",
+      "memoryHook": "T-Rexy says: Type I is a false alarm - rejecting a true null!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "errors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_054",
+      "question": "What is a Type II error?",
+      "correctAnswer": "Failing to reject a false null hypothesis",
+      "distractors": [
+        "Rejecting a true null hypothesis",
+        "Getting a large p-value",
+        "Using a small sample"
+      ],
+      "explanation": "Type II error = false negative: failing to reject H0 when Ha is actually true.",
+      "memoryHook": "T-Rexy says: Type II misses the real thing - letting a false null slide!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "errors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_055",
+      "question": "If the significance level is 0.05 and the p-value is 0.02, what is the conclusion?",
+      "correctAnswer": "Reject the null hypothesis",
+      "distractors": [
+        "Fail to reject the null hypothesis",
+        "Accept the null hypothesis",
+        "The test is inconclusive"
+      ],
+      "explanation": "Since p-value (0.02) < alpha (0.05), we reject H0.",
+      "memoryHook": "T-Rexy says: P-value smaller than alpha - reject the null!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "significance"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_056",
+      "question": "A one-sample z-test for a proportion requires which condition about counts?",
+      "correctAnswer": "np >= 10 and n(1-p) >= 10",
+      "distractors": [
+        "n >= 30",
+        "The population must be normal",
+        "The sample must be paired"
+      ],
+      "explanation": "The Large Counts condition ensures the sampling distribution is approximately normal.",
+      "memoryHook": "T-Rexy says: Need at least 10 successes and 10 failures - large counts!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "conditions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_057",
+      "question": "Why do we use a t-distribution instead of z for a one-sample mean test with small n?",
+      "correctAnswer": "Because the population standard deviation is unknown and estimated by s",
+      "distractors": [
+        "Because the sample is biased",
+        "Because the data is skewed",
+        "Because n is large"
+      ],
+      "explanation": "When sigma is unknown we use s, adding extra variability captured by the t-distribution.",
+      "memoryHook": "T-Rexy says: Unknown sigma? Use s and the t-distribution - it has fatter tails!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "t-test"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_058",
+      "question": "Which is NOT a condition for inference about a population mean?",
+      "correctAnswer": "The population standard deviation must be known",
+      "distractors": [
+        "Random sample",
+        "Normality or large n",
+        "Independence (10% condition)"
+      ],
+      "explanation": "Random, Normal/Large n, and Independence are the conditions; knowing sigma is not required (we use t).",
+      "memoryHook": "T-Rexy says: Random, Normal, Independent - sigma known is NOT required!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "conditions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_059",
+      "question": "In the regression equation y-hat = 2 + 3x, what does the slope 3 mean?",
+      "correctAnswer": "For each 1-unit increase in x, predicted y increases by 3",
+      "distractors": [
+        "When x = 0, y = 3",
+        "The correlation is 3",
+        "y increases by 2 for each x"
+      ],
+      "explanation": "Slope = predicted change in y per 1-unit increase in x.",
+      "memoryHook": "T-Rexy says: Slope is rise over run - up 3 for every 1 across!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "interpretation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_060",
+      "question": "In the regression equation y-hat = 2 + 3x, what does the intercept 2 mean?",
+      "correctAnswer": "The predicted y-value when x = 0",
+      "distractors": [
+        "The slope of the line",
+        "The correlation coefficient",
+        "The maximum y-value"
+      ],
+      "explanation": "Set x = 0 in y-hat = 2 + 3x and you get y-hat = 2. That starting value is the intercept - useful for reading the line, though it only makes sense if x = 0 is realistic in context.",
+      "memoryHook": "T-Rexy says: Intercept is where the line hits the y-axis - x equals zero!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "interpretation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_061",
+      "question": "What is a residual?",
+      "correctAnswer": "The difference between the observed y and the predicted y",
+      "distractors": [
+        "The slope of the regression line",
+        "An outlier in the data",
+        "The correlation coefficient"
+      ],
+      "explanation": "Residual = observed - predicted (y - y-hat); it measures prediction error.",
+      "memoryHook": "T-Rexy says: Residual is the leftover - actual minus predicted!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "residuals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_062",
+      "question": "For the relationship between practice hours (x) and exam score (y), summary statistics are r = 0.8, sx = 4, sy = 12, x-bar = 10, and y-bar = 50. What is the slope of the least-squares regression line?",
+      "correctAnswer": "2.4",
+      "distractors": [
+        "0.27",
+        "0.8",
+        "9.6"
+      ],
+      "explanation": "The least-squares slope is b = r(sy/sx) = 0.8 x (12/4) = 0.8 x 3 = 2.4 points per practice hour. The line then passes through (x-bar, y-bar), so the intercept is a = y-bar - b(x-bar) = 50 - 2.4 x 10 = 26, and the full line is y-hat = 26 + 2.4x. Inverting the ratio, 0.8 x (4/12) = 0.27, would give the slope of the reversed regression of x on y, and 9.6 = r x sy forgets to divide by sx.",
+      "memoryHook": "T-Rexy says: Slope is r times sy over sx - stretch the correlation by the spread ratio!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "least-squares-slope"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_063",
+      "question": "A strong correlation between ice cream sales and drowning deaths does NOT prove:",
+      "correctAnswer": "That ice cream causes drowning",
+      "distractors": [
+        "That they are associated",
+        "That higher ice cream sales tend to occur alongside more drowning deaths",
+        "That correlation exists"
+      ],
+      "explanation": "Correlation does not imply causation; a lurking variable (hot weather) explains both.",
+      "memoryHook": "T-Rexy says: Correlation is not causation - look for the lurking variable!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "causation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_064",
+      "question": "What is a lurking variable?",
+      "correctAnswer": "A variable not in the study that affects both explanatory and response variables",
+      "distractors": [
+        "The response variable",
+        "An outlier",
+        "A variable with no effect"
+      ],
+      "explanation": "A lurking variable is unmeasured but influences the relationship, potentially creating misleading association.",
+      "memoryHook": "T-Rexy says: Lurking variables hide in the bushes and mess up your conclusions!",
+      "imageUrl": "topic:study-design",
+      "tags": [
+        "study-design",
+        "lurking"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_065",
+      "question": "A chi-square goodness-of-fit test is used to:",
+      "correctAnswer": "Compare observed counts to expected counts for one categorical variable",
+      "distractors": [
+        "Compare two means",
+        "Test a regression slope",
+        "Estimate a proportion"
+      ],
+      "explanation": "Goodness-of-fit tests whether a single categorical variable follows a claimed distribution.",
+      "memoryHook": "T-Rexy says: Goodness-of-fit asks - does our data fit the claimed recipe?",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "chi-square"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_066",
+      "question": "Two independent random samples compare recovery time in days after two therapies. Therapy A: n = 20 patients, x-bar = 52 days, s = 8 days. Therapy B: n = 20 patients, x-bar = 47 days, s = 6 days. Using t* = 2.093, what is the 95% confidence interval for the difference mu_A - mu_B in mean recovery time?",
+      "correctAnswer": "(0.32, 9.68)",
+      "distractors": [
+        "(0.62, 9.38)",
+        "(-5.47, 15.47)",
+        "(-1.55, 11.55)"
+      ],
+      "explanation": "A two-sample t interval is (x-bar1 - x-bar2) plus or minus t* x sqrt(s1^2/n1 + s2^2/n2). The estimate is 52 - 47 = 5 and the standard error is sqrt(64/20 + 36/20) = sqrt(3.2 + 1.8) = sqrt(5) = 2.24, so the margin of error is 2.093 x 2.24 = 4.68 and the interval is 5 plus or minus 4.68, or (0.32, 9.68). (The t* = 2.093 uses the conservative df = 19, the smaller sample size minus 1.) The interval (0.62, 9.38) uses z* = 1.96 instead of t*, too small because both population standard deviations are estimated from samples. The interval (-5.47, 15.47) uses 5 - the sum 3.2 + 1.8 before its square root - as the standard error, and (-1.55, 11.55) adds the standard deviations first, (8 + 6)/sqrt(20). Because the whole interval is above 0, the data give convincing evidence that Therapy A's mean recovery time is longer.",
+      "memoryHook": "T-Rexy says: Two-sample interval adds the variance parts - 5 plus or minus 4.68 stays above zero!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "two-sample-t-interval"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_067",
+      "question": "A paired t-test is appropriate when:",
+      "correctAnswer": "Each subject is measured twice (before/after) or subjects are matched in pairs",
+      "distractors": [
+        "The two samples are independent",
+        "n is very large",
+        "Testing proportions"
+      ],
+      "explanation": "Paired designs create dependent pairs; analyze the differences with a one-sample t procedure.",
+      "memoryHook": "T-Rexy says: Paired means linked - before and after, or matched twins!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "paired"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_068",
+      "question": "What is the purpose of random assignment in an experiment?",
+      "correctAnswer": "To create roughly equivalent groups and allow causal conclusions",
+      "distractors": [
+        "To select the sample",
+        "To eliminate all variation",
+        "To guarantee significance"
+      ],
+      "explanation": "Random assignment balances lurking variables across treatment groups, supporting cause-and-effect claims.",
+      "memoryHook": "T-Rexy says: Random assignment deals fair hands - groups start out even!",
+      "imageUrl": "topic:study-design",
+      "tags": [
+        "study-design",
+        "experiments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_069",
+      "question": "What is blocking in experimental design?",
+      "correctAnswer": "Grouping similar subjects before random assignment to reduce variability",
+      "distractors": [
+        "Preventing subjects from participating",
+        "Using only one treatment",
+        "Sampling without replacement"
+      ],
+      "explanation": "Blocking groups subjects by a known source of variability, then randomizes within blocks.",
+      "memoryHook": "T-Rexy says: Block the troublemakers - group similar subjects first!",
+      "imageUrl": "topic:study-design",
+      "tags": [
+        "study-design",
+        "experiments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_070",
+      "question": "In a matched pairs design, pairs are formed based on:",
+      "correctAnswer": "Similarity on variables related to the response",
+      "distractors": [
+        "Random chance",
+        "Different treatments",
+        "Sample size"
+      ],
+      "explanation": "Matching pairs subjects alike on key variables to control variability, then randomize within pairs.",
+      "memoryHook": "T-Rexy says: Match look-alikes, then flip a coin within each pair!",
+      "imageUrl": "topic:study-design",
+      "tags": [
+        "study-design",
+        "experiments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_071",
+      "question": "A regression of exam score on study hours from a random sample of 26 students gives slope b = 3.2 with SE(b) = 0.8. Using t* = 2.06 for df = 24, what is the 95% confidence interval for the true population slope?",
+      "correctAnswer": "About (1.55, 4.85)",
+      "distractors": [
+        "About (2.40, 4.00)",
+        "About (1.63, 4.77)",
+        "About (1.55, 3.20)"
+      ],
+      "explanation": "A slope interval is b plus or minus t* x SE(b): 3.2 plus or minus 2.06 x 0.8 = 3.2 plus or minus 1.648, giving about (1.55, 4.85). SE(b) = 0.8 measures how much a sample slope would typically vary from sample to sample. The distractor (2.40, 4.00) uses one SE with no t* multiplier, and (1.63, 4.77) uses z* = 1.96 instead of t*. The interval excludes 0, so there is convincing evidence of a linear relationship. Slope inference requires the LINE conditions: Linear pattern, Independent observations, Normal residuals, Equal spread of residuals, and a Random sample.",
+      "memoryHook": "T-Rexy says: Slope interval is b plus or minus t-star times SE of b - (1.55, 4.85) misses zero!",
+      "imageUrl": "topic:sampling-distributions",
+      "tags": [
+        "regression",
+        "slope-inference"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_072",
+      "question": "The power of a hypothesis test is:",
+      "correctAnswer": "The probability of correctly rejecting a false null hypothesis",
+      "distractors": [
+        "The probability of a Type I error",
+        "Always equal to the p-value",
+        "The sample size divided by alpha"
+      ],
+      "explanation": "Power = 1 - P(Type II error) = P(reject H0 | Ha true).",
+      "memoryHook": "T-Rexy says: Power is the test's muscle - catching false nulls!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "power"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_073",
+      "question": "If a 95% confidence interval for a mean does NOT contain 0, what can you conclude at alpha = 0.05 for a two-sided test of H0: mean = 0?",
+      "correctAnswer": "Reject H0",
+      "distractors": [
+        "Fail to reject H0",
+        "Accept H0",
+        "Nothing - they are unrelated"
+      ],
+      "explanation": "CI and two-sided test agree: excluding the null value at 95% confidence matches rejecting at alpha = 0.05.",
+      "memoryHook": "T-Rexy says: Interval misses zero? The two-sided test rejects too - they agree!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "duality"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_074",
+      "question": "To test whether a regression slope is significantly different from 0, we use:",
+      "correctAnswer": "A t-test for the slope",
+      "distractors": [
+        "A z-test for proportions",
+        "A chi-square test",
+        "A paired t-test"
+      ],
+      "explanation": "Inference for the slope uses t = b/SE_b with n-2 degrees of freedom.",
+      "memoryHook": "T-Rexy says: Slope significance? T-test with n minus 2 degrees of freedom!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "inference"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_075",
+      "question": "A chi-square test for independence is used when:",
+      "correctAnswer": "Examining the association between two categorical variables from one sample",
+      "distractors": [
+        "Comparing two means",
+        "Testing goodness-of-fit for one variable",
+        "Estimating a single proportion"
+      ],
+      "explanation": "Use it when ONE sample is cross-classified two ways - for example, one group of students sorted by both gender and favorite subject. The test then asks whether the two variables are independent or associated. Two separate samples would call for homogeneity instead.",
+      "memoryHook": "T-Rexy says: Two categorical variables, one sample - test for independence!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "chi-square"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_076",
+      "question": "A chi-square test for homogeneity is used when:",
+      "correctAnswer": "Comparing the distribution of one categorical variable across several populations",
+      "distractors": [
+        "Testing one proportion",
+        "Comparing paired means",
+        "Testing a regression slope"
+      ],
+      "explanation": "Use it when SEPARATE samples are drawn from each population - for example, sophomores, juniors, and seniors each sampled on their own - and the same categorical variable is compared across them. One pooled sample cross-classified two ways would call for independence instead.",
+      "memoryHook": "T-Rexy says: Same variable, several groups - are the distributions homogeneous?",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "chi-square"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_077",
+      "question": "In a two-proportion z-test, the standard error for the test statistic uses:",
+      "correctAnswer": "A pooled proportion",
+      "distractors": [
+        "Separate sample proportions",
+        "The population standard deviation",
+        "The t-distribution"
+      ],
+      "explanation": "Under H0 (p1 = p2), we pool: p-hat = (x1+x2)/(n1+n2), then SE uses the pooled value.",
+      "memoryHook": "T-Rexy says: Testing equality? Pool them - one common proportion under H0!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "two-proportion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_078",
+      "question": "For a two-proportion z-interval (estimating p1 - p2), the standard error uses:",
+      "correctAnswer": "Unpooled sample proportions",
+      "distractors": [
+        "A pooled proportion",
+        "The known population variance",
+        "Degrees of freedom"
+      ],
+      "explanation": "Confidence intervals do not assume equality, so use each sample's own p-hat (unpooled).",
+      "memoryHook": "T-Rexy says: Intervals do not assume equal - keep the proportions separate!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "two-proportion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_079",
+      "question": "Why is a paired t-test generally more powerful than a two-sample t-test on the same subjects?",
+      "correctAnswer": "Pairing removes subject-to-subject variability",
+      "distractors": [
+        "It uses a larger alpha",
+        "It requires no conditions",
+        "It always gives smaller p-values"
+      ],
+      "explanation": "Analyzing differences within pairs eliminates between-subject variation, reducing standard error.",
+      "memoryHook": "T-Rexy says: Pairing cancels out individual differences - less noise, more power!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "paired"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_080",
+      "question": "If a scatterplot shows curved association, what transformation might linearize it?",
+      "correctAnswer": "Take the logarithm of the response variable",
+      "distractors": [
+        "Add a constant to x",
+        "Remove all outliers",
+        "Square the correlation"
+      ],
+      "explanation": "Log or power transformations can straighten nonlinear patterns so linear regression applies.",
+      "memoryHook": "T-Rexy says: Curved cloud? Try a log - straighten it out!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "transformations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_081",
+      "question": "A residual plot shows a clear curved pattern. What does this indicate?",
+      "correctAnswer": "A linear model is not appropriate",
+      "distractors": [
+        "The model fits perfectly",
+        "There are no outliers",
+        "The correlation is 1"
+      ],
+      "explanation": "Residuals should scatter randomly; a pattern (like a curve) means the linear model misses structure.",
+      "memoryHook": "T-Rexy says: Curvy residuals wave a red flag - linear model does not fit!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "residuals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_082",
+      "question": "What is the difference between an outlier and an influential point in regression?",
+      "correctAnswer": "An influential point substantially changes the regression line; an outlier is just far from the pattern",
+      "distractors": [
+        "They are the same thing",
+        "Outliers are always influential",
+        "Influential points have small residuals"
+      ],
+      "explanation": "Outliers have large residuals; influential points (often high-leverage x-values) pull the line.",
+      "memoryHook": "T-Rexy says: Outliers stray, influential points drag the whole line along!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "diagnostics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_083",
+      "question": "Simpson's paradox occurs when:",
+      "correctAnswer": "An association reverses direction after grouping the data",
+      "distractors": [
+        "The sample size is too small",
+        "The p-value is exactly 0.05",
+        "Two variables are perfectly correlated"
+      ],
+      "explanation": "Aggregated data can show one trend while subgroups show the opposite - a lurking variable is at work.",
+      "memoryHook": "T-Rexy says: The whole tells one story, the parts tell the opposite - paradox!",
+      "imageUrl": "topic:study-design",
+      "tags": [
+        "study-design",
+        "paradox"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_084",
+      "question": "What is the difference between nonresponse bias and undercoverage?",
+      "correctAnswer": "Nonresponse: selected individuals do not respond; undercoverage: some groups are left out of the frame",
+      "distractors": [
+        "They are identical",
+        "Undercoverage only affects experiments",
+        "Nonresponse only affects censuses"
+      ],
+      "explanation": "Nonresponse happens after selection; undercoverage means the sampling frame misses part of the population.",
+      "memoryHook": "T-Rexy says: Nonresponse ghosts you; undercoverage never invited them!",
+      "imageUrl": "topic:sampling",
+      "tags": [
+        "sampling",
+        "bias"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_085",
+      "question": "Why can a well-designed experiment establish causation but an observational study generally cannot?",
+      "correctAnswer": "Random assignment balances lurking variables across groups",
+      "distractors": [
+        "Experiments always have larger samples",
+        "Observational studies never use statistics",
+        "Experiments eliminate all bias"
+      ],
+      "explanation": "Random assignment makes treatment groups comparable, isolating the treatment effect from confounders.",
+      "memoryHook": "T-Rexy says: Random assignment evens the playing field - that is why experiments can claim cause!",
+      "imageUrl": "topic:study-design",
+      "tags": [
+        "study-design",
+        "causation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_086",
+      "question": "A population has standard deviation 20. For samples of size 100, what is the standard deviation of the sampling distribution of x-bar?",
+      "correctAnswer": "2",
+      "distractors": [
+        "20",
+        "0.2",
+        "200"
+      ],
+      "explanation": "SD(x-bar) = sigma/sqrt(n) = 20/sqrt(100) = 20/10 = 2.",
+      "memoryHook": "T-Rexy says: Divide sigma by root-n - 20 over 10 is 2!",
+      "imageUrl": "topic:sampling-distributions",
+      "tags": [
+        "sampling-distributions",
+        "standard-error"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_087",
+      "question": "Computer output for a regression shows: Slope = 1.5, SE(Slope) = 0.5, n = 30. What is the t-statistic for testing H0: slope = 0?",
+      "correctAnswer": "3.0",
+      "distractors": [
+        "1.5",
+        "0.5",
+        "28"
+      ],
+      "explanation": "t = (b - 0)/SE_b = 1.5/0.5 = 3.0 with 28 degrees of freedom.",
+      "memoryHook": "T-Rexy says: T is estimate over its standard error - 1.5 divided by 0.5!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "inference"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_088",
+      "question": "In a random sample of 100 juniors, 60 pass a proficiency test. In an independent random sample of 100 seniors, 40 pass. What is the 95% confidence interval for the difference p1 - p2 in pass rates (juniors minus seniors)? Use z* = 1.96.",
+      "correctAnswer": "0.20 plus or minus 0.136",
+      "distractors": [
+        "0.20 plus or minus 0.069",
+        "0.20 plus or minus 0.096",
+        "0.00 plus or minus 0.136"
+      ],
+      "explanation": "p-hat1 = 60/100 = 0.60 and p-hat2 = 40/100 = 0.40, so the estimate is 0.20. For an interval the standard error is unpooled: sqrt(0.6 x 0.4/100 + 0.4 x 0.6/100) = sqrt(0.0024 + 0.0024) = sqrt(0.0048) = 0.0693. The margin of error is 1.96 x 0.0693 = 0.136, so the interval is 0.20 plus or minus 0.136, or about (0.064, 0.336). The distractor 0.069 is the standard error with no z* multiplier, and 0.096 uses only one sample in the standard error. Because the interval lies entirely above 0, the data support a higher pass rate for juniors. Pooling is reserved for a test of H0: p1 = p2, not for intervals.",
+      "memoryHook": "T-Rexy says: Difference interval adds the two variances - unpooled for intervals, always!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "two-proportion-interval"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_089",
+      "question": "How does increasing the confidence level (e.g., 95% to 99%) affect the width of a confidence interval?",
+      "correctAnswer": "The interval gets wider",
+      "distractors": [
+        "The interval gets narrower",
+        "The width stays the same",
+        "The interval becomes a point"
+      ],
+      "explanation": "Higher confidence requires a larger critical value, widening the interval.",
+      "memoryHook": "T-Rexy says: More confidence needs more room - wider net catches more!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "confidence-interval"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_090",
+      "question": "A two-way table classifies 200 students by class level and whether they passed a test. Row totals: Juniors 80, Seniors 120. Column totals: Passed 50, Did Not Pass 150. Under independence, what is the expected count in the Juniors-Passed cell?",
+      "correctAnswer": "20",
+      "distractors": [
+        "32",
+        "40",
+        "12.5"
+      ],
+      "explanation": "An expected count is (row total x column total) / grand total = (80 x 50)/200 = 4000/200 = 20. The distractor 32 uses the row total twice, 40 divides by 100 instead of the grand total 200, and 12.5 uses the column total twice. The full expected table is Juniors: 20 passed and 60 did not pass; Seniors: 30 passed and 90 did not pass. Every expected count is at least 5, so the expected-counts condition is satisfied and a chi-square test for independence can proceed.",
+      "memoryHook": "T-Rexy says: Expected is row times column over grand total - 80 times 50 over 200 is 20!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "chi-square-expected-counts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_091",
+      "question": "For a one-sided test with test statistic z = 1.5, the p-value is about 0.067. What would the two-sided p-value be?",
+      "correctAnswer": "About 0.134",
+      "distractors": [
+        "0.067",
+        "0.0335",
+        "0.933"
+      ],
+      "explanation": "Two-sided p-value doubles the one-sided tail area: 2 x 0.067 = 0.134.",
+      "memoryHook": "T-Rexy says: Two sides, double the tail - multiply by 2!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "p-value"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_092",
+      "question": "A result is statistically significant but the effect size is negligible. This illustrates:",
+      "correctAnswer": "The difference between statistical and practical significance",
+      "distractors": [
+        "A Type I error",
+        "Biased sampling",
+        "A flawed experiment"
+      ],
+      "explanation": "Large samples can detect trivial differences; always ask whether the effect matters in context.",
+      "memoryHook": "T-Rexy says: Big samples find tiny differences - ask if it actually matters!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "practical-significance"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_093",
+      "question": "X and Y are independent normal random variables with means 10 and 20 and standard deviations 3 and 4. What is the standard deviation of X + Y?",
+      "correctAnswer": "5",
+      "distractors": [
+        "7",
+        "25",
+        "12"
+      ],
+      "explanation": "Var(X+Y) = 9 + 16 = 25, so SD = sqrt(25) = 5.",
+      "memoryHook": "T-Rexy says: Add variances, then square-root - sqrt(9+16) = 5!",
+      "imageUrl": "topic:random-variables",
+      "tags": [
+        "random-variables",
+        "normal"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_094",
+      "question": "When can a binomial distribution be approximated by a normal distribution?",
+      "correctAnswer": "When np >= 10 and n(1-p) >= 10",
+      "distractors": [
+        "Always",
+        "When n < 30",
+        "When p = 0.5 only"
+      ],
+      "explanation": "The Large Counts condition justifies the normal approximation to the binomial.",
+      "memoryHook": "T-Rexy says: Ten successes and ten failures - then normal is fair game!",
+      "imageUrl": "topic:probability",
+      "tags": [
+        "probability",
+        "normal-approximation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_095",
+      "question": "A school claims its students average 75 points on a benchmark test. A random sample of 49 students has mean x-bar = 68 points with standard deviation s = 14 points. What is the t statistic for testing H0: mu = 75?",
+      "correctAnswer": "-3.5",
+      "distractors": [
+        "-7",
+        "-0.5",
+        "3.5"
+      ],
+      "explanation": "The standard error of x-bar is s/sqrt(n) = 14/sqrt(49) = 14/7 = 2. Then t = (x-bar - mu0) / SE = (68 - 75)/2 = -7/2 = -3.5, with df = 48. The distractor -7 is the numerator alone, and -0.5 divides by s = 14 instead of the standard error, which understates how unusual the sample mean is, because the mean of 49 observations varies far less than a single observation.",
+      "memoryHook": "T-Rexy says: t is the gap over the standard error - a 7-point gap at SE 2 is t = -3.5!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "inference",
+        "t-test-statistic"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_096",
+      "question": "Using a regression model to predict y for an x-value far outside the observed data range is called:",
+      "correctAnswer": "Extrapolation",
+      "distractors": [
+        "Interpolation",
+        "Transformation",
+        "Residual analysis"
+      ],
+      "explanation": "Extrapolation is risky because the linear pattern may not continue beyond the data.",
+      "memoryHook": "T-Rexy says: Predicting beyond the data is extrapolation - danger zone!",
+      "imageUrl": "topic:regression",
+      "tags": [
+        "regression",
+        "extrapolation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_097",
+      "question": "A study finds that people who drink more coffee have higher stress. Coffee and stress are confounded by:",
+      "correctAnswer": "Work demands, which increase both coffee drinking and stress",
+      "distractors": [
+        "The type of coffee",
+        "The time of day",
+        "Random chance"
+      ],
+      "explanation": "A confounding variable is associated with both the explanatory and response variables, muddying causation.",
+      "memoryHook": "T-Rexy says: Confounders tangle the story - work stress drives both!",
+      "imageUrl": "topic:study-design",
+      "tags": [
+        "study-design",
+        "confounding"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_098",
+      "question": "In a double-blind experiment:",
+      "correctAnswer": "Neither subjects nor researchers know who received which treatment",
+      "distractors": [
+        "Subjects are blindfolded",
+        "Only the control group is blinded",
+        "Results are kept secret forever"
+      ],
+      "explanation": "Double-blinding prevents both subject expectations and researcher bias from affecting outcomes.",
+      "memoryHook": "T-Rexy says: Double-blind means nobody knows - no sneaky expectations!",
+      "imageUrl": "topic:study-design",
+      "tags": [
+        "study-design",
+        "blinding"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_099",
+      "question": "A researcher wants to compare mean battery life of two brands. Brand A: n=40, mean=12h. Brand B: n=40, mean=11h. Which procedure is appropriate?",
+      "correctAnswer": "Two-sample t-test for means",
+      "distractors": [
+        "One-sample t-test",
+        "Chi-square test",
+        "Paired t-test"
+      ],
+      "explanation": "Two independent groups with quantitative response calls for a two-sample t-test.",
+      "memoryHook": "T-Rexy says: Two independent brands, two means - two-sample t!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "procedure-selection"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ESTAT_100",
+      "question": "A survey asks about exercise habits and heart health from one sample, classifying each person by both variables. Which test examines their association?",
+      "correctAnswer": "Chi-square test for independence",
+      "distractors": [
+        "Two-sample t-test",
+        "One-proportion z-test",
+        "Regression t-test for slope"
+      ],
+      "explanation": "First check the data type: exercise habit and heart-health status are both categorical, and every person in the single sample supplies one value of each. Two categorical variables in one sample point to chi-square - a t-test would need a quantitative response, and a proportion z-test only handles one categorical variable.",
+      "memoryHook": "T-Rexy says: Two categories, one sample - chi-square independence test!",
+      "imageUrl": "topic:inference",
+      "tags": [
+        "inference",
+        "procedure-selection"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}
