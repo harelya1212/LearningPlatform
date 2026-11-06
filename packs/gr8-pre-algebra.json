@@ -1,0 +1,1960 @@
+{
+  "packId": "gr8-pre-algebra",
+  "title": "Pre-Algebra (8th Grade)",
+  "description": "Pre-Algebra (8th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "math",
+    "pre-algebra",
+    "8th"
+  ],
+  "questions": [
+    {
+      "id": "PAL8_001",
+      "question": "What is 2^2?",
+      "correctAnswer": "4",
+      "distractors": [
+        "5",
+        "3",
+        "8"
+      ],
+      "explanation": "2 squared means 2 times 2, which is 4.",
+      "memoryHook": "T-Rexy says: Square means multiply the number by itself.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_002",
+      "question": "What is 3^2?",
+      "correctAnswer": "9",
+      "distractors": [
+        "10",
+        "4",
+        "27"
+      ],
+      "explanation": "3 squared means 3 times 3, which is 9.",
+      "memoryHook": "T-Rexy says: Square means multiply the number by itself.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_003",
+      "question": "What is 4^2?",
+      "correctAnswer": "16",
+      "distractors": [
+        "17",
+        "5",
+        "64"
+      ],
+      "explanation": "4 squared means 4 times 4, which is 16.",
+      "memoryHook": "T-Rexy says: Square means multiply the number by itself.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_004",
+      "question": "What is 5^2?",
+      "correctAnswer": "25",
+      "distractors": [
+        "26",
+        "6",
+        "125"
+      ],
+      "explanation": "5 squared means 5 times 5, which is 25.",
+      "memoryHook": "T-Rexy says: Square means multiply the number by itself.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_005",
+      "question": "What is 6^2?",
+      "correctAnswer": "36",
+      "distractors": [
+        "37",
+        "7",
+        "216"
+      ],
+      "explanation": "6 squared means 6 times 6, which is 36.",
+      "memoryHook": "T-Rexy says: Square means multiply the number by itself.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_006",
+      "question": "What is 2^3?",
+      "correctAnswer": "8",
+      "distractors": [
+        "6",
+        "5",
+        "11"
+      ],
+      "explanation": "2^3 means 2 multiplied by itself 3 times, which is 8.",
+      "memoryHook": "T-Rexy says: An exponent counts how many times to multiply.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_007",
+      "question": "What is 2^4?",
+      "correctAnswer": "16",
+      "distractors": [
+        "8",
+        "6",
+        "19"
+      ],
+      "explanation": "2^4 means 2 multiplied by itself 4 times, which is 16.",
+      "memoryHook": "T-Rexy says: An exponent counts how many times to multiply.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_008",
+      "question": "What is 2^5?",
+      "correctAnswer": "32",
+      "distractors": [
+        "10",
+        "7",
+        "35"
+      ],
+      "explanation": "2^5 means 2 multiplied by itself 5 times, which is 32.",
+      "memoryHook": "T-Rexy says: An exponent counts how many times to multiply.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_009",
+      "question": "What is 7^0?",
+      "correctAnswer": "1",
+      "distractors": [
+        "0",
+        "7",
+        "49"
+      ],
+      "explanation": "Any nonzero number to the zero power is 1.",
+      "memoryHook": "T-Rexy says: Zero power always equals 1.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "zero-power"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_010",
+      "question": "What is 5^-1 as a fraction?",
+      "correctAnswer": "1/5",
+      "distractors": [
+        "-5",
+        "5",
+        "-1/5"
+      ],
+      "explanation": "A negative exponent means take the reciprocal: 5^-1 = 1/5.",
+      "memoryHook": "T-Rexy says: Negative exponents flip to the reciprocal.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "negative-exponents"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_011",
+      "question": "Simplify: 3^2 x 3^3.",
+      "correctAnswer": "3^5",
+      "distractors": [
+        "3^6",
+        "9^5",
+        "3^1"
+      ],
+      "explanation": "Add the exponents when multiplying like bases: 2 + 3 = 5.",
+      "memoryHook": "T-Rexy says: Multiply like bases by adding exponents.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "properties"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_012",
+      "question": "Simplify: 2^5 / 2^2.",
+      "correctAnswer": "2^3",
+      "distractors": [
+        "2^7",
+        "2^10",
+        "2^2"
+      ],
+      "explanation": "Subtract the exponents when dividing like bases: 5 - 2 = 3.",
+      "memoryHook": "T-Rexy says: Divide like bases by subtracting exponents.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "properties"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_013",
+      "question": "Write 4,500 in scientific notation.",
+      "correctAnswer": "4.5 x 10^3",
+      "distractors": [
+        "4.5 x 10^4",
+        "45 x 10^4",
+        "4.5 x 10^2"
+      ],
+      "explanation": "Move the decimal 3 places left: 4.5 x 10^3.",
+      "memoryHook": "T-Rexy says: Count the decimal moves for the exponent.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "scientific-notation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_014",
+      "question": "Write 0.003 in scientific notation.",
+      "correctAnswer": "3 x 10^-3",
+      "distractors": [
+        "3 x 10^3",
+        "0.3 x 10^-4",
+        "3 x 10^-2"
+      ],
+      "explanation": "Move the decimal 3 places right, so the exponent is -3.",
+      "memoryHook": "T-Rexy says: Small numbers get negative exponents.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "scientific-notation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_015",
+      "question": "What is 6.2 x 10^4 as a standard number?",
+      "correctAnswer": "62,000",
+      "distractors": [
+        "6,200",
+        "620,000",
+        "62"
+      ],
+      "explanation": "10^4 is 10,000, and 6.2 x 10,000 = 62,000.",
+      "memoryHook": "T-Rexy says: Move the decimal right for a positive exponent.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "scientific-notation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_016",
+      "question": "Which is larger: 3.1 x 10^5 or 3.1 x 10^4?",
+      "correctAnswer": "3.1 x 10^5",
+      "distractors": [
+        "3.1 x 10^4",
+        "They are equal",
+        "9.3 x 10^5"
+      ],
+      "explanation": "The larger exponent means the larger number.",
+      "memoryHook": "T-Rexy says: Compare exponents first.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "scientific-notation",
+        "comparing"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_017",
+      "question": "What is (2 x 10^3) x (3 x 10^2)?",
+      "correctAnswer": "6 x 10^5",
+      "distractors": [
+        "5 x 10^5",
+        "6 x 10^6",
+        "6 x 10^1"
+      ],
+      "explanation": "Multiply 2 x 3 = 6 and add exponents 3 + 2 = 5.",
+      "memoryHook": "T-Rexy says: Multiply coefficients, add exponents.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "scientific-notation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_018",
+      "question": "What is the square root of 9?",
+      "correctAnswer": "3",
+      "distractors": [
+        "4",
+        "6",
+        "2"
+      ],
+      "explanation": "3 x 3 = 9, so the square root of 9 is 3.",
+      "memoryHook": "T-Rexy says: Square roots undo squaring.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "square-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_019",
+      "question": "What is the square root of 16?",
+      "correctAnswer": "4",
+      "distractors": [
+        "5",
+        "8",
+        "3"
+      ],
+      "explanation": "4 x 4 = 16, so the square root of 16 is 4.",
+      "memoryHook": "T-Rexy says: Square roots undo squaring.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "square-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_020",
+      "question": "What is the square root of 25?",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "10",
+        "4"
+      ],
+      "explanation": "5 x 5 = 25, so the square root of 25 is 5.",
+      "memoryHook": "T-Rexy says: Square roots undo squaring.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "square-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_021",
+      "question": "What is the square root of 36?",
+      "correctAnswer": "6",
+      "distractors": [
+        "7",
+        "12",
+        "5"
+      ],
+      "explanation": "6 x 6 = 36, so the square root of 36 is 6.",
+      "memoryHook": "T-Rexy says: Square roots undo squaring.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "square-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_022",
+      "question": "What is the square root of 49?",
+      "correctAnswer": "7",
+      "distractors": [
+        "8",
+        "14",
+        "6"
+      ],
+      "explanation": "7 x 7 = 49, so the square root of 49 is 7.",
+      "memoryHook": "T-Rexy says: Square roots undo squaring.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "square-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_023",
+      "question": "What is the square root of 64?",
+      "correctAnswer": "8",
+      "distractors": [
+        "9",
+        "16",
+        "7"
+      ],
+      "explanation": "8 x 8 = 64, so the square root of 64 is 8.",
+      "memoryHook": "T-Rexy says: Square roots undo squaring.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "square-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_024",
+      "question": "What is the square root of 81?",
+      "correctAnswer": "9",
+      "distractors": [
+        "10",
+        "18",
+        "8"
+      ],
+      "explanation": "9 x 9 = 81, so the square root of 81 is 9.",
+      "memoryHook": "T-Rexy says: Square roots undo squaring.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "square-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_025",
+      "question": "What is the square root of 100?",
+      "correctAnswer": "10",
+      "distractors": [
+        "11",
+        "20",
+        "9"
+      ],
+      "explanation": "10 x 10 = 100, so the square root of 100 is 10.",
+      "memoryHook": "T-Rexy says: Square roots undo squaring.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "square-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_026",
+      "question": "What is the cube root of 8?",
+      "correctAnswer": "2",
+      "distractors": [
+        "3",
+        "4",
+        "1"
+      ],
+      "explanation": "2 x 2 x 2 = 8, so the cube root is 2.",
+      "memoryHook": "T-Rexy says: Cube roots undo cubing.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "cube-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_027",
+      "question": "What is the cube root of 27?",
+      "correctAnswer": "3",
+      "distractors": [
+        "4",
+        "6",
+        "2"
+      ],
+      "explanation": "3 x 3 x 3 = 27, so the cube root is 3.",
+      "memoryHook": "T-Rexy says: Cube roots undo cubing.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "cube-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_028",
+      "question": "What is the cube root of 64?",
+      "correctAnswer": "4",
+      "distractors": [
+        "5",
+        "8",
+        "3"
+      ],
+      "explanation": "4 x 4 x 4 = 64, so the cube root is 4.",
+      "memoryHook": "T-Rexy says: Cube roots undo cubing.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "cube-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_029",
+      "question": "What is the cube root of 125?",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "10",
+        "4"
+      ],
+      "explanation": "5 x 5 x 5 = 125, so the cube root is 5.",
+      "memoryHook": "T-Rexy says: Cube roots undo cubing.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "cube-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_030",
+      "question": "Between which two whole numbers is the square root of 50?",
+      "correctAnswer": "7 and 8",
+      "distractors": [
+        "6 and 7",
+        "8 and 9",
+        "5 and 6"
+      ],
+      "explanation": "49 is 7 squared and 64 is 8 squared, so the square root of 50 is between 7 and 8.",
+      "memoryHook": "T-Rexy says: Sandwich it between perfect squares.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "irrational-numbers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_031",
+      "question": "Which number is irrational?",
+      "correctAnswer": "The square root of 2",
+      "distractors": [
+        "1/2",
+        "0.75",
+        "-3"
+      ],
+      "explanation": "The square root of 2 goes on forever without repeating, so it is irrational.",
+      "memoryHook": "T-Rexy says: Irrational decimals never end or repeat.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "irrational-numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_032",
+      "question": "What is 0.6 as a fraction in lowest terms?",
+      "correctAnswer": "3/5",
+      "distractors": [
+        "6/100",
+        "2/3",
+        "3/4"
+      ],
+      "explanation": "0.6 = 6/10, which simplifies to 3/5.",
+      "memoryHook": "T-Rexy says: Divide top and bottom by 2.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "rational-numbers",
+        "fractions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_033",
+      "question": "Solve for x: 2x + 5 = 17.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 5",
+        "x = 8"
+      ],
+      "explanation": "Subtract 5 to get 2x = 12, then divide by 2 to get x = 6.",
+      "memoryHook": "T-Rexy says: Undo addition first, then undo multiplication.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_034",
+      "question": "Solve for x: 3x + 4 = 19.",
+      "correctAnswer": "x = 5",
+      "distractors": [
+        "x = 6",
+        "x = 4",
+        "x = 7"
+      ],
+      "explanation": "Subtract 4 to get 3x = 15, then divide by 3 to get x = 5.",
+      "memoryHook": "T-Rexy says: Undo addition first, then undo multiplication.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_035",
+      "question": "Solve for x: 4x + 3 = 27.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 5",
+        "x = 8"
+      ],
+      "explanation": "Subtract 3 to get 4x = 24, then divide by 4 to get x = 6.",
+      "memoryHook": "T-Rexy says: Undo addition first, then undo multiplication.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_036",
+      "question": "Solve for x: 5x + 2 = 32.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 5",
+        "x = 8"
+      ],
+      "explanation": "Subtract 2 to get 5x = 30, then divide by 5 to get x = 6.",
+      "memoryHook": "T-Rexy says: Undo addition first, then undo multiplication.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_037",
+      "question": "Solve for x: 3x + 7 = 25.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 5",
+        "x = 8"
+      ],
+      "explanation": "Subtract 7 to get 3x = 18, then divide by 3 to get x = 6.",
+      "memoryHook": "T-Rexy says: Undo addition first, then undo multiplication.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_038",
+      "question": "Solve for x: 2x + 9 = 21.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 5",
+        "x = 8"
+      ],
+      "explanation": "Subtract 9 to get 2x = 12, then divide by 2 to get x = 6.",
+      "memoryHook": "T-Rexy says: Undo addition first, then undo multiplication.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_039",
+      "question": "Solve for x: 3x - 2 = 16.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 5",
+        "x = 9"
+      ],
+      "explanation": "Add 2 to get 3x = 18, then divide by 3 to get x = 6.",
+      "memoryHook": "T-Rexy says: Undo subtraction first, then divide.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_040",
+      "question": "Solve for x: 4x - 5 = 19.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 5",
+        "x = 9"
+      ],
+      "explanation": "Add 5 to get 4x = 24, then divide by 4 to get x = 6.",
+      "memoryHook": "T-Rexy says: Undo subtraction first, then divide.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_041",
+      "question": "Solve for x: 2x - 7 = 23.",
+      "correctAnswer": "x = 8",
+      "distractors": [
+        "x = 9",
+        "x = 7",
+        "x = 11"
+      ],
+      "explanation": "Add 7 to get 2x = 30, then divide by 2 to get x = 8.",
+      "memoryHook": "T-Rexy says: Undo subtraction first, then divide.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_042",
+      "question": "Solve for x: 2(x + 3) = 14.",
+      "correctAnswer": "x = 4",
+      "distractors": [
+        "x = 5",
+        "x = 7",
+        "x = 3"
+      ],
+      "explanation": "Divide both sides by 2 to get x + 3 = 7, so x = 4.",
+      "memoryHook": "T-Rexy says: Distribute or divide first, then solve.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations",
+        "distributive"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_043",
+      "question": "Solve for x: 5x - 3 = 2x + 9.",
+      "correctAnswer": "x = 4",
+      "distractors": [
+        "x = 3",
+        "x = 6",
+        "x = 2"
+      ],
+      "explanation": "Subtract 2x to get 3x - 3 = 9, add 3 to get 3x = 12, so x = 4.",
+      "memoryHook": "T-Rexy says: Get x terms on one side first.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_044",
+      "question": "How many solutions does 2x + 3 = 2x + 5 have?",
+      "correctAnswer": "No solution",
+      "distractors": [
+        "One solution",
+        "Infinitely many solutions",
+        "Two solutions"
+      ],
+      "explanation": "Subtracting 2x leaves 3 = 5, which is false, so there is no solution.",
+      "memoryHook": "T-Rexy says: A false statement means no solution.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations",
+        "solutions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_045",
+      "question": "How many solutions does 3x + 2 = 3x + 2 have?",
+      "correctAnswer": "Infinitely many solutions",
+      "distractors": [
+        "No solution",
+        "One solution",
+        "Two solutions"
+      ],
+      "explanation": "Both sides are identical, so every value of x works.",
+      "memoryHook": "T-Rexy says: Identical sides mean infinite solutions.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations",
+        "solutions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_046",
+      "question": "Solve for x: x/4 + 2 = 7.",
+      "correctAnswer": "x = 20",
+      "distractors": [
+        "x = 5",
+        "x = 28",
+        "x = 12"
+      ],
+      "explanation": "Subtract 2 to get x/4 = 5, then multiply by 4 to get x = 20.",
+      "memoryHook": "T-Rexy says: Undo in reverse order.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_047",
+      "question": "Solve: x + 5 > 12.",
+      "correctAnswer": "x > 7",
+      "distractors": [
+        "x > 17",
+        "x < 7",
+        "x > 5"
+      ],
+      "explanation": "Subtract 5 from both sides: x > 7.",
+      "memoryHook": "T-Rexy says: Inequalities solve like equations.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "inequalities"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_048",
+      "question": "Solve: 2x < 14.",
+      "correctAnswer": "x < 7",
+      "distractors": [
+        "x < 28",
+        "x > 7",
+        "x < 14"
+      ],
+      "explanation": "Divide both sides by 2: x < 7.",
+      "memoryHook": "T-Rexy says: Divide to isolate x.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "inequalities"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_049",
+      "question": "When you multiply an inequality by a negative number, what must you do?",
+      "correctAnswer": "Flip the inequality sign",
+      "distractors": [
+        "Keep the sign the same",
+        "Change it to an equals sign",
+        "Add 1 to both sides"
+      ],
+      "explanation": "Flipping keeps the inequality true: for example, -2x < 6 becomes x > -3 after dividing by -2 and flipping the sign.",
+      "memoryHook": "T-Rexy says: Negative flips the sign.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "inequalities"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_050",
+      "question": "What is the slope of the line through (0, 0) and (2, 6)?",
+      "correctAnswer": "3",
+      "distractors": [
+        "4",
+        "2",
+        "6"
+      ],
+      "explanation": "Slope = (6 - 0) / (2 - 0) = 3.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "slope"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_051",
+      "question": "What is the slope of the line through (1, 2) and (3, 8)?",
+      "correctAnswer": "3",
+      "distractors": [
+        "4",
+        "2",
+        "6"
+      ],
+      "explanation": "Slope = (8 - 2) / (3 - 1) = 3.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "slope"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_052",
+      "question": "What is the slope of the line through (0, 1) and (4, 9)?",
+      "correctAnswer": "2",
+      "distractors": [
+        "3",
+        "1",
+        "4"
+      ],
+      "explanation": "Slope = (9 - 1) / (4 - 0) = 2.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "slope"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_053",
+      "question": "What is the slope of the line through (2, 3) and (5, 12)?",
+      "correctAnswer": "3",
+      "distractors": [
+        "4",
+        "2",
+        "6"
+      ],
+      "explanation": "Slope = (12 - 3) / (5 - 2) = 3.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "slope"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_054",
+      "question": "What is the slope of y = 3x + 2?",
+      "correctAnswer": "3",
+      "distractors": [
+        "2",
+        "5",
+        "1/3"
+      ],
+      "explanation": "In y = mx + b, m is the slope, so the slope is 3.",
+      "memoryHook": "T-Rexy says: The number with x is the slope.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "slope-intercept"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_055",
+      "question": "What is the y-intercept of y = -2x + 5?",
+      "correctAnswer": "5",
+      "distractors": [
+        "-2",
+        "0",
+        "-5"
+      ],
+      "explanation": "In y = mx + b, b is the y-intercept, so it is 5.",
+      "memoryHook": "T-Rexy says: The y-intercept is the constant term.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "slope-intercept"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_056",
+      "question": "Which equation is in slope-intercept form?",
+      "correctAnswer": "y = 4x - 1",
+      "distractors": [
+        "4x + y = 1",
+        "x = 4y - 1",
+        "y - 4 = x"
+      ],
+      "explanation": "Slope-intercept form is y = mx + b.",
+      "memoryHook": "T-Rexy says: Slope-intercept form starts with y =.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "slope-intercept"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_057",
+      "question": "If f(x) = 2x + 3, what is f(4)?",
+      "correctAnswer": "11",
+      "distractors": [
+        "9",
+        "10",
+        "14"
+      ],
+      "explanation": "f(4) = 2(4) + 3 = 8 + 3 = 11.",
+      "memoryHook": "T-Rexy says: Plug in 4 for x.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "functions",
+        "evaluating"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_058",
+      "question": "If f(x) = x^2 - 1, what is f(3)?",
+      "correctAnswer": "8",
+      "distractors": [
+        "9",
+        "7",
+        "10"
+      ],
+      "explanation": "f(3) = 9 - 1 = 8.",
+      "memoryHook": "T-Rexy says: Square first, then subtract.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "functions",
+        "evaluating"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_059",
+      "question": "Which table shows a function?",
+      "correctAnswer": "Each x has exactly one y",
+      "distractors": [
+        "One x has two different y values",
+        "An x repeats with different y values",
+        "The y values repeat"
+      ],
+      "explanation": "Check each x value: if any x is paired with two different y values, the table is not a function. Repeated y values are fine.",
+      "memoryHook": "T-Rexy says: One input, one output.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "functions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_060",
+      "question": "Is y = x^2 a linear function?",
+      "correctAnswer": "No, it is nonlinear",
+      "distractors": [
+        "Yes, it is linear",
+        "Yes, because it has x",
+        "No, because it has no y-intercept"
+      ],
+      "explanation": "x^2 makes a curve, not a straight line, so it is nonlinear.",
+      "memoryHook": "T-Rexy says: Squared x means a curve.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "functions",
+        "linear"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_061",
+      "question": "What is the slope of a horizontal line?",
+      "correctAnswer": "0",
+      "distractors": [
+        "1",
+        "Undefined",
+        "-1"
+      ],
+      "explanation": "A horizontal line does not rise, so its slope is 0.",
+      "memoryHook": "T-Rexy says: Flat lines have zero slope.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "slope"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_062",
+      "question": "What is the slope of a vertical line?",
+      "correctAnswer": "Undefined",
+      "distractors": [
+        "0",
+        "1",
+        "-1"
+      ],
+      "explanation": "A vertical line has zero run, and division by zero is undefined.",
+      "memoryHook": "T-Rexy says: Vertical lines have undefined slope.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "slope"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_063",
+      "question": "Solve the system: x + y = 10 and x - y = 2.",
+      "correctAnswer": "x = 6, y = 4",
+      "distractors": [
+        "x = 5, y = 5",
+        "x = 7, y = 3",
+        "x = 4, y = 6"
+      ],
+      "explanation": "Add the equations: 2x = 12, so x = 6, then y = 4.",
+      "memoryHook": "T-Rexy says: Add to eliminate y.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "systems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_064",
+      "question": "Solve the system: y = 2x and y = x + 3.",
+      "correctAnswer": "x = 3, y = 6",
+      "distractors": [
+        "x = 2, y = 4",
+        "x = 6, y = 3",
+        "x = 1, y = 2"
+      ],
+      "explanation": "Set 2x = x + 3, so x = 3, then y = 6.",
+      "memoryHook": "T-Rexy says: Set the two y expressions equal.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "systems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_065",
+      "question": "A right triangle has legs 3 and 4. What is the hypotenuse?",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "4",
+        "7"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 3^2 + 4^2 = 25, so c = 5.",
+      "memoryHook": "T-Rexy says: Square the legs, add, then square root.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "pythagorean-theorem"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_066",
+      "question": "A right triangle has legs 6 and 8. What is the hypotenuse?",
+      "correctAnswer": "10",
+      "distractors": [
+        "11",
+        "9",
+        "14"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 6^2 + 8^2 = 100, so c = 10.",
+      "memoryHook": "T-Rexy says: Square the legs, add, then square root.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "pythagorean-theorem"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_067",
+      "question": "A right triangle has legs 5 and 12. What is the hypotenuse?",
+      "correctAnswer": "13",
+      "distractors": [
+        "14",
+        "12",
+        "17"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 5^2 + 12^2 = 169, so c = 13.",
+      "memoryHook": "T-Rexy says: Square the legs, add, then square root.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "pythagorean-theorem"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_068",
+      "question": "A right triangle has legs 9 and 12. What is the hypotenuse?",
+      "correctAnswer": "15",
+      "distractors": [
+        "16",
+        "14",
+        "21"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 9^2 + 12^2 = 225, so c = 15.",
+      "memoryHook": "T-Rexy says: Square the legs, add, then square root.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "pythagorean-theorem"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_069",
+      "question": "A right triangle has hypotenuse 13 and one leg 5. What is the other leg?",
+      "correctAnswer": "12",
+      "distractors": [
+        "8",
+        "10",
+        "18"
+      ],
+      "explanation": "a^2 + 5^2 = 13^2, so a^2 = 169 - 25 = 144, and a = 12.",
+      "memoryHook": "T-Rexy says: Subtract the known leg squared.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "pythagorean-theorem"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_070",
+      "question": "What is the distance between (0, 0) and (3, 4)?",
+      "correctAnswer": "5",
+      "distractors": [
+        "7",
+        "4",
+        "6"
+      ],
+      "explanation": "Use the Pythagorean theorem: distance = sqrt(3^2 + 4^2) = 5.",
+      "memoryHook": "T-Rexy says: Distance is the hypotenuse.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "pythagorean-theorem",
+        "distance"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_071",
+      "question": "What is the volume of a cylinder with radius 3 and height 5? Use 3.14 for pi.",
+      "correctAnswer": "141.3",
+      "distractors": [
+        "94.2",
+        "47.1",
+        "282.6"
+      ],
+      "explanation": "Volume = pi x r^2 x h = 3.14 x 9 x 5 = 141.3.",
+      "memoryHook": "T-Rexy says: Volume is pi times radius squared times height.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "volume",
+        "cylinders"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_072",
+      "question": "What is the volume of a cone with radius 3 and height 6? Use 3.14 for pi.",
+      "correctAnswer": "56.52",
+      "distractors": [
+        "169.56",
+        "113.04",
+        "28.26"
+      ],
+      "explanation": "Volume = (1/3) x pi x r^2 x h = (1/3) x 3.14 x 9 x 6 = 56.52.",
+      "memoryHook": "T-Rexy says: A cone is one third of its cylinder.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "volume",
+        "cones"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_073",
+      "question": "What is the volume of a sphere with radius 3? Use 3.14 for pi.",
+      "correctAnswer": "113.04",
+      "distractors": [
+        "84.78",
+        "56.52",
+        "226.08"
+      ],
+      "explanation": "Volume = (4/3) x pi x r^3 = (4/3) x 3.14 x 27 = 113.04.",
+      "memoryHook": "T-Rexy says: Sphere volume uses r cubed.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "volume",
+        "spheres"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_074",
+      "question": "What is 25 percent of 80?",
+      "correctAnswer": "20",
+      "distractors": [
+        "25",
+        "30",
+        "16"
+      ],
+      "explanation": "25 percent of 80 is 0.25 x 80 = 20.",
+      "memoryHook": "T-Rexy says: Percent means per hundred.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "percent"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_075",
+      "question": "A shirt costs $40 and is on sale for 20 percent off. What is the sale price?",
+      "correctAnswer": "$32",
+      "distractors": [
+        "$20",
+        "$36",
+        "$30"
+      ],
+      "explanation": "20 percent of 40 is 8, so 40 - 8 = 32.",
+      "memoryHook": "T-Rexy says: Find the discount, then subtract.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "percent",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_076",
+      "question": "If 3 notebooks cost $12, how much do 7 notebooks cost?",
+      "correctAnswer": "$28",
+      "distractors": [
+        "$21",
+        "$24",
+        "$35"
+      ],
+      "explanation": "Each notebook costs $4, so 7 cost $28.",
+      "memoryHook": "T-Rexy says: Find the unit rate first.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "proportional-relationships"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_077",
+      "question": "What does the slope of a distance-time graph represent?",
+      "correctAnswer": "Speed",
+      "distractors": [
+        "Distance",
+        "Time",
+        "Acceleration"
+      ],
+      "explanation": "Slope is change in distance over change in time, which is speed.",
+      "memoryHook": "T-Rexy says: Rise over run is speed here.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "proportional-relationships",
+        "graphs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_078",
+      "question": "In a scatter plot, points that rise from left to right show what kind of association?",
+      "correctAnswer": "Positive association",
+      "distractors": [
+        "Negative association",
+        "No association",
+        "Perfect association"
+      ],
+      "explanation": "As one value rises, the other rises too.",
+      "memoryHook": "T-Rexy says: Rising points mean positive.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "scatter-plots",
+        "data"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_079",
+      "question": "What is a line of best fit used for?",
+      "correctAnswer": "To show the trend in data and make predictions",
+      "distractors": [
+        "To connect every point",
+        "To find the exact answer",
+        "To hide outliers"
+      ],
+      "explanation": "The line passes as close as possible to all the points, balancing the points above and below it, and you read predictions off the line for new x values.",
+      "memoryHook": "T-Rexy says: The trend line predicts.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "scatter-plots",
+        "data"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_080",
+      "question": "Solve for x: 3/4 x = 12.",
+      "correctAnswer": "x = 16",
+      "distractors": [
+        "x = 9",
+        "x = 15",
+        "x = 48"
+      ],
+      "explanation": "Multiply both sides by 4/3: x = 12 x 4/3 = 16.",
+      "memoryHook": "T-Rexy says: Multiply by the reciprocal.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations",
+        "fractions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_081",
+      "question": "Evaluate 2^3 + 3^2.",
+      "correctAnswer": "17",
+      "distractors": [
+        "13",
+        "25",
+        "12"
+      ],
+      "explanation": "2^3 = 8 and 3^2 = 9, so 8 + 9 = 17.",
+      "memoryHook": "T-Rexy says: Do the powers before adding.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "order-of-operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_082",
+      "question": "Which is the correct order of operations?",
+      "correctAnswer": "Parentheses, exponents, multiplication and division, addition and subtraction",
+      "distractors": [
+        "Addition, subtraction, multiplication, division",
+        "Exponents, parentheses, addition, subtraction",
+        "Multiplication, addition, parentheses, exponents"
+      ],
+      "explanation": "PEMDAS: parentheses first, then exponents, then multiply and divide, then add and subtract.",
+      "memoryHook": "T-Rexy says: PEMDAS is the order.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "order-of-operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_083",
+      "question": "What is the value of 4(3 + 2) - 6?",
+      "correctAnswer": "14",
+      "distractors": [
+        "20",
+        "8",
+        "26"
+      ],
+      "explanation": "4(5) - 6 = 20 - 6 = 14.",
+      "memoryHook": "T-Rexy says: Parentheses first.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "order-of-operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_084",
+      "question": "A car travels 150 miles in 3 hours. What is its unit rate?",
+      "correctAnswer": "50 miles per hour",
+      "distractors": [
+        "45 miles per hour",
+        "3 miles per hour",
+        "150 miles per hour"
+      ],
+      "explanation": "150 divided by 3 is 50 miles per hour.",
+      "memoryHook": "T-Rexy says: Divide distance by time.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "rates"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_085",
+      "question": "What is the mean of 4, 8, 10, and 6?",
+      "correctAnswer": "7",
+      "distractors": [
+        "6",
+        "8",
+        "9"
+      ],
+      "explanation": "The sum is 28, and 28 divided by 4 is 7.",
+      "memoryHook": "T-Rexy says: Mean is the sum divided by the count.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "statistics",
+        "mean"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_086",
+      "question": "What is the median of 3, 7, 9, 12, 15?",
+      "correctAnswer": "9",
+      "distractors": [
+        "7",
+        "12",
+        "10"
+      ],
+      "explanation": "The middle value of the ordered list is 9.",
+      "memoryHook": "T-Rexy says: Median is the middle value.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "statistics",
+        "median"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_087",
+      "question": "What is the mode of 2, 5, 5, 7, 9?",
+      "correctAnswer": "5",
+      "distractors": [
+        "2",
+        "7",
+        "9"
+      ],
+      "explanation": "5 appears most often.",
+      "memoryHook": "T-Rexy says: Mode is the most frequent value.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "statistics",
+        "mode"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_088",
+      "question": "If y = 2x + 1, what is y when x = 5?",
+      "correctAnswer": "11",
+      "distractors": [
+        "10",
+        "12",
+        "9"
+      ],
+      "explanation": "y = 2(5) + 1 = 11.",
+      "memoryHook": "T-Rexy says: Substitute 5 for x.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "functions",
+        "evaluating"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_089",
+      "question": "Which graph represents a proportional relationship?",
+      "correctAnswer": "A straight line through the origin",
+      "distractors": [
+        "A straight line that misses the origin",
+        "A curve through the origin",
+        "A horizontal line"
+      ],
+      "explanation": "The ratio y/x stays constant, so when x = 0, y must be 0 too - that is why the straight line is pinned to the origin.",
+      "memoryHook": "T-Rexy says: Proportional lines pass through the origin.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "proportional-relationships",
+        "graphs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_090",
+      "question": "Solve for x: 4x - 7 = 13.",
+      "correctAnswer": "x = 5",
+      "distractors": [
+        "x = 4",
+        "x = 6",
+        "x = 3"
+      ],
+      "explanation": "Add 7 to get 4x = 20, then divide by 4 to get x = 5.",
+      "memoryHook": "T-Rexy says: Undo subtraction first, then divide.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_091",
+      "question": "Solve for x: x/3 - 2 = 4.",
+      "correctAnswer": "x = 18",
+      "distractors": [
+        "x = 6",
+        "x = 12",
+        "x = 24"
+      ],
+      "explanation": "Add 2 to get x/3 = 6, then multiply by 3 to get x = 18.",
+      "memoryHook": "T-Rexy says: Undo in reverse order.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "linear-equations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_092",
+      "question": "What is the value of 5^3?",
+      "correctAnswer": "125",
+      "distractors": [
+        "15",
+        "25",
+        "75"
+      ],
+      "explanation": "5^3 = 5 x 5 x 5 = 125.",
+      "memoryHook": "T-Rexy says: Cube means multiply three times.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_093",
+      "question": "Simplify: 10^4 / 10^1.",
+      "correctAnswer": "10^3",
+      "distractors": [
+        "10^5",
+        "10^4",
+        "10^2"
+      ],
+      "explanation": "Subtract exponents: 4 - 1 = 3.",
+      "memoryHook": "T-Rexy says: Divide like bases by subtracting exponents.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "exponents",
+        "properties"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_094",
+      "question": "What is 0.25 as a fraction in lowest terms?",
+      "correctAnswer": "1/4",
+      "distractors": [
+        "25/1000",
+        "1/2",
+        "2/5"
+      ],
+      "explanation": "0.25 = 25/100, which simplifies to 1/4.",
+      "memoryHook": "T-Rexy says: Divide top and bottom by 25.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "rational-numbers",
+        "fractions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_095",
+      "question": "What is 1/3 as a repeating decimal?",
+      "correctAnswer": "0.333...",
+      "distractors": [
+        "0.3",
+        "0.13",
+        "0.033..."
+      ],
+      "explanation": "1 divided by 3 is 0.333 repeating.",
+      "memoryHook": "T-Rexy says: One third repeats the 3.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "rational-numbers",
+        "decimals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_096",
+      "question": "If y = -3x + 4, what is y when x = 2?",
+      "correctAnswer": "-2",
+      "distractors": [
+        "10",
+        "2",
+        "-10"
+      ],
+      "explanation": "y = -3(2) + 4 = -6 + 4 = -2.",
+      "memoryHook": "T-Rexy says: Substitute 2 for x.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "functions",
+        "evaluating"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_097",
+      "question": "What is the slope of the line y = -x + 7?",
+      "correctAnswer": "-1",
+      "distractors": [
+        "1",
+        "7",
+        "-7"
+      ],
+      "explanation": "In y = mx + b, m is -1, so the slope is -1.",
+      "memoryHook": "T-Rexy says: The number with x is the slope.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "slope-intercept"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_098",
+      "question": "Two lines are parallel. One has slope 5. What is the slope of the other?",
+      "correctAnswer": "5",
+      "distractors": [
+        "-5",
+        "1/5",
+        "-1/5"
+      ],
+      "explanation": "Parallel lines never meet and stay the same distance apart, so they climb at exactly the same rate - this line also has slope 5.",
+      "memoryHook": "T-Rexy says: Parallel means same slope.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "slope",
+        "parallel"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_099",
+      "question": "What is the volume of a cylinder with radius 1 and height 10? Use 3.14 for pi.",
+      "correctAnswer": "31.4",
+      "distractors": [
+        "15.7",
+        "62.8",
+        "314"
+      ],
+      "explanation": "Volume = 3.14 x 1 x 10 = 31.4.",
+      "memoryHook": "T-Rexy says: Volume is pi r squared times height.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "volume",
+        "cylinders"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_100",
+      "question": "What is the mean of 10, 20, 30?",
+      "correctAnswer": "20",
+      "distractors": [
+        "15",
+        "25",
+        "30"
+      ],
+      "explanation": "The sum is 60, and 60 divided by 3 is 20.",
+      "memoryHook": "T-Rexy says: Mean is the sum divided by the count.",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "statistics",
+        "mean"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

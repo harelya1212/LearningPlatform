@@ -1,0 +1,1999 @@
+{
+  "packId": "gr8-health",
+  "title": "Health (8th Grade)",
+  "description": "Health (8th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "health",
+    "wellness",
+    "8th"
+  ],
+  "questions": [
+    {
+      "id": "HEA8_001",
+      "question": "How many minutes of physical activity should teens get each day?",
+      "correctAnswer": "At least 60 minutes",
+      "distractors": [
+        "At least 10 minutes",
+        "At least 30 minutes",
+        "At least 120 minutes"
+      ],
+      "explanation": "That hour can be split up - gym class, walking to school, sports, and dancing all add up toward the 60 minutes.",
+      "memoryHook": "T-Rexy says: Move 60 minutes a day.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "activity"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_002",
+      "question": "What is the main benefit of regular exercise?",
+      "correctAnswer": "It strengthens the heart, muscles, and bones",
+      "distractors": [
+        "It makes you taller",
+        "It replaces sleep",
+        "It removes the need for food"
+      ],
+      "explanation": "Regular exercise improves heart health, strength, and mood.",
+      "memoryHook": "T-Rexy says: Exercise strengthens your whole body.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_003",
+      "question": "What is a warm-up?",
+      "correctAnswer": "Light activity before exercise to prepare muscles",
+      "distractors": [
+        "A cool-down after exercise",
+        "A type of sport",
+        "A rest day"
+      ],
+      "explanation": "Warming up raises heart rate and loosens muscles before harder activity.",
+      "memoryHook": "T-Rexy says: Warm up before you work out.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "safety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_004",
+      "question": "What is a cool-down?",
+      "correctAnswer": "Light activity after exercise to help the body recover",
+      "distractors": [
+        "A warm-up before exercise",
+        "A type of sport",
+        "A rest day"
+      ],
+      "explanation": "Cooling down lowers heart rate slowly and stretches muscles.",
+      "memoryHook": "T-Rexy says: Cool down after you work out.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "safety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_005",
+      "question": "Why is stretching important?",
+      "correctAnswer": "It improves flexibility and lowers injury risk",
+      "distractors": [
+        "It makes muscles weaker",
+        "It replaces exercise",
+        "It makes you taller"
+      ],
+      "explanation": "Gentle stretching lengthens tight muscles and improves range of motion, so joints move more freely during activity.",
+      "memoryHook": "T-Rexy says: Stretch to stay flexible.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "flexibility"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_006",
+      "question": "What is the recommended amount of sleep for teens?",
+      "correctAnswer": "8 to 10 hours per night",
+      "distractors": [
+        "4 to 5 hours",
+        "5 to 6 hours",
+        "12 to 14 hours"
+      ],
+      "explanation": "Teens need 8 to 10 hours of sleep for growth, learning, and mood.",
+      "memoryHook": "T-Rexy says: Teens need 8 to 10 hours.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "sleep",
+        "wellness"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_007",
+      "question": "Why is sleep important for teens?",
+      "correctAnswer": "It helps the brain learn, remember, and grow",
+      "distractors": [
+        "It makes you need less food",
+        "It replaces exercise",
+        "It makes you taller overnight"
+      ],
+      "explanation": "Sleep supports memory, mood, and physical growth.",
+      "memoryHook": "T-Rexy says: Sleep helps your brain learn.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "sleep"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_008",
+      "question": "What is a healthy bedtime habit?",
+      "correctAnswer": "Keeping screens off an hour before bed",
+      "distractors": [
+        "Drinking caffeine at night",
+        "Staying up late every night",
+        "Sleeping with the lights on"
+      ],
+      "explanation": "Screens can keep the brain awake, so turning them off helps sleep.",
+      "memoryHook": "T-Rexy says: Screens off before bed.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "sleep",
+        "habits"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_009",
+      "question": "Which food group should fill about half your plate?",
+      "correctAnswer": "Fruits and vegetables",
+      "distractors": [
+        "Grains only",
+        "Protein only",
+        "Dairy only"
+      ],
+      "explanation": "MyPlate is the USDA guide: fruits and vegetables take half the plate, while grains and protein share the other half, with dairy on the side.",
+      "memoryHook": "T-Rexy says: Half your plate: fruits and veggies.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "myplate"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_010",
+      "question": "What is the main job of protein?",
+      "correctAnswer": "To build and repair body tissues",
+      "distractors": [
+        "To give quick energy only",
+        "To store fat",
+        "To replace water"
+      ],
+      "explanation": "Protein builds muscles, skin, and other tissues.",
+      "memoryHook": "T-Rexy says: Protein builds and repairs.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_011",
+      "question": "What is the main job of carbohydrates?",
+      "correctAnswer": "To give the body energy",
+      "distractors": [
+        "To build bones",
+        "To carry oxygen",
+        "To replace water"
+      ],
+      "explanation": "The body breaks carbohydrates down into glucose, the fuel your brain and muscles burn first during activity.",
+      "memoryHook": "T-Rexy says: Carbs give energy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_012",
+      "question": "What is the main job of calcium?",
+      "correctAnswer": "To build strong bones and teeth",
+      "distractors": [
+        "To give energy",
+        "To carry oxygen",
+        "To help eyesight"
+      ],
+      "explanation": "Teens are still building bone mass, so calcium eaten now is deposited into bones and teeth while they are growing.",
+      "memoryHook": "T-Rexy says: Calcium builds bones.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_013",
+      "question": "What is the main job of iron?",
+      "correctAnswer": "To help carry oxygen in the blood",
+      "distractors": [
+        "To build bones",
+        "To give energy",
+        "To help digestion"
+      ],
+      "explanation": "Iron is part of hemoglobin, which carries oxygen.",
+      "memoryHook": "T-Rexy says: Iron carries oxygen.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_014",
+      "question": "What is a whole grain?",
+      "correctAnswer": "A grain that keeps all its parts, like whole wheat",
+      "distractors": [
+        "A grain with added sugar",
+        "A grain that is white only",
+        "A grain with no fiber"
+      ],
+      "explanation": "Whole grains keep the bran, germ, and endosperm.",
+      "memoryHook": "T-Rexy says: Whole grains keep all parts.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "grains"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_015",
+      "question": "Which drink is healthiest for hydration?",
+      "correctAnswer": "Water",
+      "distractors": [
+        "Soda",
+        "Energy drinks",
+        "Sweet tea"
+      ],
+      "explanation": "Water hydrates without sugar or caffeine.",
+      "memoryHook": "T-Rexy says: Water is the best drink.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_016",
+      "question": "How much water should teens drink each day?",
+      "correctAnswer": "About 8 cups, more when active or hot",
+      "distractors": [
+        "About 1 cup",
+        "About 3 cups",
+        "About 20 cups"
+      ],
+      "explanation": "Thirst, body size, and sweat losses change the exact amount - pale yellow urine is a good sign you are drinking enough.",
+      "memoryHook": "T-Rexy says: Drink about 8 cups a day.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_017",
+      "question": "What is a balanced meal?",
+      "correctAnswer": "A meal with foods from several groups in the right amounts",
+      "distractors": [
+        "A meal with only one food",
+        "A meal with only dessert",
+        "A meal with no vegetables"
+      ],
+      "explanation": "Balanced meals mix grains, protein, fruits, vegetables, and dairy.",
+      "memoryHook": "T-Rexy says: Balance means many groups.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_018",
+      "question": "What is the difference between a whole food and a processed food?",
+      "correctAnswer": "Whole foods are close to their natural state; processed foods are changed a lot",
+      "distractors": [
+        "They are the same",
+        "Whole foods have more sugar",
+        "Processed foods are always healthier"
+      ],
+      "explanation": "Processed foods often add sugar, salt, and fat.",
+      "memoryHook": "T-Rexy says: Whole foods are less changed.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_019",
+      "question": "What is a food label's serving size?",
+      "correctAnswer": "The amount the nutrition facts describe",
+      "distractors": [
+        "The amount in the whole package",
+        "The amount you should eat",
+        "The amount of calories only"
+      ],
+      "explanation": "Nutrition facts are for one serving, not the whole package.",
+      "memoryHook": "T-Rexy says: Check the serving size first.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "labels"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_020",
+      "question": "Why should teens limit sugary drinks?",
+      "correctAnswer": "They add calories and sugar without nutrients and harm teeth",
+      "distractors": [
+        "They have too much protein",
+        "They have too much fiber",
+        "They replace water completely"
+      ],
+      "explanation": "Sugary drinks raise the risk of cavities and weight gain.",
+      "memoryHook": "T-Rexy says: Sugary drinks add empty calories.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "sugar"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_021",
+      "question": "What is BMI?",
+      "correctAnswer": "A measure that compares weight to height",
+      "distractors": [
+        "A measure of muscle only",
+        "A measure of blood pressure",
+        "A measure of heart rate"
+      ],
+      "explanation": "BMI is a screening tool, not a full health test.",
+      "memoryHook": "T-Rexy says: BMI compares weight and height.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "health-measures"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_022",
+      "question": "What is the best way to build strength safely as a teen?",
+      "correctAnswer": "Bodyweight exercises and light weights with good form",
+      "distractors": [
+        "Lifting the heaviest weights possible",
+        "Skipping warm-ups",
+        "Exercising through pain"
+      ],
+      "explanation": "Safe strength training uses good form and gradual progress.",
+      "memoryHook": "T-Rexy says: Good form beats heavy weights.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "strength"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_023",
+      "question": "What should you do if you feel pain during exercise?",
+      "correctAnswer": "Stop and tell an adult",
+      "distractors": [
+        "Keep going no matter what",
+        "Ignore it completely",
+        "Exercise harder"
+      ],
+      "explanation": "Pain can signal injury, so stop and get help.",
+      "memoryHook": "T-Rexy says: Pain means stop and tell someone.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "safety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_024",
+      "question": "What is the RICE method for a minor injury?",
+      "correctAnswer": "Rest, Ice, Compression, Elevation",
+      "distractors": [
+        "Run, Ice, Compress, Eat",
+        "Rest, Ice, Cut, Exercise",
+        "Run, Jump, Climb, Eat"
+      ],
+      "explanation": "RICE helps minor sprains and strains heal.",
+      "memoryHook": "T-Rexy says: RICE is Rest, Ice, Compression, Elevation.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "injuries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_025",
+      "question": "What should you do for a small cut?",
+      "correctAnswer": "Clean it, apply pressure, and cover it with a bandage",
+      "distractors": [
+        "Leave it dirty",
+        "Apply heat",
+        "Ignore it"
+      ],
+      "explanation": "Cleaning and covering a cut prevents infection.",
+      "memoryHook": "T-Rexy says: Clean, press, cover.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_026",
+      "question": "What should you do if someone is choking and cannot speak?",
+      "correctAnswer": "Give abdominal thrusts (Heimlich maneuver) and call for help",
+      "distractors": [
+        "Give them water",
+        "Pat them on the head",
+        "Wait and watch"
+      ],
+      "explanation": "Abdominal thrusts can dislodge food blocking the airway.",
+      "memoryHook": "T-Rexy says: Thrusts can clear a blocked airway.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "emergencies"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_027",
+      "question": "What number do you call in a U.S. emergency?",
+      "correctAnswer": "911",
+      "distractors": [
+        "411",
+        "311",
+        "611"
+      ],
+      "explanation": "911 connects you to police, fire, and medical help.",
+      "memoryHook": "T-Rexy says: Call 911 in an emergency.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "emergencies"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_028",
+      "question": "What should you do for a nosebleed?",
+      "correctAnswer": "Lean forward and pinch the soft part of the nose",
+      "distractors": [
+        "Lean back and tilt your head",
+        "Blow your nose hard",
+        "Put ice on your feet"
+      ],
+      "explanation": "Leaning forward keeps blood from going down the throat.",
+      "memoryHook": "T-Rexy says: Lean forward and pinch.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_029",
+      "question": "What is the best way to prevent the spread of germs?",
+      "correctAnswer": "Wash hands often with soap and water",
+      "distractors": [
+        "Share drinks with friends",
+        "Cough into your hands",
+        "Touch your face often"
+      ],
+      "explanation": "Handwashing removes germs before they spread.",
+      "memoryHook": "T-Rexy says: Wash your hands often.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "germs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_030",
+      "question": "How long should you wash your hands?",
+      "correctAnswer": "At least 20 seconds",
+      "distractors": [
+        "At least 2 seconds",
+        "At least 5 seconds",
+        "At least 60 seconds"
+      ],
+      "explanation": "Scrubbing for 20 seconds removes most germs.",
+      "memoryHook": "T-Rexy says: Wash for 20 seconds.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_031",
+      "question": "What is the best way to prevent cavities?",
+      "correctAnswer": "Brush twice a day, floss, and limit sugary foods",
+      "distractors": [
+        "Brush once a week",
+        "Drink soda daily",
+        "Skip the dentist"
+      ],
+      "explanation": "Brushing and flossing remove plaque that causes cavities.",
+      "memoryHook": "T-Rexy says: Brush twice, floss daily.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "dental"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_032",
+      "question": "How often should you visit the dentist?",
+      "correctAnswer": "About every six months",
+      "distractors": [
+        "Every five years",
+        "Only when in pain",
+        "Never"
+      ],
+      "explanation": "Regular checkups catch problems early.",
+      "memoryHook": "T-Rexy says: See the dentist twice a year.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "dental"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_033",
+      "question": "What is mental health?",
+      "correctAnswer": "How you think, feel, and handle stress and relationships",
+      "distractors": [
+        "Only how smart you are",
+        "Only physical health",
+        "Only how you look"
+      ],
+      "explanation": "Mental health is shaped by sleep, friendships, stress, and even physical health - the mind and body affect each other.",
+      "memoryHook": "T-Rexy says: Mental health is how you feel and cope.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_034",
+      "question": "What is a healthy way to handle stress?",
+      "correctAnswer": "Talking to someone, exercising, or taking deep breaths",
+      "distractors": [
+        "Ignoring it completely",
+        "Skipping sleep",
+        "Avoiding all people"
+      ],
+      "explanation": "Coping works because each strategy lowers stress differently: movement burns off tension, breathing slows the heart, and talking helps you solve the problem.",
+      "memoryHook": "T-Rexy says: Talk, move, breathe.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "stress"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_035",
+      "question": "What is anxiety?",
+      "correctAnswer": "A feeling of worry or fear that can affect daily life",
+      "distractors": [
+        "A type of cold",
+        "A broken bone",
+        "A lack of sleep only"
+      ],
+      "explanation": "Normal worry fades when the test or game is over; anxiety sticks around, shows up often, and can make a teen avoid school, friends, or sleep.",
+      "memoryHook": "T-Rexy says: Anxiety is heavy worry.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_036",
+      "question": "What is depression?",
+      "correctAnswer": "A long-lasting feeling of sadness and loss of interest",
+      "distractors": [
+        "Feeling sad for one hour",
+        "Being tired after exercise",
+        "Feeling nervous before a test"
+      ],
+      "explanation": "Depression lasts weeks and affects mood, energy, and interest.",
+      "memoryHook": "T-Rexy says: Depression lasts a long time.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_037",
+      "question": "What should you do if a friend talks about hurting themselves?",
+      "correctAnswer": "Tell a trusted adult right away",
+      "distractors": [
+        "Keep it a secret",
+        "Ignore it",
+        "Tell them to get over it"
+      ],
+      "explanation": "A trusted adult can get help fast.",
+      "memoryHook": "T-Rexy says: Tell an adult right away.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_038",
+      "question": "What is bullying?",
+      "correctAnswer": "Repeated hurtful behavior meant to harm or control someone",
+      "distractors": [
+        "A one-time argument",
+        "A friendly joke",
+        "A fair competition"
+      ],
+      "explanation": "Bullying is repeated, intentional, and involves a power imbalance.",
+      "memoryHook": "T-Rexy says: Bullying is repeated and hurtful.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "bullying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_039",
+      "question": "What should you do if you see bullying?",
+      "correctAnswer": "Tell a trusted adult and support the person being bullied",
+      "distractors": [
+        "Join in",
+        "Record it and share it",
+        "Ignore it completely"
+      ],
+      "explanation": "Adults can stop bullying, and support helps the victim.",
+      "memoryHook": "T-Rexy says: Tell an adult and support the victim.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "bullying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_040",
+      "question": "What is cyberbullying?",
+      "correctAnswer": "Bullying that happens online or through messages",
+      "distractors": [
+        "A computer virus",
+        "A friendly online chat",
+        "A school website"
+      ],
+      "explanation": "Cyberbullying uses phones, social media, or games to hurt someone.",
+      "memoryHook": "T-Rexy says: Cyberbullying happens online.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "bullying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_041",
+      "question": "What is a healthy friendship?",
+      "correctAnswer": "A relationship with respect, trust, and support",
+      "distractors": [
+        "A relationship where one person controls the other",
+        "A relationship with no boundaries",
+        "A relationship based on fear"
+      ],
+      "explanation": "In a healthy friendship you can say no, disagree, and be yourself without being teased, controlled, or left out.",
+      "memoryHook": "T-Rexy says: Healthy friends respect you.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_042",
+      "question": "What is consent?",
+      "correctAnswer": "Clear agreement to do something, freely given",
+      "distractors": [
+        "Being forced to agree",
+        "Saying nothing",
+        "Agreeing because of pressure"
+      ],
+      "explanation": "Consent must be freely given and can be withdrawn.",
+      "memoryHook": "T-Rexy says: Consent is freely given.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "consent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_043",
+      "question": "What is peer pressure?",
+      "correctAnswer": "Pressure from friends to act a certain way",
+      "distractors": [
+        "Pressure from teachers only",
+        "Pressure from parents only",
+        "Pressure from yourself only"
+      ],
+      "explanation": "Peer pressure can push you toward good or bad choices.",
+      "memoryHook": "T-Rexy says: Peer pressure pushes you to fit in.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "peer-pressure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_044",
+      "question": "What is a good way to resist negative peer pressure?",
+      "correctAnswer": "Say no clearly and suggest something else",
+      "distractors": [
+        "Give in to fit in",
+        "Lie about it",
+        "Avoid all friends"
+      ],
+      "explanation": "A clear no plus an alternative keeps you safe and respected.",
+      "memoryHook": "T-Rexy says: Say no and offer another idea.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "peer-pressure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_045",
+      "question": "What is the legal drinking age in the United States?",
+      "correctAnswer": "21",
+      "distractors": [
+        "18",
+        "16",
+        "25"
+      ],
+      "explanation": "The 1984 federal law pushed every state to set 21 - selling alcohol to anyone younger is illegal everywhere in the U.S.",
+      "memoryHook": "T-Rexy says: Drinking age is 21.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "alcohol"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_046",
+      "question": "What does alcohol do to the teenage brain?",
+      "correctAnswer": "It can harm brain development, memory, and judgment",
+      "distractors": [
+        "It helps the brain grow",
+        "It has no effect",
+        "It improves memory"
+      ],
+      "explanation": "The teen brain is still developing into the mid-20s, and alcohol interferes with the areas that control decisions, impulses, and forming memories.",
+      "memoryHook": "T-Rexy says: Alcohol harms the teen brain.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "alcohol"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_047",
+      "question": "What is nicotine?",
+      "correctAnswer": "An addictive chemical in tobacco and vapes",
+      "distractors": [
+        "A vitamin",
+        "A type of medicine",
+        "A flavor only"
+      ],
+      "explanation": "Nicotine is addictive and harms the brain and body.",
+      "memoryHook": "T-Rexy says: Nicotine is addictive.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "tobacco"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_048",
+      "question": "What is vaping?",
+      "correctAnswer": "Breathing in aerosol from an electronic device",
+      "distractors": [
+        "Drinking water vapor",
+        "A type of exercise",
+        "A kind of medicine"
+      ],
+      "explanation": "Vaping heats liquid into aerosol that can contain nicotine and chemicals.",
+      "memoryHook": "T-Rexy says: Vaping is not harmless water vapor.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "tobacco"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_049",
+      "question": "What is the main risk of vaping for teens?",
+      "correctAnswer": "Nicotine addiction and lung damage",
+      "distractors": [
+        "Stronger muscles",
+        "Better grades",
+        "More energy"
+      ],
+      "explanation": "Nicotine changes the teen brain so it craves more, and the aerosol's chemicals irritate and inflame the airways.",
+      "memoryHook": "T-Rexy says: Vaping risks addiction and lungs.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "tobacco"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_050",
+      "question": "What is a drug?",
+      "correctAnswer": "A substance that changes how the body or brain works",
+      "distractors": [
+        "Only illegal substances",
+        "Only medicine",
+        "Only vitamins"
+      ],
+      "explanation": "Drugs include medicines, alcohol, nicotine, and illegal drugs.",
+      "memoryHook": "T-Rexy says: Drugs change how the body works.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_051",
+      "question": "What should you do if someone offers you drugs?",
+      "correctAnswer": "Say no and leave the situation",
+      "distractors": [
+        "Try it once to fit in",
+        "Take it and throw it away later",
+        "Stay and argue"
+      ],
+      "explanation": "Saying no and leaving keeps you safe.",
+      "memoryHook": "T-Rexy says: Say no and leave.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "refusal"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_052",
+      "question": "What is the best way to stay safe online?",
+      "correctAnswer": "Keep personal information private and tell an adult about problems",
+      "distractors": [
+        "Share your password with friends",
+        "Meet strangers from the internet alone",
+        "Post your address publicly"
+      ],
+      "explanation": "Once a photo, address, or password is shared online you lose control of it - strangers can copy, save, and spread it.",
+      "memoryHook": "T-Rexy says: Keep personal info private.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "digital-safety",
+        "online"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_053",
+      "question": "What should you do if a stranger online asks to meet you?",
+      "correctAnswer": "Tell a trusted adult and do not meet them",
+      "distractors": [
+        "Meet them in a public place alone",
+        "Send them your photo",
+        "Agree to meet secretly"
+      ],
+      "explanation": "People online can lie about their age and identity, so a 'friend' from a game or app may not be who they claim to be.",
+      "memoryHook": "T-Rexy says: Tell an adult, do not meet.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "digital-safety",
+        "online"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_054",
+      "question": "What is a strong password?",
+      "correctAnswer": "A long mix of letters, numbers, and symbols that you do not share",
+      "distractors": [
+        "Your birthday",
+        "The word password",
+        "Your pet's name"
+      ],
+      "explanation": "Length matters most: a passphrase like 'tiger-river-7-sky' is easier to remember and far harder to guess than a short word.",
+      "memoryHook": "T-Rexy says: Strong passwords are long and private.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "digital-safety",
+        "online"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_055",
+      "question": "What is screen time?",
+      "correctAnswer": "Time spent using phones, computers, TVs, and games",
+      "distractors": [
+        "Time spent reading books",
+        "Time spent outside",
+        "Time spent sleeping"
+      ],
+      "explanation": "Screen time counts entertainment and communication on devices - it does not include reading a printed book or playing outside.",
+      "memoryHook": "T-Rexy says: Screen time is device time.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "digital-safety",
+        "wellness"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_056",
+      "question": "Why should teens limit screen time before bed?",
+      "correctAnswer": "Screens can make it harder to fall asleep",
+      "distractors": [
+        "Screens help you sleep better",
+        "Screens have no effect",
+        "Screens replace exercise"
+      ],
+      "explanation": "Blue light and stimulation can delay sleep.",
+      "memoryHook": "T-Rexy says: Screens delay sleep.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "digital-safety",
+        "sleep"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_057",
+      "question": "What is a healthy body image?",
+      "correctAnswer": "Feeling good about your body and treating it with care",
+      "distractors": [
+        "Comparing yourself to models",
+        "Skipping meals to look thin",
+        "Exercising to punish yourself"
+      ],
+      "explanation": "A healthy body image focuses on what your body can do - run, learn, heal - instead of comparing it to edited photos online.",
+      "memoryHook": "T-Rexy says: Care for your body.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wellness",
+        "body-image"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_058",
+      "question": "What is an eating disorder?",
+      "correctAnswer": "A serious unhealthy pattern of eating that harms health",
+      "distractors": [
+        "Skipping one meal",
+        "Eating dessert sometimes",
+        "Liking healthy food"
+      ],
+      "explanation": "Eating disorders are serious and need help from adults and doctors.",
+      "memoryHook": "T-Rexy says: Eating disorders need help.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wellness",
+        "eating-disorders"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_059",
+      "question": "What should you do if you are worried about your eating habits?",
+      "correctAnswer": "Talk to a trusted adult or doctor",
+      "distractors": [
+        "Keep it secret",
+        "Skip more meals",
+        "Follow a fad diet"
+      ],
+      "explanation": "Adults and doctors can give safe help.",
+      "memoryHook": "T-Rexy says: Talk to an adult.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wellness",
+        "eating-disorders"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_060",
+      "question": "What is the best way to prevent sunburn?",
+      "correctAnswer": "Use sunscreen, wear a hat, and seek shade",
+      "distractors": [
+        "Stay in the sun all day",
+        "Use tanning oil only",
+        "Ignore the sun"
+      ],
+      "explanation": "Sunscreen and shade protect skin from UV rays.",
+      "memoryHook": "T-Rexy says: Sunscreen and shade protect skin.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "sun"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_061",
+      "question": "What SPF sunscreen is recommended for daily use?",
+      "correctAnswer": "SPF 30 or higher",
+      "distractors": [
+        "SPF 5",
+        "SPF 10",
+        "SPF 100 only"
+      ],
+      "explanation": "SPF 30 blocks about 97% of UVB rays; apply a thick layer and reapply every 2 hours, and after swimming or sweating.",
+      "memoryHook": "T-Rexy says: Use SPF 30 or higher.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "sun"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_062",
+      "question": "What should you do if you get a sunburn?",
+      "correctAnswer": "Cool the skin, moisturize, and avoid more sun",
+      "distractors": [
+        "Peel the skin off",
+        "Apply heat",
+        "Go back in the sun"
+      ],
+      "explanation": "Cooling and moisturizing help sunburn heal.",
+      "memoryHook": "T-Rexy says: Cool and moisturize sunburn.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "sun"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_063",
+      "question": "Why is it important to wear a helmet when biking?",
+      "correctAnswer": "It protects your head from serious injury in a fall",
+      "distractors": [
+        "It makes you faster",
+        "It keeps you warm",
+        "It is only for style"
+      ],
+      "explanation": "In a crash a helmet absorbs and spreads out the impact force, protecting the skull and brain from the hardest hit.",
+      "memoryHook": "T-Rexy says: Helmets protect your head.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "biking"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_064",
+      "question": "Why should you wear a seatbelt?",
+      "correctAnswer": "It keeps you safe in a crash",
+      "distractors": [
+        "It makes the car faster",
+        "It is only for the driver",
+        "It replaces airbags"
+      ],
+      "explanation": "Seatbelts hold you in place and reduce injury in crashes.",
+      "memoryHook": "T-Rexy says: Seatbelts save lives.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "cars"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_065",
+      "question": "What is the best way to cross a street safely?",
+      "correctAnswer": "Look both ways, use a crosswalk, and wait for the signal",
+      "distractors": [
+        "Run across anywhere",
+        "Cross while looking at your phone",
+        "Cross behind parked cars"
+      ],
+      "explanation": "Crosswalks and looking both ways keep you visible and safe.",
+      "memoryHook": "T-Rexy says: Look both ways at a crosswalk.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "pedestrian"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_066",
+      "question": "What is the main cause of teen car crashes?",
+      "correctAnswer": "Distracted driving, especially texting",
+      "distractors": [
+        "Bad weather only",
+        "Car problems only",
+        "Other drivers only"
+      ],
+      "explanation": "Distraction, speed, and inexperience cause most teen crashes.",
+      "memoryHook": "T-Rexy says: Distraction causes most teen crashes.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "cars"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_067",
+      "question": "Why is it unsafe to text while driving?",
+      "correctAnswer": "It takes your eyes, hands, and mind off the road",
+      "distractors": [
+        "It drains the battery",
+        "It is only illegal for teens",
+        "It makes the car slower"
+      ],
+      "explanation": "Reading one text takes your eyes off the road for about 5 seconds - at highway speed that is like driving the length of a football field blindfolded.",
+      "memoryHook": "T-Rexy says: Texting takes your eyes off the road.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "cars"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_068",
+      "question": "What is the best way to stay safe at a pool?",
+      "correctAnswer": "Swim with a buddy and follow the lifeguard's rules",
+      "distractors": [
+        "Swim alone",
+        "Dive into shallow water",
+        "Run on the pool deck"
+      ],
+      "explanation": "Swimming with others and following rules prevents drowning.",
+      "memoryHook": "T-Rexy says: Swim with a buddy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "water"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_069",
+      "question": "What should you do if someone is drowning?",
+      "correctAnswer": "Call for help and throw a flotation device; do not jump in unless trained",
+      "distractors": [
+        "Jump in right away",
+        "Ignore it",
+        "Film it"
+      ],
+      "explanation": "Untrained rescuers can also drown, so call for help first.",
+      "memoryHook": "T-Rexy says: Call for help first.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "water"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_070",
+      "question": "What is a healthy way to express anger?",
+      "correctAnswer": "Take deep breaths, walk away, and talk calmly later",
+      "distractors": [
+        "Yell at others",
+        "Break things",
+        "Keep it all inside forever"
+      ],
+      "explanation": "Anger raises your heart rate and tightens your muscles; slow breathing and a short walk let the body calm down before you speak.",
+      "memoryHook": "T-Rexy says: Breathe, walk away, talk calmly.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "emotions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_071",
+      "question": "What is empathy?",
+      "correctAnswer": "Understanding how someone else feels",
+      "distractors": [
+        "Ignoring others",
+        "Agreeing with everyone",
+        "Feeling sorry for yourself"
+      ],
+      "explanation": "Empathy is a skill you can practice: listen, ask how the person feels, and imagine the situation from their side before you respond.",
+      "memoryHook": "T-Rexy says: Empathy understands others.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "relationships"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_072",
+      "question": "What is the best way to build self-confidence?",
+      "correctAnswer": "Set small goals, practice, and celebrate progress",
+      "distractors": [
+        "Compare yourself to others",
+        "Avoid all challenges",
+        "Pretend to be perfect"
+      ],
+      "explanation": "Confidence grows from evidence - each finished goal proves to your brain that you can handle the next, slightly bigger one.",
+      "memoryHook": "T-Rexy says: Small goals build confidence.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "wellness"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_073",
+      "question": "What is the difference between a need and a want?",
+      "correctAnswer": "A need is required for health and life; a want is nice to have",
+      "distractors": [
+        "They are the same",
+        "A want is required",
+        "A need is optional"
+      ],
+      "explanation": "Needs include food, water, shelter, and safety; wants are extras.",
+      "memoryHook": "T-Rexy says: Needs are required, wants are extras.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wellness",
+        "decision-making"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_074",
+      "question": "What is a healthy decision-making step?",
+      "correctAnswer": "Think about choices, risks, and consequences before acting",
+      "distractors": [
+        "Act on the first impulse",
+        "Follow what everyone else does",
+        "Ignore the risks"
+      ],
+      "explanation": "A simple method: name your choices, list a plus and a minus for each, then pick the option you would still defend tomorrow.",
+      "memoryHook": "T-Rexy says: Think before you act.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wellness",
+        "decision-making"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_075",
+      "question": "What is the best way to prevent the flu?",
+      "correctAnswer": "Get a flu vaccine and wash hands often",
+      "distractors": [
+        "Drink soda",
+        "Skip sleep",
+        "Avoid all people"
+      ],
+      "explanation": "The flu shot trains your immune system before flu season, and soap breaks apart flu germs on your hands so they cannot reach your eyes, nose, or mouth.",
+      "memoryHook": "T-Rexy says: Vaccines and handwashing prevent flu.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "illness"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_076",
+      "question": "What should you do when you have a fever and feel sick?",
+      "correctAnswer": "Rest, drink fluids, and tell an adult",
+      "distractors": [
+        "Go to school anyway",
+        "Exercise hard",
+        "Skip all fluids"
+      ],
+      "explanation": "Rest and fluids help recovery, and adults can decide about care.",
+      "memoryHook": "T-Rexy says: Rest and drink fluids.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "illness"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_077",
+      "question": "What is the difference between a virus and a bacterium?",
+      "correctAnswer": "Viruses need a host cell to copy; bacteria are single cells that can live alone",
+      "distractors": [
+        "They are the same",
+        "Viruses are larger",
+        "Bacteria need a host cell"
+      ],
+      "explanation": "Because bacteria are alive, antibiotics can kill them; antibiotics do not work on viruses, which is why most colds just have to run their course.",
+      "memoryHook": "T-Rexy says: Viruses need a host, bacteria do not.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "germs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_078",
+      "question": "What is an allergy?",
+      "correctAnswer": "An immune system reaction to something harmless, like pollen",
+      "distractors": [
+        "A cold",
+        "A broken bone",
+        "A vitamin deficiency"
+      ],
+      "explanation": "Allergies happen when the immune system overreacts.",
+      "memoryHook": "T-Rexy says: Allergies are immune overreactions.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "allergies"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_079",
+      "question": "What should you do if someone has a severe allergic reaction?",
+      "correctAnswer": "Call 911 and use an EpiPen if available",
+      "distractors": [
+        "Give them water",
+        "Wait and see",
+        "Put them to sleep"
+      ],
+      "explanation": "Severe allergies can close airways fast, so act quickly.",
+      "memoryHook": "T-Rexy says: Call 911 and use the EpiPen.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "allergies"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_080",
+      "question": "What is the best way to protect your hearing?",
+      "correctAnswer": "Keep volume low and wear ear protection around loud sounds",
+      "distractors": [
+        "Listen at max volume",
+        "Ignore loud sounds",
+        "Use earbuds at full volume"
+      ],
+      "explanation": "Loud sounds can damage hearing permanently.",
+      "memoryHook": "T-Rexy says: Keep volume low.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "hearing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_081",
+      "question": "What is the best way to protect your eyes?",
+      "correctAnswer": "Wear sunglasses and take screen breaks",
+      "distractors": [
+        "Stare at the sun",
+        "Rub your eyes often",
+        "Skip eye exams"
+      ],
+      "explanation": "Sunglasses block UV rays and breaks reduce eye strain.",
+      "memoryHook": "T-Rexy says: Sunglasses and breaks protect eyes.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "eyes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_082",
+      "question": "How often should teens have a checkup with a doctor?",
+      "correctAnswer": "About once a year",
+      "distractors": [
+        "Every five years",
+        "Only when sick",
+        "Never"
+      ],
+      "explanation": "Yearly checkups track growth and catch problems early.",
+      "memoryHook": "T-Rexy says: Yearly checkups track health.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "checkups"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_083",
+      "question": "What is the main benefit of eating breakfast?",
+      "correctAnswer": "It gives energy and helps focus at school",
+      "distractors": [
+        "It makes you sleepy",
+        "It replaces lunch",
+        "It makes you taller"
+      ],
+      "explanation": "Breakfast fuels the brain after the night's fast.",
+      "memoryHook": "T-Rexy says: Breakfast fuels focus.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_084",
+      "question": "Which snack is healthiest?",
+      "correctAnswer": "An apple with peanut butter",
+      "distractors": [
+        "Chips and soda",
+        "Candy only",
+        "Cookies only"
+      ],
+      "explanation": "Fruit plus protein gives lasting energy.",
+      "memoryHook": "T-Rexy says: Fruit plus protein is a good snack.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "snacks"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_085",
+      "question": "What is the best way to stay hydrated during sports?",
+      "correctAnswer": "Drink water before, during, and after activity",
+      "distractors": [
+        "Drink only after the game",
+        "Drink soda during the game",
+        "Avoid all fluids"
+      ],
+      "explanation": "Do not wait until you feel thirsty - thirst is a late signal, so drink on a schedule before, during, and after you play.",
+      "memoryHook": "T-Rexy says: Drink water throughout.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_086",
+      "question": "What is dehydration?",
+      "correctAnswer": "Not having enough water in the body",
+      "distractors": [
+        "Having too much water",
+        "Being hungry",
+        "Being tired only"
+      ],
+      "explanation": "Dehydration causes thirst, headaches, and tiredness.",
+      "memoryHook": "T-Rexy says: Dehydration is too little water.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_087",
+      "question": "What are the signs of dehydration?",
+      "correctAnswer": "Thirst, dry mouth, dark urine, and tiredness",
+      "distractors": [
+        "Hunger only",
+        "Sneezing",
+        "Itchy skin"
+      ],
+      "explanation": "Urine color is the quickest check: pale yellow means hydrated, while dark yellow or amber means you need fluids soon.",
+      "memoryHook": "T-Rexy says: Thirst and dark urine mean dehydration.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_088",
+      "question": "What is the best way to handle a disagreement with a friend?",
+      "correctAnswer": "Listen, share your feelings calmly, and find a compromise",
+      "distractors": [
+        "Yell until you win",
+        "Give them the silent treatment",
+        "Spread rumors"
+      ],
+      "explanation": "Use 'I feel' statements - saying 'I felt left out' starts a conversation, while blaming and yelling usually starts a bigger fight.",
+      "memoryHook": "T-Rexy says: Listen, share, compromise.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "conflict"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_089",
+      "question": "What is active listening?",
+      "correctAnswer": "Paying full attention and showing you understand",
+      "distractors": [
+        "Waiting to talk",
+        "Looking at your phone",
+        "Interrupting often"
+      ],
+      "explanation": "Show it with your body and words: face the speaker, nod, and repeat back what you heard in your own words to check you got it right.",
+      "memoryHook": "T-Rexy says: Active listening is full attention.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "communication"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_090",
+      "question": "What is the best way to apologize?",
+      "correctAnswer": "Say you are sorry, admit what you did, and make it right",
+      "distractors": [
+        "Blame someone else",
+        "Say sorry but keep doing it",
+        "Ignore the problem"
+      ],
+      "explanation": "A real apology takes responsibility and fixes the harm.",
+      "memoryHook": "T-Rexy says: Apologize and make it right.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_091",
+      "question": "What is the difference between good stress and bad stress?",
+      "correctAnswer": "Good stress motivates you briefly; bad stress lasts and harms health",
+      "distractors": [
+        "They are the same",
+        "Good stress is always bad",
+        "Bad stress helps you"
+      ],
+      "explanation": "Short stress can help performance; long stress harms health.",
+      "memoryHook": "T-Rexy says: Short stress motivates, long stress harms.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "stress"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_092",
+      "question": "What is a coping skill?",
+      "correctAnswer": "A healthy way to handle hard feelings",
+      "distractors": [
+        "A way to avoid all feelings",
+        "A way to ignore problems",
+        "A type of medicine"
+      ],
+      "explanation": "Coping skills include breathing, talking, and moving.",
+      "memoryHook": "T-Rexy says: Coping skills handle hard feelings.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "stress"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_093",
+      "question": "What is the best time to exercise?",
+      "correctAnswer": "Any time you can do it regularly",
+      "distractors": [
+        "Only in the morning",
+        "Only at night",
+        "Only on weekends"
+      ],
+      "explanation": "Morning, after school, or evening all work - what builds fitness is showing up several days a week, week after week.",
+      "memoryHook": "T-Rexy says: The best time is when you will do it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_094",
+      "question": "What is the main risk of energy drinks for teens?",
+      "correctAnswer": "High caffeine can raise heart rate and harm sleep",
+      "distractors": [
+        "More energy for school",
+        "Better grades",
+        "Stronger bones"
+      ],
+      "explanation": "One energy drink can hold as much caffeine as two or three sodas, which can cause a racing heart, jitteriness, and trouble sleeping that night.",
+      "memoryHook": "T-Rexy says: Energy drinks have too much caffeine.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "caffeine"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_095",
+      "question": "How much caffeine is safe for teens?",
+      "correctAnswer": "Teens should avoid or limit caffeine as much as possible",
+      "distractors": [
+        "Unlimited caffeine",
+        "500 mg per day",
+        "300 mg per day"
+      ],
+      "explanation": "Pediatric experts put the teen ceiling at about 100 mg of caffeine a day - roughly one small coffee - and say energy drinks should be avoided completely.",
+      "memoryHook": "T-Rexy says: Teens should limit caffeine.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "caffeine"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_096",
+      "question": "What is the best way to fall asleep faster?",
+      "correctAnswer": "Keep a regular sleep schedule and a dark, cool room",
+      "distractors": [
+        "Drink caffeine at night",
+        "Use screens in bed",
+        "Sleep at different times daily"
+      ],
+      "explanation": "A regular routine trains the body to sleep.",
+      "memoryHook": "T-Rexy says: Regular schedule helps sleep.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "sleep"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_097",
+      "question": "What is the best way to protect your skin from the sun?",
+      "correctAnswer": "Use sunscreen SPF 30 or higher and wear protective clothing",
+      "distractors": [
+        "Stay in direct sun all day",
+        "Use baby oil",
+        "Avoid water"
+      ],
+      "explanation": "Sunscreen and clothing block harmful UV rays.",
+      "memoryHook": "T-Rexy says: Sunscreen and clothes protect skin.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "sun"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_098",
+      "question": "What is the main benefit of eating vegetables?",
+      "correctAnswer": "They give vitamins, minerals, and fiber with few calories",
+      "distractors": [
+        "They give only sugar",
+        "They replace protein completely",
+        "They have no nutrients"
+      ],
+      "explanation": "The fiber in vegetables feeds healthy gut bacteria and slows digestion, so you feel full longer and absorb nutrients steadily.",
+      "memoryHook": "T-Rexy says: Veggies give vitamins and fiber.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_099",
+      "question": "What is a healthy way to deal with sadness?",
+      "correctAnswer": "Talk to someone you trust and do things you enjoy",
+      "distractors": [
+        "Keep it all inside",
+        "Skip school for weeks",
+        "Avoid all friends"
+      ],
+      "explanation": "Talking and positive activities help sadness pass.",
+      "memoryHook": "T-Rexy says: Talk and do things you enjoy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA8_100",
+      "question": "Why is it important to warm up before sports?",
+      "correctAnswer": "It prepares muscles and lowers injury risk",
+      "distractors": [
+        "It makes you tired faster",
+        "It replaces practice",
+        "It makes you slower"
+      ],
+      "explanation": "Warm-ups raise heart rate and loosen muscles.",
+      "memoryHook": "T-Rexy says: Warm up to prevent injury.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

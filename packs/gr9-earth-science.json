@@ -1,0 +1,2017 @@
+{
+  "packId": "gr9-earth-science",
+  "title": "Earth Science (9th Grade)",
+  "description": "Earth Science (9th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "science",
+    "earth-science",
+    "9th"
+  ],
+  "questions": [
+    {
+      "id": "EAR9_001",
+      "question": "What is the closest planet to the Sun?",
+      "correctAnswer": "Mercury",
+      "distractors": [
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "explanation": "Mercury is the closest planet to the Sun, orbiting at about 58 million km - less than half of Earth's distance, which is why its year lasts only 88 days.",
+      "memoryHook": "T-Rexy says: Mercury is closest to the Sun.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "planets"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_002",
+      "question": "What is the largest planet in our solar system?",
+      "correctAnswer": "Jupiter",
+      "distractors": [
+        "Saturn",
+        "Neptune",
+        "Earth"
+      ],
+      "explanation": "Jupiter is the largest planet - more than 1,300 Earths could fit inside it, and its Great Red Spot is a storm wider than Earth itself.",
+      "memoryHook": "T-Rexy says: Jupiter is the biggest.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "planets"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_003",
+      "question": "What is the hottest planet in our solar system?",
+      "correctAnswer": "Venus",
+      "distractors": [
+        "Mercury",
+        "Mars",
+        "Jupiter"
+      ],
+      "explanation": "Venus is hottest because of its thick heat-trapping atmosphere.",
+      "memoryHook": "T-Rexy says: Venus is the hottest.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "planets"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_004",
+      "question": "What planet is known as the Red Planet?",
+      "correctAnswer": "Mars",
+      "distractors": [
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "explanation": "Mars looks red because its surface is covered in iron oxide - the same compound as rust - which tints the soil and dust orange-red.",
+      "memoryHook": "T-Rexy says: Mars is red.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "planets"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_005",
+      "question": "What planet is known for its large rings?",
+      "correctAnswer": "Saturn",
+      "distractors": [
+        "Jupiter",
+        "Mars",
+        "Neptune"
+      ],
+      "explanation": "Saturn has the most visible rings.",
+      "memoryHook": "T-Rexy says: Saturn has big rings.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "planets"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_006",
+      "question": "What is the only planet known to support life?",
+      "correctAnswer": "Earth",
+      "distractors": [
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "explanation": "Earth is the only known planet with life because it has liquid water on its surface, an oxygen-rich atmosphere, and temperatures in the right range.",
+      "memoryHook": "T-Rexy says: Earth is home.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "planets"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_007",
+      "question": "What is the Sun?",
+      "correctAnswer": "A star",
+      "distractors": [
+        "A planet",
+        "A moon",
+        "A comet"
+      ],
+      "explanation": "The Sun is a star at the center of our solar system.",
+      "memoryHook": "T-Rexy says: The Sun is a star.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "sun"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_008",
+      "question": "What force keeps planets in orbit around the Sun?",
+      "correctAnswer": "Gravity",
+      "distractors": [
+        "Magnetism",
+        "Friction",
+        "Inertia"
+      ],
+      "explanation": "Gravity pulls a planet toward the Sun while the planet's forward motion keeps it from falling in - the balance of the two produces a stable orbit.",
+      "memoryHook": "T-Rexy says: Gravity holds orbits.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "gravity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_009",
+      "question": "How long does Earth take to orbit the Sun?",
+      "correctAnswer": "One year",
+      "distractors": [
+        "One day",
+        "One month",
+        "One week"
+      ],
+      "explanation": "Earth takes about 365.25 days to orbit the Sun once, which is why we add a leap day every four years.",
+      "memoryHook": "T-Rexy says: One orbit is one year.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_010",
+      "question": "How long does Earth take to rotate once on its axis?",
+      "correctAnswer": "One day",
+      "distractors": [
+        "One year",
+        "One month",
+        "One week"
+      ],
+      "explanation": "Earth rotates once in about 24 hours, one day.",
+      "memoryHook": "T-Rexy says: One spin is one day.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_011",
+      "question": "What causes day and night?",
+      "correctAnswer": "Earth's rotation on its axis",
+      "distractors": [
+        "Earth's orbit around the Sun",
+        "The Moon's orbit",
+        "The tilt of Earth"
+      ],
+      "explanation": "Earth's rotation on its axis means each part of the surface turns toward the Sun for daytime and away for night, completing one full cycle every 24 hours.",
+      "memoryHook": "T-Rexy says: Spinning makes day and night.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_012",
+      "question": "What causes the seasons?",
+      "correctAnswer": "The tilt of Earth's axis",
+      "distractors": [
+        "Earth's distance from the Sun only",
+        "The Moon",
+        "Earth's rotation"
+      ],
+      "explanation": "Earth's axis is tilted about 23.5 degrees, so as Earth orbits, each hemisphere leans toward the Sun for part of the year (summer) and away for the rest (winter).",
+      "memoryHook": "T-Rexy says: Tilt makes seasons.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "seasons"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_013",
+      "question": "What is the Moon?",
+      "correctAnswer": "Earth's natural satellite",
+      "distractors": [
+        "A planet",
+        "A star",
+        "A comet"
+      ],
+      "explanation": "The Moon is Earth's natural satellite - 'natural' because it formed in space rather than being launched - and it orbits Earth roughly every 27 days.",
+      "memoryHook": "T-Rexy says: The Moon is Earth's satellite.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "moon"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_014",
+      "question": "What causes the Moon's phases?",
+      "correctAnswer": "The changing amount of sunlight we see on the Moon",
+      "distractors": [
+        "The Moon changing shape",
+        "Clouds covering the Moon",
+        "Earth's shadow always"
+      ],
+      "explanation": "As the Moon orbits Earth, the Sun always lights one half of it; the phases are the changing portions of that lit half we can see from Earth over about a month.",
+      "memoryHook": "T-Rexy says: Phases are sunlight angles.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "moon"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_015",
+      "question": "What is a solar eclipse?",
+      "correctAnswer": "The Moon blocking sunlight from Earth",
+      "distractors": [
+        "Earth blocking sunlight from the Moon",
+        "The Sun going out",
+        "A comet passing"
+      ],
+      "explanation": "A solar eclipse happens at new moon, when the Moon passes directly between the Sun and Earth and its shadow falls on part of Earth's surface.",
+      "memoryHook": "T-Rexy says: The Moon blocks the Sun.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "eclipses"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_016",
+      "question": "What is a lunar eclipse?",
+      "correctAnswer": "Earth blocking sunlight from the Moon",
+      "distractors": [
+        "The Moon blocking sunlight from Earth",
+        "The Sun going out",
+        "A comet passing"
+      ],
+      "explanation": "A lunar eclipse happens at full moon, when Earth passes between the Sun and the Moon; the Moon often looks reddish because Earth's atmosphere bends red sunlight onto it.",
+      "memoryHook": "T-Rexy says: Earth's shadow covers the Moon.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "eclipses"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_017",
+      "question": "What are the three types of rock?",
+      "correctAnswer": "Igneous, sedimentary, and metamorphic",
+      "distractors": [
+        "Igneous, sedimentary, and volcanic only",
+        "Granite, basalt, and sandstone",
+        "Rock, stone, and mineral"
+      ],
+      "explanation": "The three rock types are classified by how they form: igneous from cooled molten rock, sedimentary from compacted layers, and metamorphic from rock changed by heat and pressure.",
+      "memoryHook": "T-Rexy says: Three rock types: igneous, sedimentary, metamorphic.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "rocks",
+        "types"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_018",
+      "question": "What is igneous rock?",
+      "correctAnswer": "Rock formed from cooled magma or lava",
+      "distractors": [
+        "Rock formed from layers of sediment",
+        "Rock changed by heat and pressure",
+        "Rock formed by wind"
+      ],
+      "explanation": "Igneous rock forms when magma below the surface or lava above it cools and solidifies - granite cools slowly underground, while basalt cools quickly on the surface.",
+      "memoryHook": "T-Rexy says: Igneous comes from fire.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "rocks",
+        "igneous"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_019",
+      "question": "What is sedimentary rock?",
+      "correctAnswer": "Rock formed from layers of sediment pressed together",
+      "distractors": [
+        "Rock formed from cooled lava",
+        "Rock changed by heat",
+        "Rock formed in space"
+      ],
+      "explanation": "Sedimentary rock forms when layers of sediment are buried, compacted, and cemented over time - which is why it often shows visible layers and can contain fossils.",
+      "memoryHook": "T-Rexy says: Sedimentary is layered.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "rocks",
+        "sedimentary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_020",
+      "question": "What is metamorphic rock?",
+      "correctAnswer": "Rock changed by heat and pressure",
+      "distractors": [
+        "Rock formed from cooled lava",
+        "Rock formed from sediment",
+        "Rock formed by wind"
+      ],
+      "explanation": "Metamorphic rock starts as an existing rock that is squeezed and heated deep underground until its minerals and texture change into a new rock, without melting.",
+      "memoryHook": "T-Rexy says: Metamorphic is changed rock.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "rocks",
+        "metamorphic"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_021",
+      "question": "What is an example of an igneous rock?",
+      "correctAnswer": "Granite",
+      "distractors": [
+        "Sandstone",
+        "Marble",
+        "Limestone"
+      ],
+      "explanation": "Granite is an igneous rock that cooled slowly underground, giving its crystals time to grow large enough to see - the speckled mix of quartz, feldspar, and mica.",
+      "memoryHook": "T-Rexy says: Granite is igneous.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "rocks",
+        "examples"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_022",
+      "question": "What is an example of a sedimentary rock?",
+      "correctAnswer": "Sandstone",
+      "distractors": [
+        "Granite",
+        "Marble",
+        "Basalt"
+      ],
+      "explanation": "Sandstone is a sedimentary rock made of sand grains that were deposited, buried, and cemented together - a piece of it can feel gritty, like the sand it came from.",
+      "memoryHook": "T-Rexy says: Sandstone is sedimentary.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "rocks",
+        "examples"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_023",
+      "question": "What is an example of a metamorphic rock?",
+      "correctAnswer": "Marble",
+      "distractors": [
+        "Sandstone",
+        "Granite",
+        "Basalt"
+      ],
+      "explanation": "Marble is metamorphic rock formed from limestone.",
+      "memoryHook": "T-Rexy says: Marble is metamorphic.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "rocks",
+        "examples"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_024",
+      "question": "What is the rock cycle?",
+      "correctAnswer": "The process by which rocks change from one type to another",
+      "distractors": [
+        "The orbit of rocks in space",
+        "The breaking of rocks only",
+        "The formation of soil only"
+      ],
+      "explanation": "In the rock cycle, any rock type can become any other: melting makes magma, heat and pressure make metamorphic rock, and weathering plus burial make sedimentary rock - with no starting or ending point.",
+      "memoryHook": "T-Rexy says: Rocks cycle through types.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "rocks",
+        "cycle"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_025",
+      "question": "What is magma?",
+      "correctAnswer": "Molten rock below Earth's surface",
+      "distractors": [
+        "Molten rock on the surface",
+        "Solid rock",
+        "A type of mineral"
+      ],
+      "explanation": "Magma is molten rock stored beneath Earth's surface; it is called magma only while underground - once it erupts onto the surface, the same molten rock is called lava.",
+      "memoryHook": "T-Rexy says: Magma is underground lava.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "volcanoes",
+        "magma"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_026",
+      "question": "What is lava?",
+      "correctAnswer": "Molten rock on Earth's surface",
+      "distractors": [
+        "Molten rock underground",
+        "Solid rock",
+        "A type of gas"
+      ],
+      "explanation": "Lava is magma that reaches the surface.",
+      "memoryHook": "T-Rexy says: Lava is surface magma.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "volcanoes",
+        "lava"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_027",
+      "question": "What is a volcano?",
+      "correctAnswer": "An opening where lava, ash, and gases erupt",
+      "distractors": [
+        "A type of earthquake",
+        "A mountain made of ice",
+        "A hole in the ocean floor"
+      ],
+      "explanation": "A volcano is an opening in Earth's crust where pressure from a magma chamber below forces lava, ash, and gases out - eruptions can build mountains or islands over time.",
+      "memoryHook": "T-Rexy says: Volcanoes erupt lava.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "volcanoes",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_028",
+      "question": "What is the theory of plate tectonics?",
+      "correctAnswer": "Earth's crust is divided into plates that move",
+      "distractors": [
+        "Earth's crust never moves",
+        "The Moon controls Earth's crust",
+        "Volcanoes move continents"
+      ],
+      "explanation": "Plate tectonics explains that Earth's outer shell is cracked into plates resting on hot, slowly flowing mantle rock, and their movement builds mountains, trenches, and volcanoes.",
+      "memoryHook": "T-Rexy says: Plates move.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "plate-tectonics",
+        "theory"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_029",
+      "question": "What causes most earthquakes?",
+      "correctAnswer": "Movement of tectonic plates",
+      "distractors": [
+        "Volcanic ash",
+        "Ocean waves",
+        "Wind"
+      ],
+      "explanation": "Most earthquakes happen at plate boundaries, where stress builds as plates push, pull, or slide past each other until the rock suddenly slips.",
+      "memoryHook": "T-Rexy says: Plates cause quakes.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earthquakes",
+        "causes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_030",
+      "question": "What is the point inside Earth where an earthquake starts?",
+      "correctAnswer": "Focus",
+      "distractors": [
+        "Epicenter",
+        "Fault",
+        "Crust"
+      ],
+      "explanation": "The focus is the exact point underground where rock first breaks and releases energy; seismic waves spread out from the focus in all directions.",
+      "memoryHook": "T-Rexy says: Focus is underground.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earthquakes",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_031",
+      "question": "What is the point on Earth's surface above an earthquake's focus?",
+      "correctAnswer": "Epicenter",
+      "distractors": [
+        "Focus",
+        "Fault",
+        "Mantle"
+      ],
+      "explanation": "The epicenter is the point on the surface directly above the focus, found by drawing a vertical line up from it - it is usually near the place that reports the strongest shaking.",
+      "memoryHook": "T-Rexy says: Epicenter is on the surface.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earthquakes",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_032",
+      "question": "What instrument measures earthquakes?",
+      "correctAnswer": "Seismograph",
+      "distractors": [
+        "Barometer",
+        "Thermometer",
+        "Telescope"
+      ],
+      "explanation": "A seismograph records earthquake waves.",
+      "memoryHook": "T-Rexy says: Seismographs measure quakes.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earthquakes",
+        "measurement"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_033",
+      "question": "What scale measures earthquake magnitude?",
+      "correctAnswer": "Richter scale",
+      "distractors": [
+        "Beaufort scale",
+        "Fujita scale",
+        "Mercalli scale"
+      ],
+      "explanation": "The Richter scale rates the energy an earthquake releases, and each whole-number step means about 32 times more energy; scientists today often use the moment magnitude scale for large quakes.",
+      "memoryHook": "T-Rexy says: Richter measures magnitude.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earthquakes",
+        "measurement"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_034",
+      "question": "What is a fault?",
+      "correctAnswer": "A crack in Earth's crust where rocks move",
+      "distractors": [
+        "A type of volcano",
+        "A mountain range",
+        "An ocean trench"
+      ],
+      "explanation": "A fault is a fracture in the crust where the rock on either side has moved relative to the other side - sudden movement along faults is what produces most earthquakes.",
+      "memoryHook": "T-Rexy says: Faults are cracks.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earthquakes",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_035",
+      "question": "What is the largest layer of Earth?",
+      "correctAnswer": "Mantle",
+      "distractors": [
+        "Crust",
+        "Outer core",
+        "Inner core"
+      ],
+      "explanation": "The mantle is Earth's thickest layer at about 2,900 km, made of hot rock that can flow very slowly, and its slow movement helps drag the tectonic plates.",
+      "memoryHook": "T-Rexy says: The mantle is the thickest.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earth",
+        "layers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_036",
+      "question": "What is Earth's outermost layer?",
+      "correctAnswer": "Crust",
+      "distractors": [
+        "Mantle",
+        "Outer core",
+        "Inner core"
+      ],
+      "explanation": "The crust is Earth's thin outer shell - like the skin of an apple compared with the whole fruit - and everything we live on and mine sits in it.",
+      "memoryHook": "T-Rexy says: The crust is the outside.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earth",
+        "layers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_037",
+      "question": "What is Earth's innermost layer?",
+      "correctAnswer": "Inner core",
+      "distractors": [
+        "Outer core",
+        "Mantle",
+        "Crust"
+      ],
+      "explanation": "The inner core is the solid center of Earth.",
+      "memoryHook": "T-Rexy says: The inner core is the center.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earth",
+        "layers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_038",
+      "question": "What is the inner core made of mostly?",
+      "correctAnswer": "Iron and nickel",
+      "distractors": [
+        "Silicon and oxygen",
+        "Water and salt",
+        "Carbon and hydrogen"
+      ],
+      "explanation": "The inner core is mostly iron and nickel; the mixture is squeezed so hard by the weight of the planet above that it stays solid even though it is about as hot as the Sun's surface.",
+      "memoryHook": "T-Rexy says: The core is iron and nickel.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earth",
+        "layers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_039",
+      "question": "What is weathering?",
+      "correctAnswer": "Breaking down rock into smaller pieces",
+      "distractors": [
+        "Moving rock away",
+        "Forming new rock",
+        "Melting rock"
+      ],
+      "explanation": "Weathering breaks rock down in place.",
+      "memoryHook": "T-Rexy says: Weathering breaks rock.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "erosion",
+        "weathering"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_040",
+      "question": "What is erosion?",
+      "correctAnswer": "Moving weathered rock and soil away",
+      "distractors": [
+        "Breaking rock in place",
+        "Forming new rock",
+        "Melting rock"
+      ],
+      "explanation": "Erosion is the transport step: agents like running water, wind, ice, and gravity carry weathered fragments away from the place where they broke down.",
+      "memoryHook": "T-Rexy says: Erosion moves rock.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "erosion",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_041",
+      "question": "What is deposition?",
+      "correctAnswer": "Dropping off eroded material in a new place",
+      "distractors": [
+        "Breaking rock apart",
+        "Melting rock",
+        "Forming magma"
+      ],
+      "explanation": "Deposition is the end of erosion's journey - when water, wind, or ice loses energy and can no longer carry its load, the sediment settles out and can build new landforms like deltas.",
+      "memoryHook": "T-Rexy says: Deposition drops material.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "erosion",
+        "deposition"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_042",
+      "question": "What agent of erosion moves the most material on Earth?",
+      "correctAnswer": "Water",
+      "distractors": [
+        "Wind",
+        "Ice",
+        "Gravity"
+      ],
+      "explanation": "Water moves more Earth material than any other agent because rivers, rain runoff, and ocean waves work almost everywhere, all the time - the Grand Canyon was carved mainly by one river.",
+      "memoryHook": "T-Rexy says: Water erodes most.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "erosion",
+        "agents"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_043",
+      "question": "What is a mineral?",
+      "correctAnswer": "A naturally occurring, inorganic solid with a definite composition",
+      "distractors": [
+        "A living thing",
+        "A type of rock only",
+        "A liquid metal"
+      ],
+      "explanation": "A mineral must pass every test: naturally occurring, inorganic (not made by living things), solid, with a definite chemical composition and an orderly crystal structure.",
+      "memoryHook": "T-Rexy says: Minerals are natural solids.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "minerals",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_044",
+      "question": "What is the hardest known mineral?",
+      "correctAnswer": "Diamond",
+      "distractors": [
+        "Quartz",
+        "Topaz",
+        "Corundum"
+      ],
+      "explanation": "Diamond tops the hardness scale at 10 because its carbon atoms are locked in a rigid three-dimensional network - only a diamond can scratch another diamond.",
+      "memoryHook": "T-Rexy says: Diamond is hardest.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "minerals",
+        "hardness"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_045",
+      "question": "What scale measures mineral hardness?",
+      "correctAnswer": "Mohs hardness scale",
+      "distractors": [
+        "Richter scale",
+        "Beaufort scale",
+        "pH scale"
+      ],
+      "explanation": "The Mohs scale ranks minerals from 1 (talc, soft enough to scratch with a fingernail) to 10 (diamond) by testing which minerals can scratch which others.",
+      "memoryHook": "T-Rexy says: Mohs measures hardness.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "minerals",
+        "hardness"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_046",
+      "question": "What is the water cycle?",
+      "correctAnswer": "The continuous movement of water between Earth and the atmosphere",
+      "distractors": [
+        "The flow of water in a river only",
+        "The freezing of water only",
+        "The drinking of water"
+      ],
+      "explanation": "The water cycle moves water through evaporation, condensation, and precipitation.",
+      "memoryHook": "T-Rexy says: Water cycles around.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "water-cycle",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_047",
+      "question": "What is precipitation?",
+      "correctAnswer": "Water falling from clouds as rain, snow, or hail",
+      "distractors": [
+        "Water evaporating",
+        "Water soaking into soil",
+        "Water condensing"
+      ],
+      "explanation": "Precipitation is any form of water that falls from clouds - rain, snow, sleet, or hail - and it is the step that returns water from the atmosphere to Earth's surface in the water cycle.",
+      "memoryHook": "T-Rexy says: Precipitation falls.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "water-cycle",
+        "precipitation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_048",
+      "question": "What is transpiration?",
+      "correctAnswer": "Water released from plants into the air",
+      "distractors": [
+        "Water evaporating from oceans",
+        "Water falling as rain",
+        "Water soaking into soil"
+      ],
+      "explanation": "Transpiration is how plants release water: roots absorb it from the soil, and it escapes as vapor through tiny pores in the leaves, adding moisture to the air.",
+      "memoryHook": "T-Rexy says: Plants release water.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "water-cycle",
+        "transpiration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_049",
+      "question": "What is groundwater?",
+      "correctAnswer": "Water stored underground in soil and rock",
+      "distractors": [
+        "Water in rivers",
+        "Water in clouds",
+        "Water in oceans"
+      ],
+      "explanation": "Groundwater fills the pores and cracks in underground rock and soil; wells and springs tap into these saturated underground stores, called aquifers.",
+      "memoryHook": "T-Rexy says: Groundwater is underground.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "water-cycle",
+        "groundwater"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_050",
+      "question": "What is the largest ocean on Earth?",
+      "correctAnswer": "Pacific Ocean",
+      "distractors": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "explanation": "The Pacific is the largest ocean - it covers more area than all of Earth's land combined and holds the deepest point on Earth, the Mariana Trench.",
+      "memoryHook": "T-Rexy says: The Pacific is biggest.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "oceans",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_051",
+      "question": "What causes ocean tides?",
+      "correctAnswer": "The Moon's gravity",
+      "distractors": [
+        "Wind only",
+        "Earth's rotation only",
+        "The Sun's heat only"
+      ],
+      "explanation": "Ocean tides are caused mainly by the Moon's gravity pulling on Earth's water, creating bulges of water on the sides of Earth facing toward and away from the Moon.",
+      "memoryHook": "T-Rexy says: The Moon pulls tides.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "oceans",
+        "tides"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_052",
+      "question": "What is the atmosphere?",
+      "correctAnswer": "The layer of gases surrounding Earth",
+      "distractors": [
+        "The solid crust",
+        "The ocean",
+        "The core"
+      ],
+      "explanation": "The atmosphere is the envelope of gases held around Earth by gravity; it supplies the air we breathe and shields the surface from most harmful radiation.",
+      "memoryHook": "T-Rexy says: The atmosphere is air around Earth.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "atmosphere",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_053",
+      "question": "What gas makes up most of the atmosphere?",
+      "correctAnswer": "Nitrogen",
+      "distractors": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "explanation": "Nitrogen is about 78 percent of the atmosphere.",
+      "memoryHook": "T-Rexy says: Air is mostly nitrogen.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "atmosphere",
+        "composition"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_054",
+      "question": "What is the ozone layer?",
+      "correctAnswer": "A layer that absorbs harmful ultraviolet radiation",
+      "distractors": [
+        "A layer of clouds",
+        "A layer of dust",
+        "A layer of water vapor"
+      ],
+      "explanation": "The ozone layer sits high in the atmosphere (in the stratosphere) and absorbs most of the Sun's harmful ultraviolet radiation, protecting living things from cell damage.",
+      "memoryHook": "T-Rexy says: Ozone blocks UV.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "atmosphere",
+        "ozone"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_055",
+      "question": "What is weather?",
+      "correctAnswer": "Short-term conditions of the atmosphere in a place",
+      "distractors": [
+        "Long-term climate patterns",
+        "The movement of plates",
+        "Ocean currents only"
+      ],
+      "explanation": "Weather describes the atmosphere right now or over a few days in one place - temperature, humidity, wind, and precipitation that can change by the hour.",
+      "memoryHook": "T-Rexy says: Weather is short-term.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_056",
+      "question": "What is climate?",
+      "correctAnswer": "Long-term weather patterns in a region",
+      "distractors": [
+        "Today's temperature",
+        "A single storm",
+        "Short-term rain"
+      ],
+      "explanation": "Climate is the pattern weather follows in a region over decades - one cold day does not change a climate, but about 30 years of average conditions define it.",
+      "memoryHook": "T-Rexy says: Climate is long-term.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "climate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_057",
+      "question": "What instrument measures air pressure?",
+      "correctAnswer": "Barometer",
+      "distractors": [
+        "Thermometer",
+        "Anemometer",
+        "Rain gauge"
+      ],
+      "explanation": "A barometer tracks air pressure: rising pressure usually brings fair weather, while falling pressure warns that a storm may be approaching.",
+      "memoryHook": "T-Rexy says: Barometers measure pressure.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "instruments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_058",
+      "question": "What instrument measures wind speed?",
+      "correctAnswer": "Anemometer",
+      "distractors": [
+        "Barometer",
+        "Thermometer",
+        "Rain gauge"
+      ],
+      "explanation": "An anemometer spins in the wind - the faster its cups rotate, the higher the wind speed it records, usually in km/h or mph.",
+      "memoryHook": "T-Rexy says: Anemometers measure wind.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "instruments"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_059",
+      "question": "What instrument measures temperature?",
+      "correctAnswer": "Thermometer",
+      "distractors": [
+        "Barometer",
+        "Anemometer",
+        "Rain gauge"
+      ],
+      "explanation": "A thermometer measures temperature using a material that responds to heat, such as a liquid that expands up a narrow tube or a sensor whose electrical resistance changes.",
+      "memoryHook": "T-Rexy says: Thermometers measure temperature.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "instruments"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_060",
+      "question": "What instrument measures rainfall?",
+      "correctAnswer": "Rain gauge",
+      "distractors": [
+        "Barometer",
+        "Anemometer",
+        "Thermometer"
+      ],
+      "explanation": "A rain gauge collects rainfall in a graduated container so the depth of water that fell can be read directly, usually in millimeters or inches.",
+      "memoryHook": "T-Rexy says: Rain gauges measure rain.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "instruments"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_061",
+      "question": "What is a cold front?",
+      "correctAnswer": "Cold air pushing under warm air",
+      "distractors": [
+        "Warm air pushing over cold air",
+        "No air movement",
+        "A hurricane"
+      ],
+      "explanation": "At a cold front, a dense cold air mass plows under a warm air mass and forces it up quickly, often producing heavy downpours and thunderstorms along the front.",
+      "memoryHook": "T-Rexy says: Cold fronts push under.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "fronts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_062",
+      "question": "What is a warm front?",
+      "correctAnswer": "Warm air sliding over cold air",
+      "distractors": [
+        "Cold air pushing under warm air",
+        "No air movement",
+        "A tornado"
+      ],
+      "explanation": "At a warm front, warm air glides up and over a retreating cold air mass, usually bringing steady, widespread rain followed by warmer temperatures.",
+      "memoryHook": "T-Rexy says: Warm fronts slide over.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "fronts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_063",
+      "question": "What is a hurricane?",
+      "correctAnswer": "A large rotating tropical storm",
+      "distractors": [
+        "A small thunderstorm",
+        "A tornado on land",
+        "A snowstorm"
+      ],
+      "explanation": "A hurricane is a huge rotating storm that forms over warm tropical ocean water, drawing its energy from the heat and moisture evaporating off the sea.",
+      "memoryHook": "T-Rexy says: Hurricanes are big rotating storms.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "storms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_064",
+      "question": "What is a tornado?",
+      "correctAnswer": "A violently rotating column of air reaching the ground",
+      "distractors": [
+        "A large ocean storm",
+        "A snowstorm",
+        "A heat wave"
+      ],
+      "explanation": "A tornado is a narrow, violently spinning column of air stretching from a thunderstorm down to the ground, with the fastest winds of any storm on Earth.",
+      "memoryHook": "T-Rexy says: Tornadoes spin to the ground.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "storms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_065",
+      "question": "What is the main cause of wind?",
+      "correctAnswer": "Differences in air pressure",
+      "distractors": [
+        "The Moon",
+        "Ocean tides",
+        "Earth's tilt only"
+      ],
+      "explanation": "Wind blows from high to low pressure.",
+      "memoryHook": "T-Rexy says: Wind is pressure differences.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "wind"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_066",
+      "question": "What is a fossil?",
+      "correctAnswer": "Preserved remains or traces of an ancient organism",
+      "distractors": [
+        "A living organism",
+        "A type of mineral only",
+        "A new rock"
+      ],
+      "explanation": "A fossil is any preserved evidence of ancient life - bones, shells, footprints, or even burrows - usually formed when remains are buried quickly and slowly turn to stone.",
+      "memoryHook": "T-Rexy says: Fossils are ancient remains.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "fossils",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_067",
+      "question": "What do fossils help scientists learn?",
+      "correctAnswer": "About past life and Earth's history",
+      "distractors": [
+        "About future weather",
+        "About the Moon only",
+        "About modern animals only"
+      ],
+      "explanation": "Fossils let scientists reconstruct past life and environments: a fish fossil found high in a mountain range shows that the rock once lay under an ocean.",
+      "memoryHook": "T-Rexy says: Fossils tell Earth's history.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "fossils",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_068",
+      "question": "What is the principle of superposition?",
+      "correctAnswer": "In undisturbed rock layers, older layers are below younger ones",
+      "distractors": [
+        "Younger layers are below older ones",
+        "All layers are the same age",
+        "Rocks never form layers"
+      ],
+      "explanation": "Superposition works because sediment is laid down in layers over time - in an undisturbed stack, each layer was deposited after, and is younger than, the one beneath it.",
+      "memoryHook": "T-Rexy says: Older is below.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "fossils",
+        "dating"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_069",
+      "question": "What is relative dating?",
+      "correctAnswer": "Determining if a rock is older or younger than another",
+      "distractors": [
+        "Measuring exact age in years",
+        "Counting fossils only",
+        "Measuring rock size"
+      ],
+      "explanation": "Relative dating compares ages without exact numbers.",
+      "memoryHook": "T-Rexy says: Relative dating compares.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "fossils",
+        "dating"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_070",
+      "question": "What is absolute dating?",
+      "correctAnswer": "Determining the exact age of a rock in years",
+      "distractors": [
+        "Comparing two rocks only",
+        "Guessing an age",
+        "Measuring rock size"
+      ],
+      "explanation": "Absolute dating gives an age in years, often using radioactive decay.",
+      "memoryHook": "T-Rexy says: Absolute dating gives years.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "fossils",
+        "dating"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_071",
+      "question": "What is a glacier?",
+      "correctAnswer": "A large mass of moving ice",
+      "distractors": [
+        "A river of water",
+        "A type of volcano",
+        "A frozen lake only"
+      ],
+      "explanation": "A glacier is a thick mass of ice that forms where snow builds up faster than it melts; it flows downhill under its own weight, carving valleys as it moves.",
+      "memoryHook": "T-Rexy says: Glaciers are moving ice.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "erosion",
+        "glaciers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_072",
+      "question": "What is a delta?",
+      "correctAnswer": "Land formed where a river deposits sediment at its mouth",
+      "distractors": [
+        "A mountain",
+        "A desert",
+        "A volcano"
+      ],
+      "explanation": "A delta builds where a river slows down as it enters a lake or ocean and drops its sediment load, creating new, fan-shaped land at the river's mouth.",
+      "memoryHook": "T-Rexy says: Deltas form at river mouths.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "erosion",
+        "landforms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_073",
+      "question": "What is a canyon?",
+      "correctAnswer": "A deep valley carved by a river",
+      "distractors": [
+        "A flat plain",
+        "A volcano",
+        "A sand dune"
+      ],
+      "explanation": "A canyon is carved when a river cuts downward through rock over millions of years - the Grand Canyon was cut by the Colorado River to more than a mile deep.",
+      "memoryHook": "T-Rexy says: Canyons are carved valleys.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "erosion",
+        "landforms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_074",
+      "question": "What is soil made of?",
+      "correctAnswer": "Weathered rock, organic matter, water, and air",
+      "distractors": [
+        "Only sand",
+        "Only water",
+        "Only plants"
+      ],
+      "explanation": "Soil is a mixture of weathered rock fragments (which supply minerals), decayed organic matter called humus, plus the water and air filling the spaces between particles.",
+      "memoryHook": "T-Rexy says: Soil is rock plus life.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earth",
+        "soil"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_075",
+      "question": "What is the top layer of soil called?",
+      "correctAnswer": "Topsoil",
+      "distractors": [
+        "Subsoil",
+        "Bedrock",
+        "Clay"
+      ],
+      "explanation": "Topsoil is the upper, most fertile layer.",
+      "memoryHook": "T-Rexy says: Topsoil is on top.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earth",
+        "soil"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_076",
+      "question": "What is the layer of solid rock below soil called?",
+      "correctAnswer": "Bedrock",
+      "distractors": [
+        "Topsoil",
+        "Subsoil",
+        "Clay"
+      ],
+      "explanation": "Bedrock is the solid, unbroken rock beneath the soil and loose material; it is the parent rock that weathering slowly breaks down to form soil.",
+      "memoryHook": "T-Rexy says: Bedrock is solid rock.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "earth",
+        "soil"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_077",
+      "question": "What is the greenhouse effect?",
+      "correctAnswer": "Gases trapping heat in Earth's atmosphere",
+      "distractors": [
+        "The Sun getting hotter",
+        "The Moon blocking heat",
+        "Oceans cooling Earth"
+      ],
+      "explanation": "In the greenhouse effect, gases like carbon dioxide and methane let sunlight in but absorb heat radiating back from the surface - without this effect, Earth would average well below freezing.",
+      "memoryHook": "T-Rexy says: Greenhouse gases trap heat.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "atmosphere",
+        "greenhouse"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_078",
+      "question": "Which gas is the main greenhouse gas from burning fossil fuels?",
+      "correctAnswer": "Carbon dioxide",
+      "distractors": [
+        "Oxygen",
+        "Nitrogen",
+        "Argon"
+      ],
+      "explanation": "Burning coal, oil, and natural gas releases carbon dioxide that was locked underground for millions of years, adding more of the main greenhouse gas to the atmosphere.",
+      "memoryHook": "T-Rexy says: Fossil fuels release carbon dioxide.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "atmosphere",
+        "greenhouse"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_079",
+      "question": "What is the main source of energy for Earth's weather?",
+      "correctAnswer": "The Sun",
+      "distractors": [
+        "The Moon",
+        "Earth's core",
+        "Ocean tides"
+      ],
+      "explanation": "The Sun drives Earth's weather: its uneven heating of the surface creates pressure differences, which produce wind and power the water cycle.",
+      "memoryHook": "T-Rexy says: The Sun powers weather.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "weather",
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_080",
+      "question": "What is the equator?",
+      "correctAnswer": "The imaginary line around Earth's middle at 0 degrees latitude",
+      "distractors": [
+        "The line at the North Pole",
+        "The line at 90 degrees latitude",
+        "A line through the poles"
+      ],
+      "explanation": "The equator is the 0-degree latitude line circling Earth's middle, dividing the planet into the Northern and Southern Hemispheres.",
+      "memoryHook": "T-Rexy says: The equator is 0 degrees.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "geography",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_081",
+      "question": "What is latitude?",
+      "correctAnswer": "Distance north or south of the equator",
+      "distractors": [
+        "Distance east or west of the prime meridian",
+        "Height above sea level",
+        "Distance from the Sun"
+      ],
+      "explanation": "Latitude lines run parallel to the equator and measure distance north or south of it, from 0 degrees at the equator to 90 degrees at the poles.",
+      "memoryHook": "T-Rexy says: Latitude is north-south.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "geography",
+        "earth"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_082",
+      "question": "What is longitude?",
+      "correctAnswer": "Distance east or west of the prime meridian",
+      "distractors": [
+        "Distance north or south of the equator",
+        "Height above sea level",
+        "Distance from the Moon"
+      ],
+      "explanation": "Longitude lines run from pole to pole and measure distance east or west of the prime meridian, up to 180 degrees on the opposite side of Earth.",
+      "memoryHook": "T-Rexy says: Longitude is east-west.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "geography",
+        "earth"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_083",
+      "question": "What is the prime meridian?",
+      "correctAnswer": "The line at 0 degrees longitude through Greenwich, England",
+      "distractors": [
+        "The equator",
+        "The line at the North Pole",
+        "The line at 180 degrees"
+      ],
+      "explanation": "The prime meridian is the 0-degree longitude line running through Greenwich, England; longitude everywhere else is measured east or west from this starting line.",
+      "memoryHook": "T-Rexy says: Prime meridian is zero longitude.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "geography",
+        "earth"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_084",
+      "question": "What is the name of Earth's only natural satellite?",
+      "correctAnswer": "The Moon",
+      "distractors": [
+        "Phobos",
+        "Titan",
+        "Europa"
+      ],
+      "explanation": "The Moon is Earth's only natural satellite and the fifth-largest moon in the solar system; it formed about 4.5 billion years ago, most likely from debris of a giant collision with Earth.",
+      "memoryHook": "T-Rexy says: The Moon is Earth's satellite.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "moon"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_085",
+      "question": "What planet has the most moons?",
+      "correctAnswer": "Saturn",
+      "distractors": [
+        "Jupiter",
+        "Mars",
+        "Earth"
+      ],
+      "explanation": "Saturn has the most confirmed moons of any planet - over 270 - ranging from tiny moonlets in its rings to Titan, which is larger than the planet Mercury.",
+      "memoryHook": "T-Rexy says: Saturn has the most moons.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "planets"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_086",
+      "question": "What is a comet?",
+      "correctAnswer": "A ball of ice and dust that orbits the Sun",
+      "distractors": [
+        "A type of planet",
+        "A star",
+        "A moon"
+      ],
+      "explanation": "A comet is a small body of ice, dust, and rock; when its orbit brings it near the Sun, the ice vaporizes and forms a glowing tail that always points away from the Sun.",
+      "memoryHook": "T-Rexy says: Comets are icy.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "comets"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_087",
+      "question": "What is an asteroid?",
+      "correctAnswer": "A rocky object orbiting the Sun, smaller than a planet",
+      "distractors": [
+        "A type of star",
+        "A moon",
+        "A comet"
+      ],
+      "explanation": "An asteroid is a rocky or metallic object orbiting the Sun that is far smaller than a planet - most are found in the belt between Mars and Jupiter, and the largest, Ceres, is about 940 km wide.",
+      "memoryHook": "T-Rexy says: Asteroids are rocky.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "asteroids"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_088",
+      "question": "What is the asteroid belt?",
+      "correctAnswer": "A region of asteroids between Mars and Jupiter",
+      "distractors": [
+        "A ring around Saturn",
+        "A region beyond Neptune",
+        "A group of moons"
+      ],
+      "explanation": "The asteroid belt lies between the orbits of Mars and Jupiter, where Jupiter's gravity prevented the rocky fragments there from ever joining into another planet.",
+      "memoryHook": "T-Rexy says: The belt is between Mars and Jupiter.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "asteroids"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_089",
+      "question": "What is the Milky Way?",
+      "correctAnswer": "The galaxy containing our solar system",
+      "distractors": [
+        "A star",
+        "A planet",
+        "A nebula only"
+      ],
+      "explanation": "The Milky Way is the spiral galaxy we live in - our solar system sits in one of its outer arms, and on dark nights its dense band of stars stretches across the sky.",
+      "memoryHook": "T-Rexy says: We live in the Milky Way.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "galaxy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_090",
+      "question": "What is a galaxy?",
+      "correctAnswer": "A huge group of stars, gas, and dust held by gravity",
+      "distractors": [
+        "A single star",
+        "A planet",
+        "A moon"
+      ],
+      "explanation": "A galaxy is an enormous system of stars, gas, and dust bound together by gravity - the Milky Way alone holds well over 100 billion stars.",
+      "memoryHook": "T-Rexy says: Galaxies hold stars.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "galaxy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_091",
+      "question": "What is a star?",
+      "correctAnswer": "A ball of hot gas that makes its own light",
+      "distractors": [
+        "A planet",
+        "A moon",
+        "A comet"
+      ],
+      "explanation": "A star is a huge ball of hot gas held together by its own gravity that produces light and heat through nuclear fusion in its core - the Sun is the nearest example.",
+      "memoryHook": "T-Rexy says: Stars make their own light.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "stars"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_092",
+      "question": "What is the closest star to Earth?",
+      "correctAnswer": "The Sun",
+      "distractors": [
+        "Proxima Centauri",
+        "Alpha Centauri",
+        "Sirius"
+      ],
+      "explanation": "The Sun is the closest star to Earth at about 150 million km - its light takes only about 8 minutes to reach us, while the next nearest star's light takes over 4 years.",
+      "memoryHook": "T-Rexy says: The Sun is closest.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "stars"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_093",
+      "question": "What is the main gas in the Sun?",
+      "correctAnswer": "Hydrogen",
+      "distractors": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "explanation": "The Sun is mostly hydrogen (about 73 percent of its mass); in its core, that hydrogen is fused into helium, releasing the energy that becomes sunlight.",
+      "memoryHook": "T-Rexy says: The Sun is mostly hydrogen.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "sun"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_094",
+      "question": "What is a black hole?",
+      "correctAnswer": "A region with gravity so strong that light cannot escape",
+      "distractors": [
+        "A dark planet",
+        "A hole in Earth",
+        "A type of star that shines brightly"
+      ],
+      "explanation": "A black hole packs so much mass into so small a space that its gravity prevents anything - even light, the fastest thing there is - from escaping once it gets too close.",
+      "memoryHook": "T-Rexy says: Black holes trap light.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "stars"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_095",
+      "question": "What is the process that powers the Sun?",
+      "correctAnswer": "Nuclear fusion",
+      "distractors": [
+        "Nuclear fission",
+        "Burning wood",
+        "Chemical reactions"
+      ],
+      "explanation": "The Sun is powered by nuclear fusion: in its core, crushing pressure and heat force hydrogen nuclei together to form helium, converting a little mass into enormous energy.",
+      "memoryHook": "T-Rexy says: The Sun uses fusion.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "sun"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_096",
+      "question": "What is the difference between a meteoroid, a meteor, and a meteorite?",
+      "correctAnswer": "A meteoroid is in space, a meteor burns in the atmosphere, a meteorite lands on Earth",
+      "distractors": [
+        "They are all the same",
+        "A meteorite is in space",
+        "A meteor is on the ground"
+      ],
+      "explanation": "The three names mark stages of one object's journey: a meteoroid drifts in space, it burns as a meteor (a 'shooting star') in the atmosphere, and any piece that survives to reach the ground is a meteorite.",
+      "memoryHook": "T-Rexy says: Space, sky, ground.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "solar-system",
+        "meteors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_097",
+      "question": "What is the name of the supercontinent that existed long ago?",
+      "correctAnswer": "Pangaea",
+      "distractors": [
+        "Gondwana",
+        "Laurasia",
+        "Atlantis"
+      ],
+      "explanation": "Pangaea was the supercontinent that held all of today's continents joined in one landmass, roughly 335 to 175 million years ago, before it split into Laurasia in the north and Gondwana in the south.",
+      "memoryHook": "T-Rexy says: Pangaea was one land.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "plate-tectonics",
+        "history"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_098",
+      "question": "What is seafloor spreading?",
+      "correctAnswer": "New ocean crust forming at mid-ocean ridges",
+      "distractors": [
+        "Ocean water evaporating",
+        "Plates stopping",
+        "Mountains forming on land"
+      ],
+      "explanation": "In seafloor spreading, plates pull apart at mid-ocean ridges and magma rises to fill the gap, hardening into new ocean crust - which is why the seafloor is youngest right at the ridges.",
+      "memoryHook": "T-Rexy says: New crust forms at ridges.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "plate-tectonics",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_099",
+      "question": "What is a mid-ocean ridge?",
+      "correctAnswer": "An underwater mountain range where new crust forms",
+      "distractors": [
+        "A deep trench",
+        "A volcano on land",
+        "A river delta"
+      ],
+      "explanation": "A mid-ocean ridge is a long underwater mountain chain marking a plate boundary; its center has a rift valley where new crust is constantly being created.",
+      "memoryHook": "T-Rexy says: Ridges make new crust.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "plate-tectonics",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EAR9_100",
+      "question": "What is a convergent plate boundary?",
+      "correctAnswer": "Plates moving toward each other",
+      "distractors": [
+        "Plates moving apart",
+        "Plates sliding past each other",
+        "Plates not moving"
+      ],
+      "explanation": "At a convergent boundary, plates collide - one may dive beneath the other (subduction), melting and fueling volcanoes, or the edges crumple upward into mountain ranges like the Himalayas.",
+      "memoryHook": "T-Rexy says: Convergent means together.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "plate-tectonics",
+        "boundaries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

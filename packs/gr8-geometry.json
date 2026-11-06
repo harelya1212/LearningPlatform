@@ -1,0 +1,2009 @@
+{
+  "packId": "gr8-geometry",
+  "title": "Geometry (8th Grade)",
+  "description": "Geometry (8th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "math",
+    "geometry",
+    "8th"
+  ],
+  "questions": [
+    {
+      "id": "GEO8_001",
+      "question": "Two angles are complementary. One measures 30 degrees. What is the other?",
+      "correctAnswer": "60",
+      "distractors": [
+        "150",
+        "30",
+        "120"
+      ],
+      "explanation": "Complementary angles add to 90, so 90 - 30 = 60.",
+      "memoryHook": "T-Rexy says: Complementary adds to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_002",
+      "question": "Two angles are complementary. One measures 40 degrees. What is the other?",
+      "correctAnswer": "50",
+      "distractors": [
+        "140",
+        "40",
+        "130"
+      ],
+      "explanation": "Complementary angles add to 90, so 90 - 40 = 50.",
+      "memoryHook": "T-Rexy says: Complementary adds to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_003",
+      "question": "Two angles are complementary. One measures 50 degrees. What is the other?",
+      "correctAnswer": "40",
+      "distractors": [
+        "130",
+        "50",
+        "140"
+      ],
+      "explanation": "Complementary angles add to 90, so 90 - 50 = 40.",
+      "memoryHook": "T-Rexy says: Complementary adds to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_004",
+      "question": "Two angles are complementary. One measures 65 degrees. What is the other?",
+      "correctAnswer": "25",
+      "distractors": [
+        "115",
+        "65",
+        "155"
+      ],
+      "explanation": "Complementary angles add to 90, so 90 - 65 = 25.",
+      "memoryHook": "T-Rexy says: Complementary adds to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_005",
+      "question": "Two angles are complementary. One measures 75 degrees. What is the other?",
+      "correctAnswer": "15",
+      "distractors": [
+        "105",
+        "75",
+        "165"
+      ],
+      "explanation": "Complementary angles add to 90, so 90 - 75 = 15.",
+      "memoryHook": "T-Rexy says: Complementary adds to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_006",
+      "question": "Two angles are supplementary. One measures 100 degrees. What is the other?",
+      "correctAnswer": "80",
+      "distractors": [
+        "-10",
+        "100",
+        "280"
+      ],
+      "explanation": "Supplementary angles add to 180, so 180 - 100 = 80.",
+      "memoryHook": "T-Rexy says: Supplementary adds to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_007",
+      "question": "Two angles are supplementary. One measures 120 degrees. What is the other?",
+      "correctAnswer": "60",
+      "distractors": [
+        "-30",
+        "120",
+        "300"
+      ],
+      "explanation": "Supplementary angles add to 180, so 180 - 120 = 60.",
+      "memoryHook": "T-Rexy says: Supplementary adds to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_008",
+      "question": "Two angles are supplementary. One measures 135 degrees. What is the other?",
+      "correctAnswer": "45",
+      "distractors": [
+        "-45",
+        "135",
+        "315"
+      ],
+      "explanation": "Supplementary angles add to 180, so 180 - 135 = 45.",
+      "memoryHook": "T-Rexy says: Supplementary adds to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_009",
+      "question": "Two angles are supplementary. One measures 150 degrees. What is the other?",
+      "correctAnswer": "30",
+      "distractors": [
+        "-60",
+        "150",
+        "330"
+      ],
+      "explanation": "Supplementary angles add to 180, so 180 - 150 = 30.",
+      "memoryHook": "T-Rexy says: Supplementary adds to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_010",
+      "question": "Two angles are supplementary. One measures 110 degrees. What is the other?",
+      "correctAnswer": "70",
+      "distractors": [
+        "-20",
+        "110",
+        "290"
+      ],
+      "explanation": "Supplementary angles add to 180, so 180 - 110 = 70.",
+      "memoryHook": "T-Rexy says: Supplementary adds to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_011",
+      "question": "Two vertical angles are formed by intersecting lines. One measures 35 degrees. What is the other?",
+      "correctAnswer": "35",
+      "distractors": [
+        "145",
+        "55",
+        "45"
+      ],
+      "explanation": "Vertical angles are opposite each other and always equal.",
+      "memoryHook": "T-Rexy says: Vertical angles are equal.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vertical"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_012",
+      "question": "Two vertical angles are formed by intersecting lines. One measures 48 degrees. What is the other?",
+      "correctAnswer": "48",
+      "distractors": [
+        "132",
+        "42",
+        "58"
+      ],
+      "explanation": "Vertical angles are opposite each other and always equal.",
+      "memoryHook": "T-Rexy says: Vertical angles are equal.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vertical"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_013",
+      "question": "Two vertical angles are formed by intersecting lines. One measures 72 degrees. What is the other?",
+      "correctAnswer": "72",
+      "distractors": [
+        "108",
+        "18",
+        "82"
+      ],
+      "explanation": "Vertical angles are opposite each other and always equal.",
+      "memoryHook": "T-Rexy says: Vertical angles are equal.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vertical"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_014",
+      "question": "Two vertical angles are formed by intersecting lines. One measures 110 degrees. What is the other?",
+      "correctAnswer": "110",
+      "distractors": [
+        "70",
+        "-20",
+        "120"
+      ],
+      "explanation": "Vertical angles are opposite each other and always equal.",
+      "memoryHook": "T-Rexy says: Vertical angles are equal.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vertical"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_015",
+      "question": "Two vertical angles are formed by intersecting lines. One measures 125 degrees. What is the other?",
+      "correctAnswer": "125",
+      "distractors": [
+        "55",
+        "-35",
+        "135"
+      ],
+      "explanation": "Vertical angles are opposite each other and always equal.",
+      "memoryHook": "T-Rexy says: Vertical angles are equal.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vertical"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_016",
+      "question": "A triangle has two angles measuring 50 and 60 degrees. What is the third angle?",
+      "correctAnswer": "70",
+      "distractors": [
+        "120",
+        "110",
+        "10"
+      ],
+      "explanation": "Angles in a triangle add to 180, so 180 - 50 - 60 = 70.",
+      "memoryHook": "T-Rexy says: Triangle angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angle-sum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_017",
+      "question": "A triangle has two angles measuring 70 and 40 degrees. What is the third angle?",
+      "correctAnswer": "70",
+      "distractors": [
+        "140",
+        "110",
+        "30"
+      ],
+      "explanation": "Angles in a triangle add to 180, so 180 - 70 - 40 = 70.",
+      "memoryHook": "T-Rexy says: Triangle angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angle-sum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_018",
+      "question": "A triangle has two angles measuring 35 and 85 degrees. What is the third angle?",
+      "correctAnswer": "60",
+      "distractors": [
+        "95",
+        "120",
+        "50"
+      ],
+      "explanation": "Angles in a triangle add to 180, so 180 - 35 - 85 = 60.",
+      "memoryHook": "T-Rexy says: Triangle angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angle-sum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_019",
+      "question": "A triangle has two angles measuring 55 and 65 degrees. What is the third angle?",
+      "correctAnswer": "60",
+      "distractors": [
+        "115",
+        "120",
+        "10"
+      ],
+      "explanation": "Angles in a triangle add to 180, so 180 - 55 - 65 = 60.",
+      "memoryHook": "T-Rexy says: Triangle angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angle-sum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_020",
+      "question": "What is the sum of the interior angles of a triangle?",
+      "correctAnswer": "180 degrees",
+      "distractors": [
+        "90 degrees",
+        "270 degrees",
+        "360 degrees"
+      ],
+      "explanation": "Tear off the three corners of any paper triangle and line them up - they form a straight line, and a straight line is 180 degrees. That is why every triangle's angles total 180.",
+      "memoryHook": "T-Rexy says: Triangles always total 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angle-sum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_021",
+      "question": "What is the sum of the interior angles of a quadrilateral?",
+      "correctAnswer": "360 degrees",
+      "distractors": [
+        "180 degrees",
+        "270 degrees",
+        "540 degrees"
+      ],
+      "explanation": "A quadrilateral can be split into two triangles: 2 x 180 = 360.",
+      "memoryHook": "T-Rexy says: Quadrilaterals total 360.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "interior-angles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_022",
+      "question": "What is the sum of the interior angles of a 5-sided polygon?",
+      "correctAnswer": "540 degrees",
+      "distractors": [
+        "720 degrees",
+        "360 degrees",
+        "630 degrees"
+      ],
+      "explanation": "Use (n - 2) x 180: (5 - 2) x 180 = 540.",
+      "memoryHook": "T-Rexy says: Use (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "interior-angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_023",
+      "question": "What is the sum of the interior angles of a 6-sided polygon?",
+      "correctAnswer": "720 degrees",
+      "distractors": [
+        "900 degrees",
+        "540 degrees",
+        "810 degrees"
+      ],
+      "explanation": "Use (n - 2) x 180: (6 - 2) x 180 = 720.",
+      "memoryHook": "T-Rexy says: Use (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "interior-angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_024",
+      "question": "What is the sum of the interior angles of a 8-sided polygon?",
+      "correctAnswer": "1080 degrees",
+      "distractors": [
+        "1260 degrees",
+        "900 degrees",
+        "1170 degrees"
+      ],
+      "explanation": "Use (n - 2) x 180: (8 - 2) x 180 = 1080.",
+      "memoryHook": "T-Rexy says: Use (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "interior-angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_025",
+      "question": "What is the sum of the interior angles of a 10-sided polygon?",
+      "correctAnswer": "1440 degrees",
+      "distractors": [
+        "1620 degrees",
+        "1260 degrees",
+        "1530 degrees"
+      ],
+      "explanation": "Use (n - 2) x 180: (10 - 2) x 180 = 1440.",
+      "memoryHook": "T-Rexy says: Use (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "interior-angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_026",
+      "question": "What is each interior angle of a regular hexagon?",
+      "correctAnswer": "120 degrees",
+      "distractors": [
+        "90 degrees",
+        "108 degrees",
+        "135 degrees"
+      ],
+      "explanation": "A hexagon totals 720 degrees, and 720 / 6 = 120.",
+      "memoryHook": "T-Rexy says: Divide the total by the number of sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "regular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_027",
+      "question": "In a right triangle, what do you call the side opposite the right angle?",
+      "correctAnswer": "Hypotenuse",
+      "distractors": [
+        "Leg",
+        "Base",
+        "Altitude"
+      ],
+      "explanation": "The hypotenuse is opposite the right angle and is the longest side.",
+      "memoryHook": "T-Rexy says: The hypotenuse is across from the right angle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "right-triangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_028",
+      "question": "Which set of lengths can form a right triangle?",
+      "correctAnswer": "3, 4, 5",
+      "distractors": [
+        "2, 3, 4",
+        "4, 5, 6",
+        "5, 6, 7"
+      ],
+      "explanation": "3^2 + 4^2 = 25 = 5^2, so it satisfies the Pythagorean theorem.",
+      "memoryHook": "T-Rexy says: Check with a squared plus b squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "pythagorean"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_029",
+      "question": "Find the hypotenuse of a right triangle with legs 3 and 4.",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "4",
+        "7"
+      ],
+      "explanation": "c = sqrt(3^2 + 4^2) = sqrt(25) = 5.",
+      "memoryHook": "T-Rexy says: Square, add, square root.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "pythagorean"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_030",
+      "question": "Find the hypotenuse of a right triangle with legs 6 and 8.",
+      "correctAnswer": "10",
+      "distractors": [
+        "11",
+        "9",
+        "14"
+      ],
+      "explanation": "c = sqrt(6^2 + 8^2) = sqrt(100) = 10.",
+      "memoryHook": "T-Rexy says: Square, add, square root.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "pythagorean"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_031",
+      "question": "Find the hypotenuse of a right triangle with legs 5 and 12.",
+      "correctAnswer": "13",
+      "distractors": [
+        "14",
+        "12",
+        "17"
+      ],
+      "explanation": "c = sqrt(5^2 + 12^2) = sqrt(169) = 13.",
+      "memoryHook": "T-Rexy says: Square, add, square root.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "pythagorean"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_032",
+      "question": "Find the hypotenuse of a right triangle with legs 8 and 15.",
+      "correctAnswer": "17",
+      "distractors": [
+        "18",
+        "16",
+        "23"
+      ],
+      "explanation": "c = sqrt(8^2 + 15^2) = sqrt(289) = 17.",
+      "memoryHook": "T-Rexy says: Square, add, square root.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "pythagorean"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_033",
+      "question": "What is the distance between (1, 2) and (4, 6)?",
+      "correctAnswer": "5",
+      "distractors": [
+        "4",
+        "6",
+        "7"
+      ],
+      "explanation": "Distance = sqrt((4-1)^2 + (6-2)^2) = sqrt(9 + 16) = 5.",
+      "memoryHook": "T-Rexy says: Distance uses the Pythagorean theorem.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "distance",
+        "coordinate-plane"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_034",
+      "question": "What is the midpoint of (2, 4) and (6, 10)?",
+      "correctAnswer": "(4, 7)",
+      "distractors": [
+        "(3, 5)",
+        "(4, 6)",
+        "(8, 14)"
+      ],
+      "explanation": "Average the x values: (2+6)/2 = 4. Average the y values: (4+10)/2 = 7.",
+      "memoryHook": "T-Rexy says: Midpoint averages both coordinates.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "midpoint"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_035",
+      "question": "A point (3, 5) is translated 2 units right and 4 units down. Where is it now?",
+      "correctAnswer": "(5, 1)",
+      "distractors": [
+        "(1, 9)",
+        "(5, 9)",
+        "(1, 1)"
+      ],
+      "explanation": "Add 2 to x: 3 + 2 = 5. Subtract 4 from y: 5 - 4 = 1.",
+      "memoryHook": "T-Rexy says: Right adds to x, down subtracts from y.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "translations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_036",
+      "question": "A point (4, 2) is translated 3 units left and 1 unit up. Where is it now?",
+      "correctAnswer": "(1, 3)",
+      "distractors": [
+        "(7, 3)",
+        "(1, 1)",
+        "(7, 1)"
+      ],
+      "explanation": "Subtract 3 from x: 4 - 3 = 1. Add 1 to y: 2 + 1 = 3.",
+      "memoryHook": "T-Rexy says: Left subtracts from x, up adds to y.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "translations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_037",
+      "question": "Reflecting (5, 3) over the x-axis gives what point?",
+      "correctAnswer": "(5, -3)",
+      "distractors": [
+        "(-5, 3)",
+        "(-5, -3)",
+        "(3, 5)"
+      ],
+      "explanation": "Reflecting over the x-axis flips the sign of y only.",
+      "memoryHook": "T-Rexy says: Over the x-axis, y flips.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "reflections"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_038",
+      "question": "Reflecting (5, 3) over the y-axis gives what point?",
+      "correctAnswer": "(-5, 3)",
+      "distractors": [
+        "(5, -3)",
+        "(-5, -3)",
+        "(3, 5)"
+      ],
+      "explanation": "Reflecting over the y-axis flips the sign of x only.",
+      "memoryHook": "T-Rexy says: Over the y-axis, x flips.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "reflections"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_039",
+      "question": "Rotating (2, 3) 90 degrees clockwise around the origin gives what point?",
+      "correctAnswer": "(3, -2)",
+      "distractors": [
+        "(-3, 2)",
+        "(-2, 3)",
+        "(2, -3)"
+      ],
+      "explanation": "A 90 degree clockwise rotation maps (x, y) to (y, -x).",
+      "memoryHook": "T-Rexy says: Clockwise 90 swaps and flips y.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "rotations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_040",
+      "question": "Rotating (2, 3) 180 degrees around the origin gives what point?",
+      "correctAnswer": "(-2, -3)",
+      "distractors": [
+        "(3, 2)",
+        "(2, -3)",
+        "(-3, 2)"
+      ],
+      "explanation": "A 180 degree rotation flips both signs: (-2, -3).",
+      "memoryHook": "T-Rexy says: Half turn flips both signs.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "rotations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_041",
+      "question": "A dilation with scale factor 2 maps (3, 4) to what point?",
+      "correctAnswer": "(6, 8)",
+      "distractors": [
+        "(5, 6)",
+        "(3, 8)",
+        "(1.5, 2)"
+      ],
+      "explanation": "Multiply each coordinate by 2: (6, 8).",
+      "memoryHook": "T-Rexy says: Dilation multiplies coordinates.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "dilations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_042",
+      "question": "A dilation with scale factor 1/2 maps (8, 6) to what point?",
+      "correctAnswer": "(4, 3)",
+      "distractors": [
+        "(16, 12)",
+        "(4, 6)",
+        "(8, 3)"
+      ],
+      "explanation": "Multiply each coordinate by 1/2: (4, 3).",
+      "memoryHook": "T-Rexy says: Scale factor below 1 shrinks.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "dilations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_043",
+      "question": "Which transformation does NOT change the size or shape of a figure?",
+      "correctAnswer": "Translation",
+      "distractors": [
+        "Dilation with scale factor 3",
+        "Dilation with scale factor 1/2",
+        "Stretch"
+      ],
+      "explanation": "Translations slide a figure without resizing it.",
+      "memoryHook": "T-Rexy says: Slides keep size and shape.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "congruence"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_044",
+      "question": "Two figures are congruent if they have the same what?",
+      "correctAnswer": "Size and shape",
+      "distractors": [
+        "Size only",
+        "Shape only",
+        "Area only"
+      ],
+      "explanation": "Congruent means one figure can be placed exactly on top of the other with nothing sticking out - same side lengths AND same angles. Same shape with a bigger size is only similar, not congruent.",
+      "memoryHook": "T-Rexy says: Congruent means identical in size and shape.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "congruence"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_045",
+      "question": "Two figures are similar if they have the same shape but what may differ?",
+      "correctAnswer": "Size",
+      "distractors": [
+        "Number of sides",
+        "Angle measures",
+        "Shape"
+      ],
+      "explanation": "Similar figures have equal angles and proportional sides, but different sizes.",
+      "memoryHook": "T-Rexy says: Similar keeps shape, changes size.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similarity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_046",
+      "question": "Triangle ABC is similar to triangle DEF. If AB = 4 and DE = 8, what is the scale factor from ABC to DEF?",
+      "correctAnswer": "2",
+      "distractors": [
+        "1/2",
+        "4",
+        "8"
+      ],
+      "explanation": "8 / 4 = 2, so DEF is twice as large.",
+      "memoryHook": "T-Rexy says: Divide the new length by the old one.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similarity",
+        "scale-factor"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_047",
+      "question": "A photo 4 inches wide is enlarged to 10 inches wide. What is the scale factor?",
+      "correctAnswer": "2.5",
+      "distractors": [
+        "2",
+        "6",
+        "0.4"
+      ],
+      "explanation": "10 / 4 = 2.5.",
+      "memoryHook": "T-Rexy says: New divided by old.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similarity",
+        "scale-factor"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_048",
+      "question": "When two parallel lines are cut by a transversal, corresponding angles are what?",
+      "correctAnswer": "Congruent",
+      "distractors": [
+        "Supplementary",
+        "Complementary",
+        "Different"
+      ],
+      "explanation": "Corresponding angles in the same position are equal.",
+      "memoryHook": "T-Rexy says: Corresponding angles match.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "parallel-lines"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_049",
+      "question": "When two parallel lines are cut by a transversal, alternate interior angles are what?",
+      "correctAnswer": "Congruent",
+      "distractors": [
+        "Supplementary",
+        "Complementary",
+        "Right angles"
+      ],
+      "explanation": "Alternate interior angles are on opposite sides of the transversal and are equal.",
+      "memoryHook": "T-Rexy says: Alternate interior angles are equal.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "parallel-lines"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_050",
+      "question": "What is the circumference of a circle with radius 5? Use 3.14 for pi.",
+      "correctAnswer": "31.4",
+      "distractors": [
+        "15.7",
+        "78.5",
+        "62.8"
+      ],
+      "explanation": "Circumference = 2 x pi x r = 2 x 3.14 x 5 = 31.4.",
+      "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_051",
+      "question": "What is the area of a circle with radius 4? Use 3.14 for pi.",
+      "correctAnswer": "50.24",
+      "distractors": [
+        "25.12",
+        "12.56",
+        "100.48"
+      ],
+      "explanation": "Area = pi x r^2 = 3.14 x 16 = 50.24.",
+      "memoryHook": "T-Rexy says: Circle area is pi r squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_052",
+      "question": "What is the diameter of a circle with radius 7?",
+      "correctAnswer": "14",
+      "distractors": [
+        "7",
+        "21",
+        "3.5"
+      ],
+      "explanation": "Diameter is twice the radius: 2 x 7 = 14.",
+      "memoryHook": "T-Rexy says: Diameter is double the radius.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_053",
+      "question": "What is the area of a rectangle 8 units long and 5 units wide?",
+      "correctAnswer": "40 square units",
+      "distractors": [
+        "26 square units",
+        "13 square units",
+        "45 square units"
+      ],
+      "explanation": "Area = length x width = 8 x 5 = 40.",
+      "memoryHook": "T-Rexy says: Rectangle area is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_054",
+      "question": "What is the perimeter of a rectangle 8 units long and 5 units wide?",
+      "correctAnswer": "26 units",
+      "distractors": [
+        "40 units",
+        "13 units",
+        "20 units"
+      ],
+      "explanation": "Perimeter = 2(8 + 5) = 26.",
+      "memoryHook": "T-Rexy says: Perimeter adds all sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_055",
+      "question": "What is the area of a triangle with base 10 and height 6?",
+      "correctAnswer": "30 square units",
+      "distractors": [
+        "60 square units",
+        "16 square units",
+        "36 square units"
+      ],
+      "explanation": "Area = (1/2) x base x height = (1/2) x 10 x 6 = 30.",
+      "memoryHook": "T-Rexy says: Triangle area is half base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_056",
+      "question": "What is the area of a parallelogram with base 9 and height 4?",
+      "correctAnswer": "36 square units",
+      "distractors": [
+        "26 square units",
+        "18 square units",
+        "45 square units"
+      ],
+      "explanation": "Area = base x height = 9 x 4 = 36.",
+      "memoryHook": "T-Rexy says: Parallelogram area is base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "parallelograms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_057",
+      "question": "What is the volume of a rectangular prism 3 by 4 by 5?",
+      "correctAnswer": "60 cubic units",
+      "distractors": [
+        "47 cubic units",
+        "30 cubic units",
+        "12 cubic units"
+      ],
+      "explanation": "Volume = 3 x 4 x 5 = 60.",
+      "memoryHook": "T-Rexy says: Prism volume multiplies all three sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_058",
+      "question": "What is the volume of a cylinder with radius 2 and height 10? Use 3.14 for pi.",
+      "correctAnswer": "125.6",
+      "distractors": [
+        "62.8",
+        "251.2",
+        "40"
+      ],
+      "explanation": "Volume = pi x r^2 x h = 3.14 x 4 x 10 = 125.6.",
+      "memoryHook": "T-Rexy says: Cylinder volume is pi r squared times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "cylinders"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_059",
+      "question": "What is the surface area of a cube with side length 3?",
+      "correctAnswer": "54 square units",
+      "distractors": [
+        "27 square units",
+        "18 square units",
+        "36 square units"
+      ],
+      "explanation": "Each face is 9, and there are 6 faces: 6 x 9 = 54.",
+      "memoryHook": "T-Rexy says: A cube has six equal faces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "cubes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_060",
+      "question": "What is the volume of a cube with side length 4?",
+      "correctAnswer": "64 cubic units",
+      "distractors": [
+        "16 cubic units",
+        "48 cubic units",
+        "24 cubic units"
+      ],
+      "explanation": "Volume = 4^3 = 64.",
+      "memoryHook": "T-Rexy says: Cube volume is side cubed.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "cubes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_061",
+      "question": "An angle measuring 95 degrees is what type?",
+      "correctAnswer": "Obtuse",
+      "distractors": [
+        "Acute",
+        "Right",
+        "Straight"
+      ],
+      "explanation": "Obtuse angles are between 90 and 180 degrees.",
+      "memoryHook": "T-Rexy says: Over 90 is obtuse.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_062",
+      "question": "An angle measuring 45 degrees is what type?",
+      "correctAnswer": "Acute",
+      "distractors": [
+        "Obtuse",
+        "Right",
+        "Straight"
+      ],
+      "explanation": "Acute angles are less than 90 degrees.",
+      "memoryHook": "T-Rexy says: Under 90 is acute.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_063",
+      "question": "An angle measuring 180 degrees is what type?",
+      "correctAnswer": "Straight angle",
+      "distractors": [
+        "Right angle",
+        "Acute angle",
+        "Obtuse angle"
+      ],
+      "explanation": "A 180 degree angle forms a straight line.",
+      "memoryHook": "T-Rexy says: 180 makes a straight line.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_064",
+      "question": "What is the name of a polygon with 8 sides?",
+      "correctAnswer": "Octagon",
+      "distractors": [
+        "Hexagon",
+        "Pentagon",
+        "Heptagon"
+      ],
+      "explanation": "Count the sides: oct- means 8, like an octopus with 8 arms. A stop sign is the classic octagon - count its 8 edges.",
+      "memoryHook": "T-Rexy says: Oct means eight.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_065",
+      "question": "What is the name of a polygon with 5 sides?",
+      "correctAnswer": "Pentagon",
+      "distractors": [
+        "Hexagon",
+        "Octagon",
+        "Quadrilateral"
+      ],
+      "explanation": "Pent- means 5, like the Pentagon building in Washington, which has 5 sides. Count the sides to name the polygon: 5 sides, pentagon.",
+      "memoryHook": "T-Rexy says: Pent means five.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_066",
+      "question": "What is the name of a triangle with all sides equal?",
+      "correctAnswer": "Equilateral triangle",
+      "distractors": [
+        "Isosceles triangle",
+        "Scalene triangle",
+        "Right triangle"
+      ],
+      "explanation": "Equi- means equal and -lateral means sides, so equilateral literally says 'equal sides.' All three angles are equal too - 60 degrees each.",
+      "memoryHook": "T-Rexy says: Equi means equal.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_067",
+      "question": "What is the name of a triangle with two sides equal?",
+      "correctAnswer": "Isosceles triangle",
+      "distractors": [
+        "Equilateral triangle",
+        "Scalene triangle",
+        "Right triangle"
+      ],
+      "explanation": "The two equal sides are called legs, and the angles at the base between them are also equal. If you fold an isosceles triangle along the middle, the two halves match exactly.",
+      "memoryHook": "T-Rexy says: Iso means two equal sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_068",
+      "question": "What is the name of a triangle with no sides equal?",
+      "correctAnswer": "Scalene triangle",
+      "distractors": [
+        "Equilateral triangle",
+        "Isosceles triangle",
+        "Right triangle"
+      ],
+      "explanation": "Scalene is the leftover case: no two sides equal and no two angles equal. If a triangle is not equilateral and not isosceles, it must be scalene.",
+      "memoryHook": "T-Rexy says: Scalene means all different.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_069",
+      "question": "In a triangle, the exterior angle equals the sum of which angles?",
+      "correctAnswer": "The two remote interior angles",
+      "distractors": [
+        "The two adjacent angles",
+        "All three interior angles",
+        "The right angle only"
+      ],
+      "explanation": "An exterior angle equals the sum of the two non-adjacent interior angles.",
+      "memoryHook": "T-Rexy says: Exterior equals the two far angles.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "exterior-angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_070",
+      "question": "What is the slope of a line perpendicular to a line with slope 2?",
+      "correctAnswer": "-1/2",
+      "distractors": [
+        "2",
+        "1/2",
+        "-2"
+      ],
+      "explanation": "Perpendicular slopes are negative reciprocals: -1/2.",
+      "memoryHook": "T-Rexy says: Perpendicular flips and negates.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "slope",
+        "perpendicular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_071",
+      "question": "What is the slope of a line parallel to a line with slope 3?",
+      "correctAnswer": "3",
+      "distractors": [
+        "-3",
+        "1/3",
+        "-1/3"
+      ],
+      "explanation": "Parallel lines have the same slope.",
+      "memoryHook": "T-Rexy says: Parallel means same slope.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "slope",
+        "parallel"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_072",
+      "question": "A square has side length 6. What is its diagonal length to the nearest whole number?",
+      "correctAnswer": "8",
+      "distractors": [
+        "9",
+        "12",
+        "10"
+      ],
+      "explanation": "Diagonal = sqrt(6^2 + 6^2) = sqrt(72), about 8.5, nearest whole number 8.",
+      "memoryHook": "T-Rexy says: Use the Pythagorean theorem on the square.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "pythagorean"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_073",
+      "question": "What is the area of a trapezoid with bases 6 and 10 and height 5?",
+      "correctAnswer": "40 square units",
+      "distractors": [
+        "80 square units",
+        "32 square units",
+        "50 square units"
+      ],
+      "explanation": "Area = (1/2) x (6 + 10) x 5 = 40.",
+      "memoryHook": "T-Rexy says: Average the bases, then multiply by height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "trapezoids"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_074",
+      "question": "A cone has radius 4 and height 9. What is its volume? Use 3.14 for pi.",
+      "correctAnswer": "150.72",
+      "distractors": [
+        "452.16",
+        "301.44",
+        "75.36"
+      ],
+      "explanation": "Volume = (1/3) x 3.14 x 16 x 9 = 150.72.",
+      "memoryHook": "T-Rexy says: A cone is one third of its cylinder.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "cones"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_075",
+      "question": "A sphere has radius 2. What is its volume? Use 3.14 for pi.",
+      "correctAnswer": "33.49",
+      "distractors": [
+        "16.75",
+        "50.24",
+        "100.48"
+      ],
+      "explanation": "Volume = (4/3) x 3.14 x 8 = 33.49.",
+      "memoryHook": "T-Rexy says: Sphere volume uses r cubed.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "spheres"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_076",
+      "question": "What are the coordinates of the origin?",
+      "correctAnswer": "(0, 0)",
+      "distractors": [
+        "(1, 1)",
+        "(0, 1)",
+        "(1, 0)"
+      ],
+      "explanation": "The origin is where the x-axis and y-axis cross: (0, 0).",
+      "memoryHook": "T-Rexy says: The origin is (0, 0).",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_077",
+      "question": "In which quadrant is the point (-3, 4)?",
+      "correctAnswer": "Quadrant II",
+      "distractors": [
+        "Quadrant I",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "explanation": "Negative x and positive y is Quadrant II.",
+      "memoryHook": "T-Rexy says: Left and up is Quadrant II.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "quadrants"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_078",
+      "question": "In which quadrant is the point (5, -2)?",
+      "correctAnswer": "Quadrant IV",
+      "distractors": [
+        "Quadrant I",
+        "Quadrant II",
+        "Quadrant III"
+      ],
+      "explanation": "Positive x and negative y is Quadrant IV.",
+      "memoryHook": "T-Rexy says: Right and down is Quadrant IV.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "quadrants"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_079",
+      "question": "What is the x-coordinate of the point (7, 3) called?",
+      "correctAnswer": "Abscissa",
+      "distractors": [
+        "Ordinate",
+        "Origin",
+        "Slope"
+      ],
+      "explanation": "Abscissa is the formal name for the first number in a pair - how far across (left-right) the point sits. In (7, 3) the abscissa is 7; the second number, 3, is the ordinate.",
+      "memoryHook": "T-Rexy says: X is the abscissa.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "vocabulary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_080",
+      "question": "What is the y-coordinate of a point called?",
+      "correctAnswer": "Ordinate",
+      "distractors": [
+        "Abscissa",
+        "Origin",
+        "Intercept"
+      ],
+      "explanation": "Ordinate is the formal name for the second number in a pair - how far up (vertical) the point sits. In (7, 3) the ordinate is 3; the first number, 7, is the abscissa.",
+      "memoryHook": "T-Rexy says: Y is the ordinate.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "vocabulary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_081",
+      "question": "Two triangles have the same angle measures and side lengths in a 1 to 3 ratio. Are they congruent or similar?",
+      "correctAnswer": "Similar",
+      "distractors": [
+        "Congruent",
+        "Neither",
+        "Both"
+      ],
+      "explanation": "Same angles with proportional sides means similar, not congruent.",
+      "memoryHook": "T-Rexy says: Proportional sides mean similar.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similarity"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_082",
+      "question": "What is the volume of a sphere with radius 3? Use 3.14 for pi.",
+      "correctAnswer": "113.04",
+      "distractors": [
+        "84.78",
+        "56.52",
+        "226.08"
+      ],
+      "explanation": "Volume = (4/3) x 3.14 x 27 = 113.04.",
+      "memoryHook": "T-Rexy says: Sphere volume uses r cubed.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "spheres"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_083",
+      "question": "A rectangle has length 12 and width 7. What is its area?",
+      "correctAnswer": "84 square units",
+      "distractors": [
+        "38 square units",
+        "19 square units",
+        "96 square units"
+      ],
+      "explanation": "Area = 12 x 7 = 84.",
+      "memoryHook": "T-Rexy says: Length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_084",
+      "question": "A circle has diameter 10. What is its circumference? Use 3.14 for pi.",
+      "correctAnswer": "31.4",
+      "distractors": [
+        "15.7",
+        "62.8",
+        "78.5"
+      ],
+      "explanation": "Circumference = pi x d = 3.14 x 10 = 31.4.",
+      "memoryHook": "T-Rexy says: Pi times diameter.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_085",
+      "question": "What is the area of a square with side length 9?",
+      "correctAnswer": "81 square units",
+      "distractors": [
+        "36 square units",
+        "18 square units",
+        "72 square units"
+      ],
+      "explanation": "Area = 9 x 9 = 81.",
+      "memoryHook": "T-Rexy says: Square area is side squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "squares"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_086",
+      "question": "What is the perimeter of a square with side length 9?",
+      "correctAnswer": "36 units",
+      "distractors": [
+        "81 units",
+        "18 units",
+        "27 units"
+      ],
+      "explanation": "Perimeter = 4 x 9 = 36.",
+      "memoryHook": "T-Rexy says: Perimeter adds four sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "squares"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_087",
+      "question": "What is the circumference of a circle with diameter 8? Use 3.14 for pi.",
+      "correctAnswer": "25.12",
+      "distractors": [
+        "12.56",
+        "50.24",
+        "16"
+      ],
+      "explanation": "Circumference = 3.14 x 8 = 25.12.",
+      "memoryHook": "T-Rexy says: Pi times diameter.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_088",
+      "question": "What is the area of a circle with radius 10? Use 3.14 for pi.",
+      "correctAnswer": "314",
+      "distractors": [
+        "62.8",
+        "157",
+        "628"
+      ],
+      "explanation": "Area = 3.14 x 100 = 314.",
+      "memoryHook": "T-Rexy says: Circle area is pi r squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_089",
+      "question": "A triangle has base 12 and height 7. What is its area?",
+      "correctAnswer": "42 square units",
+      "distractors": [
+        "84 square units",
+        "19 square units",
+        "49 square units"
+      ],
+      "explanation": "Area = (1/2) x 12 x 7 = 42.",
+      "memoryHook": "T-Rexy says: Triangle area is half base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_090",
+      "question": "A right triangle has legs 9 and 12. What is the hypotenuse?",
+      "correctAnswer": "15",
+      "distractors": [
+        "21",
+        "14",
+        "18"
+      ],
+      "explanation": "c = sqrt(81 + 144) = sqrt(225) = 15.",
+      "memoryHook": "T-Rexy says: Square, add, square root.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "pythagorean"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_091",
+      "question": "What is the distance between (0, 0) and (6, 8)?",
+      "correctAnswer": "10",
+      "distractors": [
+        "14",
+        "12",
+        "8"
+      ],
+      "explanation": "Distance = sqrt(36 + 64) = 10.",
+      "memoryHook": "T-Rexy says: Distance is the hypotenuse.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "distance",
+        "coordinate-plane"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_092",
+      "question": "What is the midpoint of (0, 0) and (10, 6)?",
+      "correctAnswer": "(5, 3)",
+      "distractors": [
+        "(10, 6)",
+        "(5, 6)",
+        "(3, 5)"
+      ],
+      "explanation": "Average the coordinates: (5, 3).",
+      "memoryHook": "T-Rexy says: Midpoint averages both coordinates.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "midpoint"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_093",
+      "question": "Reflecting (-4, 7) over the x-axis gives what point?",
+      "correctAnswer": "(-4, -7)",
+      "distractors": [
+        "(4, 7)",
+        "(4, -7)",
+        "(7, -4)"
+      ],
+      "explanation": "Reflecting over the x-axis flips the sign of y only.",
+      "memoryHook": "T-Rexy says: Over the x-axis, y flips.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "reflections"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_094",
+      "question": "A dilation with scale factor 3 maps (2, 5) to what point?",
+      "correctAnswer": "(6, 15)",
+      "distractors": [
+        "(5, 8)",
+        "(6, 5)",
+        "(2, 15)"
+      ],
+      "explanation": "Multiply each coordinate by 3: (6, 15).",
+      "memoryHook": "T-Rexy says: Dilation multiplies coordinates.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "dilations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_095",
+      "question": "What is the volume of a rectangular prism 2 by 3 by 7?",
+      "correctAnswer": "42 cubic units",
+      "distractors": [
+        "12 cubic units",
+        "21 cubic units",
+        "84 cubic units"
+      ],
+      "explanation": "Volume = 2 x 3 x 7 = 42.",
+      "memoryHook": "T-Rexy says: Prism volume multiplies all three sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_096",
+      "question": "What is the surface area of a cube with side length 5?",
+      "correctAnswer": "150 square units",
+      "distractors": [
+        "125 square units",
+        "25 square units",
+        "100 square units"
+      ],
+      "explanation": "Each face is 25, and there are 6 faces: 6 x 25 = 150.",
+      "memoryHook": "T-Rexy says: A cube has six equal faces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "cubes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_097",
+      "question": "What is each interior angle of a regular pentagon?",
+      "correctAnswer": "108 degrees",
+      "distractors": [
+        "90 degrees",
+        "120 degrees",
+        "135 degrees"
+      ],
+      "explanation": "A pentagon totals 540 degrees, and 540 / 5 = 108.",
+      "memoryHook": "T-Rexy says: Divide the total by the number of sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "regular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_098",
+      "question": "What is the sum of the interior angles of a heptagon (7 sides)?",
+      "correctAnswer": "900 degrees",
+      "distractors": [
+        "720 degrees",
+        "1080 degrees",
+        "1260 degrees"
+      ],
+      "explanation": "Use (7 - 2) x 180 = 900.",
+      "memoryHook": "T-Rexy says: Use (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "interior-angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_099",
+      "question": "An angle measuring 170 degrees is what type?",
+      "correctAnswer": "Obtuse",
+      "distractors": [
+        "Acute",
+        "Right",
+        "Straight"
+      ],
+      "explanation": "Obtuse angles are between 90 and 180 degrees.",
+      "memoryHook": "T-Rexy says: Over 90 is obtuse.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO8_100",
+      "question": "What is the name of a polygon with 6 sides?",
+      "correctAnswer": "Hexagon",
+      "distractors": [
+        "Pentagon",
+        "Octagon",
+        "Heptagon"
+      ],
+      "explanation": "A 6-sided polygon is a hexagon.",
+      "memoryHook": "T-Rexy says: Hex means six.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

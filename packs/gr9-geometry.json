@@ -1,0 +1,2017 @@
+{
+  "packId": "gr9-geometry",
+  "title": "Geometry (9th Grade)",
+  "description": "Geometry (9th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "math",
+    "geometry",
+    "9th"
+  ],
+  "questions": [
+    {
+      "id": "GMT9_001",
+      "question": "What is the complement of a 58-degree angle?",
+      "correctAnswer": "32 degrees",
+      "distractors": [
+        "122 degrees",
+        "58 degrees",
+        "42 degrees"
+      ],
+      "explanation": "Complementary angles add to 90: 90 - 58 = 32.",
+      "memoryHook": "T-Rexy says: Complementary angles add to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_002",
+      "question": "What is the supplement of a 17-degree angle?",
+      "correctAnswer": "163 degrees",
+      "distractors": [
+        "73 degrees",
+        "17 degrees",
+        "173 degrees"
+      ],
+      "explanation": "Supplementary angles add to 180: 180 - 17 = 163.",
+      "memoryHook": "T-Rexy says: Supplementary angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_003",
+      "question": "What is the complement of a 65-degree angle?",
+      "correctAnswer": "25 degrees",
+      "distractors": [
+        "115 degrees",
+        "65 degrees",
+        "35 degrees"
+      ],
+      "explanation": "Complementary angles add to 90: 90 - 65 = 25.",
+      "memoryHook": "T-Rexy says: Complementary angles add to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_004",
+      "question": "What is the supplement of a 72-degree angle?",
+      "correctAnswer": "108 degrees",
+      "distractors": [
+        "18 degrees",
+        "72 degrees",
+        "118 degrees"
+      ],
+      "explanation": "Supplementary angles add to 180: 180 - 72 = 108.",
+      "memoryHook": "T-Rexy says: Supplementary angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_005",
+      "question": "What is the complement of a 48-degree angle?",
+      "correctAnswer": "42 degrees",
+      "distractors": [
+        "132 degrees",
+        "48 degrees",
+        "52 degrees"
+      ],
+      "explanation": "Complementary angles add to 90: 90 - 48 = 42.",
+      "memoryHook": "T-Rexy says: Complementary angles add to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_006",
+      "question": "What is the supplement of a 22-degree angle?",
+      "correctAnswer": "158 degrees",
+      "distractors": [
+        "68 degrees",
+        "22 degrees",
+        "168 degrees"
+      ],
+      "explanation": "Supplementary angles add to 180: 180 - 22 = 158.",
+      "memoryHook": "T-Rexy says: Supplementary angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_007",
+      "question": "What is the complement of a 47-degree angle?",
+      "correctAnswer": "43 degrees",
+      "distractors": [
+        "133 degrees",
+        "47 degrees",
+        "53 degrees"
+      ],
+      "explanation": "Complementary angles add to 90: 90 - 47 = 43.",
+      "memoryHook": "T-Rexy says: Complementary angles add to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_008",
+      "question": "What is the supplement of a 27-degree angle?",
+      "correctAnswer": "153 degrees",
+      "distractors": [
+        "63 degrees",
+        "27 degrees",
+        "163 degrees"
+      ],
+      "explanation": "Supplementary angles add to 180: 180 - 27 = 153.",
+      "memoryHook": "T-Rexy says: Supplementary angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_009",
+      "question": "A triangle has angles of 45 degrees and 42 degrees. What is the third angle?",
+      "correctAnswer": "93 degrees",
+      "distractors": [
+        "103 degrees",
+        "83 degrees",
+        "87 degrees"
+      ],
+      "explanation": "Angles in a triangle add to 180: 180 - 45 - 42 = 93.",
+      "memoryHook": "T-Rexy says: Triangle angles always add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_010",
+      "question": "A triangle has angles of 53 degrees and 38 degrees. What is the third angle?",
+      "correctAnswer": "89 degrees",
+      "distractors": [
+        "99 degrees",
+        "79 degrees",
+        "91 degrees"
+      ],
+      "explanation": "Angles in a triangle add to 180: 180 - 53 - 38 = 89.",
+      "memoryHook": "T-Rexy says: Triangle angles always add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_011",
+      "question": "A triangle has angles of 57 degrees and 29 degrees. What is the third angle?",
+      "correctAnswer": "94 degrees",
+      "distractors": [
+        "104 degrees",
+        "84 degrees",
+        "86 degrees"
+      ],
+      "explanation": "Angles in a triangle add to 180: 180 - 57 - 29 = 94.",
+      "memoryHook": "T-Rexy says: Triangle angles always add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_012",
+      "question": "A triangle has angles of 58 degrees and 36 degrees. What is the third angle?",
+      "correctAnswer": "86 degrees",
+      "distractors": [
+        "96 degrees",
+        "76 degrees",
+        "94 degrees"
+      ],
+      "explanation": "Angles in a triangle add to 180: 180 - 58 - 36 = 86.",
+      "memoryHook": "T-Rexy says: Triangle angles always add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_013",
+      "question": "A triangle has angles of 26 degrees and 36 degrees. What is the third angle?",
+      "correctAnswer": "118 degrees",
+      "distractors": [
+        "128 degrees",
+        "108 degrees",
+        "62 degrees"
+      ],
+      "explanation": "Angles in a triangle add to 180: 180 - 26 - 36 = 118.",
+      "memoryHook": "T-Rexy says: Triangle angles always add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_014",
+      "question": "A triangle has angles of 46 degrees and 40 degrees. What is the third angle?",
+      "correctAnswer": "94 degrees",
+      "distractors": [
+        "104 degrees",
+        "84 degrees",
+        "86 degrees"
+      ],
+      "explanation": "Angles in a triangle add to 180: 180 - 46 - 40 = 94.",
+      "memoryHook": "T-Rexy says: Triangle angles always add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_015",
+      "question": "A triangle has angles of 37 degrees and 26 degrees. What is the third angle?",
+      "correctAnswer": "117 degrees",
+      "distractors": [
+        "127 degrees",
+        "107 degrees",
+        "63 degrees"
+      ],
+      "explanation": "Angles in a triangle add to 180: 180 - 37 - 26 = 117.",
+      "memoryHook": "T-Rexy says: Triangle angles always add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_016",
+      "question": "A triangle has angles of 69 degrees and 40 degrees. What is the third angle?",
+      "correctAnswer": "71 degrees",
+      "distractors": [
+        "81 degrees",
+        "61 degrees",
+        "109 degrees"
+      ],
+      "explanation": "Angles in a triangle add to 180: 180 - 69 - 40 = 71.",
+      "memoryHook": "T-Rexy says: Triangle angles always add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_017",
+      "question": "A right triangle has legs 3 and 4. What is the hypotenuse?",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "4",
+        "7"
+      ],
+      "explanation": "By the Pythagorean theorem, 3^2 + 4^2 = 25, and the square root is 5.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_018",
+      "question": "A right triangle has legs 5 and 12. What is the hypotenuse?",
+      "correctAnswer": "13",
+      "distractors": [
+        "14",
+        "12",
+        "17"
+      ],
+      "explanation": "By the Pythagorean theorem, 5^2 + 12^2 = 169, and the square root is 13.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_019",
+      "question": "A right triangle has legs 6 and 8. What is the hypotenuse?",
+      "correctAnswer": "10",
+      "distractors": [
+        "11",
+        "9",
+        "14"
+      ],
+      "explanation": "By the Pythagorean theorem, 6^2 + 8^2 = 100, and the square root is 10.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_020",
+      "question": "A right triangle has legs 8 and 15. What is the hypotenuse?",
+      "correctAnswer": "17",
+      "distractors": [
+        "18",
+        "16",
+        "23"
+      ],
+      "explanation": "By the Pythagorean theorem, 8^2 + 15^2 = 289, and the square root is 17.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_021",
+      "question": "A right triangle has legs 9 and 12. What is the hypotenuse?",
+      "correctAnswer": "15",
+      "distractors": [
+        "16",
+        "14",
+        "21"
+      ],
+      "explanation": "By the Pythagorean theorem, 9^2 + 12^2 = 225, and the square root is 15.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_022",
+      "question": "A right triangle has legs 7 and 24. What is the hypotenuse?",
+      "correctAnswer": "25",
+      "distractors": [
+        "26",
+        "24",
+        "31"
+      ],
+      "explanation": "By the Pythagorean theorem, 7^2 + 24^2 = 625, and the square root is 25.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_023",
+      "question": "A right triangle has legs 12 and 16. What is the hypotenuse?",
+      "correctAnswer": "20",
+      "distractors": [
+        "21",
+        "19",
+        "28"
+      ],
+      "explanation": "By the Pythagorean theorem, 12^2 + 16^2 = 400, and the square root is 20.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_024",
+      "question": "A right triangle has legs 15 and 20. What is the hypotenuse?",
+      "correctAnswer": "25",
+      "distractors": [
+        "26",
+        "24",
+        "35"
+      ],
+      "explanation": "By the Pythagorean theorem, 15^2 + 20^2 = 625, and the square root is 25.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_025",
+      "question": "What is the area of a rectangle 9 cm long and 3 cm wide?",
+      "correctAnswer": "27 square cm",
+      "distractors": [
+        "24 square cm",
+        "32 square cm",
+        "12 square cm"
+      ],
+      "explanation": "Area is length times width: 9 times 3 = 27.",
+      "memoryHook": "T-Rexy says: Area of a rectangle is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_026",
+      "question": "What is the perimeter of a rectangle 14 cm long and 7 cm wide?",
+      "correctAnswer": "42 cm",
+      "distractors": [
+        "98 cm",
+        "46 cm",
+        "21 cm"
+      ],
+      "explanation": "Perimeter is 2 times (14 + 7) = 42.",
+      "memoryHook": "T-Rexy says: Perimeter adds all four sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_027",
+      "question": "What is the area of a rectangle 8 cm long and 3 cm wide?",
+      "correctAnswer": "24 square cm",
+      "distractors": [
+        "22 square cm",
+        "29 square cm",
+        "11 square cm"
+      ],
+      "explanation": "Area is length times width: 8 times 3 = 24.",
+      "memoryHook": "T-Rexy says: Area of a rectangle is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_028",
+      "question": "What is the perimeter of a rectangle 8 cm long and 3 cm wide?",
+      "correctAnswer": "22 cm",
+      "distractors": [
+        "24 cm",
+        "26 cm",
+        "11 cm"
+      ],
+      "explanation": "Perimeter is 2 times (8 + 3) = 22.",
+      "memoryHook": "T-Rexy says: Perimeter adds all four sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_029",
+      "question": "What is the area of a rectangle 13 cm long and 6 cm wide?",
+      "correctAnswer": "78 square cm",
+      "distractors": [
+        "38 square cm",
+        "83 square cm",
+        "19 square cm"
+      ],
+      "explanation": "Area is length times width: 13 times 6 = 78.",
+      "memoryHook": "T-Rexy says: Area of a rectangle is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_030",
+      "question": "What is the perimeter of a rectangle 11 cm long and 9 cm wide?",
+      "correctAnswer": "40 cm",
+      "distractors": [
+        "99 cm",
+        "44 cm",
+        "20 cm"
+      ],
+      "explanation": "Perimeter is 2 times (11 + 9) = 40.",
+      "memoryHook": "T-Rexy says: Perimeter adds all four sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_031",
+      "question": "What is the area of a rectangle 6 cm long and 9 cm wide?",
+      "correctAnswer": "54 square cm",
+      "distractors": [
+        "30 square cm",
+        "59 square cm",
+        "15 square cm"
+      ],
+      "explanation": "Area is length times width: 6 times 9 = 54.",
+      "memoryHook": "T-Rexy says: Area of a rectangle is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_032",
+      "question": "What is the perimeter of a rectangle 6 cm long and 7 cm wide?",
+      "correctAnswer": "26 cm",
+      "distractors": [
+        "42 cm",
+        "30 cm",
+        "13 cm"
+      ],
+      "explanation": "Perimeter is 2 times (6 + 7) = 26.",
+      "memoryHook": "T-Rexy says: Perimeter adds all four sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_033",
+      "question": "What is the circumference of a circle with radius 8 cm? Use pi = 3.14.",
+      "correctAnswer": "50.24 cm",
+      "distractors": [
+        "200.96 cm",
+        "53.38 cm",
+        "25.12 cm"
+      ],
+      "explanation": "Circumference is 2 times pi times r: 2 times 3.14 times 8 = 50.24.",
+      "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_034",
+      "question": "What is the area of a circle with radius 8 cm? Use pi = 3.14.",
+      "correctAnswer": "200.96 square cm",
+      "distractors": [
+        "50.24 square cm",
+        "210.96 square cm",
+        "401.92 square cm"
+      ],
+      "explanation": "Area is pi times r squared: 3.14 times 64 = 200.96.",
+      "memoryHook": "T-Rexy says: Area of a circle is pi r squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_035",
+      "question": "What is the circumference of a circle with radius 10 cm? Use pi = 3.14.",
+      "correctAnswer": "62.8 cm",
+      "distractors": [
+        "314.0 cm",
+        "65.94 cm",
+        "31.4 cm"
+      ],
+      "explanation": "Circumference is 2 times pi times r: 2 times 3.14 times 10 = 62.8.",
+      "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_036",
+      "question": "What is the area of a circle with radius 6 cm? Use pi = 3.14.",
+      "correctAnswer": "113.04 square cm",
+      "distractors": [
+        "37.68 square cm",
+        "123.04 square cm",
+        "226.08 square cm"
+      ],
+      "explanation": "Area is pi times r squared: 3.14 times 36 = 113.04.",
+      "memoryHook": "T-Rexy says: Area of a circle is pi r squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_037",
+      "question": "What is the circumference of a circle with radius 4 cm? Use pi = 3.14.",
+      "correctAnswer": "25.12 cm",
+      "distractors": [
+        "50.24 cm",
+        "28.26 cm",
+        "12.56 cm"
+      ],
+      "explanation": "Circumference is 2 times pi times r: 2 times 3.14 times 4 = 25.12.",
+      "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_038",
+      "question": "What is the area of a square with side 9 cm?",
+      "correctAnswer": "81 square cm",
+      "distractors": [
+        "72 square cm",
+        "90 square cm",
+        "18 square cm"
+      ],
+      "explanation": "Area is side squared: 9 times 9 = 81.",
+      "memoryHook": "T-Rexy says: Square area is side squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "squares"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_039",
+      "question": "What is the circumference of a circle with radius 5 cm? Use pi = 3.14.",
+      "correctAnswer": "31.4 cm",
+      "distractors": [
+        "78.5 cm",
+        "34.54 cm",
+        "15.7 cm"
+      ],
+      "explanation": "Circumference is 2 times pi times r: 2 times 3.14 times 5 = 31.4.",
+      "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_040",
+      "question": "What is the area of a circle with radius 3 cm? Use pi = 3.14.",
+      "correctAnswer": "28.26 square cm",
+      "distractors": [
+        "18.84 square cm",
+        "38.26 square cm",
+        "56.52 square cm"
+      ],
+      "explanation": "Area is pi times r squared: 3.14 times 9 = 28.26.",
+      "memoryHook": "T-Rexy says: Area of a circle is pi r squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_041",
+      "question": "What is the volume of a rectangular prism 8 cm by 3 cm by 5 cm?",
+      "correctAnswer": "120 cubic cm",
+      "distractors": [
+        "130 cubic cm",
+        "24 cubic cm",
+        "110 cubic cm"
+      ],
+      "explanation": "Volume is length times width times height: 8 times 3 times 5 = 120.",
+      "memoryHook": "T-Rexy says: Volume is length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_042",
+      "question": "What is the volume of a rectangular prism 3 cm by 3 cm by 3 cm?",
+      "correctAnswer": "27 cubic cm",
+      "distractors": [
+        "37 cubic cm",
+        "9 cubic cm",
+        "17 cubic cm"
+      ],
+      "explanation": "Volume is length times width times height: 3 times 3 times 3 = 27.",
+      "memoryHook": "T-Rexy says: Volume is length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_043",
+      "question": "What is the volume of a rectangular prism 7 cm by 5 cm by 2 cm?",
+      "correctAnswer": "70 cubic cm",
+      "distractors": [
+        "80 cubic cm",
+        "35 cubic cm",
+        "60 cubic cm"
+      ],
+      "explanation": "Volume is length times width times height: 7 times 5 times 2 = 70.",
+      "memoryHook": "T-Rexy says: Volume is length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_044",
+      "question": "What is the volume of a rectangular prism 6 cm by 5 cm by 2 cm?",
+      "correctAnswer": "60 cubic cm",
+      "distractors": [
+        "70 cubic cm",
+        "30 cubic cm",
+        "50 cubic cm"
+      ],
+      "explanation": "Volume is length times width times height: 6 times 5 times 2 = 60.",
+      "memoryHook": "T-Rexy says: Volume is length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_045",
+      "question": "What is the volume of a rectangular prism 5 cm by 5 cm by 6 cm?",
+      "correctAnswer": "150 cubic cm",
+      "distractors": [
+        "160 cubic cm",
+        "25 cubic cm",
+        "140 cubic cm"
+      ],
+      "explanation": "Volume is length times width times height: 5 times 5 times 6 = 150.",
+      "memoryHook": "T-Rexy says: Volume is length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_046",
+      "question": "What is the volume of a rectangular prism 2 cm by 6 cm by 5 cm?",
+      "correctAnswer": "60 cubic cm",
+      "distractors": [
+        "70 cubic cm",
+        "12 cubic cm",
+        "50 cubic cm"
+      ],
+      "explanation": "Volume is length times width times height: 2 times 6 times 5 = 60.",
+      "memoryHook": "T-Rexy says: Volume is length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_047",
+      "question": "What is the volume of a rectangular prism 8 cm by 6 cm by 5 cm?",
+      "correctAnswer": "240 cubic cm",
+      "distractors": [
+        "250 cubic cm",
+        "48 cubic cm",
+        "230 cubic cm"
+      ],
+      "explanation": "Volume is length times width times height: 8 times 6 times 5 = 240.",
+      "memoryHook": "T-Rexy says: Volume is length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_048",
+      "question": "What is the volume of a rectangular prism 4 cm by 5 cm by 6 cm?",
+      "correctAnswer": "120 cubic cm",
+      "distractors": [
+        "130 cubic cm",
+        "20 cubic cm",
+        "110 cubic cm"
+      ],
+      "explanation": "Volume is length times width times height: 4 times 5 times 6 = 120.",
+      "memoryHook": "T-Rexy says: Volume is length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_049",
+      "question": "What is the area of a triangle with base 8 cm and height 4 cm?",
+      "correctAnswer": "16 square cm",
+      "distractors": [
+        "32 square cm",
+        "21 square cm",
+        "12 square cm"
+      ],
+      "explanation": "Area is one-half times base times height: 1/2 times 8 times 4 = 16.",
+      "memoryHook": "T-Rexy says: Triangle area is half base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_050",
+      "question": "What is the volume of a cube with side 5 cm?",
+      "correctAnswer": "125 cubic cm",
+      "distractors": [
+        "25 cubic cm",
+        "75 cubic cm",
+        "100 cubic cm"
+      ],
+      "explanation": "Volume is side cubed: 5 times 5 times 5 = 125.",
+      "memoryHook": "T-Rexy says: Cube volume is side cubed.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "cubes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_051",
+      "question": "What is the area of a triangle with base 6 cm and height 7 cm?",
+      "correctAnswer": "21 square cm",
+      "distractors": [
+        "42 square cm",
+        "26 square cm",
+        "13 square cm"
+      ],
+      "explanation": "Area is one-half times base times height: 1/2 times 6 times 7 = 21.",
+      "memoryHook": "T-Rexy says: Triangle area is half base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_052",
+      "question": "What is the area of a triangle with base 12 cm and height 7 cm?",
+      "correctAnswer": "42 square cm",
+      "distractors": [
+        "84 square cm",
+        "47 square cm",
+        "19 square cm"
+      ],
+      "explanation": "Area is one-half times base times height: 1/2 times 12 times 7 = 42.",
+      "memoryHook": "T-Rexy says: Triangle area is half base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_053",
+      "question": "What is the area of a triangle with base 6 cm and height 6 cm?",
+      "correctAnswer": "18 square cm",
+      "distractors": [
+        "36 square cm",
+        "23 square cm",
+        "12 square cm"
+      ],
+      "explanation": "Area is one-half times base times height: 1/2 times 6 times 6 = 18.",
+      "memoryHook": "T-Rexy says: Triangle area is half base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_054",
+      "question": "What is the area of a triangle with base 8 cm and height 7 cm?",
+      "correctAnswer": "28 square cm",
+      "distractors": [
+        "56 square cm",
+        "33 square cm",
+        "15 square cm"
+      ],
+      "explanation": "Area is one-half times base times height: 1/2 times 8 times 7 = 28.",
+      "memoryHook": "T-Rexy says: Triangle area is half base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_055",
+      "question": "Two angles that share a side and add to 180 degrees are called what?",
+      "correctAnswer": "Adjacent supplementary angles",
+      "distractors": [
+        "Vertical angles",
+        "Complementary angles",
+        "Corresponding angles"
+      ],
+      "explanation": "Adjacent angles on a straight line add to 180 degrees.",
+      "memoryHook": "T-Rexy says: A straight line is 180 degrees.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_056",
+      "question": "What is the sum of the interior angles of a quadrilateral?",
+      "correctAnswer": "360 degrees",
+      "distractors": [
+        "180 degrees",
+        "540 degrees",
+        "270 degrees"
+      ],
+      "explanation": "The sum is (n - 2) times 180, and for n = 4 that is 360 degrees.",
+      "memoryHook": "T-Rexy says: Quadrilaterals add to 360.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_057",
+      "question": "What is the sum of the interior angles of a pentagon?",
+      "correctAnswer": "540 degrees",
+      "distractors": [
+        "360 degrees",
+        "720 degrees",
+        "180 degrees"
+      ],
+      "explanation": "(5 - 2) times 180 = 540 degrees.",
+      "memoryHook": "T-Rexy says: Use (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_058",
+      "question": "How many sides does a hexagon have?",
+      "correctAnswer": "6",
+      "distractors": [
+        "5",
+        "7",
+        "8"
+      ],
+      "explanation": "Hex means six, so a hexagon has 6 sides.",
+      "memoryHook": "T-Rexy says: Hex means six.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_059",
+      "question": "What type of triangle has all three sides equal?",
+      "correctAnswer": "Equilateral",
+      "distractors": [
+        "Isosceles",
+        "Scalene",
+        "Right"
+      ],
+      "explanation": "Equilateral means equal sides: all three sides are the same length, so all three angles are also equal, 60 degrees each.",
+      "memoryHook": "T-Rexy says: Equi means equal.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_060",
+      "question": "What type of triangle has exactly two equal sides?",
+      "correctAnswer": "Isosceles",
+      "distractors": [
+        "Equilateral",
+        "Scalene",
+        "Obtuse"
+      ],
+      "explanation": "An isosceles triangle has exactly two equal sides, and the angles opposite those sides (the base angles) are equal too. Three equal sides would make it equilateral instead.",
+      "memoryHook": "T-Rexy says: Iso means same, two sides match.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_061",
+      "question": "What is the midpoint of the segment from (2, 4) to (6, 10)?",
+      "correctAnswer": "(4, 7)",
+      "distractors": [
+        "(4, 6)",
+        "(3, 5)",
+        "(8, 14)"
+      ],
+      "explanation": "Average the x values: (2+6)/2 = 4. Average the y values: (4+10)/2 = 7.",
+      "memoryHook": "T-Rexy says: The midpoint is the average of the endpoints.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate",
+        "midpoint"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_062",
+      "question": "What is the distance between (0, 0) and (3, 4)?",
+      "correctAnswer": "5",
+      "distractors": [
+        "7",
+        "4",
+        "6"
+      ],
+      "explanation": "Use the distance formula: the square root of (9 + 16) is 5.",
+      "memoryHook": "T-Rexy says: 3-4-5 is a classic right triangle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate",
+        "distance"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_063",
+      "question": "A line has slope 3. What is the slope of a line perpendicular to it?",
+      "correctAnswer": "-1/3",
+      "distractors": [
+        "3",
+        "1/3",
+        "-3"
+      ],
+      "explanation": "Perpendicular slopes are opposite reciprocals.",
+      "memoryHook": "T-Rexy says: Flip the fraction and change the sign.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "slope",
+        "perpendicular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_064",
+      "question": "A line has slope 2/3. What is the slope of a line parallel to it?",
+      "correctAnswer": "2/3",
+      "distractors": [
+        "-2/3",
+        "3/2",
+        "-3/2"
+      ],
+      "explanation": "Parallel lines have the same slope.",
+      "memoryHook": "T-Rexy says: Parallel lines never meet and share a slope.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "slope",
+        "parallel"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_065",
+      "question": "What is the measure of each interior angle of a regular hexagon?",
+      "correctAnswer": "120 degrees",
+      "distractors": [
+        "60 degrees",
+        "90 degrees",
+        "108 degrees"
+      ],
+      "explanation": "The interior sum is 720 degrees; divide by 6 sides to get 120 degrees.",
+      "memoryHook": "T-Rexy says: Divide the total by the number of sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_066",
+      "question": "What is the measure of each interior angle of a regular pentagon?",
+      "correctAnswer": "108 degrees",
+      "distractors": [
+        "120 degrees",
+        "90 degrees",
+        "72 degrees"
+      ],
+      "explanation": "The interior sum is 540 degrees; divide by 5 to get 108 degrees.",
+      "memoryHook": "T-Rexy says: Divide the total by the number of sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_067",
+      "question": "In a right triangle, the side opposite the right angle is called what?",
+      "correctAnswer": "Hypotenuse",
+      "distractors": [
+        "Leg",
+        "Altitude",
+        "Median"
+      ],
+      "explanation": "The hypotenuse is the longest side, opposite the right angle.",
+      "memoryHook": "T-Rexy says: Hypotenuse is the longest side.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_068",
+      "question": "What transformation flips a figure over a line?",
+      "correctAnswer": "Reflection",
+      "distractors": [
+        "Rotation",
+        "Translation",
+        "Dilation"
+      ],
+      "explanation": "A reflection creates a mirror image: every point of the figure and its image are the same distance from the mirror line, on opposite sides of it.",
+      "memoryHook": "T-Rexy says: Reflection is a mirror flip.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "reflection"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_069",
+      "question": "What transformation turns a figure around a point?",
+      "correctAnswer": "Rotation",
+      "distractors": [
+        "Reflection",
+        "Translation",
+        "Dilation"
+      ],
+      "explanation": "A rotation turns every point of a figure by the same angle around one fixed point, called the center of rotation, like the hands of a clock.",
+      "memoryHook": "T-Rexy says: Rotation spins the figure.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "rotation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_070",
+      "question": "What transformation slides a figure without turning it?",
+      "correctAnswer": "Translation",
+      "distractors": [
+        "Reflection",
+        "Rotation",
+        "Dilation"
+      ],
+      "explanation": "A translation slides every point the same distance in the same direction.",
+      "memoryHook": "T-Rexy says: Translation is a slide.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "translation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_071",
+      "question": "What transformation changes the size of a figure?",
+      "correctAnswer": "Dilation",
+      "distractors": [
+        "Reflection",
+        "Rotation",
+        "Translation"
+      ],
+      "explanation": "A dilation enlarges or reduces a figure by a scale factor.",
+      "memoryHook": "T-Rexy says: Dilation changes size.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "dilation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_072",
+      "question": "What is the scale factor if a figure is enlarged to twice its size?",
+      "correctAnswer": "2",
+      "distractors": [
+        "1/2",
+        "4",
+        "1/4"
+      ],
+      "explanation": "The scale factor is image length divided by original length. Doubling every length gives 2/1 = 2; a scale factor under 1 would shrink the figure.",
+      "memoryHook": "T-Rexy says: Scale factor 2 doubles every length.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "dilation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_073",
+      "question": "Two triangles are congruent. What does that mean?",
+      "correctAnswer": "They have the same size and shape",
+      "distractors": [
+        "They have the same area only",
+        "They are similar but different sizes",
+        "They share one angle"
+      ],
+      "explanation": "Congruent figures match exactly: every corresponding side and angle is equal, so one figure can be placed on top of the other with no overlap or gap.",
+      "memoryHook": "T-Rexy says: Congruent means exactly the same.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "congruence"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_074",
+      "question": "Which postulate proves two triangles congruent with two sides and the included angle?",
+      "correctAnswer": "SAS",
+      "distractors": [
+        "SSS",
+        "AAA",
+        "SSA"
+      ],
+      "explanation": "SAS means side-angle-side, with the angle between the two sides.",
+      "memoryHook": "T-Rexy says: SAS needs the angle between the sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "congruence"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_075",
+      "question": "Which postulate proves two triangles congruent with three sides?",
+      "correctAnswer": "SSS",
+      "distractors": [
+        "SAS",
+        "ASA",
+        "AAA"
+      ],
+      "explanation": "SSS = Side-Side-Side: if all three sides of one triangle equal the three sides of another, the triangles are congruent, because three fixed side lengths determine a triangle's shape completely.",
+      "memoryHook": "T-Rexy says: Three matching sides prove congruence.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "congruence"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_076",
+      "question": "What does SSS stand for?",
+      "correctAnswer": "Side-Side-Side",
+      "distractors": [
+        "Side-Angle-Side",
+        "Angle-Side-Angle",
+        "Side-Side-Angle"
+      ],
+      "explanation": "SSS stands for Side-Side-Side: the three letters name the three known matching parts, one side of the triangle for each S.",
+      "memoryHook": "T-Rexy says: SSS is three sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "congruence"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_077",
+      "question": "What is the volume of a cube with side 4 cm?",
+      "correctAnswer": "64 cubic cm",
+      "distractors": [
+        "16 cubic cm",
+        "24 cubic cm",
+        "48 cubic cm"
+      ],
+      "explanation": "Volume is side cubed: 4 times 4 times 4 = 64.",
+      "memoryHook": "T-Rexy says: Cube volume is side cubed.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "cubes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_078",
+      "question": "What is the surface area of a cube with side 3 cm?",
+      "correctAnswer": "54 square cm",
+      "distractors": [
+        "27 square cm",
+        "36 square cm",
+        "18 square cm"
+      ],
+      "explanation": "Each face is 9 square cm and there are 6 faces: 6 times 9 = 54.",
+      "memoryHook": "T-Rexy says: A cube has six faces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "cubes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_079",
+      "question": "What is the area of a parallelogram with base 9 cm and height 5 cm?",
+      "correctAnswer": "45 square cm",
+      "distractors": [
+        "14 square cm",
+        "90 square cm",
+        "28 square cm"
+      ],
+      "explanation": "Area is base times height: 9 times 5 = 45.",
+      "memoryHook": "T-Rexy says: Parallelogram area is base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "parallelograms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_080",
+      "question": "What is the area of a trapezoid with bases 6 and 10 and height 4?",
+      "correctAnswer": "32 square cm",
+      "distractors": [
+        "40 square cm",
+        "16 square cm",
+        "64 square cm"
+      ],
+      "explanation": "Area is 1/2 times height times (base1 + base2): 1/2 times 4 times 16 = 32.",
+      "memoryHook": "T-Rexy says: Average the bases, then multiply by height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "trapezoids"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_081",
+      "question": "If two angles are vertical angles, what is true about them?",
+      "correctAnswer": "They are congruent",
+      "distractors": [
+        "They add to 90 degrees",
+        "They add to 180 degrees",
+        "They are supplementary"
+      ],
+      "explanation": "Vertical angles are opposite each other and always equal.",
+      "memoryHook": "T-Rexy says: Vertical angles are equal.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vertical"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_082",
+      "question": "What is the measure of a right angle?",
+      "correctAnswer": "90 degrees",
+      "distractors": [
+        "45 degrees",
+        "180 degrees",
+        "360 degrees"
+      ],
+      "explanation": "A right angle is a quarter of a full turn: 360/4 = 90 degrees. It is the corner angle of a square, marked with a small square in diagrams.",
+      "memoryHook": "T-Rexy says: Right means 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_083",
+      "question": "What is the measure of a straight angle?",
+      "correctAnswer": "180 degrees",
+      "distractors": [
+        "90 degrees",
+        "360 degrees",
+        "270 degrees"
+      ],
+      "explanation": "A straight angle is a straight line, 180 degrees.",
+      "memoryHook": "T-Rexy says: Straight means 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_084",
+      "question": "What is the longest side of a right triangle called, and what is its length if the legs are 6 and 8?",
+      "correctAnswer": "Hypotenuse, 10",
+      "distractors": [
+        "Leg, 10",
+        "Hypotenuse, 14",
+        "Altitude, 10"
+      ],
+      "explanation": "By the Pythagorean theorem, the square root of (36 + 64) is 10, and that side is the hypotenuse.",
+      "memoryHook": "T-Rexy says: 6-8-10 is a scaled 3-4-5 triangle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "triangles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_085",
+      "question": "What is the measure of each exterior angle of a regular 10-sided polygon?",
+      "correctAnswer": "36 degrees",
+      "distractors": [
+        "46 degrees",
+        "144 degrees",
+        "72 degrees"
+      ],
+      "explanation": "Exterior angles of any polygon add to 360, so 360/10 = 36.",
+      "memoryHook": "T-Rexy says: Exterior angles always add to 360.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_086",
+      "question": "What is the measure of each exterior angle of a regular 12-sided polygon?",
+      "correctAnswer": "30 degrees",
+      "distractors": [
+        "40 degrees",
+        "150 degrees",
+        "60 degrees"
+      ],
+      "explanation": "Exterior angles of any polygon add to 360, so 360/12 = 30.",
+      "memoryHook": "T-Rexy says: Exterior angles always add to 360.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_087",
+      "question": "What is the sum of the interior angles of an octagon?",
+      "correctAnswer": "1080 degrees",
+      "distractors": [
+        "720 degrees",
+        "900 degrees",
+        "1260 degrees"
+      ],
+      "explanation": "(8 - 2) times 180 = 1080 degrees.",
+      "memoryHook": "T-Rexy says: Use (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_088",
+      "question": "What is the distance between (1, 1) and (4, 5)?",
+      "correctAnswer": "5",
+      "distractors": [
+        "7",
+        "4",
+        "6"
+      ],
+      "explanation": "The square root of (9 + 16) is 5.",
+      "memoryHook": "T-Rexy says: 3-4-5 is a classic right triangle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate",
+        "distance"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_089",
+      "question": "What is the measure of each exterior angle of a regular 8-sided polygon?",
+      "correctAnswer": "45 degrees",
+      "distractors": [
+        "55 degrees",
+        "135 degrees",
+        "90 degrees"
+      ],
+      "explanation": "Exterior angles of any polygon add to 360, so 360/8 = 45.",
+      "memoryHook": "T-Rexy says: Exterior angles always add to 360.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_090",
+      "question": "What is the complement of a 35-degree angle?",
+      "correctAnswer": "55 degrees",
+      "distractors": [
+        "125 degrees",
+        "35 degrees",
+        "145 degrees"
+      ],
+      "explanation": "Complementary angles add to 90: 90 - 35 = 55.",
+      "memoryHook": "T-Rexy says: Complementary angles add to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_091",
+      "question": "What is the slope of the line through (3, 2) and (6, 5)?",
+      "correctAnswer": "1",
+      "distractors": [
+        "2",
+        "-1",
+        "0"
+      ],
+      "explanation": "Slope is (5-2)/(6-3) = 3/3 = 1.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "slope",
+        "coordinate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_092",
+      "question": "What is the slope of the line through (0, 1) and (3, 7)?",
+      "correctAnswer": "2",
+      "distractors": [
+        "3",
+        "-2",
+        "1"
+      ],
+      "explanation": "Slope is (7-1)/(3-0) = 6/3 = 2.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "slope",
+        "coordinate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_093",
+      "question": "What is the slope of the line through (0, 3) and (2, 7)?",
+      "correctAnswer": "2",
+      "distractors": [
+        "3",
+        "-2",
+        "1"
+      ],
+      "explanation": "Slope is (7-3)/(2-0) = 4/2 = 2.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "slope",
+        "coordinate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_094",
+      "question": "What is the slope of the line through (3, 5) and (5, 7)?",
+      "correctAnswer": "1",
+      "distractors": [
+        "2",
+        "-1",
+        "0"
+      ],
+      "explanation": "Slope is (7-5)/(5-3) = 2/2 = 1.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "slope",
+        "coordinate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_095",
+      "question": "What is the slope of the line through (3, 5) and (6, 8)?",
+      "correctAnswer": "1",
+      "distractors": [
+        "2",
+        "-1",
+        "0"
+      ],
+      "explanation": "Slope is (8-5)/(6-3) = 3/3 = 1.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "slope",
+        "coordinate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_096",
+      "question": "What is the slope of the line through (0, 1) and (2, 5)?",
+      "correctAnswer": "2",
+      "distractors": [
+        "3",
+        "-2",
+        "1"
+      ],
+      "explanation": "Slope is (5-1)/(2-0) = 4/2 = 2.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "slope",
+        "coordinate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_097",
+      "question": "What is the diameter of a circle with radius 7 cm?",
+      "correctAnswer": "14 cm",
+      "distractors": [
+        "7 cm",
+        "21 cm",
+        "3.5 cm"
+      ],
+      "explanation": "Diameter is twice the radius: 2 times 7 = 14.",
+      "memoryHook": "T-Rexy says: Diameter is double the radius.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_098",
+      "question": "What is the radius of a circle with diameter 20 cm?",
+      "correctAnswer": "10 cm",
+      "distractors": [
+        "20 cm",
+        "40 cm",
+        "5 cm"
+      ],
+      "explanation": "Radius is half the diameter: 20/2 = 10.",
+      "memoryHook": "T-Rexy says: Radius is half the diameter.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_099",
+      "question": "How many degrees are in a full circle?",
+      "correctAnswer": "360 degrees",
+      "distractors": [
+        "180 degrees",
+        "90 degrees",
+        "270 degrees"
+      ],
+      "explanation": "A full turn is 360 degrees - four right angles of 90 degrees each. Degrees divide one full rotation into 360 equal parts.",
+      "memoryHook": "T-Rexy says: A full circle is 360.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GMT9_100",
+      "question": "What do you call a polygon with 8 sides?",
+      "correctAnswer": "Octagon",
+      "distractors": [
+        "Heptagon",
+        "Nonagon",
+        "Decagon"
+      ],
+      "explanation": "Oct means eight, so an 8-sided polygon is an octagon.",
+      "memoryHook": "T-Rexy says: Oct means eight.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

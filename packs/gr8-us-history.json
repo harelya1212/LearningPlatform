@@ -1,0 +1,1988 @@
+{
+  "packId": "gr8-us-history",
+  "title": "US History (8th Grade)",
+  "description": "US History (8th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "history",
+    "us-history",
+    "8th"
+  ],
+  "questions": [
+    {
+      "id": "USH8_001",
+      "question": "Jamestown was founded in what year?",
+      "correctAnswer": "1607",
+      "distractors": [
+        "1620",
+        "1776",
+        "1492"
+      ],
+      "explanation": "Jamestown, Virginia, was the first permanent English settlement in North America.",
+      "memoryHook": "T-Rexy says: Jamestown started in 1607.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "colonization",
+        "dates"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_002",
+      "question": "The Pilgrims arrived on the Mayflower in what year?",
+      "correctAnswer": "1620",
+      "distractors": [
+        "1607",
+        "1630",
+        "1492"
+      ],
+      "explanation": "The Pilgrims sailed from England on the Mayflower and founded Plymouth Colony in present-day Massachusetts, where they signed the Mayflower Compact before going ashore.",
+      "memoryHook": "T-Rexy says: Plymouth began in 1620.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "colonization",
+        "dates"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_003",
+      "question": "The Declaration of Independence was adopted in what year?",
+      "correctAnswer": "1776",
+      "distractors": [
+        "1787",
+        "1763",
+        "1803"
+      ],
+      "explanation": "The Continental Congress adopted the Declaration on July 4, 1776.",
+      "memoryHook": "T-Rexy says: 1776 is independence year.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "dates"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_004",
+      "question": "The U.S. Constitution was written in what year?",
+      "correctAnswer": "1787",
+      "distractors": [
+        "1776",
+        "1803",
+        "1861"
+      ],
+      "explanation": "Delegates wrote the Constitution at the Philadelphia convention in 1787.",
+      "memoryHook": "T-Rexy says: The Constitution was written in 1787.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "dates"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_005",
+      "question": "The Louisiana Purchase happened in what year?",
+      "correctAnswer": "1803",
+      "distractors": [
+        "1776",
+        "1787",
+        "1820"
+      ],
+      "explanation": "President Jefferson bought the territory from Napoleon of France for about 15 million dollars, roughly doubling the nation's size overnight - from the Mississippi River to the Rocky Mountains.",
+      "memoryHook": "T-Rexy says: 1803 doubled the country.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "expansion",
+        "dates"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_006",
+      "question": "The Civil War began in what year?",
+      "correctAnswer": "1861",
+      "distractors": [
+        "1776",
+        "1803",
+        "1787"
+      ],
+      "explanation": "The Civil War began in 1861 when Confederate forces fired on Fort Sumter.",
+      "memoryHook": "T-Rexy says: The Civil War began in 1861.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "civil-war",
+        "dates"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_007",
+      "question": "The Civil War ended in what year?",
+      "correctAnswer": "1865",
+      "distractors": [
+        "1861",
+        "1877",
+        "1803"
+      ],
+      "explanation": "The Civil War ended in 1865 with the surrender at Appomattox.",
+      "memoryHook": "T-Rexy says: The Civil War ended in 1865.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "civil-war",
+        "dates"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_008",
+      "question": "Who wrote most of the Declaration of Independence?",
+      "correctAnswer": "Thomas Jefferson",
+      "distractors": [
+        "George Washington",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "explanation": "Jefferson drafted the Declaration in about 17 days for a five-man committee; John Adams and Benjamin Franklin suggested small changes before Congress approved it.",
+      "memoryHook": "T-Rexy says: Jefferson wrote the Declaration.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "people"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_009",
+      "question": "What was the first permanent English settlement in North America?",
+      "correctAnswer": "Jamestown",
+      "distractors": [
+        "Plymouth",
+        "Boston",
+        "New York"
+      ],
+      "explanation": "Jamestown was founded in Virginia in 1607.",
+      "memoryHook": "T-Rexy says: Jamestown was first.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "colonization"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_010",
+      "question": "What document did the Pilgrims sign to govern themselves?",
+      "correctAnswer": "Mayflower Compact",
+      "distractors": [
+        "Declaration of Independence",
+        "Articles of Confederation",
+        "Bill of Rights"
+      ],
+      "explanation": "The Mayflower Compact was an agreement for self-government signed in 1620.",
+      "memoryHook": "T-Rexy says: The Mayflower Compact was self-rule.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "colonization",
+        "documents"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_011",
+      "question": "Which colony was founded by the Pilgrims?",
+      "correctAnswer": "Plymouth",
+      "distractors": [
+        "Jamestown",
+        "Boston",
+        "Williamsburg"
+      ],
+      "explanation": "The Pilgrims founded Plymouth Colony in Massachusetts in 1620.",
+      "memoryHook": "T-Rexy says: Plymouth was the Pilgrims.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "colonization"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_012",
+      "question": "What was the Columbian Exchange?",
+      "correctAnswer": "The transfer of plants, animals, and diseases between the Americas and Europe",
+      "distractors": [
+        "A trade agreement between colonies",
+        "A war between Spain and England",
+        "A route to Asia"
+      ],
+      "explanation": "The Columbian Exchange moved crops, animals, and diseases across the Atlantic after 1492.",
+      "memoryHook": "T-Rexy says: The Exchange moved goods both ways.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "exploration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_013",
+      "question": "Who sailed to the Americas in 1492?",
+      "correctAnswer": "Christopher Columbus",
+      "distractors": [
+        "Ferdinand Magellan",
+        "John Cabot",
+        "Henry Hudson"
+      ],
+      "explanation": "Columbus sailed for Spain and reached the Caribbean in 1492.",
+      "memoryHook": "T-Rexy says: Columbus sailed in 1492.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "exploration",
+        "people"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_014",
+      "question": "What was the French and Indian War?",
+      "correctAnswer": "A war between Britain and France over land in North America",
+      "distractors": [
+        "A war between colonists and Native Americans only",
+        "The Revolutionary War",
+        "The War of 1812"
+      ],
+      "explanation": "Britain and France fought from 1754 to 1763 over territory in North America.",
+      "memoryHook": "T-Rexy says: Britain and France fought for land.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "causes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_015",
+      "question": "What did the Proclamation of 1763 do?",
+      "correctAnswer": "It banned colonists from settling west of the Appalachian Mountains",
+      "distractors": [
+        "It taxed tea",
+        "It closed Boston Harbor",
+        "It gave colonists representation"
+      ],
+      "explanation": "Britain tried to stop westward settlement to avoid conflict with Native Americans.",
+      "memoryHook": "T-Rexy says: The Proclamation drew a line at the mountains.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "causes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_016",
+      "question": "What was the Stamp Act?",
+      "correctAnswer": "A tax on printed paper goods in the colonies",
+      "distractors": [
+        "A tax on tea only",
+        "A law banning newspapers",
+        "A tax on sugar"
+      ],
+      "explanation": "The Stamp Act of 1765 taxed newspapers, legal papers, and other printed items.",
+      "memoryHook": "T-Rexy says: The Stamp Act taxed paper.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "causes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_017",
+      "question": "What was the Boston Tea Party?",
+      "correctAnswer": "Colonists dumped British tea into Boston Harbor to protest taxes",
+      "distractors": [
+        "A battle in Boston",
+        "A meeting to write the Constitution",
+        "A tea trade agreement"
+      ],
+      "explanation": "In 1773, colonists dumped tea into the harbor to protest the Tea Act.",
+      "memoryHook": "T-Rexy says: Tea went into the harbor.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "causes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_018",
+      "question": "What happened at the Boston Massacre?",
+      "correctAnswer": "British soldiers fired on colonists, killing five",
+      "distractors": [
+        "Colonists attacked a British fort",
+        "British soldiers left Boston",
+        "A fire destroyed Boston"
+      ],
+      "explanation": "In 1770, British soldiers shot into a crowd, killing five colonists.",
+      "memoryHook": "T-Rexy says: The Boston Massacre killed five.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "causes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_019",
+      "question": "What was the First Continental Congress?",
+      "correctAnswer": "A meeting of colonial delegates to respond to British actions",
+      "distractors": [
+        "The first U.S. Congress",
+        "A battle of the Revolution",
+        "A meeting to write the Constitution"
+      ],
+      "explanation": "Delegates met in Philadelphia in 1774 to organize a response to British policies.",
+      "memoryHook": "T-Rexy says: The Congress organized the colonies.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_020",
+      "question": "What was the main idea of the Declaration of Independence?",
+      "correctAnswer": "All people have natural rights and government needs the consent of the governed",
+      "distractors": [
+        "The colonies should pay more taxes",
+        "The king should rule the colonies",
+        "The colonies should join France"
+      ],
+      "explanation": "The Declaration said people have rights to life, liberty, and the pursuit of happiness.",
+      "memoryHook": "T-Rexy says: Natural rights are in the Declaration.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "documents"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_021",
+      "question": "Who was the commander of the Continental Army?",
+      "correctAnswer": "George Washington",
+      "distractors": [
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "explanation": "The Second Continental Congress appointed Washington commander in 1775; he held the volunteer army together for eight years, through Valley Forge to victory at Yorktown.",
+      "memoryHook": "T-Rexy says: Washington led the army.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "people"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_022",
+      "question": "What was the turning point battle of the Revolutionary War?",
+      "correctAnswer": "Battle of Saratoga",
+      "distractors": [
+        "Battle of Lexington",
+        "Battle of Bunker Hill",
+        "Battle of Yorktown"
+      ],
+      "explanation": "The American victory at Saratoga in 1777 brought France into the war as an ally.",
+      "memoryHook": "T-Rexy says: Saratoga brought France in.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "battles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_023",
+      "question": "What battle ended the Revolutionary War?",
+      "correctAnswer": "Battle of Yorktown",
+      "distractors": [
+        "Battle of Saratoga",
+        "Battle of Lexington",
+        "Battle of Trenton"
+      ],
+      "explanation": "The British surrender at Yorktown in 1781 effectively ended the war.",
+      "memoryHook": "T-Rexy says: Yorktown ended the war.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "battles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_024",
+      "question": "What was the Treaty of Paris of 1783?",
+      "correctAnswer": "The treaty that recognized American independence",
+      "distractors": [
+        "A treaty with France only",
+        "A treaty ending the Civil War",
+        "A treaty buying Louisiana"
+      ],
+      "explanation": "The Treaty of Paris ended the Revolutionary War and recognized the United States.",
+      "memoryHook": "T-Rexy says: Paris 1783 recognized independence.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "revolution",
+        "treaties"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_025",
+      "question": "What was the Articles of Confederation?",
+      "correctAnswer": "The first plan of government for the United States",
+      "distractors": [
+        "The first ten amendments",
+        "A plan for the military",
+        "A trade agreement"
+      ],
+      "explanation": "The Articles created a weak central government and were later replaced by the Constitution.",
+      "memoryHook": "T-Rexy says: The Articles were the first plan.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "documents"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_026",
+      "question": "Why were the Articles of Confederation weak?",
+      "correctAnswer": "The central government could not tax or enforce laws",
+      "distractors": [
+        "They gave too much power to the president",
+        "They banned trade",
+        "They had no states"
+      ],
+      "explanation": "Congress had to ask the states for money and troops, and the states could say no - it also had no president, no national courts, and needed 9 of 13 states to pass a law.",
+      "memoryHook": "T-Rexy says: The Articles could not tax.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_027",
+      "question": "What was the Constitutional Convention?",
+      "correctAnswer": "A meeting in 1787 to write a new Constitution",
+      "distractors": [
+        "A meeting to end the war",
+        "A meeting to buy Louisiana",
+        "A meeting to elect a president"
+      ],
+      "explanation": "Delegates met in Philadelphia in 1787 to replace the Articles of Confederation.",
+      "memoryHook": "T-Rexy says: The Convention wrote the Constitution.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_028",
+      "question": "What was the Great Compromise?",
+      "correctAnswer": "A plan for a two-house Congress with one house by population and one equal per state",
+      "distractors": [
+        "A plan to end slavery",
+        "A plan to tax imports",
+        "A plan to move the capital"
+      ],
+      "explanation": "The Great Compromise created the House and the Senate.",
+      "memoryHook": "T-Rexy says: Two houses settled the fight.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_029",
+      "question": "What was the Three-Fifths Compromise?",
+      "correctAnswer": "Enslaved people counted as three-fifths of a person for representation",
+      "distractors": [
+        "A tax on three-fifths of imports",
+        "A limit on three-fifths of states",
+        "A rule for three-fifths of votes"
+      ],
+      "explanation": "The compromise counted each enslaved person as three-fifths for representation and taxation.",
+      "memoryHook": "T-Rexy says: Three-fifths was about representation.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_030",
+      "question": "What are the first ten amendments called?",
+      "correctAnswer": "The Bill of Rights",
+      "distractors": [
+        "The Articles of Confederation",
+        "The Federalist Papers",
+        "The Preamble"
+      ],
+      "explanation": "The Bill of Rights protects freedoms like speech, religion, and trial by jury.",
+      "memoryHook": "T-Rexy says: The Bill of Rights is the first ten.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "bill-of-rights"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_031",
+      "question": "Which amendment protects freedom of speech?",
+      "correctAnswer": "First Amendment",
+      "distractors": [
+        "Second Amendment",
+        "Fourth Amendment",
+        "Tenth Amendment"
+      ],
+      "explanation": "The First Amendment protects speech, religion, press, assembly, and petition.",
+      "memoryHook": "T-Rexy says: The First is about freedoms.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "bill-of-rights"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_032",
+      "question": "Which amendment protects the right to bear arms?",
+      "correctAnswer": "Second Amendment",
+      "distractors": [
+        "First Amendment",
+        "Third Amendment",
+        "Fifth Amendment"
+      ],
+      "explanation": "The amendment ties the right to arms to a 'well regulated militia' - the founders had just won independence with citizen soldiers and distrusted a large standing army.",
+      "memoryHook": "T-Rexy says: The Second is about arms.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "bill-of-rights"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_033",
+      "question": "Which amendment protects against unreasonable searches?",
+      "correctAnswer": "Fourth Amendment",
+      "distractors": [
+        "First Amendment",
+        "Second Amendment",
+        "Eighth Amendment"
+      ],
+      "explanation": "The Fourth Amendment requires warrants based on probable cause.",
+      "memoryHook": "T-Rexy says: The Fourth needs a warrant.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "bill-of-rights"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_034",
+      "question": "Who was the first President of the United States?",
+      "correctAnswer": "George Washington",
+      "distractors": [
+        "Thomas Jefferson",
+        "John Adams",
+        "Abraham Lincoln"
+      ],
+      "explanation": "George Washington served as the first president from 1789 to 1797.",
+      "memoryHook": "T-Rexy says: Washington was first.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_035",
+      "question": "What was Washington's Farewell Address mainly about?",
+      "correctAnswer": "Avoiding political parties and foreign alliances",
+      "distractors": [
+        "Declaring war on Britain",
+        "Buying Louisiana",
+        "Writing the Bill of Rights"
+      ],
+      "explanation": "In his 1796 Farewell Address - published in newspapers, never delivered as a speech - Washington also urged the country to protect its credit and avoid extremes of debt and party spirit.",
+      "memoryHook": "T-Rexy says: Washington warned against parties and alliances.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_036",
+      "question": "What was the Louisiana Purchase?",
+      "correctAnswer": "The U.S. bought a large territory from France in 1803",
+      "distractors": [
+        "The U.S. bought Alaska",
+        "The U.S. bought Florida",
+        "The U.S. bought Texas"
+      ],
+      "explanation": "The purchase doubled the size of the United States.",
+      "memoryHook": "T-Rexy says: The Louisiana Purchase doubled the U.S.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "expansion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_037",
+      "question": "Who explored the Louisiana Territory for President Jefferson?",
+      "correctAnswer": "Lewis and Clark",
+      "distractors": [
+        "Daniel Boone",
+        "Zebulon Pike",
+        "John Fremont"
+      ],
+      "explanation": "Meriwether Lewis and William Clark explored to the Pacific from 1804 to 1806.",
+      "memoryHook": "T-Rexy says: Lewis and Clark explored west.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "expansion",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_038",
+      "question": "What was the War of 1812 fought over?",
+      "correctAnswer": "British interference with American trade and sailors",
+      "distractors": [
+        "The Louisiana Purchase",
+        "Slavery in the South",
+        "The Mexican War"
+      ],
+      "explanation": "Britain seized American ships and sailors, leading the U.S. to declare war in 1812.",
+      "memoryHook": "T-Rexy says: 1812 was about trade and sailors.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic",
+        "wars"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_039",
+      "question": "What was the Monroe Doctrine?",
+      "correctAnswer": "A policy warning Europe not to colonize the Americas",
+      "distractors": [
+        "A plan to buy Louisiana",
+        "A treaty with Britain",
+        "A law about slavery"
+      ],
+      "explanation": "President Monroe warned European powers to stay out of the Western Hemisphere in 1823.",
+      "memoryHook": "T-Rexy says: Monroe warned Europe away.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_040",
+      "question": "What was the Trail of Tears?",
+      "correctAnswer": "The forced removal of Native Americans to Oklahoma",
+      "distractors": [
+        "A trail built by pioneers",
+        "A battle in the Civil War",
+        "A trade route to Mexico"
+      ],
+      "explanation": "The Cherokee and other nations were forced west in the 1830s, and thousands died.",
+      "memoryHook": "T-Rexy says: The Trail of Tears was forced removal.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "expansion",
+        "native-americans"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_041",
+      "question": "What was the Missouri Compromise of 1820?",
+      "correctAnswer": "It kept the balance of free and slave states by admitting Missouri as slave and Maine as free",
+      "distractors": [
+        "It banned slavery everywhere",
+        "It admitted Texas",
+        "It ended the Civil War"
+      ],
+      "explanation": "The compromise drew a line at 36 degrees 30 minutes for future slavery in the Louisiana Territory.",
+      "memoryHook": "T-Rexy says: The Missouri Compromise balanced states.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "sectionalism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_042",
+      "question": "What was the Compromise of 1850?",
+      "correctAnswer": "A set of laws settling slavery questions after the Mexican War",
+      "distractors": [
+        "A treaty ending the Civil War",
+        "A law banning slavery",
+        "A plan to buy Alaska"
+      ],
+      "explanation": "It admitted California as free and strengthened the Fugitive Slave Act.",
+      "memoryHook": "T-Rexy says: 1850 settled the new territories.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "sectionalism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_043",
+      "question": "What was the Kansas-Nebraska Act?",
+      "correctAnswer": "It let settlers in new territories vote on slavery",
+      "distractors": [
+        "It banned slavery in Kansas",
+        "It admitted California",
+        "It ended the Missouri Compromise line only in the East"
+      ],
+      "explanation": "The act allowed popular sovereignty and led to violence known as Bleeding Kansas.",
+      "memoryHook": "T-Rexy says: Kansas-Nebraska let settlers choose.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "sectionalism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_044",
+      "question": "What was the Dred Scott decision?",
+      "correctAnswer": "The Supreme Court said enslaved people were not citizens and Congress could not ban slavery in territories",
+      "distractors": [
+        "The Court banned slavery",
+        "The Court freed Dred Scott",
+        "The Court ended the Fugitive Slave Act"
+      ],
+      "explanation": "The 1857 decision deepened the divide over slavery.",
+      "memoryHook": "T-Rexy says: Dred Scott deepened the divide.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "sectionalism",
+        "supreme-court"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_045",
+      "question": "What was the Underground Railroad?",
+      "correctAnswer": "A secret network helping enslaved people escape to freedom",
+      "distractors": [
+        "A real train line",
+        "A road built by the government",
+        "A military unit"
+      ],
+      "explanation": "Conductors like Harriet Tubman guided enslaved people to free states and Canada.",
+      "memoryHook": "T-Rexy says: The Underground Railroad led to freedom.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "sectionalism",
+        "abolition"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_046",
+      "question": "Who was Harriet Tubman?",
+      "correctAnswer": "A conductor on the Underground Railroad who led many enslaved people to freedom",
+      "distractors": [
+        "A Civil War general",
+        "The first woman president",
+        "A writer of the Constitution"
+      ],
+      "explanation": "Tubman escaped slavery and returned many times to guide others out.",
+      "memoryHook": "T-Rexy says: Tubman guided people to freedom.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "sectionalism",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_047",
+      "question": "Who was Frederick Douglass?",
+      "correctAnswer": "A formerly enslaved person who became a leading abolitionist speaker and writer",
+      "distractors": [
+        "A Confederate general",
+        "A president",
+        "A Supreme Court justice"
+      ],
+      "explanation": "Douglass escaped slavery and spoke powerfully against it.",
+      "memoryHook": "T-Rexy says: Douglass spoke against slavery.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "sectionalism",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_048",
+      "question": "Who wrote Uncle Tom's Cabin?",
+      "correctAnswer": "Harriet Beecher Stowe",
+      "distractors": [
+        "Frederick Douglass",
+        "Abraham Lincoln",
+        "Susan B. Anthony"
+      ],
+      "explanation": "Stowe's 1852 novel showed the cruelty of slavery to many Northern readers.",
+      "memoryHook": "T-Rexy says: Stowe wrote Uncle Tom's Cabin.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "sectionalism",
+        "literature"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_049",
+      "question": "What was the main cause of the Civil War?",
+      "correctAnswer": "Slavery and disagreements over its expansion",
+      "distractors": [
+        "Taxes on tea",
+        "The Louisiana Purchase",
+        "The War of 1812"
+      ],
+      "explanation": "The central dispute was whether slavery would expand into new territories.",
+      "memoryHook": "T-Rexy says: Slavery was the central cause.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "civil-war",
+        "causes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_050",
+      "question": "Who was president during the Civil War?",
+      "correctAnswer": "Abraham Lincoln",
+      "distractors": [
+        "Andrew Jackson",
+        "Ulysses S. Grant",
+        "Jefferson Davis"
+      ],
+      "explanation": "Lincoln, a one-term former congressman, led as commander in chief; his goal widened during the war from saving the Union to ending slavery itself.",
+      "memoryHook": "T-Rexy says: Lincoln led the Union.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "civil-war",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_051",
+      "question": "Who was president of the Confederacy?",
+      "correctAnswer": "Jefferson Davis",
+      "distractors": [
+        "Robert E. Lee",
+        "Abraham Lincoln",
+        "Stonewall Jackson"
+      ],
+      "explanation": "Davis, a former U.S. senator and secretary of war from Mississippi, was chosen as Confederate president in 1861 and struggled to hold the 11 seceded states together.",
+      "memoryHook": "T-Rexy says: Davis led the Confederacy.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "civil-war",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_052",
+      "question": "What was the Emancipation Proclamation?",
+      "correctAnswer": "Lincoln's 1863 order freeing enslaved people in Confederate-held areas",
+      "distractors": [
+        "A law ending slavery everywhere at once",
+        "A treaty with Britain",
+        "A battle plan"
+      ],
+      "explanation": "The proclamation declared enslaved people in rebelling states free as of January 1, 1863.",
+      "memoryHook": "T-Rexy says: The Proclamation freed people in rebel states.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "civil-war",
+        "documents"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_053",
+      "question": "What was the Gettysburg Address?",
+      "correctAnswer": "Lincoln's short speech honoring soldiers and restating the nation's ideals",
+      "distractors": [
+        "A law ending the war",
+        "A battle plan",
+        "A treaty"
+      ],
+      "explanation": "Lincoln gave the address at Gettysburg in November 1863.",
+      "memoryHook": "T-Rexy says: Gettysburg honored the fallen.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "civil-war",
+        "documents"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_054",
+      "question": "Which battle was the turning point of the Civil War?",
+      "correctAnswer": "Battle of Gettysburg",
+      "distractors": [
+        "Battle of Fort Sumter",
+        "Battle of Bull Run",
+        "Battle of Antietam"
+      ],
+      "explanation": "The Union victory at Gettysburg in July 1863 stopped Lee's invasion of the North.",
+      "memoryHook": "T-Rexy says: Gettysburg turned the war.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "civil-war",
+        "battles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_055",
+      "question": "What was the first battle of the Civil War?",
+      "correctAnswer": "Fort Sumter",
+      "distractors": [
+        "Gettysburg",
+        "Antietam",
+        "Bull Run"
+      ],
+      "explanation": "Confederate forces fired on Fort Sumter in April 1861, starting the war.",
+      "memoryHook": "T-Rexy says: Fort Sumter started the war.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "civil-war",
+        "battles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_056",
+      "question": "Who was the main Union general at the end of the Civil War?",
+      "correctAnswer": "Ulysses S. Grant",
+      "distractors": [
+        "Robert E. Lee",
+        "William Sherman",
+        "Stonewall Jackson"
+      ],
+      "explanation": "Grant commanded Union armies and accepted Lee's surrender in 1865.",
+      "memoryHook": "T-Rexy says: Grant led the Union armies.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "civil-war",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_057",
+      "question": "Who was the main Confederate general?",
+      "correctAnswer": "Robert E. Lee",
+      "distractors": [
+        "Ulysses S. Grant",
+        "Jefferson Davis",
+        "William Sherman"
+      ],
+      "explanation": "Robert E. Lee commanded the Confederate Army of Northern Virginia.",
+      "memoryHook": "T-Rexy says: Lee led the Confederate army.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "civil-war",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_058",
+      "question": "What did the 13th Amendment do?",
+      "correctAnswer": "It abolished slavery in the United States",
+      "distractors": [
+        "It gave women the vote",
+        "It gave Black men the vote",
+        "It ended Prohibition"
+      ],
+      "explanation": "The 13th Amendment, ratified in 1865, ended slavery.",
+      "memoryHook": "T-Rexy says: The 13th ended slavery.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "reconstruction",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_059",
+      "question": "What did the 14th Amendment do?",
+      "correctAnswer": "It granted citizenship and equal protection to all born in the U.S.",
+      "distractors": [
+        "It abolished slavery",
+        "It gave women the vote",
+        "It limited the president to two terms"
+      ],
+      "explanation": "The 14th Amendment made formerly enslaved people citizens with equal protection.",
+      "memoryHook": "T-Rexy says: The 14th gave citizenship.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "reconstruction",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_060",
+      "question": "What did the 15th Amendment do?",
+      "correctAnswer": "It said the right to vote could not be denied because of race",
+      "distractors": [
+        "It abolished slavery",
+        "It gave women the vote",
+        "It ended the poll tax"
+      ],
+      "explanation": "Ratified in 1870, it allowed Black men to vote and hold office across the South during Reconstruction - though states later used poll taxes and literacy tests to evade it.",
+      "memoryHook": "T-Rexy says: The 15th protected voting by race.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "reconstruction",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_061",
+      "question": "What was Reconstruction?",
+      "correctAnswer": "The period after the Civil War when the South was rebuilt and former slaves gained rights",
+      "distractors": [
+        "The rebuilding of Washington, D.C.",
+        "The building of railroads only",
+        "The period before the Revolution"
+      ],
+      "explanation": "Reconstruction lasted from 1865 to 1877 and tried to reunite the nation.",
+      "memoryHook": "T-Rexy says: Reconstruction rebuilt the South.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "reconstruction"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_062",
+      "question": "What was the Freedmen's Bureau?",
+      "correctAnswer": "A government agency that helped formerly enslaved people with food, schools, and work",
+      "distractors": [
+        "A bank for freedmen only",
+        "A military unit",
+        "A railroad company"
+      ],
+      "explanation": "Created in 1865 inside the War Department, the Bureau built schools and hospitals, supplied food and clothing, and helped families find work and reunite after slavery.",
+      "memoryHook": "T-Rexy says: The Bureau helped freed people.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "reconstruction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_063",
+      "question": "What were Black Codes?",
+      "correctAnswer": "Laws in the South that limited the rights of Black people after the Civil War",
+      "distractors": [
+        "Laws that gave Black people full rights",
+        "Laws about railroads",
+        "Laws about taxes"
+      ],
+      "explanation": "Black Codes restricted movement, work, and rights of freed people.",
+      "memoryHook": "T-Rexy says: Black Codes limited rights.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "reconstruction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_064",
+      "question": "What was the Homestead Act of 1862?",
+      "correctAnswer": "A law giving settlers 160 acres of public land if they farmed it",
+      "distractors": [
+        "A law ending slavery",
+        "A law about railroads",
+        "A law taxing land"
+      ],
+      "explanation": "The act encouraged westward settlement by offering free land to farmers.",
+      "memoryHook": "T-Rexy says: The Homestead Act gave 160 acres.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "expansion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_065",
+      "question": "What was the transcontinental railroad completed in 1869?",
+      "correctAnswer": "A railroad linking the East and West coasts",
+      "distractors": [
+        "A road across the South",
+        "A canal in New York",
+        "A railroad in Europe"
+      ],
+      "explanation": "The Central Pacific and Union Pacific met at Promontory, Utah, in 1869.",
+      "memoryHook": "T-Rexy says: The railroad linked the coasts.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "expansion",
+        "industry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_066",
+      "question": "What was Manifest Destiny?",
+      "correctAnswer": "The belief that the U.S. was destined to expand across North America",
+      "distractors": [
+        "A law about slavery",
+        "A treaty with Mexico",
+        "A military plan"
+      ],
+      "explanation": "The phrase 'manifest destiny' was coined in 1845 and was used to justify taking Texas, Oregon, and the Southwest from Mexico - while pushing Native nations off their land.",
+      "memoryHook": "T-Rexy says: Manifest Destiny meant expand west.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "expansion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_067",
+      "question": "What was the Mexican-American War about?",
+      "correctAnswer": "A dispute over Texas and the U.S. desire for western land",
+      "distractors": [
+        "A fight over Florida",
+        "A war with Britain",
+        "A war over Canada"
+      ],
+      "explanation": "The U.S. fought Mexico from 1846 to 1848 and gained the Southwest.",
+      "memoryHook": "T-Rexy says: The Mexican War gained the Southwest.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "expansion",
+        "wars"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_068",
+      "question": "What was the Seneca Falls Convention of 1848?",
+      "correctAnswer": "The first women's rights convention in the U.S.",
+      "distractors": [
+        "A meeting about slavery",
+        "A meeting about railroads",
+        "A battle"
+      ],
+      "explanation": "Elizabeth Cady Stanton and Lucretia Mott organized it to demand women's rights.",
+      "memoryHook": "T-Rexy says: Seneca Falls started women's rights.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "reform",
+        "women"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_069",
+      "question": "Who was Elizabeth Cady Stanton?",
+      "correctAnswer": "A leader of the women's rights movement",
+      "distractors": [
+        "A Civil War general",
+        "A president",
+        "A Supreme Court justice"
+      ],
+      "explanation": "Stanton helped organize Seneca Falls and fought for women's suffrage.",
+      "memoryHook": "T-Rexy says: Stanton led women's rights.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "reform",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_070",
+      "question": "Who was Susan B. Anthony?",
+      "correctAnswer": "A leader who fought for women's right to vote",
+      "distractors": [
+        "A Civil War nurse",
+        "The first woman governor",
+        "A writer of novels"
+      ],
+      "explanation": "Anthony campaigned for decades for women's suffrage.",
+      "memoryHook": "T-Rexy says: Anthony fought for the vote.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "reform",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_071",
+      "question": "What was the Second Great Awakening?",
+      "correctAnswer": "A religious revival that inspired reform movements",
+      "distractors": [
+        "A war",
+        "A political party",
+        "A railroad boom"
+      ],
+      "explanation": "The revival encouraged movements against slavery, for temperance, and for women's rights.",
+      "memoryHook": "T-Rexy says: The Awakening inspired reform.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "reform"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_072",
+      "question": "What was the Industrial Revolution in the U.S.?",
+      "correctAnswer": "A shift from hand work to factories and machines",
+      "distractors": [
+        "A war",
+        "A farming boom",
+        "A gold rush"
+      ],
+      "explanation": "Factories, steam power, and new machines changed how goods were made.",
+      "memoryHook": "T-Rexy says: Factories changed production.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "industry"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_073",
+      "question": "What did the cotton gin do?",
+      "correctAnswer": "It made cleaning cotton much faster, increasing slavery's importance",
+      "distractors": [
+        "It ended slavery",
+        "It made cotton softer",
+        "It transported cotton"
+      ],
+      "explanation": "Eli Whitney's 1793 invention made cotton profitable and expanded slavery.",
+      "memoryHook": "T-Rexy says: The cotton gin sped up cotton.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "industry",
+        "slavery"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_074",
+      "question": "Who invented the cotton gin?",
+      "correctAnswer": "Eli Whitney",
+      "distractors": [
+        "Robert Fulton",
+        "Samuel Morse",
+        "Thomas Edison"
+      ],
+      "explanation": "Eli Whitney patented the cotton gin in 1794.",
+      "memoryHook": "T-Rexy says: Whitney invented the cotton gin.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "industry",
+        "people"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_075",
+      "question": "What was the Erie Canal?",
+      "correctAnswer": "A canal linking the Great Lakes to the Hudson River",
+      "distractors": [
+        "A railroad",
+        "A road to California",
+        "A canal in the South"
+      ],
+      "explanation": "Opened in 1825, the Erie Canal made shipping cheaper and helped New York grow.",
+      "memoryHook": "T-Rexy says: The Erie Canal linked lakes to the sea.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "expansion",
+        "transportation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_076",
+      "question": "What was the purpose of the Bill of Rights?",
+      "correctAnswer": "To protect individual freedoms from the government",
+      "distractors": [
+        "To create the presidency",
+        "To set up courts",
+        "To tax the states"
+      ],
+      "explanation": "Anti-Federalists refused to support the Constitution without written rights, so the first Congress proposed these amendments; they were ratified in 1791.",
+      "memoryHook": "T-Rexy says: The Bill of Rights protects freedoms.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "bill-of-rights"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_077",
+      "question": "What is the supreme law of the land?",
+      "correctAnswer": "The U.S. Constitution",
+      "distractors": [
+        "The Declaration of Independence",
+        "State laws",
+        "The Articles of Confederation"
+      ],
+      "explanation": "Article VI makes the Constitution supreme: if a state law conflicts with it, the Constitution wins and courts must strike the state law down.",
+      "memoryHook": "T-Rexy says: The Constitution is supreme.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_078",
+      "question": "What is federalism?",
+      "correctAnswer": "Power shared between the national government and the states",
+      "distractors": [
+        "Power held only by the president",
+        "Power held only by the states",
+        "Rule by the military"
+      ],
+      "explanation": "The national government handles money, defense, and foreign policy; states run schools, roads, and local police - and the Tenth Amendment reserves undelegated powers to the states or the people.",
+      "memoryHook": "T-Rexy says: Federalism shares power.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "government"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_079",
+      "question": "What are checks and balances?",
+      "correctAnswer": "Each branch of government can limit the others",
+      "distractors": [
+        "States checking the federal government",
+        "The president checking Congress only",
+        "Courts checking states only"
+      ],
+      "explanation": "Examples: the president can veto a bill, Congress can override with two-thirds of both houses, and courts can strike down a law - each branch holds a real tool against the others.",
+      "memoryHook": "T-Rexy says: Branches check each other.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "government"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_080",
+      "question": "What is the main job of the legislative branch?",
+      "correctAnswer": "To make laws",
+      "distractors": [
+        "To enforce laws",
+        "To interpret laws",
+        "To command the military"
+      ],
+      "explanation": "Congress - the House plus the Senate - also declares war, controls the budget, and can impeach officials; lawmaking is only its most visible job.",
+      "memoryHook": "T-Rexy says: Congress makes laws.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "government"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_081",
+      "question": "What is the main job of the executive branch?",
+      "correctAnswer": "To enforce laws",
+      "distractors": [
+        "To make laws",
+        "To interpret laws",
+        "To write the Constitution"
+      ],
+      "explanation": "The president also commands the armed forces, negotiates treaties, and appoints judges and cabinet officers - but cannot make laws or declare war.",
+      "memoryHook": "T-Rexy says: The president enforces laws.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "government"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_082",
+      "question": "What is the main job of the judicial branch?",
+      "correctAnswer": "To interpret laws",
+      "distractors": [
+        "To make laws",
+        "To enforce laws",
+        "To elect the president"
+      ],
+      "explanation": "Courts, led by the Supreme Court, decide what laws mean.",
+      "memoryHook": "T-Rexy says: Courts interpret laws.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "government"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_083",
+      "question": "How many senators does each state have?",
+      "correctAnswer": "Two",
+      "distractors": [
+        "One",
+        "Three",
+        "It depends on population"
+      ],
+      "explanation": "Each state elects two senators, for 100 total.",
+      "memoryHook": "T-Rexy says: Every state gets two senators.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "government"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_084",
+      "question": "How is the number of House members per state decided?",
+      "correctAnswer": "By population",
+      "distractors": [
+        "Equally for every state",
+        "By land area",
+        "By the president"
+      ],
+      "explanation": "Seats are recounted after the census every 10 years: fast-growing states gain seats and slow-growing states lose them, keeping the House at 435 members.",
+      "memoryHook": "T-Rexy says: House seats follow population.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "government"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_085",
+      "question": "What is the Electoral College?",
+      "correctAnswer": "The group that formally elects the president",
+      "distractors": [
+        "A college in Washington, D.C.",
+        "A court that picks the president",
+        "A committee of governors"
+      ],
+      "explanation": "Voters choose electors, and electors vote for president.",
+      "memoryHook": "T-Rexy says: Electors pick the president.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "government"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_086",
+      "question": "What did the Northwest Ordinance of 1787 do?",
+      "correctAnswer": "It set up government for the Northwest Territory and banned slavery there",
+      "distractors": [
+        "It bought Louisiana",
+        "It ended the war",
+        "It created the Bill of Rights"
+      ],
+      "explanation": "The ordinance organized new territory and banned slavery north of the Ohio River.",
+      "memoryHook": "T-Rexy says: The Ordinance organized the Northwest.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_087",
+      "question": "What was Shays' Rebellion?",
+      "correctAnswer": "An uprising of Massachusetts farmers that showed the Articles were too weak",
+      "distractors": [
+        "A slave revolt",
+        "A war with Britain",
+        "A tax protest in Boston"
+      ],
+      "explanation": "The 1786 rebellion convinced many leaders that a stronger government was needed.",
+      "memoryHook": "T-Rexy says: Shays showed the Articles were weak.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "constitution",
+        "causes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_088",
+      "question": "What was the Whiskey Rebellion?",
+      "correctAnswer": "A protest against a federal tax on whiskey that Washington put down",
+      "distractors": [
+        "A war with France",
+        "A slave revolt",
+        "A protest against slavery"
+      ],
+      "explanation": "Washington used federal troops in 1794 to enforce the tax.",
+      "memoryHook": "T-Rexy says: Washington enforced the whiskey tax.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_089",
+      "question": "Who were the Federalists?",
+      "correctAnswer": "Supporters of a strong central government and the Constitution",
+      "distractors": [
+        "Opponents of the Constitution",
+        "Supporters of the Confederacy",
+        "Supporters of the king"
+      ],
+      "explanation": "Federalists like Hamilton backed the new Constitution.",
+      "memoryHook": "T-Rexy says: Federalists backed a strong center.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic",
+        "parties"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_090",
+      "question": "Who were the Anti-Federalists?",
+      "correctAnswer": "Opponents of the Constitution who wanted a Bill of Rights",
+      "distractors": [
+        "Supporters of the Constitution",
+        "Supporters of the king",
+        "Supporters of slavery"
+      ],
+      "explanation": "They wrote essays against ratification and demanded a bill of rights; the Federalist promise to add one is a big reason the Constitution was ratified at all.",
+      "memoryHook": "T-Rexy says: Anti-Federalists wanted a Bill of Rights.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic",
+        "parties"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_091",
+      "question": "What was the Alien and Sedition Acts controversy?",
+      "correctAnswer": "Laws that limited speech and immigration, opposed by Jefferson and Madison",
+      "distractors": [
+        "Laws that ended slavery",
+        "Laws that created the navy",
+        "Laws that taxed whiskey"
+      ],
+      "explanation": "The 1798 acts let the government punish critics, raising free speech concerns.",
+      "memoryHook": "T-Rexy says: The Acts limited speech.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_092",
+      "question": "What was the XYZ Affair?",
+      "correctAnswer": "A dispute with France over bribes demanded from American diplomats",
+      "distractors": [
+        "A war with Britain",
+        "A treaty with Spain",
+        "A scandal about land"
+      ],
+      "explanation": "French agents demanded bribes, angering Americans in 1797.",
+      "memoryHook": "T-Rexy says: The XYZ Affair was about bribes.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_093",
+      "question": "What did the Marbury v. Madison case establish?",
+      "correctAnswer": "Judicial review, the power of courts to strike down laws",
+      "distractors": [
+        "The right to vote",
+        "The end of slavery",
+        "The Louisiana Purchase"
+      ],
+      "explanation": "In 1803, the Supreme Court claimed the power to declare laws unconstitutional.",
+      "memoryHook": "T-Rexy says: Marbury gave courts review power.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic",
+        "supreme-court"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_094",
+      "question": "What was the main result of the War of 1812?",
+      "correctAnswer": "The U.S. gained respect and national pride, and manufacturing grew",
+      "distractors": [
+        "The U.S. lost land",
+        "Britain retook the colonies",
+        "The U.S. joined Britain"
+      ],
+      "explanation": "The war ended in a draw but boosted American confidence.",
+      "memoryHook": "T-Rexy says: 1812 boosted national pride.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic",
+        "wars"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_095",
+      "question": "What was the American System?",
+      "correctAnswer": "Henry Clay's plan for tariffs, a national bank, and internal improvements",
+      "distractors": [
+        "A plan to end slavery",
+        "A military strategy",
+        "A school system"
+      ],
+      "explanation": "Clay wanted to strengthen the national economy with roads, canals, and tariffs.",
+      "memoryHook": "T-Rexy says: Clay's System built the economy.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic",
+        "economy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_096",
+      "question": "What was Jacksonian Democracy?",
+      "correctAnswer": "Expanded voting rights for white men and a stronger presidency under Andrew Jackson",
+      "distractors": [
+        "Voting rights for women",
+        "The end of slavery",
+        "A new constitution"
+      ],
+      "explanation": "States dropped property requirements for voting, so turnout surged; Jackson also championed the 'common man' while defending the spoils system and Indian removal.",
+      "memoryHook": "T-Rexy says: Jackson expanded voting.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic",
+        "jackson"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_097",
+      "question": "What was the Nullification Crisis?",
+      "correctAnswer": "South Carolina's claim it could reject a federal tariff",
+      "distractors": [
+        "A crisis over slavery in Kansas",
+        "A bank failure",
+        "A war with Mexico"
+      ],
+      "explanation": "South Carolina threatened to nullify the tariff of 1828, and Jackson opposed it.",
+      "memoryHook": "T-Rexy says: Nullification was about tariffs.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "early-republic",
+        "jackson"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_098",
+      "question": "What was the Gadsden Purchase?",
+      "correctAnswer": "The U.S. bought land from Mexico in 1853 for a railroad route",
+      "distractors": [
+        "The U.S. bought Alaska",
+        "The U.S. bought Florida",
+        "The U.S. bought Louisiana"
+      ],
+      "explanation": "The purchase added land in present-day Arizona and New Mexico.",
+      "memoryHook": "T-Rexy says: Gadsden added land for railroads.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "expansion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_099",
+      "question": "What was Bleeding Kansas?",
+      "correctAnswer": "Violence in Kansas over whether it would allow slavery",
+      "distractors": [
+        "A flood in Kansas",
+        "A war with Native Americans",
+        "A gold rush"
+      ],
+      "explanation": "After the Kansas-Nebraska Act let settlers vote on slavery, both sides rushed in - rival capitals, stolen elections, and raids like the sack of Lawrence followed.",
+      "memoryHook": "T-Rexy says: Bleeding Kansas was violence over slavery.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "sectionalism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH8_100",
+      "question": "What was John Brown's raid on Harpers Ferry?",
+      "correctAnswer": "An 1859 attempt to start a slave revolt by seizing a federal arsenal",
+      "distractors": [
+        "A battle of the Civil War",
+        "A protest against taxes",
+        "A raid by the Union army"
+      ],
+      "explanation": "Brown was captured by U.S. Marines led by Robert E. Lee and hanged in December 1859; the South saw a terrorist, the North a martyr - and trust between the sections collapsed.",
+      "memoryHook": "T-Rexy says: Brown raided Harpers Ferry.",
+      "imageUrl": "topic:us-history",
+      "tags": [
+        "sectionalism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}
