@@ -1,0 +1,2017 @@
+{
+  "packId": "gr5-us-history",
+  "title": "US History (5th Grade)",
+  "description": "US History (5th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "history",
+    "us-history",
+    "5th"
+  ],
+  "questions": [
+    {
+      "id": "USH5_001",
+      "question": "Who lived in North America for thousands of years before Europeans arrived?",
+      "correctAnswer": "Native American peoples",
+      "distractors": [
+        "Spanish soldiers only",
+        "English kings",
+        "French traders only"
+      ],
+      "explanation": "Native peoples built homes, farms, and towns here for thousands of years before any European ship arrived.",
+      "memoryHook": "T-Rexy says: Native peoples called this land home for thousands of years!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "native-americans",
+        "early-america"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_002",
+      "question": "Which Native American group built large cliff dwellings in the Southwest, including in Arizona?",
+      "correctAnswer": "The Ancestral Puebloans",
+      "distractors": [
+        "The Iroquois",
+        "The Cherokee",
+        "The Sioux"
+      ],
+      "explanation": "The Ancestral Puebloans built cliff homes like those at Mesa Verde and in Arizona canyons.",
+      "memoryHook": "T-Rexy says: cliff homes in the desert - built by the Ancestral Puebloans!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "native-americans",
+        "southwest"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_003",
+      "question": "What did many Native American groups in the Southwest grow for food?",
+      "correctAnswer": "Corn, beans, and squash",
+      "distractors": [
+        "Wheat and rice only",
+        "Potatoes and tomatoes only",
+        "Apples and oranges only"
+      ],
+      "explanation": "The Three Sisters - corn, beans, and squash - were grown together.",
+      "memoryHook": "T-Rexy says: corn, beans, and squash - the Three Sisters!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "native-americans",
+        "farming"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_004",
+      "question": "In what year did Christopher Columbus first sail to the Americas?",
+      "correctAnswer": "1492",
+      "distractors": [
+        "1620",
+        "1776",
+        "1803"
+      ],
+      "explanation": "Columbus sailed west in 1492 looking for Asia - and landed in the Americas instead.",
+      "memoryHook": "T-Rexy says: 1492 - Columbus sailed the ocean blue!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "exploration",
+        "columbus"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_005",
+      "question": "Which country sponsored Christopher Columbus's voyage in 1492?",
+      "correctAnswer": "Spain",
+      "distractors": [
+        "England",
+        "France",
+        "Portugal"
+      ],
+      "explanation": "Spain's King Ferdinand and Queen Isabella paid for the ships, hoping Columbus would find a sea route to Asia.",
+      "memoryHook": "T-Rexy says: Spain sent Columbus across the sea!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "exploration",
+        "columbus"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_006",
+      "question": "What was the Columbian Exchange?",
+      "correctAnswer": "The exchange of plants, animals, and diseases between the Americas and Europe",
+      "distractors": [
+        "A trade of gold for silver only",
+        "A war between Spain and England",
+        "A type of ship"
+      ],
+      "explanation": "The Exchange moved foods like potatoes and tomatoes one way and horses and wheat the other - and diseases traveled too, with terrible effects.",
+      "memoryHook": "T-Rexy says: new foods crossed the ocean both ways!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "exploration",
+        "columbian-exchange"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_007",
+      "question": "Which food came from the Americas to Europe after 1492?",
+      "correctAnswer": "Potatoes",
+      "distractors": [
+        "Wheat",
+        "Rice",
+        "Sugar"
+      ],
+      "explanation": "Potatoes were first grown in the Andes mountains of South America, and Europeans had never seen them before 1492.",
+      "memoryHook": "T-Rexy says: potatoes sailed from the Americas to Europe!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "exploration",
+        "columbian-exchange"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_008",
+      "question": "Which animal did Europeans bring to the Americas?",
+      "correctAnswer": "Horses",
+      "distractors": [
+        "Buffalo",
+        "Turkeys",
+        "Llamas"
+      ],
+      "explanation": "Horses came from Europe and changed life for many Native peoples.",
+      "memoryHook": "T-Rexy says: horses galloped in from Europe!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "exploration",
+        "columbian-exchange"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_009",
+      "question": "Who was the first European to explore the Arizona area?",
+      "correctAnswer": "Spanish explorers, including Francisco Vasquez de Coronado",
+      "distractors": [
+        "English pilgrims",
+        "French fur traders",
+        "Dutch sailors"
+      ],
+      "explanation": "Coronado led a Spanish expedition through the Southwest in 1540.",
+      "memoryHook": "T-Rexy says: Coronado explored Arizona way back in 1540!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "exploration",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_010",
+      "question": "What did Spanish missionaries build in the Southwest?",
+      "correctAnswer": "Missions where they taught and converted Native peoples",
+      "distractors": [
+        "Large cities with skyscrapers",
+        "Railroad stations",
+        "Gold mines only"
+      ],
+      "explanation": "Spanish missions were settlements with churches, farms, and workshops.",
+      "memoryHook": "T-Rexy says: missions were Spanish church towns in the desert!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "exploration",
+        "spanish"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_011",
+      "question": "Which Native group lived in the Northeast and formed a confederacy of five nations?",
+      "correctAnswer": "The Iroquois",
+      "distractors": [
+        "The Navajo",
+        "The Apache",
+        "The Pueblo"
+      ],
+      "explanation": "The Iroquois Confederacy joined five nations under the Great Law of Peace.",
+      "memoryHook": "T-Rexy says: five nations, one confederacy - the Iroquois!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "native-americans",
+        "northeast"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_012",
+      "question": "What is a longhouse?",
+      "correctAnswer": "A long wooden home shared by several Iroquois families",
+      "distractors": [
+        "A Spanish church",
+        "A type of canoe",
+        "A fort built by the English"
+      ],
+      "explanation": "Iroquois families lived together in long bark-covered houses.",
+      "memoryHook": "T-Rexy says: a longhouse is a long home for many families!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "native-americans",
+        "northeast"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_013",
+      "question": "Why did Europeans want to find a sea route to Asia?",
+      "correctAnswer": "To trade for spices, silk, and other valuable goods",
+      "distractors": [
+        "To find gold in the ocean",
+        "To escape from Europe forever",
+        "To build new castles"
+      ],
+      "explanation": "Asian spices kept food tasty and silk was a luxury cloth - both were worth a fortune in Europe.",
+      "memoryHook": "T-Rexy says: spices and silk made the long voyage worth it!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "exploration",
+        "trade"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_014",
+      "question": "What did the Aztec and Inca empires have in common?",
+      "correctAnswer": "Both were large, advanced empires in the Americas before Europeans arrived",
+      "distractors": [
+        "Both were in North America",
+        "Both spoke English",
+        "Both were built by the Spanish"
+      ],
+      "explanation": "The Aztecs ruled in Mexico and the Incas in South America; both had cities, roads, and farms.",
+      "memoryHook": "T-Rexy says: great empires with cities and roads - Aztec and Inca!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "exploration",
+        "empires"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_015",
+      "question": "Which explorer's voyage proved the Earth could be sailed around?",
+      "correctAnswer": "Ferdinand Magellan's voyage",
+      "distractors": [
+        "Christopher Columbus's first voyage",
+        "John Cabot's voyage",
+        "Hernan Cortes's march"
+      ],
+      "explanation": "Magellan's expedition (1519-1522) was the first to circle the globe.",
+      "memoryHook": "T-Rexy says: Magellan's ships sailed all the way around the world!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "exploration",
+        "magellan"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_016",
+      "question": "In what year did English settlers found Jamestown, the first lasting English colony?",
+      "correctAnswer": "1607",
+      "distractors": [
+        "1492",
+        "1620",
+        "1776"
+      ],
+      "explanation": "Jamestown was founded in Virginia in 1607.",
+      "memoryHook": "T-Rexy says: Jamestown 1607 - the first lasting English town!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "jamestown"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_017",
+      "question": "Why did the Pilgrims sail to America in 1620?",
+      "correctAnswer": "To practice their religion freely",
+      "distractors": [
+        "To find gold",
+        "To trade for spices",
+        "To build railroads"
+      ],
+      "explanation": "In England the Pilgrims were punished for worshiping their own way, so they sailed to start a colony where they could pray freely.",
+      "memoryHook": "T-Rexy says: the Pilgrims sailed for freedom to worship!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "pilgrims"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_018",
+      "question": "What ship brought the Pilgrims to America in 1620?",
+      "correctAnswer": "The Mayflower",
+      "distractors": [
+        "The Santa Maria",
+        "The Beagle",
+        "The Titanic"
+      ],
+      "explanation": "The Mayflower carried the Pilgrims to Plymouth.",
+      "memoryHook": "T-Rexy says: the Mayflower carried the Pilgrims across the sea!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "pilgrims"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_019",
+      "question": "What agreement did the Pilgrims sign to govern themselves?",
+      "correctAnswer": "The Mayflower Compact",
+      "distractors": [
+        "The Declaration of Independence",
+        "The Constitution",
+        "The Bill of Rights"
+      ],
+      "explanation": "Before landing, the Pilgrims signed a promise to make fair laws together - the first step toward self-government in America.",
+      "memoryHook": "T-Rexy says: the Mayflower Compact was a promise to govern together!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "pilgrims"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_020",
+      "question": "Who helped the Pilgrims learn to grow corn and survive their first years?",
+      "correctAnswer": "Squanto and the Wampanoag people",
+      "distractors": [
+        "Spanish soldiers",
+        "French traders",
+        "English kings"
+      ],
+      "explanation": "Squanto taught the Pilgrims to plant corn and fish, and the Wampanoag helped them.",
+      "memoryHook": "T-Rexy says: Squanto taught the Pilgrims to farm the new land!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "pilgrims"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_021",
+      "question": "Which colony was founded by the Puritans in 1630?",
+      "correctAnswer": "Massachusetts Bay Colony",
+      "distractors": [
+        "Virginia",
+        "Georgia",
+        "South Carolina"
+      ],
+      "explanation": "The Puritans founded Massachusetts Bay Colony around Boston.",
+      "memoryHook": "T-Rexy says: the Puritans built Massachusetts Bay Colony!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "new-england"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_022",
+      "question": "What was the main cash crop of Virginia?",
+      "correctAnswer": "Tobacco",
+      "distractors": [
+        "Corn",
+        "Cotton",
+        "Wheat"
+      ],
+      "explanation": "Tobacco grown in Virginia was sold for profit in England.",
+      "memoryHook": "T-Rexy says: tobacco was Virginia's money crop!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "virginia"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_023",
+      "question": "Which region had large plantations growing rice and indigo?",
+      "correctAnswer": "The Southern Colonies",
+      "distractors": [
+        "The New England Colonies",
+        "The Middle Colonies",
+        "The Great Lakes region"
+      ],
+      "explanation": "Rice needs hot, wet fields and indigo makes blue dye - both grew well in the warm South, on large farms called plantations.",
+      "memoryHook": "T-Rexy says: rice and indigo grew on Southern plantations!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "regions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_024",
+      "question": "What did the New England Colonies rely on most for their economy?",
+      "correctAnswer": "Fishing, shipbuilding, and trade",
+      "distractors": [
+        "Tobacco plantations",
+        "Gold mining",
+        "Cotton farming"
+      ],
+      "explanation": "New England's rocky soil was bad for farming, but its harbors were perfect for fishing boats and shipbuilding.",
+      "memoryHook": "T-Rexy says: rocky soil meant New England looked to the sea!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "regions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_025",
+      "question": "Which colony was founded as a place for debtors to start over?",
+      "correctAnswer": "Georgia",
+      "distractors": [
+        "New York",
+        "Pennsylvania",
+        "Delaware"
+      ],
+      "explanation": "Georgia was founded in 1733 as a colony where debtors could begin again.",
+      "memoryHook": "T-Rexy says: Georgia gave debtors a fresh start!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "georgia"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_026",
+      "question": "Who founded Pennsylvania as a place of religious freedom?",
+      "correctAnswer": "William Penn",
+      "distractors": [
+        "John Smith",
+        "Roger Williams",
+        "James Oglethorpe"
+      ],
+      "explanation": "William Penn, a Quaker, founded Pennsylvania for religious tolerance.",
+      "memoryHook": "T-Rexy says: William Penn built Pennsylvania for religious freedom!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "pennsylvania"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_027",
+      "question": "What was the Triangular Trade?",
+      "correctAnswer": "Trade routes between Europe, Africa, and the Americas",
+      "distractors": [
+        "Trade between three English cities",
+        "A war with three sides",
+        "A type of ship with three sails"
+      ],
+      "explanation": "Ships carried goods, enslaved people, and raw materials around the Atlantic.",
+      "memoryHook": "T-Rexy says: three corners, three cargoes - the Triangular Trade!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "trade"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_028",
+      "question": "Why is the year 1619 important in American history?",
+      "correctAnswer": "The first enslaved Africans arrived in Virginia",
+      "distractors": [
+        "The Pilgrims landed",
+        "The Constitution was written",
+        "The Revolutionary War began"
+      ],
+      "explanation": "In 1619, the first enslaved Africans were brought to Jamestown.",
+      "memoryHook": "T-Rexy says: 1619 - the first enslaved Africans arrived in Virginia!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "slavery"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_029",
+      "question": "What did colonial children do for education?",
+      "correctAnswer": "Many learned at home or in small schools, and some were taught trades",
+      "distractors": [
+        "All children went to free public schools",
+        "Only girls went to school",
+        "Children did not learn to read at all"
+      ],
+      "explanation": "Colonial education varied; many children learned reading at home or as apprentices.",
+      "memoryHook": "T-Rexy says: colonial kids learned at home, in schoolhouses, or as apprentices!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "daily-life"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_030",
+      "question": "What was a colonial apprentice?",
+      "correctAnswer": "A young person learning a trade from a skilled worker",
+      "distractors": [
+        "A soldier in the army",
+        "A ship captain",
+        "A teacher at a college"
+      ],
+      "explanation": "Apprentices lived with a master craftsperson and learned a trade over years.",
+      "memoryHook": "T-Rexy says: an apprentice learned a trade by working beside a master!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "colonies",
+        "daily-life"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_031",
+      "question": "What did the slogan 'No taxation without representation' mean?",
+      "correctAnswer": "Colonists should not be taxed by a Parliament where they had no voice",
+      "distractors": [
+        "Colonists should never pay any taxes",
+        "Parliament should tax only the king",
+        "Taxes should be paid in gold only"
+      ],
+      "explanation": "The colonists had no one in Parliament to speak for them, so they called the taxes unfair - 'no taxation without representation!'",
+      "memoryHook": "T-Rexy says: no voice, no tax - that was the colonists' cry!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "taxes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_032",
+      "question": "Which act taxed paper goods like newspapers and playing cards in 1765?",
+      "correctAnswer": "The Stamp Act",
+      "distractors": [
+        "The Tea Act",
+        "The Townshend Acts",
+        "The Sugar Act"
+      ],
+      "explanation": "Every newspaper, will, and even playing card needed a paid stamp - colonists had to pay Britain for the stamp on each one.",
+      "memoryHook": "T-Rexy says: the Stamp Act taxed every piece of paper!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "taxes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_033",
+      "question": "What happened at the Boston Tea Party in 1773?",
+      "correctAnswer": "Colonists dumped British tea into Boston Harbor to protest the Tea Act",
+      "distractors": [
+        "British soldiers drank all the tea in Boston",
+        "Colonists opened a tea shop",
+        "The king banned tea in America"
+      ],
+      "explanation": "Protesters threw 342 chests of tea into the harbor.",
+      "memoryHook": "T-Rexy says: tea overboard - the Boston Tea Party!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "boston-tea-party"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_034",
+      "question": "What was the first battle of the American Revolution?",
+      "correctAnswer": "The Battle of Lexington and Concord",
+      "distractors": [
+        "The Battle of Yorktown",
+        "The Battle of Bunker Hill",
+        "The Battle of Saratoga"
+      ],
+      "explanation": "Fighting began at Lexington and Concord in April 1775.",
+      "memoryHook": "T-Rexy says: Lexington and Concord - where the fighting started!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "battles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_035",
+      "question": "Who wrote the Declaration of Independence?",
+      "correctAnswer": "Thomas Jefferson",
+      "distractors": [
+        "George Washington",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "explanation": "Jefferson wrote the first draft, with help from a committee.",
+      "memoryHook": "T-Rexy says: Jefferson put the big ideas into words!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "declaration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_036",
+      "question": "When was the Declaration of Independence adopted?",
+      "correctAnswer": "July 4, 1776",
+      "distractors": [
+        "July 4, 1789",
+        "December 25, 1776",
+        "April 19, 1775"
+      ],
+      "explanation": "On July 4, 1776, Congress approved the Declaration, and the thirteen colonies became the United States of America.",
+      "memoryHook": "T-Rexy says: July 4, 1776 - America's birthday!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "declaration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_037",
+      "question": "What famous words appear in the Declaration of Independence?",
+      "correctAnswer": "We hold these truths to be self-evident, that all men are created equal",
+      "distractors": [
+        "Four score and seven years ago",
+        "Give me liberty or give me death",
+        "We the People of the United States"
+      ],
+      "explanation": "The Declaration's most famous lines say all people are created equal, with rights to life, liberty, and the pursuit of happiness.",
+      "memoryHook": "T-Rexy says: all men are created equal - the Declaration's big idea!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "declaration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_038",
+      "question": "Who was the commander of the Continental Army?",
+      "correctAnswer": "George Washington",
+      "distractors": [
+        "Thomas Jefferson",
+        "Paul Revere",
+        "Benedict Arnold"
+      ],
+      "explanation": "Washington led the Continental Army through the war.",
+      "memoryHook": "T-Rexy says: Washington led the army to victory!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "leaders"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_039",
+      "question": "Why was the winter at Valley Forge (1777-1778) so hard for the army?",
+      "correctAnswer": "Soldiers faced cold, hunger, and disease with few supplies",
+      "distractors": [
+        "The British attacked every day",
+        "The army had no general",
+        "It rained for six months straight"
+      ],
+      "explanation": "At Valley Forge, soldiers suffered cold and hunger, but training made them stronger.",
+      "memoryHook": "T-Rexy says: Valley Forge was cold, hungry, and tough - but the army held on!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "valley-forge"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_040",
+      "question": "Which battle was the turning point of the Revolution because France joined the American side after it?",
+      "correctAnswer": "The Battle of Saratoga",
+      "distractors": [
+        "The Battle of Bunker Hill",
+        "The Battle of Yorktown",
+        "The Battle of Trenton"
+      ],
+      "explanation": "The American win at Saratoga in 1777 convinced France to help.",
+      "memoryHook": "T-Rexy says: Saratoga won France as a friend!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "battles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_041",
+      "question": "What was the last major battle of the Revolutionary War?",
+      "correctAnswer": "The Battle of Yorktown",
+      "distractors": [
+        "The Battle of Saratoga",
+        "The Battle of Lexington",
+        "The Battle of Bunker Hill"
+      ],
+      "explanation": "At Yorktown in 1781, the British army surrendered.",
+      "memoryHook": "T-Rexy says: Yorktown 1781 - the last big battle!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "battles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_042",
+      "question": "What document officially ended the Revolutionary War in 1783?",
+      "correctAnswer": "The Treaty of Paris",
+      "distractors": [
+        "The Declaration of Independence",
+        "The Constitution",
+        "The Bill of Rights"
+      ],
+      "explanation": "The Treaty of Paris of 1783 recognized American independence.",
+      "memoryHook": "T-Rexy says: the Treaty of Paris made America free and official!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "treaty"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_043",
+      "question": "Who warned the colonists that the British were coming, riding through the night in 1775?",
+      "correctAnswer": "Paul Revere",
+      "distractors": [
+        "George Washington",
+        "Samuel Adams",
+        "John Hancock"
+      ],
+      "explanation": "Paul Revere rode to warn that British troops were marching to Lexington and Concord.",
+      "memoryHook": "T-Rexy says: Paul Revere rode through the night to warn the towns!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "heroes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_044",
+      "question": "What did the Sons of Liberty do?",
+      "correctAnswer": "They protested British taxes and laws",
+      "distractors": [
+        "They built ships for the king",
+        "They collected taxes for Britain",
+        "They wrote the Constitution"
+      ],
+      "explanation": "The Sons of Liberty organized protests like the Boston Tea Party.",
+      "memoryHook": "T-Rexy says: the Sons of Liberty stood up to British taxes!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "protests"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_045",
+      "question": "Why did the colonists boycott British goods?",
+      "correctAnswer": "To protest taxes by refusing to buy British products",
+      "distractors": [
+        "Because British goods were too cheap",
+        "Because they had no money at all",
+        "Because the king ordered them to"
+      ],
+      "explanation": "Boycotts hurt British trade and pressured Parliament to change the taxes.",
+      "memoryHook": "T-Rexy says: no buying means no money for Britain - the boycott worked!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "revolution",
+        "protests"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_046",
+      "question": "What is the Constitution?",
+      "correctAnswer": "The supreme law of the United States that sets up the government",
+      "distractors": [
+        "A letter from the king",
+        "A list of state capitals",
+        "A book of poems"
+      ],
+      "explanation": "The Constitution, written in 1787, creates the government and protects rights.",
+      "memoryHook": "T-Rexy says: the Constitution is the rulebook for the whole country!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_047",
+      "question": "What are the three branches of the United States government?",
+      "correctAnswer": "Legislative, executive, and judicial",
+      "distractors": [
+        "Federal, state, and local",
+        "Army, navy, and air force",
+        "Senate, House, and president only"
+      ],
+      "explanation": "Congress makes laws, the president enforces them, and the courts interpret them.",
+      "memoryHook": "T-Rexy says: three branches share the power - like three legs of a stool!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "branches"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_048",
+      "question": "Which branch makes the laws?",
+      "correctAnswer": "The legislative branch (Congress)",
+      "distractors": [
+        "The executive branch",
+        "The judicial branch",
+        "The military"
+      ],
+      "explanation": "Congress, the House and Senate, writes and passes laws.",
+      "memoryHook": "T-Rexy says: Congress writes the laws!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "branches"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_049",
+      "question": "Which branch is led by the president?",
+      "correctAnswer": "The executive branch",
+      "distractors": [
+        "The legislative branch",
+        "The judicial branch",
+        "The state branch"
+      ],
+      "explanation": "The president is like the captain of the executive branch - making sure the laws Congress passes are carried out.",
+      "memoryHook": "T-Rexy says: the president runs the executive branch!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "branches"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_050",
+      "question": "Which branch interprets the laws?",
+      "correctAnswer": "The judicial branch",
+      "distractors": [
+        "The legislative branch",
+        "The executive branch",
+        "The cabinet"
+      ],
+      "explanation": "Courts, led by the Supreme Court, decide what laws mean.",
+      "memoryHook": "T-Rexy says: the courts decide what laws mean!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "branches"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_051",
+      "question": "What is the first ten amendments to the Constitution called?",
+      "correctAnswer": "The Bill of Rights",
+      "distractors": [
+        "The Preamble",
+        "The Articles of Confederation",
+        "The Federalist Papers"
+      ],
+      "explanation": "The Bill of Rights protects freedoms like speech, religion, and a fair trial.",
+      "memoryHook": "T-Rexy says: the Bill of Rights protects your freedoms!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "bill-of-rights"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_052",
+      "question": "Which amendment protects freedom of speech and religion?",
+      "correctAnswer": "The First Amendment",
+      "distractors": [
+        "The Second Amendment",
+        "The Tenth Amendment",
+        "The Fifth Amendment"
+      ],
+      "explanation": "The First Amendment protects speech, religion, press, assembly, and petition.",
+      "memoryHook": "T-Rexy says: the First Amendment guards your voice!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "bill-of-rights"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_053",
+      "question": "How many years is one term for a president?",
+      "correctAnswer": "Four years",
+      "distractors": [
+        "Two years",
+        "Six years",
+        "Eight years"
+      ],
+      "explanation": "A president serves four years, then may be elected once more - no president can serve more than two terms.",
+      "memoryHook": "T-Rexy says: a president serves four years at a time!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "president"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_054",
+      "question": "How many senators does each state have?",
+      "correctAnswer": "Two",
+      "distractors": [
+        "One",
+        "Four",
+        "It depends on population"
+      ],
+      "explanation": "Big California and tiny Rhode Island each send exactly two senators, so every state has an equal voice in the Senate.",
+      "memoryHook": "T-Rexy says: two senators for every state - big or small!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "congress"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_055",
+      "question": "How is the number of representatives in the House decided?",
+      "correctAnswer": "By each state's population",
+      "distractors": [
+        "Every state gets ten",
+        "By the president",
+        "By the state's age"
+      ],
+      "explanation": "The House is counted by population: California has 52 representatives, while small states like Wyoming have just one.",
+      "memoryHook": "T-Rexy says: more people means more representatives!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "congress"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_056",
+      "question": "Who was the first president of the United States?",
+      "correctAnswer": "George Washington",
+      "distractors": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "explanation": "Washington served from 1789 to 1797.",
+      "memoryHook": "T-Rexy says: Washington was president number one!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "early-republic",
+        "presidents"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_057",
+      "question": "What is the Preamble?",
+      "correctAnswer": "The introduction to the Constitution that states its purposes",
+      "distractors": [
+        "The last part of the Constitution",
+        "A list of the states",
+        "The president's oath"
+      ],
+      "explanation": "'We the People' means the government gets its power from the citizens, not from a king.",
+      "memoryHook": "T-Rexy says: We the People - the Preamble's famous opening!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "preamble"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_058",
+      "question": "What does the system of checks and balances do?",
+      "correctAnswer": "It lets each branch limit the power of the other branches",
+      "distractors": [
+        "It counts the money in the treasury",
+        "It checks the weather for the president",
+        "It balances the budget every year"
+      ],
+      "explanation": "Each branch can check the others: the president can veto a law, Congress can override the veto, and courts can say a law is unconstitutional.",
+      "memoryHook": "T-Rexy says: each branch keeps the others in check!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "constitution",
+        "checks-balances"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_059",
+      "question": "Why did the United States buy the Louisiana Territory in 1803?",
+      "correctAnswer": "To double the country's size and gain control of the Mississippi River",
+      "distractors": [
+        "To find gold in California",
+        "To end the Revolutionary War",
+        "To build the first railroad"
+      ],
+      "explanation": "The Louisiana Purchase from France doubled the size of the United States.",
+      "memoryHook": "T-Rexy says: the Louisiana Purchase doubled America overnight!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "early-republic",
+        "expansion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_060",
+      "question": "Who explored the Louisiana Territory for President Jefferson?",
+      "correctAnswer": "Lewis and Clark",
+      "distractors": [
+        "Daniel Boone and Davy Crockett",
+        "George Washington and John Adams",
+        "Pike and Fremont"
+      ],
+      "explanation": "Meriwether Lewis and William Clark explored to the Pacific Ocean (1804-1806).",
+      "memoryHook": "T-Rexy says: Lewis and Clark trekked all the way to the Pacific!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "early-republic",
+        "exploration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_061",
+      "question": "What was the Oregon Trail?",
+      "correctAnswer": "A route settlers used to travel west to Oregon",
+      "distractors": [
+        "A railroad across the South",
+        "A river in Oregon",
+        "A trail for gold miners only"
+      ],
+      "explanation": "Thousands of families traveled the Oregon Trail in covered wagons in the 1840s and 1850s.",
+      "memoryHook": "T-Rexy says: covered wagons rolled west on the Oregon Trail!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "trails"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_062",
+      "question": "Why did many settlers move west in the 1840s?",
+      "correctAnswer": "For free or cheap land and new opportunities",
+      "distractors": [
+        "To escape the ocean",
+        "To find the North Pole",
+        "To build big cities in the East"
+      ],
+      "explanation": "Out west, a family could claim free land, build a farm, and start over - a chance many poor families in the East never had.",
+      "memoryHook": "T-Rexy says: free land and fresh starts pulled families west!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "pioneers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_063",
+      "question": "What did the phrase Manifest Destiny mean?",
+      "correctAnswer": "The belief that the United States should expand across the continent",
+      "distractors": [
+        "The belief that America should stay small",
+        "A law about trains",
+        "A type of wagon"
+      ],
+      "explanation": "The idea was that America was meant by God to grow from the Atlantic to the Pacific - and that belief pushed settlers west.",
+      "memoryHook": "T-Rexy says: Manifest Destiny meant America was meant to span the continent!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "manifest-destiny"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_064",
+      "question": "What happened during the California Gold Rush?",
+      "correctAnswer": "Thousands rushed to California after gold was found in 1848",
+      "distractors": [
+        "Gold was found in New York",
+        "California became part of Mexico",
+        "The gold ran out in one week"
+      ],
+      "explanation": "Gold found at Sutter's Mill in 1848 brought fortune seekers from around the world.",
+      "memoryHook": "T-Rexy says: gold in 1848 - and everyone rushed to California!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "gold-rush"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_065",
+      "question": "What was the Transcontinental Railroad, finished in 1869?",
+      "correctAnswer": "A railroad linking the East and West coasts",
+      "distractors": [
+        "A railroad in Europe",
+        "A train that flew",
+        "A railroad only in California"
+      ],
+      "explanation": "The railroad joined Omaha and Sacramento, letting people cross the country in days.",
+      "memoryHook": "T-Rexy says: in 1869, rails linked the two oceans!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "railroad"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_066",
+      "question": "Where did the two parts of the Transcontinental Railroad meet?",
+      "correctAnswer": "Promontory Summit, Utah",
+      "distractors": [
+        "New York City",
+        "Chicago, Illinois",
+        "San Francisco, California"
+      ],
+      "explanation": "A golden spike was driven at Promontory Summit in 1869.",
+      "memoryHook": "T-Rexy says: the golden spike joined the rails in Utah!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "railroad"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_067",
+      "question": "Who was Sacagawea?",
+      "correctAnswer": "A Shoshone woman who guided and helped Lewis and Clark",
+      "distractors": [
+        "The first woman president",
+        "A gold miner in California",
+        "A teacher in Boston"
+      ],
+      "explanation": "Sacagawea helped the expedition with translation, guidance, and knowledge of plants.",
+      "memoryHook": "T-Rexy says: Sacagawea guided Lewis and Clark across the West!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "lewis-clark"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_068",
+      "question": "What was the Trail of Tears?",
+      "correctAnswer": "The forced removal of Native American peoples, including the Cherokee, from their lands",
+      "distractors": [
+        "A hiking trail in Oregon",
+        "A river in Georgia",
+        "A battle in the Civil War"
+      ],
+      "explanation": "In the 1830s, the government forced Native peoples to move west, and many died on the way.",
+      "memoryHook": "T-Rexy says: the Trail of Tears was a sad, forced journey west.",
+      "imageUrl": "topic:history",
+      "tags": [
+        "native-americans",
+        "trail-of-tears"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_069",
+      "question": "Which president ordered the removal of Native peoples that led to the Trail of Tears?",
+      "correctAnswer": "Andrew Jackson",
+      "distractors": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson"
+      ],
+      "explanation": "President Andrew Jackson signed the Indian Removal Act of 1830.",
+      "memoryHook": "T-Rexy says: Jackson signed the Removal Act of 1830.",
+      "imageUrl": "topic:history",
+      "tags": [
+        "native-americans",
+        "trail-of-tears"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_070",
+      "question": "What is the Alamo famous for?",
+      "correctAnswer": "A battle in Texas where a small group fought the Mexican army in 1836",
+      "distractors": [
+        "A gold mine in California",
+        "A fort in Florida",
+        "A ship in Boston Harbor"
+      ],
+      "explanation": "At the Alamo in San Antonio, Texan defenders fought Santa Anna's army.",
+      "memoryHook": "T-Rexy says: remember the Alamo - the famous 1836 battle!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "texas"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_071",
+      "question": "When did Texas become a state?",
+      "correctAnswer": "1845",
+      "distractors": [
+        "1836",
+        "1861",
+        "1900"
+      ],
+      "explanation": "Texas joined the United States in 1845, nine years after independence from Mexico.",
+      "memoryHook": "T-Rexy says: Texas became a state in 1845!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "texas"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_072",
+      "question": "What did the Mexican-American War (1846-1848) result in?",
+      "correctAnswer": "The United States gained land including California and the Southwest",
+      "distractors": [
+        "Mexico gained Texas",
+        "The United States lost New Mexico",
+        "Spain took over Florida"
+      ],
+      "explanation": "The war ended with Mexico giving up a huge area, including Arizona and California.",
+      "memoryHook": "T-Rexy says: the war brought California and the Southwest into the U.S.",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "mexican-war"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_073",
+      "question": "What was the Gadsden Purchase of 1853?",
+      "correctAnswer": "The U.S. bought land from Mexico that is now southern Arizona and New Mexico",
+      "distractors": [
+        "The U.S. bought Alaska",
+        "Mexico bought land from the U.S.",
+        "Arizona became a state"
+      ],
+      "explanation": "The U.S. paid Mexico $10 million for a strip of desert land - land that became southern Arizona, including Tucson.",
+      "memoryHook": "T-Rexy says: the Gadsden Purchase drew Arizona's southern border!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_074",
+      "question": "What did pioneers travel in on the trails west?",
+      "correctAnswer": "Covered wagons",
+      "distractors": [
+        "Trains only",
+        "Airplanes",
+        "Cars"
+      ],
+      "explanation": "Families loaded their belongings into covered wagons pulled by oxen or mules.",
+      "memoryHook": "T-Rexy says: covered wagons were pioneer moving trucks!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "pioneers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_075",
+      "question": "What was one hardship pioneers faced on the trails?",
+      "correctAnswer": "Disease, bad weather, and river crossings",
+      "distractors": [
+        "Too many hotels",
+        "Airplane delays",
+        "Traffic jams"
+      ],
+      "explanation": "Pioneers faced cholera, storms, and dangerous rivers.",
+      "memoryHook": "T-Rexy says: the trail was tough - sickness, storms, and rivers!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "westward",
+        "pioneers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_076",
+      "question": "What was the main cause of the Civil War?",
+      "correctAnswer": "Disagreement over slavery and states' rights",
+      "distractors": [
+        "A fight over gold",
+        "A war with England",
+        "A dispute about railroads only"
+      ],
+      "explanation": "Slavery was the heart of it: the South wanted to keep and expand it, the North wanted to stop it from spreading - and both sides argued over how much power states should have.",
+      "memoryHook": "T-Rexy says: slavery and states' rights split the nation.",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "causes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_077",
+      "question": "Which side was called the Union in the Civil War?",
+      "correctAnswer": "The North",
+      "distractors": [
+        "The South",
+        "The West",
+        "Europe"
+      ],
+      "explanation": "The Union was the 23 states that stayed loyal to the United States and fought to keep the country together.",
+      "memoryHook": "T-Rexy says: the Union was the North!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "sides"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_078",
+      "question": "Which side was called the Confederacy in the Civil War?",
+      "correctAnswer": "The South",
+      "distractors": [
+        "The North",
+        "The West",
+        "Canada"
+      ],
+      "explanation": "The Confederacy was the 11 Southern states that broke away and formed their own country, with Richmond as its capital.",
+      "memoryHook": "T-Rexy says: the Confederacy was the South!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "sides"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_079",
+      "question": "Who was president of the United States during the Civil War?",
+      "correctAnswer": "Abraham Lincoln",
+      "distractors": [
+        "George Washington",
+        "Andrew Jackson",
+        "Ulysses S. Grant"
+      ],
+      "explanation": "Lincoln was president from 1861 until his death in 1865.",
+      "memoryHook": "T-Rexy says: Lincoln led the Union through the war!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "lincoln"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_080",
+      "question": "Who commanded the Union army at the end of the war?",
+      "correctAnswer": "Ulysses S. Grant",
+      "distractors": [
+        "Robert E. Lee",
+        "Stonewall Jackson",
+        "William Sherman"
+      ],
+      "explanation": "Grant took command of all Union armies in 1864 and wore down Lee's army until it surrendered.",
+      "memoryHook": "T-Rexy says: Grant led the Union army!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "generals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_081",
+      "question": "Who commanded the Confederate army?",
+      "correctAnswer": "Robert E. Lee",
+      "distractors": [
+        "Ulysses S. Grant",
+        "Abraham Lincoln",
+        "William Sherman"
+      ],
+      "explanation": "General Lee commanded the Army of Northern Virginia.",
+      "memoryHook": "T-Rexy says: Lee led the Confederate army!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "generals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_082",
+      "question": "What did the Emancipation Proclamation of 1863 do?",
+      "correctAnswer": "It declared enslaved people in Confederate states to be free",
+      "distractors": [
+        "It ended the war",
+        "It made Lincoln president",
+        "It freed all enslaved people everywhere at once"
+      ],
+      "explanation": "The proclamation freed enslaved people only in Confederate-held land - a war measure that also let Black men join the Union army.",
+      "memoryHook": "T-Rexy says: the Emancipation Proclamation declared freedom in 1863!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "emancipation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_083",
+      "question": "Which battle is known as the bloodiest single day of the Civil War?",
+      "correctAnswer": "The Battle of Antietam",
+      "distractors": [
+        "The Battle of Gettysburg",
+        "The Battle of Bull Run",
+        "The Battle of Shiloh"
+      ],
+      "explanation": "Antietam, on September 17, 1862, was the bloodiest single day in American history.",
+      "memoryHook": "T-Rexy says: Antietam - the bloodiest single day!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "battles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_084",
+      "question": "Which battle was the turning point of the Civil War?",
+      "correctAnswer": "The Battle of Gettysburg",
+      "distractors": [
+        "The Battle of Antietam",
+        "The Battle of Fort Sumter",
+        "The Battle of Vicksburg"
+      ],
+      "explanation": "The Union victory at Gettysburg in July 1863 turned the war's tide.",
+      "memoryHook": "T-Rexy says: Gettysburg turned the tide of the war!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "battles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_085",
+      "question": "Where did General Lee surrender to General Grant in 1865?",
+      "correctAnswer": "Appomattox Court House, Virginia",
+      "distractors": [
+        "Gettysburg, Pennsylvania",
+        "Richmond, Virginia",
+        "Washington, D.C."
+      ],
+      "explanation": "Lee surrendered at Appomattox Court House on April 9, 1865.",
+      "memoryHook": "T-Rexy says: Appomattox - where the war ended!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "battles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_086",
+      "question": "What did the 13th Amendment do?",
+      "correctAnswer": "It abolished slavery in the United States",
+      "distractors": [
+        "It gave women the right to vote",
+        "It lowered the voting age",
+        "It created the income tax"
+      ],
+      "explanation": "The 13th Amendment (1865) ended slavery in the whole country.",
+      "memoryHook": "T-Rexy says: the 13th Amendment ended slavery!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_087",
+      "question": "What did the 14th Amendment do?",
+      "correctAnswer": "It gave citizenship and equal protection to all people born in the U.S.",
+      "distractors": [
+        "It ended slavery",
+        "It gave women the vote",
+        "It created the Senate"
+      ],
+      "explanation": "The 14th Amendment (1868) made formerly enslaved people citizens.",
+      "memoryHook": "T-Rexy says: the 14th Amendment made everyone born here a citizen!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_088",
+      "question": "What did the 15th Amendment do?",
+      "correctAnswer": "It said the right to vote could not be denied because of race",
+      "distractors": [
+        "It ended slavery",
+        "It gave women the vote",
+        "It banned alcohol"
+      ],
+      "explanation": "The 15th Amendment (1870) protected voting rights regardless of race.",
+      "memoryHook": "T-Rexy says: the 15th Amendment protected the right to vote!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_089",
+      "question": "What was the Underground Railroad?",
+      "correctAnswer": "A secret network that helped enslaved people escape to freedom",
+      "distractors": [
+        "A real railroad under the ground",
+        "A train line in New York",
+        "A road for wagons"
+      ],
+      "explanation": "Conductors guided freedom seekers to safe houses on the way north.",
+      "memoryHook": "T-Rexy says: the Underground Railroad was a secret path to freedom!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "underground-railroad"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_090",
+      "question": "Who was Harriet Tubman?",
+      "correctAnswer": "A formerly enslaved woman who led many people to freedom",
+      "distractors": [
+        "A Union general",
+        "The first woman president",
+        "A writer of the Constitution"
+      ],
+      "explanation": "Tubman escaped slavery and returned many times to guide others to freedom.",
+      "memoryHook": "T-Rexy says: Harriet Tubman led many to freedom!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "civil-war",
+        "heroes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_091",
+      "question": "When did Arizona become a state?",
+      "correctAnswer": "1912",
+      "distractors": [
+        "1848",
+        "1863",
+        "1900"
+      ],
+      "explanation": "Arizona became the 48th state on February 14, 1912.",
+      "memoryHook": "T-Rexy says: Arizona joined the Union in 1912 - Valentine's Day!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "arizona",
+        "statehood"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_092",
+      "question": "What is Arizona's nickname?",
+      "correctAnswer": "The Grand Canyon State",
+      "distractors": [
+        "The Sunshine State",
+        "The Lone Star State",
+        "The Golden State"
+      ],
+      "explanation": "The nickname comes from the Grand Canyon, a mile-deep gorge that draws millions of visitors to Arizona every year.",
+      "memoryHook": "T-Rexy says: Arizona is the Grand Canyon State!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "arizona",
+        "state"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_093",
+      "question": "What is the capital of Arizona?",
+      "correctAnswer": "Phoenix",
+      "distractors": [
+        "Tucson",
+        "Flagstaff",
+        "Sedona"
+      ],
+      "explanation": "Phoenix is Arizona's capital and largest city.",
+      "memoryHook": "T-Rexy says: Phoenix is Arizona's capital!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "arizona",
+        "state"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_094",
+      "question": "Which famous natural wonder is in northern Arizona?",
+      "correctAnswer": "The Grand Canyon",
+      "distractors": [
+        "Yellowstone",
+        "Niagara Falls",
+        "The Rocky Mountains"
+      ],
+      "explanation": "The Grand Canyon is a huge canyon carved by the Colorado River.",
+      "memoryHook": "T-Rexy says: the Grand Canyon is Arizona's giant wonder!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "arizona",
+        "geography"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_095",
+      "question": "What river carved the Grand Canyon?",
+      "correctAnswer": "The Colorado River",
+      "distractors": [
+        "The Mississippi River",
+        "The Rio Grande",
+        "The Gila River"
+      ],
+      "explanation": "The Colorado River cut through rock over millions of years.",
+      "memoryHook": "T-Rexy says: the Colorado River carved the canyon!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "arizona",
+        "geography"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_096",
+      "question": "Which desert covers much of southern Arizona?",
+      "correctAnswer": "The Sonoran Desert",
+      "distractors": [
+        "The Sahara Desert",
+        "The Mojave Desert",
+        "The Gobi Desert"
+      ],
+      "explanation": "The Sonoran Desert is home to saguaro cacti and many desert animals.",
+      "memoryHook": "T-Rexy says: the Sonoran Desert is home to the giant saguaro!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "arizona",
+        "geography"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_097",
+      "question": "What is the saguaro cactus?",
+      "correctAnswer": "A giant cactus that grows in the Sonoran Desert",
+      "distractors": [
+        "A type of tree in the forest",
+        "A flower that grows in the mountains",
+        "A small plant that lives in water"
+      ],
+      "explanation": "Saguaros can grow over 40 feet tall and live for 150 years.",
+      "memoryHook": "T-Rexy says: the saguaro is the giant of the desert!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "arizona",
+        "nature"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_098",
+      "question": "Which Native American nation has the largest reservation in Arizona?",
+      "correctAnswer": "The Navajo Nation",
+      "distractors": [
+        "The Cherokee Nation",
+        "The Sioux Nation",
+        "The Apache Nation only"
+      ],
+      "explanation": "The Navajo Nation is the largest reservation in the United States, mostly in Arizona.",
+      "memoryHook": "T-Rexy says: the Navajo Nation is the largest reservation!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "arizona",
+        "native-americans"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_099",
+      "question": "Why is the year 1787 important?",
+      "correctAnswer": "The Constitution was written",
+      "distractors": [
+        "The Declaration of Independence was adopted",
+        "The Civil War began",
+        "Arizona became a state"
+      ],
+      "explanation": "In 1787, delegates met in Philadelphia and wrote the Constitution, the supreme law of the land.",
+      "memoryHook": "T-Rexy says: 1787 - the year the Constitution was written!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "review",
+        "constitution"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH5_100",
+      "question": "Which document begins with 'We the People'?",
+      "correctAnswer": "The Constitution",
+      "distractors": [
+        "The Declaration of Independence",
+        "The Bill of Rights",
+        "The Mayflower Compact"
+      ],
+      "explanation": "The Constitution opens with 'We the People of the United States.'",
+      "memoryHook": "T-Rexy says: We the People opens the Constitution!",
+      "imageUrl": "topic:history",
+      "tags": [
+        "review",
+        "constitution"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

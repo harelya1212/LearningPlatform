@@ -1,0 +1,2017 @@
+{
+  "packId": "gr7-pre-algebra",
+  "title": "Pre-Algebra (7th Grade)",
+  "description": "Pre-Algebra (7th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "math",
+    "pre-algebra",
+    "7th"
+  ],
+  "questions": [
+    {
+      "id": "PAL7_001",
+      "question": "Solve for x: x/2 + 9 = 16.",
+      "correctAnswer": "x = 14",
+      "distractors": [
+        "x = 16",
+        "x = 12",
+        "x = 7"
+      ],
+      "explanation": "Subtract 9 to get x/2 = 7, then multiply by 2: x = 14.",
+      "memoryHook": "T-Rexy says: undo the addition first, then the division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_002",
+      "question": "What is the square root of 81?",
+      "correctAnswer": "9",
+      "distractors": [
+        "10",
+        "18",
+        "8"
+      ],
+      "explanation": "9 x 9 = 81, so the square root of 81 is 9.",
+      "memoryHook": "T-Rexy says: a square root undoes squaring.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "roots",
+        "square-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_003",
+      "question": "Simplify: 2(x + 2).",
+      "correctAnswer": "2x + 4",
+      "distractors": [
+        "3x + 2",
+        "4x + 2",
+        "x + 5"
+      ],
+      "explanation": "Multiply 2 by each term inside: 2x + 4.",
+      "memoryHook": "T-Rexy says: distribute means multiply the outside number by everything inside.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "distributive"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_004",
+      "question": "What is the square root of 64?",
+      "correctAnswer": "8",
+      "distractors": [
+        "9",
+        "16",
+        "7"
+      ],
+      "explanation": "8 x 8 = 64, so the square root of 64 is 8.",
+      "memoryHook": "T-Rexy says: a square root undoes squaring.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "roots",
+        "square-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_005",
+      "question": "Simplify: 5x + 8x.",
+      "correctAnswer": "13x",
+      "distractors": [
+        "14x^2",
+        "12",
+        "5x + 8"
+      ],
+      "explanation": "Add the coefficients: 5 + 8 = 13, so 13x.",
+      "memoryHook": "T-Rexy says: like terms share the same variable part.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "like-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_006",
+      "question": "Evaluate 5x - 2y when x = 4 and y = 3.",
+      "correctAnswer": "14",
+      "distractors": [
+        "16",
+        "-14",
+        "26"
+      ],
+      "explanation": "Substitute: 5 x 4 - 2 x 3 = 14.",
+      "memoryHook": "T-Rexy says: plug both numbers in, then multiply before subtracting.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_007",
+      "question": "A function table shows: when x = 1, y = 5; when x = 2, y = 8; when x = 3, y = 11. What is the rule?",
+      "correctAnswer": "y = 3x + 2",
+      "distractors": [
+        "y = 4x",
+        "y = x + 2",
+        "y = 5x - 2"
+      ],
+      "explanation": "y grows by 3 each time x grows by 1, so the rule multiplies x by 3. When x = 1, 3 x 1 = 3, and 3 + 2 = 5, so add 2: y = 3x + 2.",
+      "memoryHook": "T-Rexy says: check the pattern: how does y change when x grows by 1?",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "functions",
+        "tables"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_008",
+      "question": "Write 2500 in scientific notation.",
+      "correctAnswer": "2.5 x 10^3",
+      "distractors": [
+        "3.5 x 10^2",
+        "25 x 10^3",
+        "0.25 x 10^4"
+      ],
+      "explanation": "Move the decimal point to make a number from 1 to 10, then count the places moved.",
+      "memoryHook": "T-Rexy says: scientific notation has one digit before the decimal point.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "scientific-notation",
+        "powers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_009",
+      "question": "A function table shows: when x = 1, y = 6; when x = 2, y = 9; when x = 3, y = 12. What is the rule?",
+      "correctAnswer": "y = 3x + 3",
+      "distractors": [
+        "y = 4x",
+        "y = x + 2",
+        "y = 5x - 3"
+      ],
+      "explanation": "y grows by 3 each time x grows by 1, so the rule multiplies x by 3. When x = 1, 3 x 1 = 3, and 3 + 3 = 6, so add 3: y = 3x + 3.",
+      "memoryHook": "T-Rexy says: check the pattern: how does y change when x grows by 1?",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "functions",
+        "tables"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_010",
+      "question": "Evaluate 2x + 7 when x = 6.",
+      "correctAnswer": "19",
+      "distractors": [
+        "21",
+        "15",
+        "18"
+      ],
+      "explanation": "Substitute 6 for x: 2 x 6 + 7 = 19.",
+      "memoryHook": "T-Rexy says: plug the number in, then follow the order of operations.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_011",
+      "question": "Solve for x: 3x - 3 = 18.",
+      "correctAnswer": "x = 7",
+      "distractors": [
+        "x = 8",
+        "x = 6",
+        "x = 21"
+      ],
+      "explanation": "Add 3 first, then divide by 3: x = 7.",
+      "memoryHook": "T-Rexy says: undo in reverse order: subtraction first, then division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_012",
+      "question": "Solve for x: 3x + 5 = 14.",
+      "correctAnswer": "x = 3",
+      "distractors": [
+        "x = 4",
+        "x = 5",
+        "x = 9"
+      ],
+      "explanation": "Subtract 5 first, then divide by 3: x = 3.",
+      "memoryHook": "T-Rexy says: undo in reverse order: addition first, then multiplication.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_013",
+      "question": "Caleb buys 5 notebooks and one pen for $3. The total is $23. Which equation finds the price of one notebook?",
+      "correctAnswer": "5x + 3 = 23",
+      "distractors": [
+        "6x - 3 = 23",
+        "x + 3 = 23",
+        "4x = 23"
+      ],
+      "explanation": "5 items at an unknown price plus $3 equals $23.",
+      "memoryHook": "T-Rexy says: let x be the unknown price, then build the total.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_014",
+      "question": "Solve for x: x - 13 = 27.",
+      "correctAnswer": "x = 40",
+      "distractors": [
+        "x = 14",
+        "x = -14",
+        "x = 41"
+      ],
+      "explanation": "Add 13 to both sides: x = 27 + 13 = 40.",
+      "memoryHook": "T-Rexy says: do the opposite operation to both sides.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "one-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_015",
+      "question": "Solve: 10% of what number is 8?",
+      "correctAnswer": "80",
+      "distractors": [
+        "8",
+        "100",
+        "16"
+      ],
+      "explanation": "8 is 10% of 80, because 80 x 10% = 8.",
+      "memoryHook": "T-Rexy says: part equals percent times whole.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "percent",
+        "equations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_016",
+      "question": "Which number has an absolute value of 9?",
+      "correctAnswer": "-9",
+      "distractors": [
+        "0",
+        "10",
+        "-10"
+      ],
+      "explanation": "Both 9 and -9 have absolute value 9.",
+      "memoryHook": "T-Rexy says: absolute value measures distance from zero.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "absolute-value",
+        "integers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_017",
+      "question": "Evaluate -7x + 2 when x = 6.",
+      "correctAnswer": "-40",
+      "distractors": [
+        "40",
+        "-36",
+        "42"
+      ],
+      "explanation": "Substitute: -7 x 6 + 2 = -40.",
+      "memoryHook": "T-Rexy says: watch the negative sign all the way through.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_018",
+      "question": "A square has a perimeter of 44 cm. What is the length of one side?",
+      "correctAnswer": "11 cm",
+      "distractors": [
+        "22 cm",
+        "13 cm",
+        "23 cm"
+      ],
+      "explanation": "A square has 4 equal sides, so divide the perimeter by 4: 44 / 4 = 11 cm.",
+      "memoryHook": "T-Rexy says: perimeter of a square is 4 times one side.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "geometry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_019",
+      "question": "What is the y-intercept of the line y = 2x + 3?",
+      "correctAnswer": "3",
+      "distractors": [
+        "2",
+        "0",
+        "4"
+      ],
+      "explanation": "In y = mx + b, the y-intercept is b, which is 3.",
+      "memoryHook": "T-Rexy says: the y-intercept is the number added at the end.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "slope",
+        "linear"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_020",
+      "question": "What is 2^3?",
+      "correctAnswer": "8",
+      "distractors": [
+        "6",
+        "5",
+        "9"
+      ],
+      "explanation": "2^3 means 2 x 2 x 2 = 8.",
+      "memoryHook": "T-Rexy says: an exponent counts how many times the base multiplies itself.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_021",
+      "question": "What is the cube root of 8?",
+      "correctAnswer": "2",
+      "distractors": [
+        "3",
+        "4",
+        "5"
+      ],
+      "explanation": "2 x 2 x 2 = 8, so the cube root of 8 is 2.",
+      "memoryHook": "T-Rexy says: a cube root asks what number times itself three times.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "roots",
+        "cube-roots"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_022",
+      "question": "What is the y-intercept of the line y = 3x + 1?",
+      "correctAnswer": "1",
+      "distractors": [
+        "3",
+        "0",
+        "2"
+      ],
+      "explanation": "In y = mx + b, the y-intercept is b, which is 1.",
+      "memoryHook": "T-Rexy says: the y-intercept is the number added at the end.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "slope",
+        "linear"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_023",
+      "question": "Solve for x: 5x - 14 = 16.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 5",
+        "x = 30"
+      ],
+      "explanation": "Add 14 first, then divide by 5: x = 6.",
+      "memoryHook": "T-Rexy says: undo in reverse order: subtraction first, then division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_024",
+      "question": "Simplify: 4x + 5x.",
+      "correctAnswer": "9x",
+      "distractors": [
+        "10x^2",
+        "8",
+        "4x + 5"
+      ],
+      "explanation": "Add the coefficients: 4 + 5 = 9, so 9x.",
+      "memoryHook": "T-Rexy says: like terms share the same variable part.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "like-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_025",
+      "question": "A line passes through (4, 12) and (6, 18). What is its slope?",
+      "correctAnswer": "3",
+      "distractors": [
+        "4",
+        "1/3",
+        "2"
+      ],
+      "explanation": "Slope = change in y over change in x = 6 / 2 = 3.",
+      "memoryHook": "T-Rexy says: slope is rise over run.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "slope",
+        "linear"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_026",
+      "question": "Which value of x satisfies 3x < 21?",
+      "correctAnswer": "x = 5",
+      "distractors": [
+        "x = 7",
+        "x = 9",
+        "x = 21"
+      ],
+      "explanation": "3 times 5 is 15, which is less than 21. The others give 21 or more.",
+      "memoryHook": "T-Rexy says: test the value in the inequality.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "inequalities",
+        "solve"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_027",
+      "question": "A line passes through (2, 8) and (5, 20). What is its slope?",
+      "correctAnswer": "4",
+      "distractors": [
+        "5",
+        "1/4",
+        "3"
+      ],
+      "explanation": "Slope = change in y over change in x = 12 / 3 = 4.",
+      "memoryHook": "T-Rexy says: slope is rise over run.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "slope",
+        "linear"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_028",
+      "question": "Which value of x makes x + 6 > 23 true?",
+      "correctAnswer": "x = 21",
+      "distractors": [
+        "x = 15",
+        "x = 17",
+        "x = 12"
+      ],
+      "explanation": "x must be greater than 17, and 21 is greater than 17.",
+      "memoryHook": "T-Rexy says: solve an inequality like an equation, then check the direction.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "inequalities",
+        "solve"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_029",
+      "question": "Evaluate -4x + 2 when x = 3.",
+      "correctAnswer": "-10",
+      "distractors": [
+        "10",
+        "-6",
+        "12"
+      ],
+      "explanation": "Substitute: -4 x 3 + 2 = -10.",
+      "memoryHook": "T-Rexy says: watch the negative sign all the way through.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_030",
+      "question": "Solve for x: 6x = 66.",
+      "correctAnswer": "x = 11",
+      "distractors": [
+        "x = 12",
+        "x = 66",
+        "x = 10"
+      ],
+      "explanation": "Divide both sides by 6: x = 66 / 6 = 11.",
+      "memoryHook": "T-Rexy says: undo multiplication with division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "one-step"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_031",
+      "question": "What is 5^3?",
+      "correctAnswer": "125",
+      "distractors": [
+        "15",
+        "8",
+        "126"
+      ],
+      "explanation": "5^3 means 5 x 5 x 5 = 125.",
+      "memoryHook": "T-Rexy says: an exponent counts how many times the base multiplies itself.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_032",
+      "question": "Solve for x: 2x + 11 = 23.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 8",
+        "x = 12"
+      ],
+      "explanation": "Subtract 11 first, then divide by 2: x = 6.",
+      "memoryHook": "T-Rexy says: undo in reverse order: addition first, then multiplication.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_033",
+      "question": "Solve for x: x/3 = 11.",
+      "correctAnswer": "x = 33",
+      "distractors": [
+        "x = 11",
+        "x = 14",
+        "x = 34"
+      ],
+      "explanation": "Multiply both sides by 3: x = 11 x 3 = 33.",
+      "memoryHook": "T-Rexy says: undo division with multiplication.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "one-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_034",
+      "question": "Solve for x: 3x - 5 = 16.",
+      "correctAnswer": "x = 7",
+      "distractors": [
+        "x = 8",
+        "x = 6",
+        "x = 21"
+      ],
+      "explanation": "Add 5 first, then divide by 3: x = 7.",
+      "memoryHook": "T-Rexy says: undo in reverse order: subtraction first, then division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_035",
+      "question": "Solve for x: x + 13 = 17.",
+      "correctAnswer": "x = 4",
+      "distractors": [
+        "x = 30",
+        "x = -4",
+        "x = 6"
+      ],
+      "explanation": "Subtract 13 from both sides: x = 17 - 13 = 4.",
+      "memoryHook": "T-Rexy says: do the opposite operation to both sides.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "one-step"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_036",
+      "question": "Which value of x makes x + 6 > 17 true?",
+      "correctAnswer": "x = 15",
+      "distractors": [
+        "x = 9",
+        "x = 11",
+        "x = 6"
+      ],
+      "explanation": "x must be greater than 11, and 15 is greater than 11.",
+      "memoryHook": "T-Rexy says: solve an inequality like an equation, then check the direction.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "inequalities",
+        "solve"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_037",
+      "question": "Write an expression for: the product of 6 and a number.",
+      "correctAnswer": "6x",
+      "distractors": [
+        "x - 7",
+        "8x",
+        "x + 3"
+      ],
+      "explanation": "Product means multiply, and 'a number' is the unknown x, so multiply 6 by x: 6x.",
+      "memoryHook": "T-Rexy says: sum means add, product means multiply.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "translate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_038",
+      "question": "Simplify: 4x + 6x.",
+      "correctAnswer": "10x",
+      "distractors": [
+        "11x^2",
+        "9",
+        "4x + 6"
+      ],
+      "explanation": "Add the coefficients: 4 + 6 = 10, so 10x.",
+      "memoryHook": "T-Rexy says: like terms share the same variable part.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "like-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_039",
+      "question": "Solve for x: x - 5 = 26.",
+      "correctAnswer": "x = 31",
+      "distractors": [
+        "x = 21",
+        "x = -21",
+        "x = 32"
+      ],
+      "explanation": "Add 5 to both sides: x = 26 + 5 = 31.",
+      "memoryHook": "T-Rexy says: do the opposite operation to both sides.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "one-step"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_040",
+      "question": "Solve for x: x + 20 = 21.",
+      "correctAnswer": "x = 1",
+      "distractors": [
+        "x = 41",
+        "x = -1",
+        "x = 3"
+      ],
+      "explanation": "Subtract 20 from both sides: x = 21 - 20 = 1.",
+      "memoryHook": "T-Rexy says: do the opposite operation to both sides.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "one-step"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_041",
+      "question": "Which value of x makes x + 7 > 15 true?",
+      "correctAnswer": "x = 10",
+      "distractors": [
+        "x = 6",
+        "x = 8",
+        "x = 3"
+      ],
+      "explanation": "x must be greater than 8, and 10 is greater than 8.",
+      "memoryHook": "T-Rexy says: solve an inequality like an equation, then check the direction.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "inequalities",
+        "solve"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_042",
+      "question": "Solve for x: -9x = -36.",
+      "correctAnswer": "x = 4",
+      "distractors": [
+        "x = -4",
+        "x = 5",
+        "x = 9"
+      ],
+      "explanation": "Divide both sides by -9: x = 4.",
+      "memoryHook": "T-Rexy says: a negative divided by a negative is positive.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "integers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_043",
+      "question": "Solve for x: x/3 + 3 = 6.",
+      "correctAnswer": "x = 9",
+      "distractors": [
+        "x = 12",
+        "x = 6",
+        "x = 3"
+      ],
+      "explanation": "Subtract 3 to get x/3 = 3, then multiply by 3: x = 9.",
+      "memoryHook": "T-Rexy says: undo the addition first, then the division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_044",
+      "question": "Simplify: 5(x + 5).",
+      "correctAnswer": "5x + 25",
+      "distractors": [
+        "6x + 5",
+        "25x + 5",
+        "x + 26"
+      ],
+      "explanation": "Multiply 5 by each term inside: 5x + 25.",
+      "memoryHook": "T-Rexy says: distribute means multiply the outside number by everything inside.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "distributive"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_045",
+      "question": "What is the y-intercept of the line y = 4x + 6?",
+      "correctAnswer": "6",
+      "distractors": [
+        "4",
+        "0",
+        "7"
+      ],
+      "explanation": "In y = mx + b, the y-intercept is b, which is 6.",
+      "memoryHook": "T-Rexy says: the y-intercept is the number added at the end.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "slope",
+        "linear"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_046",
+      "question": "Solve for x: 4(x + 6) = 56.",
+      "correctAnswer": "x = 8",
+      "distractors": [
+        "x = 9",
+        "x = 14",
+        "x = 15"
+      ],
+      "explanation": "Divide both sides by 4 to get x + 6 = 14, then subtract 6: x = 8.",
+      "memoryHook": "T-Rexy says: divide first to unwrap the parentheses.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "distributive"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_047",
+      "question": "Simplify: 3(x + 9).",
+      "correctAnswer": "3x + 27",
+      "distractors": [
+        "4x + 9",
+        "27x + 3",
+        "x + 28"
+      ],
+      "explanation": "Multiply 3 by each term inside: 3x + 27.",
+      "memoryHook": "T-Rexy says: distribute means multiply the outside number by everything inside.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "distributive"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_048",
+      "question": "Ava buys 5 T-shirts and one hat for $8. The total is $83. Which equation finds the price of one T-shirt?",
+      "correctAnswer": "5x + 8 = 83",
+      "distractors": [
+        "6x - 8 = 83",
+        "x + 8 = 83",
+        "4x = 83"
+      ],
+      "explanation": "5 items at an unknown price plus $8 equals $83.",
+      "memoryHook": "T-Rexy says: let x be the unknown price, then build the total.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_049",
+      "question": "Evaluate 2x + 6 when x = 6.",
+      "correctAnswer": "18",
+      "distractors": [
+        "20",
+        "14",
+        "17"
+      ],
+      "explanation": "Substitute 6 for x: 2 x 6 + 6 = 18.",
+      "memoryHook": "T-Rexy says: plug the number in, then follow the order of operations.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_050",
+      "question": "Lucas buys 3 T-shirts and one hat for $8. The total is $53. Which equation finds the price of one T-shirt?",
+      "correctAnswer": "3x + 8 = 53",
+      "distractors": [
+        "4x - 8 = 53",
+        "x + 8 = 53",
+        "2x = 53"
+      ],
+      "explanation": "3 items at an unknown price plus $8 equals $53.",
+      "memoryHook": "T-Rexy says: let x be the unknown price, then build the total.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_051",
+      "question": "Evaluate 3x + 2 when x = 3.",
+      "correctAnswer": "11",
+      "distractors": [
+        "13",
+        "8",
+        "10"
+      ],
+      "explanation": "Substitute 3 for x: 3 x 3 + 2 = 11.",
+      "memoryHook": "T-Rexy says: plug the number in, then follow the order of operations.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_052",
+      "question": "Solve for x: 5x + 9 = 49.",
+      "correctAnswer": "x = 8",
+      "distractors": [
+        "x = 9",
+        "x = 10",
+        "x = 40"
+      ],
+      "explanation": "Subtract 9 first, then divide by 5: x = 8.",
+      "memoryHook": "T-Rexy says: undo in reverse order: addition first, then multiplication.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_053",
+      "question": "What is the cube root of 64?",
+      "correctAnswer": "4",
+      "distractors": [
+        "5",
+        "8",
+        "16"
+      ],
+      "explanation": "4 x 4 x 4 = 64, so the cube root of 64 is 4.",
+      "memoryHook": "T-Rexy says: a cube root asks what number times itself three times.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "roots",
+        "cube-roots"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_054",
+      "question": "What is the slope of the line y = 3x + 3?",
+      "correctAnswer": "3",
+      "distractors": [
+        "4",
+        "1/3",
+        "5"
+      ],
+      "explanation": "In y = mx + b, the slope is the number times x: 3.",
+      "memoryHook": "T-Rexy says: slope is the number in front of x.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "slope",
+        "linear"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_055",
+      "question": "Simplify: 3^2 x 3^4. Write your answer as a power of 3.",
+      "correctAnswer": "3^6",
+      "distractors": [
+        "4^8",
+        "2^-2",
+        "5^7"
+      ],
+      "explanation": "When multiplying powers with the same base, add the exponents: 2 + 4 = 6.",
+      "memoryHook": "T-Rexy says: same base, multiply: add the exponents.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_056",
+      "question": "Solve for x: x/2 + 8 = 11.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 8",
+        "x = 4",
+        "x = 3"
+      ],
+      "explanation": "Subtract 8 to get x/2 = 3, then multiply by 2: x = 6.",
+      "memoryHook": "T-Rexy says: undo the addition first, then the division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_057",
+      "question": "Solve for x: 2x = 14.",
+      "correctAnswer": "x = 7",
+      "distractors": [
+        "x = 8",
+        "x = 14",
+        "x = 6"
+      ],
+      "explanation": "Divide both sides by 2: x = 14 / 2 = 7.",
+      "memoryHook": "T-Rexy says: undo multiplication with division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "one-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_058",
+      "question": "What is the square root of 144?",
+      "correctAnswer": "12",
+      "distractors": [
+        "13",
+        "24",
+        "11"
+      ],
+      "explanation": "12 x 12 = 144, so the square root of 144 is 12.",
+      "memoryHook": "T-Rexy says: a square root undoes squaring.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "roots",
+        "square-roots"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_059",
+      "question": "What is the slope of the line y = 5x + 3?",
+      "correctAnswer": "5",
+      "distractors": [
+        "3",
+        "1/5",
+        "6"
+      ],
+      "explanation": "In y = mx + b, the slope is the number times x: 5.",
+      "memoryHook": "T-Rexy says: slope is the number in front of x.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "slope",
+        "linear"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_060",
+      "question": "Evaluate: 5 + 3 x 5.",
+      "correctAnswer": "20",
+      "distractors": [
+        "40",
+        "21",
+        "22"
+      ],
+      "explanation": "Multiply first: 3 x 5 = 15, then add 5 to get 20.",
+      "memoryHook": "T-Rexy says: multiplication comes before addition.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "order-of-operations",
+        "evaluate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_061",
+      "question": "Solve for x: x/2 + 2 = 10.",
+      "correctAnswer": "x = 16",
+      "distractors": [
+        "x = 18",
+        "x = 14",
+        "x = 8"
+      ],
+      "explanation": "Subtract 2 to get x/2 = 8, then multiply by 2: x = 16.",
+      "memoryHook": "T-Rexy says: undo the addition first, then the division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_062",
+      "question": "Which number has an absolute value of 7?",
+      "correctAnswer": "-7",
+      "distractors": [
+        "0",
+        "8",
+        "-8"
+      ],
+      "explanation": "Both 7 and -7 have absolute value 7.",
+      "memoryHook": "T-Rexy says: absolute value measures distance from zero.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "absolute-value",
+        "integers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_063",
+      "question": "Write an expression for: a number divided by 4.",
+      "correctAnswer": "x/4",
+      "distractors": [
+        "x - 7",
+        "8x",
+        "x + 3"
+      ],
+      "explanation": "Divided by 4 means the number is split into 4 equal parts, and 'a number' is the unknown x, so write x/4.",
+      "memoryHook": "T-Rexy says: divided by means split into equal parts.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "translate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_064",
+      "question": "Solve for x: 5x + 8 = 18.",
+      "correctAnswer": "x = 2",
+      "distractors": [
+        "x = 3",
+        "x = 4",
+        "x = 10"
+      ],
+      "explanation": "Subtract 8 first, then divide by 5: x = 2.",
+      "memoryHook": "T-Rexy says: undo in reverse order: addition first, then multiplication.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_065",
+      "question": "Evaluate 5x + 2 when x = 4.",
+      "correctAnswer": "22",
+      "distractors": [
+        "24",
+        "11",
+        "21"
+      ],
+      "explanation": "Substitute 4 for x: 5 x 4 + 2 = 22.",
+      "memoryHook": "T-Rexy says: plug the number in, then follow the order of operations.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_066",
+      "question": "Simplify: 4x + 3x.",
+      "correctAnswer": "7x",
+      "distractors": [
+        "8x^2",
+        "6",
+        "4x + 3"
+      ],
+      "explanation": "Add the coefficients: 4 + 3 = 7, so 7x.",
+      "memoryHook": "T-Rexy says: like terms share the same variable part.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "like-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_067",
+      "question": "Evaluate 4x - 5y when x = 2 and y = 2.",
+      "correctAnswer": "-2",
+      "distractors": [
+        "0",
+        "2",
+        "18"
+      ],
+      "explanation": "Substitute: 4 x 2 - 5 x 2 = -2.",
+      "memoryHook": "T-Rexy says: plug both numbers in, then multiply before subtracting.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_068",
+      "question": "Solve for x: 5x + 12 = 27.",
+      "correctAnswer": "x = 3",
+      "distractors": [
+        "x = 4",
+        "x = 5",
+        "x = 15"
+      ],
+      "explanation": "Subtract 12 first, then divide by 5: x = 3.",
+      "memoryHook": "T-Rexy says: undo in reverse order: addition first, then multiplication.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_069",
+      "question": "Evaluate -7x + 3 when x = 6.",
+      "correctAnswer": "-39",
+      "distractors": [
+        "39",
+        "-35",
+        "42"
+      ],
+      "explanation": "Substitute: -7 x 6 + 3 = -39.",
+      "memoryHook": "T-Rexy says: watch the negative sign all the way through.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_070",
+      "question": "Solve for x: 4(x + 3) = 36.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 9",
+        "x = 10"
+      ],
+      "explanation": "Divide both sides by 4 to get x + 3 = 9, then subtract 3: x = 6.",
+      "memoryHook": "T-Rexy says: divide first to unwrap the parentheses.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "distributive"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_071",
+      "question": "Evaluate: 5 + 2 x 3.",
+      "correctAnswer": "11",
+      "distractors": [
+        "21",
+        "13",
+        "12"
+      ],
+      "explanation": "Multiply first: 2 x 3 = 6, then add 5 to get 11.",
+      "memoryHook": "T-Rexy says: multiplication comes before addition.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "order-of-operations",
+        "evaluate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_072",
+      "question": "Does the table x: 2, 4, 6 and y: 3, 6, 9 show a proportional relationship?",
+      "correctAnswer": "Yes, y is always 1.5 times x",
+      "distractors": [
+        "No, the ratios are different",
+        "Yes, because x increases by 2",
+        "No, because y is bigger than x"
+      ],
+      "explanation": "y/x is 3/2 every time, so the relationship is proportional.",
+      "memoryHook": "T-Rexy says: equal ratios in every row means proportional.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "proportions",
+        "tables"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_073",
+      "question": "A function table shows: when x = 1, y = 3; when x = 2, y = 5; when x = 3, y = 7. What is the rule?",
+      "correctAnswer": "y = 2x + 1",
+      "distractors": [
+        "y = 3x",
+        "y = x + 1",
+        "y = 4x - 1"
+      ],
+      "explanation": "y grows by 2 each time x grows by 1, so the rule multiplies x by 2. When x = 1, 2 x 1 = 2, and 2 + 1 = 3, so add 1: y = 2x + 1.",
+      "memoryHook": "T-Rexy says: check the pattern: how does y change when x grows by 1?",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "functions",
+        "tables"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_074",
+      "question": "Solve for x: 2x - 3 = 5.",
+      "correctAnswer": "x = 4",
+      "distractors": [
+        "x = 5",
+        "x = 3",
+        "x = 8"
+      ],
+      "explanation": "Add 3 first, then divide by 2: x = 4.",
+      "memoryHook": "T-Rexy says: undo in reverse order: subtraction first, then division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_075",
+      "question": "Solve for x: x - 3 = 13.",
+      "correctAnswer": "x = 16",
+      "distractors": [
+        "x = 10",
+        "x = -10",
+        "x = 17"
+      ],
+      "explanation": "Add 3 to both sides: x = 13 + 3 = 16.",
+      "memoryHook": "T-Rexy says: do the opposite operation to both sides.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "one-step"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_076",
+      "question": "Solve for x: x/2 + 6 = 11.",
+      "correctAnswer": "x = 10",
+      "distractors": [
+        "x = 12",
+        "x = 8",
+        "x = 5"
+      ],
+      "explanation": "Subtract 6 to get x/2 = 5, then multiply by 2: x = 10.",
+      "memoryHook": "T-Rexy says: undo the addition first, then the division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_077",
+      "question": "Solve: 10% of what number is 12?",
+      "correctAnswer": "120",
+      "distractors": [
+        "12",
+        "140",
+        "24"
+      ],
+      "explanation": "12 is 10% of 120, because 120 x 10% = 12.",
+      "memoryHook": "T-Rexy says: part equals percent times whole.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "percent",
+        "equations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_078",
+      "question": "Solve for x: 4x - 12 = 0.",
+      "correctAnswer": "x = 3",
+      "distractors": [
+        "x = 4",
+        "x = 2",
+        "x = 12"
+      ],
+      "explanation": "Add 12 first, then divide by 4: x = 3.",
+      "memoryHook": "T-Rexy says: undo in reverse order: subtraction first, then division.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_079",
+      "question": "What is the slope of the line y = 5x + 1?",
+      "correctAnswer": "5",
+      "distractors": [
+        "1",
+        "1/5",
+        "6"
+      ],
+      "explanation": "In y = mx + b, the slope is the number times x: 5.",
+      "memoryHook": "T-Rexy says: slope is the number in front of x.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "slope",
+        "linear"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_080",
+      "question": "Solve for x: 3(x + 3) = 27.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 9",
+        "x = 10"
+      ],
+      "explanation": "Divide both sides by 3 to get x + 3 = 9, then subtract 3: x = 6.",
+      "memoryHook": "T-Rexy says: divide first to unwrap the parentheses.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "distributive"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_081",
+      "question": "A line passes through (4, 20) and (6, 30). What is its slope?",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "1/5",
+        "2"
+      ],
+      "explanation": "Slope = change in y over change in x = 10 / 2 = 5.",
+      "memoryHook": "T-Rexy says: slope is rise over run.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "slope",
+        "linear"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_082",
+      "question": "Solve for x: 5x + 7 = 32.",
+      "correctAnswer": "x = 5",
+      "distractors": [
+        "x = 6",
+        "x = 7",
+        "x = 25"
+      ],
+      "explanation": "Subtract 7 first, then divide by 5: x = 5.",
+      "memoryHook": "T-Rexy says: undo in reverse order: addition first, then multiplication.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "two-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_083",
+      "question": "Evaluate 9x + 7 when x = 3.",
+      "correctAnswer": "34",
+      "distractors": [
+        "36",
+        "19",
+        "33"
+      ],
+      "explanation": "Substitute 3 for x: 9 x 3 + 7 = 34.",
+      "memoryHook": "T-Rexy says: plug the number in, then follow the order of operations.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_084",
+      "question": "Which value of x makes x + 4 > 10 true?",
+      "correctAnswer": "x = 11",
+      "distractors": [
+        "x = 4",
+        "x = 6",
+        "x = 1"
+      ],
+      "explanation": "x must be greater than 6, and 11 is greater than 6.",
+      "memoryHook": "T-Rexy says: solve an inequality like an equation, then check the direction.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "inequalities",
+        "solve"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_085",
+      "question": "Solve for x: 3(x + 2) = 24.",
+      "correctAnswer": "x = 6",
+      "distractors": [
+        "x = 7",
+        "x = 8",
+        "x = 9"
+      ],
+      "explanation": "Divide both sides by 3 to get x + 2 = 8, then subtract 2: x = 6.",
+      "memoryHook": "T-Rexy says: divide first to unwrap the parentheses.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "distributive"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_086",
+      "question": "Solve for x: -4x = -16.",
+      "correctAnswer": "x = 4",
+      "distractors": [
+        "x = -4",
+        "x = 5",
+        "x = 3"
+      ],
+      "explanation": "Divide both sides by -4: x = 4.",
+      "memoryHook": "T-Rexy says: a negative divided by a negative is positive.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "integers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_087",
+      "question": "Evaluate: 5 + 6 x 6.",
+      "correctAnswer": "41",
+      "distractors": [
+        "66",
+        "36",
+        "42"
+      ],
+      "explanation": "Multiply first: 6 x 6 = 36, then add 5 to get 41.",
+      "memoryHook": "T-Rexy says: multiplication comes before addition.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "order-of-operations",
+        "evaluate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_088",
+      "question": "Solve: 25% of what number is 30?",
+      "correctAnswer": "120",
+      "distractors": [
+        "30",
+        "140",
+        "60"
+      ],
+      "explanation": "30 is 25% of 120, because 120 x 25% = 30.",
+      "memoryHook": "T-Rexy says: part equals percent times whole.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "percent",
+        "equations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_089",
+      "question": "Solve for x: x/8 = 7.",
+      "correctAnswer": "x = 56",
+      "distractors": [
+        "x = 7",
+        "x = 15",
+        "x = 57"
+      ],
+      "explanation": "Multiply both sides by 8: x = 7 x 8 = 56.",
+      "memoryHook": "T-Rexy says: undo division with multiplication.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "one-step"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_090",
+      "question": "Simplify: 2(x + 8).",
+      "correctAnswer": "2x + 16",
+      "distractors": [
+        "3x + 8",
+        "16x + 2",
+        "x + 17"
+      ],
+      "explanation": "Multiply 2 by each term inside: 2x + 16.",
+      "memoryHook": "T-Rexy says: distribute means multiply the outside number by everything inside.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "distributive"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_091",
+      "question": "What is the greatest common factor of 15 and 25?",
+      "correctAnswer": "5",
+      "distractors": [
+        "10",
+        "4",
+        "15"
+      ],
+      "explanation": "Factors of 15 are 1, 3, 5, 15; factors of 25 are 1, 5, 25. The biggest number on both lists is 5.",
+      "memoryHook": "T-Rexy says: list the factors and find the biggest match.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "factors",
+        "gcf"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_092",
+      "question": "Solve for x: x - 12 = 19.",
+      "correctAnswer": "x = 31",
+      "distractors": [
+        "x = 7",
+        "x = -7",
+        "x = 32"
+      ],
+      "explanation": "Add 12 to both sides: x = 19 + 12 = 31.",
+      "memoryHook": "T-Rexy says: do the opposite operation to both sides.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "one-step"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_093",
+      "question": "What is the square root of 49?",
+      "correctAnswer": "7",
+      "distractors": [
+        "8",
+        "14",
+        "6"
+      ],
+      "explanation": "7 x 7 = 49, so the square root of 49 is 7.",
+      "memoryHook": "T-Rexy says: a square root undoes squaring.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "roots",
+        "square-roots"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_094",
+      "question": "Evaluate 4x - 6y when x = 5 and y = 2.",
+      "correctAnswer": "8",
+      "distractors": [
+        "10",
+        "-8",
+        "32"
+      ],
+      "explanation": "Substitute: 4 x 5 - 6 x 2 = 8.",
+      "memoryHook": "T-Rexy says: plug both numbers in, then multiply before subtracting.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_095",
+      "question": "A square has a perimeter of 20 cm. What is the length of one side?",
+      "correctAnswer": "5 cm",
+      "distractors": [
+        "10 cm",
+        "7 cm",
+        "11 cm"
+      ],
+      "explanation": "A square has 4 equal sides, so divide the perimeter by 4: 20 / 4 = 5 cm.",
+      "memoryHook": "T-Rexy says: perimeter of a square is 4 times one side.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "geometry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_096",
+      "question": "What is 3^3?",
+      "correctAnswer": "27",
+      "distractors": [
+        "9",
+        "6",
+        "28"
+      ],
+      "explanation": "3^3 means 3 x 3 x 3 = 27.",
+      "memoryHook": "T-Rexy says: an exponent counts how many times the base multiplies itself.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_097",
+      "question": "Lucas buys 2 tickets and one snack for $4. The total is $22. Which equation finds the price of one ticket?",
+      "correctAnswer": "2x + 4 = 22",
+      "distractors": [
+        "3x - 4 = 22",
+        "x + 4 = 22",
+        "1x = 22"
+      ],
+      "explanation": "2 items at an unknown price plus $4 equals $22.",
+      "memoryHook": "T-Rexy says: let x be the unknown price, then build the total.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "equations",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_098",
+      "question": "What is 4^2?",
+      "correctAnswer": "16",
+      "distractors": [
+        "8",
+        "6",
+        "17"
+      ],
+      "explanation": "4^2 means 4 x 4 = 16.",
+      "memoryHook": "T-Rexy says: an exponent counts how many times the base multiplies itself.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_099",
+      "question": "Write an expression for: 7 less than a number.",
+      "correctAnswer": "x - 7",
+      "distractors": [
+        "x + 8",
+        "6x",
+        "x + 3"
+      ],
+      "explanation": "'Less than' means subtract, and the 7 comes after the number, so start with x and take away 7: x - 7.",
+      "memoryHook": "T-Rexy says: less than means subtract, and the number comes first.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "translate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL7_100",
+      "question": "Evaluate 4x - 6y when x = 4 and y = 3.",
+      "correctAnswer": "-2",
+      "distractors": [
+        "0",
+        "2",
+        "34"
+      ],
+      "explanation": "Substitute: 4 x 4 - 6 x 3 = -2.",
+      "memoryHook": "T-Rexy says: plug both numbers in, then multiply before subtracting.",
+      "imageUrl": "topic:prealgebra",
+      "tags": [
+        "expressions",
+        "evaluate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

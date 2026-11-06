@@ -1,0 +1,2016 @@
+{
+  "packId": "gr7-math",
+  "title": "Math (7th Grade)",
+  "description": "Math (7th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "math",
+    "7th"
+  ],
+  "questions": [
+    {
+      "id": "MAT7_001",
+      "question": "What is 75% of 40?",
+      "correctAnswer": "30",
+      "distractors": [
+        "40",
+        "25",
+        "115"
+      ],
+      "explanation": "75% of 40 is 75 x 40 / 100 = 30.",
+      "memoryHook": "T-Rexy says: percent means out of one hundred.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_002",
+      "question": "A car travels 180 miles in 3 hours. What is its speed in miles per hour?",
+      "correctAnswer": "60 mph",
+      "distractors": [
+        "540 mph",
+        "183 mph",
+        "65 mph"
+      ],
+      "explanation": "Speed = distance / time = 180 / 3 = 60 mph.",
+      "memoryHook": "T-Rexy says: miles per hour means miles divided by hours.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_003",
+      "question": "What is -35 / (5)?",
+      "correctAnswer": "-7",
+      "distractors": [
+        "7",
+        "-6",
+        "-35"
+      ],
+      "explanation": "A negative divided by a positive is negative: 35 ÷ 5 = 7, so -35 ÷ 5 = -7.",
+      "memoryHook": "T-Rexy says: division follows the same sign rules as multiplication.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "division"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_004",
+      "question": "What is 7/10 as a percent?",
+      "correctAnswer": "70%",
+      "distractors": [
+        "10%",
+        "5%",
+        "90%"
+      ],
+      "explanation": "7/10 means 7 out of 10, which is 70%.",
+      "memoryHook": "T-Rexy says: divide the top by the bottom, then multiply by 100.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "percent"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_005",
+      "question": "What is 8 - (-4)?",
+      "correctAnswer": "12",
+      "distractors": [
+        "14",
+        "-12",
+        "9"
+      ],
+      "explanation": "Subtracting a negative is the same as adding: 8 - (-4) = 8 + 4 = 12.",
+      "memoryHook": "T-Rexy says: subtracting a negative is the same as adding.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_006",
+      "question": "Solve the proportion: 3/5 = x/20. What is x?",
+      "correctAnswer": "12",
+      "distractors": [
+        "13",
+        "11",
+        "15"
+      ],
+      "explanation": "Cross-multiply or scale up: 3 times 4 is 12, so x = 12.",
+      "memoryHook": "T-Rexy says: in a proportion, both sides scale by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "proportions",
+        "ratios"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_007",
+      "question": "You deposit $200 in a savings account that earns 6% simple interest per year. How much interest do you earn in 2 years?",
+      "correctAnswer": "$24",
+      "distractors": [
+        "$44",
+        "$12",
+        "$48"
+      ],
+      "explanation": "Simple interest = principal x rate x time = $200 x 6% x 2 = $24.",
+      "memoryHook": "T-Rexy says: simple interest grows the same amount every year.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "interest"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_008",
+      "question": "What is 2/3 + 4/3?",
+      "correctAnswer": "2",
+      "distractors": [
+        "4/3",
+        "4/9",
+        "3"
+      ],
+      "explanation": "Same denominator, so add the numerators: 2/3 + 4/3 = 6/3 = 2.",
+      "memoryHook": "T-Rexy says: never add denominators, only numerators.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "rational-numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_009",
+      "question": "Pack A has 8 granola bars for $4. Pack B has 20 bars for $8. Which pack is the better deal?",
+      "correctAnswer": "The second pack",
+      "distractors": [
+        "The first pack",
+        "They cost the same per bar",
+        "Neither, the prices are equal"
+      ],
+      "explanation": "Pack A costs $0.50 per bar and Pack B costs $0.40 per bar, so the second pack is cheaper per bar.",
+      "memoryHook": "T-Rexy says: compare unit prices, not total prices.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "compare"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_010",
+      "question": "Which number is greatest: -1/2, -1/4, 0, 1/3?",
+      "correctAnswer": "1/3",
+      "distractors": [
+        "-1/2",
+        "-1/4",
+        "0"
+      ],
+      "explanation": "On a number line, the number farthest to the right is greatest: 1/3.",
+      "memoryHook": "T-Rexy says: the farther right on the number line, the greater the number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "rational-numbers",
+        "compare"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_011",
+      "question": "What is -16 / (4)?",
+      "correctAnswer": "-4",
+      "distractors": [
+        "4",
+        "-3",
+        "-16"
+      ],
+      "explanation": "A negative divided by a positive is negative: 16 ÷ 4 = 4, so -16 ÷ 4 = -4.",
+      "memoryHook": "T-Rexy says: division follows the same sign rules as multiplication.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "division"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_012",
+      "question": "What is 7.6 x 5.4?",
+      "correctAnswer": "41.04",
+      "distractors": [
+        "42.04",
+        "13",
+        "20.52"
+      ],
+      "explanation": "Multiply as whole numbers: 76 × 54 = 4104, then place the point two places from the right (one decimal place in each factor): 41.04.",
+      "memoryHook": "T-Rexy says: count the decimal places in the factors to place the point.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_013",
+      "question": "A store buys a shirt for $50 and marks it up 20%. What is the selling price?",
+      "correctAnswer": "$60",
+      "distractors": [
+        "$70",
+        "$71",
+        "$50"
+      ],
+      "explanation": "Selling price = $50 x 6/5 = $60.",
+      "memoryHook": "T-Rexy says: markup adds a percent on top of the cost.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "markup"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_014",
+      "question": "What is 1/5 x 1?",
+      "correctAnswer": "1/5",
+      "distractors": [
+        "1/2",
+        "6/25",
+        "1/6"
+      ],
+      "explanation": "Multiply straight across: numerators times numerators, denominators times denominators = 1/5.",
+      "memoryHook": "T-Rexy says: multiply fractions straight across, no common denominator needed.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "rational-numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_015",
+      "question": "Maya buys 12 apples for $30. What is the unit price of one apple?",
+      "correctAnswer": "$2.50",
+      "distractors": [
+        "$2.31",
+        "$2.73",
+        "$5"
+      ],
+      "explanation": "Divide the total cost by the number of items: $30 / 12 = $2.50.",
+      "memoryHook": "T-Rexy says: unit price means the cost of one single item.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "ratios"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_016",
+      "question": "Write the ratio 8 to 8 in simplest form.",
+      "correctAnswer": "1:1",
+      "distractors": [
+        "9:8",
+        "2:1",
+        "3:1"
+      ],
+      "explanation": "Divide both sides by their greatest common factor, 8: 1:1.",
+      "memoryHook": "T-Rexy says: simplify a ratio just like a fraction.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplify"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_017",
+      "question": "What is 60% of 500?",
+      "correctAnswer": "300",
+      "distractors": [
+        "310",
+        "295",
+        "560"
+      ],
+      "explanation": "60% of 500 is 60 x 500 / 100 = 300.",
+      "memoryHook": "T-Rexy says: percent means out of one hundred.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_018",
+      "question": "A game costs $40 before tax. Sales tax is 6%. How much tax do you pay?",
+      "correctAnswer": "$2.40",
+      "distractors": [
+        "$3.40",
+        "$0.24",
+        "$6"
+      ],
+      "explanation": "Tax = $40 x 6% = $2.40.",
+      "memoryHook": "T-Rexy says: tax is a percent of the price, not of the total.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "tax"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_019",
+      "question": "The temperature is 12 degrees. Overnight it drops by 20 degrees. What is the new temperature?",
+      "correctAnswer": "-8 degrees",
+      "distractors": [
+        "32 degrees",
+        "8 degrees",
+        "-3 degrees"
+      ],
+      "explanation": "Start at 12 on the number line and move 20 left: you pass zero and land at -8 degrees.",
+      "memoryHook": "T-Rexy says: dropping means subtract, even below zero.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "word-problems"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_020",
+      "question": "Maya buys 5 notebooks for $22.50. What is the unit price of one notebook?",
+      "correctAnswer": "$4.50",
+      "distractors": [
+        "$3.75",
+        "$5.62",
+        "$9"
+      ],
+      "explanation": "Divide the total cost by the number of items: $22.50 / 5 = $4.50.",
+      "memoryHook": "T-Rexy says: unit price means the cost of one single item.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_021",
+      "question": "What is 1/2 x 1?",
+      "correctAnswer": "1/2",
+      "distractors": [
+        "2/3",
+        "2/2",
+        "1/3"
+      ],
+      "explanation": "Multiply straight across: numerators times numerators, denominators times denominators = 1/2.",
+      "memoryHook": "T-Rexy says: multiply fractions straight across, no common denominator needed.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "rational-numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_022",
+      "question": "What is the absolute value of -15?",
+      "correctAnswer": "15",
+      "distractors": [
+        "-15",
+        "0",
+        "16"
+      ],
+      "explanation": "Absolute value is the distance from zero, so |- 15| = 15.",
+      "memoryHook": "T-Rexy says: absolute value is always zero or positive.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "absolute-value"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_023",
+      "question": "A jacket costs $50. The price decreases by 20%. What is the new price?",
+      "correctAnswer": "$40",
+      "distractors": [
+        "$70",
+        "$30",
+        "$45"
+      ],
+      "explanation": "New price = $50 x 4/5 = $40.",
+      "memoryHook": "T-Rexy says: increase means multiply by more than 1, decrease by less than 1.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "increase-decrease"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_024",
+      "question": "What is -10 - (-11)?",
+      "correctAnswer": "1",
+      "distractors": [
+        "3",
+        "-1",
+        "-2"
+      ],
+      "explanation": "Subtracting a negative is the same as adding: -10 - (-11) = -10 + 11 = 1.",
+      "memoryHook": "T-Rexy says: subtracting a negative is the same as adding.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_025",
+      "question": "You deposit $400 in a savings account that earns 6% simple interest per year. How much interest do you earn in 2 years?",
+      "correctAnswer": "$48",
+      "distractors": [
+        "$68",
+        "$24",
+        "$96"
+      ],
+      "explanation": "Simple interest = principal x rate x time = $400 x 6% x 2 = $48.",
+      "memoryHook": "T-Rexy says: simple interest grows the same amount every year.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "interest"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_026",
+      "question": "What is 1/3 + 1/3?",
+      "correctAnswer": "2/3",
+      "distractors": [
+        "3/3",
+        "1/6",
+        "2"
+      ],
+      "explanation": "Same denominator, so add the numerators: 1/3 + 1/3 = 2/3.",
+      "memoryHook": "T-Rexy says: never add denominators, only numerators.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "rational-numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_027",
+      "question": "A store had 80 shirts in stock. After a sale, only 40 are left. What percent of the shirts were sold?",
+      "correctAnswer": "50%",
+      "distractors": [
+        "25%",
+        "75%",
+        "20%"
+      ],
+      "explanation": "40 sold out of 80 is 40/80 = 50%.",
+      "memoryHook": "T-Rexy says: part divided by whole gives the percent.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_028",
+      "question": "Which fraction is equal to the repeating decimal 0.666...?",
+      "correctAnswer": "2/3",
+      "distractors": [
+        "1/3",
+        "3/4",
+        "6/10"
+      ],
+      "explanation": "Divide 2 by 3: 3 goes into 2.0 forever, giving 0.666... with the 6 repeating, so 0.666... = 2/3.",
+      "memoryHook": "T-Rexy says: 0.666 repeating is the classic two-thirds decimal.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "decimals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_029",
+      "question": "A store buys a shirt for $20 and marks it up 40%. What is the selling price?",
+      "correctAnswer": "$28",
+      "distractors": [
+        "$60",
+        "$38",
+        "$20"
+      ],
+      "explanation": "Selling price = $20 x 7/5 = $28.",
+      "memoryHook": "T-Rexy says: markup adds a percent on top of the cost.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "markup"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_030",
+      "question": "What is 20% of 40?",
+      "correctAnswer": "8",
+      "distractors": [
+        "18",
+        "3",
+        "60"
+      ],
+      "explanation": "20% of 40 is 20 x 40 / 100 = 8.",
+      "memoryHook": "T-Rexy says: percent means out of one hundred.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_031",
+      "question": "Maya buys 4 muffins for $2. What is the unit price of one muffin?",
+      "correctAnswer": "$0.50",
+      "distractors": [
+        "$0.40",
+        "$0.67",
+        "$1"
+      ],
+      "explanation": "Divide the total cost by the number of items: $2 / 4 = $0.50.",
+      "memoryHook": "T-Rexy says: unit price means the cost of one single item.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_032",
+      "question": "What is 2 / (2)?",
+      "correctAnswer": "1",
+      "distractors": [
+        "-1",
+        "2",
+        "3"
+      ],
+      "explanation": "A positive divided by a positive is positive: 2 ÷ 2 = 1.",
+      "memoryHook": "T-Rexy says: division follows the same sign rules as multiplication.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "division"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_033",
+      "question": "A bottle holds 1/2 liter of water. You drink 1/2 liter. How much is left?",
+      "correctAnswer": "0 liter",
+      "distractors": [
+        "1/2 liter",
+        "2/2 liter",
+        "2 liter"
+      ],
+      "explanation": "Subtract: 1/2 - 1/2 = 0 liter.",
+      "memoryHook": "T-Rexy says: find a common denominator before subtracting fractions.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_034",
+      "question": "A game costs $50 before tax. Sales tax is 8%. How much tax do you pay?",
+      "correctAnswer": "$4",
+      "distractors": [
+        "$5",
+        "$0.40",
+        "$8"
+      ],
+      "explanation": "Tax = $50 x 8% = $4.",
+      "memoryHook": "T-Rexy says: tax is a percent of the price, not of the total.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "tax"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_035",
+      "question": "The temperature is -3 degrees. Overnight it drops by 20 degrees. What is the new temperature?",
+      "correctAnswer": "-23 degrees",
+      "distractors": [
+        "17 degrees",
+        "23 degrees",
+        "-18 degrees"
+      ],
+      "explanation": "Start at -3 and move 20 more left on the number line: -3 - 20 = -23 degrees.",
+      "memoryHook": "T-Rexy says: dropping means subtract, even below zero.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "word-problems"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_036",
+      "question": "What is (-7) x (-6)?",
+      "correctAnswer": "42",
+      "distractors": [
+        "44",
+        "-42",
+        "39"
+      ],
+      "explanation": "Two negatives make a positive product: 7 × 6 = 42, so (-7) × (-6) = 42.",
+      "memoryHook": "T-Rexy says: same signs give a positive product, different signs give a negative one.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_037",
+      "question": "In a proportional relationship, when x = 5, y = 15. What is the constant of proportionality?",
+      "correctAnswer": "3",
+      "distractors": [
+        "5",
+        "15",
+        "4"
+      ],
+      "explanation": "The constant is y divided by x: 15 / 5 = 3.",
+      "memoryHook": "T-Rexy says: k is just y over x in a proportional pair.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "proportions",
+        "constant"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_038",
+      "question": "The temperature is -5 degrees. Overnight it drops by 20 degrees. What is the new temperature?",
+      "correctAnswer": "-25 degrees",
+      "distractors": [
+        "15 degrees",
+        "25 degrees",
+        "-20 degrees"
+      ],
+      "explanation": "Start at -5 and move 20 more left on the number line: -5 - 20 = -25 degrees.",
+      "memoryHook": "T-Rexy says: dropping means subtract, even below zero.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "word-problems"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_039",
+      "question": "A recipe uses 2 cups of flour for one batch of cookies. How many cups are needed for 4 batches?",
+      "correctAnswer": "8",
+      "distractors": [
+        "10",
+        "6",
+        "4"
+      ],
+      "explanation": "Multiply: 2 cups per batch x 4 batches = 8 cups.",
+      "memoryHook": "T-Rexy says: scaling a recipe is a proportion in disguise.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "proportions",
+        "word-problems"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_040",
+      "question": "Maya buys 6 muffins for $15. What is the unit price of one muffin?",
+      "correctAnswer": "$2.50",
+      "distractors": [
+        "$2.14",
+        "$3",
+        "$5"
+      ],
+      "explanation": "Divide the total cost by the number of items: $15 / 6 = $2.50.",
+      "memoryHook": "T-Rexy says: unit price means the cost of one single item.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_041",
+      "question": "A jacket costs $60. The price decreases by 10%. What is the new price?",
+      "correctAnswer": "$54",
+      "distractors": [
+        "$70",
+        "$50",
+        "$59"
+      ],
+      "explanation": "New price = $60 x 9/10 = $54.",
+      "memoryHook": "T-Rexy says: increase means multiply by more than 1, decrease by less than 1.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "increase-decrease"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_042",
+      "question": "A car travels 240 miles in 3 hours. What is its speed in miles per hour?",
+      "correctAnswer": "80 mph",
+      "distractors": [
+        "720 mph",
+        "243 mph",
+        "85 mph"
+      ],
+      "explanation": "Speed = distance / time = 240 / 3 = 80 mph.",
+      "memoryHook": "T-Rexy says: miles per hour means miles divided by hours.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_043",
+      "question": "You deposit $1000 in a savings account that earns 6% simple interest per year. How much interest do you earn in 2 years?",
+      "correctAnswer": "$120",
+      "distractors": [
+        "$140",
+        "$60",
+        "$240"
+      ],
+      "explanation": "Simple interest = principal x rate x time = $1000 x 6% x 2 = $120.",
+      "memoryHook": "T-Rexy says: simple interest grows the same amount every year.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "interest"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_044",
+      "question": "What is 4/5 + 2?",
+      "correctAnswer": "14/5",
+      "distractors": [
+        "8/5",
+        "4/7",
+        "3"
+      ],
+      "explanation": "Write 2 as 10/5, then add: 4/5 + 10/5 = 14/5.",
+      "memoryHook": "T-Rexy says: never add denominators, only numerators.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "rational-numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_045",
+      "question": "What is the opposite of 19?",
+      "correctAnswer": "-19",
+      "distractors": [
+        "19",
+        "0",
+        "20"
+      ],
+      "explanation": "Opposites sit the same distance from zero on opposite sides, so the opposite of 19 is -19.",
+      "memoryHook": "T-Rexy says: opposites are the same distance from zero on different sides.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "opposites"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_046",
+      "question": "Pack A has 16 granola bars for $8. Pack B has 20 bars for $8. Which pack is the better deal?",
+      "correctAnswer": "The second pack",
+      "distractors": [
+        "The first pack",
+        "They cost the same per bar",
+        "Neither, the prices are equal"
+      ],
+      "explanation": "Pack A costs $0.50 per bar and Pack B costs $0.40 per bar, so the second pack is cheaper per bar.",
+      "memoryHook": "T-Rexy says: compare unit prices, not total prices.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "compare"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_047",
+      "question": "Which decimal is equal to 1/3?",
+      "correctAnswer": "0.333...",
+      "distractors": [
+        "0.3",
+        "0.13",
+        "0.33"
+      ],
+      "explanation": "1 divided by 3 = 0.333... with the 3 repeating forever.",
+      "memoryHook": "T-Rexy says: some fractions repeat forever as decimals.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "decimals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_048",
+      "question": "You deposit $500 in a savings account that earns 5% simple interest per year. How much interest do you earn in 3 years?",
+      "correctAnswer": "$75",
+      "distractors": [
+        "$95",
+        "$25",
+        "$150"
+      ],
+      "explanation": "Simple interest = principal x rate x time = $500 x 5% x 3 = $75.",
+      "memoryHook": "T-Rexy says: simple interest grows the same amount every year.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "interest"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_049",
+      "question": "Maya buys 6 apples for $9. What is the unit price of one apple?",
+      "correctAnswer": "$1.50",
+      "distractors": [
+        "$1.29",
+        "$1.80",
+        "$3"
+      ],
+      "explanation": "Divide the total cost by the number of items: $9 / 6 = $1.50.",
+      "memoryHook": "T-Rexy says: unit price means the cost of one single item.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_050",
+      "question": "You estimate a rope is 90 feet long, but it is actually 100 feet long. What is the percent error?",
+      "correctAnswer": "10%",
+      "distractors": [
+        "15%",
+        "11%",
+        "5%"
+      ],
+      "explanation": "Percent error = |estimate - actual| / actual x 100% = 10%.",
+      "memoryHook": "T-Rexy says: percent error compares the mistake to the true value.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "error"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_051",
+      "question": "Your lunch bill is $80. You leave a 20% tip. How much is the tip?",
+      "correctAnswer": "$16",
+      "distractors": [
+        "$21",
+        "$64",
+        "$20"
+      ],
+      "explanation": "Tip = $80 x 20% = $16.",
+      "memoryHook": "T-Rexy says: a 20 percent tip is one fifth of the bill.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "tip"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_052",
+      "question": "Which number is greatest: 0.2, 0.25, 0.5, 0.1?",
+      "correctAnswer": "0.5",
+      "distractors": [
+        "0.2",
+        "0.25",
+        "0.1"
+      ],
+      "explanation": "On a number line, the number farthest to the right is greatest: 0.5.",
+      "memoryHook": "T-Rexy says: the farther right on the number line, the greater the number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "rational-numbers",
+        "compare"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_053",
+      "question": "What is 4.3 x 5.6?",
+      "correctAnswer": "24.08",
+      "distractors": [
+        "25.08",
+        "9.9",
+        "12.04"
+      ],
+      "explanation": "Multiply as whole numbers: 43 × 56 = 2408, then place the point two places from the right: 24.08.",
+      "memoryHook": "T-Rexy says: count the decimal places in the factors to place the point.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_054",
+      "question": "Write the ratio 6 to 4 in simplest form.",
+      "correctAnswer": "3:2",
+      "distractors": [
+        "7:4",
+        "2:3",
+        "4:2"
+      ],
+      "explanation": "Divide both sides by their greatest common factor, 2: 3:2.",
+      "memoryHook": "T-Rexy says: simplify a ratio just like a fraction.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplify"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_055",
+      "question": "A bottle holds 5/8 liter of water. You drink 1/4 liter. How much is left?",
+      "correctAnswer": "3/8 liter",
+      "distractors": [
+        "5/8 liter",
+        "1/4 liter",
+        "1/2 liter"
+      ],
+      "explanation": "Give 1/4 the denominator 8: 1/4 = 2/8, then 5/8 - 2/8 = 3/8 liter.",
+      "memoryHook": "T-Rexy says: find a common denominator before subtracting fractions.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_056",
+      "question": "What is 1/2 as a decimal?",
+      "correctAnswer": "0.5",
+      "distractors": [
+        "0.05",
+        "1.5",
+        "0.9"
+      ],
+      "explanation": "A fraction is a division: 1 ÷ 2 = 0.5, because 2 goes into 1.0 exactly once with 0.5.",
+      "memoryHook": "T-Rexy says: a fraction is just a division problem.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "decimals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_057",
+      "question": "Solve the proportion: 6/5 = x/10. What is x?",
+      "correctAnswer": "12",
+      "distractors": [
+        "13",
+        "11",
+        "18"
+      ],
+      "explanation": "Cross-multiply or scale up: 6 times 2 is 12, so x = 12.",
+      "memoryHook": "T-Rexy says: in a proportion, both sides scale by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "proportions",
+        "ratios"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_058",
+      "question": "In a proportional relationship, when x = 4, y = 8. What is the constant of proportionality?",
+      "correctAnswer": "2",
+      "distractors": [
+        "4",
+        "8",
+        "3"
+      ],
+      "explanation": "The constant is y divided by x: 8 / 4 = 2.",
+      "memoryHook": "T-Rexy says: k is just y over x in a proportional pair.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "proportions",
+        "constant"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_059",
+      "question": "In a survey of 500 students, 35% chose soccer as their favorite sport. How many students chose soccer?",
+      "correctAnswer": "175",
+      "distractors": [
+        "195",
+        "325",
+        "35"
+      ],
+      "explanation": "35% means 35 out of 100: 500 ÷ 100 = 5 students per percent, and 35 × 5 = 175.",
+      "memoryHook": "T-Rexy says: of means multiply when you see a percent.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_060",
+      "question": "What is 2/5 as a decimal?",
+      "correctAnswer": "0.4",
+      "distractors": [
+        "0.05",
+        "1.5",
+        "0.9"
+      ],
+      "explanation": "A fraction is a division: 2 ÷ 5 = 0.4, because 5 goes into 2.0 exactly 0.4 times.",
+      "memoryHook": "T-Rexy says: a fraction is just a division problem.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "decimals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_061",
+      "question": "A hiker walks 5 miles in 3 hours at a steady pace. What is the unit rate in miles per hour?",
+      "correctAnswer": "5/3 miles per hour",
+      "distractors": [
+        "15 miles per hour",
+        "3/5 miles per hour",
+        "8 miles per hour"
+      ],
+      "explanation": "Divide miles by hours: 5 / 3 = 5/3 miles per hour.",
+      "memoryHook": "T-Rexy says: a unit rate always has 1 in the second spot.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "ratios"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_062",
+      "question": "Your lunch bill is $30. You leave a 20% tip. How much is the tip?",
+      "correctAnswer": "$6",
+      "distractors": [
+        "$11",
+        "$24",
+        "$20"
+      ],
+      "explanation": "Tip = $30 x 20% = $6.",
+      "memoryHook": "T-Rexy says: a 20 percent tip is one fifth of the bill.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "tip"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_063",
+      "question": "What is 2.2 x 1.9?",
+      "correctAnswer": "4.18",
+      "distractors": [
+        "5.18",
+        "4.1",
+        "2.09"
+      ],
+      "explanation": "Multiply as whole numbers: 22 × 19 = 418, then place the point two places from the right: 4.18.",
+      "memoryHook": "T-Rexy says: count the decimal places in the factors to place the point.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_064",
+      "question": "A backpack is $60 with a 25% discount. What is the sale price?",
+      "correctAnswer": "$45",
+      "distractors": [
+        "$35",
+        "$15",
+        "$55"
+      ],
+      "explanation": "You pay 75% of the price: $60 x 75% = $45.",
+      "memoryHook": "T-Rexy says: a 25 percent discount means you pay 75 percent.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "discount"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_065",
+      "question": "In a survey of 400 students, 15% chose soccer as their favorite sport. How many students chose soccer?",
+      "correctAnswer": "60",
+      "distractors": [
+        "80",
+        "340",
+        "15"
+      ],
+      "explanation": "15% means 15 out of 100: 400 ÷ 100 = 4 students per percent, and 15 × 4 = 60.",
+      "memoryHook": "T-Rexy says: of means multiply when you see a percent.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_066",
+      "question": "What is 3.3 x 8.1?",
+      "correctAnswer": "26.73",
+      "distractors": [
+        "27.73",
+        "11.4",
+        "13.37"
+      ],
+      "explanation": "Multiply as whole numbers: 33 × 81 = 2673, then place the point two places from the right: 26.73.",
+      "memoryHook": "T-Rexy says: count the decimal places in the factors to place the point.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_067",
+      "question": "A jacket costs $80. The price increases by 25%. What is the new price?",
+      "correctAnswer": "$100",
+      "distractors": [
+        "$105",
+        "$55",
+        "$106"
+      ],
+      "explanation": "New price = $80 x 5/4 = $100.",
+      "memoryHook": "T-Rexy says: increase means multiply by more than 1, decrease by less than 1.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "increase-decrease"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_068",
+      "question": "A jacket costs $120. The price decreases by 20%. What is the new price?",
+      "correctAnswer": "$96",
+      "distractors": [
+        "$140",
+        "$100",
+        "$101"
+      ],
+      "explanation": "New price = $120 x 4/5 = $96.",
+      "memoryHook": "T-Rexy says: increase means multiply by more than 1, decrease by less than 1.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "increase-decrease"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_069",
+      "question": "A hiker walks 6 miles in 4 hours at a steady pace. What is the unit rate in miles per hour?",
+      "correctAnswer": "3/2 miles per hour",
+      "distractors": [
+        "24 miles per hour",
+        "2/3 miles per hour",
+        "10 miles per hour"
+      ],
+      "explanation": "Divide miles by hours: 6 / 4 = 3/2 miles per hour.",
+      "memoryHook": "T-Rexy says: a unit rate always has 1 in the second spot.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "ratios"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_070",
+      "question": "What is the absolute value of -14?",
+      "correctAnswer": "14",
+      "distractors": [
+        "-14",
+        "0",
+        "15"
+      ],
+      "explanation": "Absolute value is the distance from zero, so |- 14| = 14.",
+      "memoryHook": "T-Rexy says: absolute value is always zero or positive.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "absolute-value"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_071",
+      "question": "What is -1 + (10)?",
+      "correctAnswer": "9",
+      "distractors": [
+        "11",
+        "-9",
+        "6"
+      ],
+      "explanation": "Move 10 to the right from -1 on the number line: -1 + 10 = 9.",
+      "memoryHook": "T-Rexy says: on the number line, adding a positive moves you right.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_072",
+      "question": "A salesperson earns a 10% commission on $800 in sales. How much commission does she earn?",
+      "correctAnswer": "$80",
+      "distractors": [
+        "$130",
+        "$720",
+        "$10"
+      ],
+      "explanation": "Commission = $800 x 10% = $80.",
+      "memoryHook": "T-Rexy says: commission is a percent of the sales total.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "commission"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_073",
+      "question": "What is 25% of 200?",
+      "correctAnswer": "50",
+      "distractors": [
+        "60",
+        "45",
+        "225"
+      ],
+      "explanation": "25% of 200 is 25 x 200 / 100 = 50.",
+      "memoryHook": "T-Rexy says: percent means out of one hundred.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_074",
+      "question": "Which equation shows a proportional relationship?",
+      "correctAnswer": "y = 5x",
+      "distractors": [
+        "y = 6x + 2",
+        "y = x + 4",
+        "y = 7 - x"
+      ],
+      "explanation": "A proportional equation has the form y = kx with no added constant.",
+      "memoryHook": "T-Rexy says: proportional means y equals k times x, nothing added.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "proportions",
+        "equations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_075",
+      "question": "What is 40% of 500?",
+      "correctAnswer": "200",
+      "distractors": [
+        "210",
+        "195",
+        "540"
+      ],
+      "explanation": "40% of 500 is 40 x 500 / 100 = 200.",
+      "memoryHook": "T-Rexy says: percent means out of one hundred.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_076",
+      "question": "Pack A has 16 granola bars for $6. Pack B has 15 bars for $8. Which pack is the better deal?",
+      "correctAnswer": "The first pack",
+      "distractors": [
+        "The second pack",
+        "They cost the same per bar",
+        "Neither, the prices are equal"
+      ],
+      "explanation": "Pack A costs $0.38 per bar and Pack B costs $0.53 per bar, so the first pack is cheaper per bar.",
+      "memoryHook": "T-Rexy says: compare unit prices, not total prices.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "compare"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_077",
+      "question": "What is the opposite of 17?",
+      "correctAnswer": "-17",
+      "distractors": [
+        "17",
+        "0",
+        "18"
+      ],
+      "explanation": "Opposites sit the same distance from zero on opposite sides, so the opposite of 17 is -17.",
+      "memoryHook": "T-Rexy says: opposites are the same distance from zero on different sides.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "opposites"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_078",
+      "question": "A game costs $80 before tax. Sales tax is 10%. How much tax do you pay?",
+      "correctAnswer": "$8",
+      "distractors": [
+        "$9",
+        "$0.80",
+        "$10"
+      ],
+      "explanation": "Tax = $80 x 10% = $8.",
+      "memoryHook": "T-Rexy says: tax is a percent of the price, not of the total.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "tax"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_079",
+      "question": "What is 7 - (-2)?",
+      "correctAnswer": "9",
+      "distractors": [
+        "11",
+        "-9",
+        "6"
+      ],
+      "explanation": "Subtracting a negative is the same as adding: 7 - (-2) = 7 + 2 = 9.",
+      "memoryHook": "T-Rexy says: subtracting a negative is the same as adding.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_080",
+      "question": "Which table shows a proportional relationship?",
+      "correctAnswer": "x: 1, 2, 3 and y: 4, 8, 12",
+      "distractors": [
+        "x: 2, 2, 3 and y: 4, 9, 14",
+        "x: 0, 2, 3 and y: 5, 8, 12",
+        "x: 3, 2, 3 and y: 3, 5, 9"
+      ],
+      "explanation": "In the first table y is always 4 times x, so the ratio stays the same.",
+      "memoryHook": "T-Rexy says: in a proportional table, y divided by x is always the same.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "proportions",
+        "tables"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_081",
+      "question": "You estimate a rope is 45 feet long, but it is actually 100 feet long. What is the percent error?",
+      "correctAnswer": "55%",
+      "distractors": [
+        "60%",
+        "56%",
+        "5%"
+      ],
+      "explanation": "Percent error = |estimate - actual| / actual x 100% = 55%.",
+      "memoryHook": "T-Rexy says: percent error compares the mistake to the true value.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "error"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_082",
+      "question": "What is (8) x (7)?",
+      "correctAnswer": "56",
+      "distractors": [
+        "58",
+        "-56",
+        "53"
+      ],
+      "explanation": "Two positives make a positive product: 8 × 7 = 56.",
+      "memoryHook": "T-Rexy says: same signs give a positive product, different signs give a negative one.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_083",
+      "question": "What is 5/4 + 1/2?",
+      "correctAnswer": "7/4",
+      "distractors": [
+        "2",
+        "1/2",
+        "3"
+      ],
+      "explanation": "Give 1/2 the denominator 4: 1/2 = 2/4, then 5/4 + 2/4 = 7/4.",
+      "memoryHook": "T-Rexy says: never add denominators, only numerators.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "rational-numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_084",
+      "question": "Solve the proportion: 2/8 = x/40. What is x?",
+      "correctAnswer": "10",
+      "distractors": [
+        "11",
+        "9",
+        "12"
+      ],
+      "explanation": "Cross-multiply or scale up: 2 times 5 is 10, so x = 10.",
+      "memoryHook": "T-Rexy says: in a proportion, both sides scale by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "proportions",
+        "ratios"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_085",
+      "question": "A hiker walks 3 miles in 3 hours at a steady pace. What is the unit rate in miles per hour?",
+      "correctAnswer": "1 mile per hour",
+      "distractors": [
+        "9 miles per hour",
+        "2 miles per hour",
+        "6 miles per hour"
+      ],
+      "explanation": "Divide miles by hours: 3 / 3 = 1 mile per hour.",
+      "memoryHook": "T-Rexy says: a unit rate always has 1 in the second spot.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_086",
+      "question": "What is 0 - (4)?",
+      "correctAnswer": "-4",
+      "distractors": [
+        "-2",
+        "4",
+        "-7"
+      ],
+      "explanation": "Start at 0 and move 4 left on the number line: 0 - 4 = -4.",
+      "memoryHook": "T-Rexy says: same signs give a positive product, different signs give a negative one.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "operations"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_087",
+      "question": "Solve the proportion: 6/3 = x/9. What is x?",
+      "correctAnswer": "18",
+      "distractors": [
+        "19",
+        "17",
+        "24"
+      ],
+      "explanation": "Cross-multiply or scale up: 6 times 3 is 18, so x = 18.",
+      "memoryHook": "T-Rexy says: in a proportion, both sides scale by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "proportions",
+        "ratios"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_088",
+      "question": "A recipe uses 4 cups of flour for one batch of cookies. How many cups are needed for 4 batches?",
+      "correctAnswer": "16",
+      "distractors": [
+        "18",
+        "8",
+        "4"
+      ],
+      "explanation": "Multiply: 4 cups per batch x 4 batches = 16 cups.",
+      "memoryHook": "T-Rexy says: scaling a recipe is a proportion in disguise.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "proportions",
+        "word-problems"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_089",
+      "question": "A salesperson earns a 10% commission on $2000 in sales. How much commission does she earn?",
+      "correctAnswer": "$200",
+      "distractors": [
+        "$250",
+        "$1800",
+        "$10"
+      ],
+      "explanation": "Commission = $2000 x 10% = $200.",
+      "memoryHook": "T-Rexy says: commission is a percent of the sales total.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "commission"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_090",
+      "question": "What is 5/4 x 2?",
+      "correctAnswer": "5/2",
+      "distractors": [
+        "10/3",
+        "9/8",
+        "5/3"
+      ],
+      "explanation": "Multiply straight across: numerators times numerators, denominators times denominators = 5/2.",
+      "memoryHook": "T-Rexy says: multiply fractions straight across, no common denominator needed.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "rational-numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_091",
+      "question": "A bottle holds 3/8 liter of water. You drink 1/8 liter. How much is left?",
+      "correctAnswer": "1/4 liter",
+      "distractors": [
+        "3/8 liter",
+        "1/8 liter",
+        "1/2 liter"
+      ],
+      "explanation": "Subtract: 3/8 - 1/8 = 1/4 liter.",
+      "memoryHook": "T-Rexy says: find a common denominator before subtracting fractions.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_092",
+      "question": "What is 1/10 as a decimal?",
+      "correctAnswer": "0.1",
+      "distractors": [
+        "0.05",
+        "1.5",
+        "0.9"
+      ],
+      "explanation": "A fraction is a division: 1 ÷ 10 = 0.1, because 10 goes into 1.0 exactly 0.1 times.",
+      "memoryHook": "T-Rexy says: a fraction is just a division problem.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "decimals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_093",
+      "question": "Write the ratio 6 to 6 in simplest form.",
+      "correctAnswer": "1:1",
+      "distractors": [
+        "7:6",
+        "2:1",
+        "3:1"
+      ],
+      "explanation": "Divide both sides by their greatest common factor, 6: 1:1.",
+      "memoryHook": "T-Rexy says: simplify a ratio just like a fraction.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplify"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_094",
+      "question": "A backpack is $40 with a 30% discount. What is the sale price?",
+      "correctAnswer": "$28",
+      "distractors": [
+        "$10",
+        "$12",
+        "$38"
+      ],
+      "explanation": "You pay 70% of the price: $40 x 70% = $28.",
+      "memoryHook": "T-Rexy says: a 30 percent discount means you pay 70 percent.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "discount"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_095",
+      "question": "What is -6 + (2)?",
+      "correctAnswer": "-4",
+      "distractors": [
+        "-2",
+        "4",
+        "-7"
+      ],
+      "explanation": "Move 2 to the right from -6 on the number line: -6 + 2 = -4.",
+      "memoryHook": "T-Rexy says: on the number line, adding a positive moves you right.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_096",
+      "question": "A car travels 180 miles in 4 hours. What is its speed in miles per hour?",
+      "correctAnswer": "45 mph",
+      "distractors": [
+        "720 mph",
+        "184 mph",
+        "50 mph"
+      ],
+      "explanation": "Speed = distance / time = 180 / 4 = 45 mph.",
+      "memoryHook": "T-Rexy says: miles per hour means miles divided by hours.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "ratios"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_097",
+      "question": "Pack A has 16 granola bars for $4. Pack B has 10 bars for $4. Which pack is the better deal?",
+      "correctAnswer": "The first pack",
+      "distractors": [
+        "The second pack",
+        "They cost the same per bar",
+        "Neither, the prices are equal"
+      ],
+      "explanation": "Pack A costs $0.25 per bar and Pack B costs $0.40 per bar, so the first pack is cheaper per bar.",
+      "memoryHook": "T-Rexy says: compare unit prices, not total prices.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "unit-rate",
+        "compare"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_098",
+      "question": "Your lunch bill is $80. You leave a 15% tip. How much is the tip?",
+      "correctAnswer": "$12",
+      "distractors": [
+        "$17",
+        "$68",
+        "$15"
+      ],
+      "explanation": "Tip = $80 x 15% = $12.",
+      "memoryHook": "T-Rexy says: a 15 percent tip is 15 cents on every dollar of the bill.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "tip"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_099",
+      "question": "In a proportional relationship, when x = 5, y = 20. What is the constant of proportionality?",
+      "correctAnswer": "4",
+      "distractors": [
+        "5",
+        "20",
+        "6"
+      ],
+      "explanation": "The constant is y divided by x: 20 / 5 = 4.",
+      "memoryHook": "T-Rexy says: k is just y over x in a proportional pair.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "proportions",
+        "constant"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_100",
+      "question": "A salesperson earns an 8% commission on $1000 in sales. How much commission does she earn?",
+      "correctAnswer": "$80",
+      "distractors": [
+        "$130",
+        "$920",
+        "$8"
+      ],
+      "explanation": "Commission = $1000 x 8% = $80.",
+      "memoryHook": "T-Rexy says: commission is a percent of the sales total.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percent",
+        "commission"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

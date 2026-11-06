@@ -1,0 +1,2017 @@
+{
+  "packId": "gr7-life-science",
+  "title": "Life Science (7th Grade)",
+  "description": "Life Science (7th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "science",
+    "life-science",
+    "7th"
+  ],
+  "questions": [
+    {
+      "id": "LSC7_001",
+      "question": "What is the first step of the scientific method?",
+      "correctAnswer": "Ask a question or make an observation",
+      "distractors": [
+        "Write a conclusion",
+        "Run an experiment",
+        "Make a graph"
+      ],
+      "explanation": "Science starts with a question or observation about the world.",
+      "memoryHook": "T-Rexy says: curiosity starts every experiment.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "scientific-method",
+        "inquiry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_002",
+      "question": "What is the main job of the immune system?",
+      "correctAnswer": "fights germs and disease",
+      "distractors": [
+        "sends signals and controls the body",
+        "moves the body",
+        "brings oxygen into the body and removes carbon dioxide"
+      ],
+      "explanation": "White blood cells patrol the body, attack invaders, and remember germs they have beaten before.",
+      "memoryHook": "T-Rexy says: each body system has one big job.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_003",
+      "question": "What is a food chain?",
+      "correctAnswer": "a series showing who eats whom in an ecosystem",
+      "distractors": [
+        "an animal that is hunted for food",
+        "an organism that eats other organisms for energy",
+        "many connected food chains in an ecosystem"
+      ],
+      "explanation": "food chain: a series showing who eats whom in an ecosystem. (a single path of energy flow)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_004",
+      "question": "What is the main job of the digestive system?",
+      "correctAnswer": "breaks down food into nutrients",
+      "distractors": [
+        "removes waste from the body",
+        "brings oxygen into the body and removes carbon dioxide",
+        "fights germs and disease"
+      ],
+      "explanation": "Food is broken down step by step - chewing, stomach acid, and enzymes - until nutrients are small enough to pass into the blood.",
+      "memoryHook": "T-Rexy says: each body system has one big job.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_005",
+      "question": "What is the powerhouse of the cell?",
+      "correctAnswer": "Mitochondria",
+      "distractors": [
+        "Nucleus",
+        "Ribosome",
+        "Vacuole"
+      ],
+      "explanation": "Mitochondria release energy from food, so they are called the powerhouse.",
+      "memoryHook": "T-Rexy says: mighty mitochondria make energy.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_006",
+      "question": "What is an allele?",
+      "correctAnswer": "one version of a gene",
+      "distractors": [
+        "a chart that predicts the possible offspring of a cross",
+        "a trait that shows up even if only one copy is inherited",
+        "a characteristic that can be passed from parent to offspring"
+      ],
+      "explanation": "allele: one version of a gene. (for example, the allele for brown eyes)",
+      "memoryHook": "T-Rexy says: genetics words build on each other, learn them in order.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_007",
+      "question": "Why do cells divide?",
+      "correctAnswer": "For growth and to repair damaged tissue",
+      "distractors": [
+        "To make energy",
+        "To get rid of waste",
+        "To find food"
+      ],
+      "explanation": "Cell division lets organisms grow and replaces old or damaged cells.",
+      "memoryHook": "T-Rexy says: division is how bodies grow and heal.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "mitosis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_008",
+      "question": "What is the correct order from smallest to largest?",
+      "correctAnswer": "Cell, tissue, organ, organ system",
+      "distractors": [
+        "Organ, cell, tissue, organ system",
+        "Tissue, cell, organ, organ system",
+        "Cell, organ, tissue, organ system"
+      ],
+      "explanation": "Cells group into tissues, tissues form organs, and organs work together in systems.",
+      "memoryHook": "T-Rexy says: think of it like bricks, walls, rooms, house.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "organization",
+        "levels"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_009",
+      "question": "What do decomposers do in an ecosystem?",
+      "correctAnswer": "Break down dead organisms and return nutrients to the soil",
+      "distractors": [
+        "Eat only living plants",
+        "Hunt other animals",
+        "Make food from sunlight"
+      ],
+      "explanation": "Decomposers like fungi and bacteria recycle nutrients from dead things.",
+      "memoryHook": "T-Rexy says: decomposers are nature's recyclers.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "decomposers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_010",
+      "question": "Which organelle gives a plant cell shape and protection?",
+      "correctAnswer": "cell wall",
+      "distractors": [
+        "vacuole",
+        "Golgi apparatus",
+        "mitochondria"
+      ],
+      "explanation": "The stiff cell wall wraps the plant cell like a box, holding its shape and shielding it from damage.",
+      "memoryHook": "T-Rexy says: match the job to the worker.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_011",
+      "question": "What is a producer?",
+      "correctAnswer": "an organism that makes its own food, like a plant",
+      "distractors": [
+        "a trait that helps an organism survive in its environment",
+        "a relationship where one organism benefits and the other is not affected",
+        "a relationship where both organisms benefit"
+      ],
+      "explanation": "producer: an organism that makes its own food, like a plant. (the base of a food chain)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_012",
+      "question": "What is a genotype?",
+      "correctAnswer": "the genes an organism has for a trait",
+      "distractors": [
+        "a change in the DNA sequence",
+        "passing traits from parents to offspring",
+        "a trait that shows up even if only one copy is inherited"
+      ],
+      "explanation": "genotype: the genes an organism has for a trait. (the genetic code, like Bb)",
+      "memoryHook": "T-Rexy says: genetics words build on each other, learn them in order.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_013",
+      "question": "In an experiment, what is the independent variable?",
+      "correctAnswer": "The thing the scientist changes on purpose",
+      "distractors": [
+        "The result that is measured",
+        "The thing kept the same",
+        "The final conclusion"
+      ],
+      "explanation": "The independent variable is what the scientist changes to test its effect.",
+      "memoryHook": "T-Rexy says: independent means the scientist controls it.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "scientific-method",
+        "variables"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_014",
+      "question": "What is a commensalism?",
+      "correctAnswer": "a relationship where one organism benefits and the other is not affected",
+      "distractors": [
+        "a relationship where one organism benefits and the other is harmed",
+        "a relationship where both organisms benefit",
+        "the place where an organism lives"
+      ],
+      "explanation": "commensalism: a relationship where one organism benefits and the other is not affected. (like barnacles on a whale)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_015",
+      "question": "What is a decomposer?",
+      "correctAnswer": "an organism that breaks down dead material",
+      "distractors": [
+        "a relationship where both organisms benefit",
+        "an animal that hunts other animals for food",
+        "a relationship where one organism benefits and the other is harmed"
+      ],
+      "explanation": "decomposer: an organism that breaks down dead material. (like fungi and bacteria)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_016",
+      "question": "Which organ is a main part of the muscular system?",
+      "correctAnswer": "muscles",
+      "distractors": [
+        "heart",
+        "bones",
+        "stomach"
+      ],
+      "explanation": "Muscles are the key organs of the muscular system: they pull on bones to move the body.",
+      "memoryHook": "T-Rexy says: pair each system with its star organ.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_017",
+      "question": "What is a Punnett square?",
+      "correctAnswer": "a chart that predicts the possible offspring of a cross",
+      "distractors": [
+        "a structure made of DNA that carries many genes",
+        "a section of DNA that codes for one trait",
+        "the molecule that carries genetic instructions"
+      ],
+      "explanation": "Punnett square: a chart that predicts the possible offspring of a cross. (a tool for predicting traits)",
+      "memoryHook": "T-Rexy says: genetics words build on each other, learn them in order.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_018",
+      "question": "Where does photosynthesis happen in a plant cell?",
+      "correctAnswer": "In the chloroplast",
+      "distractors": [
+        "In the nucleus",
+        "In the mitochondria",
+        "In the vacuole"
+      ],
+      "explanation": "Chloroplasts hold chlorophyll, the green pigment that captures sunlight.",
+      "memoryHook": "T-Rexy says: chloroplasts are the solar panels of the cell.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "photosynthesis",
+        "cells"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_019",
+      "question": "What is the function of the cytoplasm?",
+      "correctAnswer": "the jelly-like fluid where most cell activities happen",
+      "distractors": [
+        "stores water and nutrients",
+        "packages and ships proteins",
+        "gives a plant cell shape and protection"
+      ],
+      "explanation": "The cytoplasm is the jelly-like fluid that fills the cell; organelles float in it and most chemical reactions happen there.",
+      "memoryHook": "T-Rexy says: each organelle has one main job to remember.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_020",
+      "question": "Which of these is an omnivore?",
+      "correctAnswer": "A bear",
+      "distractors": [
+        "A cow",
+        "A lion",
+        "A deer"
+      ],
+      "explanation": "A bear eats both plants and animals, so it is an omnivore.",
+      "memoryHook": "T-Rexy says: omni means all: omnivores eat everything.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "consumers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_021",
+      "question": "What is a predator?",
+      "correctAnswer": "an animal that hunts other animals for food",
+      "distractors": [
+        "the place where an organism lives",
+        "an organism that breaks down dead material",
+        "a relationship where both organisms benefit"
+      ],
+      "explanation": "predator: an animal that hunts other animals for food. (like a lion)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_022",
+      "question": "What is the function of the nucleus?",
+      "correctAnswer": "controls the cell and holds the DNA",
+      "distractors": [
+        "controls what enters and leaves the cell",
+        "the jelly-like fluid where most cell activities happen",
+        "releases energy from food through cellular respiration"
+      ],
+      "explanation": "The nucleus holds the DNA instructions and tells the cell what to do, like a brain giving orders to the body.",
+      "memoryHook": "T-Rexy says: each organelle has one main job to remember.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_023",
+      "question": "What is a prey?",
+      "correctAnswer": "an animal that is hunted for food",
+      "distractors": [
+        "a relationship where one organism benefits and the other is not affected",
+        "many connected food chains in an ecosystem",
+        "an organism that breaks down dead material"
+      ],
+      "explanation": "prey: an animal that is hunted for food. (like a rabbit)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_024",
+      "question": "What is the function of the Golgi apparatus?",
+      "correctAnswer": "packages and ships proteins",
+      "distractors": [
+        "stores water and nutrients",
+        "captures sunlight for photosynthesis",
+        "builds proteins"
+      ],
+      "explanation": "Proteins arrive at the Golgi, get folded and labeled, then are shipped out in tiny sacs to where they are needed.",
+      "memoryHook": "T-Rexy says: each organelle has one main job to remember.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_025",
+      "question": "What is the control center of the cell?",
+      "correctAnswer": "Nucleus",
+      "distractors": [
+        "Cytoplasm",
+        "Cell membrane",
+        "Golgi apparatus"
+      ],
+      "explanation": "The nucleus holds DNA and directs cell activities.",
+      "memoryHook": "T-Rexy says: the nucleus is the boss of the cell.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_026",
+      "question": "What is a trait?",
+      "correctAnswer": "a characteristic that can be passed from parent to offspring",
+      "distractors": [
+        "one version of a gene",
+        "the genes an organism has for a trait",
+        "a structure made of DNA that carries many genes"
+      ],
+      "explanation": "trait: a characteristic that can be passed from parent to offspring. (like eye color or hair type)",
+      "memoryHook": "T-Rexy says: genetics words build on each other, learn them in order.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_027",
+      "question": "What is the main job of the skeletal system?",
+      "correctAnswer": "supports the body and protects organs",
+      "distractors": [
+        "moves blood, oxygen, and nutrients around the body",
+        "sends signals and controls the body",
+        "breaks down food into nutrients"
+      ],
+      "explanation": "Bones hold the body upright, give muscles something to pull on, and shield soft organs like the brain and heart.",
+      "memoryHook": "T-Rexy says: each body system has one big job.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_028",
+      "question": "Which organelle captures sunlight for photosynthesis?",
+      "correctAnswer": "chloroplast",
+      "distractors": [
+        "cell wall",
+        "ribosome",
+        "lysosome"
+      ],
+      "explanation": "Chlorophyll inside the chloroplast traps sunlight, and that light energy powers the making of sugar.",
+      "memoryHook": "T-Rexy says: match the job to the worker.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_029",
+      "question": "In a food chain, what happens to energy as it moves up?",
+      "correctAnswer": "Most of it is lost at each step",
+      "distractors": [
+        "It increases at each step",
+        "It stays exactly the same",
+        "It disappears and returns later"
+      ],
+      "explanation": "Only about 10 percent of energy passes to the next level; the rest is used or lost as heat.",
+      "memoryHook": "T-Rexy says: energy shrinks as it climbs the food chain.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "energy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_030",
+      "question": "What is the main job of the nervous system?",
+      "correctAnswer": "sends signals and controls the body",
+      "distractors": [
+        "fights germs and disease",
+        "supports the body and protects organs",
+        "breaks down food into nutrients"
+      ],
+      "explanation": "Nerves carry fast electrical signals from the brain to the body and back, so the body can react in a split second.",
+      "memoryHook": "T-Rexy says: each body system has one big job.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_031",
+      "question": "Which organelle makes proteins?",
+      "correctAnswer": "Ribosome",
+      "distractors": [
+        "Lysosome",
+        "Vacuole",
+        "Chloroplast"
+      ],
+      "explanation": "Ribosomes read instructions and build proteins.",
+      "memoryHook": "T-Rexy says: ribosomes build the proteins.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_032",
+      "question": "What is DNA?",
+      "correctAnswer": "the molecule that carries genetic instructions",
+      "distractors": [
+        "a section of DNA that codes for one trait",
+        "the genes an organism has for a trait",
+        "a characteristic that can be passed from parent to offspring"
+      ],
+      "explanation": "DNA: the molecule that carries genetic instructions. (deoxyribonucleic acid)",
+      "memoryHook": "T-Rexy says: genetics words build on each other, learn them in order.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_033",
+      "question": "What is a parasitism?",
+      "correctAnswer": "a relationship where one organism benefits and the other is harmed",
+      "distractors": [
+        "an organism that breaks down dead material",
+        "an animal that hunts other animals for food",
+        "an organism that makes its own food, like a plant"
+      ],
+      "explanation": "parasitism: a relationship where one organism benefits and the other is harmed. (like a tick on a dog)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_034",
+      "question": "What is a phenotype?",
+      "correctAnswer": "the visible trait an organism shows",
+      "distractors": [
+        "a characteristic that can be passed from parent to offspring",
+        "a change in the DNA sequence",
+        "the genes an organism has for a trait"
+      ],
+      "explanation": "phenotype: the visible trait an organism shows. (what you can actually see)",
+      "memoryHook": "T-Rexy says: genetics words build on each other, learn them in order.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_035",
+      "question": "Which process do plants use to make food from sunlight?",
+      "correctAnswer": "Photosynthesis",
+      "distractors": [
+        "Cellular respiration",
+        "Digestion",
+        "Fermentation"
+      ],
+      "explanation": "Photosynthesis uses sunlight, water, and carbon dioxide to make glucose and oxygen.",
+      "memoryHook": "T-Rexy says: photo means light, synthesis means building.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "photosynthesis",
+        "plants"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_036",
+      "question": "Which body system is at work here? Your muscles help you lift a backpack.",
+      "correctAnswer": "The muscular system",
+      "distractors": [
+        "The circulatory system",
+        "The respiratory system",
+        "The nervous system"
+      ],
+      "explanation": "Lifting a backpack uses your muscles, so it is the job of the muscular system.",
+      "memoryHook": "T-Rexy says: link the action to the system.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_037",
+      "question": "What is a food web?",
+      "correctAnswer": "many connected food chains in an ecosystem",
+      "distractors": [
+        "the place where an organism lives",
+        "a relationship where both organisms benefit",
+        "an animal that hunts other animals for food"
+      ],
+      "explanation": "food web: many connected food chains in an ecosystem. (a map of feeding relationships)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_038",
+      "question": "Which organ is a main part of the respiratory system?",
+      "correctAnswer": "lungs",
+      "distractors": [
+        "white blood cells",
+        "bones",
+        "kidneys"
+      ],
+      "explanation": "The lungs are the key organs of the respiratory system: air flows in, oxygen passes into the blood, and carbon dioxide passes out.",
+      "memoryHook": "T-Rexy says: pair each system with its star organ.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_039",
+      "question": "What is the main function of a leaf?",
+      "correctAnswer": "To make food by photosynthesis",
+      "distractors": [
+        "To absorb water",
+        "To support the plant",
+        "To make seeds"
+      ],
+      "explanation": "Leaves hold chloroplasts that capture sunlight for photosynthesis.",
+      "memoryHook": "T-Rexy says: leaves are the kitchens of the plant.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "plants",
+        "structure"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_040",
+      "question": "What is the job of red blood cells?",
+      "correctAnswer": "To carry oxygen around the body",
+      "distractors": [
+        "To fight germs",
+        "To carry signals",
+        "To digest food"
+      ],
+      "explanation": "Red blood cells carry oxygen from the lungs to the rest of the body.",
+      "memoryHook": "T-Rexy says: red blood cells are oxygen delivery trucks.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "blood"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_041",
+      "question": "What is an adaptation?",
+      "correctAnswer": "a trait that helps an organism survive in its environment",
+      "distractors": [
+        "a series showing who eats whom in an ecosystem",
+        "an organism that makes its own food, like a plant",
+        "a relationship where one organism benefits and the other is harmed"
+      ],
+      "explanation": "adaptation: a trait that helps an organism survive in its environment. (like thick fur in cold places)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_042",
+      "question": "What is the function of the vacuole?",
+      "correctAnswer": "stores water and nutrients",
+      "distractors": [
+        "the jelly-like fluid where most cell activities happen",
+        "controls what enters and leaves the cell",
+        "captures sunlight for photosynthesis"
+      ],
+      "explanation": "The large vacuole in a plant cell holds water and nutrients, and when it is full it pushes against the cell wall and keeps the plant firm.",
+      "memoryHook": "T-Rexy says: each organelle has one main job to remember.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_043",
+      "question": "What is the function of the cell membrane?",
+      "correctAnswer": "controls what enters and leaves the cell",
+      "distractors": [
+        "packages and ships proteins",
+        "controls the cell and holds the DNA",
+        "gives a plant cell shape and protection"
+      ],
+      "explanation": "The thin membrane lets food and oxygen in and keeps harmful things out, like a gate with a guard.",
+      "memoryHook": "T-Rexy says: each organelle has one main job to remember.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_044",
+      "question": "What is a habitat?",
+      "correctAnswer": "the place where an organism lives",
+      "distractors": [
+        "a relationship where one organism benefits and the other is harmed",
+        "an organism that eats other organisms for energy",
+        "a series showing who eats whom in an ecosystem"
+      ],
+      "explanation": "habitat: the place where an organism lives. (it provides food, water, and shelter)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_045",
+      "question": "Which organ pumps blood through the body?",
+      "correctAnswer": "The heart",
+      "distractors": [
+        "The lungs",
+        "The liver",
+        "The stomach"
+      ],
+      "explanation": "The heart pumps blood through the circulatory system.",
+      "memoryHook": "T-Rexy says: the heart never stops pumping.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_046",
+      "question": "What is a control group in an experiment?",
+      "correctAnswer": "A group that is not changed, used for comparison",
+      "distractors": [
+        "The group with the most variables",
+        "The group that always fails",
+        "The group that writes the report"
+      ],
+      "explanation": "The control group gives a baseline to compare against the tested group.",
+      "memoryHook": "T-Rexy says: a control is the comparison group.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "scientific-method",
+        "variables"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_047",
+      "question": "What does a Punnett square show?",
+      "correctAnswer": "The possible traits of offspring",
+      "distractors": [
+        "The age of an organism",
+        "The number of cells",
+        "The speed of evolution"
+      ],
+      "explanation": "A Punnett square predicts the possible gene combinations of children.",
+      "memoryHook": "T-Rexy says: Punnett squares predict the odds, not the exact child.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "punnett"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_048",
+      "question": "If both parents have the genotype Bb for brown eyes (B is dominant), what is the chance of a child with blue eyes (bb)?",
+      "correctAnswer": "25 percent",
+      "distractors": [
+        "50 percent",
+        "75 percent",
+        "100 percent"
+      ],
+      "explanation": "The Punnett square gives BB, Bb, Bb, bb: one out of four, or 25 percent, is bb.",
+      "memoryHook": "T-Rexy says: one box out of four is bb.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "punnett"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_049",
+      "question": "What is the main job of the respiratory system?",
+      "correctAnswer": "brings oxygen into the body and removes carbon dioxide",
+      "distractors": [
+        "fights germs and disease",
+        "moves blood, oxygen, and nutrients around the body",
+        "supports the body and protects organs"
+      ],
+      "explanation": "Air travels down the windpipe into the lungs, where oxygen passes into the blood and carbon dioxide passes out.",
+      "memoryHook": "T-Rexy says: each body system has one big job.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_050",
+      "question": "What is natural selection?",
+      "correctAnswer": "Organisms with helpful traits survive and pass them on",
+      "distractors": [
+        "Organisms choose which traits to have",
+        "All organisms change in the same way",
+        "Traits are picked at random by scientists"
+      ],
+      "explanation": "Natural selection is survival of the best-adapted: helpful traits spread over generations.",
+      "memoryHook": "T-Rexy says: nature keeps the traits that work.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "evolution",
+        "natural-selection"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_051",
+      "question": "Which organ is a main part of the digestive system?",
+      "correctAnswer": "stomach",
+      "distractors": [
+        "bones",
+        "brain",
+        "lungs"
+      ],
+      "explanation": "The stomach churns food and mixes it with acid, starting the breakdown of proteins.",
+      "memoryHook": "T-Rexy says: pair each system with its star organ.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_052",
+      "question": "What is homeostasis?",
+      "correctAnswer": "Keeping the inside of the body stable",
+      "distractors": [
+        "Making new cells",
+        "Breaking down food",
+        "Growing taller"
+      ],
+      "explanation": "Homeostasis is the body keeping conditions like temperature steady inside.",
+      "memoryHook": "T-Rexy says: homeo means same, stasis means staying.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "homeostasis",
+        "human-body"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_053",
+      "question": "What is a chromosome?",
+      "correctAnswer": "a structure made of DNA that carries many genes",
+      "distractors": [
+        "passing traits from parents to offspring",
+        "a change in the DNA sequence",
+        "a chart that predicts the possible offspring of a cross"
+      ],
+      "explanation": "chromosome: a structure made of DNA that carries many genes. (found in the nucleus)",
+      "memoryHook": "T-Rexy says: genetics words build on each other, learn them in order.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_054",
+      "question": "What is the function of the mitochondria?",
+      "correctAnswer": "releases energy from food through cellular respiration",
+      "distractors": [
+        "the jelly-like fluid where most cell activities happen",
+        "gives a plant cell shape and protection",
+        "packages and ships proteins"
+      ],
+      "explanation": "Mitochondria break down glucose with oxygen, releasing the energy (ATP) the cell uses to do its work.",
+      "memoryHook": "T-Rexy says: each organelle has one main job to remember.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_055",
+      "question": "What do plant cells have that animal cells do not?",
+      "correctAnswer": "A cell wall and chloroplasts",
+      "distractors": [
+        "A nucleus",
+        "Mitochondria",
+        "A cell membrane"
+      ],
+      "explanation": "Plant cells have a stiff cell wall and chloroplasts for photosynthesis; animal cells do not.",
+      "memoryHook": "T-Rexy says: plants need walls and sunlight catchers, animals do not.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "plant-vs-animal"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_056",
+      "question": "Which organelle controls what enters and leaves the cell?",
+      "correctAnswer": "cell membrane",
+      "distractors": [
+        "chloroplast",
+        "mitochondria",
+        "cytoplasm"
+      ],
+      "explanation": "The membrane is a selective barrier: it lets nutrients and oxygen in and waste out.",
+      "memoryHook": "T-Rexy says: match the job to the worker.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_057",
+      "question": "How many chromosomes do humans have in most body cells?",
+      "correctAnswer": "46",
+      "distractors": [
+        "23",
+        "92",
+        "12"
+      ],
+      "explanation": "Human body cells have 46 chromosomes in 23 pairs.",
+      "memoryHook": "T-Rexy says: 23 pairs make 46 chromosomes.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "chromosomes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_058",
+      "question": "Which body system is at work here? Your bones protect your brain.",
+      "correctAnswer": "The skeletal system",
+      "distractors": [
+        "The respiratory system",
+        "The circulatory system",
+        "The nervous system"
+      ],
+      "explanation": "Your skull is bone protecting your brain, so it is the job of the skeletal system.",
+      "memoryHook": "T-Rexy says: link the action to the system.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_059",
+      "question": "Which statement is part of cell theory?",
+      "correctAnswer": "All living things are made of cells",
+      "distractors": [
+        "Cells are only found in animals",
+        "Cells can appear from nothing",
+        "Only plants have cells"
+      ],
+      "explanation": "Cell theory says all living things are made of cells, cells come from existing cells, and cells are the basic unit of life.",
+      "memoryHook": "T-Rexy says: cells are the building blocks of all life.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "cell-theory"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_060",
+      "question": "What is the function of the cell wall?",
+      "correctAnswer": "gives a plant cell shape and protection",
+      "distractors": [
+        "breaks down waste and old cell parts",
+        "releases energy from food through cellular respiration",
+        "controls what enters and leaves the cell"
+      ],
+      "explanation": "Made of cellulose, the cell wall is a rigid box around the cell that keeps its shape and blocks damage.",
+      "memoryHook": "T-Rexy says: each organelle has one main job to remember.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_061",
+      "question": "Which of these is a herbivore?",
+      "correctAnswer": "A deer",
+      "distractors": [
+        "A lion",
+        "A shark",
+        "An eagle"
+      ],
+      "explanation": "A deer eats only plants, so it is a herbivore.",
+      "memoryHook": "T-Rexy says: herbivore means plant eater.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "consumers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_062",
+      "question": "Which of these is a main part of the immune system?",
+      "correctAnswer": "white blood cells",
+      "distractors": [
+        "stomach",
+        "lungs",
+        "kidneys"
+      ],
+      "explanation": "White blood cells patrol the body and attack germs that do not belong there.",
+      "memoryHook": "T-Rexy says: pair each system with its star organ.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_063",
+      "question": "What is heredity?",
+      "correctAnswer": "passing traits from parents to offspring",
+      "distractors": [
+        "a structure made of DNA that carries many genes",
+        "a characteristic that can be passed from parent to offspring",
+        "a section of DNA that codes for one trait"
+      ],
+      "explanation": "heredity: passing traits from parents to offspring. (why children look like their parents)",
+      "memoryHook": "T-Rexy says: genetics words build on each other, learn them in order.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_064",
+      "question": "What is a consumer?",
+      "correctAnswer": "an organism that eats other organisms for energy",
+      "distractors": [
+        "an organism that breaks down dead material",
+        "a relationship where one organism benefits and the other is not affected",
+        "many connected food chains in an ecosystem"
+      ],
+      "explanation": "consumer: an organism that eats other organisms for energy. (a herbivore, carnivore, or omnivore)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_065",
+      "question": "What is the main job of the circulatory system?",
+      "correctAnswer": "moves blood, oxygen, and nutrients around the body",
+      "distractors": [
+        "sends signals and controls the body",
+        "supports the body and protects organs",
+        "moves the body"
+      ],
+      "explanation": "The heart pumps blood through vessels, delivering oxygen and nutrients to every cell and carrying waste away.",
+      "memoryHook": "T-Rexy says: each body system has one big job.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_066",
+      "question": "Which organelle is the jelly-like fluid where most cell activities happen?",
+      "correctAnswer": "cytoplasm",
+      "distractors": [
+        "vacuole",
+        "chloroplast",
+        "cell membrane"
+      ],
+      "explanation": "The cytoplasm is the jelly-like fluid that fills the cell; organelles float in it and most cell activities happen there.",
+      "memoryHook": "T-Rexy says: match the job to the worker.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_067",
+      "question": "Which process releases energy from food in cells?",
+      "correctAnswer": "Cellular respiration",
+      "distractors": [
+        "Photosynthesis",
+        "Osmosis",
+        "Mitosis"
+      ],
+      "explanation": "Cellular respiration breaks down glucose with oxygen to release energy (ATP).",
+      "memoryHook": "T-Rexy says: respiration is how cells cash in their food for energy.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "respiration",
+        "cells"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_068",
+      "question": "Which organelle packages and ships proteins?",
+      "correctAnswer": "Golgi apparatus",
+      "distractors": [
+        "vacuole",
+        "lysosome",
+        "cell wall"
+      ],
+      "explanation": "The Golgi folds, labels, and ships proteins in vesicles to their destinations inside or outside the cell.",
+      "memoryHook": "T-Rexy says: match the job to the worker.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_069",
+      "question": "What is the main job of the muscular system?",
+      "correctAnswer": "moves the body",
+      "distractors": [
+        "sends signals and controls the body",
+        "moves blood, oxygen, and nutrients around the body",
+        "brings oxygen into the body and removes carbon dioxide"
+      ],
+      "explanation": "Muscles pull on bones to move the body; they can only pull, never push, so they work in pairs.",
+      "memoryHook": "T-Rexy says: each body system has one big job.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_070",
+      "question": "Which organ is a main part of the nervous system?",
+      "correctAnswer": "brain",
+      "distractors": [
+        "kidneys",
+        "white blood cells",
+        "muscles"
+      ],
+      "explanation": "The brain receives signals from the body, makes decisions, and sends orders back through the nerves.",
+      "memoryHook": "T-Rexy says: pair each system with its star organ.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_071",
+      "question": "Which gas do animals take in when they breathe?",
+      "correctAnswer": "Oxygen",
+      "distractors": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "explanation": "Animals breathe in oxygen, which cells use to release energy from food.",
+      "memoryHook": "T-Rexy says: oxygen is the fuel for cellular respiration.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "respiration",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_072",
+      "question": "Which body system is at work here? You feel a hot stove and pull your hand away.",
+      "correctAnswer": "The nervous system",
+      "distractors": [
+        "The immune system",
+        "The skeletal system",
+        "The digestive system"
+      ],
+      "explanation": "Feeling the heat and pulling your hand away is the nervous system at work: it senses danger and sends the signal to move.",
+      "memoryHook": "T-Rexy says: link the action to the system.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_073",
+      "question": "Which of these is an example of homeostasis?",
+      "correctAnswer": "Sweating when you are hot",
+      "distractors": [
+        "Eating lunch",
+        "Sleeping at night",
+        "Reading a book"
+      ],
+      "explanation": "Sweating cools the body back toward its normal temperature.",
+      "memoryHook": "T-Rexy says: sweating is your body turning on the air conditioning.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "homeostasis",
+        "human-body"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_074",
+      "question": "What is a gene?",
+      "correctAnswer": "a section of DNA that codes for one trait",
+      "distractors": [
+        "one version of a gene",
+        "the molecule that carries genetic instructions",
+        "a structure made of DNA that carries many genes"
+      ],
+      "explanation": "gene: a section of DNA that codes for one trait. (a unit of heredity)",
+      "memoryHook": "T-Rexy says: genetics words build on each other, learn them in order.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_075",
+      "question": "Which organ is a main part of the skeletal system?",
+      "correctAnswer": "bones",
+      "distractors": [
+        "kidneys",
+        "white blood cells",
+        "muscles"
+      ],
+      "explanation": "Bones are the key organs of the skeletal system: they support the body and protect organs like the brain.",
+      "memoryHook": "T-Rexy says: pair each system with its star organ.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_076",
+      "question": "Which gas do plants take in for photosynthesis?",
+      "correctAnswer": "Carbon dioxide",
+      "distractors": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "explanation": "Plants take in carbon dioxide and release oxygen during photosynthesis.",
+      "memoryHook": "T-Rexy says: plants breathe in what we breathe out.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "photosynthesis",
+        "plants"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_077",
+      "question": "What is the main function of the root of a plant?",
+      "correctAnswer": "To absorb water and nutrients from the soil",
+      "distractors": [
+        "To make food from sunlight",
+        "To attract pollinators",
+        "To hold seeds"
+      ],
+      "explanation": "Roots take in water and minerals and anchor the plant.",
+      "memoryHook": "T-Rexy says: roots drink for the plant.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "plants",
+        "structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_078",
+      "question": "Which organelle stores water and nutrients?",
+      "correctAnswer": "vacuole",
+      "distractors": [
+        "cell wall",
+        "Golgi apparatus",
+        "lysosome"
+      ],
+      "explanation": "The vacuole is a storage sac that holds water, nutrients, and waste until the cell needs them.",
+      "memoryHook": "T-Rexy says: match the job to the worker.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_079",
+      "question": "Which organ is a main part of the circulatory system?",
+      "correctAnswer": "heart",
+      "distractors": [
+        "kidneys",
+        "lungs",
+        "white blood cells"
+      ],
+      "explanation": "The heart is a muscle that squeezes about 100,000 times a day to push blood through the body.",
+      "memoryHook": "T-Rexy says: pair each system with its star organ.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_080",
+      "question": "In an experiment, what is the dependent variable?",
+      "correctAnswer": "The result that is measured",
+      "distractors": [
+        "The thing the scientist changes",
+        "The thing kept the same",
+        "The hypothesis"
+      ],
+      "explanation": "The dependent variable depends on the independent variable; it is what you measure.",
+      "memoryHook": "T-Rexy says: dependent means it depends on what you changed.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "scientific-method",
+        "variables"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_081",
+      "question": "What is the function of the lysosome?",
+      "correctAnswer": "breaks down waste and old cell parts",
+      "distractors": [
+        "releases energy from food through cellular respiration",
+        "captures sunlight for photosynthesis",
+        "the jelly-like fluid where most cell activities happen"
+      ],
+      "explanation": "Lysosomes carry strong chemicals that digest worn-out cell parts and invaders, like a cleanup crew with dissolving soap.",
+      "memoryHook": "T-Rexy says: each organelle has one main job to remember.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_082",
+      "question": "What is a dominant trait?",
+      "correctAnswer": "a trait that shows up even if only one copy is inherited",
+      "distractors": [
+        "a trait that shows up only if two copies are inherited",
+        "a chart that predicts the possible offspring of a cross",
+        "a change in the DNA sequence"
+      ],
+      "explanation": "dominant trait: a trait that shows up even if only one copy is inherited. (shown by a capital letter in genetics)",
+      "memoryHook": "T-Rexy says: genetics words build on each other, learn them in order.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_083",
+      "question": "Which organelle is a network of folded membranes where proteins are finished?",
+      "correctAnswer": "Endoplasmic reticulum",
+      "distractors": [
+        "Ribosome",
+        "Golgi apparatus",
+        "Lysosome"
+      ],
+      "explanation": "The endoplasmic reticulum is a folded membrane network that finishes proteins and makes lipids.",
+      "memoryHook": "T-Rexy says: the ER is the cell's workshop.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_084",
+      "question": "What happens during mitosis?",
+      "correctAnswer": "One cell divides into two identical cells",
+      "distractors": [
+        "One cell makes four different cells",
+        "Two cells join into one",
+        "A cell turns into a different type"
+      ],
+      "explanation": "Mitosis is cell division that makes two identical copies for growth and repair.",
+      "memoryHook": "T-Rexy says: mitosis copies the cell exactly.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "mitosis"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_085",
+      "question": "Which cell part is found in both plant and animal cells?",
+      "correctAnswer": "Mitochondria",
+      "distractors": [
+        "Chloroplast",
+        "Cell wall",
+        "Large central vacuole"
+      ],
+      "explanation": "Both plant and animal cells have mitochondria to release energy.",
+      "memoryHook": "T-Rexy says: both kinds of cells need power.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "plant-vs-animal"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_086",
+      "question": "What is the function of the ribosome?",
+      "correctAnswer": "builds proteins",
+      "distractors": [
+        "releases energy from food through cellular respiration",
+        "controls the cell and holds the DNA",
+        "captures sunlight for photosynthesis"
+      ],
+      "explanation": "Ribosomes float in the cytoplasm or sit on the endoplasmic reticulum, assembling proteins from amino-acid building blocks.",
+      "memoryHook": "T-Rexy says: each organelle has one main job to remember.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_087",
+      "question": "What is a mutualism?",
+      "correctAnswer": "a relationship where both organisms benefit",
+      "distractors": [
+        "many connected food chains in an ecosystem",
+        "an organism that breaks down dead material",
+        "an animal that hunts other animals for food"
+      ],
+      "explanation": "mutualism: a relationship where both organisms benefit. (like bees and flowers)",
+      "memoryHook": "T-Rexy says: ecology is about who eats whom and who helps whom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "ecosystems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_088",
+      "question": "What is the function of the chloroplast?",
+      "correctAnswer": "captures sunlight for photosynthesis",
+      "distractors": [
+        "releases energy from food through cellular respiration",
+        "builds proteins",
+        "controls what enters and leaves the cell"
+      ],
+      "explanation": "Inside the chloroplast, chlorophyll captures sunlight to power the reaction that turns water and carbon dioxide into glucose.",
+      "memoryHook": "T-Rexy says: each organelle has one main job to remember.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_089",
+      "question": "Which is an example of an adaptation?",
+      "correctAnswer": "A polar bear has thick white fur",
+      "distractors": [
+        "A bear eats fish",
+        "A bear sleeps in winter",
+        "A bear lives in the Arctic"
+      ],
+      "explanation": "Thick white fur helps the polar bear stay warm and hide in snow: that is an adaptation.",
+      "memoryHook": "T-Rexy says: adaptations are traits, not just behaviors or places.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "evolution",
+        "adaptations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_090",
+      "question": "What is ATP in a cell?",
+      "correctAnswer": "The energy the cell uses to do work",
+      "distractors": [
+        "A type of protein",
+        "A part of the nucleus",
+        "A waste product"
+      ],
+      "explanation": "Mitochondria release energy from food and store it as ATP, the energy currency the cell spends to do work.",
+      "memoryHook": "T-Rexy says: ATP is the cell's spendable energy.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "energy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_091",
+      "question": "What holds a cell's shape and helps it move?",
+      "correctAnswer": "Cytoskeleton",
+      "distractors": [
+        "Cell wall",
+        "Vacuole",
+        "Golgi apparatus"
+      ],
+      "explanation": "The cytoskeleton is a network of tiny fibers that gives the cell its shape and helps it move and divide.",
+      "memoryHook": "T-Rexy says: the cytoskeleton is the cell's skeleton.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_092",
+      "question": "What is the job of white blood cells?",
+      "correctAnswer": "To fight germs and infections",
+      "distractors": [
+        "To carry oxygen",
+        "To clot blood",
+        "To carry nutrients"
+      ],
+      "explanation": "White blood cells attack invaders like bacteria and viruses.",
+      "memoryHook": "T-Rexy says: white blood cells are the body's security team.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "blood"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_093",
+      "question": "What is the jelly-like substance inside a cell called?",
+      "correctAnswer": "Cytoplasm",
+      "distractors": [
+        "Chlorophyll",
+        "Plasma",
+        "Cellulose"
+      ],
+      "explanation": "Cytoplasm fills the cell and holds the organelles in place.",
+      "memoryHook": "T-Rexy says: cytoplasm is the cell's jelly.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_094",
+      "question": "Which body system is at work here? Your lungs fill with air when you breathe in.",
+      "correctAnswer": "The respiratory system",
+      "distractors": [
+        "The digestive system",
+        "The nervous system",
+        "The muscular system"
+      ],
+      "explanation": "Filling your lungs with air is the job of the respiratory system.",
+      "memoryHook": "T-Rexy says: link the action to the system.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_095",
+      "question": "Which organ is a main part of the excretory system?",
+      "correctAnswer": "kidneys",
+      "distractors": [
+        "lungs",
+        "bones",
+        "muscles"
+      ],
+      "explanation": "The kidneys are the key organs of the excretory system: they filter waste out of the blood.",
+      "memoryHook": "T-Rexy says: pair each system with its star organ.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_096",
+      "question": "What is the main job of the excretory system?",
+      "correctAnswer": "removes waste from the body",
+      "distractors": [
+        "moves the body",
+        "breaks down food into nutrients",
+        "supports the body and protects organs"
+      ],
+      "explanation": "The kidneys filter waste from the blood, and the waste leaves the body as urine.",
+      "memoryHook": "T-Rexy says: each body system has one big job.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_097",
+      "question": "Which process do cells use to take in water?",
+      "correctAnswer": "Osmosis",
+      "distractors": [
+        "Photosynthesis",
+        "Mitosis",
+        "Digestion"
+      ],
+      "explanation": "Osmosis is the movement of water across a cell membrane.",
+      "memoryHook": "T-Rexy says: osmosis is water moving to balance things out.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "transport"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_098",
+      "question": "Which of these is a carnivore?",
+      "correctAnswer": "A wolf",
+      "distractors": [
+        "A rabbit",
+        "A cow",
+        "A goat"
+      ],
+      "explanation": "A wolf eats meat, so it is a carnivore.",
+      "memoryHook": "T-Rexy says: carnivore means meat eater.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecology",
+        "consumers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_099",
+      "question": "What are the products of photosynthesis?",
+      "correctAnswer": "Glucose and oxygen",
+      "distractors": [
+        "Carbon dioxide and water",
+        "ATP and heat",
+        "Nitrogen and hydrogen"
+      ],
+      "explanation": "Photosynthesis makes glucose (food) and releases oxygen.",
+      "memoryHook": "T-Rexy says: plants make sugar and give us oxygen.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "photosynthesis",
+        "plants"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LSC7_100",
+      "question": "What is a mutation?",
+      "correctAnswer": "a change in the DNA sequence",
+      "distractors": [
+        "passing traits from parents to offspring",
+        "the genes an organism has for a trait",
+        "a trait that shows up even if only one copy is inherited"
+      ],
+      "explanation": "mutation: a change in the DNA sequence. (it can create a new trait)",
+      "memoryHook": "T-Rexy says: genetics words build on each other, learn them in order.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

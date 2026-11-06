@@ -1,0 +1,2006 @@
+{
+  "packId": "gr8-english-grammar",
+  "title": "English Grammar (8th Grade)",
+  "description": "English Grammar (8th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "english",
+    "grammar",
+    "8th"
+  ],
+  "questions": [
+    {
+      "id": "GRA8_001",
+      "question": "Which part of speech names a person, place, thing, or idea?",
+      "correctAnswer": "Noun",
+      "distractors": [
+        "Verb",
+        "Adjective",
+        "Adverb"
+      ],
+      "explanation": "Test it: if you can put 'the' or 'a' in front of it - the dog, a city, the idea - it is a noun. People, places, things, and ideas all pass that test.",
+      "memoryHook": "T-Rexy says: Nouns name things.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "parts-of-speech",
+        "nouns"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_002",
+      "question": "Which part of speech shows action or being?",
+      "correctAnswer": "Verb",
+      "distractors": [
+        "Noun",
+        "Adjective",
+        "Preposition"
+      ],
+      "explanation": "Ask what the subject does or is: in 'She runs,' runs is the action; in 'She is tall,' is shows her state of being. Every sentence needs a verb.",
+      "memoryHook": "T-Rexy says: Verbs show action.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "parts-of-speech",
+        "verbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_003",
+      "question": "Which part of speech describes a noun?",
+      "correctAnswer": "Adjective",
+      "distractors": [
+        "Adverb",
+        "Verb",
+        "Pronoun"
+      ],
+      "explanation": "Adjectives answer which one, what kind, or how many: the red ball, a brave girl, three apples. They always sit with a noun.",
+      "memoryHook": "T-Rexy says: Adjectives describe nouns.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "parts-of-speech",
+        "adjectives"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_004",
+      "question": "Which part of speech describes a verb, adjective, or adverb?",
+      "correctAnswer": "Adverb",
+      "distractors": [
+        "Adjective",
+        "Noun",
+        "Pronoun"
+      ],
+      "explanation": "Adverbs answer how, when, where, or to what extent: ran quickly, very tall, arrived yesterday. Many end in -ly, but not all - fast and well do not.",
+      "memoryHook": "T-Rexy says: Adverbs describe actions.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "parts-of-speech",
+        "adverbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_005",
+      "question": "Which part of speech takes the place of a noun?",
+      "correctAnswer": "Pronoun",
+      "distractors": [
+        "Adjective",
+        "Adverb",
+        "Interjection"
+      ],
+      "explanation": "Pronouns stop sentences from repeating the same noun: 'Ana lost her book' instead of 'Ana lost Ana's book.' The pronoun must match its noun in number and gender.",
+      "memoryHook": "T-Rexy says: Pronouns stand in for nouns.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "parts-of-speech",
+        "pronouns"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_006",
+      "question": "Which part of speech shows the relationship between a noun and another word?",
+      "correctAnswer": "Preposition",
+      "distractors": [
+        "Conjunction",
+        "Interjection",
+        "Article"
+      ],
+      "explanation": "A preposition plus its noun makes a phrase that tells where or when: under the table, after lunch, beside Ana. Anything a rabbit can do to a box - in, on, under, beside, over - is a preposition.",
+      "memoryHook": "T-Rexy says: Prepositions show relationships.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "parts-of-speech",
+        "prepositions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_007",
+      "question": "Which part of speech joins words or groups of words?",
+      "correctAnswer": "Conjunction",
+      "distractors": [
+        "Preposition",
+        "Interjection",
+        "Adverb"
+      ],
+      "explanation": "Remember FANBOYS - for, and, nor, but, or, yet, so - the seven words that join equal parts of a sentence. 'And' adds, 'but' contrasts, 'or' offers a choice.",
+      "memoryHook": "T-Rexy says: Conjunctions join things.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "parts-of-speech",
+        "conjunctions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_008",
+      "question": "In the sentence 'The dog ran quickly,' what part of speech is 'quickly'?",
+      "correctAnswer": "Adverb",
+      "distractors": [
+        "Adjective",
+        "Noun",
+        "Verb"
+      ],
+      "explanation": "Quickly describes how the dog ran, so it is an adverb.",
+      "memoryHook": "T-Rexy says: Quickly describes the action.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "parts-of-speech",
+        "adverbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_009",
+      "question": "In the sentence 'The happy child laughed,' what part of speech is 'happy'?",
+      "correctAnswer": "Adjective",
+      "distractors": [
+        "Adverb",
+        "Noun",
+        "Verb"
+      ],
+      "explanation": "Happy describes the noun child, so it is an adjective.",
+      "memoryHook": "T-Rexy says: Happy describes the child.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "parts-of-speech",
+        "adjectives"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_010",
+      "question": "In the sentence 'She and I went home,' what part of speech is 'and'?",
+      "correctAnswer": "Conjunction",
+      "distractors": [
+        "Preposition",
+        "Pronoun",
+        "Interjection"
+      ],
+      "explanation": "And joins she and I, so it is a conjunction.",
+      "memoryHook": "T-Rexy says: And joins the words.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "parts-of-speech",
+        "conjunctions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_011",
+      "question": "What is the subject of the sentence 'The cat sat on the mat'?",
+      "correctAnswer": "The cat",
+      "distractors": [
+        "sat",
+        "on the mat",
+        "the mat"
+      ],
+      "explanation": "The subject is who or what the sentence is about: the cat.",
+      "memoryHook": "T-Rexy says: The subject does the action.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "sentence-structure",
+        "subjects"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_012",
+      "question": "What is the predicate of the sentence 'The cat sat on the mat'?",
+      "correctAnswer": "sat on the mat",
+      "distractors": [
+        "The cat",
+        "the mat",
+        "sat"
+      ],
+      "explanation": "The predicate tells what the subject did: sat on the mat.",
+      "memoryHook": "T-Rexy says: The predicate tells what happened.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "sentence-structure",
+        "predicates"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_013",
+      "question": "What is a complete sentence?",
+      "correctAnswer": "A group of words with a subject and a predicate that expresses a complete thought",
+      "distractors": [
+        "A group of words with only a subject",
+        "A phrase with no verb",
+        "A group of words that ends in a question mark only"
+      ],
+      "explanation": "Check three things: a subject (who or what), a verb (what happens), and a complete thought that makes sense alone. 'The dog ran' passes all three; 'Running down the street' fails two.",
+      "memoryHook": "T-Rexy says: Complete sentences need subject plus verb.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "sentence-structure",
+        "complete-sentences"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_014",
+      "question": "Which of these is a sentence fragment?",
+      "correctAnswer": "Running down the street.",
+      "distractors": [
+        "The dog ran down the street.",
+        "She laughed loudly.",
+        "They went home."
+      ],
+      "explanation": "Running down the street has no subject and no complete thought, so it is a fragment.",
+      "memoryHook": "T-Rexy says: Fragments are missing a piece.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "sentence-structure",
+        "fragments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_015",
+      "question": "Which of these is a run-on sentence?",
+      "correctAnswer": "I went to the store I bought milk.",
+      "distractors": [
+        "I went to the store, and I bought milk.",
+        "I went to the store. I bought milk.",
+        "I went to the store because I needed milk."
+      ],
+      "explanation": "Fix a run-on three ways: add a period ('I went to the store. I bought milk.'), add a comma plus and/but/so, or add a semicolon between the two complete thoughts.",
+      "memoryHook": "T-Rexy says: Run-ons jam sentences together.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "sentence-structure",
+        "run-ons"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_016",
+      "question": "What is a simple sentence?",
+      "correctAnswer": "A sentence with one independent clause",
+      "distractors": [
+        "A sentence with two independent clauses",
+        "A sentence with a dependent clause",
+        "A sentence with no verb"
+      ],
+      "explanation": "Simple does not mean short - 'The tall, tired dog slept soundly all afternoon' is one clause, so it is still a simple sentence. Count the clauses, not the words.",
+      "memoryHook": "T-Rexy says: Simple means one clause.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "sentence-structure",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_017",
+      "question": "What is a compound sentence?",
+      "correctAnswer": "A sentence with two independent clauses joined by a conjunction or semicolon",
+      "distractors": [
+        "A sentence with one clause",
+        "A sentence with a dependent clause only",
+        "A sentence with no subject"
+      ],
+      "explanation": "Each half must be a sentence on its own: 'I went to the store' and 'I bought milk' both stand alone, so joining them with 'and' makes a compound sentence.",
+      "memoryHook": "T-Rexy says: Compound means two complete thoughts.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "sentence-structure",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_018",
+      "question": "What is a complex sentence?",
+      "correctAnswer": "A sentence with one independent clause and at least one dependent clause",
+      "distractors": [
+        "A sentence with two independent clauses",
+        "A sentence with one clause",
+        "A sentence with no verb"
+      ],
+      "explanation": "Look for the subordinating word - because, when, although, if - that starts the dependent part: 'Because it rained, we stayed home' is complex, not compound.",
+      "memoryHook": "T-Rexy says: Complex mixes main and dependent.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "sentence-structure",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_019",
+      "question": "What is a compound-complex sentence?",
+      "correctAnswer": "A sentence with two independent clauses and at least one dependent clause",
+      "distractors": [
+        "A sentence with one clause",
+        "A sentence with two dependent clauses only",
+        "A sentence with no conjunction"
+      ],
+      "explanation": "It needs both parts: at least two independent clauses (the compound part) and at least one dependent clause (the complex part). 'Because it rained, we stayed home, and we played games' has all three.",
+      "memoryHook": "T-Rexy says: Compound-complex has it all.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "sentence-structure",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_020",
+      "question": "What is an independent clause?",
+      "correctAnswer": "A clause that can stand alone as a sentence",
+      "distractors": [
+        "A clause that cannot stand alone",
+        "A phrase with no verb",
+        "A group of words that is a fragment"
+      ],
+      "explanation": "The test is simple: cover the rest of the sentence - if the words left can stand alone as a sentence, the clause is independent.",
+      "memoryHook": "T-Rexy says: Independent clauses stand alone.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "clauses"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_021",
+      "question": "What is a dependent clause?",
+      "correctAnswer": "A clause that cannot stand alone as a sentence",
+      "distractors": [
+        "A clause that can stand alone",
+        "A phrase with no verb",
+        "A complete sentence"
+      ],
+      "explanation": "A dependent clause starts with a subordinating word and needs a main clause.",
+      "memoryHook": "T-Rexy says: Dependent clauses need help.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "clauses"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_022",
+      "question": "Which word starts a dependent clause in 'Because it rained, we stayed home'?",
+      "correctAnswer": "Because",
+      "distractors": [
+        "rained",
+        "stayed",
+        "home"
+      ],
+      "explanation": "Because is a subordinating conjunction that starts the dependent clause.",
+      "memoryHook": "T-Rexy says: Because starts the dependent part.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "clauses",
+        "subordinating"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_023",
+      "question": "What is a phrase?",
+      "correctAnswer": "A group of words without a subject and a verb",
+      "distractors": [
+        "A complete sentence",
+        "A group with a subject and verb",
+        "A run-on sentence"
+      ],
+      "explanation": "Phrases are word groups that do a job - 'on the table' tells where, 'running fast' describes - but they never have both a subject and a verb, so they can never stand alone as a sentence.",
+      "memoryHook": "T-Rexy says: Phrases are missing a subject or verb.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "phrases",
+        "clauses"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_024",
+      "question": "What is a prepositional phrase?",
+      "correctAnswer": "A phrase that begins with a preposition and ends with a noun or pronoun",
+      "distractors": [
+        "A phrase that begins with a verb",
+        "A phrase that is a complete sentence",
+        "A phrase with a subject and verb"
+      ],
+      "explanation": "It always ends with the object of the preposition - the noun or pronoun after it: in the box, under Ana's bed, beside the tall tree. Find the preposition, then read to the next noun.",
+      "memoryHook": "T-Rexy says: Prepositional phrases start with prepositions.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "phrases",
+        "prepositional"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_025",
+      "question": "In the sentence 'The book on the table is mine,' what is the prepositional phrase?",
+      "correctAnswer": "on the table",
+      "distractors": [
+        "The book",
+        "is mine",
+        "The book on"
+      ],
+      "explanation": "On the table starts with the preposition on.",
+      "memoryHook": "T-Rexy says: On the table is the prepositional phrase.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "phrases",
+        "prepositional"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_026",
+      "question": "What is an appositive?",
+      "correctAnswer": "A noun or noun phrase that renames another noun",
+      "distractors": [
+        "A verb phrase",
+        "A clause that starts a sentence",
+        "A type of adjective"
+      ],
+      "explanation": "Appositives sit right next to the noun they rename, usually between commas: 'My dog, a golden retriever, loves to swim.' Remove it and the sentence still works.",
+      "memoryHook": "T-Rexy says: Appositives rename nouns.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "phrases",
+        "appositives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_027",
+      "question": "In the sentence 'My sister, a doctor, lives in Phoenix,' what is the appositive?",
+      "correctAnswer": "a doctor",
+      "distractors": [
+        "My sister",
+        "lives in Phoenix",
+        "in Phoenix"
+      ],
+      "explanation": "A doctor renames my sister.",
+      "memoryHook": "T-Rexy says: A doctor renames my sister.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "phrases",
+        "appositives"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_028",
+      "question": "What is a participle?",
+      "correctAnswer": "A verb form used as an adjective, like 'running' or 'broken'",
+      "distractors": [
+        "A verb used as a noun",
+        "A noun used as a verb",
+        "A type of conjunction"
+      ],
+      "explanation": "Spot them by their endings: present participles end in -ing ('the running dog'), past participles often end in -ed or -en ('the broken window'). They act as adjectives, not as the sentence's main verb.",
+      "memoryHook": "T-Rexy says: Participles describe like adjectives.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "verbals",
+        "participles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_029",
+      "question": "What is a gerund?",
+      "correctAnswer": "A verb form ending in -ing used as a noun",
+      "distractors": [
+        "A verb form used as an adjective",
+        "A noun used as a verb",
+        "A type of adverb"
+      ],
+      "explanation": "A gerund is an -ing verb doing a noun's job - subject, object, or after a preposition: 'Swimming is fun' (subject), 'I love swimming' (object), 'good at swimming' (after a preposition).",
+      "memoryHook": "T-Rexy says: Gerunds are -ing nouns.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "verbals",
+        "gerunds"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_030",
+      "question": "In the sentence 'Swimming is fun,' what is 'swimming'?",
+      "correctAnswer": "A gerund",
+      "distractors": [
+        "A participle",
+        "An infinitive",
+        "A preposition"
+      ],
+      "explanation": "Swimming is the subject, so the -ing form acts as a noun.",
+      "memoryHook": "T-Rexy says: Swimming is the subject noun.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "verbals",
+        "gerunds"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_031",
+      "question": "What is an infinitive?",
+      "correctAnswer": "The base form of a verb with 'to,' like 'to run'",
+      "distractors": [
+        "A verb ending in -ing",
+        "A verb in the past tense",
+        "A noun phrase"
+      ],
+      "explanation": "Infinitives can act as nouns ('To read is fun'), adjectives ('a book to read'), or adverbs ('I came to help'). The 'to' plus base verb never changes form.",
+      "memoryHook": "T-Rexy says: Infinitives start with to.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "verbals",
+        "infinitives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_032",
+      "question": "In the sentence 'I like to read,' what is 'to read'?",
+      "correctAnswer": "An infinitive",
+      "distractors": [
+        "A gerund",
+        "A participle",
+        "A preposition"
+      ],
+      "explanation": "To read is 'to' plus the base verb.",
+      "memoryHook": "T-Rexy says: To read is an infinitive.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "verbals",
+        "infinitives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_033",
+      "question": "What is active voice?",
+      "correctAnswer": "The subject performs the action",
+      "distractors": [
+        "The subject receives the action",
+        "The verb is in the past tense",
+        "The sentence is a question"
+      ],
+      "explanation": "In active voice, the subject does the action: 'The dog chased the cat.'",
+      "memoryHook": "T-Rexy says: Active means the subject acts.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "voice"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_034",
+      "question": "What is passive voice?",
+      "correctAnswer": "The subject receives the action",
+      "distractors": [
+        "The subject performs the action",
+        "The verb is in the future tense",
+        "The sentence has no subject"
+      ],
+      "explanation": "In passive voice, the subject is acted on: 'The cat was chased by the dog.'",
+      "memoryHook": "T-Rexy says: Passive means the subject is acted on.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "voice"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_035",
+      "question": "Which sentence is in active voice?",
+      "correctAnswer": "Maria wrote the letter.",
+      "distractors": [
+        "The letter was written by Maria.",
+        "The letter was written.",
+        "The letter is written."
+      ],
+      "explanation": "Maria performs the action, so it is active.",
+      "memoryHook": "T-Rexy says: Maria wrote it, so it is active.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "voice"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_036",
+      "question": "Which sentence is in passive voice?",
+      "correctAnswer": "The cake was baked by Ana.",
+      "distractors": [
+        "Ana baked the cake.",
+        "Ana is baking a cake.",
+        "Ana will bake a cake."
+      ],
+      "explanation": "The cake receives the action, so it is passive.",
+      "memoryHook": "T-Rexy says: The cake was baked, so it is passive.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "voice"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_037",
+      "question": "What is the indicative mood?",
+      "correctAnswer": "The mood used for facts and statements",
+      "distractors": [
+        "The mood used for commands",
+        "The mood used for wishes",
+        "The mood used for questions only"
+      ],
+      "explanation": "Indicative mood states facts: 'She is here.'",
+      "memoryHook": "T-Rexy says: Indicative states facts.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "mood",
+        "verbs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_038",
+      "question": "What is the imperative mood?",
+      "correctAnswer": "The mood used for commands and requests",
+      "distractors": [
+        "The mood used for facts",
+        "The mood used for wishes",
+        "The mood used for questions"
+      ],
+      "explanation": "Imperative mood gives commands: 'Close the door.'",
+      "memoryHook": "T-Rexy says: Imperative gives commands.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "mood",
+        "verbs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_039",
+      "question": "What is the subjunctive mood?",
+      "correctAnswer": "The mood used for wishes, suggestions, or hypothetical situations",
+      "distractors": [
+        "The mood used for facts",
+        "The mood used for commands",
+        "The mood used for questions"
+      ],
+      "explanation": "Subjunctive mood expresses wishes: 'I wish I were taller.'",
+      "memoryHook": "T-Rexy says: Subjunctive is for wishes.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "mood",
+        "verbs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_040",
+      "question": "Which sentence uses the subjunctive mood?",
+      "correctAnswer": "I wish I were taller.",
+      "distractors": [
+        "I am taller than you.",
+        "Close the door.",
+        "She is tall."
+      ],
+      "explanation": "I wish I were expresses a wish, using the subjunctive.",
+      "memoryHook": "T-Rexy says: Wish sentences use subjunctive.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "mood",
+        "verbs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_041",
+      "question": "What is verb tense?",
+      "correctAnswer": "The form of a verb that shows when an action happens",
+      "distractors": [
+        "The subject of a sentence",
+        "The object of a sentence",
+        "The number of verbs"
+      ],
+      "explanation": "English has three simple tenses - walked (past), walk (present), will walk (future) - and perfect and progressive forms built on them. The tense must stay consistent inside one sentence.",
+      "memoryHook": "T-Rexy says: Tense shows time.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "verbs",
+        "tense"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_042",
+      "question": "What is the past tense of 'go'?",
+      "correctAnswer": "went",
+      "distractors": [
+        "goed",
+        "gone",
+        "going"
+      ],
+      "explanation": "Go is irregular - it does not add -ed. Its three main forms are go, went, gone: 'I go today, I went yesterday, I have gone already.'",
+      "memoryHook": "T-Rexy says: Went is the past of go.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "verbs",
+        "tense"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_043",
+      "question": "What is the past participle of 'eat'?",
+      "correctAnswer": "eaten",
+      "distractors": [
+        "ate",
+        "eating",
+        "eats"
+      ],
+      "explanation": "Eat is irregular: eat, ate, eaten. The past participle always follows have or be - 'I have eaten,' 'It was eaten' - never 'I have ate.'",
+      "memoryHook": "T-Rexy says: Eaten is the past participle.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "verbs",
+        "tense"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_044",
+      "question": "What is the present perfect tense of 'I walk'?",
+      "correctAnswer": "I have walked",
+      "distractors": [
+        "I walked",
+        "I am walking",
+        "I will walk"
+      ],
+      "explanation": "Present perfect uses have plus the past participle.",
+      "memoryHook": "T-Rexy says: Have walked is present perfect.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "verbs",
+        "tense"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_045",
+      "question": "What is the future tense of 'she runs'?",
+      "correctAnswer": "She will run",
+      "distractors": [
+        "She ran",
+        "She is running",
+        "She runs"
+      ],
+      "explanation": "Future tense uses will plus the base verb.",
+      "memoryHook": "T-Rexy says: Will run is future.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "verbs",
+        "tense"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_046",
+      "question": "What is subject-verb agreement?",
+      "correctAnswer": "The verb must match the subject in number",
+      "distractors": [
+        "The verb must match the object",
+        "The subject must match the adjective",
+        "The verb must be in the past tense"
+      ],
+      "explanation": "Watch out for words between the subject and the verb: 'The box of chocolates is on the table' - box is singular, so the verb is 'is,' even though chocolates is plural.",
+      "memoryHook": "T-Rexy says: Subjects and verbs must agree.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "agreement"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_047",
+      "question": "Which sentence has correct subject-verb agreement?",
+      "correctAnswer": "The dogs bark loudly.",
+      "distractors": [
+        "The dogs barks loudly.",
+        "The dog bark loudly.",
+        "The dog barks loudly and the dogs barks."
+      ],
+      "explanation": "Dogs is plural, so the verb bark is correct.",
+      "memoryHook": "T-Rexy says: Plural subject, plural verb.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "agreement"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_048",
+      "question": "What is a pronoun's antecedent?",
+      "correctAnswer": "The noun a pronoun replaces",
+      "distractors": [
+        "The verb in a sentence",
+        "The adjective in a sentence",
+        "The object of a preposition"
+      ],
+      "explanation": "Every pronoun must point clearly to one noun. If two nouns could fit - 'Ana told Maya she won' - the reader cannot tell whose win it was, so the antecedent is unclear.",
+      "memoryHook": "T-Rexy says: The antecedent is the noun replaced.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "pronouns",
+        "antecedents"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_049",
+      "question": "In the sentence 'Ana lost her book,' what is the antecedent of 'her'?",
+      "correctAnswer": "Ana",
+      "distractors": [
+        "book",
+        "lost",
+        "her"
+      ],
+      "explanation": "Her refers back to Ana.",
+      "memoryHook": "T-Rexy says: Her points to Ana.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "pronouns",
+        "antecedents"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_050",
+      "question": "Which pronoun is correct: '___ and I went to the store'?",
+      "correctAnswer": "He",
+      "distractors": [
+        "Him",
+        "His",
+        "Himself"
+      ],
+      "explanation": "He is a subject pronoun, so it fits as the subject.",
+      "memoryHook": "T-Rexy says: He is the subject form.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "pronouns",
+        "case"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_051",
+      "question": "Which pronoun is correct: 'The teacher gave the book to ___'?",
+      "correctAnswer": "me",
+      "distractors": [
+        "I",
+        "my",
+        "mine"
+      ],
+      "explanation": "Me is an object pronoun, so it fits after the preposition to.",
+      "memoryHook": "T-Rexy says: Me is the object form.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "pronouns",
+        "case"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_052",
+      "question": "What is an intensive pronoun?",
+      "correctAnswer": "A pronoun that emphasizes a noun, like 'myself' in 'I did it myself'",
+      "distractors": [
+        "A pronoun that replaces a noun",
+        "A pronoun that asks a question",
+        "A pronoun that shows possession"
+      ],
+      "explanation": "Intensive pronouns add emphasis and can be removed without changing the meaning.",
+      "memoryHook": "T-Rexy says: Myself adds emphasis.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "pronouns",
+        "intensive"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_053",
+      "question": "What is a reflexive pronoun?",
+      "correctAnswer": "A pronoun that refers back to the subject, like 'herself'",
+      "distractors": [
+        "A pronoun that replaces a noun",
+        "A pronoun that asks a question",
+        "A pronoun that shows possession"
+      ],
+      "explanation": "Reflexive pronouns are needed when the subject and object are the same.",
+      "memoryHook": "T-Rexy says: Reflexive points back to the subject.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "pronouns",
+        "reflexive"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_054",
+      "question": "Which sentence uses a reflexive pronoun correctly?",
+      "correctAnswer": "She taught herself to play piano.",
+      "distractors": [
+        "She taught himself to play piano.",
+        "She taught themselves to play piano.",
+        "She taught itself to play piano."
+      ],
+      "explanation": "Herself matches the subject she.",
+      "memoryHook": "T-Rexy says: Herself matches she.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "pronouns",
+        "reflexive"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_055",
+      "question": "When do you use a comma after an introductory phrase?",
+      "correctAnswer": "After a phrase that starts a sentence, before the main clause",
+      "distractors": [
+        "Never",
+        "Only in questions",
+        "After every word"
+      ],
+      "explanation": "The comma marks where the introduction ends and the main clause begins. Read it aloud: the natural pause after 'After dinner' is where the comma goes.",
+      "memoryHook": "T-Rexy says: Intro phrases get a comma.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "punctuation",
+        "commas"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_056",
+      "question": "Which sentence uses commas correctly?",
+      "correctAnswer": "After dinner, we went for a walk.",
+      "distractors": [
+        "After dinner we went for a walk.",
+        "After, dinner we went for a walk.",
+        "After dinner, we, went for a walk."
+      ],
+      "explanation": "A comma follows the introductory phrase after dinner.",
+      "memoryHook": "T-Rexy says: Intro comma after dinner.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "punctuation",
+        "commas"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_057",
+      "question": "When do you use a semicolon?",
+      "correctAnswer": "To join two closely related independent clauses",
+      "distractors": [
+        "To end a sentence",
+        "To join a dependent clause only",
+        "To replace a comma in a list of two items"
+      ],
+      "explanation": "A semicolon is a soft period: it joins two complete sentences that belong together, but it never joins a fragment - 'I love reading; because it is fun' is wrong because 'because it is fun' cannot stand alone.",
+      "memoryHook": "T-Rexy says: Semicolons join complete thoughts.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "punctuation",
+        "semicolons"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_058",
+      "question": "Which sentence uses a semicolon correctly?",
+      "correctAnswer": "I love reading; my sister loves movies.",
+      "distractors": [
+        "I love reading; because it is fun.",
+        "I love; reading books.",
+        "I love reading; and my sister loves movies."
+      ],
+      "explanation": "Both sides of the semicolon are complete sentences.",
+      "memoryHook": "T-Rexy says: Both sides are complete.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "punctuation",
+        "semicolons"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_059",
+      "question": "When do you use a colon?",
+      "correctAnswer": "To introduce a list, an explanation, or a quotation",
+      "distractors": [
+        "To end a sentence",
+        "To join two sentences",
+        "To show possession"
+      ],
+      "explanation": "A colon needs a complete sentence before it: 'Bring these items: a notebook...' works because 'Bring these items' is complete. A colon never splits a verb from its object.",
+      "memoryHook": "T-Rexy says: Colons introduce lists.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "punctuation",
+        "colons"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_060",
+      "question": "Which sentence uses a colon correctly?",
+      "correctAnswer": "Bring these items: a notebook, a pen, and a ruler.",
+      "distractors": [
+        "Bring: these items a notebook.",
+        "Bring these items, a notebook: a pen.",
+        "Bring these items a notebook, a pen, and: a ruler."
+      ],
+      "explanation": "The colon introduces the list.",
+      "memoryHook": "T-Rexy says: The colon starts the list.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "punctuation",
+        "colons"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_061",
+      "question": "When do you use an apostrophe?",
+      "correctAnswer": "To show possession or a contraction",
+      "distractors": [
+        "To make a word plural",
+        "To end a sentence",
+        "To join two sentences"
+      ],
+      "explanation": "Two jobs only: possession (the dog's bone) and contractions (don't = do not). Apostrophes never make a word plural - 'apple's' for more than one apple is wrong.",
+      "memoryHook": "T-Rexy says: Apostrophes show possession or contractions.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "punctuation",
+        "apostrophes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_062",
+      "question": "Which word is the correct possessive form of 'dog'?",
+      "correctAnswer": "dog's",
+      "distractors": [
+        "dogs",
+        "doges",
+        "dogs'"
+      ],
+      "explanation": "Add an apostrophe and s for a singular possessive.",
+      "memoryHook": "T-Rexy says: Dog's shows one dog owns it.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "punctuation",
+        "apostrophes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_063",
+      "question": "Which sentence uses quotation marks correctly?",
+      "correctAnswer": "She said, \"I will be there soon.\"",
+      "distractors": [
+        "She said, I will be there soon.",
+        "She said \"I will be there soon\".",
+        "She said, I will be there soon.'"
+      ],
+      "explanation": "Quotation marks go around the exact words spoken.",
+      "memoryHook": "T-Rexy says: Quotes go around spoken words.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "punctuation",
+        "quotation-marks"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_064",
+      "question": "What is parallel structure?",
+      "correctAnswer": "Using the same grammatical form for items in a list",
+      "distractors": [
+        "Using different forms in a list",
+        "Using only short sentences",
+        "Using only long sentences"
+      ],
+      "explanation": "Read the list out loud: 'reading, writing, and swimming' flows because all three are -ing words. Mix in 'to write' and the rhythm breaks - that is how you spot a parallel-structure error.",
+      "memoryHook": "T-Rexy says: Parallel lists match in form.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "style",
+        "parallel-structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_065",
+      "question": "Which sentence has parallel structure?",
+      "correctAnswer": "She likes reading, writing, and swimming.",
+      "distractors": [
+        "She likes reading, to write, and swimming.",
+        "She likes to read, writing, and swim.",
+        "She likes reading, writing, and to swim."
+      ],
+      "explanation": "All three items are gerunds, so they are parallel.",
+      "memoryHook": "T-Rexy says: All three are -ing forms.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "style",
+        "parallel-structure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_066",
+      "question": "What is a dangling modifier?",
+      "correctAnswer": "A phrase that does not clearly modify the word it should",
+      "distractors": [
+        "A phrase that is too long",
+        "A clause that is too short",
+        "A sentence with no verb"
+      ],
+      "explanation": "The phrase at the start must describe the subject that follows it. 'Running late' must be followed by the person who was late - 'Running late, I missed the bus' - not by the bus.",
+      "memoryHook": "T-Rexy says: Dangling modifiers point at the wrong word.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "style",
+        "modifiers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_067",
+      "question": "Which sentence has a dangling modifier?",
+      "correctAnswer": "Running late, the bus left without me.",
+      "distractors": [
+        "Running late, I missed the bus.",
+        "I missed the bus because I was running late.",
+        "The bus left without me."
+      ],
+      "explanation": "Running late should describe I, not the bus.",
+      "memoryHook": "T-Rexy says: The bus was not running late.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "style",
+        "modifiers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_068",
+      "question": "What is the difference between 'their,' 'there,' and 'they're'?",
+      "correctAnswer": "Their shows possession, there shows place, they're means they are",
+      "distractors": [
+        "They are all the same",
+        "Their shows place, there shows possession",
+        "They're shows possession"
+      ],
+      "explanation": "Test it: if you can replace the word with 'they are,' use they're. If it shows ownership, use their. For a place, use there - it even contains the word 'here' inside it.",
+      "memoryHook": "T-Rexy says: Their, there, they're are different.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "commonly-confused",
+        "homophones"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_069",
+      "question": "What is the difference between 'your' and 'you're'?",
+      "correctAnswer": "Your shows possession; you're means you are",
+      "distractors": [
+        "They are the same",
+        "Your means you are; you're shows possession",
+        "Your is a verb"
+      ],
+      "explanation": "Test it: if you can replace the word with 'you are,' use you're - 'You're late' means 'You are late.' If it shows ownership, use your - 'your book.'",
+      "memoryHook": "T-Rexy says: Your owns, you're means you are.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "commonly-confused",
+        "homophones"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_070",
+      "question": "What is the difference between 'its' and 'it's'?",
+      "correctAnswer": "Its shows possession; it's means it is",
+      "distractors": [
+        "They are the same",
+        "Its means it is; it's shows possession",
+        "Its is a verb"
+      ],
+      "explanation": "Test it: if you can replace the word with 'it is,' use it's - 'It's raining' means 'It is raining.' Possessive its never has an apostrophe - 'The dog wagged its tail.'",
+      "memoryHook": "T-Rexy says: Its owns, it's means it is.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "commonly-confused",
+        "homophones"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_071",
+      "question": "What is the difference between 'to,' 'too,' and 'two'?",
+      "correctAnswer": "To is a preposition, too means also or very, two is the number 2",
+      "distractors": [
+        "They are all the same",
+        "To is the number, too is a preposition",
+        "Two means also"
+      ],
+      "explanation": "To is a direction word ('go to school'), too means 'also' or 'very' ('me too,' 'too hot'), and two is the number 2. Too is the only one with the extra o - it means 'one too many.'",
+      "memoryHook": "T-Rexy says: To, too, two are different.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "commonly-confused",
+        "homophones"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_072",
+      "question": "What is a simile?",
+      "correctAnswer": "A comparison using like or as",
+      "distractors": [
+        "A comparison without like or as",
+        "A sound word",
+        "An exaggeration"
+      ],
+      "explanation": "Similes always signal the comparison with like or as - 'brave as a lion,' 'runs like the wind.' If neither word appears, it is not a simile.",
+      "memoryHook": "T-Rexy says: Similes use like or as.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "figurative-language",
+        "similes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_073",
+      "question": "What is a metaphor?",
+      "correctAnswer": "A comparison without using like or as",
+      "distractors": [
+        "A comparison using like or as",
+        "A sound word",
+        "An exaggeration"
+      ],
+      "explanation": "A metaphor skips like and as and states the comparison directly: 'The classroom was a zoo' means the classroom was wild and noisy, not that it really had animals.",
+      "memoryHook": "T-Rexy says: Metaphors say it is.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "figurative-language",
+        "metaphors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_074",
+      "question": "Which sentence contains a simile?",
+      "correctAnswer": "Her smile was as bright as the sun.",
+      "distractors": [
+        "Her smile was the sun.",
+        "The sun smiled down.",
+        "Her smile lit the room."
+      ],
+      "explanation": "As bright as the sun uses as to compare.",
+      "memoryHook": "T-Rexy says: As bright as the sun is a simile.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "figurative-language",
+        "similes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_075",
+      "question": "Which sentence contains a metaphor?",
+      "correctAnswer": "The classroom was a zoo.",
+      "distractors": [
+        "The classroom was like a zoo.",
+        "The classroom was as noisy as a zoo.",
+        "The classroom was very noisy."
+      ],
+      "explanation": "The classroom was a zoo compares without like or as.",
+      "memoryHook": "T-Rexy says: A zoo is a metaphor.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "figurative-language",
+        "metaphors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_076",
+      "question": "What is personification?",
+      "correctAnswer": "Giving human qualities to nonhuman things",
+      "distractors": [
+        "Comparing with like or as",
+        "Exaggerating for effect",
+        "Repeating a sound"
+      ],
+      "explanation": "Look for a human action done by something nonhuman: the wind cannot whisper, the sun cannot smile, the alarm cannot scream. That human verb is the giveaway.",
+      "memoryHook": "T-Rexy says: Personification makes things human.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "figurative-language",
+        "personification"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_077",
+      "question": "What is hyperbole?",
+      "correctAnswer": "An extreme exaggeration for effect",
+      "distractors": [
+        "A comparison using like",
+        "A sound word",
+        "A word that imitates a sound"
+      ],
+      "explanation": "Hyperbole is exaggeration no one is meant to take literally - 'I'm so hungry I could eat a horse' is not a real meal plan. It is used for humor or emphasis.",
+      "memoryHook": "T-Rexy says: Hyperbole is a big exaggeration.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "figurative-language",
+        "hyperbole"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_078",
+      "question": "What is onomatopoeia?",
+      "correctAnswer": "A word that imitates a sound, like 'buzz' or 'crash'",
+      "distractors": [
+        "A comparison",
+        "An exaggeration",
+        "A type of verb"
+      ],
+      "explanation": "Say the word out loud: buzz, crash, sizzle, pop - each one sounds like the noise it names. If the word imitates a sound, it is onomatopoeia.",
+      "memoryHook": "T-Rexy says: Buzz sounds like buzzing.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "figurative-language",
+        "onomatopoeia"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_079",
+      "question": "What is the correct spelling: 'separate' or 'seperate'?",
+      "correctAnswer": "separate",
+      "distractors": [
+        "seperate",
+        "separete",
+        "seprate"
+      ],
+      "explanation": "Remember the middle: sep-AR-ate - there is 'a rat' hiding in the middle of separate. The wrong spelling 'seperate' puts an e where the a belongs.",
+      "memoryHook": "T-Rexy says: Separate has par in the middle.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "spelling"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_080",
+      "question": "What is the correct spelling: 'necessary' or 'neccessary'?",
+      "correctAnswer": "necessary",
+      "distractors": [
+        "neccessary",
+        "necesary",
+        "necessery"
+      ],
+      "explanation": "Necessary has one c and two s letters.",
+      "memoryHook": "T-Rexy says: Necessary has one c and two s.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "spelling"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_081",
+      "question": "Which word is spelled correctly?",
+      "correctAnswer": "definitely",
+      "distractors": [
+        "definately",
+        "definitly",
+        "definetly"
+      ],
+      "explanation": "Build it from 'definite' plus '-ly': definite + ly = definitely. The common error 'definately' comes from mixing it up with 'finite' - think definite, not definate.",
+      "memoryHook": "T-Rexy says: Definitely ends in -itely.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "spelling"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_082",
+      "question": "What does the prefix 'un-' mean?",
+      "correctAnswer": "Not or opposite",
+      "distractors": [
+        "Again",
+        "Before",
+        "With"
+      ],
+      "explanation": "Un- flips a word to its opposite: happy becomes unhappy, kind becomes unkind, lucky becomes unlucky. It is the most common way English makes a negative.",
+      "memoryHook": "T-Rexy says: Un- means not.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "prefixes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_083",
+      "question": "What does the prefix 're-' mean?",
+      "correctAnswer": "Again",
+      "distractors": [
+        "Not",
+        "Before",
+        "Under"
+      ],
+      "explanation": "Re- means to do something again: redo means do again, rewrite means write again, return means turn again. If the word means 'back' or 'again,' re- is usually the prefix.",
+      "memoryHook": "T-Rexy says: Re- means again.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "prefixes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_084",
+      "question": "What does the prefix 'pre-' mean?",
+      "correctAnswer": "Before",
+      "distractors": [
+        "After",
+        "Not",
+        "Again"
+      ],
+      "explanation": "Pre- means before in time or place: preview (see before), prepay (pay before), prehistoric (before written history). Its opposite is post-, which means after.",
+      "memoryHook": "T-Rexy says: Pre- means before.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "prefixes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_085",
+      "question": "What does the suffix '-ful' mean?",
+      "correctAnswer": "Full of",
+      "distractors": [
+        "Without",
+        "Able to",
+        "One who"
+      ],
+      "explanation": "-ful turns a noun into an adjective meaning 'full of' that thing: helpful is full of help, joyful is full of joy, careful is full of care. Its opposite is -less.",
+      "memoryHook": "T-Rexy says: -ful means full of.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "suffixes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_086",
+      "question": "What does the suffix '-less' mean?",
+      "correctAnswer": "Without",
+      "distractors": [
+        "Full of",
+        "Able to",
+        "One who"
+      ],
+      "explanation": "-less means 'without': hopeless is without hope, fearless is without fear, homeless is without a home. It is the opposite of -ful.",
+      "memoryHook": "T-Rexy says: -less means without.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "suffixes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_087",
+      "question": "What does the suffix '-able' mean?",
+      "correctAnswer": "Able to be",
+      "distractors": [
+        "Full of",
+        "Without",
+        "One who"
+      ],
+      "explanation": "-able turns a verb into an adjective meaning 'can be done': readable (can be read), washable (can be washed), breakable (can be broken). It usually follows a verb.",
+      "memoryHook": "T-Rexy says: -able means able to be.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "suffixes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_088",
+      "question": "What is the root 'dict' from Latin?",
+      "correctAnswer": "To say or speak",
+      "distractors": [
+        "To write",
+        "To see",
+        "To hear"
+      ],
+      "explanation": "Dict comes from Latin dicere, to say. You hear it in dictate (say aloud for someone to write), predict (say before it happens), and dictionary (a book of words people say).",
+      "memoryHook": "T-Rexy says: Dict means to say.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "roots"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_089",
+      "question": "What is the root 'graph' from Greek?",
+      "correctAnswer": "To write",
+      "distractors": [
+        "To see",
+        "To hear",
+        "To say"
+      ],
+      "explanation": "Graph comes from Greek graphein, to write. You see it in autograph (a person's own writing), biography (written life story), and paragraph (a written section).",
+      "memoryHook": "T-Rexy says: Graph means to write.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "roots"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_090",
+      "question": "What is the root 'port' from Latin?",
+      "correctAnswer": "To carry",
+      "distractors": [
+        "To write",
+        "To see",
+        "To say"
+      ],
+      "explanation": "Port comes from Latin portare, to carry. Transport carries things across, portable can be carried, and import carries goods into a country.",
+      "memoryHook": "T-Rexy says: Port means to carry.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "roots"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_091",
+      "question": "Which word is a synonym for 'happy'?",
+      "correctAnswer": "joyful",
+      "distractors": [
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "explanation": "Synonyms are different words with nearly the same meaning - joyful, glad, cheerful, delighted. Writers use them to avoid repeating the same word.",
+      "memoryHook": "T-Rexy says: Joyful is like happy.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "synonyms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_092",
+      "question": "Which word is an antonym for 'brave'?",
+      "correctAnswer": "cowardly",
+      "distractors": [
+        "bold",
+        "fearless",
+        "heroic"
+      ],
+      "explanation": "Antonyms are word pairs with opposite meanings - brave/cowardly, hot/cold, fast/slow. Many antonyms are made by adding un-, in-, or dis- to the base word.",
+      "memoryHook": "T-Rexy says: Cowardly is the opposite of brave.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "antonyms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_093",
+      "question": "What is the tone of a piece of writing?",
+      "correctAnswer": "The writer's attitude toward the subject",
+      "distractors": [
+        "The main idea",
+        "The length of the piece",
+        "The number of paragraphs"
+      ],
+      "explanation": "Tone is the attitude the writer shows through word choice.",
+      "memoryHook": "T-Rexy says: Tone is the writer's attitude.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "reading",
+        "tone"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_094",
+      "question": "What is the main idea of a paragraph?",
+      "correctAnswer": "The most important point the paragraph makes",
+      "distractors": [
+        "The first sentence only",
+        "A detail in the paragraph",
+        "The last sentence only"
+      ],
+      "explanation": "The main idea is the central point, supported by details.",
+      "memoryHook": "T-Rexy says: The main idea is the central point.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "reading",
+        "main-idea"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_095",
+      "question": "What is the comparative form of 'good'?",
+      "correctAnswer": "better",
+      "distractors": [
+        "gooder",
+        "best",
+        "more good"
+      ],
+      "explanation": "The comparative of good is better; the superlative is best.",
+      "memoryHook": "T-Rexy says: Better compares two.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "adjectives",
+        "comparatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_096",
+      "question": "What is the superlative form of 'good'?",
+      "correctAnswer": "best",
+      "distractors": [
+        "better",
+        "gooder",
+        "most good"
+      ],
+      "explanation": "Good is irregular: good, better, best. Use better to compare two things and best to compare three or more - 'the best of all' is never 'the better of all.'",
+      "memoryHook": "T-Rexy says: Best is the most.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "adjectives",
+        "comparatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_097",
+      "question": "What is the comparative form of 'bad'?",
+      "correctAnswer": "worse",
+      "distractors": [
+        "badder",
+        "worst",
+        "more bad"
+      ],
+      "explanation": "The comparative of bad is worse; the superlative is worst.",
+      "memoryHook": "T-Rexy says: Worse compares two.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "adjectives",
+        "comparatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_098",
+      "question": "Which sentence is punctuated correctly?",
+      "correctAnswer": "I bought apples, oranges, and bananas.",
+      "distractors": [
+        "I bought apples oranges and bananas.",
+        "I bought apples, oranges and, bananas.",
+        "I bought, apples oranges and bananas."
+      ],
+      "explanation": "Use commas to separate items in a list, with a comma before and.",
+      "memoryHook": "T-Rexy says: Commas separate list items.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "punctuation",
+        "commas"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_099",
+      "question": "What is a homophone?",
+      "correctAnswer": "A word that sounds the same as another but has a different meaning",
+      "distractors": [
+        "A word with the same meaning",
+        "A word with the opposite meaning",
+        "A word with the same spelling"
+      ],
+      "explanation": "Homophones sound the same but are spelled differently and mean different things: to/too/two, their/there/they're, your/you're. The only way to choose is by meaning, not by sound.",
+      "memoryHook": "T-Rexy says: Homophones sound alike.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "vocabulary",
+        "homophones"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GRA8_100",
+      "question": "What is a story's theme?",
+      "correctAnswer": "The lesson or message the story teaches",
+      "distractors": [
+        "The first sentence",
+        "The setting only",
+        "The number of characters"
+      ],
+      "explanation": "Theme is what the story teaches about life - friendship, courage, honesty - and it is never stated as one sentence in the text; the reader has to infer it from what the characters learn.",
+      "memoryHook": "T-Rexy says: Theme is the lesson.",
+      "imageUrl": "topic:english-grammar",
+      "tags": [
+        "reading",
+        "theme"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

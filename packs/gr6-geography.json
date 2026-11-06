@@ -1,0 +1,2017 @@
+{
+  "packId": "gr6-geography",
+  "title": "Geography (6th Grade)",
+  "description": "Geography (6th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "social-studies",
+    "geography",
+    "6th"
+  ],
+  "questions": [
+    {
+      "id": "GEO6_001",
+      "question": "What is a compass rose?",
+      "correctAnswer": "A symbol on a map showing directions",
+      "distractors": [
+        "A type of flower",
+        "A map scale",
+        "A legend"
+      ],
+      "explanation": "A compass rose shows north, south, east, and west.",
+      "memoryHook": "T-Rexy says: A compass rose points the way.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "tools"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_002",
+      "question": "What is a river?",
+      "correctAnswer": "A large stream of water flowing across land",
+      "distractors": [
+        "A small pond",
+        "An ocean",
+        "A lake"
+      ],
+      "explanation": "Rivers flow from high land to the sea.",
+      "memoryHook": "T-Rexy says: A river is flowing water on land.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "water"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_003",
+      "question": "What is a topographic map?",
+      "correctAnswer": "A map showing elevation with contour lines",
+      "distractors": [
+        "A map of cities",
+        "A map of climates",
+        "A map of roads"
+      ],
+      "explanation": "Topographic maps use contour lines to show hills and valleys.",
+      "memoryHook": "T-Rexy says: Topographic maps show height with lines.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "map-types"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_004",
+      "question": "What is a push factor for migration?",
+      "correctAnswer": "A reason to leave a place, like war or drought",
+      "distractors": [
+        "A reason to move to a place",
+        "A job in a new place",
+        "A better school"
+      ],
+      "explanation": "Push factors drive people away, while pull factors attract them.",
+      "memoryHook": "T-Rexy says: Push factors push people out.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "population",
+        "migration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_005",
+      "question": "What is a landlocked country?",
+      "correctAnswer": "A country with no coastline",
+      "distractors": [
+        "A country with a long coast",
+        "An island country",
+        "A country with many rivers"
+      ],
+      "explanation": "Bolivia is landlocked: to reach the sea it must send goods by road or river through its neighbors, like Peru or Chile.",
+      "memoryHook": "T-Rexy says: Landlocked means no sea coast.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_006",
+      "question": "What is a plain?",
+      "correctAnswer": "A large, flat area of land",
+      "distractors": [
+        "A high mountain",
+        "A deep valley",
+        "A small island"
+      ],
+      "explanation": "Plains are wide, flat lands with deep, rich soil - that is why so much wheat and corn grows on them.",
+      "memoryHook": "T-Rexy says: A plain is flat, open land.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_007",
+      "question": "What is a monsoon?",
+      "correctAnswer": "A seasonal wind bringing heavy rain",
+      "distractors": [
+        "A dry wind",
+        "A snowstorm",
+        "A hurricane"
+      ],
+      "explanation": "Monsoons bring wet summers and dry winters to places like India.",
+      "memoryHook": "T-Rexy says: A monsoon is a rainy season wind.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "weather"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_008",
+      "question": "What is the difference between a physical map and a political map?",
+      "correctAnswer": "A physical map shows landforms; a political map shows borders and cities",
+      "distractors": [
+        "They are the same",
+        "A physical map shows cities; a political map shows mountains",
+        "A physical map has no colors"
+      ],
+      "explanation": "Physical maps show mountains and rivers, while political maps show countries and capitals.",
+      "memoryHook": "T-Rexy says: Physical is land; political is borders.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "map-types"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_009",
+      "question": "What is the difference between a developed and a developing country?",
+      "correctAnswer": "Developed countries have higher incomes and more services; developing countries are still growing",
+      "distractors": [
+        "They are the same",
+        "Developed countries are smaller",
+        "Developing countries are richer"
+      ],
+      "explanation": "Development is measured by income, health, and education.",
+      "memoryHook": "T-Rexy says: Developed is richer with more services.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "economy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_010",
+      "question": "Which is the smallest continent?",
+      "correctAnswer": "Australia",
+      "distractors": [
+        "Europe",
+        "Antarctica",
+        "South America"
+      ],
+      "explanation": "Australia covers about 7.7 million square kilometers - smaller than Europe, and the only continent that is also a single country.",
+      "memoryHook": "T-Rexy says: Australia is the smallest continent.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "continents",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_011",
+      "question": "What is urbanization?",
+      "correctAnswer": "The growth of cities as people move to them",
+      "distractors": [
+        "The growth of farms",
+        "The shrinking of cities",
+        "The building of roads"
+      ],
+      "explanation": "Urbanization happens when people leave farms for city jobs.",
+      "memoryHook": "T-Rexy says: Urbanization is cities growing.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "population",
+        "places"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_012",
+      "question": "What is a mountain?",
+      "correctAnswer": "A very high landform",
+      "distractors": [
+        "A flat area of land",
+        "A low area between hills",
+        "A body of water"
+      ],
+      "explanation": "Mountains form when Earth's plates push together and force the land upward, like the Himalayas.",
+      "memoryHook": "T-Rexy says: A mountain is high land.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_013",
+      "question": "What is a city?",
+      "correctAnswer": "A large place where many people live and work",
+      "distractors": [
+        "A small village",
+        "A farm",
+        "A desert"
+      ],
+      "explanation": "Cities have many people, buildings, and services.",
+      "memoryHook": "T-Rexy says: A city is a big place full of people.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "population",
+        "places"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_014",
+      "question": "What are the seven continents?",
+      "correctAnswer": "Africa, Antarctica, Asia, Europe, North America, Australia, South America",
+      "distractors": [
+        "Africa, Asia, Europe, North America, South America only",
+        "Asia, Europe, Africa, Australia only",
+        "North America, South America, Antarctica only"
+      ],
+      "explanation": "The seven continents are Africa, Antarctica, Asia, Europe, North America, Australia, and South America.",
+      "memoryHook": "T-Rexy says: Seven continents cover the Earth.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "continents",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_015",
+      "question": "What is a map?",
+      "correctAnswer": "A flat drawing of an area",
+      "distractors": [
+        "A picture of the sky",
+        "A list of cities",
+        "A type of book"
+      ],
+      "explanation": "Maps show places, roads, and features from above.",
+      "memoryHook": "T-Rexy says: A map is a drawing of a place.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "tools"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_016",
+      "question": "What is a tundra?",
+      "correctAnswer": "A cold, treeless region",
+      "distractors": [
+        "A hot desert",
+        "A wet forest",
+        "A grassy plain"
+      ],
+      "explanation": "Tundra is found near the poles, with frozen ground and low plants.",
+      "memoryHook": "T-Rexy says: Tundra is cold and treeless.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "biomes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_017",
+      "question": "What is a volcano?",
+      "correctAnswer": "An opening where lava and ash erupt",
+      "distractors": [
+        "A mountain made of ice",
+        "A deep lake",
+        "A kind of desert"
+      ],
+      "explanation": "Volcanoes form where molten rock reaches the surface.",
+      "memoryHook": "T-Rexy says: A volcano is where lava erupts.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_018",
+      "question": "What is a pull factor for migration?",
+      "correctAnswer": "A reason to move to a place, like jobs or safety",
+      "distractors": [
+        "A reason to leave a place",
+        "A war in a place",
+        "A drought"
+      ],
+      "explanation": "Pull factors are the good things that draw people in - jobs, safety, schools, and family already living there.",
+      "memoryHook": "T-Rexy says: Pull factors pull people in.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "population",
+        "migration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_019",
+      "question": "Which is the largest continent?",
+      "correctAnswer": "Asia",
+      "distractors": [
+        "Africa",
+        "North America",
+        "Europe"
+      ],
+      "explanation": "Asia is the biggest continent by land area and population.",
+      "memoryHook": "T-Rexy says: Asia is the biggest continent.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "continents",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_020",
+      "question": "What is deforestation?",
+      "correctAnswer": "Cutting down forests",
+      "distractors": [
+        "Planting new forests",
+        "Protecting forests",
+        "Studying forests"
+      ],
+      "explanation": "Deforestation removes trees and harms habitats and climate.",
+      "memoryHook": "T-Rexy says: Deforestation is cutting down forests.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "environment"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_021",
+      "question": "What is a globe?",
+      "correctAnswer": "A round model of Earth",
+      "distractors": [
+        "A flat map",
+        "A type of compass",
+        "A picture of the Moon"
+      ],
+      "explanation": "A globe shows Earth's shape and the positions of land and water.",
+      "memoryHook": "T-Rexy says: A globe is a round model of Earth.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "tools"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_022",
+      "question": "What is a glacier?",
+      "correctAnswer": "A large mass of ice moving slowly over land",
+      "distractors": [
+        "A frozen lake",
+        "A snowstorm",
+        "An iceberg"
+      ],
+      "explanation": "Glaciers carve valleys and move rock as they flow.",
+      "memoryHook": "T-Rexy says: A glacier is a slow river of ice.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_023",
+      "question": "What is immigration?",
+      "correctAnswer": "Moving into a new country to live",
+      "distractors": [
+        "Moving out of a country",
+        "Moving within a country",
+        "Visiting a country"
+      ],
+      "explanation": "An immigrant is someone who moves INTO a country to live there - the opposite of an emigrant, who moves OUT.",
+      "memoryHook": "T-Rexy says: Immigration is moving in to live.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "population",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_024",
+      "question": "What is a time zone?",
+      "correctAnswer": "A region where clocks show the same time",
+      "distractors": [
+        "A region with the same weather",
+        "A region with the same language",
+        "A region with the same money"
+      ],
+      "explanation": "Time zones follow Earth's rotation: as the planet turns, the Sun rises at different times in different places.",
+      "memoryHook": "T-Rexy says: A time zone shares the same clock time.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "time-zones"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_025",
+      "question": "What is a plateau?",
+      "correctAnswer": "A high, flat area of land",
+      "distractors": [
+        "A low valley",
+        "A deep ocean",
+        "A small hill"
+      ],
+      "explanation": "A plateau is like a table made of rock: flat on top, but standing high above the land around it, like the Colorado Plateau.",
+      "memoryHook": "T-Rexy says: A plateau is a high flat table of land.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_026",
+      "question": "How does the ocean affect climate?",
+      "correctAnswer": "It makes coastal places milder",
+      "distractors": [
+        "It makes coastal places colder",
+        "It has no effect",
+        "It makes places drier"
+      ],
+      "explanation": "Oceans warm and cool slowly, so coasts have milder temperatures.",
+      "memoryHook": "T-Rexy says: The ocean softens coastal temperatures.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "factors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_027",
+      "question": "What is a hurricane called in the western Pacific?",
+      "correctAnswer": "A typhoon",
+      "distractors": [
+        "A tornado",
+        "A cyclone",
+        "A monsoon"
+      ],
+      "explanation": "The same kind of storm is called a hurricane in the Atlantic and a typhoon in the Pacific.",
+      "memoryHook": "T-Rexy says: Typhoon is the Pacific name for a hurricane.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "weather"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_028",
+      "question": "What is desertification?",
+      "correctAnswer": "Land turning into desert",
+      "distractors": [
+        "A desert turning into forest",
+        "A river drying up",
+        "A mountain growing"
+      ],
+      "explanation": "Overuse and drought can turn dry land into desert.",
+      "memoryHook": "T-Rexy says: Desertification is land becoming desert.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "environment"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_029",
+      "question": "What is a fjord?",
+      "correctAnswer": "A narrow sea inlet between steep cliffs",
+      "distractors": [
+        "A wide river",
+        "A desert valley",
+        "A mountain pass"
+      ],
+      "explanation": "Fjords were carved by glaciers in places like Norway.",
+      "memoryHook": "T-Rexy says: A fjord is a steep sea inlet.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "water"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_030",
+      "question": "What is a rain shadow?",
+      "correctAnswer": "A dry area on the far side of a mountain",
+      "distractors": [
+        "A wet area near a mountain",
+        "A shadow cast by rain",
+        "A kind of cloud"
+      ],
+      "explanation": "Mountains block moist air, so the far side gets little rain.",
+      "memoryHook": "T-Rexy says: Mountains steal the rain from the far side.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "factors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_031",
+      "question": "What is the capital of Arizona?",
+      "correctAnswer": "Phoenix",
+      "distractors": [
+        "Tucson",
+        "Flagstaff",
+        "Mesa"
+      ],
+      "explanation": "Phoenix is Arizona's capital and its largest city - the state government meets there, in the capitol with the copper dome.",
+      "memoryHook": "T-Rexy says: Phoenix is Arizona's capital.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "united-states",
+        "capitals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_032",
+      "question": "What is the largest ocean?",
+      "correctAnswer": "The Pacific Ocean",
+      "distractors": [
+        "The Atlantic Ocean",
+        "The Indian Ocean",
+        "The Arctic Ocean"
+      ],
+      "explanation": "The Pacific is the largest and deepest ocean.",
+      "memoryHook": "T-Rexy says: The Pacific is the biggest ocean.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "oceans",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_033",
+      "question": "What is the difference between weather and climate?",
+      "correctAnswer": "Weather is short-term; climate is long-term average",
+      "distractors": [
+        "They are the same",
+        "Weather is long-term; climate is short-term",
+        "Weather is about oceans only"
+      ],
+      "explanation": "Weather is today; climate is the pattern over years.",
+      "memoryHook": "T-Rexy says: Weather is now; climate is the usual.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "weather"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_034",
+      "question": "What is the capital of France?",
+      "correctAnswer": "Paris",
+      "distractors": [
+        "London",
+        "Madrid",
+        "Berlin"
+      ],
+      "explanation": "Paris is France's capital and largest city, on the River Seine - home to the Eiffel Tower.",
+      "memoryHook": "T-Rexy says: Paris is France's capital.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "capitals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_035",
+      "question": "What is culture?",
+      "correctAnswer": "The way of life of a group of people",
+      "distractors": [
+        "The weather of a place",
+        "The land of a place",
+        "The animals of a place"
+      ],
+      "explanation": "Culture includes language, food, customs, and beliefs.",
+      "memoryHook": "T-Rexy says: Culture is how a group of people lives.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "culture",
+        "people"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_036",
+      "question": "What is the Prime Meridian?",
+      "correctAnswer": "An imaginary line running through Greenwich, England",
+      "distractors": [
+        "A line around the equator",
+        "A line at the South Pole",
+        "A real road"
+      ],
+      "explanation": "The Prime Meridian is 0 degrees longitude and divides east from west.",
+      "memoryHook": "T-Rexy says: The Prime Meridian is the zero line of longitude.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_037",
+      "question": "What is the largest country by land area?",
+      "correctAnswer": "Russia",
+      "distractors": [
+        "Canada",
+        "China",
+        "The United States"
+      ],
+      "explanation": "Russia covers about 17.1 million square kilometers - nearly twice the size of Canada, the next largest country.",
+      "memoryHook": "T-Rexy says: Russia is the biggest country.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_038",
+      "question": "What is a map scale?",
+      "correctAnswer": "A tool showing how map distances relate to real distances",
+      "distractors": [
+        "The title of a map",
+        "A symbol on a map",
+        "A type of map"
+      ],
+      "explanation": "The scale tells how many miles one inch on the map represents.",
+      "memoryHook": "T-Rexy says: The scale turns map inches into real miles.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "tools"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_039",
+      "question": "What is a map legend?",
+      "correctAnswer": "A box explaining the symbols on a map",
+      "distractors": [
+        "A story about a map",
+        "The title of a map",
+        "A scale on a map"
+      ],
+      "explanation": "The legend, or key, tells what each symbol means.",
+      "memoryHook": "T-Rexy says: The legend explains the map's symbols.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "tools"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_040",
+      "question": "What is longitude?",
+      "correctAnswer": "How far east or west a place is from the Prime Meridian",
+      "distractors": [
+        "How far north or south a place is",
+        "The height of a place",
+        "The temperature of a place"
+      ],
+      "explanation": "Longitude lines run north to south and measure distance from the Prime Meridian.",
+      "memoryHook": "T-Rexy says: Longitude measures east and west.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_041",
+      "question": "What is a canyon?",
+      "correctAnswer": "A deep, narrow valley with steep sides",
+      "distractors": [
+        "A flat plain",
+        "A small hill",
+        "A wide river"
+      ],
+      "explanation": "Canyons are carved by rivers over long times, like the Grand Canyon.",
+      "memoryHook": "T-Rexy says: A canyon is a deep cut in the land.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_042",
+      "question": "What is the Southern Hemisphere?",
+      "correctAnswer": "The half of Earth south of the equator",
+      "distractors": [
+        "The half north of the equator",
+        "The half west of the Prime Meridian",
+        "The bottom of a globe only"
+      ],
+      "explanation": "The Southern Hemisphere holds Australia, most of South America, and all of Antarctica - and its seasons are opposite to the north.",
+      "memoryHook": "T-Rexy says: South of the equator is the Southern Hemisphere.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_043",
+      "question": "What is latitude?",
+      "correctAnswer": "How far north or south a place is from the equator",
+      "distractors": [
+        "How far east or west a place is",
+        "The height of a place",
+        "The temperature of a place"
+      ],
+      "explanation": "Latitude lines run east to west and measure distance from the equator.",
+      "memoryHook": "T-Rexy says: Latitude measures north and south.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_044",
+      "question": "What is a moraine?",
+      "correctAnswer": "Rocks and soil left behind by a glacier",
+      "distractors": [
+        "A type of volcano",
+        "A kind of river",
+        "A desert dune"
+      ],
+      "explanation": "Moraines are piles of debris dropped by melting glaciers.",
+      "memoryHook": "T-Rexy says: A moraine is glacier-dropped debris.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_045",
+      "question": "What is a savanna?",
+      "correctAnswer": "A grassland with scattered trees",
+      "distractors": [
+        "A dense forest",
+        "A desert",
+        "A frozen plain"
+      ],
+      "explanation": "Savannas get just enough rain for grass but not enough for a forest - that is why trees there stand far apart.",
+      "memoryHook": "T-Rexy says: A savanna is grassland with a few trees.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "biomes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_046",
+      "question": "What is the Arctic Circle?",
+      "correctAnswer": "A line around the North Pole marking the polar region",
+      "distractors": [
+        "A line around the equator",
+        "A circle in the ocean",
+        "A line through Europe"
+      ],
+      "explanation": "North of the Arctic Circle, the Sun can stay up all day in summer.",
+      "memoryHook": "T-Rexy says: The Arctic Circle rings the far north.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_047",
+      "question": "What is an island?",
+      "correctAnswer": "Land surrounded by water",
+      "distractors": [
+        "Land surrounded by land",
+        "A large continent",
+        "A river"
+      ],
+      "explanation": "Islands can form from volcanoes rising out of the sea, like Hawaii, or from land cut off by rising water, like Great Britain.",
+      "memoryHook": "T-Rexy says: An island is land with water all around.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_048",
+      "question": "What is the equator?",
+      "correctAnswer": "An imaginary line around the middle of Earth",
+      "distractors": [
+        "A line at the North Pole",
+        "A line through the poles",
+        "A real fence around Earth"
+      ],
+      "explanation": "The equator divides Earth into the Northern and Southern Hemispheres.",
+      "memoryHook": "T-Rexy says: The equator is Earth's middle line.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_049",
+      "question": "Which is the largest desert in the world?",
+      "correctAnswer": "The Antarctic Desert",
+      "distractors": [
+        "The Sahara",
+        "The Gobi",
+        "The Mojave"
+      ],
+      "explanation": "Antarctica is the largest desert because deserts are defined by very little precipitation.",
+      "memoryHook": "T-Rexy says: Antarctica is the biggest desert.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "deserts"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_050",
+      "question": "What is a peninsula?",
+      "correctAnswer": "Land surrounded by water on three sides",
+      "distractors": [
+        "Land surrounded by water on all sides",
+        "A small island",
+        "A river mouth"
+      ],
+      "explanation": "Florida is a peninsula: it is attached to the United States on one side and surrounded by ocean on the other three.",
+      "memoryHook": "T-Rexy says: A peninsula is almost an island.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_051",
+      "question": "What is an earthquake?",
+      "correctAnswer": "A sudden shaking of the ground",
+      "distractors": [
+        "A volcanic eruption",
+        "A large wave",
+        "A landslide"
+      ],
+      "explanation": "Earthquakes happen when rocks shift along a fault.",
+      "memoryHook": "T-Rexy says: An earthquake is the ground shaking.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_052",
+      "question": "What is the capital of Mexico?",
+      "correctAnswer": "Mexico City",
+      "distractors": [
+        "Cancun",
+        "Guadalajara",
+        "Monterrey"
+      ],
+      "explanation": "Mexico City is Mexico's capital and one of the largest cities in the world - it was built on the site of the Aztec city Tenochtitlan.",
+      "memoryHook": "T-Rexy says: Mexico City is Mexico's capital.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "capitals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_053",
+      "question": "What is a rainforest?",
+      "correctAnswer": "A dense forest with heavy rainfall",
+      "distractors": [
+        "A dry forest",
+        "A cold forest",
+        "A forest with no animals"
+      ],
+      "explanation": "Rainforests get lots of rain and hold many species.",
+      "memoryHook": "T-Rexy says: A rainforest is wet and full of life.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "biomes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_054",
+      "question": "How does elevation affect climate?",
+      "correctAnswer": "Higher places are usually cooler",
+      "distractors": [
+        "Higher places are warmer",
+        "Elevation does not matter",
+        "Higher places are always dry"
+      ],
+      "explanation": "Temperature drops as you go higher in elevation.",
+      "memoryHook": "T-Rexy says: Higher up means cooler.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "factors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_055",
+      "question": "What is a desert?",
+      "correctAnswer": "A very dry area with little rain",
+      "distractors": [
+        "A wet forest",
+        "A cold mountain",
+        "A large lake"
+      ],
+      "explanation": "A desert gets less than 25 centimeters (10 inches) of rain a year - so little that only specially adapted plants and animals survive there.",
+      "memoryHook": "T-Rexy says: A desert is a dry place.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "climate"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_056",
+      "question": "What is the capital of Canada?",
+      "correctAnswer": "Ottawa",
+      "distractors": [
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ],
+      "explanation": "Ottawa is Canada's capital, in Ontario on the Ottawa River - it is where Canada's Parliament meets.",
+      "memoryHook": "T-Rexy says: Ottawa is Canada's capital.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "capitals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_057",
+      "question": "What is the largest hot desert in the world?",
+      "correctAnswer": "The Sahara",
+      "distractors": [
+        "The Gobi",
+        "The Mojave",
+        "The Kalahari"
+      ],
+      "explanation": "The Sahara covers about 9.2 million square kilometers of northern Africa - almost as big as the entire United States.",
+      "memoryHook": "T-Rexy says: The Sahara is the largest hot desert.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "deserts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_058",
+      "question": "What is the greenhouse effect?",
+      "correctAnswer": "Gases trapping heat in the atmosphere",
+      "distractors": [
+        "The Sun getting hotter",
+        "Plants making oxygen",
+        "Clouds blocking the Sun"
+      ],
+      "explanation": "Greenhouse gases keep Earth warm enough for life.",
+      "memoryHook": "T-Rexy says: Greenhouse gases act like a blanket.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "atmosphere"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_059",
+      "question": "What is the difference between a strait and a channel?",
+      "correctAnswer": "A strait is a narrow waterway between two land areas; a channel is a wider waterway",
+      "distractors": [
+        "They are the same",
+        "A strait is land; a channel is water",
+        "A strait is wide; a channel is narrow"
+      ],
+      "explanation": "Straits like Gibraltar connect seas, while channels like the English Channel are wider.",
+      "memoryHook": "T-Rexy says: A strait is a narrow sea passage.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "water"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_060",
+      "question": "Which is the longest river in the world?",
+      "correctAnswer": "The Nile",
+      "distractors": [
+        "The Amazon",
+        "The Mississippi",
+        "The Yangtze"
+      ],
+      "explanation": "The Nile is about 4,130 miles long.",
+      "memoryHook": "T-Rexy says: The Nile is the longest river.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "water"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_061",
+      "question": "What is a thematic map?",
+      "correctAnswer": "A map that shows one theme, like population or climate",
+      "distractors": [
+        "A map of the whole world",
+        "A map with no symbols",
+        "A map of roads only"
+      ],
+      "explanation": "Thematic maps focus on one topic, such as rainfall or languages.",
+      "memoryHook": "T-Rexy says: A thematic map shows one topic.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "map-types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_062",
+      "question": "What is the International Date Line?",
+      "correctAnswer": "A line where the calendar day changes",
+      "distractors": [
+        "A line at the equator",
+        "A line through Greenwich",
+        "A line at the North Pole"
+      ],
+      "explanation": "The Date Line sits at about 180 degrees longitude in the Pacific: cross it westward and the date jumps forward a day, cross it eastward and it jumps back.",
+      "memoryHook": "T-Rexy says: The Date Line is where the day changes.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_063",
+      "question": "What is a tornado?",
+      "correctAnswer": "A violently spinning column of air",
+      "distractors": [
+        "A hurricane",
+        "A dust storm",
+        "A snowstorm"
+      ],
+      "explanation": "Tornadoes form in thunderstorms and spin fast in a narrow path.",
+      "memoryHook": "T-Rexy says: A tornado is a spinning funnel from a storm.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "weather"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_064",
+      "question": "What is the capital of the United States?",
+      "correctAnswer": "Washington, D.C.",
+      "distractors": [
+        "New York City",
+        "Los Angeles",
+        "Phoenix"
+      ],
+      "explanation": "Washington, D.C. is the U.S. capital, on the Potomac River - it is where the President, Congress, and the Supreme Court all work.",
+      "memoryHook": "T-Rexy says: Washington, D.C. is the U.S. capital.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "united-states",
+        "capitals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_065",
+      "question": "What affects climate the most?",
+      "correctAnswer": "Latitude - how far north or south a place is from the equator",
+      "distractors": [
+        "The time of day",
+        "The color of the soil",
+        "The number of people"
+      ],
+      "explanation": "Places near the equator are warm, while places near the poles are cold.",
+      "memoryHook": "T-Rexy says: Latitude sets the big climate pattern.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "factors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_066",
+      "question": "What is the Ring of Fire?",
+      "correctAnswer": "A zone around the Pacific with many volcanoes",
+      "distractors": [
+        "A desert in Africa",
+        "A mountain range in Europe",
+        "A river in Asia"
+      ],
+      "explanation": "The Ring of Fire follows plate boundaries around the Pacific Ocean.",
+      "memoryHook": "T-Rexy says: The Ring of Fire circles the Pacific with volcanoes.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_067",
+      "question": "What is geography?",
+      "correctAnswer": "The study of Earth and its people, places, and environments",
+      "distractors": [
+        "The study of the past",
+        "The study of animals",
+        "The study of stars"
+      ],
+      "explanation": "Geography looks at where things are and why they are there.",
+      "memoryHook": "T-Rexy says: Geography is the study of places and people.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "geography",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_068",
+      "question": "What are trade winds?",
+      "correctAnswer": "Steady winds that blow toward the equator",
+      "distractors": [
+        "Winds that blow from the poles",
+        "Winds that change daily",
+        "Winds over the ocean only"
+      ],
+      "explanation": "Trade winds helped sailing ships cross the oceans.",
+      "memoryHook": "T-Rexy says: Trade winds blow steadily toward the equator.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "wind"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_069",
+      "question": "What is a delta?",
+      "correctAnswer": "Land formed where a river meets the sea",
+      "distractors": [
+        "A mountain peak",
+        "A desert",
+        "A lake"
+      ],
+      "explanation": "Deltas form from sediment dropped as a river slows at the sea.",
+      "memoryHook": "T-Rexy says: A delta is river-built land at the sea.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "water"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_070",
+      "question": "What is a language?",
+      "correctAnswer": "A system of words people use to communicate",
+      "distractors": [
+        "A type of food",
+        "A kind of music",
+        "A style of clothing"
+      ],
+      "explanation": "There are more than 7,000 languages in the world - and each one carries the stories, songs, and history of its people.",
+      "memoryHook": "T-Rexy says: Language is how people talk and write.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "culture",
+        "people"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_071",
+      "question": "What is sustainability?",
+      "correctAnswer": "Using resources so future generations can use them too",
+      "distractors": [
+        "Using all resources now",
+        "Never using resources",
+        "Only using water"
+      ],
+      "explanation": "Sustainability means meeting today's needs without harming tomorrow.",
+      "memoryHook": "T-Rexy says: Sustainability is using wisely for the future.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "resources",
+        "environment"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_072",
+      "question": "What are the Tropics of Cancer and Capricorn?",
+      "correctAnswer": "Lines marking the edges of the tropical zone",
+      "distractors": [
+        "Lines at the poles",
+        "Lines through the Prime Meridian",
+        "Lines showing deserts"
+      ],
+      "explanation": "The tropics are at about 23.5 degrees north and south of the equator.",
+      "memoryHook": "T-Rexy says: The tropics border the warm zone.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_073",
+      "question": "What is a nonrenewable resource?",
+      "correctAnswer": "A resource that cannot be replaced quickly",
+      "distractors": [
+        "A resource that grows back",
+        "A resource from the Sun",
+        "A resource that is free"
+      ],
+      "explanation": "Coal, oil, and natural gas take millions of years to form.",
+      "memoryHook": "T-Rexy says: Nonrenewable means it runs out.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "resources",
+        "economy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_074",
+      "question": "What are contour lines?",
+      "correctAnswer": "Lines on a map joining places of equal elevation",
+      "distractors": [
+        "Lines showing borders",
+        "Lines showing rivers",
+        "Lines showing roads"
+      ],
+      "explanation": "Close contour lines mean steep land; far apart means gentle slopes.",
+      "memoryHook": "T-Rexy says: Contour lines connect equal heights.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "tools"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_075",
+      "question": "What is a tsunami?",
+      "correctAnswer": "A huge ocean wave caused by an earthquake or volcano",
+      "distractors": [
+        "A storm at sea",
+        "A high tide",
+        "A river flood"
+      ],
+      "explanation": "Tsunamis are giant waves that can flood coasts.",
+      "memoryHook": "T-Rexy says: A tsunami is a giant wave from an undersea quake.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "water"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_076",
+      "question": "What is the largest city in the world by population?",
+      "correctAnswer": "Tokyo",
+      "distractors": [
+        "New York",
+        "London",
+        "Paris"
+      ],
+      "explanation": "Tokyo has about 37 million people in its metro area.",
+      "memoryHook": "T-Rexy says: Tokyo is the biggest city.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "cities"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_077",
+      "question": "How many time zones are there on Earth?",
+      "correctAnswer": "24",
+      "distractors": [
+        "12",
+        "7",
+        "36"
+      ],
+      "explanation": "Earth rotates 360 degrees in 24 hours, so there are 24 time zones.",
+      "memoryHook": "T-Rexy says: 24 hours, 24 time zones.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "time-zones"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_078",
+      "question": "What is a lake?",
+      "correctAnswer": "A body of water surrounded by land",
+      "distractors": [
+        "A flowing stream",
+        "An ocean",
+        "A river"
+      ],
+      "explanation": "Lakes form in hollows left by glaciers, in volcanic craters, or where rivers are dammed - the Great Lakes are the largest group on Earth.",
+      "memoryHook": "T-Rexy says: A lake is water with land all around.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "water"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_079",
+      "question": "What is the difference between a nation and a country?",
+      "correctAnswer": "A nation is a group of people with a shared culture; a country is a political state",
+      "distractors": [
+        "They are the same",
+        "A nation is a state; a country is a culture",
+        "A nation is smaller"
+      ],
+      "explanation": "A nation shares identity, while a country has borders and a government.",
+      "memoryHook": "T-Rexy says: Nation is people; country is a state.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "culture",
+        "people"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_080",
+      "question": "What is a climate?",
+      "correctAnswer": "The average weather of a place over a long time",
+      "distractors": [
+        "The weather today",
+        "A single storm",
+        "The temperature at noon"
+      ],
+      "explanation": "Climate is the average of 30 years of weather - a place can have a rainy day but still have a dry climate.",
+      "memoryHook": "T-Rexy says: Climate is the usual weather of a place.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "weather"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_081",
+      "question": "What is the capital of Japan?",
+      "correctAnswer": "Tokyo",
+      "distractors": [
+        "Beijing",
+        "Seoul",
+        "Bangkok"
+      ],
+      "explanation": "Tokyo is Japan's capital and the largest city in the world, with about 37 million people in its metro area.",
+      "memoryHook": "T-Rexy says: Tokyo is Japan's capital.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "capitals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_082",
+      "question": "Where is the Grand Canyon?",
+      "correctAnswer": "Arizona",
+      "distractors": [
+        "Utah",
+        "Nevada",
+        "Colorado"
+      ],
+      "explanation": "The Grand Canyon is in northern Arizona, carved over millions of years by a river cutting through rock.",
+      "memoryHook": "T-Rexy says: The Grand Canyon is in Arizona.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "united-states"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_083",
+      "question": "What is the longest mountain range in the world?",
+      "correctAnswer": "The Andes",
+      "distractors": [
+        "The Himalayas",
+        "The Rockies",
+        "The Alps"
+      ],
+      "explanation": "The Andes run along South America's west coast for about 4,300 miles.",
+      "memoryHook": "T-Rexy says: The Andes are the longest mountains.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_084",
+      "question": "What are the four hemispheres?",
+      "correctAnswer": "Northern, Southern, Eastern, Western",
+      "distractors": [
+        "Northern, Southern, Upper, Lower",
+        "Eastern, Western, Left, Right",
+        "Arctic, Antarctic, Tropical, Polar"
+      ],
+      "explanation": "The equator splits north and south, and the Prime Meridian splits east and west.",
+      "memoryHook": "T-Rexy says: Four hemispheres: north, south, east, west.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_085",
+      "question": "What is a refugee?",
+      "correctAnswer": "A person forced to leave home because of danger",
+      "distractors": [
+        "A person who moves for a job",
+        "A person who visits a place",
+        "A person who moves within a city"
+      ],
+      "explanation": "Refugees flee war, persecution, or disaster.",
+      "memoryHook": "T-Rexy says: A refugee is forced to flee danger.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "population",
+        "migration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_086",
+      "question": "Which continent is the Sahara Desert on?",
+      "correctAnswer": "Africa",
+      "distractors": [
+        "Asia",
+        "Australia",
+        "South America"
+      ],
+      "explanation": "The Sahara covers northern Africa, stretching from the Atlantic Ocean to the Red Sea.",
+      "memoryHook": "T-Rexy says: The Sahara covers northern Africa.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "continents",
+        "deserts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_087",
+      "question": "What is population density?",
+      "correctAnswer": "The number of people per square mile or kilometer",
+      "distractors": [
+        "The total population",
+        "The number of cities",
+        "The size of a country"
+      ],
+      "explanation": "Population density shows how crowded a place is.",
+      "memoryHook": "T-Rexy says: Density is people per area.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "population",
+        "people"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_088",
+      "question": "What is a tributary?",
+      "correctAnswer": "A smaller stream that flows into a larger river",
+      "distractors": [
+        "A river that flows into the sea",
+        "A lake",
+        "A waterfall"
+      ],
+      "explanation": "The Missouri River is a tributary of the Mississippi: it joins the bigger river and adds its water to it.",
+      "memoryHook": "T-Rexy says: A tributary is a small river joining a big one.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "water"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_089",
+      "question": "What is emigration?",
+      "correctAnswer": "Moving out of a country to live elsewhere",
+      "distractors": [
+        "Moving into a country",
+        "Visiting a country",
+        "Moving within a city"
+      ],
+      "explanation": "An emigrant is someone who moves OUT of a country - the same person is an immigrant when they arrive in the new country.",
+      "memoryHook": "T-Rexy says: Emigration is moving out to live.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "population",
+        "people"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_090",
+      "question": "What is the highest mountain in the world?",
+      "correctAnswer": "Mount Everest",
+      "distractors": [
+        "K2",
+        "Mount Kilimanjaro",
+        "Mount Blanc"
+      ],
+      "explanation": "Mount Everest is about 29,032 feet high.",
+      "memoryHook": "T-Rexy says: Everest is the tallest mountain.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_091",
+      "question": "What is a renewable resource?",
+      "correctAnswer": "A resource that can be replaced naturally",
+      "distractors": [
+        "A resource that runs out",
+        "A resource made in a factory",
+        "A resource that never changes"
+      ],
+      "explanation": "Sunlight, wind, and trees are renewable.",
+      "memoryHook": "T-Rexy says: Renewable means nature can replace it.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "resources",
+        "economy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_092",
+      "question": "What is an archipelago?",
+      "correctAnswer": "A group of islands",
+      "distractors": [
+        "A group of mountains",
+        "A group of rivers",
+        "A group of deserts"
+      ],
+      "explanation": "Japan and Indonesia are archipelagos.",
+      "memoryHook": "T-Rexy says: An archipelago is a chain of islands.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_093",
+      "question": "What is a natural resource?",
+      "correctAnswer": "Something from nature that people use",
+      "distractors": [
+        "Something made in a factory",
+        "A type of money",
+        "A kind of map"
+      ],
+      "explanation": "Water, trees, and minerals are natural resources.",
+      "memoryHook": "T-Rexy says: Natural resources come from nature.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "resources",
+        "economy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_094",
+      "question": "What is a village?",
+      "correctAnswer": "A small community in the countryside",
+      "distractors": [
+        "A large city",
+        "A mountain",
+        "A river"
+      ],
+      "explanation": "Villages are the smallest settlements: a few hundred people, a few shops, and often farms all around.",
+      "memoryHook": "T-Rexy says: A village is a small country town.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "population",
+        "places"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_095",
+      "question": "What is the Northern Hemisphere?",
+      "correctAnswer": "The half of Earth north of the equator",
+      "distractors": [
+        "The half south of the equator",
+        "The half east of the Prime Meridian",
+        "The top of a globe only"
+      ],
+      "explanation": "The Northern Hemisphere holds most of Earth's land and people - including North America, Europe, and most of Asia.",
+      "memoryHook": "T-Rexy says: North of the equator is the Northern Hemisphere.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_096",
+      "question": "What river carved the Grand Canyon?",
+      "correctAnswer": "The Colorado River",
+      "distractors": [
+        "The Mississippi River",
+        "The Rio Grande",
+        "The Columbia River"
+      ],
+      "explanation": "The Colorado River cut through rock over millions of years.",
+      "memoryHook": "T-Rexy says: The Colorado River carved the Grand Canyon.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "united-states"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_097",
+      "question": "What is a biome?",
+      "correctAnswer": "A large region with a similar climate and living things",
+      "distractors": [
+        "A small garden",
+        "A type of animal",
+        "A kind of rock"
+      ],
+      "explanation": "Biomes include deserts, forests, grasslands, and tundra.",
+      "memoryHook": "T-Rexy says: A biome is a big life zone.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "biomes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_098",
+      "question": "What is the Coriolis effect?",
+      "correctAnswer": "The curving of wind and water caused by Earth's rotation",
+      "distractors": [
+        "The bending of light",
+        "The pull of the Moon",
+        "The tilt of Earth"
+      ],
+      "explanation": "The Coriolis effect makes winds curve to the right in the north and left in the south.",
+      "memoryHook": "T-Rexy says: Earth's spin curves the wind.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "wind"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_099",
+      "question": "What is a valley?",
+      "correctAnswer": "A low area between mountains or hills",
+      "distractors": [
+        "A high flat area",
+        "A deep ocean",
+        "A desert"
+      ],
+      "explanation": "Valleys are low land, often with a river running through.",
+      "memoryHook": "T-Rexy says: A valley is low land between hills.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO6_100",
+      "question": "What is a population?",
+      "correctAnswer": "The number of people living in a place",
+      "distractors": [
+        "The number of animals only",
+        "The size of a city",
+        "The number of houses"
+      ],
+      "explanation": "Population counts every person in a place - China and India each have more than 1.4 billion people.",
+      "memoryHook": "T-Rexy says: Population is how many people live there.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "population",
+        "people"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

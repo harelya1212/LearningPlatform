@@ -1,0 +1,2017 @@
+{
+  "packId": "gr7-geometry",
+  "title": "Geometry (7th Grade)",
+  "description": "Geometry (7th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "math",
+    "geometry",
+    "7th"
+  ],
+  "questions": [
+    {
+      "id": "GEO7_001",
+      "question": "Two angles of a triangle measure 34 degrees and 46 degrees. What is the measure of the third angle?",
+      "correctAnswer": "100 degrees",
+      "distractors": [
+        "80 degrees",
+        "146 degrees",
+        "56 degrees"
+      ],
+      "explanation": "The angles of a triangle add to 180: 180 - 34 - 46 = 100.",
+      "memoryHook": "T-Rexy says: triangle angles always add up to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_002",
+      "question": "Two angles are complementary. One measures 20 degrees. What is the measure of the other?",
+      "correctAnswer": "70 degrees",
+      "distractors": [
+        "160 degrees",
+        "30 degrees",
+        "110 degrees"
+      ],
+      "explanation": "Complementary angles add to 90 degrees: 90 - 20 = 70.",
+      "memoryHook": "T-Rexy says: complementary adds to 90, like a corner.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_003",
+      "question": "Three angles sit on a straight line. Two measure 32 degrees and 44 degrees. What is the third?",
+      "correctAnswer": "104 degrees",
+      "distractors": [
+        "76 degrees",
+        "148 degrees",
+        "58 degrees"
+      ],
+      "explanation": "Angles on a straight line add to 180: 180 - 32 - 44 = 104.",
+      "memoryHook": "T-Rexy says: a straight line is 180 degrees.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "straight-line"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_004",
+      "question": "What is the name of the line segment from the center of a circle to its edge?",
+      "correctAnswer": "Radius",
+      "distractors": [
+        "Diameter",
+        "Chord",
+        "Circumference"
+      ],
+      "explanation": "The radius runs from the center to any point on the circle; the diameter is twice as long and the chord joins two edge points.",
+      "memoryHook": "T-Rexy says: radius is half the diameter.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_005",
+      "question": "What is the volume of a cube with an edge length of 7 cm?",
+      "correctAnswer": "343 cubic cm",
+      "distractors": [
+        "294 cubic cm",
+        "49 cubic cm",
+        "21 cubic cm"
+      ],
+      "explanation": "Volume = side cubed = 7 x 7 x 7 = 343 cubic cm.",
+      "memoryHook": "T-Rexy says: cube volume is side times side times side.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "cubes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_006",
+      "question": "What is the area of a parallelogram with a base of 10 cm and a height of 5 cm?",
+      "correctAnswer": "50 square cm",
+      "distractors": [
+        "25 square cm",
+        "15 square cm",
+        "30 square cm"
+      ],
+      "explanation": "Area of a parallelogram = base x height = 10 x 5 = 50 square cm.",
+      "memoryHook": "T-Rexy says: a parallelogram has the area of a rectangle with the same base and height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "parallelograms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_007",
+      "question": "What is the surface area of a rectangular prism that is 2 cm by 3 cm by 3 cm?",
+      "correctAnswer": "42 square cm",
+      "distractors": [
+        "18 square cm",
+        "16 square cm",
+        "38 square cm"
+      ],
+      "explanation": "Surface area = 2(lw + lh + wh) = 2(6 + 6 + 9) = 42 square cm.",
+      "memoryHook": "T-Rexy says: surface area adds up all six faces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_008",
+      "question": "Two triangles are similar. One has a side of 3 cm and the matching side on the other is 6 cm. If another side of the first triangle is 4 cm, what is the matching side?",
+      "correctAnswer": "8 cm",
+      "distractors": [
+        "4 cm",
+        "6 cm",
+        "10 cm"
+      ],
+      "explanation": "The scale factor is 2, so multiply 4 by 2 to get 8 cm.",
+      "memoryHook": "T-Rexy says: similar figures keep the same shape, so sides scale together.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similar-figures",
+        "proportions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_009",
+      "question": "What is the surface area of a rectangular prism that is 3 cm by 2 cm by 5 cm?",
+      "correctAnswer": "62 square cm",
+      "distractors": [
+        "30 square cm",
+        "20 square cm",
+        "58 square cm"
+      ],
+      "explanation": "Surface area = 2(lw + lh + wh) = 2(6 + 15 + 10) = 62 square cm.",
+      "memoryHook": "T-Rexy says: surface area adds up all six faces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_010",
+      "question": "What is the volume of a rectangular prism that is 4 cm long, 3 cm wide, and 4 cm tall?",
+      "correctAnswer": "48 cubic cm",
+      "distractors": [
+        "12 cubic cm",
+        "22 cubic cm",
+        "54 cubic cm"
+      ],
+      "explanation": "Volume = length x width x height = 4 x 3 x 4 = 48 cubic cm.",
+      "memoryHook": "T-Rexy says: volume fills the box: length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_011",
+      "question": "A square pyramid has a base that measures 6 cm by 6 cm. Each of its triangular faces has a height of 5 cm. What is the surface area of the pyramid?",
+      "correctAnswer": "96 square cm",
+      "distractors": [
+        "60 square cm",
+        "156 square cm",
+        "66 square cm"
+      ],
+      "explanation": "Surface area counts every face. The square base is 6 x 6 = 36. Each triangular face is 1/2 x 6 x 5 = 15, and there are 4 of them: 4 x 15 = 60. Total: 36 + 60 = 96 square cm.",
+      "memoryHook": "T-Rexy says: surface area means wrapping every face, base included.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "pyramids"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_012",
+      "question": "What is the area of a circle with a radius of 3 cm? Use 3.14 for pi.",
+      "correctAnswer": "28.26 square cm",
+      "distractors": [
+        "18.84 square cm",
+        "9.42 square cm",
+        "9 square cm"
+      ],
+      "explanation": "Area = pi x radius squared = 3.14 x 3 x 3 = 28.26 square cm.",
+      "memoryHook": "T-Rexy says: circle area uses radius squared, not diameter.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_013",
+      "question": "What is the area of a trapezoid with bases 6 cm and 10 cm and height 4 cm?",
+      "correctAnswer": "32 square cm",
+      "distractors": [
+        "64 square cm",
+        "60 square cm",
+        "38 square cm"
+      ],
+      "explanation": "Area = 1/2 x (base 1 + base 2) x height = 1/2 x 16 x 4 = 32 square cm.",
+      "memoryHook": "T-Rexy says: a trapezoid averages its two bases, then multiplies by height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "trapezoids"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_014",
+      "question": "Two angles of a triangle measure 78 degrees and 62 degrees. What is the measure of the third angle?",
+      "correctAnswer": "40 degrees",
+      "distractors": [
+        "140 degrees",
+        "102 degrees",
+        "12 degrees"
+      ],
+      "explanation": "The angles of a triangle add to 180: 180 - 78 - 62 = 40.",
+      "memoryHook": "T-Rexy says: triangle angles always add up to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_015",
+      "question": "In which quadrant is the point (1, 6)?",
+      "correctAnswer": "Quadrant I",
+      "distractors": [
+        "Quadrant II",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "explanation": "Both coordinates are positive, so the point is in Quadrant I.",
+      "memoryHook": "T-Rexy says: Quadrant I is the top-right, where both numbers are positive.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "quadrants"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_016",
+      "question": "What is the perimeter of a rectangle that is 8 cm long and 5 cm wide?",
+      "correctAnswer": "26 cm",
+      "distractors": [
+        "40 cm",
+        "13 cm",
+        "28 cm"
+      ],
+      "explanation": "Perimeter = 2 x (length + width) = 2 x 13 = 26 cm.",
+      "memoryHook": "T-Rexy says: perimeter walks all the way around.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_017",
+      "question": "What is the volume of a rectangular prism that is 6 cm long, 4 cm wide, and 3 cm tall?",
+      "correctAnswer": "72 cubic cm",
+      "distractors": [
+        "24 cubic cm",
+        "26 cubic cm",
+        "78 cubic cm"
+      ],
+      "explanation": "Volume = length x width x height = 6 x 4 x 3 = 72 cubic cm.",
+      "memoryHook": "T-Rexy says: volume fills the box: length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_018",
+      "question": "What is the perimeter of a rectangle that is 8 cm long and 3 cm wide?",
+      "correctAnswer": "22 cm",
+      "distractors": [
+        "24 cm",
+        "11 cm",
+        "25 cm"
+      ],
+      "explanation": "Perimeter = 2 x (length + width) = 2 x 11 = 22 cm.",
+      "memoryHook": "T-Rexy says: perimeter walks all the way around.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_019",
+      "question": "An angle measures 35 degrees. What is the measure of its complement?",
+      "correctAnswer": "55 degrees",
+      "distractors": [
+        "145 degrees",
+        "45 degrees",
+        "65 degrees"
+      ],
+      "explanation": "Complementary angles add to 90 degrees, because together they fill a right angle. So subtract the known angle: 90 - 35 = 55 degrees.",
+      "memoryHook": "T-Rexy says: complements complete a corner - together they make 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_020",
+      "question": "Two vertical angles are formed by crossing lines. One measures 56 degrees. What does the other measure?",
+      "correctAnswer": "56 degrees",
+      "distractors": [
+        "124 degrees",
+        "34 degrees",
+        "66 degrees"
+      ],
+      "explanation": "Vertical angles are always equal, so the other is also 56 degrees.",
+      "memoryHook": "T-Rexy says: angles across from each other are twins.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vertical"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_021",
+      "question": "What is the circumference of a circle with a diameter of 10 cm? Use 3.14 for pi.",
+      "correctAnswer": "31.4 cm",
+      "distractors": [
+        "15.7 cm",
+        "314 cm",
+        "20 cm"
+      ],
+      "explanation": "Circumference = pi x diameter = 3.14 x 10 = 31.4 cm.",
+      "memoryHook": "T-Rexy says: circumference is pi times the diameter.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_022",
+      "question": "A circle has a radius of 12 cm. What is its diameter?",
+      "correctAnswer": "24 cm",
+      "distractors": [
+        "12 cm",
+        "14 cm",
+        "6 cm"
+      ],
+      "explanation": "The diameter is twice the radius: 2 x 12 = 24 cm.",
+      "memoryHook": "T-Rexy says: diameter goes all the way across, radius only halfway.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "radius"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_023",
+      "question": "Three angles sit on a straight line. Two measure 42 degrees and 43 degrees. What is the third?",
+      "correctAnswer": "95 degrees",
+      "distractors": [
+        "85 degrees",
+        "138 degrees",
+        "48 degrees"
+      ],
+      "explanation": "Angles on a straight line add to 180: 180 - 42 - 43 = 95.",
+      "memoryHook": "T-Rexy says: a straight line is 180 degrees.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "straight-line"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_024",
+      "question": "What is a polygon with 5 sides called?",
+      "correctAnswer": "A pentagon",
+      "distractors": [
+        "A triangle",
+        "A quadrilateral",
+        "A decagon"
+      ],
+      "explanation": "Penta- means five, so a 5-sided polygon is a pentagon.",
+      "memoryHook": "T-Rexy says: count the sides to name the polygon.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_025",
+      "question": "A real fence is 24 meters long. On a scale drawing, 1 cm represents 3 meters. How long is the fence on the drawing?",
+      "correctAnswer": "8 cm",
+      "distractors": [
+        "72 cm",
+        "21 cm",
+        "27 cm"
+      ],
+      "explanation": "A scale drawing shrinks real lengths, so divide the real length by the scale: 24 / 3 = 8 cm on the drawing.",
+      "memoryHook": "T-Rexy says: going from real life to paper, divide by the scale.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "scale-drawings",
+        "proportions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_026",
+      "question": "What is the circumference of a circle with a diameter of 20 cm? Use 3.14 for pi.",
+      "correctAnswer": "62.8 cm",
+      "distractors": [
+        "31.4 cm",
+        "1256 cm",
+        "40 cm"
+      ],
+      "explanation": "Circumference = pi x diameter = 3.14 x 20 = 62.8 cm.",
+      "memoryHook": "T-Rexy says: circumference is pi times the diameter.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_027",
+      "question": "What is the surface area of a rectangular prism that is 2 cm by 2 cm by 3 cm?",
+      "correctAnswer": "32 square cm",
+      "distractors": [
+        "12 square cm",
+        "14 square cm",
+        "28 square cm"
+      ],
+      "explanation": "Surface area = 2(lw + lh + wh) = 2(4 + 6 + 6) = 32 square cm.",
+      "memoryHook": "T-Rexy says: surface area adds up all six faces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_028",
+      "question": "Two triangles are similar. One has a side of 4 cm and the matching side on the other is 12 cm. If another side of the first triangle is 6 cm, what is the matching side?",
+      "correctAnswer": "18 cm",
+      "distractors": [
+        "6 cm",
+        "9 cm",
+        "19 cm"
+      ],
+      "explanation": "The scale factor is 3, so multiply 6 by 3 to get 18 cm.",
+      "memoryHook": "T-Rexy says: similar figures keep the same shape, so sides scale together.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similar-figures",
+        "proportions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_029",
+      "question": "A triangular prism has a triangle base of 8 cm, a triangle height of 5 cm, and a prism length of 12 cm. What is its volume?",
+      "correctAnswer": "240 cubic cm",
+      "distractors": [
+        "480 cubic cm",
+        "20 cubic cm",
+        "250 cubic cm"
+      ],
+      "explanation": "First find the triangle area: 1/2 x 8 x 5 = 20. Then multiply by the length 12 to get 240 cubic cm.",
+      "memoryHook": "T-Rexy says: prism volume is base area times length.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_030",
+      "question": "Two angles are supplementary. One measures 59 degrees. What is the measure of the other?",
+      "correctAnswer": "121 degrees",
+      "distractors": [
+        "31 degrees",
+        "79 degrees",
+        "239 degrees"
+      ],
+      "explanation": "Supplementary angles add to 180 degrees: 180 - 59 = 121.",
+      "memoryHook": "T-Rexy says: supplementary adds to 180, like a straight line.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_031",
+      "question": "Two vertical angles are formed by crossing lines. One measures 37 degrees. What does the other measure?",
+      "correctAnswer": "37 degrees",
+      "distractors": [
+        "143 degrees",
+        "53 degrees",
+        "47 degrees"
+      ],
+      "explanation": "Vertical angles are always equal, so the other is also 37 degrees.",
+      "memoryHook": "T-Rexy says: angles across from each other are twins.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vertical"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_032",
+      "question": "What is the circumference of a circle with a radius of 5 cm? Use 3.14 for pi.",
+      "correctAnswer": "31.4 cm",
+      "distractors": [
+        "15.7 cm",
+        "78.5 cm",
+        "10 cm"
+      ],
+      "explanation": "Circumference = 2 x pi x radius = 2 x 3.14 x 5 = 31.4 cm.",
+      "memoryHook": "T-Rexy says: circumference is the distance around the circle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_033",
+      "question": "What is the area of a triangle with a base of 6 cm and a height of 10 cm?",
+      "correctAnswer": "30 square cm",
+      "distractors": [
+        "60 square cm",
+        "34 square cm",
+        "16 square cm"
+      ],
+      "explanation": "Area = 1/2 x base x height = 1/2 x 6 x 10 = 30 square cm.",
+      "memoryHook": "T-Rexy says: a triangle is half of a rectangle with the same base and height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_034",
+      "question": "In which quadrant is the point (-2, 2)?",
+      "correctAnswer": "Quadrant II",
+      "distractors": [
+        "Quadrant I",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "explanation": "x is negative and y is positive, so the point is in Quadrant II.",
+      "memoryHook": "T-Rexy says: Quadrant II is top-left: negative x, positive y.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "quadrants"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_035",
+      "question": "What is the perimeter of a rectangle that is 12 cm long and 4 cm wide?",
+      "correctAnswer": "32 cm",
+      "distractors": [
+        "48 cm",
+        "16 cm",
+        "34 cm"
+      ],
+      "explanation": "Perimeter = 2 x (length + width) = 2 x 16 = 32 cm.",
+      "memoryHook": "T-Rexy says: perimeter walks all the way around.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_036",
+      "question": "What is the area of a circle with a radius of 6 cm? Use 3.14 for pi.",
+      "correctAnswer": "113.04 square cm",
+      "distractors": [
+        "37.68 square cm",
+        "18.84 square cm",
+        "36 square cm"
+      ],
+      "explanation": "Area = pi x radius squared = 3.14 x 6 x 6 = 113.04 square cm.",
+      "memoryHook": "T-Rexy says: circle area uses radius squared, not diameter.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_037",
+      "question": "What is the area of a circle with a radius of 5 cm? Use 3.14 for pi.",
+      "correctAnswer": "78.5 square cm",
+      "distractors": [
+        "31.4 square cm",
+        "15.7 square cm",
+        "25 square cm"
+      ],
+      "explanation": "Area = pi x radius squared = 3.14 x 5 x 5 = 78.5 square cm.",
+      "memoryHook": "T-Rexy says: circle area uses radius squared, not diameter.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_038",
+      "question": "Two vertical angles are formed by crossing lines. One measures 64 degrees. What does the other measure?",
+      "correctAnswer": "64 degrees",
+      "distractors": [
+        "116 degrees",
+        "26 degrees",
+        "74 degrees"
+      ],
+      "explanation": "Vertical angles are always equal, so the other is also 64 degrees.",
+      "memoryHook": "T-Rexy says: angles across from each other are twins.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vertical"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_039",
+      "question": "What is the volume of a rectangular prism that is 6 cm long, 2 cm wide, and 2 cm tall?",
+      "correctAnswer": "24 cubic cm",
+      "distractors": [
+        "12 cubic cm",
+        "20 cubic cm",
+        "30 cubic cm"
+      ],
+      "explanation": "Volume = length x width x height = 6 x 2 x 2 = 24 cubic cm.",
+      "memoryHook": "T-Rexy says: volume fills the box: length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_040",
+      "question": "Two angles are supplementary. One measures 57 degrees. What is the measure of the other?",
+      "correctAnswer": "123 degrees",
+      "distractors": [
+        "33 degrees",
+        "77 degrees",
+        "237 degrees"
+      ],
+      "explanation": "Supplementary angles add to 180 degrees: 180 - 57 = 123.",
+      "memoryHook": "T-Rexy says: supplementary adds to 180, like a straight line.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_041",
+      "question": "Three angles of a quadrilateral measure 70, 78, and 89 degrees. What is the fourth angle?",
+      "correctAnswer": "123 degrees",
+      "distractors": [
+        "110 degrees",
+        "237 degrees",
+        "90 degrees"
+      ],
+      "explanation": "The angles of a quadrilateral add to 360: 360 - 70 - 78 - 89 = 123.",
+      "memoryHook": "T-Rexy says: four-sided figures have angles that add to 360.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "quadrilaterals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_042",
+      "question": "A shape is a rectangle 8 cm by 4 cm with a triangle on top that has a base of 6 cm and a height of 4 cm. What is the total area?",
+      "correctAnswer": "44 square cm",
+      "distractors": [
+        "32 square cm",
+        "24 square cm",
+        "49 square cm"
+      ],
+      "explanation": "Rectangle: 8 x 4 = 32. Triangle: 1/2 x 6 x 4 = 12. Total = 44 square cm.",
+      "memoryHook": "T-Rexy says: break a tricky shape into simple pieces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "composite"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_043",
+      "question": "What is the sum of the interior angles of a polygon with 5 sides?",
+      "correctAnswer": "540 degrees",
+      "distractors": [
+        "360 degrees",
+        "900 degrees",
+        "720 degrees"
+      ],
+      "explanation": "The sum is (n - 2) x 180 = 3 x 180 = 540 degrees.",
+      "memoryHook": "T-Rexy says: each extra side adds 180 degrees.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_044",
+      "question": "What is the surface area of a cube with an edge length of 4 cm?",
+      "correctAnswer": "96 square cm",
+      "distractors": [
+        "16 square cm",
+        "64 square cm",
+        "65 square cm"
+      ],
+      "explanation": "A cube has 6 square faces of 4 x 4, so 6 x 16 = 96 square cm.",
+      "memoryHook": "T-Rexy says: a cube has six identical square faces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "cubes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_045",
+      "question": "What is the area of a rectangle that is 10 cm long and 6 cm wide?",
+      "correctAnswer": "60 square cm",
+      "distractors": [
+        "32 square cm",
+        "16 square cm",
+        "62 square cm"
+      ],
+      "explanation": "Area of a rectangle = length x width = 10 x 6 = 60 square cm.",
+      "memoryHook": "T-Rexy says: rectangle area is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_046",
+      "question": "A triangular prism has a triangle base of 6 cm, a triangle height of 5 cm, and a prism length of 7 cm. What is its volume?",
+      "correctAnswer": "105 cubic cm",
+      "distractors": [
+        "210 cubic cm",
+        "15 cubic cm",
+        "115 cubic cm"
+      ],
+      "explanation": "First find the triangle area: 1/2 x 6 x 5 = 15. Then multiply by the length 7 to get 105 cubic cm.",
+      "memoryHook": "T-Rexy says: prism volume is base area times length.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_047",
+      "question": "Three angles of a quadrilateral measure 79, 85, and 67 degrees. What is the fourth angle?",
+      "correctAnswer": "129 degrees",
+      "distractors": [
+        "101 degrees",
+        "231 degrees",
+        "90 degrees"
+      ],
+      "explanation": "The angles of a quadrilateral add to 360: 360 - 79 - 85 - 67 = 129.",
+      "memoryHook": "T-Rexy says: four-sided figures have angles that add to 360.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "quadrilaterals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_048",
+      "question": "What is the area of a trapezoid with bases 6 cm and 12 cm and height 5 cm?",
+      "correctAnswer": "45 square cm",
+      "distractors": [
+        "90 square cm",
+        "72 square cm",
+        "51 square cm"
+      ],
+      "explanation": "Area = 1/2 x (base 1 + base 2) x height = 1/2 x 18 x 5 = 45 square cm.",
+      "memoryHook": "T-Rexy says: a trapezoid averages its two bases, then multiplies by height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "trapezoids"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_049",
+      "question": "A circular sticker has a diameter of 8 cm. What is its area? Use 3.14 for pi.",
+      "correctAnswer": "50.24 square cm",
+      "distractors": [
+        "25.12 square cm",
+        "200.96 square cm",
+        "12.56 square cm"
+      ],
+      "explanation": "The area formula needs the radius, so first halve the diameter: 8 / 2 = 4 cm. Then Area = pi x radius squared = 3.14 x 4 x 4 = 50.24 square cm.",
+      "memoryHook": "T-Rexy says: halve the diameter before you square anything.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_050",
+      "question": "Two lines cross each other. One of the angles measures 118 degrees. What is the measure of the angle adjacent to it?",
+      "correctAnswer": "62 degrees",
+      "distractors": [
+        "118 degrees",
+        "28 degrees",
+        "72 degrees"
+      ],
+      "explanation": "Adjacent angles formed by crossing lines sit on a straight line, so they are supplementary and add to 180 degrees: 180 - 118 = 62 degrees.",
+      "memoryHook": "T-Rexy says: neighbors on a straight line always add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_051",
+      "question": "Which formula gives the area of a circle?",
+      "correctAnswer": "A = pi x r^2",
+      "distractors": [
+        "A = 3 x pi x r",
+        "A = pi x d",
+        "A = r^1"
+      ],
+      "explanation": "Circle area is pi times the radius squared.",
+      "memoryHook": "T-Rexy says: area needs r squared, circumference needs 2 pi r.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "formulas"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_052",
+      "question": "What is the circumference of a circle with a radius of 3 cm? Use 3.14 for pi.",
+      "correctAnswer": "18.84 cm",
+      "distractors": [
+        "9.42 cm",
+        "28.26 cm",
+        "6 cm"
+      ],
+      "explanation": "Circumference = 2 x pi x radius = 2 x 3.14 x 3 = 18.84 cm.",
+      "memoryHook": "T-Rexy says: circumference is the distance around the circle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_053",
+      "question": "Three angles sit on a straight line. Two measure 51 degrees and 67 degrees. What is the third?",
+      "correctAnswer": "62 degrees",
+      "distractors": [
+        "118 degrees",
+        "129 degrees",
+        "39 degrees"
+      ],
+      "explanation": "Angles on a straight line add to 180: 180 - 51 - 67 = 62.",
+      "memoryHook": "T-Rexy says: a straight line is 180 degrees.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "straight-line"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_054",
+      "question": "What is the area of a triangle with a base of 12 cm and a height of 8 cm?",
+      "correctAnswer": "48 square cm",
+      "distractors": [
+        "96 square cm",
+        "52 square cm",
+        "20 square cm"
+      ],
+      "explanation": "Area = 1/2 x base x height = 1/2 x 12 x 8 = 48 square cm.",
+      "memoryHook": "T-Rexy says: a triangle is half of a rectangle with the same base and height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_055",
+      "question": "On a scale drawing, 1 cm represents 4 meters. A wall is 10 cm long on the drawing. How long is the real wall?",
+      "correctAnswer": "40 meters",
+      "distractors": [
+        "10 meters",
+        "14 meters",
+        "42 meters"
+      ],
+      "explanation": "Multiply the drawing length by the scale: 10 x 4 = 40 meters.",
+      "memoryHook": "T-Rexy says: scale drawings multiply every length by the same number.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "scale-drawings",
+        "proportions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_056",
+      "question": "What is a polygon with 8 sides called?",
+      "correctAnswer": "An octagon",
+      "distractors": [
+        "A triangle",
+        "A quadrilateral",
+        "A decagon"
+      ],
+      "explanation": "A polygon with 8 sides is an octagon.",
+      "memoryHook": "T-Rexy says: count the sides to name the polygon.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_057",
+      "question": "Two angles of a triangle measure 41 degrees and 68 degrees. What is the measure of the third angle?",
+      "correctAnswer": "71 degrees",
+      "distractors": [
+        "109 degrees",
+        "139 degrees",
+        "49 degrees"
+      ],
+      "explanation": "The angles of a triangle add to 180: 180 - 41 - 68 = 71.",
+      "memoryHook": "T-Rexy says: triangle angles always add up to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "triangles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_058",
+      "question": "A triangle with all three sides the same length is called what kind of triangle?",
+      "correctAnswer": "Equilateral",
+      "distractors": [
+        "Scalene",
+        "Isosceles",
+        "Obtuse"
+      ],
+      "explanation": "Equi- means equal, so a triangle with all three sides equal is equilateral.",
+      "memoryHook": "T-Rexy says: equi means equal, iso means same, scalene means uneven.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "classification"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_059",
+      "question": "Two angles are supplementary. One measures 23 degrees. What is the measure of the other?",
+      "correctAnswer": "157 degrees",
+      "distractors": [
+        "67 degrees",
+        "43 degrees",
+        "203 degrees"
+      ],
+      "explanation": "Supplementary angles add to 180 degrees: 180 - 23 = 157.",
+      "memoryHook": "T-Rexy says: supplementary adds to 180, like a straight line.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_060",
+      "question": "A triangle with one angle of 90 degrees is called what kind of triangle?",
+      "correctAnswer": "Right",
+      "distractors": [
+        "Equilateral",
+        "Isosceles",
+        "Obtuse"
+      ],
+      "explanation": "A triangle with one 90-degree angle is a right triangle - the right angle is the corner where two sides meet at 90 degrees.",
+      "memoryHook": "T-Rexy says: a right angle makes a right triangle - look for the little square corner.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "classification"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_061",
+      "question": "What is the area of a trapezoid with bases 8 cm and 12 cm and height 4 cm?",
+      "correctAnswer": "40 square cm",
+      "distractors": [
+        "80 square cm",
+        "96 square cm",
+        "46 square cm"
+      ],
+      "explanation": "Area = 1/2 x (base 1 + base 2) x height = 1/2 x 20 x 4 = 40 square cm.",
+      "memoryHook": "T-Rexy says: a trapezoid averages its two bases, then multiplies by height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "trapezoids"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_062",
+      "question": "What is the area of a rectangle that is 10 cm long and 7 cm wide?",
+      "correctAnswer": "70 square cm",
+      "distractors": [
+        "34 square cm",
+        "17 square cm",
+        "72 square cm"
+      ],
+      "explanation": "Area of a rectangle = length x width = 10 x 7 = 70 square cm.",
+      "memoryHook": "T-Rexy says: rectangle area is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_063",
+      "question": "What is the surface area of a cube with an edge length of 3 cm?",
+      "correctAnswer": "54 square cm",
+      "distractors": [
+        "9 square cm",
+        "27 square cm",
+        "36 square cm"
+      ],
+      "explanation": "A cube has 6 square faces of 3 x 3, so 6 x 9 = 54 square cm.",
+      "memoryHook": "T-Rexy says: a cube has six identical square faces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "cubes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_064",
+      "question": "A point is reflected over the x-axis. Its y-coordinate becomes what?",
+      "correctAnswer": "The opposite sign",
+      "distractors": [
+        "The same",
+        "Zero",
+        "Twice as large"
+      ],
+      "explanation": "Reflecting over the x-axis flips the y-coordinate to its opposite.",
+      "memoryHook": "T-Rexy says: x-axis reflection flips up and down.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "reflections"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_065",
+      "question": "The point (2, 2) lies in which quadrant?",
+      "correctAnswer": "Quadrant I",
+      "distractors": [
+        "Quadrant II",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "explanation": "Both coordinates are positive, so the point is in Quadrant I.",
+      "memoryHook": "T-Rexy says: Quadrant I is the top-right, where both numbers are positive.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "quadrants"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_066",
+      "question": "What is the area of a rectangle that is 8 cm long and 3 cm wide?",
+      "correctAnswer": "24 square cm",
+      "distractors": [
+        "22 square cm",
+        "11 square cm",
+        "26 square cm"
+      ],
+      "explanation": "Area of a rectangle = length x width = 8 x 3 = 24 square cm.",
+      "memoryHook": "T-Rexy says: rectangle area is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_067",
+      "question": "In which quadrant is the point (-3, 4)?",
+      "correctAnswer": "Quadrant II",
+      "distractors": [
+        "Quadrant I",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "explanation": "x is negative and y is positive, so the point is in Quadrant II.",
+      "memoryHook": "T-Rexy says: Quadrant II is top-left: negative x, positive y.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "quadrants"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_068",
+      "question": "A square pyramid has a base that is 9 cm by 9 cm and a height of 10 cm. What is the volume of the pyramid?",
+      "correctAnswer": "270 cubic cm",
+      "distractors": [
+        "810 cubic cm",
+        "90 cubic cm",
+        "300 cubic cm"
+      ],
+      "explanation": "A pyramid holds exactly one third of a prism with the same base and height. The base area is 9 x 9 = 81, so Volume = 1/3 x 81 x 10 = 270 cubic cm.",
+      "memoryHook": "T-Rexy says: a pyramid is one third of its prism twin.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "pyramids"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_069",
+      "question": "What is the surface area of a rectangular prism that is 4 cm by 4 cm by 2 cm?",
+      "correctAnswer": "64 square cm",
+      "distractors": [
+        "32 square cm",
+        "20 square cm",
+        "60 square cm"
+      ],
+      "explanation": "Surface area = 2(lw + lh + wh) = 2(16 + 8 + 8) = 64 square cm.",
+      "memoryHook": "T-Rexy says: surface area adds up all six faces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_070",
+      "question": "A cylinder is sliced by a flat cut that goes straight across it, parallel to its bases. What shape is the cross section?",
+      "correctAnswer": "A circle",
+      "distractors": [
+        "A rectangle",
+        "A triangle",
+        "An oval"
+      ],
+      "explanation": "A cut made parallel to a solid's base copies the shape of that base. The bases of a cylinder are circles, so the cross section is a circle the same size as the base.",
+      "memoryHook": "T-Rexy says: a cut parallel to the base copies the base.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "cross-sections",
+        "cylinders"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_071",
+      "question": "What is the volume of a rectangular prism that is 3 cm long, 2 cm wide, and 3 cm tall?",
+      "correctAnswer": "18 cubic cm",
+      "distractors": [
+        "6 cubic cm",
+        "16 cubic cm",
+        "24 cubic cm"
+      ],
+      "explanation": "Volume = length x width x height = 3 x 2 x 3 = 18 cubic cm.",
+      "memoryHook": "T-Rexy says: volume fills the box: length times width times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_072",
+      "question": "What is the area of a semicircle with a diameter of 10 cm? Use 3.14 for pi.",
+      "correctAnswer": "39.25 square cm",
+      "distractors": [
+        "78.5 square cm",
+        "15.7 square cm",
+        "31.4 square cm"
+      ],
+      "explanation": "The radius is half the diameter: 10 / 2 = 5 cm. A full circle would have area 3.14 x 5 x 5 = 78.5, and a semicircle is exactly half of the circle: 78.5 / 2 = 39.25 square cm.",
+      "memoryHook": "T-Rexy says: find the whole circle first, then take half.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_073",
+      "question": "A triangle with no sides the same length is called what kind of triangle?",
+      "correctAnswer": "Scalene",
+      "distractors": [
+        "Equilateral",
+        "Isosceles",
+        "Obtuse"
+      ],
+      "explanation": "Scalene comes from a Greek word for uneven - no sides match, so the triangle is scalene.",
+      "memoryHook": "T-Rexy says: equi means equal, iso means same, scalene means uneven.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "classification"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_074",
+      "question": "Two angles are supplementary. One angle is 4 times as large as the other. What is the measure of the smaller angle?",
+      "correctAnswer": "36 degrees",
+      "distractors": [
+        "45 degrees",
+        "144 degrees",
+        "30 degrees"
+      ],
+      "explanation": "Call the smaller angle x. The larger angle is 4x, and supplementary angles add to 180, so x + 4x = 180. That gives 5x = 180, so x = 36 degrees.",
+      "memoryHook": "T-Rexy says: name the small angle x and let the equation do the work.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_075",
+      "question": "Which part of a circle is a straight segment that joins two points on the circle and passes through its center?",
+      "correctAnswer": "The diameter",
+      "distractors": [
+        "The radius",
+        "The circumference",
+        "The arc"
+      ],
+      "explanation": "A segment with both endpoints on the circle that passes through the center is the diameter. It is the longest segment across a circle and equals exactly two radii.",
+      "memoryHook": "T-Rexy says: the diameter dives straight through the center.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_076",
+      "question": "A shape is a rectangle 10 cm by 5 cm with a triangle on top that has a base of 8 cm and a height of 3 cm. What is the total area?",
+      "correctAnswer": "62 square cm",
+      "distractors": [
+        "50 square cm",
+        "24 square cm",
+        "67 square cm"
+      ],
+      "explanation": "Rectangle: 10 x 5 = 50. Triangle: 1/2 x 8 x 3 = 12. Total = 62 square cm.",
+      "memoryHook": "T-Rexy says: break a tricky shape into simple pieces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "composite"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_077",
+      "question": "What is the volume of a cylinder with a radius of 3 cm and a height of 10 cm? Use 3.14 for pi.",
+      "correctAnswer": "282.6 cubic cm",
+      "distractors": [
+        "94.2 cubic cm",
+        "188.4 cubic cm",
+        "90 cubic cm"
+      ],
+      "explanation": "Volume = pi x radius squared x height = 3.14 x 9 x 10 = 282.6 cubic cm.",
+      "memoryHook": "T-Rexy says: a cylinder is a circle stretched up by its height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "cylinders"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_078",
+      "question": "Two triangles are similar. One has a side of 6 cm and the matching side on the other is 18 cm. If another side of the first triangle is 4 cm, what is the matching side?",
+      "correctAnswer": "12 cm",
+      "distractors": [
+        "4 cm",
+        "7 cm",
+        "22 cm"
+      ],
+      "explanation": "The scale factor is 3, so multiply 4 by 3 to get 12 cm.",
+      "memoryHook": "T-Rexy says: similar figures keep the same shape, so sides scale together.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similar-figures",
+        "proportions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_079",
+      "question": "A circle has a radius of 4 cm. What is its diameter?",
+      "correctAnswer": "8 cm",
+      "distractors": [
+        "4 cm",
+        "6 cm",
+        "2 cm"
+      ],
+      "explanation": "The diameter is twice the radius: 2 x 4 = 8 cm.",
+      "memoryHook": "T-Rexy says: diameter goes all the way across, radius only halfway.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "radius"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_080",
+      "question": "A shape is made of two rectangles. One rectangle is 9 cm by 3 cm, and the other is 4 cm by 3 cm. What is the total area of the shape?",
+      "correctAnswer": "39 square cm",
+      "distractors": [
+        "27 square cm",
+        "12 square cm",
+        "36 square cm"
+      ],
+      "explanation": "Split the shape into its two rectangles and add their areas: 9 x 3 = 27 and 4 x 3 = 12. Total: 27 + 12 = 39 square cm.",
+      "memoryHook": "T-Rexy says: chop the shape into rectangles and add the pieces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "composite"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_081",
+      "question": "What is the volume of a cylinder with a radius of 3 cm and a height of 5 cm? Use 3.14 for pi.",
+      "correctAnswer": "141.3 cubic cm",
+      "distractors": [
+        "47.1 cubic cm",
+        "94.2 cubic cm",
+        "45 cubic cm"
+      ],
+      "explanation": "Volume = pi x radius squared x height = 3.14 x 9 x 5 = 141.3 cubic cm.",
+      "memoryHook": "T-Rexy says: a cylinder is a circle stretched up by its height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "cylinders"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_082",
+      "question": "The point (-1, 6) is located in which quadrant?",
+      "correctAnswer": "Quadrant II",
+      "distractors": [
+        "Quadrant I",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "explanation": "x is negative and y is positive, so the point is in Quadrant II.",
+      "memoryHook": "T-Rexy says: Quadrant II is top-left: negative x, positive y.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "quadrants"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_083",
+      "question": "An angle that measures exactly 180 degrees is called what kind of angle?",
+      "correctAnswer": "Straight",
+      "distractors": [
+        "Acute",
+        "Right",
+        "Reflex"
+      ],
+      "explanation": "A straight angle opens all the way to a straight line, which is exactly 180 degrees.",
+      "memoryHook": "T-Rexy says: a straight angle is a flat line - 180 degrees.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "classification"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_084",
+      "question": "What is the area of a parallelogram with a base of 8 cm and a height of 5 cm?",
+      "correctAnswer": "40 square cm",
+      "distractors": [
+        "20 square cm",
+        "13 square cm",
+        "26 square cm"
+      ],
+      "explanation": "Area of a parallelogram = base x height = 8 x 5 = 40 square cm.",
+      "memoryHook": "T-Rexy says: a parallelogram has the area of a rectangle with the same base and height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "parallelograms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_085",
+      "question": "A shape is a rectangle 8 cm by 4 cm with a triangle on top that has a base of 8 cm and a height of 4 cm. What is the total area?",
+      "correctAnswer": "48 square cm",
+      "distractors": [
+        "32 square cm",
+        "33 square cm",
+        "53 square cm"
+      ],
+      "explanation": "Rectangle: 8 x 4 = 32. Triangle: 1/2 x 8 x 4 = 16. Total = 48 square cm.",
+      "memoryHook": "T-Rexy says: break a tricky shape into simple pieces.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "composite"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_086",
+      "question": "A rectangle is 5 cm long and 2 cm wide. It is enlarged by a scale factor of 3. What is the perimeter of the enlarged rectangle?",
+      "correctAnswer": "42 cm",
+      "distractors": [
+        "14 cm",
+        "30 cm",
+        "126 cm"
+      ],
+      "explanation": "A scale factor multiplies every length: the new sides are 5 x 3 = 15 cm and 2 x 3 = 6 cm. Perimeter = 2 x (15 + 6) = 42 cm.",
+      "memoryHook": "T-Rexy says: every length gets multiplied by the scale factor.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "scale-drawings",
+        "proportions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_087",
+      "question": "Can a triangle be built with side lengths of 3 cm, 4 cm, and 9 cm?",
+      "correctAnswer": "No - the two short sides add to less than the long side",
+      "distractors": [
+        "Yes - any three lengths can form a triangle",
+        "Yes - the longest side is 9 cm",
+        "No - a triangle must have all sides equal"
+      ],
+      "explanation": "The triangle inequality says the two shorter sides must add to more than the longest side. Here 3 + 4 = 7, which is less than 9, so the short sides cannot reach each other to close the triangle.",
+      "memoryHook": "T-Rexy says: two short sides must reach past the long one.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "constructions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_088",
+      "question": "What is the sum of the interior angles of a polygon with 8 sides?",
+      "correctAnswer": "1080 degrees",
+      "distractors": [
+        "900 degrees",
+        "1440 degrees",
+        "1260 degrees"
+      ],
+      "explanation": "The sum is (n - 2) x 180 = 6 x 180 = 1080 degrees.",
+      "memoryHook": "T-Rexy says: each extra side adds 180 degrees.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_089",
+      "question": "What is the area of a triangle with a base of 10 cm and a height of 10 cm?",
+      "correctAnswer": "50 square cm",
+      "distractors": [
+        "100 square cm",
+        "54 square cm",
+        "20 square cm"
+      ],
+      "explanation": "Area = 1/2 x base x height = 1/2 x 10 x 10 = 50 square cm.",
+      "memoryHook": "T-Rexy says: a triangle is half of a rectangle with the same base and height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_090",
+      "question": "Two triangles are similar. One has a side of 5 cm and the matching side on the other is 10 cm. If another side of the first triangle is 6 cm, what is the matching side?",
+      "correctAnswer": "12 cm",
+      "distractors": [
+        "6 cm",
+        "8 cm",
+        "16 cm"
+      ],
+      "explanation": "The scale factor is 2, so multiply 6 by 2 to get 12 cm.",
+      "memoryHook": "T-Rexy says: similar figures keep the same shape, so sides scale together.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similar-figures",
+        "proportions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_091",
+      "question": "A point is reflected over the y-axis. Its x-coordinate becomes what?",
+      "correctAnswer": "The opposite sign",
+      "distractors": [
+        "The same",
+        "Zero",
+        "Twice as large"
+      ],
+      "explanation": "Reflecting over the y-axis flips the x-coordinate to its opposite.",
+      "memoryHook": "T-Rexy says: y-axis reflection flips left and right.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "transformations",
+        "reflections"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_092",
+      "question": "A triangular prism has triangular ends with a base of 6 cm and a height of 4 cm. The prism is 10 cm long, and the other two sides of each triangle are 5 cm and 5 cm. What is the surface area of the prism?",
+      "correctAnswer": "184 square cm",
+      "distractors": [
+        "160 square cm",
+        "208 square cm",
+        "172 square cm"
+      ],
+      "explanation": "Count all five faces. The two triangular ends: 2 x (1/2 x 6 x 4) = 24. The three rectangular sides: 6 x 10 = 60, plus two of 5 x 10 = 50 each. Total: 24 + 60 + 50 + 50 = 184 square cm.",
+      "memoryHook": "T-Rexy says: a prism wears two triangle ends and three rectangle walls.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "prisms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_093",
+      "question": "When two lines cross, what are the angles that sit directly across from each other called?",
+      "correctAnswer": "Vertical angles",
+      "distractors": [
+        "Complementary angles",
+        "Supplementary angles",
+        "Adjacent angles"
+      ],
+      "explanation": "Angles that sit opposite each other when two lines cross are called vertical angles. They are formed by the same two lines and always have equal measures.",
+      "memoryHook": "T-Rexy says: vertical angles face off across the crossing - and they match.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "vertical"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_094",
+      "question": "Three angles sit on a straight line. Two measure 62 degrees and 31 degrees. What is the third?",
+      "correctAnswer": "87 degrees",
+      "distractors": [
+        "93 degrees",
+        "118 degrees",
+        "28 degrees"
+      ],
+      "explanation": "Angles on a straight line add to 180: 180 - 62 - 31 = 87.",
+      "memoryHook": "T-Rexy says: a straight line is 180 degrees.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "straight-line"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_095",
+      "question": "An angle that measures more than 90 degrees but less than 180 degrees is called what kind of angle?",
+      "correctAnswer": "Obtuse",
+      "distractors": [
+        "Acute",
+        "Right",
+        "Reflex"
+      ],
+      "explanation": "An angle bigger than 90 degrees but smaller than 180 degrees is an obtuse angle - wider than a right angle, not yet a straight line.",
+      "memoryHook": "T-Rexy says: acute is sharp and small, obtuse is wide.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "classification"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_096",
+      "question": "What is the perimeter of a rectangle that is 12 cm long and 7 cm wide?",
+      "correctAnswer": "38 cm",
+      "distractors": [
+        "84 cm",
+        "19 cm",
+        "40 cm"
+      ],
+      "explanation": "Perimeter = 2 x (length + width) = 2 x 19 = 38 cm.",
+      "memoryHook": "T-Rexy says: perimeter walks all the way around.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_097",
+      "question": "What is the volume of a cylinder with a radius of 2 cm and a height of 6 cm? Use 3.14 for pi.",
+      "correctAnswer": "75.36 cubic cm",
+      "distractors": [
+        "37.68 cubic cm",
+        "76.36 cubic cm",
+        "24 cubic cm"
+      ],
+      "explanation": "Volume = pi x radius squared x height = 3.14 x 4 x 6 = 75.36 cubic cm.",
+      "memoryHook": "T-Rexy says: a cylinder is a circle stretched up by its height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "cylinders"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_098",
+      "question": "Which quadrant contains the point (3, 4)?",
+      "correctAnswer": "Quadrant I",
+      "distractors": [
+        "Quadrant II",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "explanation": "Both coordinates are positive, so the point is in Quadrant I.",
+      "memoryHook": "T-Rexy says: Quadrant I is the top-right, where both numbers are positive.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate-plane",
+        "quadrants"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_099",
+      "question": "Three angles of a quadrilateral measure 76, 60, and 94 degrees. What is the fourth angle?",
+      "correctAnswer": "130 degrees",
+      "distractors": [
+        "104 degrees",
+        "230 degrees",
+        "90 degrees"
+      ],
+      "explanation": "The angles of a quadrilateral add to 360: 360 - 76 - 60 - 94 = 130.",
+      "memoryHook": "T-Rexy says: four-sided figures have angles that add to 360.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "quadrilaterals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO7_100",
+      "question": "On a scale drawing, 1 cm represents 3 meters. A wall is 6 cm long on the drawing. How long is the real wall?",
+      "correctAnswer": "18 meters",
+      "distractors": [
+        "6 meters",
+        "9 meters",
+        "20 meters"
+      ],
+      "explanation": "Multiply the drawing length by the scale: 6 x 3 = 18 meters.",
+      "memoryHook": "T-Rexy says: scale drawings multiply every length by the same number.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "scale-drawings",
+        "proportions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

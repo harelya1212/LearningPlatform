@@ -1,0 +1,2016 @@
+{
+  "packId": "gr6-math",
+  "title": "Math (6th Grade)",
+  "description": "Math (6th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "math",
+    "6th"
+  ],
+  "questions": [
+    {
+      "id": "MAT6_001",
+      "question": "In the equivalent ratios 4:7 = 8:x, what is x?",
+      "correctAnswer": "14",
+      "distractors": [
+        "21",
+        "8",
+        "9"
+      ],
+      "explanation": "Multiply both parts by 2: 4 x 2 = 8 and 7 x 2 = 14.",
+      "memoryHook": "T-Rexy says: Equivalent ratios multiply both parts by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "equivalent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_002",
+      "question": "In the equivalent ratios 3:5 = 9:x, what is x?",
+      "correctAnswer": "15",
+      "distractors": [
+        "20",
+        "9",
+        "8"
+      ],
+      "explanation": "Multiply both parts by 3: 3 x 3 = 9 and 5 x 3 = 15.",
+      "memoryHook": "T-Rexy says: Equivalent ratios multiply both parts by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "equivalent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_003",
+      "question": "A rectangle has an area of 48 square cm and a length of 8 cm. What is its width?",
+      "correctAnswer": "6 cm",
+      "distractors": [
+        "5 cm",
+        "8 cm",
+        "40 cm"
+      ],
+      "explanation": "Width = area / length = 48 / 8 = 6 cm.",
+      "memoryHook": "T-Rexy says: Work backwards from the area formula.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "geometry",
+        "area"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_004",
+      "question": "What is 3/4 + 1/4?",
+      "correctAnswer": "1",
+      "distractors": [
+        "1/2",
+        "4/8",
+        "5/8"
+      ],
+      "explanation": "3/4 + 1/4 = 4/4 = 1.",
+      "memoryHook": "T-Rexy says: Same denominators: just add the tops.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "addition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_005",
+      "question": "What is 3/4 divided by 1/2?",
+      "correctAnswer": "3/2",
+      "distractors": [
+        "3/8",
+        "5/4",
+        "1/2"
+      ],
+      "explanation": "Multiply by the reciprocal: 3/4 x 2/1 = 3/2.",
+      "memoryHook": "T-Rexy says: Flip the second fraction and multiply.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_006",
+      "question": "8 crayons cost $24. What is the unit price per crayon?",
+      "correctAnswer": "$3",
+      "distractors": [
+        "$2.67",
+        "$24",
+        "$4"
+      ],
+      "explanation": "Divide the total cost by the number of items: $24 / 8 = $3 each.",
+      "memoryHook": "T-Rexy says: Unit price is total cost divided by how many.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "unit-rate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_007",
+      "question": "What does the ratio 3:4 mean?",
+      "correctAnswer": "3 parts to 4 parts",
+      "distractors": [
+        "3 plus 4",
+        "3 times 4",
+        "4 minus 3"
+      ],
+      "explanation": "The ratio 3:4 means for every 3 of one thing there are 4 of the other.",
+      "memoryHook": "T-Rexy says: Ratios show parts to parts.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_008",
+      "question": "A recipe uses 2/3 cup of sugar for 4 servings. How much sugar per serving?",
+      "correctAnswer": "1/6 cup",
+      "distractors": [
+        "1/3 cup",
+        "1/12 cup",
+        "8/3 cups"
+      ],
+      "explanation": "Divide 2/3 by 4: 2/3 x 1/4 = 2/12 = 1/6 cup per serving.",
+      "memoryHook": "T-Rexy says: Dividing by a whole number means multiplying by its reciprocal.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_009",
+      "question": "What is the median of 3, 7, 9?",
+      "correctAnswer": "7",
+      "distractors": [
+        "3",
+        "9",
+        "6"
+      ],
+      "explanation": "The numbers in order are 3, 7, 9. The middle value is 7.",
+      "memoryHook": "T-Rexy says: The median is the middle number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "statistics",
+        "median"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_010",
+      "question": "Evaluate 4 + 3 x 2^2.",
+      "correctAnswer": "16",
+      "distractors": [
+        "28",
+        "14",
+        "20"
+      ],
+      "explanation": "Order of operations: 2^2 = 4, then 3 x 4 = 12, then 4 + 12 = 16.",
+      "memoryHook": "T-Rexy says: Exponents first, then multiply, then add.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "order-of-operations",
+        "exponents"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_011",
+      "question": "A $50 game is marked up 20%. What is the new price?",
+      "correctAnswer": "$60",
+      "distractors": [
+        "$70",
+        "$55",
+        "$40"
+      ],
+      "explanation": "20% of $50 is $10, so $50 + $10 = $60.",
+      "memoryHook": "T-Rexy says: A markup adds a percent of the original price.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "markup"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_012",
+      "question": "What is 5/6 - 1/6?",
+      "correctAnswer": "2/3",
+      "distractors": [
+        "1/3",
+        "1/2",
+        "5/6"
+      ],
+      "explanation": "5/6 - 1/6 = 4/6, which simplifies to 2/3.",
+      "memoryHook": "T-Rexy says: Subtract the tops, then simplify.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "subtraction"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_013",
+      "question": "What is 15% of 200?",
+      "correctAnswer": "30",
+      "distractors": [
+        "35",
+        "60",
+        "15"
+      ],
+      "explanation": "15% of 200 = 15/100 x 200 = 30.",
+      "memoryHook": "T-Rexy says: Percent means out of 100.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_014",
+      "question": "What is 75% of 120?",
+      "correctAnswer": "90",
+      "distractors": [
+        "95",
+        "180",
+        "75"
+      ],
+      "explanation": "75% of 120 = 75/100 x 120 = 90.",
+      "memoryHook": "T-Rexy says: Percent means out of 100.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_015",
+      "question": "A jacket costs $80. It is on sale for 25% off. What is the sale price?",
+      "correctAnswer": "$60",
+      "distractors": [
+        "$55",
+        "$20",
+        "$75"
+      ],
+      "explanation": "25% of $80 is $20, so $80 - $20 = $60.",
+      "memoryHook": "T-Rexy says: Find the discount first, then subtract it.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "discount"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_016",
+      "question": "In the equivalent ratios 3:8 = 15:x, what is x?",
+      "correctAnswer": "40",
+      "distractors": [
+        "48",
+        "15",
+        "13"
+      ],
+      "explanation": "Multiply both parts by 5: 3 x 5 = 15 and 8 x 5 = 40.",
+      "memoryHook": "T-Rexy says: Equivalent ratios multiply both parts by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "equivalent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_017",
+      "question": "6 apples cost $18. What is the unit price per apple?",
+      "correctAnswer": "$3",
+      "distractors": [
+        "$2.57",
+        "$18",
+        "$4"
+      ],
+      "explanation": "Divide the total cost by the number of items: $18 / 6 = $3 each.",
+      "memoryHook": "T-Rexy says: Unit price is total cost divided by how many.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "unit-rate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_018",
+      "question": "Mia has a 3:5 ratio of red to blue marbles. If she has 15 red marbles, how many blue marbles does she have?",
+      "correctAnswer": "25",
+      "distractors": [
+        "9",
+        "20",
+        "30"
+      ],
+      "explanation": "The ratio is multiplied by 5 (3 x 5 = 15), so blue = 5 x 5 = 25.",
+      "memoryHook": "T-Rexy says: Scale both parts of the ratio by the same factor.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_019",
+      "question": "What is the value of 3^3?",
+      "correctAnswer": "27",
+      "distractors": [
+        "9",
+        "18",
+        "81"
+      ],
+      "explanation": "3^3 = 3 x 3 x 3 = 27.",
+      "memoryHook": "T-Rexy says: An exponent tells how many times to multiply the base by itself.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_020",
+      "question": "Simplify the ratio 18:24.",
+      "correctAnswer": "3:4",
+      "distractors": [
+        "18:24",
+        "4:3",
+        "4:4"
+      ],
+      "explanation": "Divide both parts by their GCF, 6: 18/6 = 3 and 24/6 = 4.",
+      "memoryHook": "T-Rexy says: Divide both sides of a ratio by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplifying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_021",
+      "question": "Simplify the ratio 6:8.",
+      "correctAnswer": "3:4",
+      "distractors": [
+        "6:8",
+        "4:3",
+        "4:4"
+      ],
+      "explanation": "Divide both parts by their GCF, 2: 6/2 = 3 and 8/2 = 4.",
+      "memoryHook": "T-Rexy says: Divide both sides of a ratio by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplifying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_022",
+      "question": "What is 7 x 8?",
+      "correctAnswer": "56",
+      "distractors": [
+        "54",
+        "48",
+        "64"
+      ],
+      "explanation": "7 groups of 8: count by 8s - 8, 16, 24, 32, 40, 48, 56.",
+      "memoryHook": "T-Rexy says: Seven groups of eight is fifty-six.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "multiplication",
+        "fluency"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_023",
+      "question": "Simplify the ratio 10:15.",
+      "correctAnswer": "2:3",
+      "distractors": [
+        "10:15",
+        "3:2",
+        "3:3"
+      ],
+      "explanation": "Divide both parts by their GCF, 5: 10/5 = 2 and 15/5 = 3.",
+      "memoryHook": "T-Rexy says: Divide both sides of a ratio by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplifying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_024",
+      "question": "The temperature is -2 degrees and drops 7 degrees. What is the new temperature?",
+      "correctAnswer": "-9 degrees",
+      "distractors": [
+        "5 degrees",
+        "-5 degrees",
+        "9 degrees"
+      ],
+      "explanation": "-2 - 7 = -9 degrees.",
+      "memoryHook": "T-Rexy says: A drop moves you further left on the number line.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_025",
+      "question": "A car travels 180 miles in 3 hours. What is its unit rate?",
+      "correctAnswer": "60 miles per hour",
+      "distractors": [
+        "3 miles per hour",
+        "90 miles per hour",
+        "180 miles per hour"
+      ],
+      "explanation": "180 / 3 = 60 miles per hour.",
+      "memoryHook": "T-Rexy says: Unit rate means divide by the time.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "unit-rate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_026",
+      "question": "3 muffins cost $21. What is the unit price per muffin?",
+      "correctAnswer": "$7",
+      "distractors": [
+        "$5.25",
+        "$21",
+        "$8"
+      ],
+      "explanation": "Divide the total cost by the number of items: $21 / 3 = $7 each.",
+      "memoryHook": "T-Rexy says: Unit price is total cost divided by how many.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "unit-rate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_027",
+      "question": "A box is 2 1/2 ft long, 2 ft wide, and 3 ft tall. What is its volume?",
+      "correctAnswer": "15 cubic ft",
+      "distractors": [
+        "7 1/2 cubic ft",
+        "12 cubic ft",
+        "17 1/2 cubic ft"
+      ],
+      "explanation": "Volume = 2 1/2 x 2 x 3 = 5/2 x 6 = 15 cubic ft.",
+      "memoryHook": "T-Rexy says: Multiply all three dimensions, fractions included.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "geometry",
+        "volume"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_028",
+      "question": "What is the opposite of 5?",
+      "correctAnswer": "-5",
+      "distractors": [
+        "5",
+        "0",
+        "1/5"
+      ],
+      "explanation": "The opposite of 5 is -5, the same distance from zero on the other side.",
+      "memoryHook": "T-Rexy says: Opposites are mirror images across zero.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "opposites"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_029",
+      "question": "What is -6 + 9?",
+      "correctAnswer": "3",
+      "distractors": [
+        "-3",
+        "15",
+        "-15"
+      ],
+      "explanation": "Start at -6 and move 9 to the right to reach 3.",
+      "memoryHook": "T-Rexy says: Adding a positive moves right on the number line.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "addition"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_030",
+      "question": "Simplify the ratio 14:21.",
+      "correctAnswer": "2:3",
+      "distractors": [
+        "14:21",
+        "3:2",
+        "3:3"
+      ],
+      "explanation": "Divide both parts by their GCF, 7: 14/7 = 2 and 21/7 = 3.",
+      "memoryHook": "T-Rexy says: Divide both sides of a ratio by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplifying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_031",
+      "question": "What is the least common multiple (LCM) of 4 and 6?",
+      "correctAnswer": "12",
+      "distractors": [
+        "24",
+        "10",
+        "6"
+      ],
+      "explanation": "Multiples of 4 are 4, 8, 12, 16. Multiples of 6 are 6, 12, 18. The smallest shared multiple is 12.",
+      "memoryHook": "T-Rexy says: The LCM is the smallest number both numbers divide into.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "multiples",
+        "lcm"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_032",
+      "question": "5 pencils cost $15. What is the unit price per pencil?",
+      "correctAnswer": "$3",
+      "distractors": [
+        "$2.5",
+        "$15",
+        "$4"
+      ],
+      "explanation": "Divide the total cost by the number of items: $15 / 5 = $3 each.",
+      "memoryHook": "T-Rexy says: Unit price is total cost divided by how many.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "unit-rate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_033",
+      "question": "What is 2/3 + 1/4?",
+      "correctAnswer": "11/12",
+      "distractors": [
+        "3/7",
+        "2/3",
+        "1/4"
+      ],
+      "explanation": "2/3 = 8/12 and 1/4 = 3/12, so 8/12 + 3/12 = 11/12.",
+      "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_034",
+      "question": "What is 3/8 x 2/3?",
+      "correctAnswer": "1/4",
+      "distractors": [
+        "25/24",
+        "5/8",
+        "3/8"
+      ],
+      "explanation": "3 x 2 = 6 and 8 x 3 = 24, so 6/24 simplifies to 1/4.",
+      "memoryHook": "T-Rexy says: Multiply straight across - no common denominator needed.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_035",
+      "question": "What is 7/8 as a percent?",
+      "correctAnswer": "87.5%",
+      "distractors": [
+        "78%",
+        "87%",
+        "75%"
+      ],
+      "explanation": "7 divided by 8 = 0.875 = 87.5%.",
+      "memoryHook": "T-Rexy says: Divide first, then move the decimal two places.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "percents"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_036",
+      "question": "In the equivalent ratios 1:4 = 6:x, what is x?",
+      "correctAnswer": "24",
+      "distractors": [
+        "28",
+        "6",
+        "10"
+      ],
+      "explanation": "Multiply both parts by 6: 1 x 6 = 6 and 4 x 6 = 24.",
+      "memoryHook": "T-Rexy says: Equivalent ratios multiply both parts by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "equivalent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_037",
+      "question": "A store sells 3 notebooks for $6. How much would 7 notebooks cost at the same rate?",
+      "correctAnswer": "$14",
+      "distractors": [
+        "$12",
+        "$18",
+        "$21"
+      ],
+      "explanation": "Each notebook costs $6 / 3 = $2, so 7 x $2 = $14.",
+      "memoryHook": "T-Rexy says: Find the unit price, then scale up.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "unit-rate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_038",
+      "question": "What is 30% of 80?",
+      "correctAnswer": "24",
+      "distractors": [
+        "29",
+        "48",
+        "30"
+      ],
+      "explanation": "30% of 80 = 30/100 x 80 = 24.",
+      "memoryHook": "T-Rexy says: Percent means out of 100.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_039",
+      "question": "The range of a data set is 18 and the smallest value is 7. What is the largest value?",
+      "correctAnswer": "25",
+      "distractors": [
+        "11",
+        "18",
+        "32"
+      ],
+      "explanation": "Range = largest - smallest, so largest = 7 + 18 = 25.",
+      "memoryHook": "T-Rexy says: Range is the gap between the biggest and smallest.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "statistics",
+        "range"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_040",
+      "question": "What is the area of a rectangle that is 5 cm long and 3 cm wide?",
+      "correctAnswer": "15 square cm",
+      "distractors": [
+        "8 square cm",
+        "16 square cm",
+        "30 square cm"
+      ],
+      "explanation": "Area = length x width = 5 x 3 = 15 square cm.",
+      "memoryHook": "T-Rexy says: Area of a rectangle is length times width.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "geometry",
+        "area"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_041",
+      "question": "Simplify the ratio 12:16.",
+      "correctAnswer": "3:4",
+      "distractors": [
+        "12:16",
+        "4:3",
+        "4:4"
+      ],
+      "explanation": "Divide both parts by their GCF, 4: 12/4 = 3 and 16/4 = 4.",
+      "memoryHook": "T-Rexy says: Divide both sides of a ratio by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplifying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_042",
+      "question": "Which is greater: 0.7 or 0.65?",
+      "correctAnswer": "0.7",
+      "distractors": [
+        "0.65",
+        "They are equal",
+        "0.07"
+      ],
+      "explanation": "0.7 = 0.70, which is greater than 0.65.",
+      "memoryHook": "T-Rexy says: Line up the decimal places to compare.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "comparison"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_043",
+      "question": "Simplify the ratio 16:24.",
+      "correctAnswer": "2:3",
+      "distractors": [
+        "16:24",
+        "3:2",
+        "3:3"
+      ],
+      "explanation": "Divide both parts by their GCF, 8: 16/8 = 2 and 24/8 = 3.",
+      "memoryHook": "T-Rexy says: Divide both sides of a ratio by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplifying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_044",
+      "question": "In the equivalent ratios 2:3 = 8:x, what is x?",
+      "correctAnswer": "12",
+      "distractors": [
+        "15",
+        "8",
+        "7"
+      ],
+      "explanation": "Multiply both parts by 4: 2 x 4 = 8 and 3 x 4 = 12.",
+      "memoryHook": "T-Rexy says: Equivalent ratios multiply both parts by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "equivalent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_045",
+      "question": "How many minutes are in 2 hours?",
+      "correctAnswer": "120 minutes",
+      "distractors": [
+        "60 minutes",
+        "100 minutes",
+        "200 minutes"
+      ],
+      "explanation": "1 hour = 60 minutes, so 2 x 60 = 120 minutes.",
+      "memoryHook": "T-Rexy says: An hour has 60 minutes.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "measurement",
+        "time"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_046",
+      "question": "What is 4.25 + 3.75?",
+      "correctAnswer": "8",
+      "distractors": [
+        "7",
+        "8.1",
+        "7.9"
+      ],
+      "explanation": "Line up the decimal points: 4.25 + 3.75 = 8.00.",
+      "memoryHook": "T-Rexy says: Line up decimal points when adding or subtracting.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_047",
+      "question": "What is 5/6 - 1/2?",
+      "correctAnswer": "1/3",
+      "distractors": [
+        "2/3",
+        "4/3",
+        "5/6"
+      ],
+      "explanation": "1/2 = 3/6, so 5/6 - 3/6 = 2/6, which simplifies to 1/3.",
+      "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_048",
+      "question": "What is 3/4 - 1/3?",
+      "correctAnswer": "5/12",
+      "distractors": [
+        "1/2",
+        "13/12",
+        "3/4"
+      ],
+      "explanation": "3/4 = 9/12 and 1/3 = 4/12, so 9/12 - 4/12 = 5/12.",
+      "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_049",
+      "question": "What is the greatest common factor (GCF) of 12 and 18?",
+      "correctAnswer": "6",
+      "distractors": [
+        "3",
+        "12",
+        "36"
+      ],
+      "explanation": "Factors of 12 are 1, 2, 3, 4, 6, 12. Factors of 18 are 1, 2, 3, 6, 9, 18. The greatest shared factor is 6.",
+      "memoryHook": "T-Rexy says: The GCF is the biggest number that divides both.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "factors",
+        "gcf"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_050",
+      "question": "Simplify the ratio 8:20.",
+      "correctAnswer": "2:5",
+      "distractors": [
+        "8:20",
+        "5:2",
+        "3:5"
+      ],
+      "explanation": "Divide both parts by their GCF, 4: 8/4 = 2 and 20/4 = 5.",
+      "memoryHook": "T-Rexy says: Divide both sides of a ratio by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplifying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_051",
+      "question": "What is 4.8 divided by 0.6?",
+      "correctAnswer": "8",
+      "distractors": [
+        "0.8",
+        "80",
+        "2.88"
+      ],
+      "explanation": "Multiply both by 10: 48 / 6 = 8.",
+      "memoryHook": "T-Rexy says: Move the decimal in both numbers the same way.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "division"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_052",
+      "question": "4 notebooks cost $12. What is the unit price per notebook?",
+      "correctAnswer": "$3",
+      "distractors": [
+        "$2.4",
+        "$12",
+        "$4"
+      ],
+      "explanation": "Divide the total cost by the number of items: $12 / 4 = $3 each.",
+      "memoryHook": "T-Rexy says: Unit price is total cost divided by how many.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "unit-rate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_053",
+      "question": "What is 50% as a fraction?",
+      "correctAnswer": "1/2",
+      "distractors": [
+        "1/5",
+        "1/4",
+        "2/5"
+      ],
+      "explanation": "50% means 50 out of 100, which simplifies to 1/2.",
+      "memoryHook": "T-Rexy says: 50% is half of the whole.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "fractions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_054",
+      "question": "2 juice boxes cost $10. What is the unit price per juice boxes?",
+      "correctAnswer": "$5",
+      "distractors": [
+        "$3.33",
+        "$10",
+        "$6"
+      ],
+      "explanation": "Divide the total cost by the number of items: $10 / 2 = $5 each.",
+      "memoryHook": "T-Rexy says: Unit price is total cost divided by how many.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "unit-rate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_055",
+      "question": "What is the mode of 2, 5, 5, 8, 9?",
+      "correctAnswer": "5",
+      "distractors": [
+        "2",
+        "8",
+        "9"
+      ],
+      "explanation": "Count how many times each number appears: 5 appears twice and every other number appears once, so 5 is the mode.",
+      "memoryHook": "T-Rexy says: Mode is the number that shows up the most.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "statistics",
+        "mode"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_056",
+      "question": "Simplify the ratio 20:30.",
+      "correctAnswer": "2:3",
+      "distractors": [
+        "20:30",
+        "3:2",
+        "3:3"
+      ],
+      "explanation": "Divide both parts by their GCF, 10: 20/10 = 2 and 30/10 = 3.",
+      "memoryHook": "T-Rexy says: Divide both sides of a ratio by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplifying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_057",
+      "question": "What is 1/3 + 1/6?",
+      "correctAnswer": "1/2",
+      "distractors": [
+        "2/9",
+        "1/3",
+        "1/6"
+      ],
+      "explanation": "1/3 = 2/6, so 2/6 + 1/6 = 3/6, which simplifies to 1/2.",
+      "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_058",
+      "question": "What is 3.4 x 2.5?",
+      "correctAnswer": "8.5",
+      "distractors": [
+        "8.9",
+        "6.9",
+        "85"
+      ],
+      "explanation": "Multiply 34 x 25 = 850, then place two decimal places: 8.50.",
+      "memoryHook": "T-Rexy says: Count the decimal places in both factors to place the decimal.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_059",
+      "question": "What is 144 divided by 12?",
+      "correctAnswer": "12",
+      "distractors": [
+        "11",
+        "14",
+        "16"
+      ],
+      "explanation": "12 x 12 = 144, so 144 / 12 = 12.",
+      "memoryHook": "T-Rexy says: Twelve twelves make 144.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "division",
+        "fluency"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_060",
+      "question": "What is 2/5 x 3/4?",
+      "correctAnswer": "3/10",
+      "distractors": [
+        "23/20",
+        "1",
+        "2/5"
+      ],
+      "explanation": "2 x 3 = 6 and 5 x 4 = 20, so 6/20 simplifies to 3/10.",
+      "memoryHook": "T-Rexy says: Multiply straight across - no common denominator needed.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_061",
+      "question": "Which fraction is greater: 3/4 or 2/3?",
+      "correctAnswer": "3/4",
+      "distractors": [
+        "2/3",
+        "They are equal",
+        "1/2"
+      ],
+      "explanation": "3/4 = 0.75 and 2/3 is about 0.67, so 3/4 is greater.",
+      "memoryHook": "T-Rexy says: Turn fractions into decimals to compare them.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "comparison"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_062",
+      "question": "What is 1/4 as a decimal?",
+      "correctAnswer": "0.25",
+      "distractors": [
+        "0.14",
+        "0.4",
+        "2.5"
+      ],
+      "explanation": "1/4 means 1 divided by 4, and 1 ÷ 4 = 0.25 - a quarter of a dollar is 25 cents.",
+      "memoryHook": "T-Rexy says: A quarter is 0.25.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "decimals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_063",
+      "question": "What is 0.5 as a fraction?",
+      "correctAnswer": "1/2",
+      "distractors": [
+        "1/5",
+        "5/100",
+        "1/4"
+      ],
+      "explanation": "0.5 means 5 tenths, which simplifies to 1/2.",
+      "memoryHook": "T-Rexy says: 0.5 is one half.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "fractions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_064",
+      "question": "What is 9.6 - 4.35?",
+      "correctAnswer": "5.25",
+      "distractors": [
+        "5.35",
+        "5.15",
+        "4.25"
+      ],
+      "explanation": "Line up the decimal points: 9.60 - 4.35 = 5.25.",
+      "memoryHook": "T-Rexy says: Line up decimal points when adding or subtracting.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_065",
+      "question": "What is the area of a parallelogram with a base of 9 cm and a height of 6 cm?",
+      "correctAnswer": "54 square cm",
+      "distractors": [
+        "30 square cm",
+        "27 square cm",
+        "108 square cm"
+      ],
+      "explanation": "Area = base x height = 9 x 6 = 54 square cm.",
+      "memoryHook": "T-Rexy says: A parallelogram uses base times height, like a rectangle.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "geometry",
+        "area"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_066",
+      "question": "What is 10% of 50?",
+      "correctAnswer": "5",
+      "distractors": [
+        "10",
+        "15",
+        "0.5"
+      ],
+      "explanation": "10% of 50 = 0.10 x 50 = 5.",
+      "memoryHook": "T-Rexy says: 10% is one tenth, so divide by 10.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "word-problems"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_067",
+      "question": "Evaluate (6 + 2) x 3 - 5.",
+      "correctAnswer": "19",
+      "distractors": [
+        "29",
+        "14",
+        "24"
+      ],
+      "explanation": "Parentheses first: 6 + 2 = 8. Then 8 x 3 = 24. Then 24 - 5 = 19.",
+      "memoryHook": "T-Rexy says: Parentheses always come first.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "order-of-operations",
+        "expressions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_068",
+      "question": "In the equivalent ratios 5:6 = 20:x, what is x?",
+      "correctAnswer": "24",
+      "distractors": [
+        "30",
+        "20",
+        "10"
+      ],
+      "explanation": "Multiply both parts by 4: 5 x 4 = 20 and 6 x 4 = 24.",
+      "memoryHook": "T-Rexy says: Equivalent ratios multiply both parts by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "equivalent"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_069",
+      "question": "What is the distance between the points (2, 3) and (2, 9) on a coordinate plane?",
+      "correctAnswer": "6 units",
+      "distractors": [
+        "7 units",
+        "11 units",
+        "3 units"
+      ],
+      "explanation": "The points share an x-coordinate, so the distance is |9 - 3| = 6 units.",
+      "memoryHook": "T-Rexy says: Same x means just subtract the y-values.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "coordinate-plane",
+        "distance"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_070",
+      "question": "What is 20% of 30?",
+      "correctAnswer": "6",
+      "distractors": [
+        "3",
+        "10",
+        "60"
+      ],
+      "explanation": "20% of 30 = 0.20 x 30 = 6.",
+      "memoryHook": "T-Rexy says: 20% is one fifth, so divide 30 by 5.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "word-problems"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_071",
+      "question": "What is a ratio?",
+      "correctAnswer": "A comparison of two quantities",
+      "distractors": [
+        "A type of fraction only",
+        "A number greater than 100",
+        "A subtraction problem"
+      ],
+      "explanation": "A ratio compares two quantities, for example 3 red pens to 5 blue pens.",
+      "memoryHook": "T-Rexy says: A ratio compares two amounts, like a score in a game.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_072",
+      "question": "What is 1 1/3 x 2 1/4?",
+      "correctAnswer": "3",
+      "distractors": [
+        "2 1/4",
+        "2 1/12",
+        "4"
+      ],
+      "explanation": "1 1/3 = 4/3 and 2 1/4 = 9/4. Then 4/3 x 9/4 = 36/12 = 3.",
+      "memoryHook": "T-Rexy says: Improper fractions make multiplication easy.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "multiplication"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_073",
+      "question": "What is 35% of 60?",
+      "correctAnswer": "21",
+      "distractors": [
+        "26",
+        "42",
+        "35"
+      ],
+      "explanation": "35% of 60 = 35/100 x 60 = 21.",
+      "memoryHook": "T-Rexy says: Percent means out of 100.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_074",
+      "question": "A school has 600 students. 45% ride the bus. How many students ride the bus?",
+      "correctAnswer": "270",
+      "distractors": [
+        "255",
+        "300",
+        "45"
+      ],
+      "explanation": "45% of 600 = 0.45 x 600 = 270 students.",
+      "memoryHook": "T-Rexy says: Turn the percent into a decimal and multiply.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "word-problems"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_075",
+      "question": "What is 40% of 90?",
+      "correctAnswer": "36",
+      "distractors": [
+        "41",
+        "72",
+        "40"
+      ],
+      "explanation": "40% of 90 = 40/100 x 90 = 36.",
+      "memoryHook": "T-Rexy says: Percent means out of 100.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_076",
+      "question": "A point is at (-2, 5). In which quadrant is it?",
+      "correctAnswer": "Quadrant II",
+      "distractors": [
+        "Quadrant I",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "explanation": "The x-coordinate is negative and the y-coordinate is positive, which is Quadrant II (upper left).",
+      "memoryHook": "T-Rexy says: Negative x and positive y means upper left.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "coordinate-plane",
+        "quadrants"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_077",
+      "question": "What is the absolute value of -9?",
+      "correctAnswer": "9",
+      "distractors": [
+        "-9",
+        "0",
+        "18"
+      ],
+      "explanation": "Absolute value is the distance from zero, so |-9| = 9.",
+      "memoryHook": "T-Rexy says: Absolute value is always positive.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "absolute-value"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_078",
+      "question": "What is 3/5 divided by 9/10?",
+      "correctAnswer": "2/3",
+      "distractors": [
+        "27/50",
+        "3/2",
+        "6/5"
+      ],
+      "explanation": "Multiply by the reciprocal: 3/5 x 10/9 = 30/45 = 2/3.",
+      "memoryHook": "T-Rexy says: Flip the second fraction and multiply.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "division"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_079",
+      "question": "What is the median of 11, 14, 9, 20, 16, 13?",
+      "correctAnswer": "13.5",
+      "distractors": [
+        "13",
+        "14",
+        "16"
+      ],
+      "explanation": "In order: 9, 11, 13, 14, 16, 20. The middle two are 13 and 14, so (13 + 14) / 2 = 13.5.",
+      "memoryHook": "T-Rexy says: An even set needs the average of the two middle numbers.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "statistics",
+        "median"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_080",
+      "question": "What is the value of 2^5?",
+      "correctAnswer": "32",
+      "distractors": [
+        "10",
+        "25",
+        "16"
+      ],
+      "explanation": "2^5 = 2 x 2 x 2 x 2 x 2 = 32.",
+      "memoryHook": "T-Rexy says: Count the multiplications carefully.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "exponents",
+        "powers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_081",
+      "question": "What is 1/2 divided by 1/4?",
+      "correctAnswer": "2",
+      "distractors": [
+        "1/8",
+        "3/4",
+        "1/4"
+      ],
+      "explanation": "Multiply by the reciprocal: 1/2 x 4/1 = 2.",
+      "memoryHook": "T-Rexy says: Flip the second fraction and multiply.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_082",
+      "question": "Sara reads 20 pages in 4 days. What is her unit rate?",
+      "correctAnswer": "5 pages per day",
+      "distractors": [
+        "4 pages per day",
+        "20 pages per day",
+        "80 pages per day"
+      ],
+      "explanation": "20 pages / 4 days = 5 pages per day.",
+      "memoryHook": "T-Rexy says: Divide to find how much for one day.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "unit-rate"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_083",
+      "question": "On a coordinate plane, which quadrant is the point (3, 4) in?",
+      "correctAnswer": "Quadrant I",
+      "distractors": [
+        "Quadrant II",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "explanation": "Both coordinates are positive, so the point is in Quadrant I (upper right).",
+      "memoryHook": "T-Rexy says: Both positive means Quadrant I, upper right.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "coordinate-plane",
+        "quadrants"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_084",
+      "question": "What is -3 - 8?",
+      "correctAnswer": "-11",
+      "distractors": [
+        "5",
+        "-5",
+        "11"
+      ],
+      "explanation": "-3 - 8 means move 8 to the left from -3, landing on -11.",
+      "memoryHook": "T-Rexy says: Subtracting moves left on the number line.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "subtraction"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_085",
+      "question": "What is the least common multiple of 12 and 15?",
+      "correctAnswer": "60",
+      "distractors": [
+        "30",
+        "180",
+        "45"
+      ],
+      "explanation": "Multiples of 12: 12, 24, 36, 48, 60. Multiples of 15: 15, 30, 45, 60. The smallest shared is 60.",
+      "memoryHook": "T-Rexy says: Check multiples of the bigger number first to save time.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "multiples",
+        "lcm"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_086",
+      "question": "What is 1/2 as a percent?",
+      "correctAnswer": "50%",
+      "distractors": [
+        "5%",
+        "25%",
+        "15%"
+      ],
+      "explanation": "Half of 100 is 50, so 1/2 = 50/100 = 50%.",
+      "memoryHook": "T-Rexy says: One half is fifty percent.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "percents"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_087",
+      "question": "What is 60% of 70?",
+      "correctAnswer": "42",
+      "distractors": [
+        "47",
+        "84",
+        "60"
+      ],
+      "explanation": "60% of 70 = 60/100 x 70 = 42.",
+      "memoryHook": "T-Rexy says: Percent means out of 100.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_088",
+      "question": "What is 0.125 as a fraction in simplest form?",
+      "correctAnswer": "1/8",
+      "distractors": [
+        "1/12",
+        "1/5",
+        "1/10"
+      ],
+      "explanation": "0.125 = 125/1000, which simplifies to 1/8.",
+      "memoryHook": "T-Rexy says: Simplify the fraction all the way down.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "fractions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_089",
+      "question": "What is 1/2 x 1/2?",
+      "correctAnswer": "1/4",
+      "distractors": [
+        "1/2",
+        "3/4",
+        "1"
+      ],
+      "explanation": "Multiply tops and bottoms: 1 x 1 = 1 and 2 x 2 = 4, so 1/4.",
+      "memoryHook": "T-Rexy says: Multiply straight across.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "multiplication"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_090",
+      "question": "What is 7.2 x 0.4?",
+      "correctAnswer": "2.88",
+      "distractors": [
+        "2.8",
+        "28.8",
+        "2.08"
+      ],
+      "explanation": "Multiply 72 x 4 = 288, then place two decimal places: 2.88.",
+      "memoryHook": "T-Rexy says: Count the decimal places in both factors to place the decimal.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_091",
+      "question": "Which integer is greater: -4 or -7?",
+      "correctAnswer": "-4",
+      "distractors": [
+        "-7",
+        "They are equal",
+        "-11"
+      ],
+      "explanation": "-4 is closer to zero on the number line, so -4 is greater than -7.",
+      "memoryHook": "T-Rexy says: On the number line, right means greater.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "integers",
+        "comparison"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_092",
+      "question": "What is the perimeter of a square with a side of 7 cm?",
+      "correctAnswer": "28 cm",
+      "distractors": [
+        "14 cm",
+        "49 cm",
+        "21 cm"
+      ],
+      "explanation": "Perimeter = 4 x 7 = 28 cm.",
+      "memoryHook": "T-Rexy says: A square has four equal sides, so add them all up.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "geometry",
+        "perimeter"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_093",
+      "question": "How many inches are in 3 feet?",
+      "correctAnswer": "36 inches",
+      "distractors": [
+        "30 inches",
+        "12 inches",
+        "24 inches"
+      ],
+      "explanation": "1 foot = 12 inches, so 3 x 12 = 36 inches.",
+      "memoryHook": "T-Rexy says: Each foot has 12 inches.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "measurement",
+        "units"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_094",
+      "question": "What is a unit rate?",
+      "correctAnswer": "A rate with a denominator of 1",
+      "distractors": [
+        "A rate with a numerator of 1",
+        "Any fraction",
+        "A ratio that cannot be simplified"
+      ],
+      "explanation": "A unit rate compares a quantity to one unit, like 60 miles per 1 hour.",
+      "memoryHook": "T-Rexy says: Unit rate means per one.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "unit-rate"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_095",
+      "question": "Simplify the ratio 9:12.",
+      "correctAnswer": "3:4",
+      "distractors": [
+        "9:12",
+        "4:3",
+        "4:4"
+      ],
+      "explanation": "Divide both parts by their GCF, 3: 9/3 = 3 and 12/3 = 4.",
+      "memoryHook": "T-Rexy says: Divide both sides of a ratio by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplifying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_096",
+      "question": "Simplify the ratio 15:25.",
+      "correctAnswer": "3:5",
+      "distractors": [
+        "15:25",
+        "5:3",
+        "4:5"
+      ],
+      "explanation": "Divide both parts by their GCF, 5: 15/5 = 3 and 25/5 = 5.",
+      "memoryHook": "T-Rexy says: Divide both sides of a ratio by the same number.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "simplifying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_097",
+      "question": "What is 2 1/2 divided by 1/4?",
+      "correctAnswer": "10",
+      "distractors": [
+        "5",
+        "5/8",
+        "2 5/8"
+      ],
+      "explanation": "2 1/2 = 5/2. Then 5/2 divided by 1/4 = 5/2 x 4 = 10.",
+      "memoryHook": "T-Rexy says: Turn mixed numbers into improper fractions first.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "division"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_098",
+      "question": "What is 25% as a fraction?",
+      "correctAnswer": "1/4",
+      "distractors": [
+        "1/2",
+        "1/5",
+        "1/3"
+      ],
+      "explanation": "25% means 25 out of 100, which simplifies to 1/4.",
+      "memoryHook": "T-Rexy says: 25% is one quarter.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "percents",
+        "fractions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_099",
+      "question": "What is the mean (average) of 4, 6, and 8?",
+      "correctAnswer": "6",
+      "distractors": [
+        "5",
+        "9",
+        "18"
+      ],
+      "explanation": "Add them: 4 + 6 + 8 = 18, then divide by 3 to get 6.",
+      "memoryHook": "T-Rexy says: Mean means add them all up and divide by how many.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "statistics",
+        "mean"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_100",
+      "question": "If 5 pencils cost $1.25, how much do 12 pencils cost?",
+      "correctAnswer": "$3.00",
+      "distractors": [
+        "$2.50",
+        "$3.50",
+        "$2.75"
+      ],
+      "explanation": "Each pencil costs $1.25 / 5 = $0.25, so 12 x $0.25 = $3.00.",
+      "memoryHook": "T-Rexy says: Find the price of one first.",
+      "imageUrl": "topic:math",
+      "tags": [
+        "ratios",
+        "unit-rate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

@@ -1,0 +1,2015 @@
+{
+  "packId": "gr8-digital-literacy",
+  "title": "Digital Literacy (8th Grade)",
+  "description": "Digital Literacy (8th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "technology",
+    "digital-literacy",
+    "8th"
+  ],
+  "questions": [
+    {
+      "id": "DIG8_001",
+      "question": "What is a computer program?",
+      "correctAnswer": "A set of instructions a computer follows",
+      "distractors": [
+        "A type of hardware",
+        "A computer screen",
+        "A power cable"
+      ],
+      "explanation": "A program is a list of steps written in code; the computer reads the code and carries out each step in order.",
+      "memoryHook": "T-Rexy says: Programs are instructions.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_002",
+      "question": "What is hardware?",
+      "correctAnswer": "The physical parts of a computer",
+      "distractors": [
+        "The programs on a computer",
+        "The internet",
+        "A computer virus"
+      ],
+      "explanation": "Hardware includes the keyboard, screen, and processor.",
+      "memoryHook": "T-Rexy says: Hardware is the physical parts.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_003",
+      "question": "What is software?",
+      "correctAnswer": "The programs and apps that run on a computer",
+      "distractors": [
+        "The physical parts of a computer",
+        "A computer cable",
+        "A power outlet"
+      ],
+      "explanation": "Software is the code that tells hardware what to do.",
+      "memoryHook": "T-Rexy says: Software is the programs.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_004",
+      "question": "What does CPU stand for?",
+      "correctAnswer": "Central Processing Unit",
+      "distractors": [
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Utility"
+      ],
+      "explanation": "The CPU is the brain of the computer.",
+      "memoryHook": "T-Rexy says: The CPU is the brain.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "hardware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_005",
+      "question": "What does RAM do?",
+      "correctAnswer": "It holds data the computer is using right now",
+      "distractors": [
+        "It stores files forever",
+        "It connects to the internet",
+        "It prints documents"
+      ],
+      "explanation": "RAM only holds data while the computer is on, so it is fast but small; when you open an app, its data is loaded into RAM.",
+      "memoryHook": "T-Rexy says: RAM is short-term memory.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "hardware"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_006",
+      "question": "What is the difference between RAM and storage?",
+      "correctAnswer": "RAM is temporary memory; storage keeps files long-term",
+      "distractors": [
+        "They are the same",
+        "RAM keeps files forever",
+        "Storage is temporary"
+      ],
+      "explanation": "RAM clears when the computer turns off; storage keeps files.",
+      "memoryHook": "T-Rexy says: RAM is temporary, storage is long-term.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "hardware"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_007",
+      "question": "What is an operating system?",
+      "correctAnswer": "Software that manages the computer and lets you use it",
+      "distractors": [
+        "A type of hardware",
+        "A web browser",
+        "An app for games"
+      ],
+      "explanation": "Examples include Windows, macOS, and ChromeOS.",
+      "memoryHook": "T-Rexy says: The OS manages the computer.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "software"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_008",
+      "question": "What is a file?",
+      "correctAnswer": "A collection of data stored with a name",
+      "distractors": [
+        "A folder only",
+        "A computer program only",
+        "A hardware part"
+      ],
+      "explanation": "Files hold documents, photos, and programs.",
+      "memoryHook": "T-Rexy says: Files store data.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "files"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_009",
+      "question": "What is a folder?",
+      "correctAnswer": "A container that organizes files",
+      "distractors": [
+        "A type of file only",
+        "A hardware part",
+        "A web page"
+      ],
+      "explanation": "Folders are named boxes on a drive, and folders can hold other folders, so you can build a tree like School > Math > Homework.",
+      "memoryHook": "T-Rexy says: Folders organize files.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "files"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_010",
+      "question": "What does .pdf stand for?",
+      "correctAnswer": "Portable Document Format",
+      "distractors": [
+        "Personal Document File",
+        "Printed Document Format",
+        "Public Data File"
+      ],
+      "explanation": "PDFs keep the same layout on any device, which is why teachers send worksheets and forms as PDFs.",
+      "memoryHook": "T-Rexy says: PDF is Portable Document Format.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "files"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_011",
+      "question": "What is a .jpg file?",
+      "correctAnswer": "A common image file format",
+      "distractors": [
+        "A video format",
+        "A text format",
+        "A sound format"
+      ],
+      "explanation": "JPG squeezes photo data into a small file, so photos load fast online, but saving a JPG again and again slowly lowers its quality.",
+      "memoryHook": "T-Rexy says: JPG is for images.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "files"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_012",
+      "question": "What is the internet?",
+      "correctAnswer": "A global network connecting computers",
+      "distractors": [
+        "One big computer",
+        "A type of software",
+        "A phone only"
+      ],
+      "explanation": "The internet is made of millions of connected computers and cables under the sea; no single company owns it.",
+      "memoryHook": "T-Rexy says: The internet links computers.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_013",
+      "question": "What is a web browser?",
+      "correctAnswer": "Software used to view websites",
+      "distractors": [
+        "A search engine only",
+        "A type of hardware",
+        "A social media app"
+      ],
+      "explanation": "Browsers like Chrome and Safari show web pages.",
+      "memoryHook": "T-Rexy says: Browsers show web pages.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "browsers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_014",
+      "question": "What is a search engine?",
+      "correctAnswer": "A tool that finds web pages for your search words",
+      "distractors": [
+        "A web browser",
+        "A type of email",
+        "A social media site"
+      ],
+      "explanation": "Search engines like Google index the web.",
+      "memoryHook": "T-Rexy says: Search engines find pages.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "search"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_015",
+      "question": "What is a URL?",
+      "correctAnswer": "The address of a web page",
+      "distractors": [
+        "A password",
+        "A username",
+        "A file name"
+      ],
+      "explanation": "A URL has parts: the protocol (https://), the domain (like google.com), and the path to the exact page.",
+      "memoryHook": "T-Rexy says: A URL is a web address.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_016",
+      "question": "What does HTTP stand for?",
+      "correctAnswer": "HyperText Transfer Protocol",
+      "distractors": [
+        "High Transfer Text Protocol",
+        "Home Text Transfer Program",
+        "HyperText Tool Program"
+      ],
+      "explanation": "HTTP is the protocol browsers use to load pages.",
+      "memoryHook": "T-Rexy says: HTTP loads web pages.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_017",
+      "question": "What does HTTPS add to HTTP?",
+      "correctAnswer": "Encryption for a secure connection",
+      "distractors": [
+        "Faster downloads only",
+        "More ads",
+        "A different language"
+      ],
+      "explanation": "HTTPS uses encryption, so anyone spying on the network sees scrambled data instead of your passwords; look for the padlock icon.",
+      "memoryHook": "T-Rexy says: HTTPS means secure.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "security"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_018",
+      "question": "What is a strong password?",
+      "correctAnswer": "A long mix of letters, numbers, and symbols that you do not share",
+      "distractors": [
+        "Your birthday",
+        "The word password",
+        "Your pet's name"
+      ],
+      "explanation": "A long password is hard to guess because every extra character multiplies the combinations; a password manager can create and store one for you.",
+      "memoryHook": "T-Rexy says: Strong passwords are long and private.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "passwords"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_019",
+      "question": "What is two-factor authentication?",
+      "correctAnswer": "A second check, like a code, after your password",
+      "distractors": [
+        "Using two passwords",
+        "Sharing your password",
+        "Logging in twice"
+      ],
+      "explanation": "Two-factor adds a code from your phone or app.",
+      "memoryHook": "T-Rexy says: Two-factor adds a second check.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "passwords"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_020",
+      "question": "What is phishing?",
+      "correctAnswer": "A fake message that tries to trick you into sharing information",
+      "distractors": [
+        "A type of fish",
+        "A computer game",
+        "A kind of virus only"
+      ],
+      "explanation": "Phishing emails and texts pretend to be trusted sources.",
+      "memoryHook": "T-Rexy says: Phishing tries to trick you.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "phishing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_021",
+      "question": "What should you do with a suspicious email asking for your password?",
+      "correctAnswer": "Do not click or reply; report it",
+      "distractors": [
+        "Click the link to check",
+        "Reply with your password",
+        "Forward it to friends"
+      ],
+      "explanation": "Real companies never ask for passwords by email.",
+      "memoryHook": "T-Rexy says: Do not click suspicious links.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "phishing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_022",
+      "question": "What is malware?",
+      "correctAnswer": "Harmful software made to damage or steal from a computer",
+      "distractors": [
+        "A helpful app",
+        "A type of hardware",
+        "A web browser"
+      ],
+      "explanation": "Malware includes viruses, spyware, and ransomware.",
+      "memoryHook": "T-Rexy says: Malware is harmful software.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "malware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_023",
+      "question": "What is a computer virus?",
+      "correctAnswer": "Malware that copies itself and harms a computer",
+      "distractors": [
+        "A real illness",
+        "A helpful program",
+        "A type of hardware"
+      ],
+      "explanation": "Viruses spread and can damage files or steal data.",
+      "memoryHook": "T-Rexy says: Viruses copy and harm.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "malware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_024",
+      "question": "What is ransomware?",
+      "correctAnswer": "Malware that locks files and demands payment",
+      "distractors": [
+        "A backup program",
+        "A helpful app",
+        "A type of password"
+      ],
+      "explanation": "Ransomware encrypts files until a ransom is paid.",
+      "memoryHook": "T-Rexy says: Ransomware locks your files.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "malware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_025",
+      "question": "What is a firewall?",
+      "correctAnswer": "Software or hardware that blocks unwanted network access",
+      "distractors": [
+        "A type of virus",
+        "A web browser",
+        "A password manager"
+      ],
+      "explanation": "A firewall checks every message coming in or out and drops the ones that break its rules, like a guard at a gate.",
+      "memoryHook": "T-Rexy says: Firewalls block intruders.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "networks"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_026",
+      "question": "What is a VPN?",
+      "correctAnswer": "A service that encrypts your internet connection",
+      "distractors": [
+        "A type of virus",
+        "A web browser",
+        "A social media app"
+      ],
+      "explanation": "A VPN hides your traffic from others on the network.",
+      "memoryHook": "T-Rexy says: A VPN encrypts your connection.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "networks"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_027",
+      "question": "What is personal information?",
+      "correctAnswer": "Details that identify you, like your name, address, or phone number",
+      "distractors": [
+        "Your favorite color",
+        "A public fact",
+        "A school subject"
+      ],
+      "explanation": "Personal information should stay private online.",
+      "memoryHook": "T-Rexy says: Keep personal info private.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "privacy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_028",
+      "question": "What is a digital footprint?",
+      "correctAnswer": "The trail of data you leave online",
+      "distractors": [
+        "A shoe print",
+        "A type of file",
+        "A computer virus"
+      ],
+      "explanation": "Everything you post and share adds to your footprint.",
+      "memoryHook": "T-Rexy says: Your footprint follows you.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "digital-citizenship",
+        "privacy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_029",
+      "question": "What is cyberbullying?",
+      "correctAnswer": "Bullying that happens online or through messages",
+      "distractors": [
+        "A computer virus",
+        "A friendly online chat",
+        "A school website"
+      ],
+      "explanation": "Cyberbullying uses phones, social media, or games to hurt someone.",
+      "memoryHook": "T-Rexy says: Cyberbullying happens online.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "digital-citizenship",
+        "bullying"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_030",
+      "question": "What should you do if someone bullies you online?",
+      "correctAnswer": "Save evidence, block them, and tell a trusted adult",
+      "distractors": [
+        "Reply with insults",
+        "Share it publicly",
+        "Keep it secret"
+      ],
+      "explanation": "Adults can help stop cyberbullying.",
+      "memoryHook": "T-Rexy says: Save, block, tell an adult.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "digital-citizenship",
+        "bullying"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_031",
+      "question": "What is copyright?",
+      "correctAnswer": "The legal right of a creator to control their work",
+      "distractors": [
+        "The right to copy anything",
+        "A type of password",
+        "A free license"
+      ],
+      "explanation": "Copyright protects books, music, photos, and videos.",
+      "memoryHook": "T-Rexy says: Copyright protects creators.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "digital-citizenship",
+        "copyright"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_032",
+      "question": "What does it mean to cite a source?",
+      "correctAnswer": "To give credit to where information came from",
+      "distractors": [
+        "To copy without credit",
+        "To delete a source",
+        "To hide a source"
+      ],
+      "explanation": "A citation lists the author, title, and date, so a reader can find the same source and check your facts.",
+      "memoryHook": "T-Rexy says: Cite to give credit.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "digital-citizenship",
+        "research"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_033",
+      "question": "What is plagiarism?",
+      "correctAnswer": "Using someone else's work without giving credit",
+      "distractors": [
+        "Quoting with credit",
+        "Writing your own ideas",
+        "Citing a source"
+      ],
+      "explanation": "Copying a paragraph and changing a few words is still plagiarism; only your own words and ideas, or a proper quote with credit, are safe.",
+      "memoryHook": "T-Rexy says: Plagiarism is copying without credit.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "digital-citizenship",
+        "research"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_034",
+      "question": "What is a reliable source?",
+      "correctAnswer": "A source with evidence, expertise, and no clear bias",
+      "distractors": [
+        "Any website",
+        "A random social media post",
+        "A site with no author"
+      ],
+      "explanation": "Check who wrote it, when it was written, and whether other trusted sources agree; a page with no author or date is a warning sign.",
+      "memoryHook": "T-Rexy says: Reliable sources show evidence.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "research",
+        "media-literacy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_035",
+      "question": "What is fake news?",
+      "correctAnswer": "False information presented as real news",
+      "distractors": [
+        "A news story you disagree with",
+        "A news story with an opinion",
+        "A news story from another country"
+      ],
+      "explanation": "Fake news often uses shocking headlines and made-up quotes to get clicks; check the story on a known news site before you believe it.",
+      "memoryHook": "T-Rexy says: Fake news misleads.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "research",
+        "media-literacy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_036",
+      "question": "How can you check if online information is true?",
+      "correctAnswer": "Compare several reliable sources and check the author and date",
+      "distractors": [
+        "Believe the first result",
+        "Share it right away",
+        "Trust it because it looks nice"
+      ],
+      "explanation": "Checking multiple sources helps you spot false claims.",
+      "memoryHook": "T-Rexy says: Check several sources.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "research",
+        "media-literacy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_037",
+      "question": "What is an algorithm?",
+      "correctAnswer": "A step-by-step set of instructions to solve a problem",
+      "distractors": [
+        "A type of computer",
+        "A programming language",
+        "A web page"
+      ],
+      "explanation": "Algorithms are clear steps, like a recipe.",
+      "memoryHook": "T-Rexy says: Algorithms are step-by-step.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "algorithms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_038",
+      "question": "What is a variable in coding?",
+      "correctAnswer": "A named place that stores a value",
+      "distractors": [
+        "A type of loop",
+        "A computer screen",
+        "A kind of bug"
+      ],
+      "explanation": "Variables hold data that can change, like score = 0.",
+      "memoryHook": "T-Rexy says: Variables store values.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "variables"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_039",
+      "question": "What is a loop in coding?",
+      "correctAnswer": "Code that repeats until a condition is met",
+      "distractors": [
+        "Code that runs once",
+        "A type of variable",
+        "A computer error"
+      ],
+      "explanation": "Loops repeat actions, like counting to ten.",
+      "memoryHook": "T-Rexy says: Loops repeat code.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "loops"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_040",
+      "question": "What is a conditional in coding?",
+      "correctAnswer": "Code that runs only if a condition is true",
+      "distractors": [
+        "Code that always runs",
+        "A type of loop",
+        "A kind of variable"
+      ],
+      "explanation": "Conditionals use if and else to make choices.",
+      "memoryHook": "T-Rexy says: If and else make choices.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "conditionals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_041",
+      "question": "What is a function in coding?",
+      "correctAnswer": "A reusable block of code that does a task",
+      "distractors": [
+        "A type of hardware",
+        "A web page",
+        "A computer virus"
+      ],
+      "explanation": "A function has a name and takes inputs; calling it by name runs the same steps again, so one fix repairs every place that uses it.",
+      "memoryHook": "T-Rexy says: Functions reuse code.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "functions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_042",
+      "question": "What is a bug in coding?",
+      "correctAnswer": "An error in a program",
+      "distractors": [
+        "A real insect",
+        "A type of hardware",
+        "A kind of file"
+      ],
+      "explanation": "A bug can be a typo, a wrong number, or a step in the wrong order; even one wrong character can stop a whole program.",
+      "memoryHook": "T-Rexy says: Bugs are errors.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "debugging"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_043",
+      "question": "What is debugging?",
+      "correctAnswer": "Finding and fixing errors in a program",
+      "distractors": [
+        "Writing code for the first time",
+        "Deleting a program",
+        "Copying code"
+      ],
+      "explanation": "Debuggers test small pieces, print values to see what the program really does, and fix one error at a time.",
+      "memoryHook": "T-Rexy says: Debugging fixes errors.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "debugging"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_044",
+      "question": "What is binary?",
+      "correctAnswer": "A number system using only 0 and 1",
+      "distractors": [
+        "A number system using 0 to 9",
+        "A type of code only",
+        "A kind of file"
+      ],
+      "explanation": "Computers store data as binary digits, or bits.",
+      "memoryHook": "T-Rexy says: Binary is 0 and 1.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "binary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_045",
+      "question": "What is a bit?",
+      "correctAnswer": "The smallest unit of data, a 0 or a 1",
+      "distractors": [
+        "A byte of 8 bits",
+        "A type of file",
+        "A computer program"
+      ],
+      "explanation": "Eight bits make one byte, and every letter, number, and color on screen is stored as a pattern of bits.",
+      "memoryHook": "T-Rexy says: A bit is 0 or 1.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "binary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_046",
+      "question": "How many bits are in a byte?",
+      "correctAnswer": "8",
+      "distractors": [
+        "4",
+        "16",
+        "10"
+      ],
+      "explanation": "Eight bits make one byte, and a byte can store one character, like the letter A.",
+      "memoryHook": "T-Rexy says: A byte is 8 bits.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "binary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_047",
+      "question": "What is a pixel?",
+      "correctAnswer": "The smallest dot of color on a screen",
+      "distractors": [
+        "A type of file",
+        "A computer program",
+        "A kind of virus"
+      ],
+      "explanation": "Images are made of many pixels.",
+      "memoryHook": "T-Rexy says: Pixels make up images.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "graphics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_048",
+      "question": "What is cloud storage?",
+      "correctAnswer": "Storing files on the internet instead of on your device",
+      "distractors": [
+        "Storing files in the sky",
+        "A type of hardware",
+        "A kind of virus"
+      ],
+      "explanation": "Your files live on a company's servers, so you can open them from any device, but you need internet and the company's account to reach them.",
+      "memoryHook": "T-Rexy says: Cloud storage is online.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "cloud"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_049",
+      "question": "What is a backup?",
+      "correctAnswer": "A copy of your files kept in case the original is lost",
+      "distractors": [
+        "A type of virus",
+        "A kind of password",
+        "A web page"
+      ],
+      "explanation": "Keep a second copy somewhere else, like a USB drive or the cloud, so one broken device cannot take your work with it.",
+      "memoryHook": "T-Rexy says: Backups save your work.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "files"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_050",
+      "question": "Why should you back up your files?",
+      "correctAnswer": "So you can recover them if your device breaks or files are lost",
+      "distractors": [
+        "To make files bigger",
+        "To share passwords",
+        "To slow down your computer"
+      ],
+      "explanation": "Devices break, files get deleted by mistake, and viruses can lock files; a backup is the only way to get them back.",
+      "memoryHook": "T-Rexy says: Backups protect your files.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "files"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_051",
+      "question": "What is email?",
+      "correctAnswer": "Messages sent over the internet",
+      "distractors": [
+        "A type of hardware",
+        "A web page only",
+        "A social media app"
+      ],
+      "explanation": "Email travels from your provider's server to the other person's server, which is why it arrives even when their computer is off.",
+      "memoryHook": "T-Rexy says: Email sends messages.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "communication"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_052",
+      "question": "What is spam?",
+      "correctAnswer": "Unwanted bulk messages, often ads or scams",
+      "distractors": [
+        "Important mail",
+        "A type of virus only",
+        "A kind of password"
+      ],
+      "explanation": "Spam clogs inboxes and can carry scams.",
+      "memoryHook": "T-Rexy says: Spam is unwanted bulk mail.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "email"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_053",
+      "question": "What is a social media account?",
+      "correctAnswer": "An online profile you use to share and connect",
+      "distractors": [
+        "A type of hardware",
+        "A web browser",
+        "A kind of file"
+      ],
+      "explanation": "An account has a username, a password, and privacy settings; what you post under it can be seen by anyone you allow to follow you.",
+      "memoryHook": "T-Rexy says: Social media connects people.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "social-media"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_054",
+      "question": "What is a good rule for posting online?",
+      "correctAnswer": "Do not post anything you would not want everyone to see",
+      "distractors": [
+        "Post everything right away",
+        "Share your password",
+        "Post your address"
+      ],
+      "explanation": "Once posted, content can spread and stay online.",
+      "memoryHook": "T-Rexy says: Think before you post.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "digital-citizenship",
+        "social-media"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_055",
+      "question": "What is netiquette?",
+      "correctAnswer": "Good manners for communicating online",
+      "distractors": [
+        "A type of internet cable",
+        "A kind of virus",
+        "A web browser"
+      ],
+      "explanation": "Netiquette also means not typing in ALL CAPS, which reads as shouting, and not sharing other people's photos without asking.",
+      "memoryHook": "T-Rexy says: Netiquette is online manners.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "digital-citizenship"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_056",
+      "question": "What is a spreadsheet?",
+      "correctAnswer": "A program that organizes data in rows and columns",
+      "distractors": [
+        "A word processor",
+        "A web browser",
+        "A type of hardware"
+      ],
+      "explanation": "Spreadsheets like Google Sheets calculate and sort data.",
+      "memoryHook": "T-Rexy says: Spreadsheets organize data.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "software"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_057",
+      "question": "What is a word processor?",
+      "correctAnswer": "A program for writing and editing documents",
+      "distractors": [
+        "A program for photos",
+        "A web browser",
+        "A type of hardware"
+      ],
+      "explanation": "Word processors like Google Docs help you write.",
+      "memoryHook": "T-Rexy says: Word processors help you write.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "software"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_058",
+      "question": "What is a presentation program?",
+      "correctAnswer": "A program for making slides to show ideas",
+      "distractors": [
+        "A word processor",
+        "A spreadsheet",
+        "A web browser"
+      ],
+      "explanation": "Presentation programs like Google Slides make slide decks.",
+      "memoryHook": "T-Rexy says: Presentations make slides.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "software"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_059",
+      "question": "What is data?",
+      "correctAnswer": "Facts and numbers collected and stored",
+      "distractors": [
+        "Only numbers",
+        "Only words",
+        "Only pictures"
+      ],
+      "explanation": "Data can be numbers, words, images, or sounds.",
+      "memoryHook": "T-Rexy says: Data is collected facts.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "data",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_060",
+      "question": "What is a database?",
+      "correctAnswer": "An organized collection of data",
+      "distractors": [
+        "A single file",
+        "A type of hardware",
+        "A web page"
+      ],
+      "explanation": "Databases store and sort large amounts of data.",
+      "memoryHook": "T-Rexy says: Databases organize data.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "data",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_061",
+      "question": "What is artificial intelligence (AI)?",
+      "correctAnswer": "Computer systems that learn and make decisions from data",
+      "distractors": [
+        "A robot with feelings",
+        "A type of hardware",
+        "A web browser"
+      ],
+      "explanation": "AI does not understand like a person; it finds patterns in huge amounts of examples and guesses the most likely answer.",
+      "memoryHook": "T-Rexy says: AI learns from data.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "ai",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_062",
+      "question": "What is machine learning?",
+      "correctAnswer": "AI that improves by learning from data",
+      "distractors": [
+        "A machine that thinks like a human",
+        "A type of hardware",
+        "A web browser"
+      ],
+      "explanation": "Machine learning trains models on examples.",
+      "memoryHook": "T-Rexy says: Machine learning learns from examples.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "ai",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_063",
+      "question": "What is a chatbot?",
+      "correctAnswer": "A program that talks with people using text",
+      "distractors": [
+        "A type of virus",
+        "A hardware device",
+        "A kind of file"
+      ],
+      "explanation": "A chatbot matches your words to answers it was trained on; it can sound sure even when it is wrong, so check important answers.",
+      "memoryHook": "T-Rexy says: Chatbots talk with people.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "ai",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_064",
+      "question": "Why should you check AI answers?",
+      "correctAnswer": "AI can make mistakes or give false information",
+      "distractors": [
+        "AI is always right",
+        "AI never makes mistakes",
+        "AI knows everything"
+      ],
+      "explanation": "Always verify AI output with reliable sources.",
+      "memoryHook": "T-Rexy says: Check AI answers.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "ai",
+        "media-literacy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_065",
+      "question": "What is a QR code?",
+      "correctAnswer": "A square barcode that links to a website or information",
+      "distractors": [
+        "A type of password",
+        "A kind of virus",
+        "A web browser"
+      ],
+      "explanation": "A QR code stores a link in black and white squares; your phone camera reads the pattern and opens the link.",
+      "memoryHook": "T-Rexy says: QR codes link to information.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_066",
+      "question": "What is Wi-Fi?",
+      "correctAnswer": "Wireless technology that connects devices to a network",
+      "distractors": [
+        "A type of cable",
+        "A web browser",
+        "A kind of file"
+      ],
+      "explanation": "Wi-Fi uses radio waves, so walls and distance weaken the signal; that is why the connection is faster near the router.",
+      "memoryHook": "T-Rexy says: Wi-Fi connects wirelessly.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "networks"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_067",
+      "question": "What is a router?",
+      "correctAnswer": "A device that connects your network to the internet",
+      "distractors": [
+        "A type of computer screen",
+        "A web browser",
+        "A kind of file"
+      ],
+      "explanation": "Routers send data between your home network and the internet.",
+      "memoryHook": "T-Rexy says: Routers connect you to the internet.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "networks"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_068",
+      "question": "What is the difference between the internet and the web?",
+      "correctAnswer": "The internet is the network; the web is pages on that network",
+      "distractors": [
+        "They are the same",
+        "The web is the network",
+        "The internet is a web page"
+      ],
+      "explanation": "The internet also carries email, games, and video calls; the web is only the pages you open in a browser.",
+      "memoryHook": "T-Rexy says: The web runs on the internet.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_069",
+      "question": "What is a download?",
+      "correctAnswer": "Copying a file from the internet to your device",
+      "distractors": [
+        "Sending a file to the internet",
+        "Deleting a file",
+        "Printing a file"
+      ],
+      "explanation": "A download copies the file, so the original stays on the server and you get your own copy on your device.",
+      "memoryHook": "T-Rexy says: Downloads bring files to you.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "files"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_070",
+      "question": "What is an upload?",
+      "correctAnswer": "Sending a file from your device to the internet",
+      "distractors": [
+        "Copying a file to your device",
+        "Deleting a file",
+        "Printing a file"
+      ],
+      "explanation": "An upload sends your copy to a server, which is how photos reach social media and homework reaches your teacher.",
+      "memoryHook": "T-Rexy says: Uploads send files out.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "files"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_071",
+      "question": "What is a cookie on a website?",
+      "correctAnswer": "A small file a site stores to remember you",
+      "distractors": [
+        "A food item",
+        "A type of virus",
+        "A password"
+      ],
+      "explanation": "Cookies remember logins and preferences.",
+      "memoryHook": "T-Rexy says: Cookies remember you.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "privacy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_072",
+      "question": "What is a pop-up?",
+      "correctAnswer": "A small window that opens on top of a web page",
+      "distractors": [
+        "A type of virus only",
+        "A kind of file",
+        "A web browser"
+      ],
+      "explanation": "Pop-ups can be ads or alerts.",
+      "memoryHook": "T-Rexy says: Pop-ups open on top.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "browsers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_073",
+      "question": "What should you do before downloading a file?",
+      "correctAnswer": "Make sure it comes from a trusted source",
+      "distractors": [
+        "Download anything",
+        "Ignore warnings",
+        "Turn off antivirus"
+      ],
+      "explanation": "Trusted sources lower the risk of malware.",
+      "memoryHook": "T-Rexy says: Download only from trusted sources.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "downloads"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_074",
+      "question": "What is antivirus software?",
+      "correctAnswer": "Software that finds and removes malware",
+      "distractors": [
+        "A type of virus",
+        "A web browser",
+        "A kind of file"
+      ],
+      "explanation": "Antivirus compares files to a list of known malware and watches for suspicious behavior, then quarantines anything it catches.",
+      "memoryHook": "T-Rexy says: Antivirus blocks malware.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "security",
+        "malware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_075",
+      "question": "What is a digital citizen?",
+      "correctAnswer": "Someone who uses technology responsibly and respectfully",
+      "distractors": [
+        "Someone who owns a computer",
+        "Someone who plays games",
+        "Someone who shops online"
+      ],
+      "explanation": "Digital citizens follow rules, respect others, and stay safe online.",
+      "memoryHook": "T-Rexy says: Digital citizens act responsibly.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "digital-citizenship"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_076",
+      "question": "What is the best way to share a file with a classmate?",
+      "correctAnswer": "Use a school-approved sharing tool or link",
+      "distractors": [
+        "Post it publicly online",
+        "Share your password",
+        "Email it to strangers"
+      ],
+      "explanation": "School tools keep sharing safe and controlled.",
+      "memoryHook": "T-Rexy says: Use school-approved sharing.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "digital-citizenship",
+        "sharing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_077",
+      "question": "What is a keyboard shortcut?",
+      "correctAnswer": "Keys pressed together to do a task quickly",
+      "distractors": [
+        "A type of password",
+        "A kind of file",
+        "A web browser"
+      ],
+      "explanation": "Shortcuts like Ctrl+C copy text fast.",
+      "memoryHook": "T-Rexy says: Shortcuts save time.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_078",
+      "question": "What does Ctrl+C do?",
+      "correctAnswer": "Copies selected text or files",
+      "distractors": [
+        "Pastes",
+        "Cuts",
+        "Undoes"
+      ],
+      "explanation": "Ctrl+C copies to the clipboard, a hidden holding spot; the original text stays where it was.",
+      "memoryHook": "T-Rexy says: Ctrl+C copies.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "shortcuts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_079",
+      "question": "What does Ctrl+V do?",
+      "correctAnswer": "Pastes copied text or files",
+      "distractors": [
+        "Copies",
+        "Cuts",
+        "Undoes"
+      ],
+      "explanation": "Ctrl+V drops the clipboard copy at the cursor; you can paste the same copy many times until you copy something else.",
+      "memoryHook": "T-Rexy says: Ctrl+V pastes.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "shortcuts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_080",
+      "question": "What does Ctrl+Z do?",
+      "correctAnswer": "Undoes the last action",
+      "distractors": [
+        "Copies",
+        "Pastes",
+        "Saves"
+      ],
+      "explanation": "Ctrl+Z steps back through your last changes one at a time; pressing it again undoes the change before that.",
+      "memoryHook": "T-Rexy says: Ctrl+Z undoes.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "shortcuts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_081",
+      "question": "What does Ctrl+S do?",
+      "correctAnswer": "Saves the current file",
+      "distractors": [
+        "Copies",
+        "Pastes",
+        "Undoes"
+      ],
+      "explanation": "Ctrl+S writes your work to the file on disk; without saving, a crash loses everything since the last save.",
+      "memoryHook": "T-Rexy says: Ctrl+S saves.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "shortcuts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_082",
+      "question": "What is the difference between save and save as?",
+      "correctAnswer": "Save updates the current file; Save As creates a new copy",
+      "distractors": [
+        "They are the same",
+        "Save deletes the file",
+        "Save As closes the file"
+      ],
+      "explanation": "Save As lets you pick a new name or location.",
+      "memoryHook": "T-Rexy says: Save As makes a new copy.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "files"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_083",
+      "question": "What is a screenshot?",
+      "correctAnswer": "A picture of what is on your screen",
+      "distractors": [
+        "A type of file only",
+        "A computer virus",
+        "A web page"
+      ],
+      "explanation": "A screenshot saves exactly what is on screen as an image file, which is handy for showing an error to a teacher.",
+      "memoryHook": "T-Rexy says: Screenshots capture the screen.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_084",
+      "question": "What is a hyperlink?",
+      "correctAnswer": "Text or an image that links to another page",
+      "distractors": [
+        "A type of virus",
+        "A kind of file",
+        "A web browser"
+      ],
+      "explanation": "Clicking a hyperlink jumps to another page.",
+      "memoryHook": "T-Rexy says: Hyperlinks jump to pages.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_085",
+      "question": "What is a domain name?",
+      "correctAnswer": "The readable address of a website, like example.com",
+      "distractors": [
+        "A password",
+        "A username",
+        "A file name"
+      ],
+      "explanation": "A domain name is rented, not owned forever; the owner pays each year to keep using it.",
+      "memoryHook": "T-Rexy says: Domains are readable addresses.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_086",
+      "question": "What is an IP address?",
+      "correctAnswer": "A number that identifies a device on a network",
+      "distractors": [
+        "A password",
+        "A username",
+        "A file name"
+      ],
+      "explanation": "IP addresses are like phone numbers for devices.",
+      "memoryHook": "T-Rexy says: IP addresses identify devices.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "networks"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_087",
+      "question": "What is a server?",
+      "correctAnswer": "A computer that provides data or services to other computers",
+      "distractors": [
+        "A type of virus",
+        "A web browser",
+        "A kind of file"
+      ],
+      "explanation": "Servers host websites and store data.",
+      "memoryHook": "T-Rexy says: Servers provide services.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "networks"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_088",
+      "question": "What is a client?",
+      "correctAnswer": "A device or program that requests data from a server",
+      "distractors": [
+        "A type of server",
+        "A web browser only",
+        "A kind of file"
+      ],
+      "explanation": "Your browser is a client that asks servers for pages.",
+      "memoryHook": "T-Rexy says: Clients request data.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "networks"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_089",
+      "question": "What is open source software?",
+      "correctAnswer": "Software whose code is free to view and change",
+      "distractors": [
+        "Software that costs a lot",
+        "Software with no code",
+        "Software that is secret"
+      ],
+      "explanation": "Open source code is public, so anyone can read it, report bugs, or suggest fixes; Linux and Firefox are open source.",
+      "memoryHook": "T-Rexy says: Open source is free to view.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "computers",
+        "software"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_090",
+      "question": "What is a programmer?",
+      "correctAnswer": "A person who writes code",
+      "distractors": [
+        "A person who fixes hardware only",
+        "A person who uses apps only",
+        "A person who sells computers"
+      ],
+      "explanation": "Programmers also test, fix bugs, and read other people's code; writing the first draft is only part of the job.",
+      "memoryHook": "T-Rexy says: Programmers write code.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_091",
+      "question": "What is a flowchart?",
+      "correctAnswer": "A diagram showing the steps of a process",
+      "distractors": [
+        "A type of code",
+        "A kind of file",
+        "A web page"
+      ],
+      "explanation": "A flowchart uses shapes: ovals for start and end, rectangles for steps, and diamonds for yes-or-no decisions.",
+      "memoryHook": "T-Rexy says: Flowcharts map steps.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "algorithms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_092",
+      "question": "What is pseudocode?",
+      "correctAnswer": "Plain-language steps describing a program",
+      "distractors": [
+        "Real code only",
+        "A type of hardware",
+        "A kind of file"
+      ],
+      "explanation": "Pseudocode uses plain words like 'if the score is over 10, show You win', so you can plan the logic before writing real code.",
+      "memoryHook": "T-Rexy says: Pseudocode plans in plain words.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "algorithms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_093",
+      "question": "What is a boolean value?",
+      "correctAnswer": "True or false",
+      "distractors": [
+        "A number only",
+        "A word only",
+        "A color only"
+      ],
+      "explanation": "Booleans come from true-or-false questions, like 'is the player alive?'; they control if-statements and loops.",
+      "memoryHook": "T-Rexy says: Booleans are true or false.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "data-types"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_094",
+      "question": "What is a string in coding?",
+      "correctAnswer": "Text data, like 'hello'",
+      "distractors": [
+        "A number",
+        "A true or false value",
+        "A kind of loop"
+      ],
+      "explanation": "Strings hold text in quotes.",
+      "memoryHook": "T-Rexy says: Strings hold text.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "data-types"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_095",
+      "question": "What is an integer in coding?",
+      "correctAnswer": "A whole number, like 7",
+      "distractors": [
+        "A decimal number",
+        "Text",
+        "True or false"
+      ],
+      "explanation": "Integers cannot hold fractions, so 7 divided by 2 in integer math gives 3, not 3.5.",
+      "memoryHook": "T-Rexy says: Integers are whole numbers.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "data-types"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_096",
+      "question": "What is a list in coding?",
+      "correctAnswer": "An ordered collection of items",
+      "distractors": [
+        "A single number",
+        "A type of loop",
+        "A kind of file"
+      ],
+      "explanation": "A list keeps items in order and numbers them from 0, so the first item is at position 0, not 1.",
+      "memoryHook": "T-Rexy says: Lists store many items.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "data-types"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_097",
+      "question": "What is the first step in solving a coding problem?",
+      "correctAnswer": "Understand the problem and plan the steps",
+      "distractors": [
+        "Write code right away",
+        "Delete the program",
+        "Guess the answer"
+      ],
+      "explanation": "Planning first saves time and errors.",
+      "memoryHook": "T-Rexy says: Plan before you code.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "coding",
+        "problem-solving"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_098",
+      "question": "What is a search engine result page?",
+      "correctAnswer": "The page showing links that match your search",
+      "distractors": [
+        "A web browser",
+        "A type of file",
+        "A social media feed"
+      ],
+      "explanation": "A results page ranks links by relevance; the top results are often ads, marked as sponsored.",
+      "memoryHook": "T-Rexy says: Results list matching pages.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "search"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_099",
+      "question": "How can you make a web search better?",
+      "correctAnswer": "Use specific keywords and quotes for exact phrases",
+      "distractors": [
+        "Use one vague word",
+        "Use only capital letters",
+        "Search without keywords"
+      ],
+      "explanation": "Quotes force the exact phrase, and a minus sign drops a word, like cats -musical to skip the show.",
+      "memoryHook": "T-Rexy says: Specific keywords find better results.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "search"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "DIG8_100",
+      "question": "What is a browser tab?",
+      "correctAnswer": "A page open inside a browser window",
+      "distractors": [
+        "A type of file",
+        "A web page only",
+        "A kind of virus"
+      ],
+      "explanation": "Tabs let you open several pages at once.",
+      "memoryHook": "T-Rexy says: Tabs hold open pages.",
+      "imageUrl": "topic:digital-literacy",
+      "tags": [
+        "internet",
+        "browsers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

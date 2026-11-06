@@ -1,0 +1,2017 @@
+{
+  "packId": "gr6-life-science",
+  "title": "Life Science (6th Grade)",
+  "description": "Life Science (6th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "science",
+    "life-science",
+    "6th"
+  ],
+  "questions": [
+    {
+      "id": "LIF6_001",
+      "question": "Which organ pumps blood through the body?",
+      "correctAnswer": "The heart",
+      "distractors": [
+        "The liver",
+        "The lung",
+        "The stomach"
+      ],
+      "explanation": "The heart is a muscle that squeezes about 100,000 times a day, pushing blood through arteries, veins, and capillaries to every part of the body.",
+      "memoryHook": "T-Rexy says: The heart is the body's pump.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_002",
+      "question": "What is a genotype?",
+      "correctAnswer": "The genes an organism has for a trait",
+      "distractors": [
+        "The way a trait looks",
+        "The number of chromosomes",
+        "The species of an organism"
+      ],
+      "explanation": "Genotype is the genetic makeup, like Tt, while phenotype is how it looks.",
+      "memoryHook": "T-Rexy says: Genotype is the code; phenotype is the look.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "traits"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_003",
+      "question": "What is meiosis?",
+      "correctAnswer": "The process that makes sex cells with half the chromosomes",
+      "distractors": [
+        "The same as mitosis",
+        "The death of a cell",
+        "The growth of a muscle"
+      ],
+      "explanation": "Meiosis makes egg and sperm cells with 23 chromosomes instead of 46.",
+      "memoryHook": "T-Rexy says: Meiosis halves the chromosomes for reproduction.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "division"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_004",
+      "question": "What is a population?",
+      "correctAnswer": "A group of the same species living in an area",
+      "distractors": [
+        "All the species in an area",
+        "One single organism",
+        "A group of different species"
+      ],
+      "explanation": "A population counts only one species: all the oak trees in a forest are one population, while all the living things there together are a community.",
+      "memoryHook": "T-Rexy says: A population is one species in one place.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "populations"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_005",
+      "question": "What is a food chain?",
+      "correctAnswer": "A sequence showing who eats whom",
+      "distractors": [
+        "A list of grocery items",
+        "A chain of stores",
+        "A group of plants only"
+      ],
+      "explanation": "A food chain traces energy from producers to consumers in order.",
+      "memoryHook": "T-Rexy says: A food chain follows the energy from eater to eater.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_006",
+      "question": "What is speciation?",
+      "correctAnswer": "The formation of a new species",
+      "distractors": [
+        "The extinction of a species",
+        "The growth of a population",
+        "The movement of a species"
+      ],
+      "explanation": "Speciation happens when populations become so different they can no longer interbreed.",
+      "memoryHook": "T-Rexy says: Speciation is one species splitting into two.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "evolution",
+        "natural-selection"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_007",
+      "question": "What is the difference between biotic and abiotic factors?",
+      "correctAnswer": "Biotic are living; abiotic are nonliving",
+      "distractors": [
+        "Biotic are nonliving; abiotic are living",
+        "They are the same",
+        "Biotic means big and abiotic means small"
+      ],
+      "explanation": "Biotic factors are living things, while abiotic factors include water, sunlight, and temperature.",
+      "memoryHook": "T-Rexy says: Biotic is alive; abiotic is not.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "factors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_008",
+      "question": "What is mitosis?",
+      "correctAnswer": "The process of cell division that makes two identical cells",
+      "distractors": [
+        "The making of sex cells",
+        "The death of a cell",
+        "The growth of a plant only"
+      ],
+      "explanation": "Mitosis produces two daughter cells with the same chromosomes as the parent.",
+      "memoryHook": "T-Rexy says: Mitosis is copy-and-split for growth.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "division"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_009",
+      "question": "What is extinction?",
+      "correctAnswer": "When a species dies out completely",
+      "distractors": [
+        "When a species moves to a new place",
+        "When a species grows quickly",
+        "When a species changes color"
+      ],
+      "explanation": "Extinction means no members of a species remain alive anywhere.",
+      "memoryHook": "T-Rexy says: Extinction is gone forever.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "evolution",
+        "extinction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_010",
+      "question": "What is the function of the circulatory system?",
+      "correctAnswer": "To move blood, oxygen, and nutrients around the body",
+      "distractors": [
+        "To break down food",
+        "To make you move",
+        "To remove waste only"
+      ],
+      "explanation": "Blood carries oxygen from the lungs and nutrients from the gut to every cell, and carries carbon dioxide and other wastes away.",
+      "memoryHook": "T-Rexy says: Circulation is the body's delivery service.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_011",
+      "question": "What is a phenotype?",
+      "correctAnswer": "The observable trait that results from genes",
+      "distractors": [
+        "The genes themselves",
+        "The number of cells",
+        "The habitat of an organism"
+      ],
+      "explanation": "Phenotype is what you can see, such as tall or short.",
+      "memoryHook": "T-Rexy says: Phenotype is the visible result.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "traits"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_012",
+      "question": "Which kingdom includes mushrooms and molds?",
+      "correctAnswer": "Fungi",
+      "distractors": [
+        "Plants",
+        "Animals",
+        "Bacteria"
+      ],
+      "explanation": "Fungi, like mushrooms, absorb nutrients from dead matter.",
+      "memoryHook": "T-Rexy says: Mushrooms belong to the fungi kingdom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "classification",
+        "kingdoms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_013",
+      "question": "What is a predator?",
+      "correctAnswer": "An animal that hunts other animals",
+      "distractors": [
+        "An animal that is hunted",
+        "A plant that makes food",
+        "An animal that eats plants"
+      ],
+      "explanation": "Predators have adaptations for hunting, like sharp teeth, claws, or speed, and by hunting they keep prey populations in check.",
+      "memoryHook": "T-Rexy says: Predators do the hunting.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_014",
+      "question": "What do plant cells have that animal cells do not?",
+      "correctAnswer": "Chloroplasts and a cell wall",
+      "distractors": [
+        "A nucleus",
+        "Mitochondria",
+        "Cytoplasm"
+      ],
+      "explanation": "Plant cells have chloroplasts for photosynthesis and a stiff cell wall; animal cells do not.",
+      "memoryHook": "T-Rexy says: Chloroplasts and cell walls make plant cells special.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "plants"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_015",
+      "question": "What is the function of the digestive system?",
+      "correctAnswer": "To break down food and absorb nutrients",
+      "distractors": [
+        "To pump blood",
+        "To take in oxygen",
+        "To control the body"
+      ],
+      "explanation": "Food travels from mouth to stomach to intestines, where enzymes break it down and the nutrients pass into the blood.",
+      "memoryHook": "T-Rexy says: Digestion turns food into fuel.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_016",
+      "question": "What is a Punnett square used for?",
+      "correctAnswer": "Predicting the possible traits of offspring",
+      "distractors": [
+        "Measuring plant growth",
+        "Counting chromosomes",
+        "Classifying species"
+      ],
+      "explanation": "Write the mother's alleles across the top and the father's down the side; each box is one possible gene combination for a child.",
+      "memoryHook": "T-Rexy says: A Punnett square predicts kids' possible traits.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "punnett"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_017",
+      "question": "Which body system brings oxygen into the body?",
+      "correctAnswer": "The respiratory system",
+      "distractors": [
+        "The digestive system",
+        "The circulatory system",
+        "The skeletal system"
+      ],
+      "explanation": "The respiratory system includes the lungs, which take in oxygen.",
+      "memoryHook": "T-Rexy says: Lungs bring in the oxygen.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_018",
+      "question": "What is the difference between a vertebrate and an invertebrate?",
+      "correctAnswer": "Vertebrates have a backbone; invertebrates do not",
+      "distractors": [
+        "Vertebrates are smaller",
+        "Invertebrates have bones",
+        "They are the same"
+      ],
+      "explanation": "Fish, birds, and mammals are vertebrates; insects and worms are invertebrates.",
+      "memoryHook": "T-Rexy says: Backbone or no backbone.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "classification",
+        "animals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_019",
+      "question": "What is the scientific name of an organism made of?",
+      "correctAnswer": "Its genus and species",
+      "distractors": [
+        "Its kingdom and phylum",
+        "Its family and order",
+        "Its common name only"
+      ],
+      "explanation": "Scientific names use binomial nomenclature: genus first, then species.",
+      "memoryHook": "T-Rexy says: Genus plus species is the scientific name.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "classification",
+        "taxonomy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_020",
+      "question": "What part of a cell contains genetic material in most cells?",
+      "correctAnswer": "The nucleus",
+      "distractors": [
+        "The cytoplasm",
+        "The cell wall",
+        "The vacuole"
+      ],
+      "explanation": "The nucleus holds DNA, the instructions for the cell.",
+      "memoryHook": "T-Rexy says: The nucleus is the cell's control center.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_021",
+      "question": "What is the chemical equation for photosynthesis in words?",
+      "correctAnswer": "Carbon dioxide + water + sunlight makes glucose + oxygen",
+      "distractors": [
+        "Oxygen + glucose makes carbon dioxide + water",
+        "Nitrogen + water makes sugar",
+        "Carbon dioxide + oxygen makes glucose"
+      ],
+      "explanation": "Light energy powers the change: carbon dioxide and water become glucose, which stores the energy, and oxygen is released through the leaves.",
+      "memoryHook": "T-Rexy says: Light plus air plus water makes plant food.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "photosynthesis"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_022",
+      "question": "What is the function of the small intestine?",
+      "correctAnswer": "To absorb nutrients from digested food",
+      "distractors": [
+        "To chew food",
+        "To store waste",
+        "To make stomach acid"
+      ],
+      "explanation": "The small intestine is lined with tiny finger-like villi that give it a huge surface area for absorbing nutrients into the blood.",
+      "memoryHook": "T-Rexy says: The small intestine absorbs the good stuff.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_023",
+      "question": "What is diffusion?",
+      "correctAnswer": "The movement of particles from high to low concentration",
+      "distractors": [
+        "The movement of water only",
+        "The making of proteins",
+        "The splitting of a cell"
+      ],
+      "explanation": "Diffusion spreads particles out until they are evenly mixed.",
+      "memoryHook": "T-Rexy says: Diffusion is spreading from crowded to empty.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "transport"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_024",
+      "question": "What is a trophic level?",
+      "correctAnswer": "A feeding level in a food chain or web",
+      "distractors": [
+        "A type of soil",
+        "A layer of the ocean",
+        "A kind of plant"
+      ],
+      "explanation": "Producers are the first trophic level, herbivores the second, and so on.",
+      "memoryHook": "T-Rexy says: Trophic levels are steps on the energy ladder.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "energy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_025",
+      "question": "What is biodiversity?",
+      "correctAnswer": "The variety of life in an area",
+      "distractors": [
+        "The number of rocks in an area",
+        "The amount of water in an area",
+        "The size of one population"
+      ],
+      "explanation": "Biodiversity includes the number of species and the variety of genes and ecosystems.",
+      "memoryHook": "T-Rexy says: Biodiversity is variety of life.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "biodiversity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_026",
+      "question": "What is the 10% rule in ecology?",
+      "correctAnswer": "Only about 10% of energy moves to the next trophic level",
+      "distractors": [
+        "Only 10% of animals survive",
+        "10% of the Sun's energy reaches Earth",
+        "Plants use 10% of their energy"
+      ],
+      "explanation": "Most energy is lost as heat or used for life processes, so about 10% remains for the next level.",
+      "memoryHook": "T-Rexy says: Nine tenths of energy is lost at each step.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "energy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_027",
+      "question": "What is the genus of humans in the scientific name Homo sapiens?",
+      "correctAnswer": "Homo",
+      "distractors": [
+        "Sapiens",
+        "Hominidae",
+        "Primates"
+      ],
+      "explanation": "The genus is the first word and is capitalized; the species is the second word and is lowercase - together they name one exact organism.",
+      "memoryHook": "T-Rexy says: Homo is the genus; sapiens is the species.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "classification",
+        "taxonomy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_028",
+      "question": "What is the basic unit of life?",
+      "correctAnswer": "The cell",
+      "distractors": [
+        "The atom",
+        "The organ",
+        "The tissue"
+      ],
+      "explanation": "All living things are made of one or more cells.",
+      "memoryHook": "T-Rexy says: Cells are the building blocks of life.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "life"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_029",
+      "question": "What is the function of the nervous system?",
+      "correctAnswer": "To control the body and sense the environment",
+      "distractors": [
+        "To digest food",
+        "To pump blood",
+        "To support the body"
+      ],
+      "explanation": "The brain, spinal cord, and nerves send signals to control the body.",
+      "memoryHook": "T-Rexy says: The nervous system is the body's control center.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_030",
+      "question": "What is the cell membrane?",
+      "correctAnswer": "The thin layer that controls what enters and leaves a cell",
+      "distractors": [
+        "The stiff outer wall of a plant cell",
+        "The part that makes energy",
+        "The part that stores water"
+      ],
+      "explanation": "The membrane is a double layer of fats with proteins that act as gates, letting in nutrients and oxygen while keeping harmful substances out.",
+      "memoryHook": "T-Rexy says: The membrane is the cell's gatekeeper.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_031",
+      "question": "What is a fossil?",
+      "correctAnswer": "The preserved remains or traces of an ancient organism",
+      "distractors": [
+        "A type of rock",
+        "A living animal",
+        "A piece of ice"
+      ],
+      "explanation": "Fossils form when remains are buried and preserved in rock over long times.",
+      "memoryHook": "T-Rexy says: Fossils are ancient life turned to stone.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "evolution",
+        "fossils"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_032",
+      "question": "What is photosynthesis?",
+      "correctAnswer": "The process plants use to make food from sunlight, water, and carbon dioxide",
+      "distractors": [
+        "The process animals use to breathe",
+        "The breakdown of food for energy",
+        "The movement of water in plants"
+      ],
+      "explanation": "Chlorophyll in the leaves captures light energy, which powers the chemical change that builds sugar - the plant's food - and releases oxygen.",
+      "memoryHook": "T-Rexy says: Photosynthesis is how plants cook their own food.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "photosynthesis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_033",
+      "question": "What is commensalism?",
+      "correctAnswer": "A relationship where one benefits and the other is unaffected",
+      "distractors": [
+        "A relationship where both benefit",
+        "A relationship where one is harmed",
+        "A relationship where both are harmed"
+      ],
+      "explanation": "A classic example is a barnacle riding on a whale: the barnacle gets a free ride to food-rich water, and the whale is unaffected.",
+      "memoryHook": "T-Rexy says: Commensalism is win-neutral.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "relationships"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_034",
+      "question": "Why are fossils important to scientists?",
+      "correctAnswer": "They show how life has changed over time",
+      "distractors": [
+        "They are worth money",
+        "They show the weather",
+        "They prove rocks are old only"
+      ],
+      "explanation": "Fossils provide evidence of past life and how species evolved.",
+      "memoryHook": "T-Rexy says: Fossils are clues to life's history.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "evolution",
+        "fossils"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_035",
+      "question": "What is a habitat?",
+      "correctAnswer": "The place where an organism lives",
+      "distractors": [
+        "The food an organism eats",
+        "A group of the same species",
+        "The weather of a region"
+      ],
+      "explanation": "A habitat provides the food, water, shelter, and space an organism needs.",
+      "memoryHook": "T-Rexy says: A habitat is an organism's home.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "habitats"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_036",
+      "question": "What is competition in ecology?",
+      "correctAnswer": "Two organisms fighting for the same resource",
+      "distractors": [
+        "Two organisms helping each other",
+        "One organism eating another",
+        "Two organisms living together peacefully"
+      ],
+      "explanation": "Competition happens when organisms need the same food, water, or space.",
+      "memoryHook": "T-Rexy says: Competition is a tug-of-war over resources.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "relationships"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_037",
+      "question": "What is DNA?",
+      "correctAnswer": "The molecule that carries genetic instructions",
+      "distractors": [
+        "A type of protein",
+        "A cell part that makes energy",
+        "A kind of sugar"
+      ],
+      "explanation": "DNA holds the instructions for building and running an organism.",
+      "memoryHook": "T-Rexy says: DNA is the instruction book of life.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "dna"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_038",
+      "question": "What is an allele?",
+      "correctAnswer": "A different form of a gene",
+      "distractors": [
+        "A type of chromosome",
+        "A whole organism",
+        "A kind of cell"
+      ],
+      "explanation": "Alleles are versions of the same gene, such as one for brown eyes and one for blue.",
+      "memoryHook": "T-Rexy says: Alleles are different versions of a gene.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "traits"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_039",
+      "question": "Which kingdom includes bacteria?",
+      "correctAnswer": "Bacteria (or Monera)",
+      "distractors": [
+        "Plants",
+        "Animals",
+        "Fungi"
+      ],
+      "explanation": "Bacteria are single-celled organisms without a nucleus.",
+      "memoryHook": "T-Rexy says: Bacteria are their own kingdom.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "classification",
+        "kingdoms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_040",
+      "question": "How many chromosomes do humans usually have in each body cell?",
+      "correctAnswer": "46",
+      "distractors": [
+        "23",
+        "48",
+        "92"
+      ],
+      "explanation": "Humans have 46 chromosomes, 23 from each parent.",
+      "memoryHook": "T-Rexy says: 46 chromosomes: 23 from mom, 23 from dad.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "dna"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_041",
+      "question": "What is the carbon cycle?",
+      "correctAnswer": "The movement of carbon between living things, air, water, and soil",
+      "distractors": [
+        "The making of diamonds only",
+        "The burning of coal only",
+        "The breathing of animals only"
+      ],
+      "explanation": "Carbon moves through photosynthesis, respiration, decomposition, and burning fossil fuels.",
+      "memoryHook": "T-Rexy says: Carbon travels in a loop through life and air.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "cycles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_042",
+      "question": "What is an ecosystem?",
+      "correctAnswer": "A community of living things and their environment",
+      "distractors": [
+        "A single animal",
+        "A group of the same species",
+        "A type of rock"
+      ],
+      "explanation": "Ecosystems can be huge, like a rainforest, or tiny, like a puddle - what matters is that the living and nonliving parts interact.",
+      "memoryHook": "T-Rexy says: An ecosystem is living things plus their surroundings.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "habitats"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_043",
+      "question": "What is a carnivore?",
+      "correctAnswer": "An animal that eats only meat",
+      "distractors": [
+        "An animal that eats only plants",
+        "An animal that eats plants and meat",
+        "An animal that eats dead things"
+      ],
+      "explanation": "Carnivores, like lions and hawks, eat other animals.",
+      "memoryHook": "T-Rexy says: Carnivores are meat eaters.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_044",
+      "question": "What is the function of white blood cells?",
+      "correctAnswer": "To fight infections and germs",
+      "distractors": [
+        "To carry oxygen",
+        "To clot blood",
+        "To carry food"
+      ],
+      "explanation": "Some white blood cells swallow germs whole, while others make antibodies that mark invaders for destruction.",
+      "memoryHook": "T-Rexy says: White blood cells are the body's guards.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_045",
+      "question": "What is the function of the large intestine?",
+      "correctAnswer": "To absorb water and form waste",
+      "distractors": [
+        "To digest proteins",
+        "To absorb nutrients",
+        "To pump blood"
+      ],
+      "explanation": "After the small intestine takes the nutrients, the large intestine reclaims water and salts, and helpful bacteria there make some vitamins.",
+      "memoryHook": "T-Rexy says: The large intestine reclaims water.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_046",
+      "question": "What is carrying capacity?",
+      "correctAnswer": "The largest population an environment can support",
+      "distractors": [
+        "The smallest population that can survive",
+        "The number of predators in an area",
+        "The amount of food produced"
+      ],
+      "explanation": "When a population passes carrying capacity, food and space run short, so births fall and deaths rise until the population drops back.",
+      "memoryHook": "T-Rexy says: Carrying capacity is the environment's full house.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "populations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_047",
+      "question": "What is a herbivore?",
+      "correctAnswer": "An animal that eats only plants",
+      "distractors": [
+        "An animal that eats only meat",
+        "An animal that eats plants and meat",
+        "An animal that eats dead things"
+      ],
+      "explanation": "Herbivores, like rabbits and deer, eat plants.",
+      "memoryHook": "T-Rexy says: Herbivores are plant eaters.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_048",
+      "question": "What is a community in ecology?",
+      "correctAnswer": "All the different populations living in an area",
+      "distractors": [
+        "One single species",
+        "One single organism",
+        "Only the plants in an area"
+      ],
+      "explanation": "A community is all the populations together: the trees, birds, insects, and fungi in one forest form a single community.",
+      "memoryHook": "T-Rexy says: A community is all the populations together.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "populations"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_049",
+      "question": "What is symbiosis?",
+      "correctAnswer": "A close relationship between two different species",
+      "distractors": [
+        "A fight between two species",
+        "A type of habitat",
+        "The death of a species"
+      ],
+      "explanation": "Symbiosis is a long-term interaction between species, such as mutualism or parasitism.",
+      "memoryHook": "T-Rexy says: Symbiosis is species living closely together.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "relationships"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_050",
+      "question": "What is the difference between asexual and sexual reproduction?",
+      "correctAnswer": "Asexual uses one parent and makes identical offspring; sexual uses two parents and makes varied offspring",
+      "distractors": [
+        "Asexual uses two parents",
+        "Sexual makes identical offspring",
+        "They are the same"
+      ],
+      "explanation": "Asexual offspring are clones of one parent, so one disease can wipe out the whole population; sexual offspring vary, so some may survive.",
+      "memoryHook": "T-Rexy says: One parent copies; two parents mix.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "reproduction"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_051",
+      "question": "What is parasitism?",
+      "correctAnswer": "A relationship where one benefits and the other is harmed",
+      "distractors": [
+        "A relationship where both benefit",
+        "A relationship where neither benefits",
+        "A relationship where one benefits and the other is unaffected"
+      ],
+      "explanation": "A parasite, like a tick, lives on or in a host and harms it.",
+      "memoryHook": "T-Rexy says: Parasitism is win-lose.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "relationships"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_052",
+      "question": "What is classification?",
+      "correctAnswer": "Grouping organisms by shared characteristics",
+      "distractors": [
+        "Naming a single animal",
+        "Counting species",
+        "Studying fossils only"
+      ],
+      "explanation": "Scientists group organisms by shared traits - like having feathers or producing milk - which also hints at how closely related they are.",
+      "memoryHook": "T-Rexy says: Classification sorts life into groups.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "classification",
+        "taxonomy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_053",
+      "question": "What is cellular respiration?",
+      "correctAnswer": "The process that releases energy from food in cells",
+      "distractors": [
+        "The process plants use to make food",
+        "Breathing in and out",
+        "The movement of blood"
+      ],
+      "explanation": "Cells break down sugar with oxygen to release energy, carbon dioxide, and water.",
+      "memoryHook": "T-Rexy says: Respiration unlocks energy from food.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "respiration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_054",
+      "question": "What is a Punnett square result if both parents are Tt for height (T tall, t short)?",
+      "correctAnswer": "75% tall and 25% short",
+      "distractors": [
+        "100% tall",
+        "50% tall and 50% short",
+        "100% short"
+      ],
+      "explanation": "The combinations are TT, Tt, Tt, tt, so 3 of 4 are tall and 1 of 4 is short.",
+      "memoryHook": "T-Rexy says: Three out of four children would be tall.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "punnett"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_055",
+      "question": "What is a recessive trait?",
+      "correctAnswer": "A trait that shows up only when two copies of the gene are present",
+      "distractors": [
+        "A trait that always shows up",
+        "A trait that only shows in males",
+        "A trait that cannot be inherited"
+      ],
+      "explanation": "A recessive allele can hide for generations: two brown-eyed parents who both carry the blue-eye allele can have a blue-eyed child.",
+      "memoryHook": "T-Rexy says: Recessive traits need two copies to show.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "traits"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_056",
+      "question": "What gas do plants release during photosynthesis?",
+      "correctAnswer": "Oxygen",
+      "distractors": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "explanation": "Plants release oxygen as a waste product of photosynthesis.",
+      "memoryHook": "T-Rexy says: Plants give off the oxygen we breathe.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "photosynthesis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_057",
+      "question": "What is the role of bacteria in the nitrogen cycle?",
+      "correctAnswer": "They convert nitrogen into forms plants can use",
+      "distractors": [
+        "They remove all nitrogen",
+        "They make oxygen",
+        "They eat plants"
+      ],
+      "explanation": "Nitrogen-fixing bacteria turn nitrogen gas into compounds plants can absorb.",
+      "memoryHook": "T-Rexy says: Bacteria make nitrogen usable for plants.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "cycles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_058",
+      "question": "What is an energy pyramid?",
+      "correctAnswer": "A diagram showing energy decreasing at each trophic level",
+      "distractors": [
+        "A pyramid built by Egyptians",
+        "A diagram of a food chain only",
+        "A mountain of energy"
+      ],
+      "explanation": "The pyramid is wide at the bottom because producers hold the most energy; each step up loses about 90% of it as heat and life processes.",
+      "memoryHook": "T-Rexy says: Energy pyramids shrink as they rise.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "energy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_059",
+      "question": "What is the function of red blood cells?",
+      "correctAnswer": "To carry oxygen around the body",
+      "distractors": [
+        "To fight germs",
+        "To clot blood",
+        "To carry messages"
+      ],
+      "explanation": "Red blood cells are packed with hemoglobin, a protein that grabs oxygen in the lungs and lets it go where cells need it.",
+      "memoryHook": "T-Rexy says: Red blood cells are oxygen delivery trucks.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_060",
+      "question": "Which body system moves your body?",
+      "correctAnswer": "The muscular system",
+      "distractors": [
+        "The nervous system",
+        "The digestive system",
+        "The respiratory system"
+      ],
+      "explanation": "Muscles work with bones to move the body.",
+      "memoryHook": "T-Rexy says: Muscles make movement happen.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_061",
+      "question": "What do all living things need?",
+      "correctAnswer": "Food, water, air, and a place to live",
+      "distractors": [
+        "Sunlight only",
+        "Soil only",
+        "Shelter only"
+      ],
+      "explanation": "Living things need energy, water, gases, and suitable conditions to survive.",
+      "memoryHook": "T-Rexy says: Life needs food, water, air, and shelter.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "life"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_062",
+      "question": "What is a limiting factor?",
+      "correctAnswer": "Something that limits the size of a population",
+      "distractors": [
+        "Something that helps a population grow forever",
+        "A type of predator",
+        "A kind of habitat"
+      ],
+      "explanation": "Food, water, space, and disease can limit how large a population grows.",
+      "memoryHook": "T-Rexy says: Limiting factors cap population growth.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "populations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_063",
+      "question": "What is the difference between an observation and an inference in science?",
+      "correctAnswer": "An observation is what you see; an inference is what you conclude",
+      "distractors": [
+        "They are the same",
+        "An observation is a guess",
+        "An inference is always wrong"
+      ],
+      "explanation": "Observations use the senses; inferences are explanations based on observations.",
+      "memoryHook": "T-Rexy says: See it versus figure it out.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "science-process",
+        "inquiry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_064",
+      "question": "What is osmosis?",
+      "correctAnswer": "The movement of water across a membrane from high to low concentration",
+      "distractors": [
+        "The movement of proteins",
+        "The making of energy",
+        "The division of a cell"
+      ],
+      "explanation": "Osmosis is diffusion of water through a membrane.",
+      "memoryHook": "T-Rexy says: Osmosis is water moving to balance things out.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "transport"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_065",
+      "question": "What is a decomposer?",
+      "correctAnswer": "An organism that breaks down dead material",
+      "distractors": [
+        "An animal that hunts",
+        "A plant that makes food",
+        "A predator at the top"
+      ],
+      "explanation": "Decomposers like fungi and bacteria recycle nutrients from dead things.",
+      "memoryHook": "T-Rexy says: Decomposers are nature's recyclers.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_066",
+      "question": "What part of a cell makes energy?",
+      "correctAnswer": "The mitochondria",
+      "distractors": [
+        "The nucleus",
+        "The ribosome",
+        "The vacuole"
+      ],
+      "explanation": "Mitochondria break down sugar with oxygen in cellular respiration, releasing the energy the cell uses to do its work.",
+      "memoryHook": "T-Rexy says: Mitochondria are the cell's powerhouses.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_067",
+      "question": "If a plant has the genotype Tt for tallness, with T dominant, what will it look like?",
+      "correctAnswer": "Tall",
+      "distractors": [
+        "Short",
+        "Medium",
+        "It cannot be known"
+      ],
+      "explanation": "The plant has one T and one t, but T masks t, so the plant is tall: its genotype is Tt and its phenotype is tall.",
+      "memoryHook": "T-Rexy says: One dominant allele is enough to show.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "punnett"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_068",
+      "question": "What is the difference between a food chain and a food web?",
+      "correctAnswer": "A food chain is one path; a food web is many connected paths",
+      "distractors": [
+        "They are the same",
+        "A food web has only producers",
+        "A food chain has only predators"
+      ],
+      "explanation": "Food webs are more realistic because most organisms eat and are eaten by several species.",
+      "memoryHook": "T-Rexy says: Chains are single paths; webs are the whole map.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_069",
+      "question": "What is a producer in an ecosystem?",
+      "correctAnswer": "An organism that makes its own food",
+      "distractors": [
+        "An animal that eats plants",
+        "An animal that eats other animals",
+        "An organism that breaks down dead things"
+      ],
+      "explanation": "Producers, like plants, make food through photosynthesis.",
+      "memoryHook": "T-Rexy says: Producers make the food everyone else eats.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_070",
+      "question": "What do we call a living thing?",
+      "correctAnswer": "An organism",
+      "distractors": [
+        "A cell only",
+        "A habitat",
+        "A fossil"
+      ],
+      "explanation": "An organism is any individual living thing, from a bacterium to a whale.",
+      "memoryHook": "T-Rexy says: An organism is one living thing.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "life"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_071",
+      "question": "What is heredity?",
+      "correctAnswer": "The passing of traits from parents to offspring",
+      "distractors": [
+        "The study of rocks",
+        "The growth of plants",
+        "The movement of animals"
+      ],
+      "explanation": "Heredity works through genes in DNA: children get half their genes from each parent, which is why families share traits.",
+      "memoryHook": "T-Rexy says: Heredity is traits handed down.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "heredity"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_072",
+      "question": "What are the levels of organization in a multicellular organism, in order?",
+      "correctAnswer": "Cells, tissues, organs, organ systems",
+      "distractors": [
+        "Organs, cells, tissues, systems",
+        "Tissues, cells, organs, systems",
+        "Cells, organs, tissues, systems"
+      ],
+      "explanation": "A muscle cell is one level; many muscle cells form muscle tissue; the tissue plus others form the heart; the heart plus blood vessels form the circulatory system.",
+      "memoryHook": "T-Rexy says: Cells build tissues, tissues build organs.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organization"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_073",
+      "question": "What is the difference between a plant cell wall and a cell membrane?",
+      "correctAnswer": "The wall is a stiff outer layer; the membrane is a flexible barrier inside it",
+      "distractors": [
+        "They are the same thing",
+        "The wall is inside the membrane",
+        "Only animal cells have walls"
+      ],
+      "explanation": "The wall is made of cellulose and gives the cell its shape and strength, while the membrane underneath controls what enters and leaves.",
+      "memoryHook": "T-Rexy says: The wall is armor; the membrane is the gate.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_074",
+      "question": "What is a trait?",
+      "correctAnswer": "A characteristic of an organism, like eye color",
+      "distractors": [
+        "A type of cell",
+        "A kind of habitat",
+        "A stage of growth"
+      ],
+      "explanation": "Traits are features passed from parents to offspring, such as hair color or height.",
+      "memoryHook": "T-Rexy says: Traits are what make you, you.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "traits"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_075",
+      "question": "What is a gene?",
+      "correctAnswer": "A section of DNA that controls a trait",
+      "distractors": [
+        "A whole chromosome",
+        "A type of cell",
+        "A protein in blood"
+      ],
+      "explanation": "Genes are pieces of DNA that code for traits like eye color.",
+      "memoryHook": "T-Rexy says: Genes are recipes for traits.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "dna"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_076",
+      "question": "What is an adaptation?",
+      "correctAnswer": "A trait that helps an organism survive in its environment",
+      "distractors": [
+        "A trait that harms an organism",
+        "A change in weather",
+        "A type of habitat"
+      ],
+      "explanation": "Adaptations, like a polar bear's thick fur, help organisms survive and reproduce.",
+      "memoryHook": "T-Rexy says: Adaptations are survival tools.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "evolution",
+        "adaptations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_077",
+      "question": "Why are there usually fewer top predators than producers?",
+      "correctAnswer": "Energy is lost at each step of the food chain",
+      "distractors": [
+        "Predators eat less",
+        "Producers are bigger",
+        "Predators reproduce faster"
+      ],
+      "explanation": "Only about 10% of energy passes to the next level, so fewer organisms can be supported at the top.",
+      "memoryHook": "T-Rexy says: Energy shrinks as it moves up the chain.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "energy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_078",
+      "question": "Why do decomposers matter to an ecosystem?",
+      "correctAnswer": "They return nutrients to the soil for producers to use",
+      "distractors": [
+        "They eat all the plants",
+        "They hunt predators",
+        "They make oxygen only"
+      ],
+      "explanation": "Without decomposers, dead leaves and animals would pile up and nutrients would stay locked away instead of feeding new plants.",
+      "memoryHook": "T-Rexy says: Decomposers complete the nutrient circle.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_079",
+      "question": "What is a food web?",
+      "correctAnswer": "Many connected food chains in an ecosystem",
+      "distractors": [
+        "A single food chain",
+        "A net used to catch fish",
+        "A web made by spiders only"
+      ],
+      "explanation": "In a web, one animal can sit in several chains at once - a fox might eat rabbits, mice, and berries - so the web shows the real feeding links.",
+      "memoryHook": "T-Rexy says: A food web is many food chains woven together.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_080",
+      "question": "What is a dominant trait?",
+      "correctAnswer": "A trait that shows up even if only one copy of the gene is present",
+      "distractors": [
+        "A trait that never shows up",
+        "A trait that only shows in females",
+        "A trait that skips generations"
+      ],
+      "explanation": "A dominant allele masks a recessive one when both are present.",
+      "memoryHook": "T-Rexy says: Dominant traits win when paired with recessive ones.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "traits"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_081",
+      "question": "What is the main function of the skeletal system?",
+      "correctAnswer": "To support the body and protect organs",
+      "distractors": [
+        "To digest food",
+        "To pump blood",
+        "To sense the world"
+      ],
+      "explanation": "The skull protects the brain, the ribs shield the heart and lungs, and bone marrow inside bones makes new blood cells.",
+      "memoryHook": "T-Rexy says: Bones hold you up and guard your organs.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_082",
+      "question": "What does the vacuole do in a plant cell?",
+      "correctAnswer": "Stores water and other materials",
+      "distractors": [
+        "Makes energy",
+        "Makes proteins",
+        "Controls the cell"
+      ],
+      "explanation": "The large central vacuole in plant cells stores water and keeps the cell firm.",
+      "memoryHook": "T-Rexy says: The vacuole is the plant cell's storage tank.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_083",
+      "question": "What is prey?",
+      "correctAnswer": "An animal that is hunted by another animal",
+      "distractors": [
+        "An animal that hunts",
+        "A plant that makes food",
+        "A decomposer"
+      ],
+      "explanation": "Prey animals often have their own defenses - camouflage, speed, or herds - to escape the predators that hunt them.",
+      "memoryHook": "T-Rexy says: Prey is the hunted one.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_084",
+      "question": "What is homeostasis?",
+      "correctAnswer": "Maintaining a stable internal environment",
+      "distractors": [
+        "Growing quickly",
+        "Moving toward light",
+        "Reproducing"
+      ],
+      "explanation": "Homeostasis keeps conditions like temperature and water balance steady inside the body.",
+      "memoryHook": "T-Rexy says: Homeostasis is the body's steady balance.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_085",
+      "question": "What is mutualism?",
+      "correctAnswer": "A relationship where both species benefit",
+      "distractors": [
+        "A relationship where one benefits and the other is harmed",
+        "A relationship where one benefits and the other is unaffected",
+        "A relationship where both are harmed"
+      ],
+      "explanation": "In mutualism, both partners gain, like bees and flowers.",
+      "memoryHook": "T-Rexy says: Mutualism is win-win.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "relationships"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_086",
+      "question": "What are the levels of classification from largest to smallest?",
+      "correctAnswer": "Domain, kingdom, phylum, class, order, family, genus, species",
+      "distractors": [
+        "Species, genus, family, order, class, phylum, kingdom",
+        "Kingdom, domain, species, genus, family, order, class, phylum",
+        "Domain, species, genus, family, order, class, phylum, kingdom"
+      ],
+      "explanation": "The mnemonic 'Dear King Philip Came Over For Good Soup' gives the first letters: Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species.",
+      "memoryHook": "T-Rexy says: Dear King Philip Came Over For Good Soup.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "classification",
+        "taxonomy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_087",
+      "question": "What is a chromosome?",
+      "correctAnswer": "A structure of coiled DNA in a cell",
+      "distractors": [
+        "A type of protein",
+        "A kind of cell",
+        "A part of the heart"
+      ],
+      "explanation": "Chromosomes are long pieces of DNA found in the nucleus.",
+      "memoryHook": "T-Rexy says: Chromosomes are DNA wound up tight.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "dna"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_088",
+      "question": "What is an invasive species?",
+      "correctAnswer": "A non-native species that harms an ecosystem",
+      "distractors": [
+        "A native species",
+        "A species that is going extinct",
+        "A species that only eats plants"
+      ],
+      "explanation": "Invasive species spread quickly and can outcompete native species.",
+      "memoryHook": "T-Rexy says: Invasive species are pushy newcomers.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "biodiversity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_089",
+      "question": "What is an ecological niche?",
+      "correctAnswer": "The role and position of a species in its environment",
+      "distractors": [
+        "The place where a species lives only",
+        "The food a species eats only",
+        "The number of a species"
+      ],
+      "explanation": "A niche includes what a species eats, where it lives, and how it interacts with others.",
+      "memoryHook": "T-Rexy says: A niche is a species' job in the ecosystem.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "habitats"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_090",
+      "question": "What is a consumer in an ecosystem?",
+      "correctAnswer": "An organism that eats other organisms",
+      "distractors": [
+        "A plant that makes food",
+        "A fungus that breaks down dead matter",
+        "A rock in the soil"
+      ],
+      "explanation": "Herbivores are primary consumers, animals that eat herbivores are secondary consumers, and so on up the food chain.",
+      "memoryHook": "T-Rexy says: Consumers eat to get energy.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_091",
+      "question": "What is the chemical equation for cellular respiration in words?",
+      "correctAnswer": "Glucose + oxygen makes carbon dioxide + water + energy",
+      "distractors": [
+        "Carbon dioxide + water makes glucose + oxygen",
+        "Glucose + water makes oxygen",
+        "Oxygen + water makes energy"
+      ],
+      "explanation": "The full word equation is glucose + oxygen -> carbon dioxide + water + energy, which is the reverse of photosynthesis.",
+      "memoryHook": "T-Rexy says: Respiration is photosynthesis in reverse.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "respiration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_092",
+      "question": "What do ribosomes do?",
+      "correctAnswer": "Make proteins",
+      "distractors": [
+        "Make energy",
+        "Store water",
+        "Control the cell"
+      ],
+      "explanation": "Ribosomes build proteins following instructions from DNA.",
+      "memoryHook": "T-Rexy says: Ribosomes are the cell's protein factories.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_093",
+      "question": "What is the difference between a unicellular and a multicellular organism?",
+      "correctAnswer": "Unicellular has one cell; multicellular has many cells",
+      "distractors": [
+        "Unicellular is bigger",
+        "Multicellular has no cells",
+        "They are the same"
+      ],
+      "explanation": "Bacteria are unicellular, while humans and trees are multicellular.",
+      "memoryHook": "T-Rexy says: One cell versus many cells.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "life"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_094",
+      "question": "What is the cytoplasm?",
+      "correctAnswer": "The jelly-like material filling a cell",
+      "distractors": [
+        "The control center of a cell",
+        "The outer wall of a cell",
+        "The part that makes proteins"
+      ],
+      "explanation": "The cytoplasm holds the organelles and is where many cell activities happen.",
+      "memoryHook": "T-Rexy says: The cytoplasm is the cell's jelly filling.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_095",
+      "question": "What is natural selection?",
+      "correctAnswer": "The process where organisms with helpful traits survive and reproduce more",
+      "distractors": [
+        "Humans choosing which animals breed",
+        "A random accident",
+        "The extinction of all species"
+      ],
+      "explanation": "Over time, helpful traits become more common because those organisms leave more offspring.",
+      "memoryHook": "T-Rexy says: Natural selection is survival of the fittest traits.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "evolution",
+        "natural-selection"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_096",
+      "question": "What is a keystone species?",
+      "correctAnswer": "A species that has a big effect on its ecosystem relative to its numbers",
+      "distractors": [
+        "The most common species",
+        "The largest species",
+        "A species that eats everything"
+      ],
+      "explanation": "Removing a keystone species can change the whole ecosystem.",
+      "memoryHook": "T-Rexy says: Keystone species hold the ecosystem together.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "biodiversity"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_097",
+      "question": "What is an endangered species?",
+      "correctAnswer": "A species at risk of extinction",
+      "distractors": [
+        "A species with a large population",
+        "A species that is already extinct",
+        "A species that lives everywhere"
+      ],
+      "explanation": "Endangered species have very small populations and face threats like habitat loss.",
+      "memoryHook": "T-Rexy says: Endangered means close to disappearing.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "biodiversity"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_098",
+      "question": "Which body system removes waste from the blood?",
+      "correctAnswer": "The excretory (urinary) system",
+      "distractors": [
+        "The digestive system",
+        "The respiratory system",
+        "The muscular system"
+      ],
+      "explanation": "The kidneys filter waste from the blood and make urine.",
+      "memoryHook": "T-Rexy says: Kidneys clean the blood.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "body-systems",
+        "human-body"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_099",
+      "question": "What is a mutation?",
+      "correctAnswer": "A change in the DNA sequence",
+      "distractors": [
+        "A type of cell division",
+        "A trait passed from parents",
+        "A kind of disease only"
+      ],
+      "explanation": "Mutations change DNA and can be helpful, harmful, or neutral.",
+      "memoryHook": "T-Rexy says: A mutation is a typo in the DNA book.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "genetics",
+        "dna"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "LIF6_100",
+      "question": "What is an omnivore?",
+      "correctAnswer": "An animal that eats both plants and meat",
+      "distractors": [
+        "An animal that eats only plants",
+        "An animal that eats only meat",
+        "An animal that eats only insects"
+      ],
+      "explanation": "Omnivores, like bears and humans, eat plants and animals.",
+      "memoryHook": "T-Rexy says: Omnivores eat it all.",
+      "imageUrl": "topic:life-science",
+      "tags": [
+        "ecosystems",
+        "food-webs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

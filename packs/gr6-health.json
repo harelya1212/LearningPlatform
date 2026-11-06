@@ -1,0 +1,2017 @@
+{
+  "packId": "gr6-health",
+  "title": "Health (6th Grade)",
+  "description": "Health (6th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "health",
+    "wellness",
+    "6th"
+  ],
+  "questions": [
+    {
+      "id": "HEA6_001",
+      "question": "What should you do for a nosebleed?",
+      "correctAnswer": "Sit up, lean forward, and pinch the soft part of the nose",
+      "distractors": [
+        "Tilt your head back",
+        "Lie down flat",
+        "Blow your nose hard"
+      ],
+      "explanation": "Leaning forward keeps blood from going down the throat.",
+      "memoryHook": "T-Rexy says: Lean forward and pinch gently.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "first-aid"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_002",
+      "question": "How many hours of sleep do kids ages 6 to 12 need?",
+      "correctAnswer": "9 to 12 hours",
+      "distractors": [
+        "5 to 6 hours",
+        "6 to 7 hours",
+        "13 to 15 hours"
+      ],
+      "explanation": "Sleep is when the brain stores what you learned and the body grows - 9 to 12 hours gives it enough time to do that work.",
+      "memoryHook": "T-Rexy says: Kids need 9 to 12 hours of sleep.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "sleep",
+        "wellness"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_003",
+      "question": "Which vitamin supports your immune system?",
+      "correctAnswer": "Vitamin C",
+      "distractors": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin B"
+      ],
+      "explanation": "Vitamin C in oranges and peppers supports the immune system, though it does not stop colds by itself.",
+      "memoryHook": "T-Rexy says: Vitamin C supports your immune system!",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_004",
+      "question": "What is a fire escape plan?",
+      "correctAnswer": "A plan for how to leave a building safely in a fire",
+      "distractors": [
+        "A plan to fight a fire",
+        "A plan to hide from fire",
+        "A plan to call friends"
+      ],
+      "explanation": "Every family should know two ways out of each room.",
+      "memoryHook": "T-Rexy says: A fire plan shows how to get out fast.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "fire-safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_005",
+      "question": "What is a vitamin?",
+      "correctAnswer": "A nutrient the body needs in small amounts to stay healthy",
+      "distractors": [
+        "A type of sugar",
+        "A kind of protein",
+        "A type of fat"
+      ],
+      "explanation": "You only need tiny amounts, but without them things break down: no vitamin C and gums bleed, no vitamin D and bones stay soft.",
+      "memoryHook": "T-Rexy says: Vitamins are small helpers your body needs.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_006",
+      "question": "What are amino acids?",
+      "correctAnswer": "The building blocks of protein",
+      "distractors": [
+        "The building blocks of fat",
+        "Types of vitamins",
+        "Types of sugar"
+      ],
+      "explanation": "The body uses amino acids to build and repair tissues.",
+      "memoryHook": "T-Rexy says: Amino acids build protein.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_007",
+      "question": "What is the function of the small intestine?",
+      "correctAnswer": "To absorb nutrients into the blood",
+      "distractors": [
+        "To chew food",
+        "To store waste",
+        "To make stomach acid"
+      ],
+      "explanation": "Most nutrients pass from the small intestine into the blood.",
+      "memoryHook": "T-Rexy says: The small intestine absorbs nutrients.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "digestive"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_008",
+      "question": "What is a healthy friendship?",
+      "correctAnswer": "A friendship with respect, trust, and kindness",
+      "distractors": [
+        "A friendship where one person controls the other",
+        "A friendship with no talking",
+        "A friendship based on teasing"
+      ],
+      "explanation": "In a healthy friendship nobody is the boss: both friends listen, take turns, and feel safe to say no.",
+      "memoryHook": "T-Rexy says: Healthy friends are kind and respectful.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "relationships"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_009",
+      "question": "What is MyPlate?",
+      "correctAnswer": "A guide showing how to fill your plate with healthy foods",
+      "distractors": [
+        "A type of plate",
+        "A diet for adults only",
+        "A kind of exercise"
+      ],
+      "explanation": "MyPlate shows half the plate as fruits and vegetables, plus grains and protein.",
+      "memoryHook": "T-Rexy says: MyPlate is a picture of a healthy meal.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_010",
+      "question": "What is a trusted adult?",
+      "correctAnswer": "An adult you can go to for help and who will listen",
+      "distractors": [
+        "Any adult",
+        "A stranger",
+        "A friend your age"
+      ],
+      "explanation": "Trusted adults include parents, teachers, and counselors.",
+      "memoryHook": "T-Rexy says: A trusted adult is someone safe to tell.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "support"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_011",
+      "question": "What do the lungs do?",
+      "correctAnswer": "Take in oxygen and remove carbon dioxide",
+      "distractors": [
+        "Pump blood",
+        "Digest food",
+        "Make you think"
+      ],
+      "explanation": "Air travels down the windpipe into tiny air sacs, where oxygen passes into the blood and carbon dioxide passes out.",
+      "memoryHook": "T-Rexy says: Lungs bring in fresh air.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "respiratory"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_012",
+      "question": "What is the immune system?",
+      "correctAnswer": "The body's defense against germs",
+      "distractors": [
+        "The system that digests food",
+        "The system that pumps blood",
+        "The system that moves bones"
+      ],
+      "explanation": "White blood cells patrol the body and attack germs they recognize, and after beating a germ once they remember it for next time.",
+      "memoryHook": "T-Rexy says: The immune system is your body's guard.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "immune"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_013",
+      "question": "What is the heart?",
+      "correctAnswer": "The organ that pumps blood through the body",
+      "distractors": [
+        "The organ that digests food",
+        "The organ that helps you breathe",
+        "The organ that thinks"
+      ],
+      "explanation": "The heart is a muscle about the size of your fist that squeezes about 100,000 times a day to push blood through miles of vessels.",
+      "memoryHook": "T-Rexy says: The heart is the body's pump.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "circulatory"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_014",
+      "question": "What is the digestive system?",
+      "correctAnswer": "The system that breaks down food and absorbs nutrients",
+      "distractors": [
+        "The system that pumps blood",
+        "The system that helps you breathe",
+        "The system that moves bones"
+      ],
+      "explanation": "The digestive system includes the mouth, stomach, and intestines.",
+      "memoryHook": "T-Rexy says: Digestion turns food into nutrients.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "digestive"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_015",
+      "question": "What are the main food groups?",
+      "correctAnswer": "Fruits, vegetables, grains, protein, and dairy",
+      "distractors": [
+        "Candy, soda, chips, and cake",
+        "Only fruits and vegetables",
+        "Only meat and bread"
+      ],
+      "explanation": "MyPlate shows five food groups for a balanced diet.",
+      "memoryHook": "T-Rexy says: Five food groups make a balanced plate.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_016",
+      "question": "What is stress?",
+      "correctAnswer": "The body's response to pressure or change",
+      "distractors": [
+        "Being happy",
+        "Being bored",
+        "Being asleep"
+      ],
+      "explanation": "Stress can come from school, friends, or big changes.",
+      "memoryHook": "T-Rexy says: Stress is your body reacting to pressure.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "stress"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_017",
+      "question": "Which food group does chicken belong to?",
+      "correctAnswer": "Protein",
+      "distractors": [
+        "Grains",
+        "Fruits",
+        "Dairy"
+      ],
+      "explanation": "Chicken is mostly protein with little fat, and the body uses that protein to build muscle.",
+      "memoryHook": "T-Rexy says: Chicken is protein.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_018",
+      "question": "What is mental health?",
+      "correctAnswer": "How you think, feel, and handle life",
+      "distractors": [
+        "Only being happy",
+        "Only being strong",
+        "Never feeling sad"
+      ],
+      "explanation": "Mental health is not just feeling happy - it is being able to handle stress, bounce back from bad days, and ask for help when you need it.",
+      "memoryHook": "T-Rexy says: Mental health is how you feel and cope.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "wellness"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_019",
+      "question": "What is the skeletal system?",
+      "correctAnswer": "The bones that support and protect the body",
+      "distractors": [
+        "The muscles",
+        "The skin",
+        "The blood"
+      ],
+      "explanation": "Bones give shape, support, and protection to organs.",
+      "memoryHook": "T-Rexy says: Bones hold you up and protect you.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "skeletal"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_020",
+      "question": "What is a goal?",
+      "correctAnswer": "Something you want to achieve",
+      "distractors": [
+        "Something you already have",
+        "A kind of food",
+        "A type of exercise"
+      ],
+      "explanation": "A goal turns a wish into a plan: you pick a clear target, break it into steps, and check your progress.",
+      "memoryHook": "T-Rexy says: A goal is something you aim for.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "goals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_021",
+      "question": "Why is it important to read food labels?",
+      "correctAnswer": "To make healthy choices about what you eat",
+      "distractors": [
+        "To find the price",
+        "To find the brand",
+        "To find the color"
+      ],
+      "explanation": "Labels show sugar, salt, and nutrients so you can choose wisely.",
+      "memoryHook": "T-Rexy says: Labels help you choose healthy foods.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "labels"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_022",
+      "question": "What is the difference between a vitamin and a mineral?",
+      "correctAnswer": "Vitamins come from living things; minerals come from soil and rocks",
+      "distractors": [
+        "They are the same",
+        "Vitamins come from rocks",
+        "Minerals come from plants"
+      ],
+      "explanation": "Vitamins are made by plants and animals, while minerals come from the earth.",
+      "memoryHook": "T-Rexy says: Vitamins are from life; minerals are from earth.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_023",
+      "question": "What is herd immunity?",
+      "correctAnswer": "Protection when enough people are immune so a disease cannot spread easily",
+      "distractors": [
+        "Everyone being sick",
+        "One person being immune",
+        "A type of vaccine"
+      ],
+      "explanation": "When most people are immune, germs have few people to infect.",
+      "memoryHook": "T-Rexy says: Herd immunity protects the whole group.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "immunity",
+        "disease-prevention"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_024",
+      "question": "What is the function of the spinal cord?",
+      "correctAnswer": "To carry messages between the brain and the body",
+      "distractors": [
+        "To pump blood",
+        "To digest food",
+        "To make bones"
+      ],
+      "explanation": "The spinal cord is the main path for nerve signals.",
+      "memoryHook": "T-Rexy says: The spinal cord carries the brain's messages.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "nervous"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_025",
+      "question": "What is a healthy way to handle stress?",
+      "correctAnswer": "Exercise, talk to someone, or take deep breaths",
+      "distractors": [
+        "Yell at others",
+        "Skip meals",
+        "Stay up all night"
+      ],
+      "explanation": "Moving, talking, and slow breathing all lower stress hormones, which is why they work better than yelling or skipping meals.",
+      "memoryHook": "T-Rexy says: Move, talk, and breathe to beat stress.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "stress"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_026",
+      "question": "Which vitamin does sunlight help your body make?",
+      "correctAnswer": "Vitamin D",
+      "distractors": [
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "explanation": "Sunlight on skin helps the body make vitamin D for strong bones.",
+      "memoryHook": "T-Rexy says: Sunlight helps make vitamin D.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_027",
+      "question": "What is fiber?",
+      "correctAnswer": "A nutrient that helps digestion and keeps you full",
+      "distractors": [
+        "A type of sugar",
+        "A kind of fat",
+        "A vitamin"
+      ],
+      "explanation": "Fiber in fruits, vegetables, and whole grains helps your stomach work well.",
+      "memoryHook": "T-Rexy says: Fiber helps your digestion.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_028",
+      "question": "What is a whole grain?",
+      "correctAnswer": "A grain that keeps all its parts, like whole wheat",
+      "distractors": [
+        "A grain with no fiber",
+        "White bread only",
+        "A grain that is fried"
+      ],
+      "explanation": "Whole grains like oats and brown rice have fiber and nutrients.",
+      "memoryHook": "T-Rexy says: Whole grains keep all their good parts.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_029",
+      "question": "How much physical activity should kids get each day?",
+      "correctAnswer": "At least 60 minutes",
+      "distractors": [
+        "10 minutes",
+        "20 minutes",
+        "30 minutes"
+      ],
+      "explanation": "The 60 minutes do not have to happen all at once - walking to school, recess, and playing after dinner all add up.",
+      "memoryHook": "T-Rexy says: Kids need 60 minutes of movement a day.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "exercise"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_030",
+      "question": "What is bullying?",
+      "correctAnswer": "Repeatedly hurting or teasing someone on purpose",
+      "distractors": [
+        "A single argument",
+        "Playing a game",
+        "Teasing once"
+      ],
+      "explanation": "The key word is repeated: one argument is a disagreement, but the same person hurting you again and again on purpose is bullying.",
+      "memoryHook": "T-Rexy says: Bullying is repeated hurt on purpose.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "bullying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_031",
+      "question": "What is the difference between a complete protein and an incomplete protein?",
+      "correctAnswer": "Complete proteins have all essential amino acids; incomplete ones lack some",
+      "distractors": [
+        "They are the same",
+        "Complete proteins are plants only",
+        "Incomplete proteins are meat only"
+      ],
+      "explanation": "Meat and eggs are complete proteins; most plant proteins are incomplete.",
+      "memoryHook": "T-Rexy says: Complete protein has all the building blocks.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_032",
+      "question": "What is a sprain?",
+      "correctAnswer": "An injury to a ligament around a joint",
+      "distractors": [
+        "A broken bone",
+        "A bruise",
+        "A cut"
+      ],
+      "explanation": "Sprains happen when a ligament is stretched or torn, often in the ankle.",
+      "memoryHook": "T-Rexy says: A sprain hurts a ligament.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "injuries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_033",
+      "question": "What is a germ?",
+      "correctAnswer": "A tiny organism that can cause sickness",
+      "distractors": [
+        "A type of food",
+        "A kind of vitamin",
+        "A part of the body"
+      ],
+      "explanation": "Germs include bacteria and viruses.",
+      "memoryHook": "T-Rexy says: Germs are tiny sickness-causing organisms.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "germs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_034",
+      "question": "What is a calorie?",
+      "correctAnswer": "A unit of energy in food",
+      "distractors": [
+        "A type of vitamin",
+        "A kind of germ",
+        "A unit of weight"
+      ],
+      "explanation": "Think of calories as fuel: a granola bar has about 200, and your body burns them to run, think, and stay warm.",
+      "memoryHook": "T-Rexy says: A calorie is a unit of food energy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "energy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_035",
+      "question": "What is peer pressure?",
+      "correctAnswer": "Pressure from friends to do something",
+      "distractors": [
+        "Pressure from teachers",
+        "Pressure from parents",
+        "Pressure from yourself only"
+      ],
+      "explanation": "Peer pressure can push you toward good or bad choices.",
+      "memoryHook": "T-Rexy says: Peer pressure is friends pushing you to act.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "peers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_036",
+      "question": "What is a vaccine?",
+      "correctAnswer": "A shot that helps your body fight a disease",
+      "distractors": [
+        "A kind of medicine for a cold",
+        "A vitamin",
+        "A type of food"
+      ],
+      "explanation": "Vaccines teach the immune system to fight a disease before you get sick.",
+      "memoryHook": "T-Rexy says: Vaccines train your body to fight germs.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "immunity"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_037",
+      "question": "What are signs of a concussion?",
+      "correctAnswer": "Headache, dizziness, confusion, or memory problems",
+      "distractors": [
+        "A broken arm",
+        "A fever",
+        "A rash"
+      ],
+      "explanation": "After a head injury, these signs mean you need medical help.",
+      "memoryHook": "T-Rexy says: Headache and confusion after a hit need care.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "injuries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_038",
+      "question": "What is a balanced diet?",
+      "correctAnswer": "Eating foods from all food groups in the right amounts",
+      "distractors": [
+        "Eating only vegetables",
+        "Eating only one food",
+        "Eating as much as you want"
+      ],
+      "explanation": "No single food has everything, so a balanced diet mixes the five food groups - each group fills gaps the others leave.",
+      "memoryHook": "T-Rexy says: A balanced diet mixes all the food groups.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "balanced-diet"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_039",
+      "question": "What is the nervous system?",
+      "correctAnswer": "The system that controls the body with signals",
+      "distractors": [
+        "The system that digests food",
+        "The system that pumps blood",
+        "The system that makes bones"
+      ],
+      "explanation": "The brain, spinal cord, and nerves send messages through the body.",
+      "memoryHook": "T-Rexy says: Nerves carry the body's messages.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "nervous"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_040",
+      "question": "What is the emergency number in the United States?",
+      "correctAnswer": "911",
+      "distractors": [
+        "411",
+        "311",
+        "611"
+      ],
+      "explanation": "911 connects you to police, fire, or an ambulance, and the dispatcher will ask where you are and what happened - stay on the line.",
+      "memoryHook": "T-Rexy says: 911 is the emergency number.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "emergency"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_041",
+      "question": "What is the function of the kidneys?",
+      "correctAnswer": "To filter waste from the blood",
+      "distractors": [
+        "To pump blood",
+        "To digest food",
+        "To make you breathe"
+      ],
+      "explanation": "Kidneys remove waste and extra water, making urine.",
+      "memoryHook": "T-Rexy says: Kidneys clean the blood.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "excretory"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_042",
+      "question": "What does nicotine do to the body?",
+      "correctAnswer": "It is addictive and harms the lungs and heart",
+      "distractors": [
+        "It makes you stronger",
+        "It helps you sleep",
+        "It has no effect"
+      ],
+      "explanation": "Nicotine in cigarettes and vapes is addictive and damages health.",
+      "memoryHook": "T-Rexy says: Nicotine is addictive and harmful.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "drugs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_043",
+      "question": "What is health?",
+      "correctAnswer": "A state of physical, mental, and social well-being",
+      "distractors": [
+        "Being free of all germs",
+        "Only being strong",
+        "Only eating vegetables"
+      ],
+      "explanation": "The World Health Organization defines health as complete physical, mental, and social well-being - not just the absence of sickness.",
+      "memoryHook": "T-Rexy says: Health is body, mind, and friendships together.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "wellness"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_044",
+      "question": "What is the difference between a concussion and a bruise?",
+      "correctAnswer": "A concussion is a brain injury; a bruise is bleeding under the skin",
+      "distractors": [
+        "They are the same",
+        "A concussion is a bruise",
+        "A bruise is a brain injury"
+      ],
+      "explanation": "A concussion happens when the brain is shaken inside the skull.",
+      "memoryHook": "T-Rexy says: A concussion hurts the brain; a bruise hurts the skin.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "injuries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_045",
+      "question": "What does iron do for your body?",
+      "correctAnswer": "Helps blood carry oxygen",
+      "distractors": [
+        "Makes bones strong",
+        "Helps you see",
+        "Builds muscles only"
+      ],
+      "explanation": "Iron helps red blood cells carry oxygen around the body.",
+      "memoryHook": "T-Rexy says: Iron helps your blood carry oxygen.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_046",
+      "question": "Which vitamin helps your eyes see well?",
+      "correctAnswer": "Vitamin A",
+      "distractors": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B"
+      ],
+      "explanation": "Vitamin A, found in carrots and sweet potatoes, supports vision.",
+      "memoryHook": "T-Rexy says: Vitamin A helps your eyes.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_047",
+      "question": "What is the circulatory system?",
+      "correctAnswer": "The system that moves blood around the body",
+      "distractors": [
+        "The system that digests food",
+        "The system that helps you breathe",
+        "The system that controls thoughts"
+      ],
+      "explanation": "The heart, blood, and vessels make up the circulatory system.",
+      "memoryHook": "T-Rexy says: Circulation moves blood everywhere.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "circulatory"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_048",
+      "question": "What does calcium do for your body?",
+      "correctAnswer": "Builds strong bones and teeth",
+      "distractors": [
+        "Makes you taller instantly",
+        "Gives you energy",
+        "Helps you see"
+      ],
+      "explanation": "Calcium from milk and leafy greens keeps bones strong.",
+      "memoryHook": "T-Rexy says: Calcium builds strong bones.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_049",
+      "question": "What are signs of dehydration?",
+      "correctAnswer": "Thirst, dry mouth, and dark urine",
+      "distractors": [
+        "Feeling full",
+        "Feeling cold",
+        "Feeling sleepy only"
+      ],
+      "explanation": "By the time you feel thirsty you are already a little dehydrated, and dark yellow urine is another early warning sign.",
+      "memoryHook": "T-Rexy says: Thirst and dark urine mean drink water.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_050",
+      "question": "How long should you wash your hands with soap?",
+      "correctAnswer": "At least 20 seconds",
+      "distractors": [
+        "2 seconds",
+        "5 seconds",
+        "1 minute"
+      ],
+      "explanation": "Washing for 20 seconds removes most germs.",
+      "memoryHook": "T-Rexy says: Sing Happy Birthday twice while you wash.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "handwashing"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_051",
+      "question": "What is wellness?",
+      "correctAnswer": "Actively making choices for a healthy life",
+      "distractors": [
+        "Being sick",
+        "Ignoring your body",
+        "Only exercising"
+      ],
+      "explanation": "Wellness is active, not luck: it means choosing sleep, movement, and good food on purpose instead of waiting until you feel sick.",
+      "memoryHook": "T-Rexy says: Wellness is living healthy on purpose.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "wellness"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_052",
+      "question": "Which food group does milk belong to?",
+      "correctAnswer": "Dairy",
+      "distractors": [
+        "Grains",
+        "Protein",
+        "Fruits"
+      ],
+      "explanation": "Dairy foods come from milk - cheese and yogurt count too, and they are the main source of calcium in most kids' diets.",
+      "memoryHook": "T-Rexy says: Milk is dairy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_053",
+      "question": "What does the ingredients list on a food label show?",
+      "correctAnswer": "The ingredients in the food, from most to least",
+      "distractors": [
+        "The price of the food",
+        "The color of the package",
+        "The name of the store"
+      ],
+      "explanation": "Ingredients are listed in order by weight, so the first ingredient is the one there is most of.",
+      "memoryHook": "T-Rexy says: First ingredient means most of it!",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "labels"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_054",
+      "question": "What is the difference between a need and a want?",
+      "correctAnswer": "A need is required to live; a want is nice to have",
+      "distractors": [
+        "They are the same",
+        "A want is required",
+        "A need is nice to have"
+      ],
+      "explanation": "Food and water are needs; toys are wants.",
+      "memoryHook": "T-Rexy says: Needs keep you alive; wants are extras.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "decisions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_055",
+      "question": "What is the difference between a virus and a bacterium?",
+      "correctAnswer": "Bacteria are living cells; viruses need a host cell to reproduce",
+      "distractors": [
+        "They are the same",
+        "Viruses are living cells",
+        "Bacteria need a host cell"
+      ],
+      "explanation": "Bacteria are single cells that eat and divide by themselves; a virus is just a package of instructions that can only copy itself inside a living cell.",
+      "memoryHook": "T-Rexy says: Bacteria live alone; viruses need a host.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "germs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_056",
+      "question": "Why should you wear a helmet when riding a bike?",
+      "correctAnswer": "To protect your head from injury",
+      "distractors": [
+        "To look cool",
+        "To go faster",
+        "To stay warm"
+      ],
+      "explanation": "A helmet can prevent serious head injuries in a fall.",
+      "memoryHook": "T-Rexy says: A helmet protects your brain.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "bike-safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_057",
+      "question": "What is consent?",
+      "correctAnswer": "Permission given freely for something to happen",
+      "distractors": [
+        "Being forced to agree",
+        "Ignoring someone",
+        "Saying nothing"
+      ],
+      "explanation": "Consent means saying yes freely, and it can be taken back.",
+      "memoryHook": "T-Rexy says: Consent is a free and clear yes.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "relationships"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_058",
+      "question": "When should you wash your hands?",
+      "correctAnswer": "Before eating and after using the bathroom",
+      "distractors": [
+        "Only in the morning",
+        "Only when they look dirty",
+        "Only before bed"
+      ],
+      "explanation": "Handwashing stops germs from spreading.",
+      "memoryHook": "T-Rexy says: Wash before eating and after the bathroom.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "handwashing"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_059",
+      "question": "What is the respiratory system?",
+      "correctAnswer": "The system that brings in oxygen",
+      "distractors": [
+        "The system that digests food",
+        "The system that pumps blood",
+        "The system that moves bones"
+      ],
+      "explanation": "The respiratory system includes the nose, trachea, and lungs.",
+      "memoryHook": "T-Rexy says: Breathing is the respiratory system.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "respiratory"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_060",
+      "question": "What is dehydration?",
+      "correctAnswer": "Not having enough water in the body",
+      "distractors": [
+        "Having too much water",
+        "Not eating enough",
+        "Sleeping too little"
+      ],
+      "explanation": "Dehydration can cause headaches, tiredness, and dizziness.",
+      "memoryHook": "T-Rexy says: Dehydration means you need water.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_061",
+      "question": "Why should you finish all of your antibiotics?",
+      "correctAnswer": "To kill all the bacteria and prevent resistance",
+      "distractors": [
+        "To save money",
+        "To avoid side effects",
+        "To make them taste better"
+      ],
+      "explanation": "Stopping early can let strong bacteria survive and become resistant.",
+      "memoryHook": "T-Rexy says: Finish antibiotics so germs cannot come back stronger.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "medicine"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_062",
+      "question": "What is empathy?",
+      "correctAnswer": "Understanding how someone else feels",
+      "distractors": [
+        "Ignoring others",
+        "Being angry",
+        "Being selfish"
+      ],
+      "explanation": "Empathy is noticing how someone feels from their face and words, and imagining how you would feel in their place.",
+      "memoryHook": "T-Rexy says: Empathy is feeling with someone else.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "emotions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_063",
+      "question": "Which food group does bread belong to?",
+      "correctAnswer": "Grains",
+      "distractors": [
+        "Fruits",
+        "Protein",
+        "Dairy"
+      ],
+      "explanation": "Bread is made from grains like wheat.",
+      "memoryHook": "T-Rexy says: Bread comes from grains.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_064",
+      "question": "What is depression?",
+      "correctAnswer": "A long period of sadness and loss of interest",
+      "distractors": [
+        "Being tired for one day",
+        "Being bored",
+        "Being angry once"
+      ],
+      "explanation": "Depression lasts weeks or more and needs support and care.",
+      "memoryHook": "T-Rexy says: Depression is lasting sadness that needs help.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "emotions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_065",
+      "question": "What is the function of the large intestine?",
+      "correctAnswer": "To absorb water and form waste",
+      "distractors": [
+        "To absorb nutrients",
+        "To digest proteins",
+        "To pump blood"
+      ],
+      "explanation": "After the small intestine takes the nutrients, the large intestine soaks up the leftover water - that is what turns liquid waste into solid stool.",
+      "memoryHook": "T-Rexy says: The large intestine reclaims water.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "digestive"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_066",
+      "question": "Which food group do carrots belong to?",
+      "correctAnswer": "Vegetables",
+      "distractors": [
+        "Fruits",
+        "Grains",
+        "Dairy"
+      ],
+      "explanation": "Carrots grow underground as roots, and their orange color comes from beta-carotene, which the body turns into vitamin A.",
+      "memoryHook": "T-Rexy says: Carrots are vegetables.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_067",
+      "question": "How much of your plate should be fruits and vegetables?",
+      "correctAnswer": "About half",
+      "distractors": [
+        "About a quarter",
+        "The whole plate",
+        "None"
+      ],
+      "explanation": "Fruits and vegetables are low in calories but high in fiber and vitamins, so half a plate of them fills you up without overloading on energy.",
+      "memoryHook": "T-Rexy says: Half your plate should be fruits and veggies.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_068",
+      "question": "What is the function of the liver?",
+      "correctAnswer": "To clean the blood and help digest fats",
+      "distractors": [
+        "To pump blood",
+        "To make you breathe",
+        "To store urine"
+      ],
+      "explanation": "The liver filters blood and makes bile to digest fats.",
+      "memoryHook": "T-Rexy says: The liver cleans blood and helps digestion.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "digestive"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_069",
+      "question": "How many glasses of water should kids drink each day?",
+      "correctAnswer": "About 6 to 8 glasses",
+      "distractors": [
+        "1 glass",
+        "2 glasses",
+        "20 glasses"
+      ],
+      "explanation": "Kids need about 6 to 8 cups of water a day, more when active.",
+      "memoryHook": "T-Rexy says: About 6 to 8 glasses a day keeps you hydrated.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_070",
+      "question": "What is the muscular system?",
+      "correctAnswer": "The muscles that move the body",
+      "distractors": [
+        "The bones",
+        "The skin",
+        "The blood"
+      ],
+      "explanation": "Muscles work with bones to create movement.",
+      "memoryHook": "T-Rexy says: Muscles make you move.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "muscular"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_071",
+      "question": "What should you do if you see bullying?",
+      "correctAnswer": "Tell a trusted adult",
+      "distractors": [
+        "Join in",
+        "Ignore it always",
+        "Laugh at it"
+      ],
+      "explanation": "Telling an adult helps stop bullying and keeps people safe.",
+      "memoryHook": "T-Rexy says: Tell a trusted adult.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "bullying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_072",
+      "question": "What is a habit?",
+      "correctAnswer": "Something you do regularly",
+      "distractors": [
+        "Something you do once",
+        "A type of food",
+        "A kind of germ"
+      ],
+      "explanation": "Habits like brushing teeth become automatic over time.",
+      "memoryHook": "T-Rexy says: A habit is something you do often.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "habits"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_073",
+      "question": "What is a nutrient?",
+      "correctAnswer": "A substance in food that the body needs",
+      "distractors": [
+        "A type of exercise",
+        "A kind of germ",
+        "A vitamin pill only"
+      ],
+      "explanation": "Nutrients include vitamins, minerals, protein, and carbohydrates.",
+      "memoryHook": "T-Rexy says: Nutrients are the useful parts of food.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_074",
+      "question": "What should you do first for a small cut?",
+      "correctAnswer": "Wash it with soap and water and cover it",
+      "distractors": [
+        "Put dirt on it",
+        "Ignore it",
+        "Rub it hard"
+      ],
+      "explanation": "Soap and water wash out dirt and germs that cause infection, and the bandage keeps new germs out while the skin heals.",
+      "memoryHook": "T-Rexy says: Clean it, then cover it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "first-aid"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_075",
+      "question": "What is lactose intolerance?",
+      "correctAnswer": "Trouble digesting milk sugar",
+      "distractors": [
+        "An allergy to milk",
+        "A dislike of milk",
+        "A disease of the bones"
+      ],
+      "explanation": "People with lactose intolerance lack enough lactase to digest milk.",
+      "memoryHook": "T-Rexy says: Lactose intolerance means milk is hard to digest.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "digestion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_076",
+      "question": "Why should you limit sugary drinks?",
+      "correctAnswer": "They add sugar and calories without nutrients",
+      "distractors": [
+        "They make you stronger",
+        "They replace water",
+        "They help you sleep"
+      ],
+      "explanation": "Soda and sweet drinks can lead to cavities and weight gain.",
+      "memoryHook": "T-Rexy says: Sugary drinks add sugar with no nutrition.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "sugar"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_077",
+      "question": "What are antibiotics used for?",
+      "correctAnswer": "To kill bacteria",
+      "distractors": [
+        "To kill viruses",
+        "To cure all diseases",
+        "To prevent all sickness"
+      ],
+      "explanation": "Antibiotics attack parts only bacteria have, like cell walls - viruses do not have those parts, so the medicine has nothing to attack.",
+      "memoryHook": "T-Rexy says: Antibiotics fight bacteria, not viruses.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "medicine"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_078",
+      "question": "What does the stomach do?",
+      "correctAnswer": "Breaks down food",
+      "distractors": [
+        "Pumps blood",
+        "Makes you think",
+        "Helps you breathe"
+      ],
+      "explanation": "The stomach mixes food with acids to digest it.",
+      "memoryHook": "T-Rexy says: The stomach starts digesting your food.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "digestive"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_079",
+      "question": "What does the brain do?",
+      "correctAnswer": "Controls the body and helps you think",
+      "distractors": [
+        "Pumps blood",
+        "Digests food",
+        "Makes you breathe"
+      ],
+      "explanation": "The brain controls movement, thoughts, and feelings.",
+      "memoryHook": "T-Rexy says: The brain is the body's control center.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "nervous"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_080",
+      "question": "What is a drug?",
+      "correctAnswer": "A substance that changes how the body or mind works",
+      "distractors": [
+        "Only illegal substances",
+        "Only medicine",
+        "A type of food"
+      ],
+      "explanation": "Drugs include medicine, alcohol, nicotine, and illegal substances.",
+      "memoryHook": "T-Rexy says: A drug changes how your body or mind works.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "drugs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_081",
+      "question": "What should you do if your clothes catch fire?",
+      "correctAnswer": "Stop, drop, and roll",
+      "distractors": [
+        "Run quickly",
+        "Pour water on your head",
+        "Wave your arms"
+      ],
+      "explanation": "Stop, drop, and roll smothers the flames.",
+      "memoryHook": "T-Rexy says: Stop, drop, and roll puts out the fire.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "fire-safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_082",
+      "question": "What is a food allergy?",
+      "correctAnswer": "An immune reaction to a food",
+      "distractors": [
+        "Disliking a food",
+        "Eating too much",
+        "A stomachache from eating fast"
+      ],
+      "explanation": "Food allergies can cause hives, swelling, or trouble breathing.",
+      "memoryHook": "T-Rexy says: A food allergy is an immune reaction.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "allergies"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_083",
+      "question": "Why should you wear sunscreen?",
+      "correctAnswer": "To protect your skin from harmful UV rays",
+      "distractors": [
+        "To stay warm",
+        "To look tan",
+        "To keep bugs away"
+      ],
+      "explanation": "UV rays are invisible light that damages skin cells; sunscreen absorbs or reflects them, and it wears off, so you must reapply.",
+      "memoryHook": "T-Rexy says: Sunscreen blocks harmful sun rays.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "sun-safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_084",
+      "question": "What is a serving size?",
+      "correctAnswer": "The amount of food listed on a label",
+      "distractors": [
+        "The whole package",
+        "One bite",
+        "As much as you want"
+      ],
+      "explanation": "Nutrition facts are based on one serving, not the whole package.",
+      "memoryHook": "T-Rexy says: A serving is the amount the label counts.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "labels"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_085",
+      "question": "Why should you brush your teeth twice a day?",
+      "correctAnswer": "To remove plaque and prevent cavities",
+      "distractors": [
+        "To make teeth whiter only",
+        "To make breath smell good only",
+        "To make teeth grow"
+      ],
+      "explanation": "Brushing removes food and bacteria that cause cavities.",
+      "memoryHook": "T-Rexy says: Brushing stops cavities before they start.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "hygiene",
+        "dental"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_086",
+      "question": "What does protein do for your body?",
+      "correctAnswer": "Builds and repairs muscles and tissues",
+      "distractors": [
+        "Gives quick energy only",
+        "Makes bones soft",
+        "Stores water"
+      ],
+      "explanation": "Protein is made of amino acids, and the body links them together to build muscle, skin, and the cells that fight infection.",
+      "memoryHook": "T-Rexy says: Protein builds and repairs your body.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_087",
+      "question": "Why is water important for your body?",
+      "correctAnswer": "It keeps you hydrated and helps your body work",
+      "distractors": [
+        "It makes you taller",
+        "It replaces food",
+        "It makes you sleepy"
+      ],
+      "explanation": "Water carries nutrients, removes waste, and controls temperature.",
+      "memoryHook": "T-Rexy says: Water keeps your body running.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_088",
+      "question": "What is the Heimlich maneuver used for?",
+      "correctAnswer": "To help someone who is choking",
+      "distractors": [
+        "To help someone who is bleeding",
+        "To help someone who fainted",
+        "To help someone with a broken bone"
+      ],
+      "explanation": "Abdominal thrusts can push out food blocking the airway.",
+      "memoryHook": "T-Rexy says: The Heimlich helps a choking person.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "first-aid"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_089",
+      "question": "What is a fracture?",
+      "correctAnswer": "A broken bone",
+      "distractors": [
+        "A sprained ankle",
+        "A bruise",
+        "A cut"
+      ],
+      "explanation": "A fracture can be a tiny crack or a bone broken in two - either way the bone needs rest, often in a cast, to grow back together.",
+      "memoryHook": "T-Rexy says: A fracture is a broken bone.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "skeletal"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_090",
+      "question": "Which food group do apples belong to?",
+      "correctAnswer": "Fruits",
+      "distractors": [
+        "Vegetables",
+        "Grains",
+        "Protein"
+      ],
+      "explanation": "Apples are fruits because they grow from a flower and hold seeds inside - and one medium apple has about 4 grams of fiber.",
+      "memoryHook": "T-Rexy says: Apples are fruits.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_091",
+      "question": "What is physical activity?",
+      "correctAnswer": "Any movement that uses your muscles",
+      "distractors": [
+        "Only playing sports",
+        "Only running",
+        "Sitting still"
+      ],
+      "explanation": "Walking, dancing, and playing all count as physical activity.",
+      "memoryHook": "T-Rexy says: Moving your body is physical activity.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "exercise"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_092",
+      "question": "What is the glycemic index?",
+      "correctAnswer": "A measure of how fast a food raises blood sugar",
+      "distractors": [
+        "A measure of fat in food",
+        "A measure of protein",
+        "A measure of calories only"
+      ],
+      "explanation": "The glycemic index ranks foods 0 to 100 by how fast they turn into blood sugar: white bread is near 70, while lentils are near 30.",
+      "memoryHook": "T-Rexy says: Glycemic index tracks blood sugar speed.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "sugar"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_093",
+      "question": "What is added sugar?",
+      "correctAnswer": "Sugar added to food during processing",
+      "distractors": [
+        "Sugar found naturally in fruit",
+        "A type of vitamin",
+        "Sugar in milk"
+      ],
+      "explanation": "Added sugar in soda and candy gives energy but few nutrients.",
+      "memoryHook": "T-Rexy says: Added sugar is sugar put in during making.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "sugar"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_094",
+      "question": "What do carbohydrates give your body?",
+      "correctAnswer": "Energy",
+      "distractors": [
+        "Strong bones",
+        "Sharp eyesight",
+        "Better hearing"
+      ],
+      "explanation": "Carbs break down into glucose, the fuel the brain and muscles use first - that is why athletes eat pasta before a big game.",
+      "memoryHook": "T-Rexy says: Carbs are fuel for your body.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_095",
+      "question": "What is a neuron?",
+      "correctAnswer": "A nerve cell that carries signals",
+      "distractors": [
+        "A blood cell",
+        "A muscle cell",
+        "A bone cell"
+      ],
+      "explanation": "Neurons send electrical signals through the nervous system.",
+      "memoryHook": "T-Rexy says: Neurons are the nervous system's messengers.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body-systems",
+        "nervous"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_096",
+      "question": "What is the RICE method for injuries?",
+      "correctAnswer": "Rest, Ice, Compression, Elevation",
+      "distractors": [
+        "Run, Ice, Call, Eat",
+        "Rest, Heat, Compression, Exercise",
+        "Run, Jump, Climb, Eat"
+      ],
+      "explanation": "RICE helps treat sprains and strains.",
+      "memoryHook": "T-Rexy says: RICE is Rest, Ice, Compression, Elevation.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "first-aid"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_097",
+      "question": "What is the difference between saturated and unsaturated fat?",
+      "correctAnswer": "Saturated fat is usually solid and less healthy; unsaturated fat is usually liquid and healthier",
+      "distractors": [
+        "They are the same",
+        "Saturated fat is healthier",
+        "Unsaturated fat is solid"
+      ],
+      "explanation": "Olive oil is unsaturated, while butter is saturated.",
+      "memoryHook": "T-Rexy says: Liquid fats are usually the healthier kind.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_098",
+      "question": "Why is sleep important?",
+      "correctAnswer": "It helps your body grow and your brain learn",
+      "distractors": [
+        "It makes you taller instantly",
+        "It replaces food",
+        "It makes you hungry"
+      ],
+      "explanation": "Sleep helps memory, growth, and mood.",
+      "memoryHook": "T-Rexy says: Sleep helps you grow and learn.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "sleep",
+        "wellness"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_099",
+      "question": "What is CPR?",
+      "correctAnswer": "An emergency method to keep blood and oxygen moving when the heart stops",
+      "distractors": [
+        "A type of exercise",
+        "A medicine",
+        "A kind of surgery"
+      ],
+      "explanation": "CPR uses chest compressions to help a person whose heart has stopped.",
+      "memoryHook": "T-Rexy says: CPR keeps blood moving in an emergency.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "first-aid"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_100",
+      "question": "What is anxiety?",
+      "correctAnswer": "Feeling worried or nervous",
+      "distractors": [
+        "Feeling happy",
+        "Feeling bored",
+        "Feeling sleepy"
+      ],
+      "explanation": "A little anxiety before a test is normal and can even help you focus, but worry that lasts weeks and stops you doing things needs support.",
+      "memoryHook": "T-Rexy says: Anxiety is worry and nervousness.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "emotions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}
