@@ -1,0 +1,2016 @@
+{
+  "packId": "gr5-math",
+  "title": "Math (5th Grade)",
+  "description": "Math (5th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "math",
+    "5th"
+  ],
+  "questions": [
+    {
+      "id": "MAT5_001",
+      "question": "What is 1/4 + 3/4?",
+      "correctAnswer": "1",
+      "distractors": [
+        "1 1/4",
+        "4/5",
+        "7/8"
+      ],
+      "explanation": "Add the numerators over the same denominator 4: 1+3=4, so 4/4 = 1 whole.",
+      "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "addition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_002",
+      "question": "What is 2/5 + 4/5?",
+      "correctAnswer": "1 1/5",
+      "distractors": [
+        "1 2/5",
+        "1",
+        "1 1/10"
+      ],
+      "explanation": "Add the numerators over the same denominator 5: 2+4=6, so 6/5 = 1 1/5.",
+      "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "addition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_003",
+      "question": "What is 3/8 + 5/8?",
+      "correctAnswer": "1",
+      "distractors": [
+        "1 1/8",
+        "8/9",
+        "15/16"
+      ],
+      "explanation": "Add the numerators over the same denominator 8: 3+5=8, so 8/8 = 1 whole.",
+      "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "addition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_004",
+      "question": "What is 1/3 + 2/3?",
+      "correctAnswer": "1",
+      "distractors": [
+        "1 1/3",
+        "3/4",
+        "5/6"
+      ],
+      "explanation": "Add the numerators over the same denominator 3: 1+2=3, so 3/3 = 1 whole.",
+      "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "addition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_005",
+      "question": "What is 5/6 + 1/6?",
+      "correctAnswer": "1",
+      "distractors": [
+        "1 1/6",
+        "6/7",
+        "11/12"
+      ],
+      "explanation": "Add the numerators over the same denominator 6: 5+1=6, so 6/6 = 1 whole.",
+      "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "addition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_006",
+      "question": "What is 2/7 + 5/7?",
+      "correctAnswer": "1",
+      "distractors": [
+        "1 1/7",
+        "7/8",
+        "13/14"
+      ],
+      "explanation": "Add the numerators over the same denominator 7: 2+5=7, so 7/7 = 1 whole.",
+      "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "addition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_007",
+      "question": "What is 3/10 + 7/10?",
+      "correctAnswer": "1",
+      "distractors": [
+        "1 1/10",
+        "10/11",
+        "19/20"
+      ],
+      "explanation": "Add the numerators over the same denominator 10: 3+7=10, so 10/10 = 1 whole.",
+      "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "addition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_008",
+      "question": "What is 4/9 + 8/9?",
+      "correctAnswer": "1 1/3",
+      "distractors": [
+        "1 4/9",
+        "1 1/5",
+        "1 5/18"
+      ],
+      "explanation": "Add the numerators over the same denominator 9: 4+8=12, so 12/9 = 1 1/3.",
+      "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "addition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_009",
+      "question": "Which fraction is equivalent to 1/2?",
+      "correctAnswer": "3/6",
+      "distractors": [
+        "2/2",
+        "1/3",
+        "4/6"
+      ],
+      "explanation": "Multiply the top and bottom by 3: 1x3=3 and 2x3=6.",
+      "memoryHook": "T-Rexy says: multiply top and bottom by the same number and the size stays the same!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "equivalent"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_010",
+      "question": "Which fraction is equivalent to 2/3?",
+      "correctAnswer": "8/12",
+      "distractors": [
+        "3/3",
+        "2/4",
+        "9/12"
+      ],
+      "explanation": "Multiply the top and bottom by 4: 2x4=8 and 3x4=12.",
+      "memoryHook": "T-Rexy says: multiply top and bottom by the same number and the size stays the same!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "equivalent"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_011",
+      "question": "Which fraction is equivalent to 3/4?",
+      "correctAnswer": "6/8",
+      "distractors": [
+        "4/4",
+        "3/5",
+        "7/8"
+      ],
+      "explanation": "Multiply the top and bottom by 2: 3x2=6 and 4x2=8.",
+      "memoryHook": "T-Rexy says: multiply top and bottom by the same number and the size stays the same!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "equivalent"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_012",
+      "question": "Which fraction is equivalent to 1/3?",
+      "correctAnswer": "5/15",
+      "distractors": [
+        "2/3",
+        "1/4",
+        "6/15"
+      ],
+      "explanation": "Multiply the top and bottom by 5: 1x5=5 and 3x5=15.",
+      "memoryHook": "T-Rexy says: multiply top and bottom by the same number and the size stays the same!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "equivalent"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_013",
+      "question": "Which fraction is equivalent to 3/5?",
+      "correctAnswer": "9/15",
+      "distractors": [
+        "4/5",
+        "3/6",
+        "10/15"
+      ],
+      "explanation": "Multiply the top and bottom by 3: 3x3=9 and 5x3=15.",
+      "memoryHook": "T-Rexy says: multiply top and bottom by the same number and the size stays the same!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "equivalent"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_014",
+      "question": "Which fraction is equivalent to 2/5?",
+      "correctAnswer": "8/20",
+      "distractors": [
+        "3/5",
+        "2/6",
+        "9/20"
+      ],
+      "explanation": "Multiply the top and bottom by 4: 2x4=8 and 5x4=20.",
+      "memoryHook": "T-Rexy says: multiply top and bottom by the same number and the size stays the same!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "equivalent"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_015",
+      "question": "In the number 5.482, which digit is in the hundredths place?",
+      "correctAnswer": "8",
+      "distractors": [
+        "4",
+        "2",
+        "5"
+      ],
+      "explanation": "Tenths is the first digit after the point (4), hundredths is the second (8), thousandths is the third (2).",
+      "memoryHook": "T-Rexy says: tenths, hundredths, thousandths - count the steps after the dot!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "place-value"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_016",
+      "question": "Which decimal is read as 'three and twenty-five hundredths'?",
+      "correctAnswer": "3.25",
+      "distractors": [
+        "3.025",
+        "32.5",
+        "3.52"
+      ],
+      "explanation": "'Three' is the whole number, 'twenty-five hundredths' is .25, so the number is 3.25.",
+      "memoryHook": "T-Rexy says: say it like a roar - the word AND marks the decimal point!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "place-value"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_017",
+      "question": "Which decimal is greater: 0.6 or 0.59?",
+      "correctAnswer": "0.6",
+      "distractors": [
+        "0.59",
+        "They are equal",
+        "0.06"
+      ],
+      "explanation": "0.6 = 0.60, and 0.60 is greater than 0.59.",
+      "memoryHook": "T-Rexy says: give both decimals the same number of tail digits, then compare!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "compare"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_018",
+      "question": "What is 0.7 + 0.5?",
+      "correctAnswer": "1.2",
+      "distractors": [
+        "0.12",
+        "1.1",
+        "0.75"
+      ],
+      "explanation": "7 tenths + 5 tenths = 12 tenths = 1.2.",
+      "memoryHook": "T-Rexy says: tenths add up just like whole numbers - then place the dot!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "addition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_019",
+      "question": "Round 4.68 to the nearest tenth.",
+      "correctAnswer": "4.7",
+      "distractors": [
+        "4.6",
+        "4.8",
+        "5.0"
+      ],
+      "explanation": "The hundredths digit is 8, which is 5 or more, so the tenths digit 6 rounds up to 7.",
+      "memoryHook": "T-Rexy says: look next door - 5 or more means round up!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "rounding"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_020",
+      "question": "Which is the smallest decimal: 0.45, 0.54, 0.405, 0.5?",
+      "correctAnswer": "0.405",
+      "distractors": [
+        "0.45",
+        "0.5",
+        "0.54"
+      ],
+      "explanation": "Write them with three places: 0.450, 0.540, 0.405, 0.500. The smallest is 0.405.",
+      "memoryHook": "T-Rexy says: line up the decimal points and compare digit by digit!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "compare"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_021",
+      "question": "A box is 4 cm long, 3 cm wide, and 2 cm tall. What is its volume?",
+      "correctAnswer": "24 cubic cm",
+      "distractors": [
+        "12 square cm",
+        "20 cubic cm",
+        "28 cubic cm"
+      ],
+      "explanation": "Volume = length x width x height = 4 x 3 x 2 = 24 cubic cm.",
+      "memoryHook": "T-Rexy says: multiply all three sides - length AND width AND height!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "measurement"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_022",
+      "question": "A box is 5 cm long, 2 cm wide, and 2 cm tall. What is its volume?",
+      "correctAnswer": "20 cubic cm",
+      "distractors": [
+        "10 square cm",
+        "15 cubic cm",
+        "25 cubic cm"
+      ],
+      "explanation": "Volume = length x width x height = 5 x 2 x 2 = 20 cubic cm.",
+      "memoryHook": "T-Rexy says: multiply all three sides - length AND width AND height!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "measurement"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_023",
+      "question": "A box is 3 cm long, 3 cm wide, and 3 cm tall. What is its volume?",
+      "correctAnswer": "27 cubic cm",
+      "distractors": [
+        "9 square cm",
+        "24 cubic cm",
+        "30 cubic cm"
+      ],
+      "explanation": "Volume = length x width x height = 3 x 3 x 3 = 27 cubic cm.",
+      "memoryHook": "T-Rexy says: multiply all three sides - length AND width AND height!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "measurement"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_024",
+      "question": "A box is 6 cm long, 2 cm wide, and 3 cm tall. What is its volume?",
+      "correctAnswer": "36 cubic cm",
+      "distractors": [
+        "12 square cm",
+        "30 cubic cm",
+        "42 cubic cm"
+      ],
+      "explanation": "Volume = length x width x height = 6 x 2 x 3 = 36 cubic cm.",
+      "memoryHook": "T-Rexy says: multiply all three sides - length AND width AND height!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "measurement"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_025",
+      "question": "A box is 4 cm long, 4 cm wide, and 2 cm tall. What is its volume?",
+      "correctAnswer": "32 cubic cm",
+      "distractors": [
+        "16 square cm",
+        "28 cubic cm",
+        "36 cubic cm"
+      ],
+      "explanation": "Volume = length x width x height = 4 x 4 x 2 = 32 cubic cm.",
+      "memoryHook": "T-Rexy says: multiply all three sides - length AND width AND height!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "measurement"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_026",
+      "question": "A box is 2 cm long, 5 cm wide, and 4 cm tall. What is its volume?",
+      "correctAnswer": "40 cubic cm",
+      "distractors": [
+        "10 square cm",
+        "38 cubic cm",
+        "42 cubic cm"
+      ],
+      "explanation": "Volume = length x width x height = 2 x 5 x 4 = 40 cubic cm.",
+      "memoryHook": "T-Rexy says: multiply all three sides - length AND width AND height!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "measurement"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_027",
+      "question": "What is 4,326 + 2,587?",
+      "correctAnswer": "6,913",
+      "distractors": [
+        "6,813",
+        "6,903",
+        "5,913"
+      ],
+      "explanation": "Add column by column with carrying: 4,326 + 2,587 = 6,913.",
+      "memoryHook": "T-Rexy says: add column by column and carry the tens like dino eggs!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "addition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_028",
+      "question": "What is 7,000 - 3,485?",
+      "correctAnswer": "3,515",
+      "distractors": [
+        "3,525",
+        "4,515",
+        "3,415"
+      ],
+      "explanation": "Borrow across the zeros: 7,000 - 3,485 = 3,515.",
+      "memoryHook": "T-Rexy says: borrowing across zeros is just trading one thousand for ten hundreds!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "subtraction"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_029",
+      "question": "What is 36 x 7?",
+      "correctAnswer": "252",
+      "distractors": [
+        "242",
+        "259",
+        "216"
+      ],
+      "explanation": "36 x 7 = 252 (30 x 7 = 210 and 6 x 7 = 42; 210 + 42 = 252).",
+      "memoryHook": "T-Rexy says: split the number, multiply each part, then add!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "multiplication"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_030",
+      "question": "What is 84 divided by 6?",
+      "correctAnswer": "14",
+      "distractors": [
+        "12",
+        "16",
+        "13"
+      ],
+      "explanation": "6 x 14 = 84, so 84 divided by 6 = 14.",
+      "memoryHook": "T-Rexy says: think of the matching multiplication fact!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "division"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_031",
+      "question": "What is 1/2 + 1/3?",
+      "correctAnswer": "5/6",
+      "distractors": [
+        "11/12",
+        "3/4",
+        "2/3"
+      ],
+      "explanation": "Use the common denominator 6: 1/2 = 3/6 and 1/3 = 2/6, then 3/6 + 2/6 = 5/6.",
+      "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "add-subtract"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_032",
+      "question": "What is 2/3 + 1/4?",
+      "correctAnswer": "11/12",
+      "distractors": [
+        "1",
+        "5/6",
+        "3/4"
+      ],
+      "explanation": "Use the common denominator 12: 2/3 = 8/12 and 1/4 = 3/12, then 8/12 + 3/12 = 11/12.",
+      "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "add-subtract"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_033",
+      "question": "What is 3/4 - 1/6?",
+      "correctAnswer": "7/12",
+      "distractors": [
+        "2/3",
+        "1/2",
+        "4/5"
+      ],
+      "explanation": "Use the common denominator 12: 3/4 = 9/12 and 1/6 = 2/12, then 9/12 - 2/12 = 7/12.",
+      "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "add-subtract"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_034",
+      "question": "What is 5/6 - 1/3?",
+      "correctAnswer": "1/2",
+      "distractors": [
+        "7/12",
+        "5/12",
+        "6/7"
+      ],
+      "explanation": "Use the common denominator 6: 1/3 = 2/6, then 5/6 - 2/6 = 3/6 = 1/2.",
+      "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "add-subtract"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_035",
+      "question": "What is 1/4 + 2/5?",
+      "correctAnswer": "13/20",
+      "distractors": [
+        "11/15",
+        "17/30",
+        "3/5"
+      ],
+      "explanation": "Use the common denominator 20: 1/4 = 5/20 and 2/5 = 8/20, then 5/20 + 8/20 = 13/20.",
+      "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "add-subtract"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_036",
+      "question": "What is 7/8 - 1/4?",
+      "correctAnswer": "5/8",
+      "distractors": [
+        "17/24",
+        "13/24",
+        "8/9"
+      ],
+      "explanation": "Use the common denominator 8: 1/4 = 2/8, then 7/8 - 2/8 = 5/8.",
+      "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "add-subtract"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_037",
+      "question": "What is 2/5 + 1/2?",
+      "correctAnswer": "9/10",
+      "distractors": [
+        "59/60",
+        "49/60",
+        "1/2"
+      ],
+      "explanation": "Use the common denominator 10: 2/5 = 4/10 and 1/2 = 5/10, then 4/10 + 5/10 = 9/10.",
+      "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "add-subtract"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_038",
+      "question": "What is 3/5 - 1/10?",
+      "correctAnswer": "1/2",
+      "distractors": [
+        "7/12",
+        "5/12",
+        "2/3"
+      ],
+      "explanation": "Use the common denominator 10: 3/5 = 6/10, then 6/10 - 1/10 = 5/10 = 1/2.",
+      "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "add-subtract"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_039",
+      "question": "What is 3 x 2/5?",
+      "correctAnswer": "1 1/5",
+      "distractors": [
+        "1 2/5",
+        "5/6",
+        "1"
+      ],
+      "explanation": "3 x 2/5 = 6/5 = 1 1/5.",
+      "memoryHook": "T-Rexy says: multiply the top by the whole number and keep the bottom!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "multiplication"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_040",
+      "question": "What is 4 x 3/4?",
+      "correctAnswer": "3",
+      "distractors": [
+        "3 1/4",
+        "1 2/5",
+        "2 3/4"
+      ],
+      "explanation": "4 x 3/4 = 12/4 = 3.",
+      "memoryHook": "T-Rexy says: multiply the top by the whole number and keep the bottom!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "multiplication"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_041",
+      "question": "What is 5 x 1/6?",
+      "correctAnswer": "5/6",
+      "distractors": [
+        "1",
+        "6/7",
+        "2/3"
+      ],
+      "explanation": "5 x 1/6 = 5/6 - five one-sixths make five-sixths.",
+      "memoryHook": "T-Rexy says: multiply the top by the whole number and keep the bottom!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "multiplication"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_042",
+      "question": "What is 6 x 2/3?",
+      "correctAnswer": "4",
+      "distractors": [
+        "4 1/3",
+        "2",
+        "3 2/3"
+      ],
+      "explanation": "6 x 2/3 = 12/3 = 4.",
+      "memoryHook": "T-Rexy says: multiply the top by the whole number and keep the bottom!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "multiplication"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_043",
+      "question": "What is 2 x 5/8?",
+      "correctAnswer": "1 1/4",
+      "distractors": [
+        "1 3/8",
+        "7/9",
+        "1 1/8"
+      ],
+      "explanation": "2 x 5/8 = 10/8 = 1 1/4.",
+      "memoryHook": "T-Rexy says: multiply the top by the whole number and keep the bottom!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "multiplication"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_044",
+      "question": "What is 7 x 1/4?",
+      "correctAnswer": "1 3/4",
+      "distractors": [
+        "2",
+        "1 3/5",
+        "1 1/2"
+      ],
+      "explanation": "7 x 1/4 = 7/4 = 1 3/4.",
+      "memoryHook": "T-Rexy says: multiply the top by the whole number and keep the bottom!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "multiplication"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_045",
+      "question": "What is 0.6 x 4?",
+      "correctAnswer": "2.4",
+      "distractors": [
+        "0.24",
+        "2.04",
+        "24"
+      ],
+      "explanation": "6 x 4 = 24, one decimal place, so 2.4.",
+      "memoryHook": "T-Rexy says: multiply like the dot is not there, then stomp it back into place!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_046",
+      "question": "What is 1.3 x 3?",
+      "correctAnswer": "3.9",
+      "distractors": [
+        "3.3",
+        "0.39",
+        "3.6"
+      ],
+      "explanation": "13 x 3 = 39, one decimal place, so 3.9.",
+      "memoryHook": "T-Rexy says: multiply like the dot is not there, then stomp it back into place!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_047",
+      "question": "What is 2.5 x 6?",
+      "correctAnswer": "15",
+      "distractors": [
+        "1.5",
+        "1.50",
+        "150"
+      ],
+      "explanation": "25 x 6 = 150, one decimal place, so 15.0 = 15.",
+      "memoryHook": "T-Rexy says: multiply like the dot is not there, then stomp it back into place!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_048",
+      "question": "What is 4.8 divided by 2?",
+      "correctAnswer": "2.4",
+      "distractors": [
+        "2.8",
+        "0.24",
+        "24"
+      ],
+      "explanation": "48 / 2 = 24, one decimal place, so 2.4.",
+      "memoryHook": "T-Rexy says: divide like the dot is not there, then put it back in the same place!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_049",
+      "question": "What is 3.6 divided by 3?",
+      "correctAnswer": "1.2",
+      "distractors": [
+        "1.6",
+        "0.12",
+        "12"
+      ],
+      "explanation": "36 / 3 = 12, one decimal place, so 1.2.",
+      "memoryHook": "T-Rexy says: divide like the dot is not there, then put it back in the same place!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_050",
+      "question": "What is 0.9 x 0.5?",
+      "correctAnswer": "0.45",
+      "distractors": [
+        "0.54",
+        "4.5",
+        "0.045"
+      ],
+      "explanation": "9 x 5 = 45, two decimal places, so 0.45.",
+      "memoryHook": "T-Rexy says: multiply like the dot is not there, then stomp it back into place!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_051",
+      "question": "A box is filled with unit cubes. It is 5 cubes long, 4 cubes wide, and 3 cubes tall. How many cubes fill it?",
+      "correctAnswer": "60 cubes",
+      "distractors": [
+        "35 cubes",
+        "12 cubes",
+        "47 cubes"
+      ],
+      "explanation": "Count one layer (5 x 4 = 20) and multiply by 3 layers: 20 x 3 = 60 cubes.",
+      "memoryHook": "T-Rexy says: count one layer first, then stack the layers!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "unit-cubes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_052",
+      "question": "Two boxes are stacked. The bottom box has a volume of 120 cubic cm and the top box has a volume of 45 cubic cm. What is the total volume?",
+      "correctAnswer": "165 cubic cm",
+      "distractors": [
+        "75 cubic cm",
+        "165 square cm",
+        "156 cubic cm"
+      ],
+      "explanation": "Add the volumes: 120 + 45 = 165 cubic cm.",
+      "memoryHook": "T-Rexy says: split the shape, find each part, then add them together!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "composite"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_053",
+      "question": "A rectangular prism has a volume of 72 cubic cm. Its length is 6 cm and its width is 4 cm. What is its height?",
+      "correctAnswer": "3 cm",
+      "distractors": [
+        "2 cm",
+        "12 cm",
+        "3 square cm"
+      ],
+      "explanation": "72 = 6 x 4 x height, so height = 72 divided by 24 = 3 cm.",
+      "memoryHook": "T-Rexy says: work backward like a dino detective - divide the volume by what you know!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "missing-dimension"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_054",
+      "question": "A fish tank is 8 in long, 5 in wide, and 4 in tall. What is its volume?",
+      "correctAnswer": "160 cubic in",
+      "distractors": [
+        "17 cubic in",
+        "40 cubic in",
+        "160 square in"
+      ],
+      "explanation": "Volume = 8 x 5 x 4 = 160 cubic in.",
+      "memoryHook": "T-Rexy says: a tank holds WATER - that means volume in cubic units!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "measurement"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_055",
+      "question": "How many 1-inch unit cubes fit in a box that is 7 inches long, 2 inches wide, and 5 inches tall?",
+      "correctAnswer": "70 cubes",
+      "distractors": [
+        "14 cubes",
+        "35 cubes",
+        "140 cubes"
+      ],
+      "explanation": "7 x 2 x 5 = 70 unit cubes.",
+      "memoryHook": "T-Rexy says: length times width times height counts every little cube!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "unit-cubes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_056",
+      "question": "A cube has a side length of 5 cm. What is its volume?",
+      "correctAnswer": "125 cubic cm",
+      "distractors": [
+        "15 cubic cm",
+        "25 cubic cm",
+        "125 square cm"
+      ],
+      "explanation": "Volume = 5 x 5 x 5 = 125 cubic cm.",
+      "memoryHook": "T-Rexy says: a cube is the same on all sides - multiply the side three times!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "cubes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_057",
+      "question": "What is 432 divided by 12?",
+      "correctAnswer": "36",
+      "distractors": [
+        "37",
+        "35",
+        "46"
+      ],
+      "explanation": "12 x 36 = 432, so 432 divided by 12 = 36.",
+      "memoryHook": "T-Rexy says: check division with multiplication - they are best friends!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "division"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_058",
+      "question": "What is 625 divided by 25?",
+      "correctAnswer": "25",
+      "distractors": [
+        "26",
+        "24",
+        "35"
+      ],
+      "explanation": "25 x 25 = 625, so 625 divided by 25 = 25.",
+      "memoryHook": "T-Rexy says: check division with multiplication - they are best friends!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "division"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_059",
+      "question": "What is 378 divided by 14?",
+      "correctAnswer": "27",
+      "distractors": [
+        "28",
+        "26",
+        "37"
+      ],
+      "explanation": "14 x 27 = 378, so 378 divided by 14 = 27.",
+      "memoryHook": "T-Rexy says: check division with multiplication - they are best friends!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "division"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_060",
+      "question": "What is 945 divided by 15?",
+      "correctAnswer": "63",
+      "distractors": [
+        "64",
+        "62",
+        "73"
+      ],
+      "explanation": "15 x 63 = 945, so 945 divided by 15 = 63.",
+      "memoryHook": "T-Rexy says: check division with multiplication - they are best friends!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "division"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_061",
+      "question": "What is 1248 divided by 24?",
+      "correctAnswer": "52",
+      "distractors": [
+        "53",
+        "51",
+        "62"
+      ],
+      "explanation": "24 x 52 = 1248, so 1248 divided by 24 = 52.",
+      "memoryHook": "T-Rexy says: check division with multiplication - they are best friends!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "division"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_062",
+      "question": "What is 2856 divided by 17?",
+      "correctAnswer": "168",
+      "distractors": [
+        "169",
+        "167",
+        "178"
+      ],
+      "explanation": "17 x 168 = 2856, so 2856 divided by 17 = 168.",
+      "memoryHook": "T-Rexy says: check division with multiplication - they are best friends!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "division"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_063",
+      "question": "How many inches are in 3 feet?",
+      "correctAnswer": "36 inches",
+      "distractors": [
+        "30 inches",
+        "12 inches",
+        "33 inches"
+      ],
+      "explanation": "1 foot = 12 inches, so 3 x 12 = 36 inches.",
+      "memoryHook": "T-Rexy says: one foot is twelve dino inches!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "measurement",
+        "conversion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_064",
+      "question": "How many centimeters are in 2 meters?",
+      "correctAnswer": "200 centimeters",
+      "distractors": [
+        "20 centimeters",
+        "2,000 centimeters",
+        "120 centimeters"
+      ],
+      "explanation": "1 meter = 100 centimeters, so 2 x 100 = 200 centimeters.",
+      "memoryHook": "T-Rexy says: a meter is one hundred centimeters - count the hundreds!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "measurement",
+        "conversion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_065",
+      "question": "How many minutes are in 2 hours and 15 minutes?",
+      "correctAnswer": "135 minutes",
+      "distractors": [
+        "115 minutes",
+        "215 minutes",
+        "125 minutes"
+      ],
+      "explanation": "2 hours = 120 minutes; 120 + 15 = 135 minutes.",
+      "memoryHook": "T-Rexy says: an hour is sixty minutes - add them up!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "measurement",
+        "time"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_066",
+      "question": "A jug holds 4 liters. How many milliliters is that?",
+      "correctAnswer": "4,000 milliliters",
+      "distractors": [
+        "400 milliliters",
+        "40 milliliters",
+        "4,000 liters"
+      ],
+      "explanation": "1 liter = 1,000 milliliters, so 4 x 1,000 = 4,000 milliliters.",
+      "memoryHook": "T-Rexy says: a liter is a thousand milliliters!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "measurement",
+        "conversion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_067",
+      "question": "What is 6 + 4 x 3?",
+      "correctAnswer": "18",
+      "distractors": [
+        "30",
+        "10",
+        "24"
+      ],
+      "explanation": "Multiply first: 4 x 3 = 12, then 6 + 12 = 18.",
+      "memoryHook": "T-Rexy says: multiplication jumps the line before addition!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "expressions",
+        "order-of-operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_068",
+      "question": "What is (8 - 3) x 2 + 5?",
+      "correctAnswer": "15",
+      "distractors": [
+        "25",
+        "11",
+        "20"
+      ],
+      "explanation": "Parentheses first: 8 - 3 = 5. Then 5 x 2 = 10, and 10 + 5 = 15.",
+      "memoryHook": "T-Rexy says: parentheses always go first - they are the boss!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "expressions",
+        "order-of-operations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_069",
+      "question": "A pattern starts 3, 6, 12, 24. What is the next number?",
+      "correctAnswer": "48",
+      "distractors": [
+        "36",
+        "30",
+        "42"
+      ],
+      "explanation": "Each term doubles: 24 x 2 = 48.",
+      "memoryHook": "T-Rexy says: look for the rule - here every number doubles!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "patterns",
+        "sequences"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_070",
+      "question": "On a coordinate plane, what are the coordinates of the point 4 units right and 3 units up from (0, 0)?",
+      "correctAnswer": "(4, 3)",
+      "distractors": [
+        "(3, 4)",
+        "(0, 4)",
+        "(4, 0)"
+      ],
+      "explanation": "The x-coordinate counts right (4) and the y-coordinate counts up (3): (4, 3).",
+      "memoryHook": "T-Rexy says: x goes across first, then y climbs up!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "geometry",
+        "coordinate-plane"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_071",
+      "question": "What is 2 1/2 + 1 3/4?",
+      "correctAnswer": "4 1/4",
+      "distractors": [
+        "4 5/12",
+        "4 1/12",
+        "5 1/4"
+      ],
+      "explanation": "Convert to a common denominator, then add to get 4 1/4.",
+      "memoryHook": "T-Rexy says: wholes and fractions add up separately, then pile them together!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "mixed-numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_072",
+      "question": "What is 3 2/3 - 5/6?",
+      "correctAnswer": "2 5/6",
+      "distractors": [
+        "3",
+        "2 2/3",
+        "3 5/6"
+      ],
+      "explanation": "Convert to a common denominator, then subtract to get 2 5/6.",
+      "memoryHook": "T-Rexy says: wholes and fractions subtract separately - borrow a whole if you need to!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "mixed-numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_073",
+      "question": "What is 2 1/4 + 1 2/3?",
+      "correctAnswer": "3 11/12",
+      "distractors": [
+        "4 1/12",
+        "3 3/4",
+        "4 11/12"
+      ],
+      "explanation": "Convert to a common denominator, then add to get 3 11/12.",
+      "memoryHook": "T-Rexy says: wholes and fractions add up separately, then pile them together!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "mixed-numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_074",
+      "question": "What is 3 1/4 - 7/8?",
+      "correctAnswer": "2 3/8",
+      "distractors": [
+        "2 13/24",
+        "2 5/24",
+        "3 3/8"
+      ],
+      "explanation": "Convert to a common denominator, then subtract to get 2 3/8.",
+      "memoryHook": "T-Rexy says: wholes and fractions subtract separately - borrow a whole if you need to!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "mixed-numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_075",
+      "question": "What is 2 1/3 + 1 5/6?",
+      "correctAnswer": "4 1/6",
+      "distractors": [
+        "4 1/3",
+        "4",
+        "5 1/6"
+      ],
+      "explanation": "Convert to a common denominator, then add to get 4 1/6.",
+      "memoryHook": "T-Rexy says: wholes and fractions add up separately, then pile them together!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "mixed-numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_076",
+      "question": "What is 3 2/5 - 9/10?",
+      "correctAnswer": "2 1/2",
+      "distractors": [
+        "2 2/3",
+        "2 1/3",
+        "3 1/2"
+      ],
+      "explanation": "Convert to a common denominator, then subtract to get 2 1/2.",
+      "memoryHook": "T-Rexy says: wholes and fractions subtract separately - borrow a whole if you need to!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "mixed-numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_077",
+      "question": "What is 3 divided by 1/4?",
+      "correctAnswer": "12",
+      "distractors": [
+        "11",
+        "13",
+        "3/4"
+      ],
+      "explanation": "Dividing by 1/4 is the same as multiplying by 4: 3 x 4 = 12.",
+      "memoryHook": "T-Rexy says: dividing by a unit fraction flips it into multiplication!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "division"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_078",
+      "question": "What is 5 divided by 1/6?",
+      "correctAnswer": "30",
+      "distractors": [
+        "29",
+        "31",
+        "5/6"
+      ],
+      "explanation": "Dividing by 1/6 is the same as multiplying by 6: 5 x 6 = 30.",
+      "memoryHook": "T-Rexy says: dividing by a unit fraction flips it into multiplication!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "division"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_079",
+      "question": "What is 2 divided by 1/3?",
+      "correctAnswer": "6",
+      "distractors": [
+        "5",
+        "7",
+        "2/3"
+      ],
+      "explanation": "Dividing by 1/3 is the same as multiplying by 3: 2 x 3 = 6.",
+      "memoryHook": "T-Rexy says: dividing by a unit fraction flips it into multiplication!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "division"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_080",
+      "question": "What is 4 divided by 1/5?",
+      "correctAnswer": "20",
+      "distractors": [
+        "19",
+        "21",
+        "4/5"
+      ],
+      "explanation": "Dividing by 1/5 is the same as multiplying by 5: 4 x 5 = 20.",
+      "memoryHook": "T-Rexy says: dividing by a unit fraction flips it into multiplication!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "division"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_081",
+      "question": "Sara buys 3 notebooks at $1.45 each and pays with $5.00. How much change does she get?",
+      "correctAnswer": "$0.65",
+      "distractors": [
+        "$0.55",
+        "$0.75",
+        "$1.65"
+      ],
+      "explanation": "3 x $1.45 = $4.35. Then $5.00 - $4.35 = $0.65.",
+      "memoryHook": "T-Rexy says: multiply first, then subtract from what she paid!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_082",
+      "question": "A ribbon is 12.5 meters long. Mia cuts off 3 pieces, each 2.4 meters long. How much ribbon is left?",
+      "correctAnswer": "5.3 meters",
+      "distractors": [
+        "5.7 meters",
+        "5.9 meters",
+        "4.3 meters"
+      ],
+      "explanation": "3 x 2.4 = 7.2 meters used. 12.5 - 7.2 = 5.3 meters left.",
+      "memoryHook": "T-Rexy says: find what is used first, then subtract from the whole!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_083",
+      "question": "Tom runs 0.75 km each day for 8 days. How many kilometers does he run in all?",
+      "correctAnswer": "6 km",
+      "distractors": [
+        "0.6 km",
+        "5 km",
+        "60 km"
+      ],
+      "explanation": "0.75 x 8 = 6 km.",
+      "memoryHook": "T-Rexy says: decimals times whole numbers - count the places after the dot!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "multiplication"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_084",
+      "question": "A baker uses 2.5 kg of flour for each batch of bread. How many batches can she make with 15 kg of flour?",
+      "correctAnswer": "6 batches",
+      "distractors": [
+        "5 batches",
+        "7 batches",
+        "6.5 batches"
+      ],
+      "explanation": "15 divided by 2.5 = 6 batches.",
+      "memoryHook": "T-Rexy says: division tells you how many groups fit inside!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "decimals",
+        "division"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_085",
+      "question": "An L-shaped solid is made of two prisms. Prism A is 9 ft by 4 ft by 2 ft. Prism B is 5 ft by 3 ft by 2 ft. What is the total volume?",
+      "correctAnswer": "102 cubic ft",
+      "distractors": [
+        "72 cubic ft",
+        "30 cubic ft",
+        "132 cubic ft"
+      ],
+      "explanation": "Prism A: 9 x 4 x 2 = 72. Prism B: 5 x 3 x 2 = 30. Total = 72 + 30 = 102 cubic ft.",
+      "memoryHook": "T-Rexy says: split the L-shape, find each block, then chomp them together!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "composite"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_086",
+      "question": "A box has a volume of 240 cubic cm. Its length is 10 cm and its height is 6 cm. What is its width?",
+      "correctAnswer": "4 cm",
+      "distractors": [
+        "24 cm",
+        "40 cm",
+        "6 cm"
+      ],
+      "explanation": "240 = 10 x width x 6, so width = 240 divided by 60 = 4 cm.",
+      "memoryHook": "T-Rexy says: work backward - divide the volume by the sides you know!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "missing-dimension"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_087",
+      "question": "A cube and a rectangular prism have the same volume. The cube has a side of 4 cm. The prism is 8 cm long and 4 cm wide. How tall is the prism?",
+      "correctAnswer": "2 cm",
+      "distractors": [
+        "4 cm",
+        "8 cm",
+        "16 cm"
+      ],
+      "explanation": "Cube volume = 4 x 4 x 4 = 64. Prism height = 64 divided by (8 x 4) = 2 cm.",
+      "memoryHook": "T-Rexy says: same volume means the same amount of space - work it out step by step!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "composite"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_088",
+      "question": "A swimming pool is 12 m long, 5 m wide, and 2 m deep. How many cubic meters of water does it hold when full?",
+      "correctAnswer": "120 cubic m",
+      "distractors": [
+        "19 cubic m",
+        "60 cubic m",
+        "240 cubic m"
+      ],
+      "explanation": "12 x 5 x 2 = 120 cubic m.",
+      "memoryHook": "T-Rexy says: pools hold volume - multiply all three sides!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "volume",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_089",
+      "question": "Which is the greatest: 2/3, 0.6, 3/5, 0.75?",
+      "correctAnswer": "0.75",
+      "distractors": [
+        "2/3",
+        "0.6",
+        "3/5"
+      ],
+      "explanation": "As decimals: 2/3 is about 0.67, 3/5 = 0.6, 0.75 is greatest.",
+      "memoryHook": "T-Rexy says: turn fractions into decimals to compare them fairly!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "compare"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_090",
+      "question": "Put these in order from least to greatest: 1/2, 0.35, 3/4, 0.6",
+      "correctAnswer": "0.35, 1/2, 0.6, 3/4",
+      "distractors": [
+        "1/2, 0.35, 0.6, 3/4",
+        "0.35, 0.6, 1/2, 3/4",
+        "3/4, 0.6, 1/2, 0.35"
+      ],
+      "explanation": "As decimals: 1/2 = 0.5, 3/4 = 0.75, so the order is 0.35, 0.5, 0.6, 0.75.",
+      "memoryHook": "T-Rexy says: line them all up as decimals first!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "ordering"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_091",
+      "question": "Which fraction is closest to 1: 7/8, 5/6, 9/10, 2/3?",
+      "correctAnswer": "9/10",
+      "distractors": [
+        "7/8",
+        "5/6",
+        "2/3"
+      ],
+      "explanation": "9/10 is only 1/10 away from 1, closer than 7/8 (1/8 away), 5/6 (1/6 away), or 2/3 (1/3 away).",
+      "memoryHook": "T-Rexy says: the smaller the missing piece, the closer to the whole!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "compare"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_092",
+      "question": "What is 3/4 of 48?",
+      "correctAnswer": "36",
+      "distractors": [
+        "32",
+        "40",
+        "12"
+      ],
+      "explanation": "48 divided by 4 = 12, and 12 x 3 = 36.",
+      "memoryHook": "T-Rexy says: divide into equal parts first, then take the parts you need!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "fractions",
+        "of-a-number"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_093",
+      "question": "Which quadrilateral has exactly one pair of parallel sides?",
+      "correctAnswer": "Trapezoid",
+      "distractors": [
+        "Parallelogram",
+        "Rectangle",
+        "Square"
+      ],
+      "explanation": "A trapezoid has exactly one pair of parallel sides. A parallelogram has two pairs.",
+      "memoryHook": "T-Rexy says: trapezoid - one pair of sides that never meet!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "geometry",
+        "quadrilaterals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_094",
+      "question": "How many right angles does a rectangle have?",
+      "correctAnswer": "4",
+      "distractors": [
+        "2",
+        "1",
+        "0"
+      ],
+      "explanation": "A rectangle has four corners, and each corner is a right angle (90 degrees).",
+      "memoryHook": "T-Rexy says: every corner of a rectangle is a perfect square corner!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "geometry",
+        "angles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_095",
+      "question": "A line plot shows the lengths of pencils: 5 pencils are 6 inches, 3 pencils are 7 inches, and 2 pencils are 8 inches. How many pencils are there in all?",
+      "correctAnswer": "10 pencils",
+      "distractors": [
+        "8 pencils",
+        "15 pencils",
+        "9 pencils"
+      ],
+      "explanation": "Add the counts: 5 + 3 + 2 = 10 pencils.",
+      "memoryHook": "T-Rexy says: a line plot is just a counting picture - add up the marks!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "data",
+        "line-plots"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_096",
+      "question": "The angles of a triangle add up to 180 degrees. Two angles are 65 degrees and 70 degrees. What is the third angle?",
+      "correctAnswer": "45 degrees",
+      "distractors": [
+        "35 degrees",
+        "55 degrees",
+        "135 degrees"
+      ],
+      "explanation": "65 + 70 = 135. Then 180 - 135 = 45 degrees.",
+      "memoryHook": "T-Rexy says: triangle angles always add to 180 - subtract what you know!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "geometry",
+        "triangles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_097",
+      "question": "What is the value of 5 x (9 - 4) + 2 x 3?",
+      "correctAnswer": "31",
+      "distractors": [
+        "41",
+        "25",
+        "53"
+      ],
+      "explanation": "Parentheses: 9 - 4 = 5. Then 5 x 5 = 25 and 2 x 3 = 6. Then 25 + 6 = 31.",
+      "memoryHook": "T-Rexy says: parentheses first, then multiply, then add!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "expressions",
+        "order-of-operations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_098",
+      "question": "A store sells packs of 24 pencils for $6. How much do 96 pencils cost?",
+      "correctAnswer": "$24",
+      "distractors": [
+        "$18",
+        "$12",
+        "$30"
+      ],
+      "explanation": "96 divided by 24 = 4 packs. 4 x $6 = $24.",
+      "memoryHook": "T-Rexy says: find how many packs first, then multiply by the price!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_099",
+      "question": "Mia saves $15 each week. After 6 weeks she spends $38 on a game. How much does she have left?",
+      "correctAnswer": "$52",
+      "distractors": [
+        "$42",
+        "$90",
+        "$53"
+      ],
+      "explanation": "6 x $15 = $90 saved. $90 - $38 = $52 left.",
+      "memoryHook": "T-Rexy says: multiply the weeks first, then subtract what she spent!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "whole-numbers",
+        "word-problems"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_100",
+      "question": "A rectangle has a perimeter of 34 cm and a length of 11 cm. What is its width?",
+      "correctAnswer": "6 cm",
+      "distractors": [
+        "12 cm",
+        "23 cm",
+        "5 cm"
+      ],
+      "explanation": "Perimeter = 2 x (length + width), so 34 = 2 x (11 + width). 11 + width = 17, so width = 6 cm.",
+      "memoryHook": "T-Rexy says: half the perimeter minus the length gives the width!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "geometry",
+        "perimeter"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

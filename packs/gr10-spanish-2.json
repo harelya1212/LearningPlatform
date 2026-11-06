@@ -1,0 +1,2017 @@
+{
+  "packId": "gr10-spanish-2",
+  "title": "Spanish 2 (10th Grade)",
+  "description": "Spanish 2 (10th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "language",
+    "spanish",
+    "10th"
+  ],
+  "questions": [
+    {
+      "id": "SPA10_001",
+      "question": "How do you say 'hello' in Spanish?",
+      "correctAnswer": "Hola",
+      "distractors": [
+        "Adios",
+        "Gracias",
+        "Por favor"
+      ],
+      "explanation": "Hola is the greeting for any time of day in Spanish, and it works in formal and informal settings - you can say hola to a friend or to your teacher.",
+      "memoryHook": "T-Rexy says: Hola means hello.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_002",
+      "question": "What does 'gracias' mean in English?",
+      "correctAnswer": "Thank you",
+      "distractors": [
+        "Please",
+        "Hello",
+        "Goodbye"
+      ],
+      "explanation": "Gracias is how you say thank you in Spanish. The standard reply is 'de nada' - you're welcome.",
+      "memoryHook": "T-Rexy says: Gracias means thank you.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "common"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_003",
+      "question": "How do you say 'goodbye' in Spanish?",
+      "correctAnswer": "Adiós",
+      "distractors": [
+        "Hola",
+        "Buenas noches",
+        "Buenos días"
+      ],
+      "explanation": "Adiós is the standard goodbye in Spanish, with a written accent on the o. Use it when you are leaving for a while; 'hasta luego' (see you later) is for shorter partings, and 'buenos días' is a greeting, not a farewell.",
+      "memoryHook": "T-Rexy says: Adiós means goodbye.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_004",
+      "question": "What does 'la casa' mean?",
+      "correctAnswer": "The house",
+      "distractors": [
+        "The car",
+        "The school",
+        "The dog"
+      ],
+      "explanation": "Casa is a feminine noun, so it takes 'la': la casa. Most nouns ending in -a are feminine.",
+      "memoryHook": "T-Rexy says: La casa is the house.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_005",
+      "question": "What does 'el perro' mean?",
+      "correctAnswer": "The dog",
+      "distractors": [
+        "The cat",
+        "The bird",
+        "The horse"
+      ],
+      "explanation": "Perro is a masculine noun, so it takes 'el': el perro. A female dog is 'la perra' - the article changes with the animal's sex.",
+      "memoryHook": "T-Rexy says: El perro is the dog.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_006",
+      "question": "What does 'la escuela' mean?",
+      "correctAnswer": "The school",
+      "distractors": [
+        "The library",
+        "The hospital",
+        "The store"
+      ],
+      "explanation": "Escuela is feminine, so it takes 'la': la escuela - the school, the place where you study (estudiar).",
+      "memoryHook": "T-Rexy says: La escuela is the school.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "places"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_007",
+      "question": "How do you say 'water' in Spanish?",
+      "correctAnswer": "Agua",
+      "distractors": [
+        "Leche",
+        "Pan",
+        "Arroz"
+      ],
+      "explanation": "Agua is a feminine noun, but in the singular it takes 'el' because it starts with a stressed A sound: el agua. Its plural goes back to 'las aguas'.",
+      "memoryHook": "T-Rexy says: Agua is water.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "food"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_008",
+      "question": "What does 'rojo' mean?",
+      "correctAnswer": "Red",
+      "distractors": [
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "explanation": "Rojo is a color adjective, so it changes to match the noun: un coche rojo (masculine), una manzana roja (feminine).",
+      "memoryHook": "T-Rexy says: Rojo is red.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_009",
+      "question": "What does 'grande' mean?",
+      "correctAnswer": "Big",
+      "distractors": [
+        "Small",
+        "Tall",
+        "Fast"
+      ],
+      "explanation": "Grande goes after the noun it describes: una casa grande (a big house). Shortened to 'gran' before a singular noun it means 'great': un gran día.",
+      "memoryHook": "T-Rexy says: Grande means big.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_010",
+      "question": "How do you say 'friend' in Spanish?",
+      "correctAnswer": "Amigo (masculine) / amiga (feminine)",
+      "distractors": [
+        "Hermano",
+        "Primo",
+        "Vecino"
+      ],
+      "explanation": "Amigo means friend; amiga is the feminine form.",
+      "memoryHook": "T-Rexy says: Amigo is friend.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "people"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_011",
+      "question": "What does 'la familia' mean?",
+      "correctAnswer": "The family",
+      "distractors": [
+        "The friend",
+        "The teacher",
+        "The student"
+      ],
+      "explanation": "Familia is feminine: la familia. Even though it names a whole group of people, the noun itself stays feminine singular.",
+      "memoryHook": "T-Rexy says: La familia is the family.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "people"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_012",
+      "question": "What does 'hoy' mean?",
+      "correctAnswer": "Today",
+      "distractors": [
+        "Yesterday",
+        "Tomorrow",
+        "Now"
+      ],
+      "explanation": "Hoy means today. Learn it with its neighbors: ayer = yesterday, mañana = tomorrow (mañana also means 'morning', depending on context).",
+      "memoryHook": "T-Rexy says: Hoy is today.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "time"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_013",
+      "question": "How do you say 'Monday' in Spanish?",
+      "correctAnswer": "Lunes",
+      "distractors": [
+        "Martes",
+        "Domingo",
+        "Viernes"
+      ],
+      "explanation": "Lunes is Monday - the first day of the week on Spanish calendars. Days of the week are not capitalized in Spanish: 'el lunes' means on Monday.",
+      "memoryHook": "T-Rexy says: Lunes is Monday.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "time"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_014",
+      "question": "What does 'el libro' mean?",
+      "correctAnswer": "The book",
+      "distractors": [
+        "The pencil",
+        "The desk",
+        "The paper"
+      ],
+      "explanation": "Libro is masculine: el libro. Beware the false friend 'librería', which is a bookstore - a library is 'la biblioteca'.",
+      "memoryHook": "T-Rexy says: El libro is the book.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_015",
+      "question": "What does 'comer' mean?",
+      "correctAnswer": "To eat",
+      "distractors": [
+        "To drink",
+        "To sleep",
+        "To run"
+      ],
+      "explanation": "Comer is a regular -er verb meaning to eat: yo como, tú comes, él come. In much of the Spanish-speaking world it is also the everyday verb for having lunch.",
+      "memoryHook": "T-Rexy says: Comer is to eat.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_016",
+      "question": "What does 'beber' mean?",
+      "correctAnswer": "To drink",
+      "distractors": [
+        "To eat",
+        "To read",
+        "To write"
+      ],
+      "explanation": "Beber is a regular -er verb meaning to drink: yo bebo, tú bebes. It patterns exactly like comer (to eat) - only the stem changes.",
+      "memoryHook": "T-Rexy says: Beber is to drink.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_017",
+      "question": "How do you say 'thank you very much' in Spanish?",
+      "correctAnswer": "Muchas gracias",
+      "distractors": [
+        "De nada",
+        "Por favor",
+        "Lo siento"
+      ],
+      "explanation": "Muchas gracias = thank you very much: muchas (many) + gracias (thanks). Answer with 'de nada' - you're welcome.",
+      "memoryHook": "T-Rexy says: Muchas gracias means thanks a lot.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "common"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_018",
+      "question": "What does 'la mesa' mean?",
+      "correctAnswer": "The table",
+      "distractors": [
+        "The chair",
+        "The bed",
+        "The door"
+      ],
+      "explanation": "Mesa is feminine: la mesa. Watch the near-twin 'el mes', which means month - the article and the final letter tell them apart.",
+      "memoryHook": "T-Rexy says: La mesa is the table.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_019",
+      "question": "What does 'feliz' mean?",
+      "correctAnswer": "Happy",
+      "distractors": [
+        "Sad",
+        "Angry",
+        "Tired"
+      ],
+      "explanation": "Feliz is an adjective meaning happy, and the same form works for both genders: él es feliz, ella es feliz. Its plural is felices - z changes to c before e.",
+      "memoryHook": "T-Rexy says: Feliz is happy.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "adjectives"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_020",
+      "question": "How do you say 'I love you' in Spanish?",
+      "correctAnswer": "Te quiero",
+      "distractors": [
+        "Te odio",
+        "Te conozco",
+        "Te veo"
+      ],
+      "explanation": "Te quiero (from querer, to want/love) is the everyday way to say I love you to family and friends. 'Te amo' is stronger and usually reserved for romantic partners.",
+      "memoryHook": "T-Rexy says: Te quiero means I love you.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "common"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_021",
+      "question": "What does 'la ciudad' mean?",
+      "correctAnswer": "The city",
+      "distractors": [
+        "The town",
+        "The village",
+        "The country"
+      ],
+      "explanation": "Ciudad is feminine: la ciudad (the city). Mind the size ladder: una aldea is a small village, un pueblo is a town, una ciudad is a city.",
+      "memoryHook": "T-Rexy says: La ciudad is the city.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "places"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_022",
+      "question": "What does 'el tren' mean?",
+      "correctAnswer": "The train",
+      "distractors": [
+        "The bus",
+        "The car",
+        "The plane"
+      ],
+      "explanation": "Tren is masculine: el tren. You catch it at 'la estación' - 'tomar el tren' means to take the train.",
+      "memoryHook": "T-Rexy says: El tren is the train.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "travel"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_023",
+      "question": "What does 'la ventana' mean?",
+      "correctAnswer": "The window",
+      "distractors": [
+        "The door",
+        "The wall",
+        "The roof"
+      ],
+      "explanation": "Ventana is feminine: la ventana. It pairs with 'la puerta' (the door) - windows and doors are both feminine in Spanish.",
+      "memoryHook": "T-Rexy says: La ventana is the window.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_024",
+      "question": "What does 'rápido' mean?",
+      "correctAnswer": "Fast",
+      "distractors": [
+        "Slow",
+        "Strong",
+        "Quiet"
+      ],
+      "explanation": "Rápido means fast or quick, and it doubles as an adverb: 'habla rápido' = he speaks quickly. Its opposite is 'lento' (slow).",
+      "memoryHook": "T-Rexy says: Rápido means fast.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_025",
+      "question": "What does 'la tarea' mean?",
+      "correctAnswer": "The homework",
+      "distractors": [
+        "The test",
+        "The lesson",
+        "The grade"
+      ],
+      "explanation": "Tarea means homework - or any task or assignment: 'la tarea de matemáticas' is your math homework, the work a teacher assigns and you hand in.",
+      "memoryHook": "T-Rexy says: La tarea is homework.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_026",
+      "question": "What is the correct present tense form of 'hablar' for 'yo'?",
+      "correctAnswer": "hablo",
+      "distractors": [
+        "hablas",
+        "habla",
+        "hablamos"
+      ],
+      "explanation": "For -ar verbs, the yo form ends in -o: hablo.",
+      "memoryHook": "T-Rexy says: Yo hablo, I speak.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_027",
+      "question": "What is the correct present tense form of 'comer' for 'tu'?",
+      "correctAnswer": "comes",
+      "distractors": [
+        "como",
+        "come",
+        "comemos"
+      ],
+      "explanation": "For -er verbs, the tu form ends in -es: comes.",
+      "memoryHook": "T-Rexy says: Tu comes, you eat.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "present"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_028",
+      "question": "What is the correct present tense form of 'vivir' for 'el'?",
+      "correctAnswer": "vive",
+      "distractors": [
+        "vivo",
+        "vives",
+        "vivimos"
+      ],
+      "explanation": "For -ir verbs, the el/ella form ends in -e: vive.",
+      "memoryHook": "T-Rexy says: El vive, he lives.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "present"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_029",
+      "question": "What is the correct present tense form of 'estudiar' for 'nosotros'?",
+      "correctAnswer": "estudiamos",
+      "distractors": [
+        "estudian",
+        "estudias",
+        "estudio"
+      ],
+      "explanation": "For -ar verbs, the nosotros form ends in -amos: estudiamos.",
+      "memoryHook": "T-Rexy says: Nosotros estudiamos, we study.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "present"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_030",
+      "question": "What is the correct present tense form of 'escribir' for 'ellos'?",
+      "correctAnswer": "escriben",
+      "distractors": [
+        "escribe",
+        "escribo",
+        "escribimos"
+      ],
+      "explanation": "For -ir verbs, the ellos form ends in -en: escriben.",
+      "memoryHook": "T-Rexy says: Ellos escriben, they write.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_031",
+      "question": "What is the correct present tense form of 'ser' for 'yo'?",
+      "correctAnswer": "soy",
+      "distractors": [
+        "eres",
+        "es",
+        "son"
+      ],
+      "explanation": "Ser is irregular: yo soy.",
+      "memoryHook": "T-Rexy says: Yo soy, I am.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "ser"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_032",
+      "question": "What is the correct present tense form of 'ir' for 'nosotros'?",
+      "correctAnswer": "vamos",
+      "distractors": [
+        "van",
+        "vas",
+        "voy"
+      ],
+      "explanation": "Ir is irregular: nosotros vamos.",
+      "memoryHook": "T-Rexy says: Nosotros vamos, we go.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "ir"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_033",
+      "question": "What is the correct present tense form of 'tener' for 'tu'?",
+      "correctAnswer": "tienes",
+      "distractors": [
+        "tengo",
+        "tiene",
+        "tenemos"
+      ],
+      "explanation": "Tener is stem-changing: tu tienes.",
+      "memoryHook": "T-Rexy says: Tu tienes, you have.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "tener"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_034",
+      "question": "What does 'estar' mean, and when is it used?",
+      "correctAnswer": "To be, for temporary conditions and locations",
+      "distractors": [
+        "To be, for permanent traits",
+        "To have",
+        "To go"
+      ],
+      "explanation": "Estar is used for temporary states, emotions, and locations.",
+      "memoryHook": "T-Rexy says: Estar is for how you feel and where you are.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "ser-estar"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_035",
+      "question": "What does 'ser' mean, and when is it used?",
+      "correctAnswer": "To be, for permanent traits, identity, and origin",
+      "distractors": [
+        "To be, for temporary feelings",
+        "To have",
+        "To go"
+      ],
+      "explanation": "Ser is used for characteristics, identity, time, and origin.",
+      "memoryHook": "T-Rexy says: Ser is for what something is.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "ser-estar"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_036",
+      "question": "Choose the correct sentence: 'María ___ en la escuela.'",
+      "correctAnswer": "está",
+      "distractors": [
+        "es",
+        "son",
+        "están"
+      ],
+      "explanation": "Location uses estar: María está en la escuela.",
+      "memoryHook": "T-Rexy says: Location uses estar.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "ser-estar"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_037",
+      "question": "Choose the correct sentence: 'Ellos ___ estudiantes.'",
+      "correctAnswer": "son",
+      "distractors": [
+        "están",
+        "es",
+        "estoy"
+      ],
+      "explanation": "Identity as students uses ser: Ellos son estudiantes.",
+      "memoryHook": "T-Rexy says: Being a student is ser.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "ser-estar"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_038",
+      "question": "What is the correct present tense form of 'querer' for 'yo'?",
+      "correctAnswer": "quiero",
+      "distractors": [
+        "queres",
+        "quero",
+        "quieres"
+      ],
+      "explanation": "Querer is stem-changing e to ie: yo quiero.",
+      "memoryHook": "T-Rexy says: Yo quiero, I want.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "stem-changing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_039",
+      "question": "What is the correct present tense form of 'poder' for 'el'?",
+      "correctAnswer": "puede",
+      "distractors": [
+        "puedo",
+        "puedes",
+        "podemos"
+      ],
+      "explanation": "Poder is stem-changing o to ue: el puede.",
+      "memoryHook": "T-Rexy says: El puede, he can.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "stem-changing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_040",
+      "question": "What is the correct present tense form of 'dormir' for 'nosotros'?",
+      "correctAnswer": "dormimos",
+      "distractors": [
+        "duermen",
+        "duermo",
+        "dormis"
+      ],
+      "explanation": "Dormir is o to ue, but nosotros keeps the o: dormimos.",
+      "memoryHook": "T-Rexy says: Nosotros dormimos, we sleep.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "stem-changing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_041",
+      "question": "What is the correct present tense form of 'jugar' for 'yo'?",
+      "correctAnswer": "juego",
+      "distractors": [
+        "jugo",
+        "juega",
+        "jugamos"
+      ],
+      "explanation": "Jugar is u to ue: yo juego.",
+      "memoryHook": "T-Rexy says: Yo juego, I play.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "stem-changing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_042",
+      "question": "What is the correct present tense form of 'saber' for 'yo'?",
+      "correctAnswer": "sé",
+      "distractors": [
+        "sabo",
+        "sabe",
+        "sabes"
+      ],
+      "explanation": "Saber is irregular in the yo form: yo sé. The written accent separates sé (I know) from se (himself/herself).",
+      "memoryHook": "T-Rexy says: Yo sé, I know.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "irregular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_043",
+      "question": "What is the correct present tense form of 'hacer' for 'el'?",
+      "correctAnswer": "hace",
+      "distractors": [
+        "hago",
+        "haces",
+        "hacemos"
+      ],
+      "explanation": "Hacer (to do/make) is irregular only in the yo form in the present: yo hago. For él it follows the regular -er pattern: él hace.",
+      "memoryHook": "T-Rexy says: El hace, he does or makes.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "irregular"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_044",
+      "question": "What is the correct present tense form of 'venir' for 'tu'?",
+      "correctAnswer": "vienes",
+      "distractors": [
+        "vengo",
+        "viene",
+        "venimos"
+      ],
+      "explanation": "Venir is stem-changing: tu vienes.",
+      "memoryHook": "T-Rexy says: Tu vienes, you come.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "stem-changing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_045",
+      "question": "What is the correct present tense form of 'decir' for 'yo'?",
+      "correctAnswer": "digo",
+      "distractors": [
+        "dico",
+        "dice",
+        "dices"
+      ],
+      "explanation": "Decir is irregular in the yo form: yo digo.",
+      "memoryHook": "T-Rexy says: Yo digo, I say.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "irregular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_046",
+      "question": "What does 'me gusta' mean?",
+      "correctAnswer": "I like",
+      "distractors": [
+        "I love",
+        "I want",
+        "I need"
+      ],
+      "explanation": "Me gusta literally means 'it pleases me', used for I like.",
+      "memoryHook": "T-Rexy says: Me gusta means I like it.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "gustar"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_047",
+      "question": "How do you say 'I like the books' in Spanish?",
+      "correctAnswer": "Me gustan los libros",
+      "distractors": [
+        "Me gusta los libros",
+        "Me gusto los libros",
+        "Me gustan el libro"
+      ],
+      "explanation": "Gustan is plural because libros is plural.",
+      "memoryHook": "T-Rexy says: Me gustan goes with plural things.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "gustar"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_048",
+      "question": "What is the correct form: 'A mí ___ el fútbol.'",
+      "correctAnswer": "me gusta",
+      "distractors": [
+        "me gustan",
+        "me gusto",
+        "me gustar"
+      ],
+      "explanation": "Fútbol is singular, so use me gusta. Plural things take me gustan instead.",
+      "memoryHook": "T-Rexy says: Singular things take me gusta.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "gustar"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_049",
+      "question": "What is the present progressive form of 'hablar' for 'yo'?",
+      "correctAnswer": "Estoy hablando",
+      "distractors": [
+        "Estoy hablo",
+        "Soy hablando",
+        "Estoy habla"
+      ],
+      "explanation": "Present progressive uses estar plus the -ando form: estoy hablando.",
+      "memoryHook": "T-Rexy says: Estoy hablando means I am speaking.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "progressive"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_050",
+      "question": "What is the present progressive form of 'comer' for 'ellos'?",
+      "correctAnswer": "Están comiendo",
+      "distractors": [
+        "Están come",
+        "Son comiendo",
+        "Están comen"
+      ],
+      "explanation": "Present progressive uses estar plus the -iendo form: están comiendo.",
+      "memoryHook": "T-Rexy says: Están comiendo means they are eating.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "progressive"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_051",
+      "question": "What is the preterite form of 'hablar' for 'yo'?",
+      "correctAnswer": "hablé",
+      "distractors": [
+        "hablo",
+        "hablaba",
+        "hablaré"
+      ],
+      "explanation": "The preterite yo form of -ar verbs ends in -é: hablé. The accent is what separates hablé (I spoke) from hable (a command form).",
+      "memoryHook": "T-Rexy says: Hablé means I spoke.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_052",
+      "question": "What is the preterite form of 'comer' for 'el'?",
+      "correctAnswer": "comió",
+      "distractors": [
+        "como",
+        "comía",
+        "come"
+      ],
+      "explanation": "The preterite él form of -er verbs ends in -ió: comió. The accent marks the stress on the final syllable.",
+      "memoryHook": "T-Rexy says: Comió means he ate.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_053",
+      "question": "What is the preterite form of 'ser' for 'yo'?",
+      "correctAnswer": "fui",
+      "distractors": [
+        "soy",
+        "era",
+        "es"
+      ],
+      "explanation": "Ser and ir share the preterite: yo fui.",
+      "memoryHook": "T-Rexy says: Fui can mean I was or I went.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_054",
+      "question": "What is the preterite form of 'ir' for 'ellos'?",
+      "correctAnswer": "fueron",
+      "distractors": [
+        "van",
+        "iban",
+        "fue"
+      ],
+      "explanation": "Ir shares its entire preterite with ser - the forms give no hint of the infinitive: fui, fuiste, fue, fuimos, fueron. Only context tells you whether 'fueron' means 'they went' or 'they were'.",
+      "memoryHook": "T-Rexy says: Fueron means they went.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_055",
+      "question": "What is the preterite form of 'tener' for 'yo'?",
+      "correctAnswer": "tuve",
+      "distractors": [
+        "tengo",
+        "tenía",
+        "tendré"
+      ],
+      "explanation": "Tener is irregular in the preterite: yo tuve.",
+      "memoryHook": "T-Rexy says: Tuve means I had.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_056",
+      "question": "What is the imperfect form of 'hablar' for 'tu'?",
+      "correctAnswer": "hablabas",
+      "distractors": [
+        "hablaste",
+        "hablas",
+        "hablaras"
+      ],
+      "explanation": "The imperfect tu form of -ar verbs ends in -abas: hablabas.",
+      "memoryHook": "T-Rexy says: Hablabas means you were speaking.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "imperfect"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_057",
+      "question": "What is the imperfect form of 'ser' for 'nosotros'?",
+      "correctAnswer": "éramos",
+      "distractors": [
+        "somos",
+        "fuimos",
+        "seremos"
+      ],
+      "explanation": "Ser is one of only three irregular verbs in the imperfect: era, eras, era, éramos, eran. The written accent on éramos is required.",
+      "memoryHook": "T-Rexy says: Éramos means we were.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "imperfect"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_058",
+      "question": "When do you use the imperfect tense?",
+      "correctAnswer": "For ongoing or repeated past actions and descriptions",
+      "distractors": [
+        "For completed past actions",
+        "For future plans",
+        "For commands"
+      ],
+      "explanation": "The imperfect describes what was happening or used to happen.",
+      "memoryHook": "T-Rexy says: Imperfect is for what was going on.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "imperfect"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_059",
+      "question": "When do you use the preterite tense?",
+      "correctAnswer": "For completed actions in the past",
+      "distractors": [
+        "For ongoing past actions",
+        "For future events",
+        "For habits"
+      ],
+      "explanation": "The preterite tells what happened at a specific completed moment.",
+      "memoryHook": "T-Rexy says: Preterite is for what happened, done.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_060",
+      "question": "Choose the correct form: 'Ayer yo ___ a la escuela.'",
+      "correctAnswer": "fui",
+      "distractors": [
+        "voy",
+        "iré",
+        "ir"
+      ],
+      "explanation": "Ayer (yesterday) with a completed action takes the preterite: fui.",
+      "memoryHook": "T-Rexy says: Ayer plus a finished action is preterite.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_061",
+      "question": "Choose the correct form: 'Cuando era niño, ___ mucho.'",
+      "correctAnswer": "jugaba",
+      "distractors": [
+        "jugo",
+        "juega",
+        "jugaré"
+      ],
+      "explanation": "Cuando era niño (when he was a child) describes a repeated past habit, so use the imperfect: jugaba.",
+      "memoryHook": "T-Rexy says: Used to play is imperfect.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "imperfect"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_062",
+      "question": "What is the preterite form of 'hacer' for 'el'?",
+      "correctAnswer": "hizo",
+      "distractors": [
+        "hace",
+        "hacía",
+        "hará"
+      ],
+      "explanation": "Hacer is irregular in the preterite: el hizo.",
+      "memoryHook": "T-Rexy says: Hizo means he did or made.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_063",
+      "question": "What is the preterite form of 'decir' for 'ellos'?",
+      "correctAnswer": "dijeron",
+      "distractors": [
+        "dicen",
+        "decían",
+        "dirán"
+      ],
+      "explanation": "Decir is irregular in the preterite: ellos dijeron.",
+      "memoryHook": "T-Rexy says: Dijeron means they said.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_064",
+      "question": "What is the imperfect form of 'ir' for 'yo'?",
+      "correctAnswer": "iba",
+      "distractors": [
+        "fui",
+        "voy",
+        "iré"
+      ],
+      "explanation": "Ir is irregular in the imperfect - it does not use the stem ir- at all: iba, ibas, iba, íbamos, iban. Only ser, ir and ver are irregular in this tense.",
+      "memoryHook": "T-Rexy says: Iba means I was going.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "imperfect"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_065",
+      "question": "What is the preterite form of 'ver' for 'tu'?",
+      "correctAnswer": "viste",
+      "distractors": [
+        "ves",
+        "veías",
+        "verás"
+      ],
+      "explanation": "Ver (to see) has a short, accent-free preterite: vi, viste, vio, vimos, vieron. Note that 'vi' and 'vio' carry no written accent, unlike most preterite endings.",
+      "memoryHook": "T-Rexy says: Viste means you saw.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_066",
+      "question": "What is the imperfect form of 'vivir' for 'ellos'?",
+      "correctAnswer": "vivían",
+      "distractors": [
+        "viven",
+        "vivieron",
+        "viviran"
+      ],
+      "explanation": "The imperfect ellos form of -ir verbs ends in -ían: vivían.",
+      "memoryHook": "T-Rexy says: Vivían means they were living.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "imperfect"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_067",
+      "question": "What is the preterite form of 'escribir' for 'nosotros'?",
+      "correctAnswer": "escribimos",
+      "distractors": [
+        "escribíamos",
+        "escriben",
+        "escribiremos"
+      ],
+      "explanation": "Escribir in the preterite nosotros is escribimos, the same as the present form.",
+      "memoryHook": "T-Rexy says: Escribimos can mean we write or we wrote.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_068",
+      "question": "Choose the correct form: 'Mientras yo cocinaba, él ___ la mesa de repente.'",
+      "correctAnswer": "puso",
+      "distractors": [
+        "ponía",
+        "pone",
+        "pondrá"
+      ],
+      "explanation": "A completed action interrupting an ongoing one takes the preterite: puso.",
+      "memoryHook": "T-Rexy says: The interruption is preterite.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite-imperfect"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_069",
+      "question": "What is the preterite form of 'dar' for 'yo'?",
+      "correctAnswer": "di",
+      "distractors": [
+        "doy",
+        "daba",
+        "daré"
+      ],
+      "explanation": "Dar (to give) borrows the -er/-ir preterite endings and adds no accents: di, diste, dio, dimos, dieron. So 'yo di' = I gave.",
+      "memoryHook": "T-Rexy says: Di means I gave.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "preterite"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_070",
+      "question": "What is the imperfect form of 'tener' for 'el'?",
+      "correctAnswer": "tenía",
+      "distractors": [
+        "tuvo",
+        "tiene",
+        "tendrá"
+      ],
+      "explanation": "Tener is regular in the imperfect - no stem change there: tenía, tenías, tenía, teníamos, tenían. 'Él tenía tres perros' = he had (used to have) three dogs.",
+      "memoryHook": "T-Rexy says: Tenía means he had or was having.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "imperfect"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_071",
+      "question": "What is the future form of 'hablar' for 'yo'?",
+      "correctAnswer": "hablaré",
+      "distractors": [
+        "hablo",
+        "hablaba",
+        "hablé"
+      ],
+      "explanation": "The future adds -é to the infinitive for yo: hablaré. Every future ending carries a written accent except nosotros (-emos).",
+      "memoryHook": "T-Rexy says: Hablaré means I will speak.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "future"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_072",
+      "question": "What is the future form of 'tener' for 'el'?",
+      "correctAnswer": "tendrá",
+      "distractors": [
+        "tiene",
+        "tuvo",
+        "tenia"
+      ],
+      "explanation": "Tener is irregular in the future - its stem becomes tendr-: él tendrá.",
+      "memoryHook": "T-Rexy says: Tendrá means he will have.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "future"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_073",
+      "question": "How do you give a formal command to 'hablar' for usted?",
+      "correctAnswer": "Hable",
+      "distractors": [
+        "Habla",
+        "Hablas",
+        "Hablando"
+      ],
+      "explanation": "The usted command uses the opposite vowel: hable.",
+      "memoryHook": "T-Rexy says: Hable is the polite command.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "commands"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_074",
+      "question": "How do you give an informal command to 'comer' for tu?",
+      "correctAnswer": "Come",
+      "distractors": [
+        "Coma",
+        "Comes",
+        "Comiendo"
+      ],
+      "explanation": "The tu affirmative command uses the el present form: come.",
+      "memoryHook": "T-Rexy says: Come means eat, as a command.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "commands"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_075",
+      "question": "What is the direct object pronoun for 'el libro'?",
+      "correctAnswer": "lo",
+      "distractors": [
+        "le",
+        "la",
+        "los"
+      ],
+      "explanation": "El libro is masculine singular, so its direct object pronoun is lo.",
+      "memoryHook": "T-Rexy says: Lo replaces a masculine singular thing.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "pronouns"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_076",
+      "question": "What is the indirect object pronoun for 'a María'?",
+      "correctAnswer": "le",
+      "distractors": [
+        "lo",
+        "la",
+        "me"
+      ],
+      "explanation": "A María is the recipient, so use the indirect object pronoun le.",
+      "memoryHook": "T-Rexy says: Le means to her or to him.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "pronouns"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_077",
+      "question": "What is the correct order: 'I give it to you'?",
+      "correctAnswer": "Te lo doy",
+      "distractors": [
+        "Lo te doy",
+        "Doy te lo",
+        "Te doy lo"
+      ],
+      "explanation": "Indirect object pronouns come before direct object pronouns: te lo doy.",
+      "memoryHook": "T-Rexy says: Indirect before direct: te lo doy.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "pronouns"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_078",
+      "question": "Which adjective agrees with 'las casas'?",
+      "correctAnswer": "bonitas",
+      "distractors": [
+        "bonito",
+        "bonita",
+        "bonitos"
+      ],
+      "explanation": "Las casas is feminine plural, so the adjective is bonitas.",
+      "memoryHook": "T-Rexy says: Adjectives match the noun in gender and number.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_079",
+      "question": "Where does the adjective usually go in Spanish?",
+      "correctAnswer": "After the noun",
+      "distractors": [
+        "Before the noun",
+        "At the start of the sentence",
+        "After the verb"
+      ],
+      "explanation": "In Spanish, descriptive adjectives usually follow the noun: casa blanca.",
+      "memoryHook": "T-Rexy says: In Spanish the adjective follows the noun.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_080",
+      "question": "What is the difference between 'saber' and 'conocer'?",
+      "correctAnswer": "Saber is knowing facts; conocer is knowing people or places",
+      "distractors": [
+        "They mean the same thing",
+        "Saber is for places only",
+        "Conocer is for facts only"
+      ],
+      "explanation": "Saber is to know information; conocer is to be familiar with people or places.",
+      "memoryHook": "T-Rexy says: Saber is facts, conocer is familiarity.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "verbs",
+        "saber-conocer"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_081",
+      "question": "Which sentence uses 'por' correctly?",
+      "correctAnswer": "Caminamos por el parque.",
+      "distractors": [
+        "El regalo es por ti.",
+        "Gracias para tu ayuda",
+        "Estudio por español"
+      ],
+      "explanation": "Por can mean through or along a place: 'Caminamos por el parque' = we walked through the park. The others misuse por: a gift's recipient takes 'para' (El regalo es para ti), thanks are 'gracias por' - never 'gracias para' - and a school subject takes no preposition at all (Estudio español).",
+      "memoryHook": "T-Rexy says: Por means through or by.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "por-para"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_082",
+      "question": "Which sentence uses 'para' correctly?",
+      "correctAnswer": "Este regalo es para ti.",
+      "distractors": [
+        "Caminé para el parque.",
+        "Gracias por tu ayuda.",
+        "Estudio para español."
+      ],
+      "explanation": "Para marks a recipient or a purpose: 'Este regalo es para ti' = this gift is for you (the recipient). The others fail: walking through a place takes 'por' (Caminé por el parque), thanks take 'por' - and a correct 'por' sentence is not a 'para' sentence - and a subject you study takes no preposition (Estudio español).",
+      "memoryHook": "T-Rexy says: Para means for, as in purpose.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "por-para"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_083",
+      "question": "What is the comparative form: 'María es ___ alta que Ana.' (María is taller than Ana.)",
+      "correctAnswer": "más",
+      "distractors": [
+        "menos",
+        "tan",
+        "muy"
+      ],
+      "explanation": "Más + adjective + que makes a comparative: 'más alta que Ana' = taller than Ana. 'Menos' would flip the meaning to 'less tall', and 'tan' is only used in 'tan... como' (as... as).",
+      "memoryHook": "T-Rexy says: Más means more - más alta is taller.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "comparatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_084",
+      "question": "What is the superlative: 'Es el libro ___ interesante de todos.' (It is the most interesting of all.)",
+      "correctAnswer": "más",
+      "distractors": [
+        "menos",
+        "tan",
+        "muy"
+      ],
+      "explanation": "El + más + adjective + de makes a superlative: 'el más interesante de todos' = the most interesting of all. 'Menos' in the same frame would mean the least interesting.",
+      "memoryHook": "T-Rexy says: El más means the most.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "comparatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_085",
+      "question": "What does 'Día de los Muertos' celebrate?",
+      "correctAnswer": "Deceased loved ones, mainly in Mexico",
+      "distractors": [
+        "The harvest",
+        "Independence Day",
+        "Christmas"
+      ],
+      "explanation": "El Día de los Muertos honors dead family members with altars, food, and marigolds.",
+      "memoryHook": "T-Rexy says: Day of the Dead honors loved ones who died.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "culture",
+        "mexico"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_086",
+      "question": "What is the capital of Spain?",
+      "correctAnswer": "Madrid",
+      "distractors": [
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "explanation": "Madrid is the capital and largest city of Spain, in the center of the country. Barcelona - the tempting distractor - is the capital of the Catalonia region, not of Spain.",
+      "memoryHook": "T-Rexy says: Madrid is Spain's capital.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "culture",
+        "spain"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_087",
+      "question": "Which country is home to Machu Picchu?",
+      "correctAnswer": "Peru",
+      "distractors": [
+        "Mexico",
+        "Chile",
+        "Bolivia"
+      ],
+      "explanation": "Machu Picchu is an Inca site in Peru.",
+      "memoryHook": "T-Rexy says: Machu Picchu sits high in Peru.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "culture",
+        "peru"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_088",
+      "question": "What is the main language of Brazil?",
+      "correctAnswer": "Portuguese",
+      "distractors": [
+        "Spanish",
+        "French",
+        "Italian"
+      ],
+      "explanation": "Brazil speaks Portuguese, not Spanish.",
+      "memoryHook": "T-Rexy says: Brazil speaks Portuguese.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "culture",
+        "latin-america"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_089",
+      "question": "What is 'la siesta'?",
+      "correctAnswer": "A midday rest or nap, traditional in Spain",
+      "distractors": [
+        "A dance",
+        "A type of food",
+        "A festival"
+      ],
+      "explanation": "La siesta is a short afternoon rest common in Spain and Latin America.",
+      "memoryHook": "T-Rexy says: La siesta is an afternoon nap.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "culture",
+        "spain"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_090",
+      "question": "Which artist painted 'Guernica'?",
+      "correctAnswer": "Pablo Picasso",
+      "distractors": [
+        "Salvador Dalí",
+        "Frida Kahlo",
+        "Diego Rivera"
+      ],
+      "explanation": "Picasso painted Guernica in 1937 about the bombing of a Basque town.",
+      "memoryHook": "T-Rexy says: Picasso's Guernica protests war.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "culture",
+        "art"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_091",
+      "question": "What is the currency of Mexico?",
+      "correctAnswer": "The peso",
+      "distractors": [
+        "The dollar",
+        "The euro",
+        "The real"
+      ],
+      "explanation": "Mexico's currency is the peso, written with the $ sign - a symbol Spanish colonies were using before the US dollar existed. Other countries have pesos too, but Mexico is the one asked about here.",
+      "memoryHook": "T-Rexy says: Mexico's money is the peso.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "culture",
+        "mexico"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_092",
+      "question": "What does 'buenas tardes' mean?",
+      "correctAnswer": "Good afternoon",
+      "distractors": [
+        "Good morning",
+        "Good night",
+        "Good day"
+      ],
+      "explanation": "Buenas tardes is used in the afternoon.",
+      "memoryHook": "T-Rexy says: Buenas tardes is good afternoon.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_093",
+      "question": "What does 'hasta mañana' mean?",
+      "correctAnswer": "See you tomorrow",
+      "distractors": [
+        "See you later",
+        "Goodbye forever",
+        "See you yesterday"
+      ],
+      "explanation": "Hasta mañana literally means 'until tomorrow': hasta (until) + mañana (tomorrow). Mañana also means 'morning', so let the context decide.",
+      "memoryHook": "T-Rexy says: Hasta mañana is see you tomorrow.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "vocabulary",
+        "common"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_094",
+      "question": "What is the correct question word for 'where'?",
+      "correctAnswer": "Dónde",
+      "distractors": [
+        "Cuándo",
+        "Cómo",
+        "Por qué"
+      ],
+      "explanation": "Dónde is the question word for where, and like every Spanish question word it carries a written accent: ¿Dónde está el baño? Without the accent, 'donde' only links clauses: 'la casa donde vivo' (the house where I live).",
+      "memoryHook": "T-Rexy says: Dónde is where.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "questions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_095",
+      "question": "What is the correct question word for 'why'?",
+      "correctAnswer": "Por qué",
+      "distractors": [
+        "Cuándo",
+        "Dónde",
+        "Quién"
+      ],
+      "explanation": "Por qué (two words, written accent) asks why: ¿Por qué estudias español? Keep the family apart: porque = because, el porqué = the reason (a noun), por que = for which.",
+      "memoryHook": "T-Rexy says: Por qué is why.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "questions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_096",
+      "question": "What is the correct question word for 'when'?",
+      "correctAnswer": "Cuándo",
+      "distractors": [
+        "Dónde",
+        "Cómo",
+        "Quién"
+      ],
+      "explanation": "Cuándo asks when and carries a written accent in questions: ¿Cuándo es la fiesta? The unaccented 'cuando' works inside statements: 'Cuando era niño...' (When I was a child...).",
+      "memoryHook": "T-Rexy says: Cuándo is when.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "questions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_097",
+      "question": "What is the correct question word for 'how'?",
+      "correctAnswer": "Cómo",
+      "distractors": [
+        "Cuándo",
+        "Dónde",
+        "Quién"
+      ],
+      "explanation": "Cómo asks how and carries a written accent: ¿Cómo estás? = How are you? Unaccented 'como' means 'as/like' - and also 'I eat', from comer.",
+      "memoryHook": "T-Rexy says: Cómo is how.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "questions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_098",
+      "question": "What is the correct question word for 'who'?",
+      "correctAnswer": "Quién",
+      "distractors": [
+        "Cuándo",
+        "Dónde",
+        "Cómo"
+      ],
+      "explanation": "Quién asks who and carries a written accent: ¿Quién es ella? Its plural is quiénes, used when the answer will be more than one person.",
+      "memoryHook": "T-Rexy says: Quién is who.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "questions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_099",
+      "question": "How do you say 'I am 15 years old' in Spanish?",
+      "correctAnswer": "Tengo quince años",
+      "distractors": [
+        "Soy quince años",
+        "Estoy quince años",
+        "Tengo quince año"
+      ],
+      "explanation": "Age uses tener, not ser or estar: tengo quince años - literally, 'I have fifteen years'.",
+      "memoryHook": "T-Rexy says: Age uses tener in Spanish.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "age"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA10_100",
+      "question": "What is the plural of 'el lápiz'?",
+      "correctAnswer": "los lápices",
+      "distractors": [
+        "los lápiz",
+        "las lápices",
+        "los lapizes"
+      ],
+      "explanation": "Lápiz becomes lápices in the plural, with z changing to c before e and the accent staying on the same syllable.",
+      "memoryHook": "T-Rexy says: Lápiz becomes lápices.",
+      "imageUrl": "topic:spanish-2",
+      "tags": [
+        "grammar",
+        "plurals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

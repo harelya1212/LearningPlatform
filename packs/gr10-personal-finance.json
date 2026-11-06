@@ -1,0 +1,2017 @@
+{
+  "packId": "gr10-personal-finance",
+  "title": "Personal Finance (10th Grade)",
+  "description": "Personal Finance (10th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "finance",
+    "personal-finance",
+    "10th"
+  ],
+  "questions": [
+    {
+      "id": "FIN10_001",
+      "question": "What is a budget?",
+      "correctAnswer": "A plan for how to spend and save your money",
+      "distractors": [
+        "A type of bank account",
+        "A loan from a bank",
+        "A tax form"
+      ],
+      "explanation": "A budget lists your income and assigns every dollar a job - bills, spending, and savings - before the month starts, so you can see whether your plan fits what you earn.",
+      "memoryHook": "T-Rexy says: A budget is a plan for your money.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "budgeting",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_002",
+      "question": "What is the 50/30/20 budgeting rule?",
+      "correctAnswer": "50 percent needs, 30 percent wants, 20 percent savings and debt payoff",
+      "distractors": [
+        "50 percent savings, 30 percent wants, 20 percent needs",
+        "50 percent taxes, 30 percent savings, 20 percent wants",
+        "50 percent wants, 30 percent needs, 20 percent taxes"
+      ],
+      "explanation": "Apply the percentages to your take-home pay: on $2,000 a month, about $1,000 goes to needs like rent and groceries, $600 to wants, and $400 to savings and extra debt payments.",
+      "memoryHook": "T-Rexy says: 50 needs, 30 wants, 20 savings.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "budgeting",
+        "rule"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_003",
+      "question": "What is the difference between a need and a want?",
+      "correctAnswer": "A need is essential for living; a want is nice to have",
+      "distractors": [
+        "There is no difference",
+        "A want is essential",
+        "A need is a luxury"
+      ],
+      "explanation": "Needs are essentials like food and shelter; wants are extras like concerts.",
+      "memoryHook": "T-Rexy says: Needs keep you alive, wants make life fun.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "budgeting",
+        "needs-wants"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_004",
+      "question": "What is gross pay?",
+      "correctAnswer": "Your pay before taxes and deductions",
+      "distractors": [
+        "Your pay after taxes",
+        "Your hourly wage only",
+        "Your bonus only"
+      ],
+      "explanation": "Gross pay is the full amount you earn - hours worked times your hourly rate, or your salary - before Social Security, Medicare, income tax, and other deductions are taken out.",
+      "memoryHook": "T-Rexy says: Gross is before taxes take a cut.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "income",
+        "pay"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_005",
+      "question": "What is net pay?",
+      "correctAnswer": "Your take-home pay after taxes and deductions",
+      "distractors": [
+        "Your pay before taxes",
+        "Your salary only",
+        "Your overtime pay"
+      ],
+      "explanation": "Net pay equals gross pay minus all deductions (taxes, Social Security, Medicare, benefits). It is the amount actually deposited in your account, and it is the number your budget should be built on.",
+      "memoryHook": "T-Rexy says: Net pay is what lands in your account.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "income",
+        "pay"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_006",
+      "question": "What is an emergency fund?",
+      "correctAnswer": "Money saved for unexpected expenses",
+      "distractors": [
+        "Money for vacations",
+        "Money for shopping",
+        "A retirement account"
+      ],
+      "explanation": "An emergency fund covers surprises like car repairs or medical bills.",
+      "memoryHook": "T-Rexy says: An emergency fund is money for surprises.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "saving",
+        "emergency-fund"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_007",
+      "question": "How many months of expenses should an emergency fund cover?",
+      "correctAnswer": "3 to 6 months",
+      "distractors": [
+        "1 week",
+        "1 month",
+        "12 months"
+      ],
+      "explanation": "Add up one month of essential bills - rent, food, transport, and minimum payments - and aim to save three to six times that amount, so losing a job or facing a big repair does not force you into debt.",
+      "memoryHook": "T-Rexy says: Three to six months is the emergency target.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "saving",
+        "emergency-fund"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_008",
+      "question": "What is the first step in making a budget?",
+      "correctAnswer": "Track your income and spending",
+      "distractors": [
+        "Open a credit card",
+        "Buy stocks",
+        "Take out a loan"
+      ],
+      "explanation": "You need to know what comes in and goes out before you can plan.",
+      "memoryHook": "T-Rexy says: Track first, then plan.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "budgeting",
+        "steps"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_009",
+      "question": "What is a fixed expense?",
+      "correctAnswer": "An expense that stays the same each month, like rent",
+      "distractors": [
+        "An expense that changes monthly",
+        "A one-time purchase",
+        "A luxury item"
+      ],
+      "explanation": "Fixed expenses, like rent or a car payment, do not change month to month.",
+      "memoryHook": "T-Rexy says: Rent is a fixed expense.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "budgeting",
+        "expenses"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_010",
+      "question": "What is a variable expense?",
+      "correctAnswer": "An expense that changes month to month, like groceries or gas",
+      "distractors": [
+        "Rent",
+        "A car payment",
+        "Insurance premiums"
+      ],
+      "explanation": "Variable expenses change, such as food, gas, and entertainment.",
+      "memoryHook": "T-Rexy says: Groceries are a variable expense.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "budgeting",
+        "expenses"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_011",
+      "question": "What does 'pay yourself first' mean?",
+      "correctAnswer": "Save money as soon as you get paid, before spending",
+      "distractors": [
+        "Pay your bills last",
+        "Spend everything first",
+        "Save only what is left over"
+      ],
+      "explanation": "Treat savings like a bill that is due first: set an automatic transfer to savings on payday, before rent, shopping, or fun spending can use the money up.",
+      "memoryHook": "T-Rexy says: Save first, spend the rest.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "saving",
+        "habits"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_012",
+      "question": "An investor wants her savings to double in about 8 years, with no extra deposits. Using the Rule of 72, about what annual interest rate does she need?",
+      "correctAnswer": "9 percent a year",
+      "distractors": [
+        "8 percent a year",
+        "18 percent a year",
+        "64 percent a year"
+      ],
+      "explanation": "The Rule of 72 works in both directions: the rate you need is 72 divided by the years you can wait. Here, 72 / 8 = 9, so she needs an average return of about 9 percent a year. Check: at 9 percent, money doubles in about 72 / 9 = 8 years.",
+      "memoryHook": "T-Rexy says: 72 divided by the years gives the rate you need.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "saving",
+        "rule-of-72"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_013",
+      "question": "What is opportunity cost?",
+      "correctAnswer": "What you give up when you choose one thing over another",
+      "distractors": [
+        "The price of an item",
+        "The tax on a purchase",
+        "The interest on a loan"
+      ],
+      "explanation": "Opportunity cost is the value of the next best option you did not choose.",
+      "memoryHook": "T-Rexy says: Every choice costs you the next best option.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "economics",
+        "opportunity-cost"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_014",
+      "question": "What is inflation?",
+      "correctAnswer": "A general rise in prices over time that reduces purchasing power",
+      "distractors": [
+        "A fall in prices",
+        "A rise in wages only",
+        "A type of tax"
+      ],
+      "explanation": "Inflation is measured as a yearly percentage: at 3 percent inflation, something that costs $100 today costs about $103 next year, so cash that does not grow slowly loses value.",
+      "memoryHook": "T-Rexy says: Inflation makes money buy less.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "economics",
+        "inflation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_015",
+      "question": "If inflation is 3 percent and your savings earn 1 percent, what happens to your purchasing power?",
+      "correctAnswer": "It decreases by about 2 percent",
+      "distractors": [
+        "It increases by 2 percent",
+        "It stays the same",
+        "It doubles"
+      ],
+      "explanation": "Compare the two rates: 1 percent interest minus 3 percent inflation equals about minus 2 percent. Your balance grows in dollars but shrinks in what it can buy, which is why savings need to earn at least as much as inflation.",
+      "memoryHook": "T-Rexy says: If prices rise faster than your interest, you lose ground.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "economics",
+        "inflation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_016",
+      "question": "What is the difference between a checking and a savings account?",
+      "correctAnswer": "Checking is for everyday spending; savings is for storing money and earning interest",
+      "distractors": [
+        "They are the same",
+        "Savings is for spending daily",
+        "Checking earns more interest"
+      ],
+      "explanation": "Use checking for money that moves - paychecks in, bills and card purchases out. Use savings for money that sits: it stays separate from daily spending and earns interest.",
+      "memoryHook": "T-Rexy says: Checking is for spending, savings is for saving.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "banking",
+        "accounts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_017",
+      "question": "What is a debit card?",
+      "correctAnswer": "A card that takes money directly from your checking account",
+      "distractors": [
+        "A card that borrows money",
+        "A credit card",
+        "A gift card"
+      ],
+      "explanation": "A debit card pulls money straight out of your checking account at the moment you pay, so you can only spend what is already in the account - unlike a credit card, nothing is borrowed.",
+      "memoryHook": "T-Rexy says: Debit spends your own money.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "banking",
+        "cards"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_018",
+      "question": "What is a credit card?",
+      "correctAnswer": "A card that lets you borrow money up to a limit, which you must repay",
+      "distractors": [
+        "A card that uses your savings",
+        "A card with no limit",
+        "A card that only works online"
+      ],
+      "explanation": "A credit card is a short-term loan from the issuer, repaid with interest if not paid in full.",
+      "memoryHook": "T-Rexy says: Credit borrows money you must repay.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "banking",
+        "cards"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_019",
+      "question": "What is an ATM fee?",
+      "correctAnswer": "A charge for using another bank's ATM",
+      "distractors": [
+        "A monthly account fee",
+        "A charge for depositing cash",
+        "A fee for writing checks"
+      ],
+      "explanation": "Another bank's ATM can charge you its own fee (often around $3), and your own bank may add a second fee, so one withdrawal can cost $5 or more. Your own bank's ATMs are free.",
+      "memoryHook": "T-Rexy says: Out-of-network ATMs charge a fee.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "banking",
+        "fees"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_020",
+      "question": "What is direct deposit?",
+      "correctAnswer": "Your paycheck sent electronically to your bank account",
+      "distractors": [
+        "A paper check",
+        "A cash payment",
+        "A wire transfer to another country"
+      ],
+      "explanation": "Your employer sends your pay electronically into your account using its routing and account numbers - no paper check to carry to the bank, and the money is usually available on the morning of payday.",
+      "memoryHook": "T-Rexy says: Direct deposit puts pay straight in your account.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "banking",
+        "pay"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_021",
+      "question": "Mia deposits $500 in a savings account with a 2.00 percent APY. If she leaves the money untouched, how much interest does she earn in one year?",
+      "correctAnswer": "$10",
+      "distractors": [
+        "$5",
+        "$20",
+        "$100"
+      ],
+      "explanation": "APY is the effective yearly rate, so one year of interest is the balance times the APY: $500 x 0.02 = $10. That is the point of APY - it already includes compounding, so you can multiply it straight by your balance.",
+      "memoryHook": "T-Rexy says: APY times balance equals one year of interest.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "banking",
+        "apy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_022",
+      "question": "What should you do if you lose your debit card?",
+      "correctAnswer": "Call the bank immediately to freeze or cancel it",
+      "distractors": [
+        "Wait a week",
+        "Tell your friends",
+        "Do nothing"
+      ],
+      "explanation": "Report a lost card right away so the bank can block unauthorized use.",
+      "memoryHook": "T-Rexy says: Lost card? Call the bank right away.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "banking",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_023",
+      "question": "What is a routing number?",
+      "correctAnswer": "A number that identifies your bank for transfers",
+      "distractors": [
+        "Your account password",
+        "Your debit card number",
+        "Your Social Security number"
+      ],
+      "explanation": "The routing number is the 9-digit code printed at the bottom left of a check. Together with your account number, it tells payment systems which bank to send money to or take money from.",
+      "memoryHook": "T-Rexy says: A routing number identifies your bank.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "banking",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_024",
+      "question": "What is overdraft?",
+      "correctAnswer": "Spending more than your account balance, often with a fee",
+      "distractors": [
+        "Depositing a check",
+        "Saving money",
+        "Paying a bill early"
+      ],
+      "explanation": "If a payment takes your balance below zero, the bank may cover it and charge an overdraft fee (often $30 or more per item), or decline the payment. Keeping a small cushion in the account prevents both.",
+      "memoryHook": "T-Rexy says: Overdraft is spending money you do not have.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "banking",
+        "fees"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_025",
+      "question": "What is the FDIC?",
+      "correctAnswer": "A US government agency that insures bank deposits up to $250,000",
+      "distractors": [
+        "A type of bank",
+        "A credit card company",
+        "A tax agency"
+      ],
+      "explanation": "If an FDIC-insured bank fails, the federal government returns your deposits up to $250,000 per depositor, per bank, per account category - so your savings stay protected even if the bank itself goes out of business.",
+      "memoryHook": "T-Rexy says: FDIC insurance protects your bank deposits.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "banking",
+        "fdic"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_026",
+      "question": "What is a credit score?",
+      "correctAnswer": "A number showing how likely you are to repay borrowed money",
+      "distractors": [
+        "Your bank balance",
+        "Your income",
+        "Your savings total"
+      ],
+      "explanation": "A credit score summarizes your borrowing history and predicts repayment risk.",
+      "memoryHook": "T-Rexy says: A credit score grades how you handle debt.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "score"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_027",
+      "question": "You deposit $2,000 in an account that earns 6 percent a year and add nothing more. Using the Rule of 72, about how many years will it take for the account to grow to $4,000?",
+      "correctAnswer": "About 12 years",
+      "distractors": [
+        "About 6 years",
+        "About 17 years",
+        "About 36 years"
+      ],
+      "explanation": "The Rule of 72 estimates doubling time: divide 72 by the annual rate. 72 / 6 = 12, so the deposit doubles in about 12 years. The rule works because compound growth speeds up as the balance grows.",
+      "memoryHook": "T-Rexy says: 72 divided by the rate tells the doubling date.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "saving",
+        "rule-of-72"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_028",
+      "question": "What most affects your credit score?",
+      "correctAnswer": "Paying bills on time",
+      "distractors": [
+        "Your age",
+        "Your job title",
+        "Your address"
+      ],
+      "explanation": "Payment history counts for about 35 percent of a FICO score, more than any other factor. Even one payment 30 days late can drop a good score noticeably and stays on your report for years.",
+      "memoryHook": "T-Rexy says: Paying on time matters most for credit.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "score"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_029",
+      "question": "What is a credit report?",
+      "correctAnswer": "A record of your borrowing and repayment history",
+      "distractors": [
+        "Your bank statement",
+        "Your tax return",
+        "Your pay stub"
+      ],
+      "explanation": "A credit report lists your accounts, payments, and debts.",
+      "memoryHook": "T-Rexy says: A credit report is your borrowing history.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "report"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_030",
+      "question": "Under federal law, how often are you entitled to a free credit report from each bureau?",
+      "correctAnswer": "Once a year from each of the three bureaus at annualcreditreport.com",
+      "distractors": [
+        "Once a month",
+        "Never",
+        "Only when you apply for a loan"
+      ],
+      "explanation": "Federal law entitles you to one free report every 12 months from each of Equifax, Experian, and TransUnion at annualcreditreport.com, and the bureaus currently also offer free weekly reports there. Spreading requests out lets you watch your credit all year.",
+      "memoryHook": "T-Rexy says: You get one free report per bureau per year.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "report"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_031",
+      "question": "What is interest?",
+      "correctAnswer": "The cost of borrowing money, or the money earned on savings",
+      "distractors": [
+        "A type of tax",
+        "A bank fee",
+        "A penalty only"
+      ],
+      "explanation": "Interest is stated as a percentage of the amount involved: a borrower pays it as the price of using someone else's money, while a saver earns it as payment for letting the bank use theirs.",
+      "memoryHook": "T-Rexy says: Interest is the price of borrowing.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "interest"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_032",
+      "question": "What is simple interest?",
+      "correctAnswer": "Interest calculated only on the original principal",
+      "distractors": [
+        "Interest on interest",
+        "Interest with fees",
+        "Interest that changes daily"
+      ],
+      "explanation": "Simple interest is principal times rate times time, with no compounding.",
+      "memoryHook": "T-Rexy says: Simple interest only counts the principal.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "interest"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_033",
+      "question": "What is compound interest?",
+      "correctAnswer": "Interest earned on both the principal and the interest already earned",
+      "distractors": [
+        "Interest on the principal only",
+        "Interest charged once",
+        "Interest with no growth"
+      ],
+      "explanation": "Compound interest grows faster because interest itself earns interest.",
+      "memoryHook": "T-Rexy says: Compound interest earns interest on interest.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "interest"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_034",
+      "question": "If you borrow $1,000 at 10 percent simple interest for 1 year, how much interest do you owe?",
+      "correctAnswer": "$100",
+      "distractors": [
+        "$10",
+        "$1,000",
+        "$110"
+      ],
+      "explanation": "Simple interest is $1,000 x 0.10 x 1 = $100.",
+      "memoryHook": "T-Rexy says: Ten percent of $1,000 is $100.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "interest"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_035",
+      "question": "What is APR?",
+      "correctAnswer": "Annual Percentage Rate, the yearly cost of borrowing including fees",
+      "distractors": [
+        "A type of savings account",
+        "A monthly payment",
+        "A credit score"
+      ],
+      "explanation": "Because APR rolls the interest rate and lender fees into one yearly percentage, it lets you compare loans fairly - a loan with a lower APR costs less overall than one with a higher APR, even if their advertised rates look similar.",
+      "memoryHook": "T-Rexy says: APR is the true yearly cost of borrowing.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "apr"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_036",
+      "question": "You carry a $600 balance on a credit card with a 24 percent APR and make no payment for one month. About how much interest is charged for that month?",
+      "correctAnswer": "$12",
+      "distractors": [
+        "$144",
+        "$24",
+        "$6"
+      ],
+      "explanation": "APR is a yearly rate, so one month costs 24 / 12 = 2 percent of the balance. 2 percent of $600 is $12. Carrying the balance a full year at that pace would cost about $144 - which is why card balances grow so fast.",
+      "memoryHook": "T-Rexy says: Divide APR by 12 to get the monthly bite.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "interest"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_037",
+      "question": "Why is paying only the minimum on a credit card costly?",
+      "correctAnswer": "Interest keeps building on the remaining balance",
+      "distractors": [
+        "It lowers your credit score immediately",
+        "It closes your account",
+        "It has no downside"
+      ],
+      "explanation": "A minimum payment is usually only about 2 to 3 percent of the balance, so the rest keeps collecting interest month after month. On a $1,000 balance at an APR above 20 percent, minimum-only payments can take many years to pay off and can cost more in interest than the original purchase.",
+      "memoryHook": "T-Rexy says: Minimum payments let interest pile up.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "cards"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_038",
+      "question": "What is a secured credit card?",
+      "correctAnswer": "A card backed by a cash deposit, used to build credit",
+      "distractors": [
+        "A card with no limit",
+        "A card for businesses only",
+        "A card that cannot be used online"
+      ],
+      "explanation": "You hand the issuer a refundable deposit, often $200 to $500, and that deposit usually becomes your credit limit. The issuer reports your payments to the credit bureaus, so paying on time builds a real credit history.",
+      "memoryHook": "T-Rexy says: A secured card uses your deposit as collateral.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "cards"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_039",
+      "question": "You buy a $12,000 car. With 10 percent down you borrow $10,800, and your payments add up to $12,400. With 20 percent down you borrow $9,600, and your payments add up to $10,900. How much interest do you save with the larger down payment?",
+      "correctAnswer": "$300",
+      "distractors": [
+        "$1,500",
+        "$1,200",
+        "$2,900"
+      ],
+      "explanation": "Interest is what you pay above the amount borrowed. Small down payment: $12,400 - $10,800 = $1,600 of interest. Large down payment: $10,900 - $9,600 = $1,300. Saving: $1,600 - $1,300 = $300. A bigger down payment shrinks both the loan and its interest.",
+      "memoryHook": "T-Rexy says: Bigger down payment, smaller interest bill.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "loans"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_040",
+      "question": "What is collateral?",
+      "correctAnswer": "An asset pledged to secure a loan, which the lender can take if you default",
+      "distractors": [
+        "A type of interest",
+        "A credit score",
+        "A loan fee"
+      ],
+      "explanation": "Collateral, like a house or car, backs a secured loan.",
+      "memoryHook": "T-Rexy says: Collateral is what the lender can take if you do not pay.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "loans"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_041",
+      "question": "You finance a $2,000 laptop with loan payments of $95 a month for 24 months. How much interest do you pay over the life of the loan?",
+      "correctAnswer": "$280",
+      "distractors": [
+        "$2,280",
+        "$190",
+        "$95"
+      ],
+      "explanation": "First find the total repaid: $95 x 24 = $2,280. Interest is the part above the amount borrowed: $2,280 - $2,000 = $280. Lenders advertise the monthly payment, but the total interest is the real price of borrowing.",
+      "memoryHook": "T-Rexy says: Payments times months, minus the loan, equals the interest.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "loans"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_042",
+      "question": "What is the debt snowball method?",
+      "correctAnswer": "Paying off the smallest debts first for motivation",
+      "distractors": [
+        "Paying the largest debt first",
+        "Paying all debts equally",
+        "Ignoring small debts"
+      ],
+      "explanation": "List debts by balance, smallest first, pay minimums on all of them, and throw every extra dollar at the smallest. Quick wins keep people motivated, even though this method can cost more in total interest than the avalanche method.",
+      "memoryHook": "T-Rexy says: Snowball starts with the smallest debt.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "debt"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_043",
+      "question": "What is the debt avalanche method?",
+      "correctAnswer": "Paying off the highest-interest debt first to save money",
+      "distractors": [
+        "Paying the smallest debt first",
+        "Paying debts randomly",
+        "Paying only minimums"
+      ],
+      "explanation": "List debts by interest rate, highest first, pay minimums on all of them, and attack the most expensive debt. Mathematically this pays the least total interest, which is why it beats the snowball method on cost.",
+      "memoryHook": "T-Rexy says: Avalanche attacks the highest interest first.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "debt"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_044",
+      "question": "What happens if you miss a credit card payment?",
+      "correctAnswer": "You may face a late fee, interest, and damage to your credit score",
+      "distractors": [
+        "Nothing happens",
+        "Your card is cancelled immediately",
+        "Your balance is forgiven"
+      ],
+      "explanation": "Expect three hits: a late fee (often $25 to $40), interest on the balance, and - once a payment is 30 or more days late - a mark on your credit report that can lower your score and stay there for up to seven years.",
+      "memoryHook": "T-Rexy says: A missed payment costs fees and credit points.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "cards"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_045",
+      "question": "What is a grace period on a credit card?",
+      "correctAnswer": "The time after a purchase before interest starts if you pay in full",
+      "distractors": [
+        "A free month of no payments",
+        "The time to dispute a charge",
+        "A discount period"
+      ],
+      "explanation": "The grace period, usually about 21 days, lets you avoid interest by paying the full balance.",
+      "memoryHook": "T-Rexy says: Pay in full during the grace period to skip interest.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "cards"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_046",
+      "question": "What is a credit limit?",
+      "correctAnswer": "The maximum amount you can borrow on a credit card",
+      "distractors": [
+        "The minimum payment",
+        "Your credit score",
+        "The interest rate"
+      ],
+      "explanation": "The issuer sets your limit based on your income and credit history. Spending up to or over the limit can mean declined purchases or fees, and using a large share of the limit can hurt your credit score.",
+      "memoryHook": "T-Rexy says: A credit limit is your borrowing ceiling.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "cards"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_047",
+      "question": "What is credit utilization?",
+      "correctAnswer": "The percentage of your credit limit that you are using",
+      "distractors": [
+        "Your total debt",
+        "Your income",
+        "Your credit score"
+      ],
+      "explanation": "Utilization is balance divided by limit; keeping it below 30 percent helps your score.",
+      "memoryHook": "T-Rexy says: Using under 30 percent of your limit helps your score.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "score"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_048",
+      "question": "A bank advertises a nominal interest rate of 4 percent compounded quarterly. What is the APY, to the nearest hundredth of a percent?",
+      "correctAnswer": "4.06 percent",
+      "distractors": [
+        "4.00 percent",
+        "4.04 percent",
+        "4.07 percent"
+      ],
+      "explanation": "Quarterly compounding means 4 percent / 4 = 1 percent is added four times: (1.01)^4 = 1.0406, so $1 grows to about $1.0406 in a year. The effective yearly gain - the APY - is 4.06 percent, a bit more than the 4 percent nominal rate because interest earns interest.",
+      "memoryHook": "T-Rexy says: APY is the rate you really earn after compounding.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "banking",
+        "apy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_049",
+      "question": "What is identity theft?",
+      "correctAnswer": "Someone using your personal information to commit fraud",
+      "distractors": [
+        "Losing your wallet",
+        "Forgetting your password",
+        "A bank error"
+      ],
+      "explanation": "Identity theft is when someone uses your name, Social Security number, or accounts fraudulently.",
+      "memoryHook": "T-Rexy says: Identity theft is someone pretending to be you.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "safety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_050",
+      "question": "What should you do if you suspect identity theft?",
+      "correctAnswer": "Place a fraud alert, check your reports, and report it to the FTC",
+      "distractors": [
+        "Ignore it",
+        "Change your name",
+        "Close all accounts immediately"
+      ],
+      "explanation": "Act in order: report at IdentityTheft.gov (the FTC site) to get a recovery plan, place a free fraud alert or credit freeze with the bureaus so no new accounts can be opened in your name, then review every account for charges you do not recognize.",
+      "memoryHook": "T-Rexy says: Report it and freeze your credit.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "credit",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_051",
+      "question": "What is income tax?",
+      "correctAnswer": "A tax on money you earn",
+      "distractors": [
+        "A tax on purchases",
+        "A tax on property",
+        "A tax on gifts"
+      ],
+      "explanation": "The federal government and most states take a percentage of what you earn - wages, salary, tips, and self-employment income - to pay for public services. The percentage grows in steps as income rises.",
+      "memoryHook": "T-Rexy says: Income tax is a tax on what you earn.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "taxes",
+        "income"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_052",
+      "question": "Social Security tax is 6.2 percent of wages and Medicare tax is 1.45 percent of wages. How much FICA tax is withheld in total from $40,000 of wages?",
+      "correctAnswer": "$3,060",
+      "distractors": [
+        "$2,480",
+        "$580",
+        "$3,200"
+      ],
+      "explanation": "Add the two parts. Social Security: 6.2 percent of $40,000 = $2,480. Medicare: 1.45 percent of $40,000 = $580. Total FICA withheld: $2,480 + $580 = $3,060. Together the two taxes take 7.65 percent of wages.",
+      "memoryHook": "T-Rexy says: FICA is 6.2 plus 1.45 - 7.65 percent of pay.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "taxes",
+        "fica"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_053",
+      "question": "What is a W-4 form?",
+      "correctAnswer": "A form you give your employer to set your tax withholding",
+      "distractors": [
+        "A tax return",
+        "A form for the IRS only",
+        "A pay stub"
+      ],
+      "explanation": "You fill out a W-4 when you start a job, and you can redo it anytime. It tells payroll how much to hold back: too little withheld means a tax bill in April; too much means a bigger refund but smaller paychecks all year.",
+      "memoryHook": "T-Rexy says: A W-4 sets your withholding.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "taxes",
+        "forms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_054",
+      "question": "What is a tax deduction?",
+      "correctAnswer": "An amount that reduces your taxable income",
+      "distractors": [
+        "An amount that increases your tax",
+        "A tax refund",
+        "A type of tax credit"
+      ],
+      "explanation": "Work an example: if your taxable income is $40,000 and you claim a $1,000 deduction, you are taxed on $39,000. In the 12 percent tax bracket that saves you $120 - a deduction is worth your tax rate times its size.",
+      "memoryHook": "T-Rexy says: A deduction shrinks your taxable income.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "taxes",
+        "deductions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_055",
+      "question": "What is a tax credit?",
+      "correctAnswer": "An amount that directly reduces the tax you owe",
+      "distractors": [
+        "An amount that reduces income",
+        "A refund check",
+        "A type of deduction"
+      ],
+      "explanation": "A tax credit cuts your tax bill dollar for dollar.",
+      "memoryHook": "T-Rexy says: A credit cuts your tax bill directly.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "taxes",
+        "credits"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_056",
+      "question": "What is the difference between a tax deduction and a tax credit?",
+      "correctAnswer": "A deduction lowers taxable income; a credit lowers the tax owed directly",
+      "distractors": [
+        "They are the same",
+        "A credit lowers income",
+        "A deduction lowers the tax owed directly"
+      ],
+      "explanation": "Compare the same $1,000 two ways: as a deduction it saves only your tax rate times $1,000 (for example $120 in the 12 percent bracket), but as a credit it takes a full $1,000 off your tax bill - which is why credits are usually worth more.",
+      "memoryHook": "T-Rexy says: Deductions cut income, credits cut tax.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "taxes",
+        "credits"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_057",
+      "question": "What is sales tax?",
+      "correctAnswer": "A tax added to the price of goods and services at purchase",
+      "distractors": [
+        "A tax on income",
+        "A tax on property",
+        "A federal tax only"
+      ],
+      "explanation": "Sales tax is charged when you buy taxable goods, varying by state and city.",
+      "memoryHook": "T-Rexy says: Sales tax is added at the checkout.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "taxes",
+        "sales"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_058",
+      "question": "Suppose a single filer's federal income tax is 10 percent on the first $10,000 of taxable income and 12 percent on taxable income above $10,000. How much tax is owed on a taxable income of $30,000?",
+      "correctAnswer": "$3,400",
+      "distractors": [
+        "$3,600",
+        "$3,000",
+        "$2,400"
+      ],
+      "explanation": "Brackets tax slices of income at different rates, not the whole income at the top rate. First slice: 10 percent of $10,000 = $1,000. Rest: 12 percent of the remaining $20,000 = $2,400. Total tax: $1,000 + $2,400 = $3,400. Moving into a higher bracket never taxes your earlier dollars at the higher rate.",
+      "memoryHook": "T-Rexy says: Brackets tax slices, not the whole pie.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "taxes",
+        "brackets"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_059",
+      "question": "When are federal income taxes due in the US?",
+      "correctAnswer": "April 15 (usually)",
+      "distractors": [
+        "January 1",
+        "July 4",
+        "December 31"
+      ],
+      "explanation": "Tax Day is April 15; if it falls on a weekend or holiday, the deadline moves to the next business day. You can request an extension to file the paperwork, but any tax you owe is still due on the April date.",
+      "memoryHook": "T-Rexy says: Tax Day is April 15.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "taxes",
+        "deadlines"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_060",
+      "question": "What is FICA tax?",
+      "correctAnswer": "Tax that funds Social Security and Medicare",
+      "distractors": [
+        "A state income tax",
+        "A sales tax",
+        "A property tax"
+      ],
+      "explanation": "FICA appears on every pay stub: employees pay 7.65 percent of wages (6.2 percent for Social Security plus 1.45 percent for Medicare), and the employer pays another 7.65 percent on top.",
+      "memoryHook": "T-Rexy says: FICA funds Social Security and Medicare.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "taxes",
+        "fica"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_061",
+      "question": "What is a stock?",
+      "correctAnswer": "A share of ownership in a company",
+      "distractors": [
+        "A loan to a company",
+        "A savings account",
+        "A type of bond"
+      ],
+      "explanation": "Each share makes you a part-owner of the company: if the company grows and profits, your shares can rise in value and may pay dividends; if it does badly, shares can lose value - there is no guaranteed return.",
+      "memoryHook": "T-Rexy says: A stock is a slice of a company.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "stocks"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_062",
+      "question": "What is a bond?",
+      "correctAnswer": "A loan you make to a government or company that pays interest",
+      "distractors": [
+        "A share of a company",
+        "A savings account",
+        "A type of stock"
+      ],
+      "explanation": "A bond is debt: you lend money and get interest payments plus your principal back.",
+      "memoryHook": "T-Rexy says: A bond is a loan you make.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "bonds"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_063",
+      "question": "What is diversification?",
+      "correctAnswer": "Spreading investments across different assets to reduce risk",
+      "distractors": [
+        "Putting all money in one stock",
+        "Investing only in bonds",
+        "Avoiding all risk"
+      ],
+      "explanation": "Diversification spreads money so one bad investment does not ruin you.",
+      "memoryHook": "T-Rexy says: Do not put all your eggs in one basket.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "diversification"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_064",
+      "question": "What is the stock market?",
+      "correctAnswer": "A place where shares of companies are bought and sold",
+      "distractors": [
+        "A bank",
+        "A government office",
+        "A type of savings account"
+      ],
+      "explanation": "On exchanges like the New York Stock Exchange and Nasdaq, buyers and sellers trade shares all day, and prices move with supply and demand - how much investors are willing to pay for a piece of each company.",
+      "memoryHook": "T-Rexy says: The stock market is where shares trade.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "stocks"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_065",
+      "question": "What is a mutual fund?",
+      "correctAnswer": "A pool of money from many investors used to buy many securities",
+      "distractors": [
+        "A single stock",
+        "A bank account",
+        "A type of loan"
+      ],
+      "explanation": "A mutual fund pools money to buy a diversified mix of stocks or bonds.",
+      "memoryHook": "T-Rexy says: A mutual fund is a basket of many investments.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "funds"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_066",
+      "question": "What is an index fund?",
+      "correctAnswer": "A fund that tracks a market index like the S&P 500",
+      "distractors": [
+        "A fund that picks winning stocks",
+        "A savings account",
+        "A type of bond"
+      ],
+      "explanation": "An index fund passively mirrors a market index, usually with low fees.",
+      "memoryHook": "T-Rexy says: An index fund follows the whole market.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "funds"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_067",
+      "question": "What is compound growth in investing?",
+      "correctAnswer": "Earnings that themselves earn money over time",
+      "distractors": [
+        "Losing money each year",
+        "Interest paid once",
+        "Growth that never changes"
+      ],
+      "explanation": "Growth builds on growth: a 10 percent return on $100 makes $110, and the next 10 percent applies to the whole $110, not just the original $100. Over decades, this snowball effect does most of the work in long-term investing.",
+      "memoryHook": "T-Rexy says: Compounding makes growth snowball.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "compounding"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_068",
+      "question": "If you invest $100 at 10 percent annual return compounded yearly, how much do you have after 2 years?",
+      "correctAnswer": "$121",
+      "distractors": [
+        "$120",
+        "$110",
+        "$200"
+      ],
+      "explanation": "After year 1: $110; after year 2: $110 x 1.10 = $121.",
+      "memoryHook": "T-Rexy says: Compounding turns $100 into $121 in two years.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "compounding"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_069",
+      "question": "What is a 401(k)?",
+      "correctAnswer": "An employer-sponsored retirement savings plan",
+      "distractors": [
+        "A type of bank account",
+        "A credit card",
+        "A tax form"
+      ],
+      "explanation": "A 401(k) lets workers save for retirement, often with employer matching.",
+      "memoryHook": "T-Rexy says: A 401(k) is a workplace retirement plan.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "retirement"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_070",
+      "question": "What is a Roth IRA?",
+      "correctAnswer": "A retirement account funded with after-tax money that grows tax-free",
+      "distractors": [
+        "A taxable brokerage account",
+        "A pension only for teachers",
+        "A type of loan"
+      ],
+      "explanation": "You open a Roth IRA yourself, not through an employer, and put in money that was already taxed. Because you paid the tax going in, both your contributions and decades of earnings can come out tax-free in retirement.",
+      "memoryHook": "T-Rexy says: A Roth IRA grows tax-free.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "retirement"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_071",
+      "question": "What is the difference between a Roth IRA and a traditional IRA?",
+      "correctAnswer": "Roth uses after-tax money and tax-free withdrawals; traditional uses pre-tax money and taxed withdrawals",
+      "distractors": [
+        "They are identical",
+        "Roth is for employers only",
+        "Traditional is tax-free at withdrawal"
+      ],
+      "explanation": "Follow one $1,000 contribution: in a traditional IRA it may be deducted from taxes now but is taxed when withdrawn in retirement; in a Roth IRA it is taxed now and never taxed again. Which one wins depends on whether your tax rate is lower today or in retirement.",
+      "memoryHook": "T-Rexy says: Roth is taxed now, traditional is taxed later.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "retirement"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_072",
+      "question": "What is risk in investing?",
+      "correctAnswer": "The chance that an investment loses value",
+      "distractors": [
+        "A guarantee of profit",
+        "A type of fee",
+        "A tax on gains"
+      ],
+      "explanation": "Every investment sits somewhere on the risk scale: a savings account risks almost nothing but may lose ground to inflation, while a single company's stock can gain or lose 20 percent in a year. Risk means the outcome is not guaranteed.",
+      "memoryHook": "T-Rexy says: Higher returns usually mean higher risk.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "risk"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_073",
+      "question": "What is the relationship between risk and return?",
+      "correctAnswer": "Higher potential returns usually come with higher risk",
+      "distractors": [
+        "Higher risk means lower returns",
+        "There is no relationship",
+        "Low risk always earns more"
+      ],
+      "explanation": "The pattern shows up everywhere: insured savings pay a little with almost no risk, bonds pay more with some risk, and stocks have paid the most over long periods, with the deepest drops along the way. A promise of high returns with no risk is a warning sign of a scam.",
+      "memoryHook": "T-Rexy says: More risk, more potential reward.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "risk"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_074",
+      "question": "What is a dividend?",
+      "correctAnswer": "A payment a company makes to its shareholders from profits",
+      "distractors": [
+        "A loan payment",
+        "A tax",
+        "A fee for trading"
+      ],
+      "explanation": "When a profitable company pays a dividend, each share you own earns a set amount (for example $0.50 per share), often paid every three months. You can take the cash or reinvest it to buy more shares.",
+      "memoryHook": "T-Rexy says: Dividends are profit shared with owners.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "dividends"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_075",
+      "question": "What is inflation's effect on long-term savings?",
+      "correctAnswer": "It reduces what savings can buy in the future",
+      "distractors": [
+        "It increases purchasing power",
+        "It has no effect",
+        "It guarantees growth"
+      ],
+      "explanation": "Inflation erodes the buying power of money sitting in low-interest accounts.",
+      "memoryHook": "T-Rexy says: Inflation shrinks what savings can buy.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "inflation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_076",
+      "question": "What is insurance?",
+      "correctAnswer": "A contract where you pay premiums and the insurer covers certain losses",
+      "distractors": [
+        "A type of savings account",
+        "A loan",
+        "A tax"
+      ],
+      "explanation": "Insurance pools risk: you pay premiums, and the insurer pays covered losses.",
+      "memoryHook": "T-Rexy says: Insurance shares risk across many people.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "insurance",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_077",
+      "question": "What is a premium?",
+      "correctAnswer": "The amount you pay regularly for insurance coverage",
+      "distractors": [
+        "The amount the insurer pays you",
+        "A type of claim",
+        "A discount on insurance"
+      ],
+      "explanation": "Premiums are usually billed monthly or yearly, and they buy coverage for that period only - stop paying and the policy lapses, leaving you unprotected even if you paid faithfully for years before.",
+      "memoryHook": "T-Rexy says: A premium is what you pay for coverage.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "insurance",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_078",
+      "question": "What is a deductible?",
+      "correctAnswer": "The amount you pay out of pocket before insurance covers a loss",
+      "distractors": [
+        "The amount the insurer pays first",
+        "Your monthly premium",
+        "A type of claim"
+      ],
+      "explanation": "A deductible is what you pay first; insurance covers the rest up to policy limits.",
+      "memoryHook": "T-Rexy says: A deductible is your share before insurance pays.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "insurance",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_079",
+      "question": "What is a claim?",
+      "correctAnswer": "A request to the insurer to pay for a covered loss",
+      "distractors": [
+        "A type of premium",
+        "A policy renewal",
+        "A discount"
+      ],
+      "explanation": "After a covered event, such as a car crash, you file a claim describing what happened, and the insurer decides whether the policy covers it and how much to pay, minus your deductible.",
+      "memoryHook": "T-Rexy says: A claim asks the insurer to pay up.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "insurance",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_080",
+      "question": "What does auto liability insurance cover?",
+      "correctAnswer": "Damage and injuries you cause to others in an accident",
+      "distractors": [
+        "Damage to your own car only",
+        "Theft of your car",
+        "Your medical bills only"
+      ],
+      "explanation": "If you rear-end another car, your liability coverage pays for their repairs and medical bills, not yours. Because one accident can cost far more than a car is worth, states require drivers to carry a minimum amount of it.",
+      "memoryHook": "T-Rexy says: Liability covers what you do to others.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "insurance",
+        "auto"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_081",
+      "question": "What does collision insurance cover?",
+      "correctAnswer": "Damage to your own car in a crash",
+      "distractors": [
+        "Damage you cause to others",
+        "Theft only",
+        "Medical bills only"
+      ],
+      "explanation": "Collision pays for your own car when you hit another vehicle or an object, after your deductible: if the deductible is $500 and repairs cost $2,000, the insurer pays $1,500. Lenders usually require it on financed cars.",
+      "memoryHook": "T-Rexy says: Collision covers your own car.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "insurance",
+        "auto"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_082",
+      "question": "What does health insurance do?",
+      "correctAnswer": "It helps pay for medical care in exchange for premiums",
+      "distractors": [
+        "It guarantees perfect health",
+        "It pays for all costs",
+        "It replaces savings"
+      ],
+      "explanation": "Without insurance, one emergency room visit can cost thousands of dollars. With it, you pay premiums plus smaller set shares - copays, a deductible, and part of big bills - while the insurer covers the rest up to your plan's limits.",
+      "memoryHook": "T-Rexy says: Health insurance shares medical costs.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "insurance",
+        "health"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_083",
+      "question": "What is a copay?",
+      "correctAnswer": "A fixed amount you pay for a covered service, like a doctor visit",
+      "distractors": [
+        "Your monthly premium",
+        "Your deductible",
+        "The insurer's payment"
+      ],
+      "explanation": "Your insurance card lists copays, such as $25 for a doctor visit or $10 for a generic prescription. You pay that flat amount at the counter no matter what the provider's full price is, and the insurer handles the rest of the covered cost.",
+      "memoryHook": "T-Rexy says: A copay is a fixed fee per visit.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "insurance",
+        "health"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_084",
+      "question": "What is renter's insurance?",
+      "correctAnswer": "Insurance that covers a renter's belongings and liability",
+      "distractors": [
+        "Insurance for landlords only",
+        "Car insurance",
+        "Homeowner's insurance"
+      ],
+      "explanation": "Renter's insurance protects your possessions and liability in a rented home.",
+      "memoryHook": "T-Rexy says: Renter's insurance protects your stuff.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "insurance",
+        "renters"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_085",
+      "question": "What is term life insurance?",
+      "correctAnswer": "Life insurance that covers a set period and pays if you die during that time",
+      "distractors": [
+        "Insurance that lasts your whole life",
+        "Health insurance",
+        "Disability insurance"
+      ],
+      "explanation": "Term life covers a fixed term, like 20 years, and pays a benefit if you die in that term.",
+      "memoryHook": "T-Rexy says: Term life covers you for a set time.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "insurance",
+        "life"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_086",
+      "question": "What is a warranty?",
+      "correctAnswer": "A promise to repair or replace a product if it fails within a period",
+      "distractors": [
+        "A type of insurance",
+        "A receipt",
+        "A sales tax"
+      ],
+      "explanation": "Warranties come free with the product and cover defects for a set time, often 90 days to a few years: if the product stops working because it was made badly, the maker must repair, replace, or refund it.",
+      "memoryHook": "T-Rexy says: A warranty is a promise to fix it.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "warranty"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_087",
+      "question": "What is the difference between a warranty and insurance?",
+      "correctAnswer": "A warranty covers defects from the maker; insurance covers losses from events",
+      "distractors": [
+        "They are the same",
+        "A warranty costs more",
+        "Insurance covers defects only"
+      ],
+      "explanation": "Use the cause to tell them apart: a phone battery that dies on its own is a defect (warranty), but a phone dropped in a lake is an accident (insurance). Warranties come from the maker; insurance is a separate contract you buy.",
+      "memoryHook": "T-Rexy says: Warranties cover defects, insurance covers losses.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "warranty"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_088",
+      "question": "A video game costs $45 before tax. The sales tax rate is 8 percent. What is the total cost at the register?",
+      "correctAnswer": "$48.60",
+      "distractors": [
+        "$3.60",
+        "$49.50",
+        "$45.36"
+      ],
+      "explanation": "Find the tax first: 8 percent of $45 is $45 x 0.08 = $3.60. Then add it to the price: $45 + $3.60 = $48.60. The sticker price is never the final price when sales tax applies.",
+      "memoryHook": "T-Rexy says: Add the tax before you judge the price.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "tax"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_089",
+      "question": "A jacket with an original price of $80 is on sale for 25 percent off. What is the sale price?",
+      "correctAnswer": "$60",
+      "distractors": [
+        "$20",
+        "$64",
+        "$100"
+      ],
+      "explanation": "25 percent off means you pay 75 percent of the price. The discount is $80 x 0.25 = $20 off, so the sale price is $80 - $20 = $60. Always check whether an answer is the discount or the price you actually pay.",
+      "memoryHook": "T-Rexy says: Percent off is not the price - subtract it.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "shopping"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_090",
+      "question": "What is a refund?",
+      "correctAnswer": "Money returned when you bring back a product",
+      "distractors": [
+        "A discount",
+        "A coupon",
+        "A gift card"
+      ],
+      "explanation": "A refund puts the purchase price back onto your original payment method. It is different from an exchange (swapping for another item) or store credit (money you can only spend at that store), so check the store's return policy first.",
+      "memoryHook": "T-Rexy says: A refund gives your money back.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "shopping"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_091",
+      "question": "What is a scam?",
+      "correctAnswer": "A dishonest scheme to trick people out of money or information",
+      "distractors": [
+        "A legal sale",
+        "A type of advertisement",
+        "A bank fee"
+      ],
+      "explanation": "Scams share a recipe: an unexpected message, a story that creates fear or excitement, and pressure to pay or share information fast. If an offer sounds too good to be true, it almost always is.",
+      "memoryHook": "T-Rexy says: A scam is a trick to steal your money.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "scams"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_092",
+      "question": "What is a common sign of a scam?",
+      "correctAnswer": "Pressure to act immediately and requests for payment by gift card or wire",
+      "distractors": [
+        "A written contract",
+        "A known company name",
+        "A receipt"
+      ],
+      "explanation": "Real companies and government agencies never demand payment by gift card, wire transfer, or cryptocurrency, and never threaten arrest for instant payment. Pressure is the tool: hang up and check the real organization through its official number or website.",
+      "memoryHook": "T-Rexy says: Scammers rush you and want gift cards.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "scams"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_093",
+      "question": "What is phishing?",
+      "correctAnswer": "A fake message trying to trick you into sharing personal information",
+      "distractors": [
+        "A type of fishing",
+        "A computer virus only",
+        "A bank service"
+      ],
+      "explanation": "Phishing emails and texts copy the logos of banks, delivery companies, or schools to look real. Spot them by checking the sender's actual address, looking at links before clicking, and watching for urgent threats about your account.",
+      "memoryHook": "T-Rexy says: Phishing is a fake message fishing for your info.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "scams"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_094",
+      "question": "What should you do if you get a suspicious email asking for your password?",
+      "correctAnswer": "Do not click links; go to the real site directly or report it",
+      "distractors": [
+        "Reply with your password",
+        "Click the link to check",
+        "Forward it to friends"
+      ],
+      "explanation": "Never share passwords by email; verify through the official site.",
+      "memoryHook": "T-Rexy says: Never send your password by email.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "scams"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_095",
+      "question": "What is the purpose of a receipt?",
+      "correctAnswer": "Proof of purchase for returns, warranties, and records",
+      "distractors": [
+        "A coupon",
+        "A gift",
+        "A tax form"
+      ],
+      "explanation": "Keep receipts (a photo on your phone works), because stores can refuse a return without one, warranty claims ask for proof of the purchase date, and receipts let you check your statements for billing errors at the end of the month.",
+      "memoryHook": "T-Rexy says: Keep receipts for returns and warranties.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "records"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_096",
+      "question": "What is a good reason to keep financial records?",
+      "correctAnswer": "To track spending, prepare taxes, and prove purchases",
+      "distractors": [
+        "To impress friends",
+        "To use more paper",
+        "There is no reason"
+      ],
+      "explanation": "Keep pay stubs, statements, and tax returns organized - the IRS generally recommends holding tax records for at least three years. Records are also your proof in a dispute: the person with documents usually wins.",
+      "memoryHook": "T-Rexy says: Records prove what you spent and earned.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "records"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_097",
+      "question": "What is the best way to handle a billing error?",
+      "correctAnswer": "Contact the company in writing and keep records",
+      "distractors": [
+        "Ignore it",
+        "Pay it without question",
+        "Cancel all accounts"
+      ],
+      "explanation": "Federal law (the Fair Credit Billing Act) protects you on credit card billing errors: dispute in writing within 60 days of the statement date, and you do not have to pay the disputed amount while the company investigates. Writing creates a paper trail a phone call cannot.",
+      "memoryHook": "T-Rexy says: Dispute errors in writing and keep copies.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "billing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_098",
+      "question": "What is a subscription?",
+      "correctAnswer": "A recurring payment for a service, like streaming or a gym",
+      "distractors": [
+        "A one-time purchase",
+        "A loan",
+        "A gift"
+      ],
+      "explanation": "Subscriptions renew automatically until you cancel, including free trials that quietly turn into paid plans. A $12 monthly service you forget about costs $144 a year, which is why subscriptions belong in your budget as a fixed expense.",
+      "memoryHook": "T-Rexy says: Subscriptions charge you again and again.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "subscriptions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_099",
+      "question": "Why should you review subscriptions regularly?",
+      "correctAnswer": "To cancel ones you no longer use and save money",
+      "distractors": [
+        "To pay more",
+        "To avoid using them",
+        "There is no reason"
+      ],
+      "explanation": "Unused subscriptions quietly drain money each month.",
+      "memoryHook": "T-Rexy says: Check subscriptions to stop paying for what you do not use.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "consumer",
+        "subscriptions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FIN10_100",
+      "question": "You buy a share of stock for $40 and sell it one year later for $50. What is your rate of return for the year?",
+      "correctAnswer": "25 percent",
+      "distractors": [
+        "20 percent",
+        "10 percent",
+        "125 percent"
+      ],
+      "explanation": "Rate of return compares the gain to what you started with. The gain is $50 - $40 = $10, and $10 / $40 = 0.25, a 25 percent return. Dividing by the final price (20 percent) is the classic mistake - returns are always measured against the starting amount.",
+      "memoryHook": "T-Rexy says: Gain divided by the starting amount is the return.",
+      "imageUrl": "topic:personal-finance",
+      "tags": [
+        "investing",
+        "returns"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

@@ -1,0 +1,2017 @@
+{
+  "packId": "gr10-ap-human-geography",
+  "title": "AP Human Geography (10th Grade)",
+  "description": "AP Human Geography (10th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "social-studies",
+    "human-geography",
+    "10th"
+  ],
+  "questions": [
+    {
+      "id": "HUG10_001",
+      "question": "What is the difference between absolute and relative location?",
+      "correctAnswer": "Absolute location is exact coordinates; relative location is a place's position compared to other places",
+      "distractors": [
+        "They are the same",
+        "Absolute is a description; relative is coordinates",
+        "Relative location never changes"
+      ],
+      "explanation": "Absolute location uses latitude and longitude; relative location describes where a place is in relation to others.",
+      "memoryHook": "T-Rexy says: Absolute is coordinates, relative is compared to neighbors.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "location"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_002",
+      "question": "What does Christaller's central place theory explain?",
+      "correctAnswer": "How settlements of different sizes are distributed across a region and how each one provides goods and services to the area around it",
+      "distractors": [
+        "How the boundaries of countries are drawn",
+        "Why some neighborhoods in a city are wealthier than others",
+        "How farmers choose which crops to plant each year"
+      ],
+      "explanation": "Walter Christaller proposed central place theory in 1933 to explain the size, number, and spacing of towns and cities. Large settlements offer many specialized services, while small settlements offer only basic ones, and together the settlements cover a region like a network of service centers.",
+      "memoryHook": "T-Rexy says: Central places serve the land around them - big towns offer more, small towns offer the basics.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "central-place"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_003",
+      "question": "In central place theory, why are market areas usually drawn as hexagons instead of circles?",
+      "correctAnswer": "Hexagons tile a flat surface completely, leaving no gaps and no overlapping areas, unlike circles",
+      "distractors": [
+        "Hexagons match the shape of most town boundaries",
+        "Circles cannot be drawn on maps of flat regions",
+        "Hexagons make every trip to the center exactly the same distance"
+      ],
+      "explanation": "Circles drawn around each central place either leave unserved gaps between them or overlap each other. Hexagons fit together edge to edge with no gaps and no overlaps while staying close to a circular shape, so geographers use them to show each settlement's market area.",
+      "memoryHook": "T-Rexy says: Bees know best - hexagons tile the floor with no gaps.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "central-place"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_004",
+      "question": "What does a map projection do?",
+      "correctAnswer": "It shows Earth's curved surface on a flat map",
+      "distractors": [
+        "It makes maps perfectly accurate",
+        "It shows only physical features",
+        "It measures distance exactly"
+      ],
+      "explanation": "A projection transfers the round Earth onto a flat surface, always with some distortion.",
+      "memoryHook": "T-Rexy says: Every flat map distorts something.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "maps"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_005",
+      "question": "What is the main distortion of the Mercator projection?",
+      "correctAnswer": "It exaggerates the size of land near the poles",
+      "distractors": [
+        "It shrinks land near the equator",
+        "It distorts shapes near the equator",
+        "It changes the Prime Meridian"
+      ],
+      "explanation": "Mercator preserves shape and direction but makes high-latitude areas look much larger.",
+      "memoryHook": "T-Rexy says: Mercator makes Greenland look huge.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "maps"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_006",
+      "question": "A convenience store can survive in a village of 300 people, but a specialty heart hospital is found only in the region's largest city. How do the concepts of threshold and range explain this pattern?",
+      "correctAnswer": "The hospital has a high threshold - it needs a very large customer base to be profitable - and a large range, because patients will travel far for specialized care",
+      "distractors": [
+        "The hospital has a low threshold and a short range, so it must be placed in as many towns as possible",
+        "Threshold is the maximum distance to a store, and range is the minimum number of customers it needs",
+        "Both services have the same threshold, and the hospital chose the city only for prestige"
+      ],
+      "explanation": "Threshold is the minimum number of people needed to support a service, and range is the maximum distance people are willing to travel to reach it. Low-order goods like snacks have small thresholds and ranges, so they appear everywhere; high-order services like specialty surgery need huge thresholds and have long ranges, so they locate only in the largest central places.",
+      "memoryHook": "T-Rexy says: Snacks need a few neighbors; heart surgery needs a whole region - and patients will drive for it.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "central-place"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_007",
+      "question": "A fast-growing metropolitan area has a traditional downtown, but its airport has attracted hotels, warehouses, and offices, and a large university across town anchors its own district of shops and apartments. Which urban model best explains this pattern?",
+      "correctAnswer": "The multiple nuclei model, because separate activity centers grew up around the airport and the university",
+      "distractors": [
+        "The concentric zone model, because the whole city is organized as rings around the downtown",
+        "The sector model, because growth follows one main highway out of the center",
+        "The von Thunen model, because land use forms rings based on transportation costs"
+      ],
+      "explanation": "In the multiple nuclei model, activities that benefit from clustering - and activities that repel each other, like heavy industry and expensive housing - produce several centers. An airport and a university are classic nuclei: each pulls in its own supporting businesses and housing, independent of the original CBD.",
+      "memoryHook": "T-Rexy says: Airports and universities are nuclei - each grows its own mini-city around it.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "models"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_008",
+      "question": "What is scale in geography?",
+      "correctAnswer": "The relationship between distance on a map and distance on the ground",
+      "distractors": [
+        "The size of a country",
+        "The population of a place",
+        "The elevation of a mountain"
+      ],
+      "explanation": "A scale of 1:24,000 means one unit on the map equals 24,000 of the same units on the ground; small-scale maps show large areas with little detail, while large-scale maps show small areas in detail.",
+      "memoryHook": "T-Rexy says: Scale links map distance to real distance.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "maps"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_009",
+      "question": "What is a region?",
+      "correctAnswer": "An area defined by one or more shared characteristics",
+      "distractors": [
+        "A country only",
+        "A city only",
+        "A physical feature only"
+      ],
+      "explanation": "A region is an area with common traits, like language, climate, or economy.",
+      "memoryHook": "T-Rexy says: A region is an area with something in common.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "regions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_010",
+      "question": "What is a formal region?",
+      "correctAnswer": "A region defined by a shared trait, like a language or climate",
+      "distractors": [
+        "A region defined by connections",
+        "A region defined by a center",
+        "A region with no boundaries"
+      ],
+      "explanation": "Formal regions have a uniform characteristic, such as the Corn Belt.",
+      "memoryHook": "T-Rexy says: A formal region shares one trait.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "regions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_011",
+      "question": "What is a functional region?",
+      "correctAnswer": "A region defined by connections around a center, like a city's commuter zone",
+      "distractors": [
+        "A region defined by a shared language",
+        "A region defined by climate",
+        "A region with no center"
+      ],
+      "explanation": "Functional regions are organized around a node, such as a metropolitan area.",
+      "memoryHook": "T-Rexy says: A functional region works around a center.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "regions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_012",
+      "question": "What is a perceptual region?",
+      "correctAnswer": "A region defined by people's beliefs and feelings, like 'the South'",
+      "distractors": [
+        "A region defined by government",
+        "A region defined by climate",
+        "A region defined by trade"
+      ],
+      "explanation": "Perceptual regions exist in people's minds, like the Midwest.",
+      "memoryHook": "T-Rexy says: The South is a perceptual region.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "regions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_013",
+      "question": "What is GIS?",
+      "correctAnswer": "Geographic Information Systems, software for mapping and analyzing spatial data",
+      "distractors": [
+        "A type of map projection",
+        "A satellite system only",
+        "A government agency"
+      ],
+      "explanation": "GIS stores, maps, and analyzes geographic data in layers.",
+      "memoryHook": "T-Rexy says: GIS layers data on maps.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "gis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_014",
+      "question": "What is remote sensing?",
+      "correctAnswer": "Collecting information about Earth from satellites or aircraft",
+      "distractors": [
+        "Surveying land on foot",
+        "Drawing maps by hand",
+        "Using GPS only"
+      ],
+      "explanation": "Remote sensing gathers data from a distance, such as satellite images.",
+      "memoryHook": "T-Rexy says: Satellites sense Earth from above.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "remote-sensing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_015",
+      "question": "What is site?",
+      "correctAnswer": "The physical characteristics of a place",
+      "distractors": [
+        "The relative location of a place",
+        "The population of a place",
+        "The culture of a place"
+      ],
+      "explanation": "Site describes a place's physical features, like its soil and rivers.",
+      "memoryHook": "T-Rexy says: Site is what a place is like physically.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "place"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_016",
+      "question": "What is population density?",
+      "correctAnswer": "The number of people per unit of land area",
+      "distractors": [
+        "The total population of a country",
+        "The birth rate",
+        "The number of cities"
+      ],
+      "explanation": "Density spreads a country's people evenly across its land on paper - it is a statistical average, so real settlement can be far more clustered than the number suggests.",
+      "memoryHook": "T-Rexy says: Density is people per square mile.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "density"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_017",
+      "question": "What is arithmetic population density?",
+      "correctAnswer": "Total population divided by total land area",
+      "distractors": [
+        "Population divided by farmland only",
+        "Population per city",
+        "Total population only"
+      ],
+      "explanation": "Arithmetic density uses all land, even deserts and mountains where almost nobody lives, which is why geographers also compute physiological density using farmland only.",
+      "memoryHook": "T-Rexy says: Arithmetic density is total people over total land.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "density"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_018",
+      "question": "What is physiological density?",
+      "correctAnswer": "Population divided by arable (farmable) land",
+      "distractors": [
+        "Population divided by total land",
+        "Population per city",
+        "Population per household"
+      ],
+      "explanation": "Physiological density shows pressure on farmland.",
+      "memoryHook": "T-Rexy says: Physiological density is people per farmland.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "density"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_019",
+      "question": "What is the crude birth rate?",
+      "correctAnswer": "The number of births per 1,000 people per year",
+      "distractors": [
+        "The number of births per family",
+        "The total births in a country",
+        "The birth rate of women only"
+      ],
+      "explanation": "Rates are given per 1,000 people so countries of very different sizes can be compared; a CBR of 18 means 18 births for every 1,000 people that year.",
+      "memoryHook": "T-Rexy says: Crude birth rate is births per thousand.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "rates"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_020",
+      "question": "What is the crude death rate?",
+      "correctAnswer": "The number of deaths per 1,000 people per year",
+      "distractors": [
+        "The number of deaths per family",
+        "The total deaths in a country",
+        "The death rate of children only"
+      ],
+      "explanation": "Like the birth rate, it is standardized per 1,000 people; when the crude death rate tops the crude birth rate, natural increase turns negative.",
+      "memoryHook": "T-Rexy says: Crude death rate is deaths per thousand.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "rates"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_021",
+      "question": "What does the epidemiologic transition model describe?",
+      "correctAnswer": "How the main causes of death in a population change over time, from infectious diseases toward chronic, degenerative diseases",
+      "distractors": [
+        "How birth rates respond to changes in tax policy",
+        "How languages spread from one region to another",
+        "How the number of farms in a country declines as it develops"
+      ],
+      "explanation": "Abdel Omran proposed in 1971 that as societies develop, death is caused less and less by epidemics and infections and more and more by long-term degenerative diseases such as heart disease and cancer. The epidemiologic transition is the health companion to the demographic transition: it explains changes in the death rate by cause, not just by level.",
+      "memoryHook": "T-Rexy says: First germs kill, later hearts and habits do - that is the epidemiologic shift.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "epidemiologic-transition"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_022",
+      "question": "What is the total fertility rate?",
+      "correctAnswer": "The average number of children a woman will have in her lifetime",
+      "distractors": [
+        "The number of children per family",
+        "The birth rate per 1,000",
+        "The number of women in a country"
+      ],
+      "explanation": "TFR is a projection built from today's age-specific birth rates - demographers use it to forecast growth, and 2.1 is the replacement benchmark.",
+      "memoryHook": "T-Rexy says: Total fertility rate is children per woman.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "fertility"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_023",
+      "question": "What is the replacement fertility rate?",
+      "correctAnswer": "About 2.1 children per woman, the level that keeps population stable",
+      "distractors": [
+        "1.0 children per woman",
+        "3.0 children per woman",
+        "0 children per woman"
+      ],
+      "explanation": "Replacement level is about 2.1, accounting for children who do not reach adulthood.",
+      "memoryHook": "T-Rexy says: 2.1 children replaces the parents.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "fertility"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_024",
+      "question": "What is the demographic transition model?",
+      "correctAnswer": "A model showing how birth and death rates change as countries develop",
+      "distractors": [
+        "A model of migration only",
+        "A model of urban growth",
+        "A model of farming change"
+      ],
+      "explanation": "The model has four main stages: high and fluctuating rates, falling death rates, falling birth rates, and finally low rates - with an optional fifth stage of decline.",
+      "memoryHook": "T-Rexy says: The demographic transition model tracks births and deaths over time.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "dtm"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_025",
+      "question": "In which stage of the demographic transition are birth and death rates both high?",
+      "correctAnswer": "Stage 1",
+      "distractors": [
+        "Stage 2",
+        "Stage 3",
+        "Stage 4"
+      ],
+      "explanation": "Stage 1 has high birth and death rates, so population grows slowly.",
+      "memoryHook": "T-Rexy says: Stage 1 is high births and high deaths.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "dtm"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_026",
+      "question": "What happens in stage 2 of the demographic transition?",
+      "correctAnswer": "Death rates fall while birth rates stay high, so population grows rapidly",
+      "distractors": [
+        "Birth rates fall",
+        "Death rates rise",
+        "Population declines"
+      ],
+      "explanation": "Stage 2 brings falling death rates from better medicine and food, while births stay high.",
+      "memoryHook": "T-Rexy says: Stage 2 is deaths down, births still high.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "dtm"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_027",
+      "question": "What is a population pyramid?",
+      "correctAnswer": "A graph showing the age and sex structure of a population",
+      "distractors": [
+        "A map of population density",
+        "A chart of birth rates only",
+        "A graph of migration"
+      ],
+      "explanation": "Males are plotted on the left and females on the right, with the youngest cohort at the bottom, so the shape instantly reveals growth, stability, or aging.",
+      "memoryHook": "T-Rexy says: A population pyramid shows who is young and who is old.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "pyramids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_028",
+      "question": "In a preindustrial society, most deaths are caused by recurring epidemics, infectious diseases, and periodic famines, and life expectancy swings wildly from year to year. Which stage of the epidemiologic transition is this?",
+      "correctAnswer": "Stage 1, the age of pestilence and famine",
+      "distractors": [
+        "Stage 2, the age of receding pandemics",
+        "Stage 3, the age of degenerative and man-made diseases",
+        "Stage 4, the age of delayed degenerative diseases"
+      ],
+      "explanation": "Omran's Stage 1 is defined by pestilence and famine: infectious and parasitic diseases dominate, and wars and food shortages make death rates high and unpredictable. Only in Stage 2 do sanitation, nutrition, and medicine push pandemics into retreat, shifting deaths toward the chronic diseases of Stages 3 and 4.",
+      "memoryHook": "T-Rexy says: Plagues and famines running the show means Stage 1 - pestilence and famine.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "epidemiologic-transition"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_029",
+      "question": "What is the dependency ratio?",
+      "correctAnswer": "The number of dependents (young and old) compared to working-age people",
+      "distractors": [
+        "The number of workers only",
+        "The birth rate",
+        "The migration rate"
+      ],
+      "explanation": "It is often given as dependents per 100 workers; a high ratio strains schools, pensions, and health care because fewer earners support more people.",
+      "memoryHook": "T-Rexy says: The dependency ratio is dependents per worker.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "demographics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_030",
+      "question": "What is an aging population?",
+      "correctAnswer": "A population with a growing share of elderly people",
+      "distractors": [
+        "A population with many children",
+        "A population that is shrinking fast",
+        "A population with high birth rates"
+      ],
+      "explanation": "Aging populations, like Japan's, have more older people as fertility falls and life expectancy rises.",
+      "memoryHook": "T-Rexy says: Japan's population is aging.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "aging"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_031",
+      "question": "What is the most populous country in the world as of 2023?",
+      "correctAnswer": "India",
+      "distractors": [
+        "China",
+        "The United States",
+        "Indonesia"
+      ],
+      "explanation": "India passed China as the world's most populous country in 2023.",
+      "memoryHook": "T-Rexy says: India is now the most populous country.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_032",
+      "question": "In Stage 4 of the epidemiologic transition, the age of delayed degenerative diseases, why do death rates remain low even though heart disease and cancer are the leading causes of death?",
+      "correctAnswer": "Medical advances and healthier behavior delay the onset of these chronic diseases, so people develop them - and die from them - at much older ages",
+      "distractors": [
+        "Because infectious diseases return and replace chronic diseases entirely",
+        "Because chronic diseases have been completely eliminated",
+        "Because the population is so young that few people reach the age of risk"
+      ],
+      "explanation": "Stage 4 keeps the same leading killers as Stage 3 - cardiovascular disease and cancer - but postponed. Better treatment, screening, and changes such as reduced smoking push serious illness later into life, extending life expectancy. A proposed Stage 5, in which infectious diseases re-emerge, is a separate idea and is not what keeps Stage 4 death rates low.",
+      "memoryHook": "T-Rexy says: Stage 4 does not beat heart disease - it reschedules it to a much older age.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "epidemiologic-transition"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_033",
+      "question": "What is the rule of 70?",
+      "correctAnswer": "Dividing 70 by the growth rate gives the doubling time in years",
+      "distractors": [
+        "Multiplying 70 by the growth rate",
+        "Adding 70 to the population",
+        "Dividing the population by 70"
+      ],
+      "explanation": "The shortcut works because 70 is close to 100 times the natural log of 2; at 2 percent annual growth, a population doubles in about 35 years.",
+      "memoryHook": "T-Rexy says: 70 divided by growth rate is doubling time.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "growth"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_034",
+      "question": "What is carrying capacity?",
+      "correctAnswer": "The largest population an environment can support",
+      "distractors": [
+        "The number of people in a city",
+        "The birth rate",
+        "The amount of farmland"
+      ],
+      "explanation": "Unlike a fixed ceiling, carrying capacity can shift - irrigation, fertilizer, and trade can raise it, while soil erosion or drought can lower it.",
+      "memoryHook": "T-Rexy says: Carrying capacity is the environment's limit.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "carrying-capacity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_035",
+      "question": "What is Malthus's theory about population?",
+      "correctAnswer": "Population grows faster than food supply, leading to checks like famine",
+      "distractors": [
+        "Population always declines",
+        "Food supply grows faster than population",
+        "Population growth is always good"
+      ],
+      "explanation": "Malthus argued population grows geometrically while food grows arithmetically.",
+      "memoryHook": "T-Rexy says: Malthus said people outgrow their food.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "malthus"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_036",
+      "question": "What is migration?",
+      "correctAnswer": "The movement of people from one place to another",
+      "distractors": [
+        "The movement of goods",
+        "The movement of ideas",
+        "The movement of animals only"
+      ],
+      "explanation": "Geographers count someone as a migrant when the move crosses a boundary and is meant to be permanent or long-term, not a trip or a daily commute.",
+      "memoryHook": "T-Rexy says: Migration is people moving.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_037",
+      "question": "What does Zelinsky's migration transition model connect?",
+      "correctAnswer": "It links the main types of migration in a country to that country's stage in the demographic transition",
+      "distractors": [
+        "It links migration to the phases of the Moon",
+        "It links a migrant's income to the price of airline tickets",
+        "It links the direction of migration to the language spoken at the destination"
+      ],
+      "explanation": "Wilbur Zelinsky proposed in 1971 that migration patterns change in step with the demographic transition. A country in an early stage shows mostly rural-to-urban moves and emigration, while a country in a late stage shows mostly moves within and between cities, plus immigration from less developed countries.",
+      "memoryHook": "T-Rexy says: As a country moves through the DTM, its moving vans change direction too.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "zelinsky"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_038",
+      "question": "What are push factors?",
+      "correctAnswer": "Conditions that drive people away from a place",
+      "distractors": [
+        "Conditions that attract people",
+        "Government policies only",
+        "Natural disasters only"
+      ],
+      "explanation": "Push factors, like war or unemployment, push people to leave.",
+      "memoryHook": "T-Rexy says: Push factors drive people away.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "push-pull"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_039",
+      "question": "What are pull factors?",
+      "correctAnswer": "Conditions that attract people to a place",
+      "distractors": [
+        "Conditions that drive people away",
+        "Government restrictions",
+        "Natural disasters"
+      ],
+      "explanation": "Pull factors, like jobs or safety, draw people to a new place.",
+      "memoryHook": "T-Rexy says: Pull factors draw people in.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "push-pull"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_040",
+      "question": "What is a refugee?",
+      "correctAnswer": "A person forced to flee their country because of persecution or war",
+      "distractors": [
+        "A person who moves for a job",
+        "A person who moves within a country",
+        "A tourist"
+      ],
+      "explanation": "A refugee flees across borders due to danger, and international law protects them.",
+      "memoryHook": "T-Rexy says: Refugees flee danger across borders.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "refugees"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_041",
+      "question": "What is an internally displaced person?",
+      "correctAnswer": "A person forced to move within their own country",
+      "distractors": [
+        "A refugee in another country",
+        "A voluntary migrant",
+        "A tourist"
+      ],
+      "explanation": "The legal line is the border: cross it and a person may qualify as a refugee under international law; stay inside it and they remain an IDP, protected only by their own government.",
+      "memoryHook": "T-Rexy says: IDPs flee but stay inside their country.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "refugees"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_042",
+      "question": "What is Ravenstein's law about migration distance?",
+      "correctAnswer": "Most migrants move only a short distance",
+      "distractors": [
+        "Most migrants move very far",
+        "Distance does not matter",
+        "Migrants always move to cities"
+      ],
+      "explanation": "Ravenstein found most migration is short-distance, with fewer people moving farther.",
+      "memoryHook": "T-Rexy says: Most migrants move a short distance.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "laws"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_043",
+      "question": "What is chain migration?",
+      "correctAnswer": "Migration where earlier migrants help later ones from the same place",
+      "distractors": [
+        "Migration in a line",
+        "Migration of families only",
+        "Forced migration"
+      ],
+      "explanation": "Chain migration happens when settled migrants help friends and family follow.",
+      "memoryHook": "T-Rexy says: Chain migration is migrants helping the next ones.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "chain"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_044",
+      "question": "A country is in Stage 2 of the demographic transition, with rapid population growth in the countryside. According to Zelinsky's migration transition, which migration pattern should dominate?",
+      "correctAnswer": "Massive rural-to-urban migration within the country, together with emigration to other countries in search of land and work",
+      "distractors": [
+        "Mostly retired people moving to quiet suburbs",
+        "Almost no migration of any kind, because families stay put",
+        "Mostly short daily commutes between suburbs of large cities"
+      ],
+      "explanation": "In Zelinsky's Stage 2, the same population explosion that defines DTM Stage 2 pushes people off crowded farmland. The model predicts a flood of rural-to-urban migration, colonization of frontier land, and heavy international emigration - the pattern seen in 1800s Europe and in many developing countries today.",
+      "memoryHook": "T-Rexy says: Stage 2 crowds the farm, so the moving vans roll to the city and the port.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "zelinsky"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_045",
+      "question": "In a wealthy country in Stage 4 of the demographic transition, Zelinsky's model predicts that most movement will consist of what?",
+      "correctAnswer": "Moves within and between cities, immigration of workers from less developed countries, and a great deal of short-term circulation such as commuting",
+      "distractors": [
+        "Colonization of empty farmland by rural families",
+        "Mass emigration of the country's own citizens to poorer countries in search of farm work",
+        "Permanent one-way migration from villages to a single primate city"
+      ],
+      "explanation": "By Stage 4 urbanization is nearly complete, so rural-to-urban migration fades. Zelinsky predicted that movement becomes dominated by intraurban and interurban moves, by immigration that fills labor shortages, and by circulation - repetitive, temporary movement like commuting, business travel, and seasonal trips - rather than permanent relocation.",
+      "memoryHook": "T-Rexy says: Late-stage movers swap suburbs and commute - they circulate more than they relocate.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "zelinsky"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_046",
+      "question": "What is brain drain?",
+      "correctAnswer": "The loss of skilled workers when they emigrate",
+      "distractors": [
+        "The loss of unskilled workers",
+        "A type of education",
+        "A government policy"
+      ],
+      "explanation": "Brain drain is when educated professionals leave a country, weakening it.",
+      "memoryHook": "T-Rexy says: Brain drain is skilled workers leaving.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "brain-drain"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_047",
+      "question": "What does the gravity model predict about interaction between two places, such as migration or trade flows?",
+      "correctAnswer": "Interaction increases as the populations of the two places increase, and decreases as the distance between them increases",
+      "distractors": [
+        "Interaction depends only on whether the two places share a language",
+        "Interaction is the same between all pairs of places, regardless of size or distance",
+        "Interaction increases as distance increases, because distant places are more exotic"
+      ],
+      "explanation": "Borrowed from Newton's law of gravitation, the gravity model treats places like masses: big places exert a stronger pull on each other, while distance creates friction that weakens the flow. Geographers use it to estimate migration streams, trade, phone calls, and shopping trips between cities.",
+      "memoryHook": "T-Rexy says: Big places pull hard, far places pull weakly - just like planets.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "gravity-model"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_048",
+      "question": "City A has 2 million people and is 50 kilometers from a town. City B has 200,000 people and is 300 kilometers from the same town. According to the gravity model, which city will have stronger migration and shopping flows with the town?",
+      "correctAnswer": "City A, because its much larger population and much shorter distance both strengthen the interaction",
+      "distractors": [
+        "City B, because people prefer longer trips for shopping",
+        "The flows will be equal, because both cities are in the same country",
+        "Neither, because the gravity model applies only to trade between countries"
+      ],
+      "explanation": "Both variables point the same way: City A is ten times larger, which multiplies its pull, and six times closer, which sharply reduces the friction of distance. Gravity model predictions grow with population and shrink with distance (often distance squared), so City A's expected flow with the town is far larger.",
+      "memoryHook": "T-Rexy says: Ten times the people and one-sixth the trip - City A wins the pull contest easily.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "gravity-model"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_049",
+      "question": "What is the main reason for the Syrian refugee crisis?",
+      "correctAnswer": "Civil war in Syria that began in 2011",
+      "distractors": [
+        "An earthquake",
+        "A drought only",
+        "Economic opportunity"
+      ],
+      "explanation": "Syria's civil war displaced millions, creating one of the largest refugee crises.",
+      "memoryHook": "T-Rexy says: Syria's war displaced millions.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "refugees"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_050",
+      "question": "A town lies 20 km from City A (population 1,000,000) and 10 km from Town B (population 90,000). Using the gravity model formula, interaction = population divided by distance squared, which place should the town interact with more?",
+      "correctAnswer": "City A: 1,000,000 / 400 = 2,500, which is greater than Town B's 90,000 / 100 = 900",
+      "distractors": [
+        "Town B: 90,000 / 100 = 900, which is greater than City A's 1,000,000 / 400 = 250",
+        "They are exactly equal, because the town is close to both places",
+        "Town B, because in the gravity model distance is the only variable that matters"
+      ],
+      "explanation": "Work the formula for both places: City A gives 1,000,000 divided by 20 squared (400), which is 2,500. Town B gives 90,000 divided by 10 squared (100), which is 900. City A's population advantage more than overcomes its greater distance, so the model predicts stronger flows to City A - which is why big cities draw shoppers and migrants past smaller, nearer towns.",
+      "memoryHook": "T-Rexy says: Do the division - a million people can out-pull half the distance.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "gravity-model"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_051",
+      "question": "What is culture?",
+      "correctAnswer": "The shared beliefs, practices, and objects of a group of people",
+      "distractors": [
+        "The language only",
+        "The government only",
+        "The climate of a place"
+      ],
+      "explanation": "Culture includes customs, language, religion, food, and values.",
+      "memoryHook": "T-Rexy says: Culture is a group's shared way of life.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_052",
+      "question": "What is a cultural hearth?",
+      "correctAnswer": "A place where a culture or idea originates and spreads from",
+      "distractors": [
+        "A place where culture dies",
+        "A type of religion",
+        "A cultural region"
+      ],
+      "explanation": "A cultural hearth is the origin point of cultural traits, like the Fertile Crescent.",
+      "memoryHook": "T-Rexy says: A cultural hearth is where culture is born.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "hearths"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_053",
+      "question": "What is cultural diffusion?",
+      "correctAnswer": "The spread of cultural traits from one place to another",
+      "distractors": [
+        "The loss of culture",
+        "The creation of new culture",
+        "The isolation of culture"
+      ],
+      "explanation": "Cultural diffusion spreads ideas, foods, and practices between places.",
+      "memoryHook": "T-Rexy says: Diffusion spreads culture.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "diffusion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_054",
+      "question": "In Weber's least-cost theory of industrial location, what is the most important factor a factory owner considers?",
+      "correctAnswer": "Transportation costs - the total cost of hauling raw materials to the factory and finished products to market",
+      "distractors": [
+        "The cost of advertising in the nearest large city",
+        "The distance to the owner's home",
+        "The price of land, which always outweighs every other cost"
+      ],
+      "explanation": "Alfred Weber argued that an industry locates where total costs are lowest, and he treated transportation cost as the dominant cost because it depends directly on distance and weight. Labor costs and agglomeration (clustering with related firms) can pull a factory away from the cheapest-transport site, but only when those savings beat the extra transport cost.",
+      "memoryHook": "T-Rexy says: Weber counts the hauling bill first - weight times distance runs the factory map.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "industry",
+        "weber"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_055",
+      "question": "What is hierarchical diffusion?",
+      "correctAnswer": "Diffusion from powerful or famous people down to others",
+      "distractors": [
+        "Diffusion from the poor to the rich",
+        "Diffusion through migration",
+        "Diffusion that spreads evenly"
+      ],
+      "explanation": "Hierarchical diffusion spreads from elites or major cities to others.",
+      "memoryHook": "T-Rexy says: Hierarchical diffusion trickles down from the top.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "diffusion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_056",
+      "question": "What is contagious diffusion?",
+      "correctAnswer": "Diffusion that spreads from person to person like a wave",
+      "distractors": [
+        "Diffusion through migration",
+        "Diffusion from elites",
+        "Diffusion that stops at borders"
+      ],
+      "explanation": "Contagious diffusion spreads outward through contact, like a fad or disease.",
+      "memoryHook": "T-Rexy says: Contagious diffusion spreads like a wave.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "diffusion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_057",
+      "question": "What is stimulus diffusion?",
+      "correctAnswer": "Diffusion where an idea spreads but is changed in the new place",
+      "distractors": [
+        "Diffusion that copies exactly",
+        "Diffusion through migration",
+        "Diffusion that fails"
+      ],
+      "explanation": "In stimulus diffusion, the underlying idea spreads but is adapted, like fast food menus changing abroad.",
+      "memoryHook": "T-Rexy says: Stimulus diffusion adapts the idea.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "diffusion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_058",
+      "question": "What is a lingua franca?",
+      "correctAnswer": "A common language used for communication between different groups",
+      "distractors": [
+        "A dead language",
+        "A language spoken by one group only",
+        "A written language only"
+      ],
+      "explanation": "A lingua franca, like English in business, lets different language groups communicate.",
+      "memoryHook": "T-Rexy says: A lingua franca is a shared bridge language.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "language"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_059",
+      "question": "What is the most widely spoken language in the world by total speakers?",
+      "correctAnswer": "English",
+      "distractors": [
+        "Mandarin Chinese",
+        "Spanish",
+        "Hindi"
+      ],
+      "explanation": "English has the most total speakers, including second-language speakers.",
+      "memoryHook": "T-Rexy says: English has the most speakers overall.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "language"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_060",
+      "question": "What is the most widely spoken native language in the world?",
+      "correctAnswer": "Mandarin Chinese",
+      "distractors": [
+        "English",
+        "Spanish",
+        "Arabic"
+      ],
+      "explanation": "Counts differ because Mandarin is concentrated in China while English is learned worldwide - Mandarin leads in native speakers even though English leads in total speakers.",
+      "memoryHook": "T-Rexy says: Mandarin has the most native speakers.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "language"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_061",
+      "question": "What is a dialect?",
+      "correctAnswer": "A regional variety of a language",
+      "distractors": [
+        "A separate language",
+        "A written language",
+        "A dead language"
+      ],
+      "explanation": "A dialect is a regional form of a language with its own accent and words.",
+      "memoryHook": "T-Rexy says: A dialect is a regional flavor of a language.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "language"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_062",
+      "question": "Soft-drink syrup is shipped in concentrated form, but the bottled drink sold to customers is mostly water and weighs far more than the syrup. Where do bottling plants tend to locate, and why?",
+      "correctAnswer": "Near their markets, because bottling is a weight-gaining process and shipping the heavier finished drink is the expensive leg",
+      "distractors": [
+        "Near the syrup factory, because raw materials always determine factory location",
+        "In rural areas with the cheapest land, because transport costs do not matter for drinks",
+        "Near the sugar plantations, because sugar is the bulkiest ingredient in the drink"
+      ],
+      "explanation": "Bottling adds a ubiquitous input - water, available almost everywhere - to a small amount of syrup, so the finished product is bulkier and heavier than the inputs. Weber's model calls this a bulk-gaining industry: the cheapest transport strategy is to ship the light concentrate and do the heavy step beside the customers.",
+      "memoryHook": "T-Rexy says: Add the water at the customer's end - never pay to ship water across the country.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "industry",
+        "weber"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_063",
+      "question": "A copper smelter processes 10 tons of ore to produce only 2 tons of refined copper. According to Weber's theory, where should the smelter be located, and why?",
+      "correctAnswer": "Near the copper mine, because smelting is a weight-losing process and it is cheaper to ship the lighter finished metal than the heavy ore",
+      "distractors": [
+        "Near the largest market city, because finished products always cost more to transport",
+        "Halfway between the mine and the market, so both trips are equal",
+        "Next to a port, because all industries must locate on the coast"
+      ],
+      "explanation": "Weber called industries that lose weight during production bulk-reducing or weight-losing. Because the raw material is much heavier than the finished product, every kilometer of hauling ore costs more than hauling copper, so the least-cost site is pulled toward the raw material source.",
+      "memoryHook": "T-Rexy says: If it shrinks in the oven, build the oven by the mine.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "industry",
+        "weber"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_064",
+      "question": "What is folk culture?",
+      "correctAnswer": "Culture practiced by small, traditional, often rural groups",
+      "distractors": [
+        "Culture spread by mass media",
+        "Culture in big cities",
+        "Culture of the elite"
+      ],
+      "explanation": "Folk culture is local, traditional, and passed down within small communities.",
+      "memoryHook": "T-Rexy says: Folk culture is local and traditional.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "folk-popular"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_065",
+      "question": "What is popular culture?",
+      "correctAnswer": "Culture spread widely through mass media and commercialization",
+      "distractors": [
+        "Culture of small villages",
+        "Culture that never changes",
+        "Culture of the past"
+      ],
+      "explanation": "Popular culture is mass-produced and widely shared, like pop music and fast food.",
+      "memoryHook": "T-Rexy says: Popular culture is mass culture.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "folk-popular"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_066",
+      "question": "What is a state in political geography?",
+      "correctAnswer": "A political unit with defined territory, a permanent population, and a government",
+      "distractors": [
+        "A city",
+        "A province",
+        "A region with no government"
+      ],
+      "explanation": "Geographers separate state from nation and country in casual speech - the United Nations is really an organization of states, each meeting these criteria.",
+      "memoryHook": "T-Rexy says: A state has land, people, and a government.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "state"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_067",
+      "question": "What is sovereignty?",
+      "correctAnswer": "A state's authority to govern itself without outside interference",
+      "distractors": [
+        "A type of government",
+        "A border dispute",
+        "A trade agreement"
+      ],
+      "explanation": "Sovereignty is why international law treats a small state like Luxembourg as the legal equal of China - no outside power may lawfully dictate its internal rule.",
+      "memoryHook": "T-Rexy says: Sovereignty is self-rule.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "sovereignty"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_068",
+      "question": "In world-systems theory, what is the typical economic role of a peripheral country?",
+      "correctAnswer": "It exports unprocessed raw materials and agricultural goods and provides cheap labor, while importing expensive manufactured goods from the core",
+      "distractors": [
+        "It controls most of the world's banks and high-technology firms",
+        "It manufactures finished goods for the core using raw materials imported from the core",
+        "It trades only with other peripheral countries and never with the core"
+      ],
+      "explanation": "Wallerstein held that the periphery is kept in a dependent position: its farms and mines ship out low-value raw materials, its workers earn low wages, and profits flow to core firms that sell back high-value finished goods. The semi-periphery both exploits the periphery and is exploited by the core, which helps stabilize the system.",
+      "memoryHook": "T-Rexy says: The periphery ships out beans and buys back chocolate - the profit sails to the core.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "wallerstein"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_069",
+      "question": "What is a nation-state?",
+      "correctAnswer": "A state whose territory matches the homeland of one nation",
+      "distractors": [
+        "A state with many nations",
+        "A state with no government",
+        "A city-state"
+      ],
+      "explanation": "A nation-state, like Japan, has borders that match one national group.",
+      "memoryHook": "T-Rexy says: Japan is a nation-state.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "nation-state"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_070",
+      "question": "What is a multinational state?",
+      "correctAnswer": "A state containing several nations or ethnic groups",
+      "distractors": [
+        "A state with one nation",
+        "A state with no nations",
+        "A small island state"
+      ],
+      "explanation": "A multinational state, like Canada, includes multiple national groups.",
+      "memoryHook": "T-Rexy says: Canada is a multinational state.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "multinational"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_071",
+      "question": "What is a stateless nation?",
+      "correctAnswer": "A nation without its own state, like the Kurds",
+      "distractors": [
+        "A nation with many states",
+        "A state with no people",
+        "A country with no borders"
+      ],
+      "explanation": "The Kurds, split among Turkey, Iraq, Iran, and Syria, are the classic case - about 30 million people with a shared language and history but no state of their own.",
+      "memoryHook": "T-Rexy says: The Kurds are a stateless nation.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "stateless"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_072",
+      "question": "What is a border?",
+      "correctAnswer": "The line marking the edge of a state's territory",
+      "distractors": [
+        "A river only",
+        "A wall only",
+        "A trade route"
+      ],
+      "explanation": "Boundaries are usually delimited on a map and then demarcated on the ground with markers or fences; before modern states, frontiers separated peoples instead.",
+      "memoryHook": "T-Rexy says: A border is where one state ends.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "borders"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_073",
+      "question": "A country exports almost all of its coffee as unprocessed green beans and its minerals as raw ore, while importing machinery, electronics, and packaged foods at high prices. Foreign companies own most of its mines. How would Wallerstein classify this country?",
+      "correctAnswer": "As part of the periphery, because it supplies raw materials and cheap labor while wealth flows outward to the core",
+      "distractors": [
+        "As part of the core, because it trades with many countries",
+        "As part of the semi-periphery, because it has both mines and farms",
+        "As outside the world system, because it grows its own food"
+      ],
+      "explanation": "The classification depends on a country's role, not its size or how much it trades. Exporting low-value raw materials, importing high-value manufactures, and hosting foreign-owned extraction are the classic marks of the periphery; a semi-peripheral country would also carry out substantial manufacturing of its own, which this country does not.",
+      "memoryHook": "T-Rexy says: Raw out, expensive in, profits gone - that is the periphery pattern.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "wallerstein"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_074",
+      "question": "What is the difference between a unitary and a federal state?",
+      "correctAnswer": "A unitary state concentrates power centrally; a federal state shares power with regions",
+      "distractors": [
+        "They are the same",
+        "A federal state has no regions",
+        "A unitary state has no government"
+      ],
+      "explanation": "Unitary states, like France, centralize power; federal states, like the US, divide it.",
+      "memoryHook": "T-Rexy says: Unitary is centralized, federal is shared.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "government"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_075",
+      "question": "What is gerrymandering?",
+      "correctAnswer": "Drawing voting districts to favor one party or group",
+      "distractors": [
+        "Drawing fair districts",
+        "Counting votes",
+        "Holding elections"
+      ],
+      "explanation": "Gerrymandering manipulates district boundaries for political advantage.",
+      "memoryHook": "T-Rexy says: Gerrymandering rigs the map.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "gerrymandering"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_076",
+      "question": "What is the European Union?",
+      "correctAnswer": "A political and economic union of European countries",
+      "distractors": [
+        "A military alliance only",
+        "A single country",
+        "A trade deal with the US"
+      ],
+      "explanation": "The EU is a union of European states sharing laws, trade, and some policies.",
+      "memoryHook": "T-Rexy says: The EU unites European countries.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "eu"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_077",
+      "question": "According to Wallerstein's world-systems theory, the world economy is divided into which three types of regions?",
+      "correctAnswer": "The core, the semi-periphery, and the periphery",
+      "distractors": [
+        "The First World, the Second World, and the Third World",
+        "The developed, the developing, and the underdeveloped continents",
+        "The northern hemisphere, the tropics, and the southern hemisphere"
+      ],
+      "explanation": "Immanuel Wallerstein argued that since about the 1500s a single capitalist world-economy has linked regions in unequal roles. Wealthy core states dominate high-profit manufacturing and finance, the periphery supplies cheap labor and raw materials, and the semi-periphery sits in between - partly industrialized but still dependent on the core.",
+      "memoryHook": "T-Rexy says: Core calls the shots, periphery digs the mines, semi-periphery stands in the middle.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "wallerstein"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_078",
+      "question": "What is the United Nations?",
+      "correctAnswer": "An international organization for peace, security, and cooperation",
+      "distractors": [
+        "A military alliance",
+        "A trade union",
+        "A single country's government"
+      ],
+      "explanation": "The UN, founded in 1945, promotes peace and cooperation among states.",
+      "memoryHook": "T-Rexy says: The UN works for world peace.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "un"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_079",
+      "question": "What is a supranational organization?",
+      "correctAnswer": "An organization where states give up some power to a higher authority, like the EU",
+      "distractors": [
+        "A single country's government",
+        "A local government",
+        "A military alliance only"
+      ],
+      "explanation": "Supranational organizations, like the EU, have authority over member states in some areas.",
+      "memoryHook": "T-Rexy says: Supranational means above the nation.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "supranational"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_080",
+      "question": "A country's investment rate has jumped sharply, new manufacturing industries are growing rapidly, and modern methods are spreading from cities into the wider economy, although most workers still farm. In Rostow's model, which stage is this country entering?",
+      "correctAnswer": "Stage 3, the take-off",
+      "distractors": [
+        "Stage 1, the traditional society",
+        "Stage 4, the drive to maturity",
+        "Stage 5, the age of high mass consumption"
+      ],
+      "explanation": "Take-off is Rostow's brief, decisive stage: investment rises to roughly 10 percent or more of national income, a few leading manufacturing sectors expand fast, and modern economic practices begin to spread. In Stage 4 those industries diversify across the whole economy, and Stage 5 comes only when mass consumer goods dominate - neither matches a country where most workers still farm.",
+      "memoryHook": "T-Rexy says: Investment jumps, factories sprout - that is the take-off runway moment.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "rostow"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_081",
+      "question": "What is the Green Revolution?",
+      "correctAnswer": "The spread of high-yield crops, fertilizers, and irrigation that raised farm output",
+      "distractors": [
+        "A movement to ban pesticides",
+        "A return to traditional farming",
+        "A revolution in France"
+      ],
+      "explanation": "The Green Revolution used new seeds and technology to greatly increase food production.",
+      "memoryHook": "T-Rexy says: The Green Revolution grew more food with new seeds.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "green-revolution"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_082",
+      "question": "What is subsistence agriculture?",
+      "correctAnswer": "Farming mainly to feed the farmer's own family",
+      "distractors": [
+        "Farming for sale in markets",
+        "Farming with machines only",
+        "Farming in cities"
+      ],
+      "explanation": "Subsistence output rarely enters markets, so a harvest failure hits the family directly - most of the world's farmers still farm this way, mainly in Africa and Asia.",
+      "memoryHook": "T-Rexy says: Subsistence farming feeds the family.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "subsistence"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_083",
+      "question": "What is commercial agriculture?",
+      "correctAnswer": "Farming to sell products for profit",
+      "distractors": [
+        "Farming for family use",
+        "Farming without machines",
+        "Farming in the past"
+      ],
+      "explanation": "Commercial farms respond to market prices, not household hunger - a farmer may export coffee or cotton and buy food with the profit instead of growing it.",
+      "memoryHook": "T-Rexy says: Commercial farming sells for profit.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "commercial"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_084",
+      "question": "What is agribusiness?",
+      "correctAnswer": "Large-scale commercial farming run like a business",
+      "distractors": [
+        "Small family farming",
+        "Organic farming only",
+        "Urban farming"
+      ],
+      "explanation": "Agribusiness controls the whole food chain - seed and fertilizer suppliers, processors, and supermarket contracts - not just the growing of crops.",
+      "memoryHook": "T-Rexy says: Agribusiness is farming as big business.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "agribusiness"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_085",
+      "question": "What is von Thunen's model?",
+      "correctAnswer": "A model showing land use rings around a city based on transport cost",
+      "distractors": [
+        "A model of population growth",
+        "A model of migration",
+        "A model of urban sprawl"
+      ],
+      "explanation": "Each ring is a bid-rent winner: dairy spoils fast and land near the market is dear, so perishable, intensive farming hugs the city while ranching survives far out on cheap land.",
+      "memoryHook": "T-Rexy says: Von Thunen drew rings of farming around a city.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "von-thunen"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_086",
+      "question": "What is a food desert?",
+      "correctAnswer": "An area with limited access to fresh, affordable food",
+      "distractors": [
+        "A desert with no farms",
+        "A place with no food at all",
+        "A farming region"
+      ],
+      "explanation": "Food deserts are areas, often poor urban neighborhoods, without nearby grocery stores.",
+      "memoryHook": "T-Rexy says: Food deserts lack fresh food nearby.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "food-deserts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_087",
+      "question": "What is urbanization?",
+      "correctAnswer": "The growth of cities and the share of people living in them",
+      "distractors": [
+        "The decline of cities",
+        "The growth of farms",
+        "The movement to rural areas"
+      ],
+      "explanation": "Urbanization is measured as a percentage - the world passed 50 percent urban around 2007, and most growth now happens in Africa and Asia.",
+      "memoryHook": "T-Rexy says: Urbanization is the shift to cities.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "urbanization"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_088",
+      "question": "What is a megacity?",
+      "correctAnswer": "A city with more than 10 million people",
+      "distractors": [
+        "A city with more than 1 million people",
+        "The capital of a country",
+        "A city with a subway"
+      ],
+      "explanation": "The 10 million threshold counts the whole built-up metropolitan area, not just the city limits; the world now has more than 30 megacities, most of them in Asia.",
+      "memoryHook": "T-Rexy says: A megacity has over 10 million people.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "megacities"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_089",
+      "question": "What does the multiple nuclei model say about how a city grows?",
+      "correctAnswer": "The city develops around several separate centers, such as an airport district or a university district, instead of growing outward from one single downtown",
+      "distractors": [
+        "The city grows in rings around one central business district",
+        "The city grows in wedge-shaped sectors along transportation routes",
+        "The city grows only after a single port or factory is built at its edge"
+      ],
+      "explanation": "Harris and Ullman proposed in 1945 that large cities have many focal points. Airports, universities, ports, and suburban business districts each attract their own cluster of homes and services, so the city ends up with several 'nuclei' rather than one center that explains everything.",
+      "memoryHook": "T-Rexy says: Multiple nuclei means many centers, not one - think several downtowns inside one city.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "models"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_090",
+      "question": "What is suburbanization?",
+      "correctAnswer": "The movement of people and jobs from cities to suburbs",
+      "distractors": [
+        "The movement to city centers",
+        "The growth of farms",
+        "The decline of suburbs"
+      ],
+      "explanation": "Suburbanization took off after World War II with cars and highways, hollowing out many central cities - recently some suburbs have begun densifying into edge cities.",
+      "memoryHook": "T-Rexy says: Suburbanization is the move to the suburbs.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "suburbs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_091",
+      "question": "What is gentrification?",
+      "correctAnswer": "Wealthier people moving into a poor area, raising prices and displacing residents",
+      "distractors": [
+        "The decline of a neighborhood",
+        "The building of suburbs",
+        "The creation of slums"
+      ],
+      "explanation": "The process flips a neighborhood's class character: higher rents and property taxes squeeze out renters and small shops even as renovated housing attracts wealthier newcomers.",
+      "memoryHook": "T-Rexy says: Gentrification raises prices and pushes people out.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "gentrification"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_092",
+      "question": "What is urban sprawl?",
+      "correctAnswer": "Unplanned, low-density growth spreading outward from a city",
+      "distractors": [
+        "Planned compact growth",
+        "Growth in the city center",
+        "A decline in city size"
+      ],
+      "explanation": "Urban sprawl is spread-out, car-dependent growth at a city's edge.",
+      "memoryHook": "T-Rexy says: Sprawl is cities spreading outward.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "sprawl"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_093",
+      "question": "What is the concentric zone model?",
+      "correctAnswer": "A model of a city as rings, with the center as the business district",
+      "distractors": [
+        "A model of farming",
+        "A model of migration",
+        "A model of trade"
+      ],
+      "explanation": "Ernest Burgess built the model from 1920s Chicago: each ring invades the next as the city grows, so zones shift outward over time like ripples.",
+      "memoryHook": "T-Rexy says: The concentric zone model draws rings around downtown.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "models"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_094",
+      "question": "What is the sector model of cities?",
+      "correctAnswer": "A model where a city grows in wedges along transport routes",
+      "distractors": [
+        "A model of rings",
+        "A model of farming",
+        "A model of population"
+      ],
+      "explanation": "Homer Hoyt noticed in the 1930s that land uses stretch outward in wedges along rail lines and roads - high-rent housing keeps extending in the same sector as the city grows.",
+      "memoryHook": "T-Rexy says: The sector model grows in wedges.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "models"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_095",
+      "question": "According to Harris and Ullman, why do multiple centers develop in large cities instead of one center dominating?",
+      "correctAnswer": "Some activities naturally cluster together while others repel each other, and specialized facilities such as ports need particular sites, so distinct nodes form",
+      "distractors": [
+        "Because the government zones every city into exactly nine districts",
+        "Because land values always decline at the same rate in every direction from downtown",
+        "Because businesses are required by law to locate next to their competitors"
+      ],
+      "explanation": "Harris and Ullman argued that certain activities require specialized facilities (a port needs deep water), similar activities attract each other (retail districts), and incompatible activities repel each other (heavy industry versus high-income housing). Combined with the automobile, these forces create several nuclei rather than one controlling center.",
+      "memoryHook": "T-Rexy says: Likes attract, opposites repel - that tug-of-war builds the nuclei.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "models"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_096",
+      "question": "What is the Human Development Index (HDI)?",
+      "correctAnswer": "A measure of health, education, and income in a country",
+      "distractors": [
+        "A measure of GDP only",
+        "A measure of population only",
+        "A measure of military power"
+      ],
+      "explanation": "The HDI combines life expectancy, schooling, and income into one score.",
+      "memoryHook": "T-Rexy says: HDI measures health, schooling, and income.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "hdi"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_097",
+      "question": "What does Rostow's stages of development model claim about how countries develop economically?",
+      "correctAnswer": "Every country passes through the same five stages, from a traditional society to an age of high mass consumption",
+      "distractors": [
+        "Countries hold fixed positions as core or periphery that can never change",
+        "Development depends only on how much foreign aid a country receives",
+        "Countries move directly from farming to services without industrializing"
+      ],
+      "explanation": "W. W. Rostow proposed in 1960 that economies advance through five stages: traditional society, preconditions for take-off, take-off, drive to maturity, and the age of high mass consumption. In his model, investment and manufacturing spark the take-off, and mature economies eventually shift toward consumer goods and services.",
+      "memoryHook": "T-Rexy says: Rostow's ladder has five rungs - every country climbs from farming to mass consumption.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "rostow"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_098",
+      "question": "What is the difference between developed and developing countries?",
+      "correctAnswer": "Developed countries have higher incomes, education, and health; developing countries have lower levels",
+      "distractors": [
+        "There is no difference",
+        "Developing countries are always poor",
+        "Developed countries have no industry"
+      ],
+      "explanation": "The spectrum runs from more-developed to less-developed countries, and the Brandt Line once split the rich North from the poorer South - today the UN prefers HDI rankings.",
+      "memoryHook": "T-Rexy says: Development is about income, health, and school.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_099",
+      "question": "What is a major criticism geographers make of Rostow's stages of development model?",
+      "correctAnswer": "It assumes every country must follow the same path taken by Western Europe and North America, ignoring different histories, cultures, and positions in the world economy",
+      "distractors": [
+        "It has too many stages for students to memorize",
+        "It claims that poor countries can never develop at all",
+        "It was based only on the economy of one small island country"
+      ],
+      "explanation": "Rostow built his stages from the experience of Britain and the United States and presented them as a universal ladder. Critics - including dependency and world-systems theorists - argue that colonies and peripheral countries face obstacles the early industrializers never faced, so a single Western path cannot explain or predict development everywhere.",
+      "memoryHook": "T-Rexy says: One ladder does not fit every country - Rostow drew his from the West.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "rostow"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_100",
+      "question": "What is fair trade?",
+      "correctAnswer": "Trade that pays producers in developing countries a fair price",
+      "distractors": [
+        "Free trade with no rules",
+        "Trade with no tariffs",
+        "Trade between rich countries only"
+      ],
+      "explanation": "Fair trade certifies that producers receive fair prices and decent conditions.",
+      "memoryHook": "T-Rexy says: Fair trade pays producers fairly.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "fair-trade"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

@@ -1,0 +1,2017 @@
+{
+  "packId": "gr10-health",
+  "title": "Health (10th Grade)",
+  "description": "Health (10th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "health",
+    "wellness",
+    "10th"
+  ],
+  "questions": [
+    {
+      "id": "HEA10_001",
+      "question": "Which nutrient is the body's main source of energy?",
+      "correctAnswer": "Carbohydrates",
+      "distractors": [
+        "Protein",
+        "Fat",
+        "Vitamins"
+      ],
+      "explanation": "Carbohydrates are broken down into glucose, the body's main fuel.",
+      "memoryHook": "T-Rexy says: Carbs are the body's main fuel.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_002",
+      "question": "Which nutrient builds and repairs body tissues?",
+      "correctAnswer": "Protein",
+      "distractors": [
+        "Carbohydrates",
+        "Water",
+        "Fiber"
+      ],
+      "explanation": "Protein provides amino acids to build and repair muscles and tissues.",
+      "memoryHook": "T-Rexy says: Protein builds and repairs the body.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_003",
+      "question": "What is an eating disorder?",
+      "correctAnswer": "A serious medical and mental illness that disrupts eating behaviors and body image",
+      "distractors": [
+        "A diet people choose just to look better",
+        "A phase that all teens grow out of on their own",
+        "Eating one very large meal"
+      ],
+      "explanation": "Eating disorders are real illnesses, not choices or vanity. They damage the heart, bones, and other organs, but they are treatable, especially when help starts early.",
+      "memoryHook": "T-Rexy says: An eating disorder is an illness, not a choice.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "eating-disorders"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_004",
+      "question": "Which food group is the best source of calcium?",
+      "correctAnswer": "Dairy foods like milk and yogurt",
+      "distractors": [
+        "Grains",
+        "Fruits",
+        "Oils"
+      ],
+      "explanation": "Dairy products are rich in calcium for bones and teeth.",
+      "memoryHook": "T-Rexy says: Milk and yogurt build strong bones.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_005",
+      "question": "How many cups of water should teens aim to drink each day?",
+      "correctAnswer": "About 8 cups (64 ounces), more when active",
+      "distractors": [
+        "2 cups",
+        "4 cups",
+        "16 cups"
+      ],
+      "explanation": "Teens need roughly 8 cups of water a day, more in heat or exercise.",
+      "memoryHook": "T-Rexy says: Eight cups a day keeps you hydrated.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_006",
+      "question": "What is fiber good for?",
+      "correctAnswer": "Healthy digestion and feeling full",
+      "distractors": [
+        "Building muscle",
+        "Strong bones",
+        "Sharp vision"
+      ],
+      "explanation": "Fiber adds bulk that moves food through the intestines, feeds gut bacteria, and slows digestion so meals satisfy longer.",
+      "memoryHook": "T-Rexy says: Fiber keeps your digestion on track.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "fiber"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_007",
+      "question": "Which type of fat is considered the healthiest?",
+      "correctAnswer": "Unsaturated fat",
+      "distractors": [
+        "Saturated fat",
+        "Trans fat",
+        "Hydrogenated fat"
+      ],
+      "explanation": "Unsaturated fats from plants, fish, and nuts support heart health.",
+      "memoryHook": "T-Rexy says: Unsaturated fats are the heart-friendly ones.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "fats"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_008",
+      "question": "What is the main problem with trans fats?",
+      "correctAnswer": "They raise bad cholesterol and lower good cholesterol",
+      "distractors": [
+        "They provide no energy",
+        "They cause dehydration",
+        "They have no flavor"
+      ],
+      "explanation": "Trans fats raise LDL cholesterol and lower HDL, increasing heart disease risk.",
+      "memoryHook": "T-Rexy says: Trans fats are the worst for your heart.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "fats"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_009",
+      "question": "What does the body use iron for?",
+      "correctAnswer": "Making hemoglobin to carry oxygen in blood",
+      "distractors": [
+        "Building bones",
+        "Making vitamin D",
+        "Digesting food"
+      ],
+      "explanation": "Iron is needed to make hemoglobin, which carries oxygen in red blood cells.",
+      "memoryHook": "T-Rexy says: Iron helps your blood carry oxygen.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "minerals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_010",
+      "question": "Why is marijuana especially risky for teenagers?",
+      "correctAnswer": "The teen brain is still developing, and marijuana can harm memory, learning, and attention",
+      "distractors": [
+        "It is natural, so it cannot affect the brain",
+        "It improves concentration for schoolwork",
+        "It only affects the lungs, never the brain"
+      ],
+      "explanation": "Brain development continues into the mid-20s. Marijuana interferes with memory, learning, and attention during that window, and teens who use it regularly can fall behind in school.",
+      "memoryHook": "T-Rexy says: A growing brain and marijuana do not mix.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "marijuana"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_011",
+      "question": "What is a calorie?",
+      "correctAnswer": "A unit of energy in food",
+      "distractors": [
+        "A vitamin",
+        "A type of fat",
+        "A mineral"
+      ],
+      "explanation": "A calorie measures energy: carbs and protein give about 4 per gram, fat about 9, and your body spends them on movement, growth, and basic functions like breathing.",
+      "memoryHook": "T-Rexy says: A calorie is a unit of food energy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_012",
+      "question": "What is the difference between whole grains and refined grains?",
+      "correctAnswer": "Whole grains keep the bran, germ, and endosperm; refined grains lose the bran and germ",
+      "distractors": [
+        "Whole grains have more sugar",
+        "Refined grains have more fiber",
+        "There is no difference"
+      ],
+      "explanation": "Whole grains keep all parts of the grain, including fiber and nutrients.",
+      "memoryHook": "T-Rexy says: Whole grains keep the whole grain.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "grains"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_013",
+      "question": "What does an AED do?",
+      "correctAnswer": "It analyzes the heart's rhythm and can deliver an electric shock to restore a normal rhythm",
+      "distractors": [
+        "It pumps blood through the body like CPR does",
+        "Only doctors and paramedics are allowed to use one",
+        "It restarts every stopped heart automatically"
+      ],
+      "explanation": "An AED is a portable device with voice prompts that guide any bystander step by step. It checks the rhythm and shocks only when a shock can help, so it cannot be used wrong by a rescuer.",
+      "memoryHook": "T-Rexy says: An AED talks you through saving a life.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "aed"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_014",
+      "question": "What does protein provide that carbs and fats do not?",
+      "correctAnswer": "Amino acids for building tissue",
+      "distractors": [
+        "Energy only",
+        "Water",
+        "Fiber"
+      ],
+      "explanation": "Protein supplies amino acids, the building blocks for muscles, enzymes, and more.",
+      "memoryHook": "T-Rexy says: Protein supplies the building blocks.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_015",
+      "question": "How much of your plate should be fruits and vegetables?",
+      "correctAnswer": "About half",
+      "distractors": [
+        "One quarter",
+        "One tenth",
+        "All of it"
+      ],
+      "explanation": "MyPlate divides the plate into food groups; filling half with fruits and vegetables packs in fiber, vitamins, and water without many calories.",
+      "memoryHook": "T-Rexy says: Half your plate should be fruits and veggies.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "myplate"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_016",
+      "question": "What is the main risk of eating too much sodium?",
+      "correctAnswer": "High blood pressure",
+      "distractors": [
+        "Low blood sugar",
+        "Weak bones",
+        "Poor vision"
+      ],
+      "explanation": "Too much sodium raises blood pressure, increasing heart and stroke risk.",
+      "memoryHook": "T-Rexy says: Too much salt raises blood pressure.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "sodium"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_017",
+      "question": "What does naloxone (Narcan) do?",
+      "correctAnswer": "It temporarily reverses an opioid overdose and restores breathing",
+      "distractors": [
+        "It permanently cures opioid addiction",
+        "It reverses overdoses from alcohol and stimulants too",
+        "It is dangerous to give if the person is not overdosing"
+      ],
+      "explanation": "Naloxone blocks opioids in the brain and can restore breathing within 2 to 3 minutes. It wears off in 30 to 90 minutes, so call 911 first - and it does no harm if opioids turn out not to be involved.",
+      "memoryHook": "T-Rexy says: Call 911, then naloxone restarts breathing.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "opioids"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_018",
+      "question": "Which drink is healthiest?",
+      "correctAnswer": "Water",
+      "distractors": [
+        "Soda",
+        "Energy drinks",
+        "Sweet tea"
+      ],
+      "explanation": "Water hydrates without sugar or calories.",
+      "memoryHook": "T-Rexy says: Water is the healthiest drink.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_019",
+      "question": "Why is fentanyl so dangerous?",
+      "correctAnswer": "It is about 50 times stronger than heroin, so even a tiny amount can stop a person's breathing",
+      "distractors": [
+        "It is weaker than morphine and only used in hospitals",
+        "It is dangerous only when injected by doctors",
+        "You can spot it easily by its color or taste"
+      ],
+      "explanation": "Fentanyl is a synthetic opioid about 50 times stronger than heroin and 100 times stronger than morphine. It is often mixed into counterfeit pills and other drugs, so people can overdose without knowing they took it.",
+      "memoryHook": "T-Rexy says: Fentanyl is tiny but deadly - 50 times stronger than heroin.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "opioids"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_020",
+      "question": "What is anemia?",
+      "correctAnswer": "A condition where blood lacks enough healthy red blood cells",
+      "distractors": [
+        "High blood pressure",
+        "A broken bone",
+        "A food allergy"
+      ],
+      "explanation": "Anemia means too few red blood cells or too little hemoglobin, often from low iron.",
+      "memoryHook": "T-Rexy says: Anemia means your blood is short on red cells.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "conditions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_021",
+      "question": "Which methods of birth control are the most effective at preventing pregnancy?",
+      "correctAnswer": "Long-acting methods - the implant and the IUD - which work for years without daily effort",
+      "distractors": [
+        "Condoms used on their own",
+        "Taking the pill only on days you remember it",
+        "The withdrawal method"
+      ],
+      "explanation": "The implant and hormonal or copper IUDs are over 99 percent effective because there is almost no room for human error. Pills and condoms work well only when used correctly every single time.",
+      "memoryHook": "T-Rexy says: Set-it-and-forget-it methods prevent the most pregnancies.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "contraception"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_022",
+      "question": "Which nutrient is needed in the largest amount each day?",
+      "correctAnswer": "Water",
+      "distractors": [
+        "Vitamin C",
+        "Iron",
+        "Calcium"
+      ],
+      "explanation": "Water is the nutrient needed in the largest quantity for hydration and body functions.",
+      "memoryHook": "T-Rexy says: Water is your biggest daily need.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_023",
+      "question": "What are the signs of an opioid overdose?",
+      "correctAnswer": "Pinpoint pupils, slow or stopped breathing, and being unconscious or unable to wake up",
+      "distractors": [
+        "A racing heartbeat, sweating, and talking very fast",
+        "Sudden hunger and uncontrollable giggling",
+        "Hives and swelling of the lips and tongue"
+      ],
+      "explanation": "Opioids slow the part of the brain that controls breathing. Pinpoint pupils plus slow or stopped breathing is a medical emergency: call 911, give naloxone if available, and start rescue breathing or CPR.",
+      "memoryHook": "T-Rexy says: Pinpoint pupils and slow breathing - act fast.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "opioids"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_024",
+      "question": "What is a balanced diet?",
+      "correctAnswer": "Eating a variety of foods in the right amounts for your needs",
+      "distractors": [
+        "Eating only vegetables",
+        "Eating the same food every day",
+        "Avoiding all fats"
+      ],
+      "explanation": "No single food has every nutrient, so a balanced diet mixes all the food groups in the amounts your age, size, and activity level need.",
+      "memoryHook": "T-Rexy says: Balance means variety in the right amounts.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_025",
+      "question": "What is the best time to eat before exercise?",
+      "correctAnswer": "About 1 to 3 hours before, with carbs and some protein",
+      "distractors": [
+        "Right before starting",
+        "Only after exercise",
+        "Never eat before exercise"
+      ],
+      "explanation": "Eating 1 to 3 hours before exercise gives fuel without stomach discomfort.",
+      "memoryHook": "T-Rexy says: Fuel up one to three hours before exercise.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "exercise"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_026",
+      "question": "How many minutes of physical activity should teens get each day?",
+      "correctAnswer": "At least 60 minutes",
+      "distractors": [
+        "10 minutes",
+        "30 minutes",
+        "120 minutes"
+      ],
+      "explanation": "The 60 minutes can mix moderate and vigorous activity, including sports, walking, and play; it strengthens the heart, bones, and mood.",
+      "memoryHook": "T-Rexy says: Sixty minutes a day keeps teens healthy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "activity"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_027",
+      "question": "Which behavior could be a warning sign of an eating disorder in a friend?",
+      "correctAnswer": "Skipping meals, avoiding eating around others, and constantly worrying about weight",
+      "distractors": [
+        "Eating a big meal after a sports game",
+        "Trying out a new sport for fun",
+        "Cooking dinner for friends on weekends"
+      ],
+      "explanation": "Warning signs include skipping meals, secretive eating, frequent bathroom trips after meals, and intense focus on calories or body shape. A caring response is to share your concern and encourage the person to talk to a trusted adult or counselor.",
+      "memoryHook": "T-Rexy says: Skipped meals plus weight worry - check on your friend.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "eating-disorders"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_028",
+      "question": "What is the resting heart rate range for a healthy teen?",
+      "correctAnswer": "About 60 to 100 beats per minute",
+      "distractors": [
+        "20 to 40",
+        "120 to 140",
+        "150 to 180"
+      ],
+      "explanation": "Measure it first thing in the morning before getting up; trained athletes often rest below 60, while a resting rate regularly over 100 is worth a checkup.",
+      "memoryHook": "T-Rexy says: Resting heart rate is usually 60 to 100.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "heart"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_029",
+      "question": "What does warming up before exercise do?",
+      "correctAnswer": "It prepares muscles and reduces injury risk",
+      "distractors": [
+        "It makes you tired",
+        "It replaces cooling down",
+        "It builds muscle"
+      ],
+      "explanation": "Warming up raises blood flow and loosens muscles before harder activity.",
+      "memoryHook": "T-Rexy says: Warm up to protect your muscles.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_030",
+      "question": "What is the purpose of cooling down after exercise?",
+      "correctAnswer": "To gradually lower heart rate and prevent dizziness",
+      "distractors": [
+        "To build muscle faster",
+        "To burn more calories",
+        "To skip stretching"
+      ],
+      "explanation": "Stopping suddenly lets blood pool in the legs, which can cause dizziness; a few minutes of easy movement keeps it circulating while your heart rate falls.",
+      "memoryHook": "T-Rexy says: Cool down to let your body settle.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "safety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_031",
+      "question": "What makes counterfeit (fake) prescription pills so dangerous?",
+      "correctAnswer": "They look like real medicine but can secretly contain fentanyl",
+      "distractors": [
+        "They are made safely in licensed pharmacies",
+        "They are weaker than real pills, so they do less harm",
+        "Only one type of pill is ever faked"
+      ],
+      "explanation": "Counterfeit pills are pressed to look exactly like real prescriptions such as painkillers or study drugs, but many contain fentanyl. The only safe pill is one dispensed by a pharmacy from your own prescription.",
+      "memoryHook": "T-Rexy says: A pill from a friend or online could hide fentanyl.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "opioids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_032",
+      "question": "At what rate and depth should chest compressions be given to an adult or teen?",
+      "correctAnswer": "100 to 120 compressions per minute, pushing about 2 inches deep",
+      "distractors": [
+        "60 to 80 per minute, about 1 inch deep",
+        "100 to 120 per minute, about 4 inches deep",
+        "As fast as possible, at any depth"
+      ],
+      "explanation": "The American Heart Association sets the rate at 100 to 120 compressions per minute - roughly the beat of a fast song - with a depth of at least 2 inches for adults, letting the chest fully recoil between pushes.",
+      "memoryHook": "T-Rexy says: Push hard, push fast - 100 to 120 a minute, 2 inches deep.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "cpr"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_033",
+      "question": "What is the difference between bulimia and anorexia?",
+      "correctAnswer": "Bulimia involves binge eating followed by purging; anorexia involves extreme food restriction and significant weight loss",
+      "distractors": [
+        "Bulimia involves extreme restriction; anorexia involves bingeing and purging",
+        "They are two names for exactly the same illness",
+        "Anorexia only affects the stomach, and bulimia only affects the teeth"
+      ],
+      "explanation": "Both are serious eating disorders. People with bulimia cycle between eating large amounts and purging, often at a typical weight, while anorexia involves severe restriction and dangerously low weight - both need professional treatment.",
+      "memoryHook": "T-Rexy says: Bulimia binges and purges; anorexia restricts.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "eating-disorders"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_034",
+      "question": "What is the target heart rate zone for moderate exercise?",
+      "correctAnswer": "About 50 to 70 percent of maximum heart rate",
+      "distractors": [
+        "10 to 20 percent",
+        "90 to 100 percent",
+        "5 to 10 percent"
+      ],
+      "explanation": "In the moderate zone you can talk but not sing; for a 16-year-old with a max near 204, that is roughly 100 to 143 beats per minute.",
+      "memoryHook": "T-Rexy says: Moderate exercise is 50 to 70 percent of max.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "heart"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_035",
+      "question": "What is maximum heart rate roughly calculated as?",
+      "correctAnswer": "220 minus your age",
+      "distractors": [
+        "Age plus 100",
+        "Age times 2",
+        "220 plus your age"
+      ],
+      "explanation": "The 220-minus-age formula is only a rough estimate - real maximums vary by about 10 to 12 beats either way - but it is a handy starting point for training zones.",
+      "memoryHook": "T-Rexy says: Max heart rate is about 220 minus your age.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "heart"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_036",
+      "question": "What is the FITT principle?",
+      "correctAnswer": "Frequency, Intensity, Time, and Type of exercise",
+      "distractors": [
+        "Food, Intake, Training, and Time",
+        "Fitness, Injury, Treatment, and Therapy",
+        "Flexibility, Intensity, Training, and Time"
+      ],
+      "explanation": "FITT lets you adjust a plan one piece at a time: how often, how hard, how long, and what activity; changing one part is how you progress safely.",
+      "memoryHook": "T-Rexy says: FITT is frequency, intensity, time, type.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "planning"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_037",
+      "question": "What is the best way to prevent sports injuries?",
+      "correctAnswer": "Warm up, use proper technique, and wear protective gear",
+      "distractors": [
+        "Exercise through pain",
+        "Skip stretching",
+        "Train every day without rest"
+      ],
+      "explanation": "Proper warm-up, technique, rest, and gear reduce injury risk.",
+      "memoryHook": "T-Rexy says: Warm up, use good form, wear gear.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_038",
+      "question": "What is the RICE method for injuries?",
+      "correctAnswer": "Rest, Ice, Compression, Elevation",
+      "distractors": [
+        "Run, Ice, Climb, Exercise",
+        "Rest, Inject, Compress, Elevate",
+        "Run, Ice, Compression, Energy"
+      ],
+      "explanation": "RICE stands for Rest, Ice, Compression, and Elevation for soft tissue injuries.",
+      "memoryHook": "T-Rexy says: RICE is rest, ice, compression, elevation.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "first-aid"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_039",
+      "question": "How many days per week should teens do muscle-strengthening activities?",
+      "correctAnswer": "At least 3 days per week",
+      "distractors": [
+        "Every day without rest",
+        "Once a month",
+        "Never"
+      ],
+      "explanation": "Muscle and bone strengthening can count inside the daily 60 minutes, and muscles need rest days between hard sessions to rebuild.",
+      "memoryHook": "T-Rexy says: Strength training three days a week.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "strength"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_040",
+      "question": "Which of these is prescription drug misuse?",
+      "correctAnswer": "Taking a prescription medicine that was prescribed to someone else",
+      "distractors": [
+        "Taking your own medicine exactly as your doctor directed",
+        "Using an over-the-counter pain reliever as the label says",
+        "Refilling your own prescription at the pharmacy"
+      ],
+      "explanation": "Prescription drugs are dosed for one person's body and condition. Taking someone else's - or taking extra doses of your own - is misuse, and sharing prescription opioids is a common path to overdose.",
+      "memoryHook": "T-Rexy says: A prescription with someone else's name is never yours to take.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "prescription-drugs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_041",
+      "question": "What is BMI?",
+      "correctAnswer": "A ratio of weight to height used to screen for weight categories",
+      "distractors": [
+        "A measure of muscle strength",
+        "A measure of flexibility",
+        "A blood test"
+      ],
+      "explanation": "BMI cannot tell muscle from fat, so it only screens for possible risk; for teens the number is read as a percentile for age and sex, not the adult scale.",
+      "memoryHook": "T-Rexy says: BMI compares weight to height.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_042",
+      "question": "Why is rest important in a fitness plan?",
+      "correctAnswer": "Muscles recover and grow stronger during rest",
+      "distractors": [
+        "Rest makes you weaker",
+        "Rest is not needed",
+        "Rest burns calories"
+      ],
+      "explanation": "Recovery days let muscles repair and adapt, preventing overuse injuries.",
+      "memoryHook": "T-Rexy says: Rest is when muscles rebuild.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "recovery"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_043",
+      "question": "What is the best way to stay hydrated during exercise?",
+      "correctAnswer": "Drink water before, during, and after activity",
+      "distractors": [
+        "Drink only after exercise",
+        "Drink soda during exercise",
+        "Avoid drinking during exercise"
+      ],
+      "explanation": "Drinking water throughout exercise replaces sweat losses.",
+      "memoryHook": "T-Rexy says: Sip water before, during, and after.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "hydration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_044",
+      "question": "What are the two steps of Hands-Only CPR for a teen or adult who suddenly collapses?",
+      "correctAnswer": "Call 911 (and send someone for an AED), then push hard and fast in the center of the chest",
+      "distractors": [
+        "Give mouth-to-mouth breaths first, then decide about compressions",
+        "Check for a pulse for a full minute before doing anything",
+        "Do nothing until paramedics arrive if you are not certified"
+      ],
+      "explanation": "For bystanders, the American Heart Association recommends just two steps: call 911, then push hard and fast in the center of the chest. Hands-Only CPR can double or triple a person's chance of survival.",
+      "memoryHook": "T-Rexy says: Call 911, then push hard and fast.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "cpr"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_045",
+      "question": "What is a sprain?",
+      "correctAnswer": "An injury to a ligament from stretching or tearing",
+      "distractors": [
+        "A broken bone",
+        "A muscle tear",
+        "A bruise only"
+      ],
+      "explanation": "A sprain injures ligaments, the bands connecting bones at joints.",
+      "memoryHook": "T-Rexy says: A sprain hurts a ligament.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "injuries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_046",
+      "question": "What is stress?",
+      "correctAnswer": "The body's response to a demand or challenge",
+      "distractors": [
+        "A type of disease",
+        "A lack of sleep",
+        "A physical injury"
+      ],
+      "explanation": "Stress is how the body reacts to pressure, with physical and emotional changes.",
+      "memoryHook": "T-Rexy says: Stress is your body's alarm to pressure.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "stress"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_047",
+      "question": "What is a healthy way to manage stress?",
+      "correctAnswer": "Exercise, sleep, talking to someone, and relaxation",
+      "distractors": [
+        "Ignoring it completely",
+        "Skipping meals",
+        "Staying up all night"
+      ],
+      "explanation": "Healthy coping lowers stress hormones instead of just distracting you: movement burns off tension, sleep resets mood, and talking or slow breathing calms the stress response.",
+      "memoryHook": "T-Rexy says: Move, sleep, talk, breathe.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "stress"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_048",
+      "question": "What is anxiety?",
+      "correctAnswer": "A feeling of worry or fear that can affect daily life",
+      "distractors": [
+        "Happiness",
+        "Excitement only",
+        "A physical injury"
+      ],
+      "explanation": "Anxiety is worry or fear that can become a problem when it is strong or lasting.",
+      "memoryHook": "T-Rexy says: Anxiety is worry that will not quit.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "anxiety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_049",
+      "question": "What is depression?",
+      "correctAnswer": "A persistent low mood and loss of interest lasting weeks or more",
+      "distractors": [
+        "Feeling sad for one day",
+        "Being tired after exercise",
+        "A bad grade"
+      ],
+      "explanation": "Depression is a lasting low mood with loss of interest and energy, not just a bad day.",
+      "memoryHook": "T-Rexy says: Depression is sadness that stays for weeks.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "depression"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_050",
+      "question": "What should you do if a friend talks about self-harm?",
+      "correctAnswer": "Take it seriously, stay with them, and tell a trusted adult immediately",
+      "distractors": [
+        "Keep it a secret",
+        "Ignore it",
+        "Tell them to get over it"
+      ],
+      "explanation": "Thoughts of self-harm need immediate help from a trusted adult or crisis line.",
+      "memoryHook": "T-Rexy says: If a friend talks about self-harm, get help right away.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_051",
+      "question": "What is the US Suicide and Crisis Lifeline number?",
+      "correctAnswer": "988",
+      "distractors": [
+        "911",
+        "411",
+        "311"
+      ],
+      "explanation": "You can call or text 988 any time, day or night, for free and confidential support from trained counselors during a mental health crisis.",
+      "memoryHook": "T-Rexy says: 988 is the crisis lifeline.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "safety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_052",
+      "question": "What is empathy?",
+      "correctAnswer": "Understanding and sharing another person's feelings",
+      "distractors": [
+        "Feeling sorry for yourself",
+        "Judging others",
+        "Ignoring others' problems"
+      ],
+      "explanation": "Empathy goes beyond feeling sorry for someone: you imagine the situation from their side, which is why it helps you respond with real support.",
+      "memoryHook": "T-Rexy says: Empathy is feeling with someone.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "empathy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_053",
+      "question": "What is a healthy relationship?",
+      "correctAnswer": "One built on respect, trust, honesty, and communication",
+      "distractors": [
+        "One where one person controls the other",
+        "One with no disagreements",
+        "One where you never say no"
+      ],
+      "explanation": "In a healthy relationship both people keep their own friends and opinions, listen to each other, and can disagree without fear or control.",
+      "memoryHook": "T-Rexy says: Healthy means respect, trust, and honesty.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "healthy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_054",
+      "question": "What is consent?",
+      "correctAnswer": "Clear, freely given agreement to do something",
+      "distractors": [
+        "Assuming someone agrees",
+        "Agreeing under pressure",
+        "Silence"
+      ],
+      "explanation": "Consent must be clear, voluntary, and can be withdrawn at any time.",
+      "memoryHook": "T-Rexy says: Consent means a clear yes, freely given.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "consent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_055",
+      "question": "What is bullying?",
+      "correctAnswer": "Repeated, intentional harm or intimidation with a power imbalance",
+      "distractors": [
+        "A single argument",
+        "A joke between friends",
+        "Constructive criticism"
+      ],
+      "explanation": "Bullying can be physical, verbal, or social, like hitting, name-calling, or spreading rumors; the repetition and power gap are what separate it from a normal conflict.",
+      "memoryHook": "T-Rexy says: Bullying is repeated and one-sided.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "bullying"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_056",
+      "question": "What is cyberbullying?",
+      "correctAnswer": "Bullying that happens online or through digital devices",
+      "distractors": [
+        "Bullying at school only",
+        "A computer virus",
+        "A prank call"
+      ],
+      "explanation": "Cyberbullying is harassment through texts, social media, or other digital means.",
+      "memoryHook": "T-Rexy says: Cyberbullying is bullying through screens.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "bullying"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_057",
+      "question": "What should you do if you are being cyberbullied?",
+      "correctAnswer": "Save evidence, block the person, and tell a trusted adult",
+      "distractors": [
+        "Reply with insults",
+        "Delete everything and stay silent",
+        "Share your passwords"
+      ],
+      "explanation": "Save messages, block the bully, and report it to an adult or the platform.",
+      "memoryHook": "T-Rexy says: Save it, block it, report it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "bullying"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_058",
+      "question": "What is peer pressure?",
+      "correctAnswer": "Influence from peers to act or think a certain way",
+      "distractors": [
+        "Pressure from teachers only",
+        "A type of bullying only",
+        "A school rule"
+      ],
+      "explanation": "Peer pressure can be negative, like daring you to vape, or positive, like friends pulling you into studying or trying out for a team.",
+      "memoryHook": "T-Rexy says: Peer pressure is friends pushing you to follow.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "peer-pressure"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_059",
+      "question": "What is a good way to resist negative peer pressure?",
+      "correctAnswer": "Say no clearly, suggest another activity, and walk away",
+      "distractors": [
+        "Go along to fit in",
+        "Argue aggressively",
+        "Lie about your plans"
+      ],
+      "explanation": "Assertive refusal, offering alternatives, and leaving are effective strategies.",
+      "memoryHook": "T-Rexy says: A clear no plus a better plan works.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "peer-pressure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_060",
+      "question": "What is self-esteem?",
+      "correctAnswer": "How you value and feel about yourself",
+      "distractors": [
+        "How others rate you",
+        "Your grades",
+        "Your appearance only"
+      ],
+      "explanation": "Self-esteem grows from competence and how you talk to yourself; it affects whether you try new things and how you bounce back from setbacks.",
+      "memoryHook": "T-Rexy says: Self-esteem is how you see yourself.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "self-esteem"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_061",
+      "question": "What is mindfulness?",
+      "correctAnswer": "Paying attention to the present moment without judgment",
+      "distractors": [
+        "Ignoring your feelings",
+        "Daydreaming",
+        "Meditating for hours only"
+      ],
+      "explanation": "Mindfulness is focusing on the here and now, noticing thoughts without judging them.",
+      "memoryHook": "T-Rexy says: Mindfulness is noticing the present moment.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "mindfulness"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_062",
+      "question": "How much sleep do teens need each night?",
+      "correctAnswer": "8 to 10 hours",
+      "distractors": [
+        "4 to 5 hours",
+        "6 hours",
+        "12 hours"
+      ],
+      "explanation": "Teens need 8 to 10 hours of sleep for growth, learning, and health.",
+      "memoryHook": "T-Rexy says: Teens need 8 to 10 hours of sleep.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "sleep"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_063",
+      "question": "What does sleep do for learning?",
+      "correctAnswer": "It helps consolidate memories and improve focus",
+      "distractors": [
+        "It makes you forget",
+        "It has no effect",
+        "It replaces studying"
+      ],
+      "explanation": "During deep sleep the brain replays and consolidates the day's learning, moving it into long-term memory, which is why all-night cramming backfires.",
+      "memoryHook": "T-Rexy says: Sleep locks in what you learned.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "sleep"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_064",
+      "question": "What is a growth mindset?",
+      "correctAnswer": "Believing abilities can improve with effort and learning",
+      "distractors": [
+        "Believing talent is fixed",
+        "Avoiding challenges",
+        "Giving up easily"
+      ],
+      "explanation": "With a growth mindset, mistakes are information, not proof of failure, so students persist longer and choose harder challenges.",
+      "memoryHook": "T-Rexy says: A growth mindset says you can get better.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "mindset"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_065",
+      "question": "What is emotional intelligence?",
+      "correctAnswer": "The ability to recognize, understand, and manage emotions",
+      "distractors": [
+        "A high IQ score",
+        "Ignoring emotions",
+        "Always being happy"
+      ],
+      "explanation": "Emotional intelligence is understanding your own and others' feelings and managing them well.",
+      "memoryHook": "T-Rexy says: Emotional intelligence is knowing feelings and handling them.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "emotions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_066",
+      "question": "What is the legal drinking age in the United States?",
+      "correctAnswer": "21",
+      "distractors": [
+        "18",
+        "16",
+        "25"
+      ],
+      "explanation": "The legal drinking age is 21 in all US states.",
+      "memoryHook": "T-Rexy says: The drinking age is 21.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "alcohol"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_067",
+      "question": "What is the main effect of nicotine?",
+      "correctAnswer": "It is addictive and stimulates the nervous system",
+      "distractors": [
+        "It helps you sleep",
+        "It improves memory",
+        "It has no effect"
+      ],
+      "explanation": "Nicotine is the addictive chemical in tobacco that raises heart rate and blood pressure.",
+      "memoryHook": "T-Rexy says: Nicotine is the addictive part of tobacco.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "tobacco"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_068",
+      "question": "What is the main risk of vaping?",
+      "correctAnswer": "Nicotine addiction and lung damage",
+      "distractors": [
+        "It is completely safe",
+        "It only affects teeth",
+        "It has no risks"
+      ],
+      "explanation": "Vaping exposes lungs to nicotine and chemicals that can cause serious lung injury.",
+      "memoryHook": "T-Rexy says: Vaping can damage lungs and addict you.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "vaping"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_069",
+      "question": "What is the main effect of alcohol on the brain?",
+      "correctAnswer": "It slows brain function and impairs judgment",
+      "distractors": [
+        "It improves coordination",
+        "It sharpens memory",
+        "It increases alertness"
+      ],
+      "explanation": "Alcohol is a depressant that slows the brain, impairing judgment and coordination.",
+      "memoryHook": "T-Rexy says: Alcohol slows the brain and clouds judgment.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "alcohol"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_070",
+      "question": "What is binge drinking?",
+      "correctAnswer": "Drinking a large amount of alcohol in a short time",
+      "distractors": [
+        "Drinking one beer",
+        "Drinking water quickly",
+        "Drinking over a whole day"
+      ],
+      "explanation": "Binge drinking is typically 4 to 5 or more drinks within about two hours.",
+      "memoryHook": "T-Rexy says: Binge drinking is a lot, fast.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "alcohol"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_071",
+      "question": "What is the most common sexually transmitted infection in US teens?",
+      "correctAnswer": "HPV (human papillomavirus)",
+      "distractors": [
+        "HIV",
+        "Syphilis",
+        "Hepatitis B"
+      ],
+      "explanation": "HPV is the most common STI, and a vaccine can prevent the types that cause cancer.",
+      "memoryHook": "T-Rexy says: HPV is the most common STI, and there is a vaccine.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "sti"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_072",
+      "question": "What is the best way to prevent STIs?",
+      "correctAnswer": "Abstinence, or consistent and correct condom use",
+      "distractors": [
+        "Washing after sex",
+        "Taking vitamins",
+        "Avoiding kissing only"
+      ],
+      "explanation": "Abstinence is the only sure prevention; condoms greatly reduce risk when used correctly.",
+      "memoryHook": "T-Rexy says: Condoms and abstinence are the best protection.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "sti"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_073",
+      "question": "What is HIV?",
+      "correctAnswer": "A virus that attacks the immune system",
+      "distractors": [
+        "A type of cancer",
+        "A bacterial infection",
+        "A flu virus"
+      ],
+      "explanation": "HIV infects immune cells and, untreated, can lead to AIDS.",
+      "memoryHook": "T-Rexy says: HIV attacks the immune system.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "disease"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_074",
+      "question": "What is the difference between a virus and a bacterium?",
+      "correctAnswer": "Viruses need a host cell to reproduce; bacteria can reproduce on their own",
+      "distractors": [
+        "They are the same",
+        "Bacteria need a host; viruses do not",
+        "Viruses are larger"
+      ],
+      "explanation": "Bacteria are single cells that can live independently; viruses must infect host cells.",
+      "memoryHook": "T-Rexy says: Bacteria live alone, viruses need a host.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "disease"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_075",
+      "question": "Why do antibiotics not work on colds?",
+      "correctAnswer": "Colds are caused by viruses, and antibiotics kill bacteria",
+      "distractors": [
+        "Antibiotics are too weak",
+        "Colds are not infections",
+        "Antibiotics only work on children"
+      ],
+      "explanation": "Antibiotics target bacteria, so they do nothing against viral colds.",
+      "memoryHook": "T-Rexy says: Antibiotics fight bacteria, not viruses.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "disease"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_076",
+      "question": "What is a vaccine?",
+      "correctAnswer": "A substance that trains the immune system to fight a disease",
+      "distractors": [
+        "A cure for all diseases",
+        "A type of antibiotic",
+        "A vitamin supplement"
+      ],
+      "explanation": "Vaccines expose the immune system to a harmless form of a germ so it can respond fast later.",
+      "memoryHook": "T-Rexy says: Vaccines teach your immune system.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "vaccines"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_077",
+      "question": "What is herd immunity?",
+      "correctAnswer": "Protection of a community when enough people are immune",
+      "distractors": [
+        "Immunity that only affects herds",
+        "A type of vaccine",
+        "Immunity from one person to another"
+      ],
+      "explanation": "When enough people are immune, diseases cannot spread easily, protecting those who cannot be vaccinated.",
+      "memoryHook": "T-Rexy says: When most are immune, everyone is safer.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "vaccines"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_078",
+      "question": "What is the first step in treating a minor cut?",
+      "correctAnswer": "Clean it with soap and water",
+      "distractors": [
+        "Apply a tourniquet",
+        "Cover it with dirt",
+        "Ignore it"
+      ],
+      "explanation": "Wash a minor cut with soap and water, then cover it with a clean bandage.",
+      "memoryHook": "T-Rexy says: Clean it first, then cover it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "cuts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_079",
+      "question": "What should you do for a nosebleed?",
+      "correctAnswer": "Lean forward and pinch the soft part of the nose",
+      "distractors": [
+        "Lean back and tilt your head",
+        "Blow your nose hard",
+        "Put ice on your neck only"
+      ],
+      "explanation": "Pinch the soft part of the nose for 10 to 15 minutes while leaning forward so blood does not run down the throat; leaning back only makes you swallow blood.",
+      "memoryHook": "T-Rexy says: Lean forward and pinch for a nosebleed.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "nosebleed"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_080",
+      "question": "What is the first thing to do if someone is choking and cannot speak?",
+      "correctAnswer": "Give abdominal thrusts (Heimlich maneuver)",
+      "distractors": [
+        "Give them water",
+        "Slap their back only",
+        "Wait for them to cough"
+      ],
+      "explanation": "If a person cannot speak or cough, abdominal thrusts can dislodge the blockage.",
+      "memoryHook": "T-Rexy says: If they cannot speak, do abdominal thrusts.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "choking"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_081",
+      "question": "What is CPR?",
+      "correctAnswer": "Chest compressions and rescue breaths to keep blood flowing when the heart stops",
+      "distractors": [
+        "A treatment for broken bones",
+        "A way to stop bleeding",
+        "A treatment for burns"
+      ],
+      "explanation": "Call 911 and start compressions in the center of the chest, hard and fast; hands-only CPR from a bystander can double or triple survival until help arrives.",
+      "memoryHook": "T-Rexy says: CPR keeps blood moving when the heart stops.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "cpr"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_082",
+      "question": "What number do you call for emergencies in the US?",
+      "correctAnswer": "911",
+      "distractors": [
+        "411",
+        "311",
+        "988 for emergencies only"
+      ],
+      "explanation": "911 is the US emergency number for police, fire, and ambulance.",
+      "memoryHook": "T-Rexy says: 911 is the emergency number.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "emergency"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_083",
+      "question": "What is the best first aid for a minor burn?",
+      "correctAnswer": "Cool it with running water",
+      "distractors": [
+        "Apply butter",
+        "Cover it with ice directly",
+        "Pop any blisters"
+      ],
+      "explanation": "Cool a minor burn under running water, then cover it loosely.",
+      "memoryHook": "T-Rexy says: Cool a burn with running water.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "burns"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_084",
+      "question": "What is the main cause of skin cancer?",
+      "correctAnswer": "Ultraviolet radiation from the Sun",
+      "distractors": [
+        "Cold weather",
+        "Lack of water",
+        "Eating sugar"
+      ],
+      "explanation": "UV radiation damages skin cells and is the main cause of skin cancer.",
+      "memoryHook": "T-Rexy says: UV rays are the main cause of skin cancer.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "skin"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_085",
+      "question": "What SPF should sunscreen be for good protection?",
+      "correctAnswer": "At least SPF 30",
+      "distractors": [
+        "SPF 5",
+        "SPF 10",
+        "SPF 100 only"
+      ],
+      "explanation": "Dermatologists recommend sunscreen of SPF 30 or higher, reapplied every two hours.",
+      "memoryHook": "T-Rexy says: SPF 30 or higher is the standard.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "skin"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_086",
+      "question": "What is the main way to prevent food poisoning?",
+      "correctAnswer": "Cook food to safe temperatures and wash hands",
+      "distractors": [
+        "Eat food quickly",
+        "Store food at room temperature",
+        "Avoid all meat"
+      ],
+      "explanation": "Safe cooking temperatures, clean hands, and proper storage prevent most food poisoning.",
+      "memoryHook": "T-Rexy says: Cook it right and wash your hands.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "food-safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_087",
+      "question": "What temperature should a refrigerator be?",
+      "correctAnswer": "At or below 40 degrees Fahrenheit (4 degrees Celsius)",
+      "distractors": [
+        "50 degrees Fahrenheit",
+        "60 degrees Fahrenheit",
+        "32 degrees Fahrenheit exactly"
+      ],
+      "explanation": "Refrigerators should stay at or below 40 F to slow bacterial growth.",
+      "memoryHook": "T-Rexy says: Keep the fridge at or below 40 F.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "food-safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_088",
+      "question": "What is the difference between a sprain and a strain?",
+      "correctAnswer": "A sprain injures a ligament; a strain injures a muscle or tendon",
+      "distractors": [
+        "They are the same injury",
+        "A sprain injures a bone",
+        "A strain injures a joint only"
+      ],
+      "explanation": "Sprains affect ligaments at joints; strains affect muscles or tendons.",
+      "memoryHook": "T-Rexy says: Sprain is ligament, strain is muscle.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "injuries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_089",
+      "question": "What is the main purpose of a seatbelt?",
+      "correctAnswer": "To keep you in place and spread crash forces across strong parts of the body",
+      "distractors": [
+        "To make driving comfortable",
+        "To replace airbags",
+        "To prevent all injuries"
+      ],
+      "explanation": "Seatbelts restrain occupants and distribute crash forces, greatly reducing injury.",
+      "memoryHook": "T-Rexy says: Seatbelts spread crash forces and keep you in place.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "driving"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_090",
+      "question": "What is the leading cause of death for US teens?",
+      "correctAnswer": "Unintentional injuries, especially car crashes",
+      "distractors": [
+        "Heart disease",
+        "Cancer",
+        "Diabetes"
+      ],
+      "explanation": "Most of these deaths, from crashes, drowning, and poisoning, are preventable with seatbelts, sober driving, and basic safety habits.",
+      "memoryHook": "T-Rexy says: Crashes are the top killer of teens.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "teens"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_091",
+      "question": "What is the main risk of texting while driving?",
+      "correctAnswer": "It takes eyes, hands, and mind off the road",
+      "distractors": [
+        "It drains the battery",
+        "It uses data",
+        "It annoys passengers"
+      ],
+      "explanation": "Texting distracts visually, manually, and mentally, greatly raising crash risk.",
+      "memoryHook": "T-Rexy says: Texting while driving is three kinds of distraction.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "driving"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_092",
+      "question": "What is the best way to protect your privacy online?",
+      "correctAnswer": "Use strong passwords, limit sharing, and check privacy settings",
+      "distractors": [
+        "Share your password with friends",
+        "Post your location always",
+        "Use the same password everywhere"
+      ],
+      "explanation": "Strong unique passwords and careful sharing protect your online privacy.",
+      "memoryHook": "T-Rexy says: Strong passwords and careful sharing protect you.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "online"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_093",
+      "question": "What is a strong password?",
+      "correctAnswer": "A long mix of letters, numbers, and symbols, unique to each account",
+      "distractors": [
+        "Your birthday",
+        "Your pet's name",
+        "The word password"
+      ],
+      "explanation": "Aim for at least 12 characters or a passphrase of random words, use a password manager to keep each one unique, and turn on two-factor authentication.",
+      "memoryHook": "T-Rexy says: Long, mixed, and unique makes a strong password.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "online"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_094",
+      "question": "What is the main function of the immune system?",
+      "correctAnswer": "To defend the body against germs and disease",
+      "distractors": [
+        "To carry oxygen",
+        "To digest food",
+        "To make hormones"
+      ],
+      "explanation": "The immune system recognizes and attacks pathogens.",
+      "memoryHook": "T-Rexy says: The immune system defends you from germs.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "immune"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_095",
+      "question": "What is the difference between type 1 and type 2 diabetes?",
+      "correctAnswer": "Type 1 is an autoimmune loss of insulin; type 2 is insulin resistance, often linked to lifestyle",
+      "distractors": [
+        "Type 1 is caused by eating sugar",
+        "Type 2 affects only children",
+        "They are the same disease"
+      ],
+      "explanation": "Type 1 is autoimmune and is not caused by diet, so it needs insulin every day; type 2 develops over time as cells respond less to insulin and is strongly tied to weight and activity.",
+      "memoryHook": "T-Rexy says: Type 1 makes no insulin, type 2 resists it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "diabetes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_096",
+      "question": "What is the best way to reduce the risk of heart disease?",
+      "correctAnswer": "Exercise, eat well, avoid smoking, and manage blood pressure",
+      "distractors": [
+        "Take vitamins only",
+        "Avoid all fat",
+        "Exercise once a month"
+      ],
+      "explanation": "Aim for about 150 minutes of moderate activity a week, limit sodium and saturated fat, never smoke, and keep blood pressure in range; together these habits protect arteries for decades.",
+      "memoryHook": "T-Rexy says: Move, eat well, do not smoke.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "heart"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_097",
+      "question": "What is the main purpose of the skeletal system?",
+      "correctAnswer": "To support the body and protect organs",
+      "distractors": [
+        "To pump blood",
+        "To carry oxygen",
+        "To digest food"
+      ],
+      "explanation": "Bones support the body, protect organs, and make blood cells.",
+      "memoryHook": "T-Rexy says: Bones support and protect.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_098",
+      "question": "Why do health experts recommend using a condom together with another contraceptive method?",
+      "correctAnswer": "The condom protects against STIs while the other method adds stronger pregnancy protection",
+      "distractors": [
+        "Two condoms at the same time work even better",
+        "Birth control pills also protect against STIs",
+        "Using two methods cancels out side effects"
+      ],
+      "explanation": "Only condoms reduce STI risk, while methods like the pill, implant, or IUD prevent pregnancy more reliably. Using both together - called dual protection - covers both risks at once; never wear two condoms, since friction makes them more likely to break.",
+      "memoryHook": "T-Rexy says: Condom for infections, plus a method for pregnancy - both covered.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "contraception"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_099",
+      "question": "Why is driving after using marijuana dangerous and illegal?",
+      "correctAnswer": "Marijuana slows reaction time and impairs coordination and judgment behind the wheel",
+      "distractors": [
+        "It is safe to drive because marijuana is not alcohol",
+        "It only affects driving if alcohol was also used",
+        "Its effects on driving wear off within a few minutes"
+      ],
+      "explanation": "Marijuana impairs the reaction time, coordination, and judgment driving demands, and driving under its influence is treated as DUI. The risk rises even higher when it is combined with alcohol.",
+      "memoryHook": "T-Rexy says: High driving is impaired driving.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "marijuana"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_100",
+      "question": "What is the best way to avoid the flu?",
+      "correctAnswer": "Get a flu vaccine and wash hands often",
+      "distractors": [
+        "Take antibiotics",
+        "Avoid all people",
+        "Drink orange juice only"
+      ],
+      "explanation": "The flu virus changes every year, which is why the vaccine is updated annually; handwashing with soap removes viruses picked up from surfaces and hands.",
+      "memoryHook": "T-Rexy says: Flu shots and handwashing beat the flu.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "flu"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

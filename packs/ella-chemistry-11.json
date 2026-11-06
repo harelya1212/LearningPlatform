@@ -1,0 +1,1917 @@
+{
+  "packId": "ella-chemistry-11",
+  "title": "Chemistry (11th Grade)",
+  "description": "Chemistry (11th) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-04",
+  "tags": [
+    "science",
+    "chemistry",
+    "11th"
+  ],
+  "questions": [
+    {
+      "id": "CHEM_001",
+      "question": "An alpha particle given off during radioactive decay is best described as:",
+      "correctAnswer": "A helium nucleus with 2 protons and 2 neutrons",
+      "distractors": [
+        "A high-speed electron",
+        "A single proton",
+        "A burst of pure energy with no particles"
+      ],
+      "explanation": "Alpha decay releases a particle made of 2 protons and 2 neutrons - exactly the nucleus of a helium atom. Because the parent nucleus loses those 2 protons, it becomes a different element whose mass number is 4 lower.",
+      "memoryHook": "T-Rexy says: An alpha particle is a helium nucleus on the move - 2 protons, 2 neutrons!",
+      "imageUrl": "topic:nuclear",
+      "tags": [
+        "nuclear"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_002",
+      "question": "Dry ice is solid carbon dioxide. On a warm day it turns straight into a gas without ever becoming a liquid. This change of state is called:",
+      "correctAnswer": "Sublimation",
+      "distractors": [
+        "Condensation",
+        "Evaporation",
+        "Deposition"
+      ],
+      "explanation": "Sublimation is the change from a solid directly to a gas, skipping the liquid state: the particles gain enough energy to break free of the solid all at once. Deposition is the reverse change, from a gas directly to a solid.",
+      "memoryHook": "T-Rexy says: Sublimation skips the line - solid straight to gas, no liquid stop!",
+      "imageUrl": "topic:states-of-matter",
+      "tags": [
+        "states-of-matter"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_003",
+      "question": "Where are protons and neutrons located in an atom?",
+      "correctAnswer": "In the nucleus",
+      "distractors": [
+        "In the electron cloud",
+        "In the outer shell",
+        "In the valence shell"
+      ],
+      "explanation": "Protons and neutrons are packed together in the dense central nucleus, while electrons orbit around it.",
+      "memoryHook": "T-Rexy says: The nucleus is the atom's heavy downtown - protons and neutrons live there!",
+      "imageUrl": "topic:atomic-structure",
+      "tags": [
+        "atomic-structure"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_004",
+      "question": "What is the atomic number of an element?",
+      "correctAnswer": "The number of protons in its nucleus",
+      "distractors": [
+        "The number of neutrons in its nucleus",
+        "The total number of protons and neutrons",
+        "The number of electrons in its outer shell"
+      ],
+      "explanation": "The atomic number equals the number of protons. It defines which element it is - change the protons and you change the element.",
+      "memoryHook": "T-Rexy says: Atomic number equals proton count - that is what makes an element itself!",
+      "imageUrl": "topic:atomic-structure",
+      "tags": [
+        "atomic-structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_005",
+      "question": "How much heat is absorbed when 50 g of water warms by 10 degrees C? (The specific heat of water is 4.18 J/g degrees C.)",
+      "correctAnswer": "2090 J",
+      "distractors": [
+        "209 J",
+        "418 J",
+        "20,900 J"
+      ],
+      "explanation": "Use q = m x c x delta T. q = 50 g x 4.18 J/g degrees C x 10 degrees C = 2090 J. The grams and the degrees C cancel, leaving joules. (Check: 50 x 4.18 = 209, and 209 x 10 = 2090.)",
+      "memoryHook": "T-Rexy says: q = m c delta T - mass times specific heat times the temperature change!",
+      "imageUrl": "topic:thermochemistry",
+      "tags": [
+        "thermochemistry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_006",
+      "question": "Atoms of the same element that have different numbers of neutrons are called:",
+      "correctAnswer": "Isotopes",
+      "distractors": [
+        "Ions",
+        "Isomers",
+        "Allotropes"
+      ],
+      "explanation": "Isotopes have the same number of protons (same element) but different numbers of neutrons, so different mass numbers.",
+      "memoryHook": "T-Rexy says: Same element, different neutron count - those are isotopes!",
+      "imageUrl": "topic:atomic-structure",
+      "tags": [
+        "atomic-structure"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_007",
+      "question": "A 25 g sample of an unknown metal absorbs 200 J of heat, and its temperature rises by 8 degrees C. What is the specific heat of the metal?",
+      "correctAnswer": "1.0 J/g degrees C",
+      "distractors": [
+        "0.50 J/g degrees C",
+        "8.0 J/g degrees C",
+        "25 J/g degrees C"
+      ],
+      "explanation": "Rearrange q = m x c x delta T to get c = q / (m x delta T). Then c = 200 J / (25 g x 8 degrees C) = 200 / 200 = 1.0 J/g degrees C. Dividing by only the mass gives 8.0, and dividing by only the temperature change gives 25 - both forget one of the two factors.",
+      "memoryHook": "T-Rexy says: To find specific heat, divide the heat by mass AND temperature change - both of them!",
+      "imageUrl": "topic:thermochemistry",
+      "tags": [
+        "thermochemistry"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_008",
+      "question": "How many electrons can the second energy level (shell) of an atom hold?",
+      "correctAnswer": "8",
+      "distractors": [
+        "2",
+        "18",
+        "32"
+      ],
+      "explanation": "The second shell holds a maximum of 8 electrons (2n^2 where n=2 gives 8).",
+      "memoryHook": "T-Rexy says: Second shell, 8 electrons - the octet rule starts here!",
+      "imageUrl": "topic:atomic-structure",
+      "tags": [
+        "atomic-structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_009",
+      "question": "Which of these is the correct electron configuration for oxygen (atomic number 8)?",
+      "correctAnswer": "1s2 2s2 2p4",
+      "distractors": [
+        "1s2 2s2 2p6",
+        "1s2 2s2 2p2",
+        "1s2 2s2 3s2"
+      ],
+      "explanation": "Oxygen has 8 electrons: 2 in the first shell (1s2) and 6 in the second shell (2s2 2p4).",
+      "memoryHook": "T-Rexy says: Oxygen has 8 electrons - 2 in the first shell, 6 in the second!",
+      "imageUrl": "topic:atomic-structure",
+      "tags": [
+        "atomic-structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_010",
+      "question": "What does the electron configuration 1s2 2s2 2p6 represent?",
+      "correctAnswer": "Neon (Ne)",
+      "distractors": [
+        "Oxygen (O)",
+        "Fluorine (F)",
+        "Sodium (Na)"
+      ],
+      "explanation": "The configuration totals 10 electrons, which is neon's atomic number. It is a full outer shell, making neon very stable.",
+      "memoryHook": "T-Rexy says: 10 electrons in a full shell - that is neon, the noble gas!",
+      "imageUrl": "topic:atomic-structure",
+      "tags": [
+        "atomic-structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_011",
+      "question": "According to the Aufbau principle, electrons fill orbitals in order of:",
+      "correctAnswer": "Increasing energy",
+      "distractors": [
+        "Decreasing energy",
+        "Alphabetical order",
+        "Random order"
+      ],
+      "explanation": "The Aufbau principle states electrons occupy the lowest-energy orbitals available first.",
+      "memoryHook": "T-Rexy says: Aufbau means 'building up' - electrons take the lowest energy seat first!",
+      "imageUrl": "topic:atomic-structure",
+      "tags": [
+        "atomic-structure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_012",
+      "question": "What is the maximum number of electrons that can occupy a single orbital?",
+      "correctAnswer": "2",
+      "distractors": [
+        "1",
+        "4",
+        "6"
+      ],
+      "explanation": "The Pauli exclusion principle says an orbital can hold at most 2 electrons, and they must have opposite spins.",
+      "memoryHook": "T-Rexy says: Two electrons per orbital, spinning opposite ways - that is the Pauli rule!",
+      "imageUrl": "topic:atomic-structure",
+      "tags": [
+        "atomic-structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_013",
+      "question": "Organic chemistry is the branch of chemistry that studies compounds built around which element?",
+      "correctAnswer": "Carbon",
+      "distractors": [
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "explanation": "Organic compounds are based on carbon, whose atoms form four bonds and can link into long chains, branches and rings. Hydrocarbons, fuels, plastics and most molecules of living things are organic because of their carbon skeletons.",
+      "memoryHook": "T-Rexy says: No carbon, no organic chemistry - carbon is the backbone of it all!",
+      "imageUrl": "topic:organic-intro",
+      "tags": [
+        "organic-intro"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_014",
+      "question": "A reaction between two solutions goes noticeably faster when the mixture is warmed. Raising the temperature speeds up the reaction because:",
+      "correctAnswer": "The particles move faster, so they collide more often and with more energy",
+      "distractors": [
+        "Warming creates extra reactant particles",
+        "The particles move slower and stay in contact longer",
+        "Heat removes the products as soon as they form"
+      ],
+      "explanation": "Reaction rate depends on collisions between particles. At a higher temperature the particles have more kinetic energy, so collisions happen more frequently, and a larger fraction of those collisions have enough energy to break bonds and react.",
+      "memoryHook": "T-Rexy says: Heat them up and the particles zoom - more collisions, more reactions!",
+      "imageUrl": "topic:kinetics-equilibrium",
+      "tags": [
+        "kinetics-equilibrium"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_015",
+      "question": "Which group of elements is known as the noble gases?",
+      "correctAnswer": "Group 18",
+      "distractors": [
+        "Group 1",
+        "Group 2",
+        "Group 17"
+      ],
+      "explanation": "Group 18 elements (helium, neon, argon, etc.) have full outer shells and are very unreactive.",
+      "memoryHook": "T-Rexy says: Group 18 - the noble gases, too stable to bother reacting!",
+      "imageUrl": "topic:periodic-table",
+      "tags": [
+        "periodic-table"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_016",
+      "question": "Which group of elements is known as the alkali metals?",
+      "correctAnswer": "Group 1",
+      "distractors": [
+        "Group 2",
+        "Group 17",
+        "Group 18"
+      ],
+      "explanation": "Group 1 metals (lithium, sodium, potassium) are soft, reactive metals with one valence electron.",
+      "memoryHook": "T-Rexy says: Group 1 - the alkali metals, the most reactive metals on the table!",
+      "imageUrl": "topic:periodic-table",
+      "tags": [
+        "periodic-table"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_017",
+      "question": "Which group of elements is known as the halogens?",
+      "correctAnswer": "Group 17",
+      "distractors": [
+        "Group 1",
+        "Group 2",
+        "Group 18"
+      ],
+      "explanation": "Group 17 elements (fluorine, chlorine, bromine, iodine) are reactive nonmetals with seven valence electrons.",
+      "memoryHook": "T-Rexy says: Group 17 - the halogens, hungry for one more electron!",
+      "imageUrl": "topic:periodic-table",
+      "tags": [
+        "periodic-table"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_018",
+      "question": "Which of these elements is a metal?",
+      "correctAnswer": "Iron (Fe)",
+      "distractors": [
+        "Oxygen (O)",
+        "Sulfur (S)",
+        "Chlorine (Cl)"
+      ],
+      "explanation": "Iron is a transition metal. Oxygen, sulfur, and chlorine are nonmetals.",
+      "memoryHook": "T-Rexy says: Iron is a metal - shiny, conductive, and solid at room temperature!",
+      "imageUrl": "topic:periodic-table",
+      "tags": [
+        "periodic-table"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_019",
+      "question": "Which of these elements is a nonmetal?",
+      "correctAnswer": "Nitrogen (N)",
+      "distractors": [
+        "Sodium (Na)",
+        "Calcium (Ca)",
+        "Aluminum (Al)"
+      ],
+      "explanation": "Nitrogen is a gas and a nonmetal. Sodium, calcium, and aluminum are metals.",
+      "memoryHook": "T-Rexy says: Nitrogen is a nonmetal - it makes up most of the air you breathe!",
+      "imageUrl": "topic:periodic-table",
+      "tags": [
+        "periodic-table"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_020",
+      "question": "Valence electrons are the electrons in the:",
+      "correctAnswer": "Outermost energy level",
+      "distractors": [
+        "Innermost energy level",
+        "Nucleus",
+        "First shell only"
+      ],
+      "explanation": "Valence electrons are in the outermost shell and are the ones involved in chemical bonding.",
+      "memoryHook": "T-Rexy says: Valence electrons are the outermost ones - they do all the bonding!",
+      "imageUrl": "topic:periodic-table",
+      "tags": [
+        "periodic-table"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_021",
+      "question": "How many valence electrons does carbon (Group 14) have?",
+      "correctAnswer": "4",
+      "distractors": [
+        "2",
+        "6",
+        "8"
+      ],
+      "explanation": "Carbon is in Group 14, so it has 4 valence electrons. This lets it form four bonds.",
+      "memoryHook": "T-Rexy says: Carbon has 4 valence electrons - that is why it can build so many molecules!",
+      "imageUrl": "topic:periodic-table",
+      "tags": [
+        "periodic-table"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_022",
+      "question": "As you move across a period from left to right, atomic radius generally:",
+      "correctAnswer": "Decreases",
+      "distractors": [
+        "Increases",
+        "Stays the same",
+        "Doubles"
+      ],
+      "explanation": "Across a period, protons are added to the nucleus, pulling electrons closer and shrinking the atom.",
+      "memoryHook": "T-Rexy says: More protons pull harder - atoms shrink as you go right across a period!",
+      "imageUrl": "topic:periodic-table",
+      "tags": [
+        "periodic-table"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_023",
+      "question": "As you move down a group, atomic radius generally:",
+      "correctAnswer": "Increases",
+      "distractors": [
+        "Decreases",
+        "Stays the same",
+        "Halves"
+      ],
+      "explanation": "Going down a group adds new electron shells, so atoms get larger.",
+      "memoryHook": "T-Rexy says: More shells mean bigger atoms as you go down a group!",
+      "imageUrl": "topic:periodic-table",
+      "tags": [
+        "periodic-table"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_024",
+      "question": "Which element has the highest electronegativity?",
+      "correctAnswer": "Fluorine (F)",
+      "distractors": [
+        "Oxygen (O)",
+        "Chlorine (Cl)",
+        "Sodium (Na)"
+      ],
+      "explanation": "Fluorine is the most electronegative element - it pulls shared electrons toward itself most strongly.",
+      "memoryHook": "T-Rexy says: Fluorine wins the electron tug-of-war - it is the most electronegative!",
+      "imageUrl": "topic:periodic-table",
+      "tags": [
+        "periodic-table"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_025",
+      "question": "An ionic bond forms between:",
+      "correctAnswer": "A metal and a nonmetal",
+      "distractors": [
+        "Two nonmetals",
+        "Two metals",
+        "Two noble gases"
+      ],
+      "explanation": "Ionic bonds form when a metal transfers electrons to a nonmetal, creating oppositely charged ions that attract.",
+      "memoryHook": "T-Rexy says: Metal plus nonmetal equals ionic bond - electrons are transferred!",
+      "imageUrl": "topic:bonding",
+      "tags": [
+        "bonding"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_026",
+      "question": "A covalent bond forms when atoms:",
+      "correctAnswer": "Share electrons",
+      "distractors": [
+        "Transfer electrons completely",
+        "Lose all electrons",
+        "Gain protons"
+      ],
+      "explanation": "In covalent bonds, atoms share electron pairs so both can achieve stable outer shells.",
+      "memoryHook": "T-Rexy says: Covalent means sharing - atoms share electrons like friends share snacks!",
+      "imageUrl": "topic:bonding",
+      "tags": [
+        "bonding"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_027",
+      "question": "The reaction 2NO2(g) <-> N2O4(g) is at equilibrium in a closed container. If the pressure on the mixture is increased, which way does the equilibrium shift?",
+      "correctAnswer": "Toward N2O4, the side with fewer gas molecules",
+      "distractors": [
+        "Toward NO2, the side with more gas molecules",
+        "It does not shift, because pressure never affects an equilibrium",
+        "Toward NO2, because higher pressure pushes molecules apart"
+      ],
+      "explanation": "By Le Chatelier's principle, the equilibrium shifts to relieve the stress. Squeezing the mixture is relieved by having fewer gas molecules. The left side has 2 gas molecules for every 1 on the right, so the shift is toward N2O4.",
+      "memoryHook": "T-Rexy says: Squeeze an equilibrium and it dodges to the side with fewer gas molecules!",
+      "imageUrl": "topic:kinetics-equilibrium",
+      "tags": [
+        "kinetics-equilibrium"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_028",
+      "question": "Which compound is held together by ionic bonds?",
+      "correctAnswer": "Sodium chloride (NaCl)",
+      "distractors": [
+        "Water (H2O)",
+        "Carbon dioxide (CO2)",
+        "Methane (CH4)"
+      ],
+      "explanation": "NaCl is made of Na+ and Cl- ions held by ionic bonds. The others are covalent molecules.",
+      "memoryHook": "T-Rexy says: Table salt is ionic - positive sodium and negative chloride stick together!",
+      "imageUrl": "topic:bonding",
+      "tags": [
+        "bonding"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_029",
+      "question": "Butane is a hydrocarbon fuel with the formula C4H10. How many carbon atoms are in each molecule of butane?",
+      "correctAnswer": "4",
+      "distractors": [
+        "10",
+        "14",
+        "2"
+      ],
+      "explanation": "In a chemical formula, the subscript written after an element counts that element's atoms. C4 means 4 carbon atoms, and H10 means 10 hydrogen atoms. The name agrees: the prefix but- stands for a chain of four carbons.",
+      "memoryHook": "T-Rexy says: Read the subscript - C4 means four carbons, just like but- means four!",
+      "imageUrl": "topic:organic-intro",
+      "tags": [
+        "organic-intro"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_030",
+      "question": "A student heats a beaker of ice and water. While the ice is melting, the temperature stays at 0 degrees C even though heat is still being added. Why does the temperature stay constant during melting?",
+      "correctAnswer": "The added energy is used to break apart the ordered structure of the solid instead of raising the temperature",
+      "distractors": [
+        "Heat stops flowing into the beaker while ice is present",
+        "The added energy speeds up the particles, but a thermometer cannot show it",
+        "Melting is the one phase change that needs no energy at all"
+      ],
+      "explanation": "During a phase change, added energy goes into separating the particles - loosening the solid's ordered structure - rather than into the kinetic energy that temperature measures. Only after all the ice has melted can further heating raise the temperature.",
+      "memoryHook": "T-Rexy says: On the melting plateau, heat is busy breaking the ice apart - the temperature has to wait!",
+      "imageUrl": "topic:states-of-matter",
+      "tags": [
+        "states-of-matter"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_031",
+      "question": "In a metallic bond, the valence electrons are:",
+      "correctAnswer": "Delocalized in a sea of electrons",
+      "distractors": [
+        "Transferred to another atom",
+        "Shared between two atoms only",
+        "Fixed in place"
+      ],
+      "explanation": "Metallic bonding involves a 'sea' of delocalized electrons moving freely among metal cations, which explains conductivity.",
+      "memoryHook": "T-Rexy says: Metals share a sea of free electrons - that is why they conduct electricity!",
+      "imageUrl": "topic:bonding",
+      "tags": [
+        "bonding"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_032",
+      "question": "Which type of bond is the strongest between atoms?",
+      "correctAnswer": "Covalent bond",
+      "distractors": [
+        "Hydrogen bond",
+        "Van der Waals force",
+        "Dipole-dipole force"
+      ],
+      "explanation": "Covalent bonds (intramolecular) are much stronger than intermolecular forces like hydrogen bonds or van der Waals forces.",
+      "memoryHook": "T-Rexy says: Covalent bonds are the strong ones - intermolecular forces are just weak attractions!",
+      "imageUrl": "topic:bonding",
+      "tags": [
+        "bonding"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_033",
+      "question": "A molecule with an unequal sharing of electrons has what kind of bond?",
+      "correctAnswer": "Polar covalent",
+      "distractors": [
+        "Nonpolar covalent",
+        "Ionic",
+        "Metallic"
+      ],
+      "explanation": "When electrons are shared unequally due to different electronegativities, the bond is polar covalent.",
+      "memoryHook": "T-Rexy says: Unequal sharing means polar covalent - one side gets a partial charge!",
+      "imageUrl": "topic:bonding",
+      "tags": [
+        "bonding"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_034",
+      "question": "What is the shape of a methane molecule (CH4)?",
+      "correctAnswer": "Tetrahedral",
+      "distractors": [
+        "Linear",
+        "Bent",
+        "Trigonal planar"
+      ],
+      "explanation": "Methane has four bonding pairs around carbon with no lone pairs, giving a tetrahedral shape with 109.5 degree angles.",
+      "memoryHook": "T-Rexy says: Methane is tetrahedral - four hydrogens at the corners of a pyramid!",
+      "imageUrl": "topic:bonding",
+      "tags": [
+        "bonding"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_035",
+      "question": "What is the shape of a water molecule (H2O)?",
+      "correctAnswer": "Bent",
+      "distractors": [
+        "Linear",
+        "Tetrahedral",
+        "Trigonal planar"
+      ],
+      "explanation": "Water has two bonding pairs and two lone pairs on oxygen, giving a bent shape with a 104.5 degree angle.",
+      "memoryHook": "T-Rexy says: Water is bent - those two lone pairs push the hydrogens down!",
+      "imageUrl": "topic:bonding",
+      "tags": [
+        "bonding"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_036",
+      "question": "Hydrogen bonds occur between a hydrogen atom and which of these atoms?",
+      "correctAnswer": "Oxygen, nitrogen, or fluorine",
+      "distractors": [
+        "Carbon only",
+        "Any metal",
+        "Any halogen"
+      ],
+      "explanation": "Hydrogen bonds form when hydrogen is bonded to a highly electronegative atom (N, O, or F) and attracted to another N, O, or F.",
+      "memoryHook": "T-Rexy says: Hydrogen bonds need N, O, or F - three highly electronegative atoms that pull a hydrogen close!",
+      "imageUrl": "topic:bonding",
+      "tags": [
+        "bonding"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_037",
+      "question": "Wood burning in a campfire makes the air around it warmer. Burning wood is an example of:",
+      "correctAnswer": "An exothermic process, because it releases heat to the surroundings",
+      "distractors": [
+        "An endothermic process, because it absorbs heat from the surroundings",
+        "An exothermic process, because it absorbs heat from the surroundings",
+        "An endothermic process, because it releases heat to the surroundings"
+      ],
+      "explanation": "Exothermic processes release energy to the surroundings, so the surroundings warm up - exactly what a campfire does. Endothermic processes absorb energy from the surroundings and would make them cooler. The name has to match what the heat actually does.",
+      "memoryHook": "T-Rexy says: Exo means exit - in an exothermic process, heat exits into the surroundings!",
+      "imageUrl": "topic:thermochemistry",
+      "tags": [
+        "thermochemistry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_038",
+      "question": "The Sun shines because of nuclear fusion in its core. In a fusion reaction:",
+      "correctAnswer": "Light nuclei join together to form a heavier nucleus, releasing energy",
+      "distractors": [
+        "A heavy nucleus splits into two lighter nuclei",
+        "Atoms lose their electrons and become ions",
+        "Protons are destroyed and turned into neutrons"
+      ],
+      "explanation": "Fusion combines small nuclei, such as hydrogen nuclei, into a larger nucleus such as helium. A tiny amount of mass is converted into a huge amount of energy. Splitting a heavy nucleus apart is the opposite process, called fission.",
+      "memoryHook": "T-Rexy says: Fusion fuses - small nuclei join into a bigger one, and the Sun cashes in the energy!",
+      "imageUrl": "topic:nuclear",
+      "tags": [
+        "nuclear"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_039",
+      "question": "In a chemical equation, the substances on the right side are called:",
+      "correctAnswer": "Products",
+      "distractors": [
+        "Reactants",
+        "Catalysts",
+        "Subscripts"
+      ],
+      "explanation": "Products are the substances formed by the reaction, written on the right side of the arrow.",
+      "memoryHook": "T-Rexy says: Right side is products - what you get after the reaction!",
+      "imageUrl": "topic:chemical-reactions",
+      "tags": [
+        "chemical-reactions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_040",
+      "question": "What does a balanced chemical equation show?",
+      "correctAnswer": "The same number of each type of atom on both sides",
+      "distractors": [
+        "The same number of molecules on both sides",
+        "That the reaction is fast",
+        "That the reaction releases heat"
+      ],
+      "explanation": "Balancing ensures atoms are conserved - the same number of each atom appears on both sides, following the law of conservation of mass.",
+      "memoryHook": "T-Rexy says: Balanced means atoms in equals atoms out - nothing is created or destroyed!",
+      "imageUrl": "topic:chemical-reactions",
+      "tags": [
+        "chemical-reactions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_041",
+      "question": "For the equilibrium reaction N2 + 3H2 <-> 2NH3, which expression gives the equilibrium constant, Keq?",
+      "correctAnswer": "[NH3]^2 / ([N2][H2]^3)",
+      "distractors": [
+        "[NH3] / ([N2][H2])",
+        "[NH3]^2 / ([N2][H2])",
+        "([N2][H2]^3) / [NH3]^2"
+      ],
+      "explanation": "Keq is products over reactants, with each concentration raised to the power of its coefficient in the balanced equation. NH3 has coefficient 2, so [NH3] is squared; H2 has coefficient 3, so [H2] is cubed; N2 has coefficient 1, so it appears to the first power.",
+      "memoryHook": "T-Rexy says: Products on top, reactants below, and every coefficient becomes a power!",
+      "imageUrl": "topic:kinetics-equilibrium",
+      "tags": [
+        "kinetics-equilibrium"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_042",
+      "question": "Which type of reaction is: A + B -> AB?",
+      "correctAnswer": "Synthesis (combination)",
+      "distractors": [
+        "Decomposition",
+        "Single replacement",
+        "Double replacement"
+      ],
+      "explanation": "Synthesis combines two or more substances into one product.",
+      "memoryHook": "T-Rexy says: A plus B makes AB - that is synthesis, building something bigger!",
+      "imageUrl": "topic:chemical-reactions",
+      "tags": [
+        "chemical-reactions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_043",
+      "question": "Which type of reaction is: AB -> A + B?",
+      "correctAnswer": "Decomposition",
+      "distractors": [
+        "Synthesis",
+        "Single replacement",
+        "Combustion"
+      ],
+      "explanation": "Decomposition breaks one compound into two or more simpler substances.",
+      "memoryHook": "T-Rexy says: AB splits into A and B - that is decomposition, breaking apart!",
+      "imageUrl": "topic:chemical-reactions",
+      "tags": [
+        "chemical-reactions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_044",
+      "question": "Which type of reaction is: A + BC -> AC + B?",
+      "correctAnswer": "Single replacement",
+      "distractors": [
+        "Double replacement",
+        "Synthesis",
+        "Decomposition"
+      ],
+      "explanation": "In single replacement, one element replaces another in a compound.",
+      "memoryHook": "T-Rexy says: One element swaps in for another - single replacement!",
+      "imageUrl": "topic:chemical-reactions",
+      "tags": [
+        "chemical-reactions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_045",
+      "question": "Which type of reaction is: AB + CD -> AD + CB?",
+      "correctAnswer": "Double replacement",
+      "distractors": [
+        "Single replacement",
+        "Synthesis",
+        "Combustion"
+      ],
+      "explanation": "In double replacement, the cations of two compounds swap partners.",
+      "memoryHook": "T-Rexy says: Two compounds swap partners - double replacement!",
+      "imageUrl": "topic:chemical-reactions",
+      "tags": [
+        "chemical-reactions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_046",
+      "question": "What is combustion?",
+      "correctAnswer": "A reaction with oxygen that releases heat and light",
+      "distractors": [
+        "A reaction that absorbs heat",
+        "A reaction that forms a precipitate",
+        "A reaction between an acid and a base"
+      ],
+      "explanation": "Combustion is a rapid reaction with oxygen, usually producing carbon dioxide and water plus heat and light.",
+      "memoryHook": "T-Rexy says: Combustion is burning - fuel plus oxygen makes heat and light!",
+      "imageUrl": "topic:chemical-reactions",
+      "tags": [
+        "chemical-reactions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_047",
+      "question": "What is a precipitate in a chemical reaction?",
+      "correctAnswer": "An insoluble solid that forms from a solution",
+      "distractors": [
+        "A gas that bubbles out",
+        "A liquid that evaporates",
+        "A catalyst"
+      ],
+      "explanation": "When two clear solutions are mixed, ions from each can combine into a compound that does not dissolve. That new insoluble solid appears in the liquid and settles out - for example, mixing solutions that form solid BaSO4 leaves a white solid suspended, then settling, while the other ions stay dissolved.",
+      "memoryHook": "T-Rexy says: A precipitate is a solid that appears out of nowhere in a solution!",
+      "imageUrl": "topic:chemical-reactions",
+      "tags": [
+        "chemical-reactions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_048",
+      "question": "What is a catalyst?",
+      "correctAnswer": "A substance that speeds up a reaction without being used up",
+      "distractors": [
+        "A reactant that gets consumed",
+        "A product of the reaction",
+        "A type of precipitate"
+      ],
+      "explanation": "A catalyst lowers the activation energy and speeds up a reaction but is not consumed by it.",
+      "memoryHook": "T-Rexy says: A catalyst speeds things up without getting used up - a chemical helper!",
+      "imageUrl": "topic:chemical-reactions",
+      "tags": [
+        "chemical-reactions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_049",
+      "question": "A radioactive isotope has a half-life of 5 days. A sample starts with 80 g of the isotope. How much of the isotope is left after 15 days?",
+      "correctAnswer": "10 g",
+      "distractors": [
+        "20 g",
+        "40 g",
+        "26.7 g"
+      ],
+      "explanation": "15 days is 15 / 5 = 3 half-lives. The amount halves at each one: 80 g -> 40 g -> 20 g -> 10 g. Dividing 80 by 3 (giving 26.7 g) is a common trap - decay halves the amount, it does not split it into equal parts.",
+      "memoryHook": "T-Rexy says: Half-life means halve, wait, halve again - 80, 40, 20, 10!",
+      "imageUrl": "topic:nuclear",
+      "tags": [
+        "nuclear"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_050",
+      "question": "What is Avogadro's number?",
+      "correctAnswer": "6.02 x 10^23",
+      "distractors": [
+        "3.14 x 10^23",
+        "1.00 x 10^23",
+        "9.81 x 10^23"
+      ],
+      "explanation": "Avogadro's number is the counting unit behind the mole: 6.02 x 10^23 particles make up exactly 1 mol of a substance, whether those particles are atoms of carbon or molecules of water. Divide a particle count by 6.02 x 10^23 to convert it to moles.",
+      "memoryHook": "T-Rexy says: 6.02 x 10^23 - Avogadro's number, the chemist's dozen!",
+      "imageUrl": "topic:stoichiometry",
+      "tags": [
+        "stoichiometry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_051",
+      "question": "What is the molar mass of water (H2O)? (H = 1, O = 16)",
+      "correctAnswer": "18 g/mol",
+      "distractors": [
+        "16 g/mol",
+        "17 g/mol",
+        "20 g/mol"
+      ],
+      "explanation": "Water: 2(1) + 16 = 18 g/mol.",
+      "memoryHook": "T-Rexy says: Two hydrogens plus one oxygen: 2 + 16 = 18 g/mol!",
+      "imageUrl": "topic:stoichiometry",
+      "tags": [
+        "stoichiometry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_052",
+      "question": "What is the molar mass of carbon dioxide (CO2)? (C = 12, O = 16)",
+      "correctAnswer": "44 g/mol",
+      "distractors": [
+        "28 g/mol",
+        "32 g/mol",
+        "40 g/mol"
+      ],
+      "explanation": "CO2: 12 + 2(16) = 44 g/mol.",
+      "memoryHook": "T-Rexy says: Carbon 12 plus two oxygens 32 gives 44 g/mol!",
+      "imageUrl": "topic:stoichiometry",
+      "tags": [
+        "stoichiometry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_053",
+      "question": "How many moles are in 36 grams of water (H2O, molar mass 18 g/mol)?",
+      "correctAnswer": "2 moles",
+      "distractors": [
+        "1 mole",
+        "3 moles",
+        "4 moles"
+      ],
+      "explanation": "36 g / 18 g/mol = 2 moles.",
+      "memoryHook": "T-Rexy says: 36 divided by 18 equals 2 moles of water!",
+      "imageUrl": "topic:stoichiometry",
+      "tags": [
+        "stoichiometry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_054",
+      "question": "What is the mass of 2 moles of carbon dioxide (CO2, molar mass 44 g/mol)?",
+      "correctAnswer": "88 g",
+      "distractors": [
+        "44 g",
+        "22 g",
+        "66 g"
+      ],
+      "explanation": "2 mol x 44 g/mol = 88 g.",
+      "memoryHook": "T-Rexy says: Two moles times 44 grams per mole equals 88 grams!",
+      "imageUrl": "topic:stoichiometry",
+      "tags": [
+        "stoichiometry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_055",
+      "question": "On a potential energy diagram for a chemical reaction, the products sit at a LOWER energy level than the reactants. What does this show about the reaction?",
+      "correctAnswer": "It is exothermic, and its enthalpy change is negative",
+      "distractors": [
+        "It is endothermic, and its enthalpy change is positive",
+        "It is endothermic, and its enthalpy change is negative",
+        "No energy was exchanged with the surroundings"
+      ],
+      "explanation": "The enthalpy change is the products' energy minus the reactants' energy. When the products are lower, that difference is negative, and the missing energy has been released to the surroundings as heat - which is what makes a reaction exothermic.",
+      "memoryHook": "T-Rexy says: Products downhill from reactants? The energy rolled out as heat - exothermic, delta H negative!",
+      "imageUrl": "topic:thermochemistry",
+      "tags": [
+        "thermochemistry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_056",
+      "question": "What is percent yield?",
+      "correctAnswer": "The actual yield divided by the theoretical yield, times 100",
+      "distractors": [
+        "The theoretical yield divided by the actual yield",
+        "The mass of reactants divided by products",
+        "The moles of product times 100"
+      ],
+      "explanation": "Percent yield = (actual yield / theoretical yield) x 100%. It measures how efficient a reaction was.",
+      "memoryHook": "T-Rexy says: Percent yield compares what you got to what you should have gotten!",
+      "imageUrl": "topic:stoichiometry",
+      "tags": [
+        "stoichiometry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_057",
+      "question": "If a reaction has a theoretical yield of 50 g and an actual yield of 40 g, what is the percent yield?",
+      "correctAnswer": "80%",
+      "distractors": [
+        "90%",
+        "75%",
+        "125%"
+      ],
+      "explanation": "Percent yield = (40 / 50) x 100 = 80%.",
+      "memoryHook": "T-Rexy says: 40 out of 50 is 80% - the reaction was 80% efficient!",
+      "imageUrl": "topic:stoichiometry",
+      "tags": [
+        "stoichiometry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_058",
+      "question": "What is the mole ratio between H2 and H2O in the balanced equation 2H2 + O2 -> 2H2O?",
+      "correctAnswer": "1:1",
+      "distractors": [
+        "2:1",
+        "1:2",
+        "3:2"
+      ],
+      "explanation": "The coefficients are 2 for H2 and 2 for H2O, so the ratio is 2:2, which simplifies to 1:1.",
+      "memoryHook": "T-Rexy says: Two moles of H2 make two moles of H2O - a 1 to 1 ratio!",
+      "imageUrl": "topic:stoichiometry",
+      "tags": [
+        "stoichiometry"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_059",
+      "question": "How many grams of oxygen (O2, molar mass 32 g/mol) are needed to react with 4 g of hydrogen (H2, molar mass 2 g/mol) in the reaction 2H2 + O2 -> 2H2O?",
+      "correctAnswer": "32 g",
+      "distractors": [
+        "16 g",
+        "64 g",
+        "8 g"
+      ],
+      "explanation": "4 g H2 = 2 mol H2. The mole ratio H2:O2 is 2:1, so 1 mol O2 is needed. 1 mol x 32 g/mol = 32 g.",
+      "memoryHook": "T-Rexy says: Two moles of H2 need one mole of O2, which weighs 32 grams!",
+      "imageUrl": "topic:stoichiometry",
+      "tags": [
+        "stoichiometry"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_060",
+      "question": "What is the empirical formula of a compound with 40% carbon, 6.7% hydrogen, and 53.3% oxygen? (C=12, H=1, O=16)",
+      "correctAnswer": "CH2O",
+      "distractors": [
+        "C2H4O2",
+        "CHO",
+        "CH3O"
+      ],
+      "explanation": "Converting percentages to moles: C = 40/12 = 3.33, H = 6.7/1 = 6.7, O = 53.3/16 = 3.33. Dividing by 3.33 gives 1:2:1, so CH2O.",
+      "memoryHook": "T-Rexy says: The simplest ratio is 1 carbon, 2 hydrogens, 1 oxygen - CH2O!",
+      "imageUrl": "topic:stoichiometry",
+      "tags": [
+        "stoichiometry"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_061",
+      "question": "What is pressure in a gas caused by?",
+      "correctAnswer": "Gas particles colliding with the walls of their container",
+      "distractors": [
+        "Gas particles attracting each other",
+        "Gas particles slowing down",
+        "Gas particles dissolving"
+      ],
+      "explanation": "Gas pressure comes from particles hitting the container walls. More collisions mean more pressure.",
+      "memoryHook": "T-Rexy says: Pressure is particles bumping into walls - more bumps, more pressure!",
+      "imageUrl": "topic:gases",
+      "tags": [
+        "gases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_062",
+      "question": "According to Boyle's law, if the volume of a gas decreases, its pressure:",
+      "correctAnswer": "Increases",
+      "distractors": [
+        "Decreases",
+        "Stays the same",
+        "Becomes zero"
+      ],
+      "explanation": "Boyle's law says pressure and volume are inversely related at constant temperature: smaller volume means higher pressure.",
+      "memoryHook": "T-Rexy says: Squeeze the volume and the pressure goes up - that is Boyle's law!",
+      "imageUrl": "topic:gases",
+      "tags": [
+        "gases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_063",
+      "question": "According to Charles's law, if the temperature of a gas increases, its volume:",
+      "correctAnswer": "Increases",
+      "distractors": [
+        "Decreases",
+        "Stays the same",
+        "Becomes zero"
+      ],
+      "explanation": "Charles's law says volume and temperature are directly related at constant pressure: hotter gas expands.",
+      "memoryHook": "T-Rexy says: Heat it up and it expands - Charles's law!",
+      "imageUrl": "topic:gases",
+      "tags": [
+        "gases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_064",
+      "question": "What is the standard temperature and pressure (STP) for gases?",
+      "correctAnswer": "0 degrees C and 1 atm",
+      "distractors": [
+        "25 degrees C and 1 atm",
+        "0 degrees C and 0 atm",
+        "100 degrees C and 1 atm"
+      ],
+      "explanation": "STP is defined as 0 degrees Celsius (273 K) and 1 atmosphere of pressure.",
+      "memoryHook": "T-Rexy says: STP is 0 degrees C and 1 atmosphere - the standard reference point!",
+      "imageUrl": "topic:gases",
+      "tags": [
+        "gases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_065",
+      "question": "What is the ideal gas law equation?",
+      "correctAnswer": "PV = nRT",
+      "distractors": [
+        "P = V/nRT",
+        "V = P/nRT",
+        "PV = nT/R"
+      ],
+      "explanation": "The ideal gas law is PV = nRT, where P is pressure, V is volume, n is moles, R is the gas constant, and T is temperature in Kelvin.",
+      "memoryHook": "T-Rexy says: PV = nRT - the ideal gas law, one equation for all gases!",
+      "imageUrl": "topic:gases",
+      "tags": [
+        "gases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_066",
+      "question": "A whole antacid tablet fizzes slowly in water, but the same tablet crushed to a powder fizzes away much faster. Crushing the tablet speeds up the reaction because it:",
+      "correctAnswer": "Increases the surface area, exposing more particles so collisions can happen in more places",
+      "distractors": [
+        "Turns the tablet into a catalyst for the reaction",
+        "Raises the temperature of the water",
+        "Increases the concentration of the water"
+      ],
+      "explanation": "A reaction can only happen where particles actually meet. A whole tablet exposes only its outer surface, while a powder exposes the surfaces of thousands of tiny pieces, so far more collisions per second become possible. The mass of tablet, the water and its temperature are all unchanged.",
+      "memoryHook": "T-Rexy says: Crush it and every tiny piece joins the action - more surface, faster fizz!",
+      "imageUrl": "topic:kinetics-equilibrium",
+      "tags": [
+        "kinetics-equilibrium"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_067",
+      "question": "At STP, what volume does 1 mole of any ideal gas occupy?",
+      "correctAnswer": "22.4 L",
+      "distractors": [
+        "1.0 L",
+        "10.0 L",
+        "44.8 L"
+      ],
+      "explanation": "At STP (0 degrees C, 1 atm), one mole of an ideal gas occupies 22.4 liters.",
+      "memoryHook": "T-Rexy says: One mole at STP takes up 22.4 liters - a handy number to remember!",
+      "imageUrl": "topic:gases",
+      "tags": [
+        "gases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_068",
+      "question": "If a gas has a volume of 4.0 L at 1.0 atm, what is its volume at 2.0 atm (temperature constant)?",
+      "correctAnswer": "2.0 L",
+      "distractors": [
+        "4.0 L",
+        "8.0 L",
+        "1.0 L"
+      ],
+      "explanation": "Boyle's law: P1V1 = P2V2. (1.0)(4.0) = (2.0)(V2), so V2 = 2.0 L.",
+      "memoryHook": "T-Rexy says: Doubling the pressure halves the volume - 2.0 liters!",
+      "imageUrl": "topic:gases",
+      "tags": [
+        "gases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_069",
+      "question": "What happens to gas particles as temperature increases?",
+      "correctAnswer": "They move faster",
+      "distractors": [
+        "They move slower",
+        "They stop moving",
+        "They shrink"
+      ],
+      "explanation": "Higher temperature means more kinetic energy, so particles move faster.",
+      "memoryHook": "T-Rexy says: Hotter gas means faster particles - temperature is motion!",
+      "imageUrl": "topic:gases",
+      "tags": [
+        "gases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_070",
+      "question": "Which gas law relates pressure and temperature at constant volume?",
+      "correctAnswer": "Gay-Lussac's law",
+      "distractors": [
+        "Boyle's law",
+        "Charles's law",
+        "Avogadro's law"
+      ],
+      "explanation": "Gay-Lussac's law states that pressure is directly proportional to temperature (in Kelvin) at constant volume.",
+      "memoryHook": "T-Rexy says: Gay-Lussac's law links pressure and temperature directly!",
+      "imageUrl": "topic:gases",
+      "tags": [
+        "gases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_071",
+      "question": "According to Avogadro's law, equal volumes of gases at the same temperature and pressure contain:",
+      "correctAnswer": "Equal numbers of particles",
+      "distractors": [
+        "Equal masses",
+        "Equal densities",
+        "Equal pressures only"
+      ],
+      "explanation": "Avogadro's law says volume is proportional to the number of moles - equal volumes have equal numbers of particles.",
+      "memoryHook": "T-Rexy says: Same volume, same temperature, same pressure - same number of particles!",
+      "imageUrl": "topic:gases",
+      "tags": [
+        "gases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_072",
+      "question": "What is absolute zero?",
+      "correctAnswer": "0 Kelvin, the temperature at which particle motion theoretically stops",
+      "distractors": [
+        "0 degrees Celsius",
+        "0 degrees Fahrenheit",
+        "-100 degrees Celsius"
+      ],
+      "explanation": "Absolute zero is 0 K (-273.15 degrees C), the lowest possible temperature where molecular motion is at a minimum.",
+      "memoryHook": "T-Rexy says: Absolute zero is 0 Kelvin - the coldest anything can ever get!",
+      "imageUrl": "topic:gases",
+      "tags": [
+        "gases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_073",
+      "question": "What is a solution?",
+      "correctAnswer": "A homogeneous mixture of two or more substances",
+      "distractors": [
+        "A heterogeneous mixture",
+        "A pure substance",
+        "A compound only"
+      ],
+      "explanation": "A solution is a uniform mixture where one substance (solute) is dissolved in another (solvent).",
+      "memoryHook": "T-Rexy says: A solution is a uniform mixture - you cannot see the separate parts!",
+      "imageUrl": "topic:solutions",
+      "tags": [
+        "solutions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_074",
+      "question": "Ethanol, CH3CH2OH, is a member of the alcohol family of organic compounds. Which part of the molecule is the functional group that makes it an alcohol?",
+      "correctAnswer": "The -OH group at the end of the molecule",
+      "distractors": [
+        "The CH3 group at the start of the molecule",
+        "The carbon-hydrogen bonds along the chain",
+        "The carbon chain as a whole"
+      ],
+      "explanation": "A functional group is the atom or group of atoms that gives a family of organic compounds its characteristic properties. For alcohols that group is the hydroxyl group, -OH. Ethanol's carbon skeleton is the carrier; the -OH is what makes it behave as an alcohol.",
+      "memoryHook": "T-Rexy says: Spot the -OH and you have found an alcohol - that little group runs the whole family!",
+      "imageUrl": "topic:organic-intro",
+      "tags": [
+        "organic-intro"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_075",
+      "question": "In a salt water solution, what is the solvent?",
+      "correctAnswer": "Water",
+      "distractors": [
+        "Salt",
+        "The container",
+        "The air"
+      ],
+      "explanation": "The solvent is the substance that dissolves the solute. In salt water, water is the solvent.",
+      "memoryHook": "T-Rexy says: Water is the solvent - it does the dissolving!",
+      "imageUrl": "topic:solutions",
+      "tags": [
+        "solutions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_076",
+      "question": "What does 'like dissolves like' mean?",
+      "correctAnswer": "Polar solvents dissolve polar solutes, and nonpolar solvents dissolve nonpolar solutes",
+      "distractors": [
+        "All substances dissolve in water",
+        "Only metals dissolve",
+        "Only gases dissolve"
+      ],
+      "explanation": "Polar substances dissolve in polar solvents and nonpolar in nonpolar, because similar intermolecular forces attract.",
+      "memoryHook": "T-Rexy says: Like dissolves like - polar likes polar, nonpolar likes nonpolar!",
+      "imageUrl": "topic:solutions",
+      "tags": [
+        "solutions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_077",
+      "question": "Which of these is soluble in water?",
+      "correctAnswer": "Sodium chloride (NaCl)",
+      "distractors": [
+        "Oil",
+        "Sand",
+        "Wax"
+      ],
+      "explanation": "NaCl is an ionic compound that dissolves well in polar water. Oil, sand, and wax do not dissolve in water.",
+      "memoryHook": "T-Rexy says: Table salt dissolves in water - oil and wax do not!",
+      "imageUrl": "topic:solutions",
+      "tags": [
+        "solutions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_078",
+      "question": "On the heating curve of a pure substance, the temperature stays constant during boiling even though heat is added steadily. At the particle level, the added energy is being used to:",
+      "correctAnswer": "Overcome the attractions between particles so they can separate into a gas",
+      "distractors": [
+        "Increase the average kinetic energy of the particles",
+        "Break the chemical bonds inside each molecule",
+        "Destroy some of the particles so fewer are left to heat"
+      ],
+      "explanation": "Temperature measures average kinetic energy, and it cannot rise while the added energy is being spent pulling particles apart against their intermolecular attractions. The molecules themselves stay intact - it is the spacing between them, not the bonds inside them, that changes.",
+      "memoryHook": "T-Rexy says: On the flat part of the curve, the heat is prying particles apart, not speeding them up!",
+      "imageUrl": "topic:states-of-matter",
+      "tags": [
+        "states-of-matter"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_079",
+      "question": "What is the molarity of a solution with 2 moles of solute in 4 liters of solution?",
+      "correctAnswer": "0.5 M",
+      "distractors": [
+        "2 M",
+        "8 M",
+        "0.25 M"
+      ],
+      "explanation": "Molarity = 2 mol / 4 L = 0.5 M.",
+      "memoryHook": "T-Rexy says: Two moles in four liters gives 0.5 molar!",
+      "imageUrl": "topic:solutions",
+      "tags": [
+        "solutions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_080",
+      "question": "How many moles of solute are in 2 liters of a 3 M solution?",
+      "correctAnswer": "6 moles",
+      "distractors": [
+        "1.5 moles",
+        "3 moles",
+        "5 moles"
+      ],
+      "explanation": "Moles = molarity x volume = 3 M x 2 L = 6 moles.",
+      "memoryHook": "T-Rexy says: Three molar times two liters equals six moles!",
+      "imageUrl": "topic:solutions",
+      "tags": [
+        "solutions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_081",
+      "question": "What is a saturated solution?",
+      "correctAnswer": "A solution that contains the maximum amount of dissolved solute",
+      "distractors": [
+        "A solution with no solute",
+        "A solution that is boiling",
+        "A solution that is frozen"
+      ],
+      "explanation": "A saturated solution cannot dissolve any more solute at that temperature - any extra stays undissolved.",
+      "memoryHook": "T-Rexy says: Saturated means full - it cannot hold any more solute!",
+      "imageUrl": "topic:solutions",
+      "tags": [
+        "solutions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_082",
+      "question": "What happens to the solubility of most solids in water as temperature increases?",
+      "correctAnswer": "It increases",
+      "distractors": [
+        "It decreases",
+        "It stays the same",
+        "It becomes zero"
+      ],
+      "explanation": "For most solids, higher temperature means more solute can dissolve.",
+      "memoryHook": "T-Rexy says: Heat usually helps solids dissolve - warmer water holds more!",
+      "imageUrl": "topic:solutions",
+      "tags": [
+        "solutions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_083",
+      "question": "What is dilution?",
+      "correctAnswer": "Adding solvent to decrease the concentration of a solution",
+      "distractors": [
+        "Adding solute to increase concentration",
+        "Heating a solution",
+        "Freezing a solution"
+      ],
+      "explanation": "Dilution adds more solvent, spreading the same amount of solute over a larger volume and lowering concentration.",
+      "memoryHook": "T-Rexy says: Dilution means adding solvent - same solute, weaker solution!",
+      "imageUrl": "topic:solutions",
+      "tags": [
+        "solutions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_084",
+      "question": "Uranium-238 (atomic number 92) undergoes alpha decay. What is the mass number of the nucleus that is formed?",
+      "correctAnswer": "234",
+      "distractors": [
+        "242",
+        "236",
+        "238"
+      ],
+      "explanation": "An alpha particle carries away 4 mass units (2 protons and 2 neutrons), so the new mass number is 238 - 4 = 234. The atomic number also falls by 2, from 92 to 90, so the new nucleus is thorium-234.",
+      "memoryHook": "T-Rexy says: An alpha particle out the door takes 4 from the mass number and 2 from the atomic number!",
+      "imageUrl": "topic:nuclear",
+      "tags": [
+        "nuclear"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_085",
+      "question": "What is the pH of a neutral solution at 25 degrees C?",
+      "correctAnswer": "7",
+      "distractors": [
+        "0",
+        "1",
+        "14"
+      ],
+      "explanation": "pH is set by the hydrogen-ion concentration. In pure water at 25 degrees C, [H+] = [OH-] = 1 x 10^-7 M, so pH = -log(10^-7) = 7 - exactly in the middle of the scale, so the solution is neither acidic nor basic.",
+      "memoryHook": "T-Rexy says: pH 7 is neutral - not acidic, not basic!",
+      "imageUrl": "topic:acids-bases",
+      "tags": [
+        "acids-bases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_086",
+      "question": "A solution with a pH of 3 is:",
+      "correctAnswer": "Acidic",
+      "distractors": [
+        "Basic",
+        "Neutral",
+        "A salt"
+      ],
+      "explanation": "pH below 7 is acidic. pH 3 is a fairly strong acid.",
+      "memoryHook": "T-Rexy says: pH below 7 means acidic - pH 3 is definitely an acid!",
+      "imageUrl": "topic:acids-bases",
+      "tags": [
+        "acids-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_087",
+      "question": "A solution with a pH of 11 is:",
+      "correctAnswer": "Basic",
+      "distractors": [
+        "Acidic",
+        "Neutral",
+        "A salt"
+      ],
+      "explanation": "pH above 7 is basic (alkaline). pH 11 is a fairly strong base.",
+      "memoryHook": "T-Rexy says: pH above 7 means basic - pH 11 is a base!",
+      "imageUrl": "topic:acids-bases",
+      "tags": [
+        "acids-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_088",
+      "question": "What does pH measure?",
+      "correctAnswer": "The concentration of hydrogen ions (H+)",
+      "distractors": [
+        "The concentration of oxygen",
+        "The temperature",
+        "The pressure"
+      ],
+      "explanation": "pH = -log[H+]. Lower pH means more hydrogen ions and more acidity.",
+      "memoryHook": "T-Rexy says: pH measures hydrogen ions - more H+ means lower pH!",
+      "imageUrl": "topic:acids-bases",
+      "tags": [
+        "acids-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_089",
+      "question": "Which of these is a strong acid?",
+      "correctAnswer": "Hydrochloric acid (HCl)",
+      "distractors": [
+        "Acetic acid (CH3COOH)",
+        "Carbonic acid (H2CO3)",
+        "Water (H2O)"
+      ],
+      "explanation": "HCl dissociates completely in water, making it a strong acid. Acetic and carbonic acids are weak acids.",
+      "memoryHook": "T-Rexy says: HCl is a strong acid - it dissociates completely!",
+      "imageUrl": "topic:acids-bases",
+      "tags": [
+        "acids-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_090",
+      "question": "Which of these is a base?",
+      "correctAnswer": "Sodium hydroxide (NaOH)",
+      "distractors": [
+        "Hydrochloric acid (HCl)",
+        "Sulfuric acid (H2SO4)",
+        "Nitric acid (HNO3)"
+      ],
+      "explanation": "NaOH is a strong base that dissociates into Na+ and OH- ions.",
+      "memoryHook": "T-Rexy says: NaOH is a strong base - it releases hydroxide ions!",
+      "imageUrl": "topic:acids-bases",
+      "tags": [
+        "acids-bases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_091",
+      "question": "What happens when an acid reacts with a base?",
+      "correctAnswer": "They neutralize each other, forming a salt and water",
+      "distractors": [
+        "They explode",
+        "They form a gas only",
+        "Nothing happens"
+      ],
+      "explanation": "Acid + base -> salt + water. This is a neutralization reaction.",
+      "memoryHook": "T-Rexy says: Acid plus base makes salt plus water - neutralization!",
+      "imageUrl": "topic:acids-bases",
+      "tags": [
+        "acids-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_092",
+      "question": "What is the chemical formula for sulfuric acid?",
+      "correctAnswer": "H2SO4",
+      "distractors": [
+        "HCl",
+        "HNO3",
+        "H3PO4"
+      ],
+      "explanation": "Sulfuric acid is H2SO4 - two hydrogens, one sulfur, four oxygens.",
+      "memoryHook": "T-Rexy says: H2SO4 is sulfuric acid - a powerful industrial acid!",
+      "imageUrl": "topic:acids-bases",
+      "tags": [
+        "acids-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_093",
+      "question": "A liquid starts to boil when:",
+      "correctAnswer": "Its vapor pressure becomes equal to the atmospheric pressure pushing down on it",
+      "distractors": [
+        "Its temperature reaches 100 degrees C",
+        "Its vapor pressure drops to zero",
+        "Every one of its particles has turned into a gas"
+      ],
+      "explanation": "Bubbles of vapor can only form and survive inside a liquid when the vapor pressure inside them matches the pressure of the air pushing on the surface. This is why water boils below 100 degrees C high on a mountain, where the air pressure is lower.",
+      "memoryHook": "T-Rexy says: Boiling starts when vapor pressure fights the air pressure to a draw!",
+      "imageUrl": "topic:states-of-matter",
+      "tags": [
+        "states-of-matter"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_094",
+      "question": "What ion do bases release in water?",
+      "correctAnswer": "Hydroxide ion (OH-)",
+      "distractors": [
+        "Hydrogen ion (H+)",
+        "Sodium ion (Na+)",
+        "Chloride ion (Cl-)"
+      ],
+      "explanation": "Bases release OH- ions in water (Arrhenius definition).",
+      "memoryHook": "T-Rexy says: Bases release OH- ions - the opposite of acids!",
+      "imageUrl": "topic:acids-bases",
+      "tags": [
+        "acids-bases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_095",
+      "question": "What is the pH of a solution with [H+] = 1 x 10^-4 M?",
+      "correctAnswer": "4",
+      "distractors": [
+        "10",
+        "14",
+        "1"
+      ],
+      "explanation": "pH = -log[H+] = -log(10^-4) = 4.",
+      "memoryHook": "T-Rexy says: A hydrogen concentration of 10 to the minus 4 means pH 4!",
+      "imageUrl": "topic:acids-bases",
+      "tags": [
+        "acids-bases"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_096",
+      "question": "Alkanes follow the general formula CnH2n+2. Pentane is the alkane with 5 carbon atoms. How many hydrogen atoms does a molecule of pentane have?",
+      "correctAnswer": "12",
+      "distractors": [
+        "10",
+        "14",
+        "7"
+      ],
+      "explanation": "Substitute n = 5 into CnH2n+2: the number of hydrogen atoms is 2(5) + 2 = 12, so pentane is C5H12. Forgetting the +2 is the common slip that gives 10.",
+      "memoryHook": "T-Rexy says: Double the carbons and add two - pentane has twelve hydrogens, not ten!",
+      "imageUrl": "topic:organic-intro",
+      "tags": [
+        "organic-intro"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_097",
+      "question": "Which of these is a chemical change?",
+      "correctAnswer": "Iron rusting",
+      "distractors": [
+        "Ice melting",
+        "Water boiling",
+        "Salt dissolving in water"
+      ],
+      "explanation": "Rusting forms a new substance (iron oxide). Melting, boiling, and dissolving are physical changes.",
+      "memoryHook": "T-Rexy says: Rusting makes a new substance - that is a chemical change!",
+      "imageUrl": "topic:mixed-review",
+      "tags": [
+        "mixed-review"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_098",
+      "question": "What is the law of conservation of mass?",
+      "correctAnswer": "Mass is neither created nor destroyed in a chemical reaction",
+      "distractors": [
+        "Mass increases in every reaction",
+        "Mass decreases in every reaction",
+        "Mass can be created from energy"
+      ],
+      "explanation": "In a chemical reaction, the total mass of reactants equals the total mass of products.",
+      "memoryHook": "T-Rexy says: Mass is conserved - what goes in must come out!",
+      "imageUrl": "topic:mixed-review",
+      "tags": [
+        "mixed-review"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_099",
+      "question": "How many atoms of hydrogen are in 2 molecules of H2SO4?",
+      "correctAnswer": "4",
+      "distractors": [
+        "2",
+        "8",
+        "6"
+      ],
+      "explanation": "Each H2SO4 has 2 hydrogen atoms. Two molecules have 2 x 2 = 4 hydrogen atoms.",
+      "memoryHook": "T-Rexy says: Two molecules times two hydrogens each equals four hydrogens!",
+      "imageUrl": "topic:mixed-review",
+      "tags": [
+        "mixed-review"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CHEM_100",
+      "question": "What is the total number of atoms in one molecule of glucose (C6H12O6)?",
+      "correctAnswer": "24",
+      "distractors": [
+        "12",
+        "18",
+        "6"
+      ],
+      "explanation": "C6H12O6 has 6 + 12 + 6 = 24 atoms total.",
+      "memoryHook": "T-Rexy says: Six carbons plus twelve hydrogens plus six oxygens equals 24 atoms!",
+      "imageUrl": "topic:mixed-review",
+      "tags": [
+        "mixed-review"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

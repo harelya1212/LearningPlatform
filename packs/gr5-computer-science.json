@@ -1,0 +1,2017 @@
+{
+  "packId": "gr5-computer-science",
+  "title": "Computer Science (5th Grade)",
+  "description": "Computer Science (5th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "computer-science",
+    "coding",
+    "5th"
+  ],
+  "questions": [
+    {
+      "id": "CSC5_001",
+      "question": "What is a computer?",
+      "correctAnswer": "A machine that follows instructions to process information",
+      "distractors": [
+        "A type of television only",
+        "A book with pictures",
+        "A kind of robot toy"
+      ],
+      "explanation": "A computer takes input, processes it, and gives output.",
+      "memoryHook": "T-Rexy says: a computer follows instructions to work with information!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_002",
+      "question": "Which of these is hardware?",
+      "correctAnswer": "A keyboard",
+      "distractors": [
+        "A game app",
+        "A website",
+        "A music file"
+      ],
+      "explanation": "Hardware is the physical part of a computer you can touch.",
+      "memoryHook": "T-Rexy says: hardware is the part you can touch!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_003",
+      "question": "Which of these is software?",
+      "correctAnswer": "A word processor app",
+      "distractors": [
+        "A mouse",
+        "A monitor",
+        "A printer"
+      ],
+      "explanation": "Software is the programs and apps that run on a computer.",
+      "memoryHook": "T-Rexy says: software is the programs inside the machine!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "software"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_004",
+      "question": "What does the CPU do?",
+      "correctAnswer": "It is the brain of the computer that follows instructions",
+      "distractors": [
+        "It shows pictures on the screen",
+        "It prints documents",
+        "It stores files forever"
+      ],
+      "explanation": "The CPU (central processing unit) carries out instructions.",
+      "memoryHook": "T-Rexy says: the CPU is the computer's brain!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_005",
+      "question": "What is a monitor used for?",
+      "correctAnswer": "To display information from the computer",
+      "distractors": [
+        "To type words",
+        "To store files",
+        "To connect to the internet"
+      ],
+      "explanation": "The monitor is an output device: it turns the computer's signals into pictures and words you can see.",
+      "memoryHook": "T-Rexy says: the monitor shows you the computer's work!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_006",
+      "question": "What is a keyboard used for?",
+      "correctAnswer": "To type letters, numbers, and commands",
+      "distractors": [
+        "To show pictures",
+        "To print papers",
+        "To play sounds"
+      ],
+      "explanation": "Each key sends a signal to the computer, and the computer turns it into a letter, number, or command on the screen.",
+      "memoryHook": "T-Rexy says: the keyboard is for typing in!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_007",
+      "question": "What is a mouse used for?",
+      "correctAnswer": "To point, click, and select things on the screen",
+      "distractors": [
+        "To store photos",
+        "To print documents",
+        "To charge the computer"
+      ],
+      "explanation": "Moving the mouse moves the pointer, and clicking tells the computer to open or choose what the pointer is on.",
+      "memoryHook": "T-Rexy says: the mouse points and clicks!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_008",
+      "question": "What is memory (RAM) in a computer?",
+      "correctAnswer": "Short-term storage the computer uses while it works",
+      "distractors": [
+        "The screen",
+        "A printer",
+        "A permanent file"
+      ],
+      "explanation": "RAM is fast, temporary memory: when you close a program or turn the computer off, what was in RAM is gone.",
+      "memoryHook": "T-Rexy says: RAM is the computer's short-term memory!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_009",
+      "question": "What is a hard drive or SSD used for?",
+      "correctAnswer": "To store files and programs for a long time",
+      "distractors": [
+        "To show videos",
+        "To type words",
+        "To cool the computer"
+      ],
+      "explanation": "A hard drive or SSD keeps files even when the computer is off.",
+      "memoryHook": "T-Rexy says: the hard drive keeps your files safe!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_010",
+      "question": "What is a printer?",
+      "correctAnswer": "A device that puts computer files onto paper",
+      "distractors": [
+        "A device that shows videos",
+        "A device that stores music",
+        "A device that types words"
+      ],
+      "explanation": "A printer sprays ink or melts toner onto paper to turn a digital file into something you can hold.",
+      "memoryHook": "T-Rexy says: a printer turns screen files into paper!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_011",
+      "question": "What is a speaker used for?",
+      "correctAnswer": "To play sounds from the computer",
+      "distractors": [
+        "To show pictures",
+        "To store files",
+        "To type words"
+      ],
+      "explanation": "Speakers turn computer signals into sound you can hear.",
+      "memoryHook": "T-Rexy says: speakers play the computer's sounds!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_012",
+      "question": "What is a tablet?",
+      "correctAnswer": "A portable computer with a touchscreen",
+      "distractors": [
+        "A kind of keyboard",
+        "A printer",
+        "A storage box"
+      ],
+      "explanation": "A tablet has no keyboard or mouse: you tap, swipe, and pinch right on the screen to control it.",
+      "memoryHook": "T-Rexy says: a tablet is a computer you touch!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_013",
+      "question": "What does a webcam do?",
+      "correctAnswer": "It captures video and photos for the computer",
+      "distractors": [
+        "It prints pictures",
+        "It stores files",
+        "It plays music"
+      ],
+      "explanation": "A webcam is a small camera that sends live video into the computer, so people can see you during a video call.",
+      "memoryHook": "T-Rexy says: a webcam is the computer's eye!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "hardware"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_014",
+      "question": "Which device is an input device?",
+      "correctAnswer": "A microphone",
+      "distractors": [
+        "A monitor",
+        "A printer",
+        "A speaker"
+      ],
+      "explanation": "Input devices send information into the computer.",
+      "memoryHook": "T-Rexy says: a microphone sends your voice in!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "input-output"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_015",
+      "question": "Which device is an output device?",
+      "correctAnswer": "A monitor",
+      "distractors": [
+        "A keyboard",
+        "A mouse",
+        "A microphone"
+      ],
+      "explanation": "Output devices show or share information from the computer.",
+      "memoryHook": "T-Rexy says: a monitor sends pictures out to you!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "input-output"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_016",
+      "question": "What is an app?",
+      "correctAnswer": "A program that does a job on a computer or phone",
+      "distractors": [
+        "A piece of hardware",
+        "A website address",
+        "A computer virus"
+      ],
+      "explanation": "Each app is built for one kind of job - a drawing app draws, a music app plays songs, a game app plays games.",
+      "memoryHook": "T-Rexy says: an app is a program with a job to do!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "software"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_017",
+      "question": "What is a file?",
+      "correctAnswer": "A collection of data saved under a name, like a document or photo",
+      "distractors": [
+        "A piece of hardware",
+        "A computer virus",
+        "A type of password"
+      ],
+      "explanation": "Every file has a name and a type, like .docx for a document or .jpg for a photo, so the computer knows how to open it.",
+      "memoryHook": "T-Rexy says: a file is saved data with a name!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "data"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_018",
+      "question": "What is a folder?",
+      "correctAnswer": "A place on a computer that holds files together",
+      "distractors": [
+        "A type of computer",
+        "A program that prints",
+        "A kind of virus"
+      ],
+      "explanation": "Folders organize files so you can find them.",
+      "memoryHook": "T-Rexy says: folders keep files organized!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "data"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_019",
+      "question": "What does it mean to save a file?",
+      "correctAnswer": "To store your work so you can open it later",
+      "distractors": [
+        "To delete your work",
+        "To print your work",
+        "To send your work to a friend"
+      ],
+      "explanation": "Saving writes your work onto the hard drive or SSD, so it is still there after you close the program or turn the computer off.",
+      "memoryHook": "T-Rexy says: save your work so you never lose it!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "data"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_020",
+      "question": "What is data?",
+      "correctAnswer": "Facts and information, like numbers, words, and pictures",
+      "distractors": [
+        "A computer program",
+        "A kind of hardware",
+        "A website"
+      ],
+      "explanation": "Data can be numbers, words, pictures, sounds, or video - anything a computer can store and work with.",
+      "memoryHook": "T-Rexy says: data is information - numbers, words, pictures!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "data"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_021",
+      "question": "What is the cloud?",
+      "correctAnswer": "Storage on the internet where files are kept",
+      "distractors": [
+        "A weather cloud",
+        "A computer screen",
+        "A type of virus"
+      ],
+      "explanation": "Cloud storage keeps files on internet servers you can reach from anywhere.",
+      "memoryHook": "T-Rexy says: the cloud is storage on the internet!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "data"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_022",
+      "question": "What is a megabyte?",
+      "correctAnswer": "A unit that measures how much data a file holds",
+      "distractors": [
+        "A type of computer",
+        "A kind of password",
+        "A speed of the internet"
+      ],
+      "explanation": "Files are measured in bytes, kilobytes, megabytes, and gigabytes.",
+      "memoryHook": "T-Rexy says: a megabyte measures file size!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "data"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_023",
+      "question": "Which file is probably the biggest?",
+      "correctAnswer": "A one-hour video",
+      "distractors": [
+        "A short text document",
+        "A small photo",
+        "A one-page list"
+      ],
+      "explanation": "A one-hour video stores millions of pictures, one for each tiny moment, plus sound - far more data than a page of text.",
+      "memoryHook": "T-Rexy says: video files are the biggest!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "data"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_024",
+      "question": "What is a password?",
+      "correctAnswer": "A secret word that proves you are who you say you are",
+      "distractors": [
+        "A username",
+        "A file name",
+        "A website address"
+      ],
+      "explanation": "Passwords protect your accounts from other people.",
+      "memoryHook": "T-Rexy says: a password is your secret key!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "security"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_025",
+      "question": "What makes a strong password?",
+      "correctAnswer": "A long mix of letters, numbers, and symbols that is hard to guess",
+      "distractors": [
+        "Your name",
+        "Your birthday",
+        "The word 'password'"
+      ],
+      "explanation": "A strong password mixes capital and small letters, numbers, and symbols, and it is long - at least 12 characters is a good rule.",
+      "memoryHook": "T-Rexy says: long and mixed-up makes a strong password!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "security"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_026",
+      "question": "What should you do if you forget your password?",
+      "correctAnswer": "Ask a parent or use the official reset with an adult's help",
+      "distractors": [
+        "Guess it many times",
+        "Share your account with a friend",
+        "Make a new account secretly"
+      ],
+      "explanation": "Only use the real 'forgot password' link on the real site, with an adult beside you - never on a link from a strange message.",
+      "memoryHook": "T-Rexy says: forgot your password? Ask an adult for help!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "security"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_027",
+      "question": "What is a username?",
+      "correctAnswer": "The name you use to identify yourself on a computer or website",
+      "distractors": [
+        "Your real name always",
+        "A password",
+        "A file name"
+      ],
+      "explanation": "Your username is your public name on a site, while your password stays secret - the two together prove it is you.",
+      "memoryHook": "T-Rexy says: a username is how the computer knows it is you!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "security"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_028",
+      "question": "What is a computer virus?",
+      "correctAnswer": "A harmful program that can damage files or steal information",
+      "distractors": [
+        "A cold you catch from a screen",
+        "A kind of app for games",
+        "A broken keyboard"
+      ],
+      "explanation": "A virus hides inside a file or program you open, then copies itself and can damage files or steal information.",
+      "memoryHook": "T-Rexy says: a computer virus is a bad program that causes harm!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "security"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_029",
+      "question": "What does antivirus software do?",
+      "correctAnswer": "It finds and removes harmful programs",
+      "distractors": [
+        "It makes games run faster",
+        "It prints documents",
+        "It stores photos"
+      ],
+      "explanation": "Antivirus software scans files and blocks known bad programs, and it must be kept up to date to catch new ones.",
+      "memoryHook": "T-Rexy says: antivirus is the guard against bad programs!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "security"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_030",
+      "question": "What should you do before downloading a new app?",
+      "correctAnswer": "Ask a parent or teacher if it is safe",
+      "distractors": [
+        "Download it right away",
+        "Turn off the computer",
+        "Share your password"
+      ],
+      "explanation": "A safe app comes from an official store and has good reviews; a parent can check who made it before you tap download.",
+      "memoryHook": "T-Rexy says: ask an adult before downloading anything!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "security"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_031",
+      "question": "What is an algorithm?",
+      "correctAnswer": "A step-by-step plan to solve a problem",
+      "distractors": [
+        "A type of computer",
+        "A kind of virus",
+        "A computer game"
+      ],
+      "explanation": "An algorithm is a clear list of steps, like a recipe.",
+      "memoryHook": "T-Rexy says: an algorithm is a recipe for solving a problem!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "algorithms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_032",
+      "question": "Which of these is an algorithm?",
+      "correctAnswer": "The steps to make a sandwich",
+      "distractors": [
+        "A sandwich",
+        "A plate",
+        "A kitchen"
+      ],
+      "explanation": "The sandwich recipe lists steps in order - bread first, then lettuce, then cheese - and a computer follows an algorithm the same way.",
+      "memoryHook": "T-Rexy says: a sandwich recipe is an algorithm!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "algorithms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_033",
+      "question": "What is a sequence in coding?",
+      "correctAnswer": "Steps in the correct order",
+      "distractors": [
+        "Steps in any order",
+        "A type of loop",
+        "A computer bug"
+      ],
+      "explanation": "A program runs step 1, then step 2, then step 3 - if the steps are out of order, the program does the wrong thing.",
+      "memoryHook": "T-Rexy says: order matters - that is sequence!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "sequence"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_034",
+      "question": "Why does the order of steps matter in an algorithm?",
+      "correctAnswer": "Doing steps in the wrong order gives the wrong result",
+      "distractors": [
+        "It does not matter at all",
+        "It makes the computer faster only",
+        "It saves paper"
+      ],
+      "explanation": "If you put on shoes before socks, you get a silly result!",
+      "memoryHook": "T-Rexy says: wrong order, wrong result!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "algorithms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_035",
+      "question": "What is a loop in coding?",
+      "correctAnswer": "Instructions that repeat again and again",
+      "distractors": [
+        "A mistake in the code",
+        "A way to stop a program",
+        "A type of computer"
+      ],
+      "explanation": "Loops repeat steps, like singing a chorus again.",
+      "memoryHook": "T-Rexy says: a loop repeats the steps again and again!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "loops"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_036",
+      "question": "What is a bug in a computer program?",
+      "correctAnswer": "A mistake that makes the program work wrong",
+      "distractors": [
+        "A real insect inside the computer",
+        "A type of game",
+        "A new feature"
+      ],
+      "explanation": "A bug is a mistake in the instructions, like a wrong number or a missing step, that makes the program act in a way you did not want.",
+      "memoryHook": "T-Rexy says: a bug is a mistake hiding in the code!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "debugging"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_037",
+      "question": "What is debugging?",
+      "correctAnswer": "Finding and fixing mistakes in a program",
+      "distractors": [
+        "Building a computer",
+        "Deleting all the code",
+        "Making the program slower"
+      ],
+      "explanation": "To debug, you test the program, find the step that goes wrong, fix that one step, and test again.",
+      "memoryHook": "T-Rexy says: debugging is bug hunting in code!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "debugging"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_038",
+      "question": "What is a condition in coding?",
+      "correctAnswer": "An if-then rule, like 'if it rains, take an umbrella'",
+      "distractors": [
+        "A type of computer",
+        "A mistake in the code",
+        "A kind of loop"
+      ],
+      "explanation": "Conditions let programs make choices.",
+      "memoryHook": "T-Rexy says: if this, then that - that is a condition!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "conditions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_039",
+      "question": "What does 'if it is raining, then take an umbrella' show?",
+      "correctAnswer": "A condition",
+      "distractors": [
+        "A loop",
+        "A bug",
+        "A sequence only"
+      ],
+      "explanation": "The program checks the condition first - 'is it raining?' - and only then picks the matching action.",
+      "memoryHook": "T-Rexy says: if-then is a condition!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "conditions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_040",
+      "question": "What is a variable in coding?",
+      "correctAnswer": "A named box that stores a value that can change",
+      "distractors": [
+        "A type of computer",
+        "A mistake in the code",
+        "A kind of virus"
+      ],
+      "explanation": "Variables store values, like a score in a game.",
+      "memoryHook": "T-Rexy says: a variable is a labeled box that holds a value!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "variables"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_041",
+      "question": "In a game, the score goes up by 1 each time you win a point. What stores the score?",
+      "correctAnswer": "A variable",
+      "distractors": [
+        "A loop",
+        "A bug",
+        "A condition"
+      ],
+      "explanation": "Each win adds 1 to the score variable, so the stored number grows from 0 to 1 to 2 as you play.",
+      "memoryHook": "T-Rexy says: the score lives in a variable!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "variables"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_042",
+      "question": "What is a function in coding?",
+      "correctAnswer": "A named block of code that does a job when you call it",
+      "distractors": [
+        "A computer part",
+        "A type of bug",
+        "A kind of file"
+      ],
+      "explanation": "Functions group steps together so you can reuse them.",
+      "memoryHook": "T-Rexy says: a function is a reusable pack of steps!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "functions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_043",
+      "question": "What is binary?",
+      "correctAnswer": "A number system using only 0 and 1",
+      "distractors": [
+        "A number system using 0 to 9",
+        "A type of computer",
+        "A kind of robot"
+      ],
+      "explanation": "Computers use binary because circuits are either on or off.",
+      "memoryHook": "T-Rexy says: binary is just zeros and ones!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "binary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_044",
+      "question": "What does the binary digit 1 usually mean in a circuit?",
+      "correctAnswer": "On",
+      "distractors": [
+        "Off",
+        "Broken",
+        "Slow"
+      ],
+      "explanation": "In binary, 1 means on and 0 means off.",
+      "memoryHook": "T-Rexy says: 1 means on, 0 means off!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "binary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_045",
+      "question": "What is the binary number for 5?",
+      "correctAnswer": "101",
+      "distractors": [
+        "100",
+        "111",
+        "110"
+      ],
+      "explanation": "5 in binary is 101 (4 + 0 + 1).",
+      "memoryHook": "T-Rexy says: 5 is 101 in binary - 4 plus 1!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "binary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_046",
+      "question": "What is a robot?",
+      "correctAnswer": "A machine that can sense, think, and act following a program",
+      "distractors": [
+        "A toy car only",
+        "A computer screen",
+        "A type of app"
+      ],
+      "explanation": "Robots follow programs to do tasks, sometimes using sensors.",
+      "memoryHook": "T-Rexy says: a robot senses, thinks, and acts!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "robots"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_047",
+      "question": "What is a sensor on a robot?",
+      "correctAnswer": "A part that detects things like light, touch, or distance",
+      "distractors": [
+        "A kind of battery",
+        "A robot's brain",
+        "A robot's arm"
+      ],
+      "explanation": "A light sensor can tell bright from dark, a touch sensor feels bumps, and a distance sensor measures how far away a wall is.",
+      "memoryHook": "T-Rexy says: sensors are a robot's senses!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "robots"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_048",
+      "question": "What is artificial intelligence (AI)?",
+      "correctAnswer": "Computer systems that can learn and solve problems like humans do",
+      "distractors": [
+        "A robot that is alive",
+        "A kind of video game",
+        "A computer virus"
+      ],
+      "explanation": "AI programs learn from data to make decisions and predictions.",
+      "memoryHook": "T-Rexy says: AI is a computer that learns from examples!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "ai"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_049",
+      "question": "What is the first step in solving a coding problem?",
+      "correctAnswer": "Understand the problem and plan the steps",
+      "distractors": [
+        "Type code as fast as you can",
+        "Delete everything",
+        "Ask the computer to guess"
+      ],
+      "explanation": "Planning means breaking the problem into small steps on paper first, so you know what code to write.",
+      "memoryHook": "T-Rexy says: plan first, code second!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "problem-solving"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_050",
+      "question": "Which of these is the best way to test a program?",
+      "correctAnswer": "Run it and check if it does what you expected",
+      "distractors": [
+        "Never run it",
+        "Delete it right away",
+        "Show it to no one"
+      ],
+      "explanation": "Run the program with a test case you already know the answer to - if the result matches, the program works.",
+      "memoryHook": "T-Rexy says: run it and check - that is testing!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "testing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_051",
+      "question": "What is the internet?",
+      "correctAnswer": "A worldwide network that connects computers",
+      "distractors": [
+        "A single computer",
+        "A type of app",
+        "A kind of printer"
+      ],
+      "explanation": "The internet is made of cables, satellites, and routers that carry messages between millions of computers in every country.",
+      "memoryHook": "T-Rexy says: the internet connects computers everywhere!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_052",
+      "question": "What is a website?",
+      "correctAnswer": "A collection of pages on the internet you can visit",
+      "distractors": [
+        "A computer program you install",
+        "A piece of hardware",
+        "A password"
+      ],
+      "explanation": "Websites are pages stored on computers and shown in a browser.",
+      "memoryHook": "T-Rexy says: a website is a place you visit on the internet!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_053",
+      "question": "What is a web browser?",
+      "correctAnswer": "A program used to visit websites",
+      "distractors": [
+        "A search engine only",
+        "A kind of virus",
+        "A computer part"
+      ],
+      "explanation": "Browsers like Chrome show you web pages.",
+      "memoryHook": "T-Rexy says: a browser is your window to the web!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_054",
+      "question": "What is a search engine?",
+      "correctAnswer": "A tool that helps you find information on the internet",
+      "distractors": [
+        "A computer part",
+        "A type of email",
+        "A password manager"
+      ],
+      "explanation": "A search engine keeps an index - a giant list of words and the pages they appear on - and looks up your words in that list.",
+      "memoryHook": "T-Rexy says: a search engine finds answers on the web!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "search"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_055",
+      "question": "What is an email?",
+      "correctAnswer": "A message sent over the internet to someone's inbox",
+      "distractors": [
+        "A letter sent by post only",
+        "A text on paper",
+        "A phone call"
+      ],
+      "explanation": "An email travels from your outbox to a mail server, then to the other person's inbox, usually in a few seconds.",
+      "memoryHook": "T-Rexy says: email is a letter sent through the internet!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "email"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_056",
+      "question": "What is Wi-Fi?",
+      "correctAnswer": "A wireless way to connect to the internet",
+      "distractors": [
+        "A type of computer",
+        "A cable for printers",
+        "A kind of app"
+      ],
+      "explanation": "Wi-Fi sends data through the air using radio waves, so your device can reach the router without a cable.",
+      "memoryHook": "T-Rexy says: Wi-Fi connects you without wires!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "networks"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_057",
+      "question": "What is a network?",
+      "correctAnswer": "Computers connected so they can share information",
+      "distractors": [
+        "A single computer",
+        "A type of virus",
+        "A computer game"
+      ],
+      "explanation": "On a network, computers share things: one printer can serve a whole classroom, and files can move from one computer to another.",
+      "memoryHook": "T-Rexy says: a network is computers talking to each other!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "networks"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_058",
+      "question": "What is a URL?",
+      "correctAnswer": "The address of a web page",
+      "distractors": [
+        "A password",
+        "A file name",
+        "A computer virus"
+      ],
+      "explanation": "A URL has parts: the https, the website name, and the page path - together they point to one exact page.",
+      "memoryHook": "T-Rexy says: a URL is a web page's address!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_059",
+      "question": "What does 'https' at the start of a web address mean?",
+      "correctAnswer": "The connection is more secure",
+      "distractors": [
+        "The site is a game",
+        "The site is free",
+        "The site is old"
+      ],
+      "explanation": "HTTPS means the connection between you and the site is encrypted.",
+      "memoryHook": "T-Rexy says: https means a safer connection!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "security"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_060",
+      "question": "What is a download?",
+      "correctAnswer": "Copying a file from the internet onto your device",
+      "distractors": [
+        "Deleting a file",
+        "Printing a file",
+        "Sending an email"
+      ],
+      "explanation": "When you download, the file copies from a server on the internet onto your own device, where you can open it offline.",
+      "memoryHook": "T-Rexy says: downloading brings a file to your device!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_061",
+      "question": "What is an upload?",
+      "correctAnswer": "Sending a file from your device to the internet",
+      "distractors": [
+        "Deleting a file",
+        "Printing a file",
+        "Watching a video"
+      ],
+      "explanation": "Uploading is the opposite of downloading: the file copies from your device up to a server, like when you post a photo.",
+      "memoryHook": "T-Rexy says: uploading sends a file up to the internet!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_062",
+      "question": "Why can the internet be slow sometimes?",
+      "correctAnswer": "Too many people using it, or a weak connection",
+      "distractors": [
+        "The computer is too new",
+        "The screen is too bright",
+        "The keyboard is broken"
+      ],
+      "explanation": "Every user shares the same connection, so at busy times each person gets a smaller share, and a weak Wi-Fi signal drops data that must be sent again.",
+      "memoryHook": "T-Rexy says: too many users or a weak signal slows the web!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "networks"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_063",
+      "question": "What is streaming?",
+      "correctAnswer": "Watching or listening to media over the internet without downloading it",
+      "distractors": [
+        "Downloading a file",
+        "Printing a document",
+        "Sending an email"
+      ],
+      "explanation": "Streaming sends the video in small pieces and plays each piece as it arrives, so you do not wait for the whole file.",
+      "memoryHook": "T-Rexy says: streaming plays as it arrives - no waiting for a download!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "media"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_064",
+      "question": "What is a server?",
+      "correctAnswer": "A powerful computer that stores and shares information with other computers",
+      "distractors": [
+        "A person who serves food",
+        "A kind of mouse",
+        "A type of game"
+      ],
+      "explanation": "A server is a computer that stays on all day and night, waiting for requests and sending back the website or file that was asked for.",
+      "memoryHook": "T-Rexy says: a server is a super-computer that shares with others!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "networks"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_065",
+      "question": "What happens when you click a link?",
+      "correctAnswer": "The browser opens the new web page",
+      "distractors": [
+        "The computer turns off",
+        "A file is deleted",
+        "The internet stops"
+      ],
+      "explanation": "A link is a word or picture with a URL hidden behind it - clicking tells the browser to fetch that URL.",
+      "memoryHook": "T-Rexy says: a link is a door to another page!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "internet",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_066",
+      "question": "What should you never share online?",
+      "correctAnswer": "Your full name, address, school, or passwords",
+      "distractors": [
+        "Your favorite color",
+        "Your favorite book",
+        "Your favorite animal"
+      ],
+      "explanation": "Personal information can be used by strangers to find or trick you.",
+      "memoryHook": "T-Rexy says: keep personal info private - never share it online!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "privacy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_067",
+      "question": "What is a trusted adult online?",
+      "correctAnswer": "A parent, teacher, or guardian you can ask for help",
+      "distractors": [
+        "A stranger in a game",
+        "A famous YouTuber",
+        "A pop-up ad"
+      ],
+      "explanation": "A trusted adult is someone in real life who cares for you - a parent, teacher, or guardian - and they can help you decide what is safe.",
+      "memoryHook": "T-Rexy says: a trusted adult is your online safety helper!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "trusted-adults"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_068",
+      "question": "What should you do if a stranger messages you online?",
+      "correctAnswer": "Do not reply and tell a trusted adult",
+      "distractors": [
+        "Reply and share your name",
+        "Send them a photo",
+        "Meet them in person"
+      ],
+      "explanation": "You cannot know who is really behind a screen name, so never answer and show the message to a trusted adult.",
+      "memoryHook": "T-Rexy says: stranger message? Do not reply - tell an adult!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "strangers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_069",
+      "question": "What is cyberbullying?",
+      "correctAnswer": "Using the internet to hurt, scare, or embarrass someone",
+      "distractors": [
+        "Playing a game online",
+        "Sending a nice message",
+        "Sharing a funny video"
+      ],
+      "explanation": "Cyberbullying can be mean texts, embarrassing photos, or leaving someone out on purpose - and it can follow you home on your screen.",
+      "memoryHook": "T-Rexy says: cyberbullying is bullying through screens!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "cyberbullying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_070",
+      "question": "What should you do if someone is mean to you online?",
+      "correctAnswer": "Save the message, block them, and tell a trusted adult",
+      "distractors": [
+        "Be mean back",
+        "Delete everything and stay silent",
+        "Share your password"
+      ],
+      "explanation": "Saving evidence and telling an adult stops cyberbullying.",
+      "memoryHook": "T-Rexy says: save it, block them, tell an adult!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "cyberbullying"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_071",
+      "question": "What is a digital footprint?",
+      "correctAnswer": "The trail of things you do and share online",
+      "distractors": [
+        "A footprint on a beach",
+        "A kind of password",
+        "A computer virus"
+      ],
+      "explanation": "Every post, photo, and comment adds to your footprint, and others can copy or screenshot it even if you delete it.",
+      "memoryHook": "T-Rexy says: your digital footprint is your online trail!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "footprint"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_072",
+      "question": "Why should you think before you post something online?",
+      "correctAnswer": "It can stay online for a long time and be seen by many people",
+      "distractors": [
+        "Posting is always private",
+        "Posts disappear right away",
+        "Nobody ever reads posts"
+      ],
+      "explanation": "Once posted, things can be copied and shared.",
+      "memoryHook": "T-Rexy says: think before you post - the internet remembers!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "posting"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_073",
+      "question": "What is a pop-up ad?",
+      "correctAnswer": "A small window that appears, often trying to sell something",
+      "distractors": [
+        "A type of virus only",
+        "A new app",
+        "A kind of email"
+      ],
+      "explanation": "A pop-up is a small window that opens on top of a page - often an ad - and you should close it with the X, not click inside it.",
+      "memoryHook": "T-Rexy says: pop-ups are little ad windows that jump up!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "ads"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_074",
+      "question": "What should you do if a pop-up asks for your password?",
+      "correctAnswer": "Close it and tell a trusted adult",
+      "distractors": [
+        "Type your password in",
+        "Click every button",
+        "Share it with friends"
+      ],
+      "explanation": "Real sites never ask for passwords in pop-ups.",
+      "memoryHook": "T-Rexy says: never type your password into a pop-up!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "phishing"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_075",
+      "question": "What is phishing?",
+      "correctAnswer": "A trick message that tries to steal your information",
+      "distractors": [
+        "A fishing game",
+        "A kind of email from a friend",
+        "A way to catch fish"
+      ],
+      "explanation": "A phishing message copies a real company's logo and words to trick you, but its link goes to a fake site that steals what you type.",
+      "memoryHook": "T-Rexy says: phishing is a trick to steal your info!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "phishing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_076",
+      "question": "How can you tell if a website might be unsafe?",
+      "correctAnswer": "It asks for personal information, has strange spelling, or looks suspicious",
+      "distractors": [
+        "It has bright colors",
+        "It is popular",
+        "It loads quickly"
+      ],
+      "explanation": "Warning signs: the address is misspelled, there is no lock icon, or the site promises free prizes to get your information.",
+      "memoryHook": "T-Rexy says: strange requests and sloppy spelling mean be careful!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "websites"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_077",
+      "question": "What is good digital citizenship?",
+      "correctAnswer": "Using technology kindly, safely, and responsibly",
+      "distractors": [
+        "Using the computer all day",
+        "Sharing everything online",
+        "Ignoring rules online"
+      ],
+      "explanation": "Being a good digital citizen means being kind in comments, respecting other people's work, and following the rules of each site.",
+      "memoryHook": "T-Rexy says: be kind, safe, and responsible online!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "citizenship"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_078",
+      "question": "Why should you not believe everything you read online?",
+      "correctAnswer": "Some information online is false or misleading",
+      "distractors": [
+        "Everything online is true",
+        "Only adults can read online",
+        "Websites never make mistakes"
+      ],
+      "explanation": "Anyone can post online, so check facts with trusted sources.",
+      "memoryHook": "T-Rexy says: check facts - not everything online is true!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "media-literacy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_079",
+      "question": "What should you do if a game asks you to spend real money?",
+      "correctAnswer": "Ask a parent before spending anything",
+      "distractors": [
+        "Spend it right away",
+        "Use a friend's account",
+        "Hide it from your parents"
+      ],
+      "explanation": "Games can charge real money for coins or clothes for your character, and those charges go to your parent's card - so always ask first.",
+      "memoryHook": "T-Rexy says: real money in games means ask a parent first!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "money"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_080",
+      "question": "What is the best rule for meeting someone you only know online?",
+      "correctAnswer": "Never meet them in person without a parent",
+      "distractors": [
+        "Meet them alone",
+        "Meet them at night",
+        "Keep it secret from your parents"
+      ],
+      "explanation": "Online friends are strangers until a parent says otherwise.",
+      "memoryHook": "T-Rexy says: online friends stay online - never meet alone!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "safety",
+        "strangers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_081",
+      "question": "What is a pattern?",
+      "correctAnswer": "Something that repeats in a regular way",
+      "distractors": [
+        "A random mess",
+        "A type of computer",
+        "A kind of bug"
+      ],
+      "explanation": "Patterns repeat, like red, blue, red, blue.",
+      "memoryHook": "T-Rexy says: patterns repeat again and again!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "data",
+        "patterns"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_082",
+      "question": "What comes next in this pattern: 2, 4, 6, 8, ___?",
+      "correctAnswer": "10",
+      "distractors": [
+        "9",
+        "12",
+        "7"
+      ],
+      "explanation": "The pattern adds 2 each time: 8 + 2 = 10.",
+      "memoryHook": "T-Rexy says: add 2 each time - 10 comes next!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "data",
+        "patterns"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_083",
+      "question": "What comes next in this pattern: 5, 10, 15, 20, ___?",
+      "correctAnswer": "25",
+      "distractors": [
+        "30",
+        "22",
+        "21"
+      ],
+      "explanation": "The pattern adds 5 each time: 20 + 5 = 25.",
+      "memoryHook": "T-Rexy says: add 5 each time - 25 comes next!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "data",
+        "patterns"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_084",
+      "question": "What is a chart used for?",
+      "correctAnswer": "To show information in a clear, visual way",
+      "distractors": [
+        "To hide information",
+        "To play games",
+        "To store files"
+      ],
+      "explanation": "Charts turn numbers into pictures that are easy to read.",
+      "memoryHook": "T-Rexy says: charts make information easy to see!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "data",
+        "charts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_085",
+      "question": "What is a bar graph?",
+      "correctAnswer": "A chart that uses bars to compare amounts",
+      "distractors": [
+        "A chart that uses a circle",
+        "A list of words",
+        "A type of computer"
+      ],
+      "explanation": "You read a bar graph by finding the top of a bar and looking across to the number scale on the side.",
+      "memoryHook": "T-Rexy says: bars show amounts at a glance!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "data",
+        "graphs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_086",
+      "question": "If a bar graph shows 5 apples, 8 bananas, and 3 oranges, which fruit is most common?",
+      "correctAnswer": "Bananas",
+      "distractors": [
+        "Apples",
+        "Oranges",
+        "They are all equal"
+      ],
+      "explanation": "Compare the bar heights: bananas reach 8, apples reach 5, and oranges reach 3, so bananas are the most common.",
+      "memoryHook": "T-Rexy says: the tallest bar wins - bananas!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "data",
+        "graphs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_087",
+      "question": "What is sorting?",
+      "correctAnswer": "Putting things in order, like smallest to largest",
+      "distractors": [
+        "Mixing things up",
+        "Deleting things",
+        "Hiding things"
+      ],
+      "explanation": "Computers sort data to make it easy to search - for example, names in A-to-Z order or scores from highest to lowest.",
+      "memoryHook": "T-Rexy says: sorting puts things in order!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "data",
+        "sorting"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_088",
+      "question": "Put these numbers in order from smallest to largest: 9, 3, 7, 1",
+      "correctAnswer": "1, 3, 7, 9",
+      "distractors": [
+        "9, 7, 3, 1",
+        "3, 1, 9, 7",
+        "1, 7, 3, 9"
+      ],
+      "explanation": "Compare the numbers one pair at a time: 1 is smaller than 3, 3 is smaller than 7, and 7 is smaller than 9.",
+      "memoryHook": "T-Rexy says: smallest first - 1, 3, 7, 9!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "data",
+        "sorting"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_089",
+      "question": "What is an input in a computer program?",
+      "correctAnswer": "Information or data given to the program",
+      "distractors": [
+        "The result the program shows",
+        "A mistake in the code",
+        "The computer screen"
+      ],
+      "explanation": "An input can be a key press, a mouse click, or a number you type - anything the program reads in order to work.",
+      "memoryHook": "T-Rexy says: input goes in, output comes out!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "input-output"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_090",
+      "question": "What is an output in a computer program?",
+      "correctAnswer": "The result the program shows or produces",
+      "distractors": [
+        "Information given to the program",
+        "A mistake in the code",
+        "The keyboard"
+      ],
+      "explanation": "An output can be words on the screen, a sound, or a robot moving - anything the program produces after it runs.",
+      "memoryHook": "T-Rexy says: output is what the program gives back!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "input-output"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_091",
+      "question": "A vending machine takes your coins and gives you a snack. What is the input?",
+      "correctAnswer": "The coins you put in",
+      "distractors": [
+        "The snack that comes out",
+        "The machine's light",
+        "The machine's buttons"
+      ],
+      "explanation": "The machine reads the coins you put in, then follows its program: if the money is enough, it gives out the snack.",
+      "memoryHook": "T-Rexy says: coins in is the input, snack out is the output!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "input-output"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_092",
+      "question": "What does a computer need to work?",
+      "correctAnswer": "Hardware, software, and electricity",
+      "distractors": [
+        "Only a screen",
+        "Only a keyboard",
+        "Only the internet"
+      ],
+      "explanation": "Without hardware there is nothing to run on, without software there are no instructions, and without electricity nothing can switch on.",
+      "memoryHook": "T-Rexy says: parts plus programs plus power!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "review"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_093",
+      "question": "How do computers store pictures?",
+      "correctAnswer": "As data made of tiny dots called pixels",
+      "distractors": [
+        "As paint on paper",
+        "As words only",
+        "As sounds"
+      ],
+      "explanation": "Pictures are stored as grids of tiny colored dots.",
+      "memoryHook": "T-Rexy says: pictures are stored as tiny dots called pixels!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "data"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_094",
+      "question": "What is a pixel?",
+      "correctAnswer": "A tiny dot of color that makes up a picture on a screen",
+      "distractors": [
+        "A type of computer",
+        "A kind of file",
+        "A computer virus"
+      ],
+      "explanation": "Many pixels together make the images you see.",
+      "memoryHook": "T-Rexy says: pixels are the tiny dots that build pictures!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "data"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_095",
+      "question": "What is a robot's program?",
+      "correctAnswer": "Instructions that tell the robot what to do",
+      "distractors": [
+        "The robot's battery",
+        "The robot's arm",
+        "The robot's wheels"
+      ],
+      "explanation": "The robot's program is a list of steps like 'move forward, stop, pick up the block' that the robot follows exactly.",
+      "memoryHook": "T-Rexy says: a program is the robot's instruction list!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "robots"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_096",
+      "question": "Which of these can AI do?",
+      "correctAnswer": "Learn from examples to recognize patterns",
+      "distractors": [
+        "Feel emotions like a human",
+        "Be alive",
+        "Think exactly like a person"
+      ],
+      "explanation": "AI finds patterns in data, but it is not alive and does not feel.",
+      "memoryHook": "T-Rexy says: AI learns patterns from examples!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "ai"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_097",
+      "question": "Why do programmers test their code?",
+      "correctAnswer": "To find and fix mistakes before others use it",
+      "distractors": [
+        "To make it slower",
+        "To delete it",
+        "To hide it"
+      ],
+      "explanation": "Testing catches bugs early.",
+      "memoryHook": "T-Rexy says: test to catch bugs before others find them!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "testing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_098",
+      "question": "What is the best first step when your program does not work?",
+      "correctAnswer": "Check your code step by step to find the mistake",
+      "distractors": [
+        "Delete everything and start over",
+        "Give up right away",
+        "Blame the computer"
+      ],
+      "explanation": "Check the steps one at a time from the start - the first step that acts wrong is where the bug is hiding.",
+      "memoryHook": "T-Rexy says: check step by step to find the bug!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "debugging"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_099",
+      "question": "What is an event in coding?",
+      "correctAnswer": "Something that happens, like a click, that starts an action",
+      "distractors": [
+        "A type of computer",
+        "A mistake in the code",
+        "A kind of loop"
+      ],
+      "explanation": "Events like clicks or key presses trigger code.",
+      "memoryHook": "T-Rexy says: a click is an event that starts an action!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "coding",
+        "events"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CSC5_100",
+      "question": "What have you learned about computers in this pack?",
+      "correctAnswer": "Computers follow instructions using hardware and software to work with data",
+      "distractors": [
+        "Computers can think by themselves",
+        "Computers do not need people",
+        "Computers only play games"
+      ],
+      "explanation": "Computers are tools that follow human instructions.",
+      "memoryHook": "T-Rexy says: computers follow instructions - people are the real brains!",
+      "imageUrl": "topic:computers",
+      "tags": [
+        "basics",
+        "review"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

@@ -1,0 +1,2017 @@
+{
+  "packId": "gr10-english-10",
+  "title": "English 10 (10th Grade)",
+  "description": "English 10 (10th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "ela",
+    "english",
+    "10th"
+  ],
+  "questions": [
+    {
+      "id": "ENG10_001",
+      "question": "Which sentence is punctuated correctly?",
+      "correctAnswer": "She bought apples, oranges, and bananas.",
+      "distractors": [
+        "She bought apples oranges and bananas.",
+        "She bought apples, oranges and, bananas.",
+        "She bought, apples, oranges, and bananas."
+      ],
+      "explanation": "Items in a list are separated by commas, with 'and' before the last item.",
+      "memoryHook": "T-Rexy says: Commas separate items in a list.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "punctuation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_002",
+      "question": "Choose the correct word: Neither of the answers ___ correct.",
+      "correctAnswer": "is",
+      "distractors": [
+        "are",
+        "were",
+        "have been"
+      ],
+      "explanation": "Neither is singular, so it takes the singular verb 'is'.",
+      "memoryHook": "T-Rexy says: Neither is singular, so use 'is'.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "subject-verb"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_003",
+      "question": "What is the subject of the sentence: 'After school, the team practiced on the field.'?",
+      "correctAnswer": "the team",
+      "distractors": [
+        "After school",
+        "on the field",
+        "practiced"
+      ],
+      "explanation": "The subject is who or what performs the action: the team practiced.",
+      "memoryHook": "T-Rexy says: Find who does the action to find the subject.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "subject"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_004",
+      "question": "Which word is an adverb in this sentence: 'She spoke softly to the baby.'?",
+      "correctAnswer": "softly",
+      "distractors": [
+        "spoke",
+        "She",
+        "baby"
+      ],
+      "explanation": "Softly modifies the verb spoke, so it is an adverb.",
+      "memoryHook": "T-Rexy says: Adverbs often end in -ly and describe verbs.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "adverbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_005",
+      "question": "Which sentence uses a semicolon correctly?",
+      "correctAnswer": "I finished my homework; then I went outside.",
+      "distractors": [
+        "I finished my homework; and then I went outside.",
+        "I finished; my homework then I went outside.",
+        "I finished my homework; I went outside, and."
+      ],
+      "explanation": "A semicolon joins two closely related independent clauses.",
+      "memoryHook": "T-Rexy says: A semicolon joins two complete thoughts.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "punctuation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_006",
+      "question": "What is a run-on sentence?",
+      "correctAnswer": "Two complete sentences joined without proper punctuation",
+      "distractors": [
+        "A sentence that is too long",
+        "A sentence with a spelling error",
+        "A sentence that asks a question"
+      ],
+      "explanation": "A run-on joins two independent clauses with no punctuation or conjunction.",
+      "memoryHook": "T-Rexy says: A run-on smashes two sentences together.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "sentences"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_007",
+      "question": "Choose the correct pronoun: 'Between you and ___, this is a secret.'",
+      "correctAnswer": "me",
+      "distractors": [
+        "I",
+        "myself",
+        "mine"
+      ],
+      "explanation": "After a preposition like 'between', use the object pronoun 'me'.",
+      "memoryHook": "T-Rexy says: Prepositions take object pronouns like me.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "pronouns"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_008",
+      "question": "Which sentence is in the passive voice?",
+      "correctAnswer": "The ball was thrown by the pitcher.",
+      "distractors": [
+        "The pitcher threw the ball.",
+        "The pitcher is throwing the ball.",
+        "The ball flew over the fence."
+      ],
+      "explanation": "In passive voice, the subject receives the action: the ball was thrown.",
+      "memoryHook": "T-Rexy says: Passive voice flips who does the action.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "voice"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_009",
+      "question": "What is the direct object in: 'Maria wrote a letter.'?",
+      "correctAnswer": "a letter",
+      "distractors": [
+        "Maria",
+        "wrote",
+        "a"
+      ],
+      "explanation": "The direct object receives the action of the verb: Maria wrote what? A letter.",
+      "memoryHook": "T-Rexy says: Ask what or whom after the verb to find the object.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "objects"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_010",
+      "question": "Which word is a conjunction?",
+      "correctAnswer": "although",
+      "distractors": [
+        "quickly",
+        "happiness",
+        "under"
+      ],
+      "explanation": "Although joins clauses, so it is a subordinating conjunction.",
+      "memoryHook": "T-Rexy says: Conjunctions join words and clauses.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "conjunctions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_011",
+      "question": "Identify the prepositional phrase: 'The book on the shelf is mine.'",
+      "correctAnswer": "on the shelf",
+      "distractors": [
+        "The book",
+        "is mine",
+        "The book on"
+      ],
+      "explanation": "On the shelf begins with the preposition 'on' and ends with the object 'shelf'.",
+      "memoryHook": "T-Rexy says: A prepositional phrase starts with a preposition.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "phrases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_012",
+      "question": "Which sentence contains a misplaced modifier?",
+      "correctAnswer": "Running late, the bus left without Maria.",
+      "distractors": [
+        "Maria ran to catch the bus.",
+        "The bus left without Maria, who was running late.",
+        "Running late, Maria missed the bus."
+      ],
+      "explanation": "Running late should describe Maria, not the bus.",
+      "memoryHook": "T-Rexy says: A modifier must sit next to what it describes.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "modifiers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_013",
+      "question": "What is the past participle of 'to write'?",
+      "correctAnswer": "written",
+      "distractors": [
+        "wrote",
+        "writing",
+        "writes"
+      ],
+      "explanation": "The past participle of write is written, used with have or be.",
+      "memoryHook": "T-Rexy says: Written is the form used with has or was.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "verbs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_014",
+      "question": "Which is the correct comparative form of 'good'?",
+      "correctAnswer": "better",
+      "distractors": [
+        "gooder",
+        "more good",
+        "best"
+      ],
+      "explanation": "Good becomes better in the comparative and best in the superlative.",
+      "memoryHook": "T-Rexy says: Good, better, best.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "adjectives"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_015",
+      "question": "What does an apostrophe show in 'the dog's leash'?",
+      "correctAnswer": "Possession",
+      "distractors": [
+        "A contraction",
+        "A plural",
+        "A quotation"
+      ],
+      "explanation": "The apostrophe plus s shows the leash belongs to the dog.",
+      "memoryHook": "T-Rexy says: Apostrophe s shows ownership.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "punctuation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_016",
+      "question": "Which sentence uses 'their', 'there', and 'they're' correctly?",
+      "correctAnswer": "They're going over there to pick up their books.",
+      "distractors": [
+        "Their going over they're to pick up there books.",
+        "There going over their to pick up they're books.",
+        "They're going over their to pick up there books."
+      ],
+      "explanation": "They're means they are, there is a place, and their shows possession.",
+      "memoryHook": "T-Rexy says: They're is they are, there is a place, their is possession.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "homophones"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_017",
+      "question": "What is an independent clause?",
+      "correctAnswer": "A group of words with a subject and verb that can stand alone",
+      "distractors": [
+        "A phrase without a verb",
+        "A group of words that cannot stand alone",
+        "A single word"
+      ],
+      "explanation": "An independent clause has its own subject and verb and expresses a complete thought, so it can stand alone as a sentence - unlike a dependent clause, which cannot.",
+      "memoryHook": "T-Rexy says: An independent clause can stand alone.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "clauses"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_018",
+      "question": "Which sentence is a complex sentence?",
+      "correctAnswer": "Although it rained, we played soccer.",
+      "distractors": [
+        "We played soccer and won.",
+        "It rained.",
+        "We played soccer; we won."
+      ],
+      "explanation": "A complex sentence has one independent clause and at least one dependent clause.",
+      "memoryHook": "T-Rexy says: Complex sentences mix dependent and independent clauses.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "sentences"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_019",
+      "question": "Choose the correct verb: 'The class of students ___ going on a field trip.'",
+      "correctAnswer": "is",
+      "distractors": [
+        "are",
+        "were",
+        "have"
+      ],
+      "explanation": "Class is a collective noun treated as singular here, so use 'is'.",
+      "memoryHook": "T-Rexy says: A collective noun acting as one unit takes a singular verb.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "subject-verb"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_020",
+      "question": "What is the function of a colon?",
+      "correctAnswer": "To introduce a list or explanation",
+      "distractors": [
+        "To join two words",
+        "To show possession",
+        "To end a sentence"
+      ],
+      "explanation": "A colon introduces a list, a quote, or an explanation.",
+      "memoryHook": "T-Rexy says: A colon says here comes a list or explanation.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "punctuation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_021",
+      "question": "Which word is the antecedent of 'it' in: 'The dog chased its tail until it got tired.'?",
+      "correctAnswer": "The dog",
+      "distractors": [
+        "tail",
+        "chased",
+        "tired"
+      ],
+      "explanation": "Work backward from the pronoun: a tail cannot get tired, so 'it' must point to the dog. The noun a pronoun replaces is its antecedent.",
+      "memoryHook": "T-Rexy says: An antecedent is the noun a pronoun replaces.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "pronouns"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_022",
+      "question": "What is a gerund?",
+      "correctAnswer": "A verb form ending in -ing that acts as a noun",
+      "distractors": [
+        "A verb in the past tense",
+        "An adjective describing a noun",
+        "A word that joins clauses"
+      ],
+      "explanation": "A gerund is an -ing verb form used as a noun, as in 'Swimming is fun'.",
+      "memoryHook": "T-Rexy says: Swimming as a subject is a gerund.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "gerunds"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_023",
+      "question": "Which sentence has correct subject-verb agreement?",
+      "correctAnswer": "The dogs bark at strangers.",
+      "distractors": [
+        "The dogs barks at strangers.",
+        "The dog bark at strangers.",
+        "The dogs barking at strangers."
+      ],
+      "explanation": "Dogs is plural, so it takes the plural verb form 'bark' (no -s). Note that 'The dogs barking at strangers' is not a sentence at all - it has no main verb.",
+      "memoryHook": "T-Rexy says: Plural subjects take plural verbs.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "subject-verb"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_024",
+      "question": "What is the difference between 'affect' and 'effect'?",
+      "correctAnswer": "Affect is usually a verb; effect is usually a noun",
+      "distractors": [
+        "They are spelled the same",
+        "Effect is a verb; affect is a noun",
+        "There is no difference"
+      ],
+      "explanation": "Affect means to influence (verb); effect means a result (noun).",
+      "memoryHook": "T-Rexy says: Affect is the action, effect is the result.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_025",
+      "question": "Which punctuation ends an interrogative sentence?",
+      "correctAnswer": "A question mark",
+      "distractors": [
+        "A period",
+        "An exclamation point",
+        "A comma"
+      ],
+      "explanation": "Each sentence type has its end mark: a declarative sentence ends with a period, an interrogative (question) sentence with a question mark, and an exclamatory sentence with an exclamation point.",
+      "memoryHook": "T-Rexy says: Questions end with question marks.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "punctuation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_026",
+      "question": "What is a fragment?",
+      "correctAnswer": "An incomplete sentence missing a subject or verb",
+      "distractors": [
+        "A very long sentence",
+        "A sentence with two clauses",
+        "A sentence in passive voice"
+      ],
+      "explanation": "A fragment is missing a subject, a verb, or a complete thought.",
+      "memoryHook": "T-Rexy says: A fragment is an unfinished sentence.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "sentences"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_027",
+      "question": "Which sentence uses parallel structure correctly?",
+      "correctAnswer": "She likes reading, writing, and swimming.",
+      "distractors": [
+        "She likes reading, to write, and swimming.",
+        "She likes to read, writing, and to swim.",
+        "She likes reading, writing, and to swim."
+      ],
+      "explanation": "Parallel structure keeps items in the same grammatical form: all gerunds here.",
+      "memoryHook": "T-Rexy says: Parallel structure keeps the pattern the same.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "parallelism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_028",
+      "question": "What is the superlative form of 'fast'?",
+      "correctAnswer": "fastest",
+      "distractors": [
+        "faster",
+        "more fast",
+        "fastestest"
+      ],
+      "explanation": "Fast becomes faster (comparative) and fastest (superlative).",
+      "memoryHook": "T-Rexy says: Fast, faster, fastest.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_029",
+      "question": "Choose the correct word: 'The teacher gave the award to Sam and ___.'",
+      "correctAnswer": "me",
+      "distractors": [
+        "I",
+        "myself",
+        "mine"
+      ],
+      "explanation": "The object of the preposition 'to' takes the object pronoun 'me'.",
+      "memoryHook": "T-Rexy says: Objects take me, him, her, us, them.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "pronouns"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_030",
+      "question": "What is an appositive?",
+      "correctAnswer": "A noun or phrase that renames another noun",
+      "distractors": [
+        "A verb that shows action",
+        "An adjective that compares",
+        "A clause that asks a question"
+      ],
+      "explanation": "An appositive renames a nearby noun, as in 'My friend Ana, a talented singer, performed'.",
+      "memoryHook": "T-Rexy says: An appositive renames a noun right beside it.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "grammar",
+        "appositives"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_031",
+      "question": "What does the root 'bene' mean?",
+      "correctAnswer": "Good",
+      "distractors": [
+        "Bad",
+        "Life",
+        "To write"
+      ],
+      "explanation": "Bene means good, as in benefit and benevolent.",
+      "memoryHook": "T-Rexy says: Bene means good, like benefit.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "roots"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_032",
+      "question": "What does the prefix 'un-' mean?",
+      "correctAnswer": "Not",
+      "distractors": [
+        "Again",
+        "Before",
+        "Under"
+      ],
+      "explanation": "Un- means not, as in unhappy and unfair.",
+      "memoryHook": "T-Rexy says: Un- flips a word to its opposite.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "prefixes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_033",
+      "question": "What does the word 'meticulous' mean?",
+      "correctAnswer": "Showing great attention to detail",
+      "distractors": [
+        "Careless and rushed",
+        "Angry and loud",
+        "Brave and bold"
+      ],
+      "explanation": "Meticulous is the opposite of careless: a meticulous worker measures twice, checks every detail, and leaves nothing to chance.",
+      "memoryHook": "T-Rexy says: A meticulous person checks every detail.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "definitions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_034",
+      "question": "What is a synonym for 'benevolent'?",
+      "correctAnswer": "Kind",
+      "distractors": [
+        "Cruel",
+        "Selfish",
+        "Rude"
+      ],
+      "explanation": "Benevolent is built on 'bene' (good): a benevolent person wants good for others and gives time or money to help them, so 'kind' is the match.",
+      "memoryHook": "T-Rexy says: Benevolent means kind-hearted.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "synonyms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_035",
+      "question": "What is an antonym for 'candid'?",
+      "correctAnswer": "Dishonest or evasive",
+      "distractors": [
+        "Honest",
+        "Open",
+        "Frank"
+      ],
+      "explanation": "Candid means frank and honest, so its opposite is dishonest or evasive.",
+      "memoryHook": "T-Rexy says: Candid means bluntly honest.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "antonyms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_036",
+      "question": "What does the root 'chron' mean?",
+      "correctAnswer": "Time",
+      "distractors": [
+        "Color",
+        "Sound",
+        "Earth"
+      ],
+      "explanation": "Chron means time, as in chronology and chronic.",
+      "memoryHook": "T-Rexy says: Chron is about time, like a chronology.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "roots"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_037",
+      "question": "What does the suffix '-ology' mean?",
+      "correctAnswer": "The study of",
+      "distractors": [
+        "The fear of",
+        "The love of",
+        "The art of"
+      ],
+      "explanation": "The suffix -ology means the study of something, as in biology.",
+      "memoryHook": "T-Rexy says: Biology is the study of life.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "suffixes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_038",
+      "question": "What does 'ambiguous' mean?",
+      "correctAnswer": "Open to more than one interpretation",
+      "distractors": [
+        "Perfectly clear",
+        "Completely false",
+        "Very old"
+      ],
+      "explanation": "An ambiguous statement can be read two ways at once - 'I saw her duck' could mean an animal or a quick bend - and that double meaning is what makes it unclear.",
+      "memoryHook": "T-Rexy says: Ambiguous means it could mean two things.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "definitions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_039",
+      "question": "Which word best fits: 'The ___ student finished the exam in ten minutes.'",
+      "correctAnswer": "diligent",
+      "distractors": [
+        "lethargic",
+        "apathetic",
+        "negligent"
+      ],
+      "explanation": "Diligent means hardworking and careful, fitting a student who finishes quickly and well.",
+      "memoryHook": "T-Rexy says: Diligent means hardworking.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "context"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_040",
+      "question": "What does the root 'dict' mean?",
+      "correctAnswer": "To say or speak",
+      "distractors": [
+        "To write",
+        "To lead",
+        "To see"
+      ],
+      "explanation": "Dict means to say, as in dictate and dictionary.",
+      "memoryHook": "T-Rexy says: Dictate and dictionary share the root dict.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "roots"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_041",
+      "question": "What is the meaning of 'pragmatic'?",
+      "correctAnswer": "Practical and realistic",
+      "distractors": [
+        "Idealistic and dreamy",
+        "Emotional and impulsive",
+        "Strict and formal"
+      ],
+      "explanation": "A pragmatic leader picks the plan that actually works with the budget and time available, even when it is not the ideal plan.",
+      "memoryHook": "T-Rexy says: Pragmatic means practical.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "definitions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_042",
+      "question": "What does the prefix 're-' mean?",
+      "correctAnswer": "Again",
+      "distractors": [
+        "Before",
+        "Against",
+        "Under"
+      ],
+      "explanation": "Re- means again, as in redo and replay.",
+      "memoryHook": "T-Rexy says: Re- means do it again.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "prefixes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_043",
+      "question": "Which word is a synonym for 'obsolete'?",
+      "correctAnswer": "Outdated",
+      "distractors": [
+        "Modern",
+        "Useful",
+        "New"
+      ],
+      "explanation": "Obsolete things have been replaced and fallen out of use - like pay phones, floppy disks, and VHS tapes.",
+      "memoryHook": "T-Rexy says: Obsolete means outdated.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "synonyms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_044",
+      "question": "What does 'empathy' mean?",
+      "correctAnswer": "Understanding and sharing another person's feelings",
+      "distractors": [
+        "Feeling sorry for oneself",
+        "Judging others harshly",
+        "Ignoring others' problems"
+      ],
+      "explanation": "Empathy goes beyond sympathy (feeling sorry for someone): it means feeling with the person, imagining the situation from inside their experience.",
+      "memoryHook": "T-Rexy says: Empathy is walking in someone else's shoes.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "definitions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_045",
+      "question": "What does the root 'port' mean?",
+      "correctAnswer": "To carry",
+      "distractors": [
+        "To write",
+        "To build",
+        "To see"
+      ],
+      "explanation": "Port means to carry, as in transport and portable.",
+      "memoryHook": "T-Rexy says: Transport means to carry across.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "roots"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_046",
+      "question": "What does 'resilient' mean?",
+      "correctAnswer": "Able to recover quickly from difficulties",
+      "distractors": [
+        "Easily broken",
+        "Slow to learn",
+        "Afraid of change"
+      ],
+      "explanation": "Picture a rubber band: resilient people and materials get stretched by setbacks but snap back to their original shape instead of breaking.",
+      "memoryHook": "T-Rexy says: Resilient people bounce back.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "definitions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_047",
+      "question": "What is an antonym for 'scarce'?",
+      "correctAnswer": "Abundant",
+      "distractors": [
+        "Rare",
+        "Limited",
+        "Costly"
+      ],
+      "explanation": "Scarce means in short supply; abundant means plentiful.",
+      "memoryHook": "T-Rexy says: Scarce is rare, abundant is plenty.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "antonyms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_048",
+      "question": "What does the suffix '-less' mean?",
+      "correctAnswer": "Without",
+      "distractors": [
+        "Full of",
+        "Made of",
+        "Capable of"
+      ],
+      "explanation": "The suffix -less means without, as in hopeless and fearless.",
+      "memoryHook": "T-Rexy says: Fearless means without fear.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "suffixes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_049",
+      "question": "Which word best completes the sentence: 'The witness gave a ___ account of the accident.'",
+      "correctAnswer": "credible",
+      "distractors": [
+        "dubious",
+        "fabricated",
+        "vague"
+      ],
+      "explanation": "Credible means believable and trustworthy, fitting a reliable witness.",
+      "memoryHook": "T-Rexy says: Credible means believable.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "context"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_050",
+      "question": "What does 'candid' mean?",
+      "correctAnswer": "Frank and honest",
+      "distractors": [
+        "Secretive",
+        "Rude",
+        "Confused"
+      ],
+      "explanation": "A candid speaker says what he really thinks without hiding or softening it - the opposite of secretive.",
+      "memoryHook": "T-Rexy says: Candid means straight-up honest.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "vocabulary",
+        "definitions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_051",
+      "question": "What is a metaphor?",
+      "correctAnswer": "A comparison of two unlike things without using like or as",
+      "distractors": [
+        "A comparison using like or as",
+        "An exaggeration for effect",
+        "A reference to another work"
+      ],
+      "explanation": "A metaphor says one thing is another, as in 'Time is a thief'.",
+      "memoryHook": "T-Rexy says: A metaphor says something is something else.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "metaphor"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_052",
+      "question": "What is a simile?",
+      "correctAnswer": "A comparison using like or as",
+      "distractors": [
+        "A comparison without like or as",
+        "Giving human traits to objects",
+        "Repeating the same sound"
+      ],
+      "explanation": "A simile compares two things with like or as, as in 'brave as a lion'.",
+      "memoryHook": "T-Rexy says: Similes use like or as.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "simile"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_053",
+      "question": "What is personification?",
+      "correctAnswer": "Giving human qualities to nonhuman things",
+      "distractors": [
+        "Comparing two things with like",
+        "Exaggerating for humor",
+        "Repeating initial sounds"
+      ],
+      "explanation": "Personification gives human traits to objects or animals, as in 'the wind whispered'.",
+      "memoryHook": "T-Rexy says: The wind whispered is personification.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "personification"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_054",
+      "question": "What is alliteration?",
+      "correctAnswer": "Repeating the same beginning sound in nearby words",
+      "distractors": [
+        "Repeating vowel sounds",
+        "A comparison using like",
+        "A contradiction in terms"
+      ],
+      "explanation": "Alliteration repeats initial consonant sounds, as in 'Peter Piper picked'.",
+      "memoryHook": "T-Rexy says: Alliteration repeats starting sounds.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "alliteration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_055",
+      "question": "What is hyperbole?",
+      "correctAnswer": "An extreme exaggeration for effect",
+      "distractors": [
+        "A mild understatement",
+        "A direct comparison",
+        "A factual statement"
+      ],
+      "explanation": "Hyperbole is deliberate exaggeration, as in 'I have told you a million times'.",
+      "memoryHook": "T-Rexy says: Hyperbole exaggerates on purpose.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "hyperbole"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_056",
+      "question": "What is irony?",
+      "correctAnswer": "When the opposite of what is expected happens",
+      "distractors": [
+        "When two things are alike",
+        "When a character speaks directly",
+        "When a story ends happily"
+      ],
+      "explanation": "Irony is the gap between expectation and reality - a fire station burning down, or a lifeguard who cannot swim.",
+      "memoryHook": "T-Rexy says: Irony is when the opposite happens.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "irony"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_057",
+      "question": "What is foreshadowing?",
+      "correctAnswer": "Hints or clues about what will happen later in a story",
+      "distractors": [
+        "A flashback to the past",
+        "The main conflict",
+        "The final resolution"
+      ],
+      "explanation": "Writers foreshadow with early details - storm clouds, a nervous glance, a weapon mentioned in chapter one - that only pay off later.",
+      "memoryHook": "T-Rexy says: Foreshadowing hints at what comes next.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "foreshadowing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_058",
+      "question": "What is the theme of a story?",
+      "correctAnswer": "Its central message or lesson",
+      "distractors": [
+        "Its setting",
+        "Its main character",
+        "Its plot twists"
+      ],
+      "explanation": "Theme is not the plot, and not a single word like 'love': it is the message the whole story builds about life, such as 'greed destroys happiness.'",
+      "memoryHook": "T-Rexy says: Theme is the big idea of the story.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "theme"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_059",
+      "question": "What is the climax of a story?",
+      "correctAnswer": "The turning point of highest tension",
+      "distractors": [
+        "The introduction of characters",
+        "The final sentence",
+        "The background description"
+      ],
+      "explanation": "Everything in the plot builds toward the climax and falls away after it - it is the showdown or decision the whole story has been aiming at.",
+      "memoryHook": "T-Rexy says: The climax is the story's peak.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "plot"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_060",
+      "question": "What is a protagonist?",
+      "correctAnswer": "The main character of a story",
+      "distractors": [
+        "The villain",
+        "The narrator only",
+        "A minor character"
+      ],
+      "explanation": "The protagonist is whoever the story follows and whose choices drive the plot - usually the hero, but sometimes an antihero or even a villain.",
+      "memoryHook": "T-Rexy says: The protagonist is the character the story follows.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "character"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_061",
+      "question": "What is an antagonist?",
+      "correctAnswer": "A character or force that opposes the protagonist",
+      "distractors": [
+        "The main character",
+        "The author",
+        "The narrator"
+      ],
+      "explanation": "Without an antagonist there is no conflict: the blocker can be a villain, a storm, or the hero's own fear - anything that stands in the protagonist's way.",
+      "memoryHook": "T-Rexy says: The antagonist blocks the hero.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "character"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_062",
+      "question": "What is point of view?",
+      "correctAnswer": "The perspective from which a story is told",
+      "distractors": [
+        "The setting of a story",
+        "The moral of a story",
+        "The length of a story"
+      ],
+      "explanation": "Point of view is who tells the story, such as first person or third person.",
+      "memoryHook": "T-Rexy says: Point of view is who is telling the story.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "point-of-view"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_063",
+      "question": "What is first-person point of view?",
+      "correctAnswer": "The narrator is a character using 'I' and 'we'",
+      "distractors": [
+        "The narrator knows all thoughts",
+        "The narrator is outside the story",
+        "The narrator addresses the reader as 'you'"
+      ],
+      "explanation": "First person uses I and we, with the narrator inside the story.",
+      "memoryHook": "T-Rexy says: First person means I am in the story.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "point-of-view"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_064",
+      "question": "What is an allusion?",
+      "correctAnswer": "A brief reference to another work, person, or event",
+      "distractors": [
+        "A long description of a place",
+        "A direct quote from the Bible only",
+        "A type of poem"
+      ],
+      "explanation": "An allusion is an indirect reference, like calling a betrayal a Judas moment.",
+      "memoryHook": "T-Rexy says: An allusion is a quick nod to something famous.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "allusion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_065",
+      "question": "What is imagery?",
+      "correctAnswer": "Language that appeals to the five senses",
+      "distractors": [
+        "A type of rhyme",
+        "A short summary",
+        "A list of characters"
+      ],
+      "explanation": "Imagery uses vivid sensory detail to help readers see, hear, smell, taste, or feel.",
+      "memoryHook": "T-Rexy says: Imagery paints pictures with words.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "imagery"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_066",
+      "question": "What is a flashback?",
+      "correctAnswer": "A scene that interrupts the present to show the past",
+      "distractors": [
+        "A prediction of the future",
+        "A dream sequence only",
+        "The story's ending"
+      ],
+      "explanation": "A flashback is a jump cut to an earlier time - often signaled by a memory or by words like 'ten years earlier' - that explains something about the present.",
+      "memoryHook": "T-Rexy says: A flashback rewinds the story.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "flashback"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_067",
+      "question": "What is the setting of a story?",
+      "correctAnswer": "The time and place where it happens",
+      "distractors": [
+        "The main character's job",
+        "The story's moral",
+        "The author's background"
+      ],
+      "explanation": "Setting answers two questions at once: when (the time period) and where (the place) - for example, 'a small Arizona town in 1962.'",
+      "memoryHook": "T-Rexy says: Setting is time and place.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "setting"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_068",
+      "question": "What is a symbol?",
+      "correctAnswer": "An object or image that stands for a larger idea",
+      "distractors": [
+        "A character's name",
+        "A type of punctuation",
+        "A chapter heading"
+      ],
+      "explanation": "A symbol represents something beyond itself, like a dove for peace.",
+      "memoryHook": "T-Rexy says: A dove can symbolize peace.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "symbolism"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_069",
+      "question": "What is tone in writing?",
+      "correctAnswer": "The author's attitude toward the subject",
+      "distractors": [
+        "The volume of the narrator's voice",
+        "The length of sentences",
+        "The number of characters"
+      ],
+      "explanation": "Tone is the author's attitude, such as serious, playful, or sarcastic.",
+      "memoryHook": "T-Rexy says: Tone is the author's attitude.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "tone"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_070",
+      "question": "What is mood in literature?",
+      "correctAnswer": "The feeling or atmosphere a reader experiences",
+      "distractors": [
+        "The author's biography",
+        "The story's length",
+        "The main character's job"
+      ],
+      "explanation": "Mood belongs to the reader, not the author: descriptive word choices build an atmosphere - eerie, cheerful, tense - that the reader feels.",
+      "memoryHook": "T-Rexy says: Mood is how the story makes you feel.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "mood"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_071",
+      "question": "What is an oxymoron?",
+      "correctAnswer": "Two contradictory words placed together, like 'deafening silence'",
+      "distractors": [
+        "Two words that rhyme",
+        "A long list of adjectives",
+        "A question with no answer"
+      ],
+      "explanation": "An oxymoron combines opposites, such as jumbo shrimp or bittersweet.",
+      "memoryHook": "T-Rexy says: Deafening silence is an oxymoron.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "oxymoron"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_072",
+      "question": "What is onomatopoeia?",
+      "correctAnswer": "A word that imitates a sound, like 'buzz' or 'crash'",
+      "distractors": [
+        "A word with a silent letter",
+        "A word borrowed from French",
+        "A word with two meanings"
+      ],
+      "explanation": "Onomatopoeia copies a real sound in letters: cows 'moo', machines 'vroom', and water goes 'splash'.",
+      "memoryHook": "T-Rexy says: Buzz and crash sound like what they mean.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "onomatopoeia"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_073",
+      "question": "What is a stanza?",
+      "correctAnswer": "A group of lines in a poem",
+      "distractors": [
+        "A type of rhyme",
+        "The title of a poem",
+        "A single line of poetry"
+      ],
+      "explanation": "Like paragraphs in an essay, stanzas group a poem's lines into units; a four-line stanza is called a quatrain.",
+      "memoryHook": "T-Rexy says: A stanza is a paragraph of poetry.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "poetry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_074",
+      "question": "What is rhyme scheme?",
+      "correctAnswer": "The pattern of rhymes at the ends of lines in a poem",
+      "distractors": [
+        "The number of syllables in a line",
+        "The theme of a poem",
+        "The author's writing style"
+      ],
+      "explanation": "Rhyme scheme is the pattern of end rhymes, labeled with letters like ABAB.",
+      "memoryHook": "T-Rexy says: ABAB is a rhyme scheme.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_075",
+      "question": "What is dramatic irony?",
+      "correctAnswer": "When the audience knows something the character does not",
+      "distractors": [
+        "When a character lies to the audience",
+        "When two characters argue",
+        "When the ending is happy"
+      ],
+      "explanation": "In dramatic irony the audience holds information a character lacks - we know the killer is inside the house while the character calmly walks in.",
+      "memoryHook": "T-Rexy says: Dramatic irony is when you know what the character does not.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "literature",
+        "irony"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_076",
+      "question": "What is the main idea of a passage?",
+      "correctAnswer": "Its central point or most important message",
+      "distractors": [
+        "Its first sentence only",
+        "A minor detail",
+        "Its longest paragraph"
+      ],
+      "explanation": "To find the main idea, ask what most of the passage's details support: the details are the evidence, and the main idea is the point they prove.",
+      "memoryHook": "T-Rexy says: The main idea is what the passage is mostly about.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "reading",
+        "main-idea"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_077",
+      "question": "What is a thesis statement?",
+      "correctAnswer": "The central claim of an essay, usually in the introduction",
+      "distractors": [
+        "The last sentence of an essay",
+        "A list of sources",
+        "A personal opinion with no evidence"
+      ],
+      "explanation": "A thesis is more than a topic: it takes a position - 'School uniforms should be banned because...' - that the whole essay must then defend.",
+      "memoryHook": "T-Rexy says: A thesis is the essay's main claim.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "thesis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_078",
+      "question": "What is the purpose of a topic sentence?",
+      "correctAnswer": "To state the main idea of a paragraph",
+      "distractors": [
+        "To end an essay",
+        "To quote a source",
+        "To ask a question"
+      ],
+      "explanation": "Read the topic sentence and you know the paragraph's single job; every other sentence in that paragraph should support it.",
+      "memoryHook": "T-Rexy says: A topic sentence tells what the paragraph will prove.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "paragraphs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_079",
+      "question": "What is the difference between a fact and an opinion?",
+      "correctAnswer": "A fact can be proven; an opinion is a belief or judgment",
+      "distractors": [
+        "There is no difference",
+        "Facts are always long",
+        "Opinions are always wrong"
+      ],
+      "explanation": "Test it: a fact can be checked and proven ('Water boils at 100 degrees Celsius'), but an opinion uses judgment words like 'best' or 'boring' that can never be proven.",
+      "memoryHook": "T-Rexy says: Facts can be proven, opinions cannot.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "reading",
+        "fact-opinion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_080",
+      "question": "What is an inference?",
+      "correctAnswer": "A conclusion drawn from evidence and reasoning",
+      "distractors": [
+        "A direct quote",
+        "A summary of the plot",
+        "A guess with no evidence"
+      ],
+      "explanation": "An inference combines what the text says with what you know to reach a conclusion.",
+      "memoryHook": "T-Rexy says: An inference is a smart conclusion from clues.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "reading",
+        "inference"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_081",
+      "question": "What does it mean to cite evidence?",
+      "correctAnswer": "To quote or refer to specific text that supports a claim",
+      "distractors": [
+        "To copy an entire passage",
+        "To ignore the text",
+        "To summarize without proof"
+      ],
+      "explanation": "Citing means naming the exact line or detail - quoting 'the door was already open,' for example - not just saying 'the text shows it.'",
+      "memoryHook": "T-Rexy says: Cite the text to prove your point.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "reading",
+        "evidence"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_082",
+      "question": "What is the author's purpose in a persuasive essay?",
+      "correctAnswer": "To convince the reader to agree or act",
+      "distractors": [
+        "To entertain with a story",
+        "To describe a place",
+        "To explain a process neutrally"
+      ],
+      "explanation": "Persuasive essays argue one side: signal words like 'should', 'must', and 'it is time to' show the writer wants the reader to agree or act.",
+      "memoryHook": "T-Rexy says: Persuasion tries to convince you.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "reading",
+        "authors-purpose"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_083",
+      "question": "What is a counterargument?",
+      "correctAnswer": "An opposing viewpoint that the writer addresses and refutes",
+      "distractors": [
+        "The main argument of an essay",
+        "A personal story",
+        "A list of facts"
+      ],
+      "explanation": "A counterargument acknowledges the other side and explains why it is weaker.",
+      "memoryHook": "T-Rexy says: A counterargument faces the other side head-on.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "argument"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_084",
+      "question": "What is the purpose of a conclusion paragraph?",
+      "correctAnswer": "To restate the thesis and summarize the main points",
+      "distractors": [
+        "To introduce new evidence",
+        "To ask a new question",
+        "To list sources"
+      ],
+      "explanation": "A conclusion mirrors the introduction in reverse: restate the thesis in fresh words and recap the strongest points. New evidence belongs in the body, not here.",
+      "memoryHook": "T-Rexy says: A conclusion wraps up, it does not start new ideas.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "conclusions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_085",
+      "question": "What is bias in a text?",
+      "correctAnswer": "A one-sided view that favors one perspective",
+      "distractors": [
+        "A balanced presentation",
+        "A factual error",
+        "A spelling mistake"
+      ],
+      "explanation": "Bias is a leaning toward one side, often by selecting or framing facts.",
+      "memoryHook": "T-Rexy says: Bias leans to one side.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "reading",
+        "bias"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_086",
+      "question": "Which text structure compares similarities and differences?",
+      "correctAnswer": "Compare and contrast",
+      "distractors": [
+        "Cause and effect",
+        "Chronological order",
+        "Problem and solution"
+      ],
+      "explanation": "Writers signal this structure with words like 'similarly', 'unlike', 'both', and 'in contrast' as they move between the two subjects.",
+      "memoryHook": "T-Rexy says: Compare and contrast shows alike and different.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "reading",
+        "text-structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_087",
+      "question": "What is chronological order?",
+      "correctAnswer": "Events arranged in the order they happened",
+      "distractors": [
+        "Events arranged by importance",
+        "Events arranged by location",
+        "Events arranged randomly"
+      ],
+      "explanation": "Chronological order runs on time clues - 'first', 'then', 'in 1962', 'finally' - so the reader can rebuild the timeline in sequence.",
+      "memoryHook": "T-Rexy says: Chronological order follows the clock.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "reading",
+        "text-structure"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_088",
+      "question": "What is the purpose of a transition word like 'however'?",
+      "correctAnswer": "To show a contrast between ideas",
+      "distractors": [
+        "To show time passing",
+        "To add an example",
+        "To end a paragraph"
+      ],
+      "explanation": "'However' is a turn signal: it warns the reader that the next idea pushes against the one before it, the way 'but' links two opposing clauses.",
+      "memoryHook": "T-Rexy says: However means but in fancy dress.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "transitions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_089",
+      "question": "What is a primary source?",
+      "correctAnswer": "A firsthand account from the time being studied",
+      "distractors": [
+        "A textbook summary",
+        "A modern movie about the past",
+        "An encyclopedia article"
+      ],
+      "explanation": "Primary sources are original materials from the period, like letters, diaries, and speeches.",
+      "memoryHook": "T-Rexy says: A diary from 1863 is a primary source.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "reading",
+        "sources"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_090",
+      "question": "What is a secondary source?",
+      "correctAnswer": "A work that analyzes or interprets primary sources",
+      "distractors": [
+        "A diary from the period",
+        "An original photograph",
+        "A speech given at the time"
+      ],
+      "explanation": "Secondary sources, like textbooks, interpret primary evidence.",
+      "memoryHook": "T-Rexy says: A textbook is a secondary source.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "reading",
+        "sources"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_091",
+      "question": "What does 'analyze' mean when reading a text?",
+      "correctAnswer": "To break it into parts and examine how they work together",
+      "distractors": [
+        "To memorize it word for word",
+        "To summarize it in one sentence",
+        "To translate it into another language"
+      ],
+      "explanation": "To analyze is to examine parts, patterns, and relationships to understand meaning.",
+      "memoryHook": "T-Rexy says: Analyze means take it apart to understand it.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "reading",
+        "analysis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_092",
+      "question": "What is the main purpose of an expository essay?",
+      "correctAnswer": "To explain or inform about a topic",
+      "distractors": [
+        "To tell a fictional story",
+        "To persuade the reader",
+        "To describe a feeling"
+      ],
+      "explanation": "Expository writing informs without arguing a side - textbooks, how-to guides, and news reports are expository because they explain with facts and examples.",
+      "memoryHook": "T-Rexy says: Expository writing explains.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "essay-types"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_093",
+      "question": "What is a claim in an argument?",
+      "correctAnswer": "A statement the writer argues is true",
+      "distractors": [
+        "A fact everyone agrees on",
+        "A question with no answer",
+        "A quotation from an expert"
+      ],
+      "explanation": "A claim is the position the writer tries to prove with evidence.",
+      "memoryHook": "T-Rexy says: A claim is what you are trying to prove.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "argument"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_094",
+      "question": "What makes evidence strong?",
+      "correctAnswer": "It is relevant, specific, and from a credible source",
+      "distractors": [
+        "It is long",
+        "It is emotional",
+        "It is popular"
+      ],
+      "explanation": "Evidence is weak when it is vague, off-topic, or from an unreliable source; strong evidence is on-point, precise, and checkable.",
+      "memoryHook": "T-Rexy says: Strong evidence is relevant and reliable.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "evidence"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_095",
+      "question": "What is the effect of a rhetorical question?",
+      "correctAnswer": "It makes the reader think without expecting an answer",
+      "distractors": [
+        "It asks for information",
+        "It ends the essay",
+        "It confuses the reader"
+      ],
+      "explanation": "A rhetorical question engages readers and emphasizes a point.",
+      "memoryHook": "T-Rexy says: A rhetorical question makes you think.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_096",
+      "question": "What is ethos in persuasion?",
+      "correctAnswer": "Appealing to the author's credibility or character",
+      "distractors": [
+        "Appealing to emotions",
+        "Appealing to logic",
+        "Appealing to humor"
+      ],
+      "explanation": "Ethos is built before the argument even starts: a doctor's white coat or an expert's credentials give the audience a reason to trust the speaker.",
+      "memoryHook": "T-Rexy says: Ethos is trust me, I know this.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_097",
+      "question": "What is pathos in persuasion?",
+      "correctAnswer": "Appealing to the audience's emotions",
+      "distractors": [
+        "Appealing to logic",
+        "Appealing to credibility",
+        "Appealing to facts only"
+      ],
+      "explanation": "Pathos works through stories and vivid images - an ad showing a shivering stray dog is asking for feelings, not facts.",
+      "memoryHook": "T-Rexy says: Pathos tugs at your feelings.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_098",
+      "question": "What is logos in persuasion?",
+      "correctAnswer": "Appealing to logic and evidence",
+      "distractors": [
+        "Appealing to emotions",
+        "Appealing to credibility",
+        "Appealing to humor"
+      ],
+      "explanation": "Logos is the appeal you can check: statistics, comparisons, and if-then reasoning that still hold up when the audience thinks them through.",
+      "memoryHook": "T-Rexy says: Logos is the logic and the numbers.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_099",
+      "question": "Which is the best way to revise a draft?",
+      "correctAnswer": "Reread it, check the organization and evidence, and fix weak parts",
+      "distractors": [
+        "Change the font",
+        "Add more words",
+        "Delete the introduction"
+      ],
+      "explanation": "Revision means rethinking structure, clarity, and support, not just fixing typos.",
+      "memoryHook": "T-Rexy says: Revise means re-see the whole essay.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "revision"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ENG10_100",
+      "question": "What is plagiarism?",
+      "correctAnswer": "Using someone else's words or ideas without giving credit",
+      "distractors": [
+        "Quoting with a citation",
+        "Writing original ideas",
+        "Summarizing in your own words"
+      ],
+      "explanation": "Even one copied sentence without quotation marks and a citation counts as plagiarism - and paraphrasing someone else's idea still needs credit.",
+      "memoryHook": "T-Rexy says: Plagiarism is copying without credit.",
+      "imageUrl": "topic:english-10",
+      "tags": [
+        "writing",
+        "ethics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

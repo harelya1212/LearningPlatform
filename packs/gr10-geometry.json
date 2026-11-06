@@ -1,0 +1,2017 @@
+{
+  "packId": "gr10-geometry",
+  "title": "Geometry (10th Grade)",
+  "description": "Geometry (10th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "math",
+    "geometry",
+    "10th"
+  ],
+  "questions": [
+    {
+      "id": "GEO10_001",
+      "question": "What is the complement of a 35-degree angle?",
+      "correctAnswer": "55 degrees",
+      "distractors": [
+        "125 degrees",
+        "145 degrees",
+        "35 degrees"
+      ],
+      "explanation": "Complementary angles sum to 90 degrees, so 90 - 35 = 55.",
+      "memoryHook": "T-Rexy says: Complementary means the two angles add to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_002",
+      "question": "What is the complement of a 20-degree angle?",
+      "correctAnswer": "70 degrees",
+      "distractors": [
+        "110 degrees",
+        "160 degrees",
+        "20 degrees"
+      ],
+      "explanation": "Complementary angles sum to 90 degrees, so 90 - 20 = 70.",
+      "memoryHook": "T-Rexy says: Complementary means the two angles add to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_003",
+      "question": "What is the complement of a 55-degree angle?",
+      "correctAnswer": "35 degrees",
+      "distractors": [
+        "145 degrees",
+        "125 degrees",
+        "55 degrees"
+      ],
+      "explanation": "Complementary angles sum to 90 degrees, so 90 - 55 = 35.",
+      "memoryHook": "T-Rexy says: Complementary means the two angles add to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_004",
+      "question": "What is the complement of a 70-degree angle?",
+      "correctAnswer": "20 degrees",
+      "distractors": [
+        "160 degrees",
+        "110 degrees",
+        "70 degrees"
+      ],
+      "explanation": "Complementary angles sum to 90 degrees, so 90 - 70 = 20.",
+      "memoryHook": "T-Rexy says: Complementary means the two angles add to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_005",
+      "question": "What is the complement of a 25-degree angle?",
+      "correctAnswer": "65 degrees",
+      "distractors": [
+        "115 degrees",
+        "155 degrees",
+        "25 degrees"
+      ],
+      "explanation": "Complementary angles sum to 90 degrees, so 90 - 25 = 65.",
+      "memoryHook": "T-Rexy says: Complementary means the two angles add to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_006",
+      "question": "What is the complement of a 40-degree angle?",
+      "correctAnswer": "50 degrees",
+      "distractors": [
+        "130 degrees",
+        "140 degrees",
+        "40 degrees"
+      ],
+      "explanation": "Complementary angles sum to 90 degrees, so 90 - 40 = 50.",
+      "memoryHook": "T-Rexy says: Complementary means the two angles add to 90.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "complementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_007",
+      "question": "What is the supplement of a 120-degree angle?",
+      "correctAnswer": "60 degrees",
+      "distractors": [
+        "-30 degrees",
+        "120 degrees",
+        "240 degrees"
+      ],
+      "explanation": "Supplementary angles sum to 180 degrees, so 180 - 120 = 60.",
+      "memoryHook": "T-Rexy says: Supplementary means the two angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_008",
+      "question": "What is the supplement of a 145-degree angle?",
+      "correctAnswer": "35 degrees",
+      "distractors": [
+        "-55 degrees",
+        "145 degrees",
+        "215 degrees"
+      ],
+      "explanation": "Supplementary angles sum to 180 degrees, so 180 - 145 = 35.",
+      "memoryHook": "T-Rexy says: Supplementary means the two angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_009",
+      "question": "What is the supplement of a 100-degree angle?",
+      "correctAnswer": "80 degrees",
+      "distractors": [
+        "-10 degrees",
+        "100 degrees",
+        "260 degrees"
+      ],
+      "explanation": "Supplementary angles sum to 180 degrees, so 180 - 100 = 80.",
+      "memoryHook": "T-Rexy says: Supplementary means the two angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_010",
+      "question": "What is the supplement of a 160-degree angle?",
+      "correctAnswer": "20 degrees",
+      "distractors": [
+        "-70 degrees",
+        "160 degrees",
+        "200 degrees"
+      ],
+      "explanation": "Supplementary angles sum to 180 degrees, so 180 - 160 = 20.",
+      "memoryHook": "T-Rexy says: Supplementary means the two angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_011",
+      "question": "What is the supplement of a 135-degree angle?",
+      "correctAnswer": "45 degrees",
+      "distractors": [
+        "-45 degrees",
+        "135 degrees",
+        "225 degrees"
+      ],
+      "explanation": "Supplementary angles sum to 180 degrees, so 180 - 135 = 45.",
+      "memoryHook": "T-Rexy says: Supplementary means the two angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_012",
+      "question": "What is the supplement of a 110-degree angle?",
+      "correctAnswer": "70 degrees",
+      "distractors": [
+        "-20 degrees",
+        "110 degrees",
+        "250 degrees"
+      ],
+      "explanation": "Supplementary angles sum to 180 degrees, so 180 - 110 = 70.",
+      "memoryHook": "T-Rexy says: Supplementary means the two angles add to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "angles",
+        "supplementary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_013",
+      "question": "A triangle has two angles measuring 50 degrees and 60 degrees. What is the measure of the third angle?",
+      "correctAnswer": "70 degrees",
+      "distractors": [
+        "80 degrees",
+        "60 degrees",
+        "110 degrees"
+      ],
+      "explanation": "The angles of a triangle sum to 180 degrees, so 180 - 50 - 60 = 70.",
+      "memoryHook": "T-Rexy says: Triangle angles always add up to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angle-sum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_014",
+      "question": "A triangle has two angles measuring 70 degrees and 40 degrees. What is the measure of the third angle?",
+      "correctAnswer": "70 degrees",
+      "distractors": [
+        "80 degrees",
+        "60 degrees",
+        "110 degrees"
+      ],
+      "explanation": "The angles of a triangle sum to 180 degrees, so 180 - 70 - 40 = 70.",
+      "memoryHook": "T-Rexy says: Triangle angles always add up to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angle-sum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_015",
+      "question": "A triangle has two angles measuring 90 degrees and 30 degrees. What is the measure of the third angle?",
+      "correctAnswer": "60 degrees",
+      "distractors": [
+        "70 degrees",
+        "50 degrees",
+        "120 degrees"
+      ],
+      "explanation": "The angles of a triangle sum to 180 degrees, so 180 - 90 - 30 = 60.",
+      "memoryHook": "T-Rexy says: Triangle angles always add up to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angle-sum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_016",
+      "question": "A triangle has two angles measuring 45 degrees and 45 degrees. What is the measure of the third angle?",
+      "correctAnswer": "90 degrees",
+      "distractors": [
+        "100 degrees",
+        "80 degrees",
+        "97 degrees"
+      ],
+      "explanation": "The angles of a triangle sum to 180 degrees, so 180 - 45 - 45 = 90.",
+      "memoryHook": "T-Rexy says: Triangle angles always add up to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angle-sum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_017",
+      "question": "A triangle has two angles measuring 80 degrees and 55 degrees. What is the measure of the third angle?",
+      "correctAnswer": "45 degrees",
+      "distractors": [
+        "55 degrees",
+        "35 degrees",
+        "135 degrees"
+      ],
+      "explanation": "The angles of a triangle sum to 180 degrees, so 180 - 80 - 55 = 45.",
+      "memoryHook": "T-Rexy says: Triangle angles always add up to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angle-sum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_018",
+      "question": "A triangle has two angles measuring 35 degrees and 85 degrees. What is the measure of the third angle?",
+      "correctAnswer": "60 degrees",
+      "distractors": [
+        "70 degrees",
+        "50 degrees",
+        "120 degrees"
+      ],
+      "explanation": "The angles of a triangle sum to 180 degrees, so 180 - 35 - 85 = 60.",
+      "memoryHook": "T-Rexy says: Triangle angles always add up to 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "triangles",
+        "angle-sum"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_019",
+      "question": "What is the area of a rectangle with length 8 and width 5?",
+      "correctAnswer": "40 square units",
+      "distractors": [
+        "13 square units",
+        "26 square units",
+        "42 square units"
+      ],
+      "explanation": "Area of a rectangle is length times width: 8 x 5 = 40.",
+      "memoryHook": "T-Rexy says: Area of a rectangle is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_020",
+      "question": "What is the perimeter of a rectangle with length 8 and width 5?",
+      "correctAnswer": "26 units",
+      "distractors": [
+        "40 units",
+        "13 units",
+        "80 units"
+      ],
+      "explanation": "Perimeter is 2(length + width) = 2(8 + 5) = 26.",
+      "memoryHook": "T-Rexy says: Perimeter means add up all four sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_021",
+      "question": "What is the area of a rectangle with length 12 and width 7?",
+      "correctAnswer": "84 square units",
+      "distractors": [
+        "19 square units",
+        "38 square units",
+        "86 square units"
+      ],
+      "explanation": "Area of a rectangle is length times width: 12 x 7 = 84.",
+      "memoryHook": "T-Rexy says: Area of a rectangle is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_022",
+      "question": "What is the perimeter of a rectangle with length 12 and width 7?",
+      "correctAnswer": "38 units",
+      "distractors": [
+        "84 units",
+        "19 units",
+        "168 units"
+      ],
+      "explanation": "Perimeter is 2(length + width) = 2(12 + 7) = 38.",
+      "memoryHook": "T-Rexy says: Perimeter means add up all four sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_023",
+      "question": "What is the area of a rectangle with length 9 and width 4?",
+      "correctAnswer": "36 square units",
+      "distractors": [
+        "13 square units",
+        "26 square units",
+        "38 square units"
+      ],
+      "explanation": "Area of a rectangle is length times width: 9 x 4 = 36.",
+      "memoryHook": "T-Rexy says: Area of a rectangle is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_024",
+      "question": "What is the perimeter of a rectangle with length 9 and width 4?",
+      "correctAnswer": "26 units",
+      "distractors": [
+        "36 units",
+        "13 units",
+        "72 units"
+      ],
+      "explanation": "Perimeter is 2(length + width) = 2(9 + 4) = 26.",
+      "memoryHook": "T-Rexy says: Perimeter means add up all four sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_025",
+      "question": "What is the area of a rectangle with length 15 and width 6?",
+      "correctAnswer": "90 square units",
+      "distractors": [
+        "21 square units",
+        "42 square units",
+        "92 square units"
+      ],
+      "explanation": "Area of a rectangle is length times width: 15 x 6 = 90.",
+      "memoryHook": "T-Rexy says: Area of a rectangle is length times width.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "rectangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_026",
+      "question": "What is the perimeter of a rectangle with length 15 and width 6?",
+      "correctAnswer": "42 units",
+      "distractors": [
+        "90 units",
+        "21 units",
+        "180 units"
+      ],
+      "explanation": "Perimeter is 2(length + width) = 2(15 + 6) = 42.",
+      "memoryHook": "T-Rexy says: Perimeter means add up all four sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "perimeter",
+        "rectangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_027",
+      "question": "What is the area of a triangle with base 10 and height 6?",
+      "correctAnswer": "30 square units",
+      "distractors": [
+        "60 square units",
+        "16 square units",
+        "35 square units"
+      ],
+      "explanation": "Area of a triangle is (1/2) x base x height = (1/2) x 10 x 6 = 30.",
+      "memoryHook": "T-Rexy says: Triangle area is half of base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_028",
+      "question": "What is the area of a triangle with base 8 and height 9?",
+      "correctAnswer": "36 square units",
+      "distractors": [
+        "72 square units",
+        "17 square units",
+        "41 square units"
+      ],
+      "explanation": "Area of a triangle is (1/2) x base x height = (1/2) x 8 x 9 = 36.",
+      "memoryHook": "T-Rexy says: Triangle area is half of base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_029",
+      "question": "What is the area of a triangle with base 12 and height 5?",
+      "correctAnswer": "30 square units",
+      "distractors": [
+        "60 square units",
+        "17 square units",
+        "35 square units"
+      ],
+      "explanation": "Area of a triangle is (1/2) x base x height = (1/2) x 12 x 5 = 30.",
+      "memoryHook": "T-Rexy says: Triangle area is half of base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_030",
+      "question": "What is the area of a triangle with base 14 and height 4?",
+      "correctAnswer": "28 square units",
+      "distractors": [
+        "56 square units",
+        "18 square units",
+        "33 square units"
+      ],
+      "explanation": "Area of a triangle is (1/2) x base x height = (1/2) x 14 x 4 = 28.",
+      "memoryHook": "T-Rexy says: Triangle area is half of base times height.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "area",
+        "triangle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_031",
+      "question": "A right triangle has legs of length 3 and 4. What is the length of the hypotenuse?",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "4",
+        "7"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 3^2 + 4^2 = 25, so c = 5.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_032",
+      "question": "A right triangle has hypotenuse 5 and one leg 3. What is the length of the other leg?",
+      "correctAnswer": "4",
+      "distractors": [
+        "6",
+        "3",
+        "2"
+      ],
+      "explanation": "By the Pythagorean theorem, b^2 = 5^2 - 3^2 = 16, so b = 4.",
+      "memoryHook": "T-Rexy says: Solve for the missing leg by subtracting squares.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_033",
+      "question": "A right triangle has legs of length 6 and 8. What is the length of the hypotenuse?",
+      "correctAnswer": "10",
+      "distractors": [
+        "11",
+        "9",
+        "14"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 6^2 + 8^2 = 100, so c = 10.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_034",
+      "question": "A right triangle has hypotenuse 10 and one leg 6. What is the length of the other leg?",
+      "correctAnswer": "8",
+      "distractors": [
+        "10",
+        "7",
+        "4"
+      ],
+      "explanation": "By the Pythagorean theorem, b^2 = 10^2 - 6^2 = 64, so b = 8.",
+      "memoryHook": "T-Rexy says: Solve for the missing leg by subtracting squares.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_035",
+      "question": "A right triangle has legs of length 5 and 12. What is the length of the hypotenuse?",
+      "correctAnswer": "13",
+      "distractors": [
+        "14",
+        "12",
+        "17"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 5^2 + 12^2 = 169, so c = 13.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_036",
+      "question": "A right triangle has hypotenuse 13 and one leg 5. What is the length of the other leg?",
+      "correctAnswer": "12",
+      "distractors": [
+        "14",
+        "11",
+        "8"
+      ],
+      "explanation": "By the Pythagorean theorem, b^2 = 13^2 - 5^2 = 144, so b = 12.",
+      "memoryHook": "T-Rexy says: Solve for the missing leg by subtracting squares.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_037",
+      "question": "A right triangle has legs of length 9 and 12. What is the length of the hypotenuse?",
+      "correctAnswer": "15",
+      "distractors": [
+        "16",
+        "14",
+        "21"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 9^2 + 12^2 = 225, so c = 15.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_038",
+      "question": "A right triangle has hypotenuse 15 and one leg 9. What is the length of the other leg?",
+      "correctAnswer": "12",
+      "distractors": [
+        "14",
+        "11",
+        "6"
+      ],
+      "explanation": "By the Pythagorean theorem, b^2 = 15^2 - 9^2 = 144, so b = 12.",
+      "memoryHook": "T-Rexy says: Solve for the missing leg by subtracting squares.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_039",
+      "question": "A right triangle has legs of length 8 and 15. What is the length of the hypotenuse?",
+      "correctAnswer": "17",
+      "distractors": [
+        "18",
+        "16",
+        "23"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 8^2 + 15^2 = 289, so c = 17.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_040",
+      "question": "A right triangle has hypotenuse 17 and one leg 8. What is the length of the other leg?",
+      "correctAnswer": "15",
+      "distractors": [
+        "17",
+        "14",
+        "9"
+      ],
+      "explanation": "By the Pythagorean theorem, b^2 = 17^2 - 8^2 = 225, so b = 15.",
+      "memoryHook": "T-Rexy says: Solve for the missing leg by subtracting squares.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_041",
+      "question": "A right triangle has legs of length 7 and 24. What is the length of the hypotenuse?",
+      "correctAnswer": "25",
+      "distractors": [
+        "26",
+        "24",
+        "31"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 7^2 + 24^2 = 625, so c = 25.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_042",
+      "question": "A right triangle has hypotenuse 25 and one leg 7. What is the length of the other leg?",
+      "correctAnswer": "24",
+      "distractors": [
+        "26",
+        "23",
+        "18"
+      ],
+      "explanation": "By the Pythagorean theorem, b^2 = 25^2 - 7^2 = 576, so b = 24.",
+      "memoryHook": "T-Rexy says: Solve for the missing leg by subtracting squares.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_043",
+      "question": "A right triangle has legs of length 12 and 16. What is the length of the hypotenuse?",
+      "correctAnswer": "20",
+      "distractors": [
+        "21",
+        "19",
+        "28"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 12^2 + 16^2 = 400, so c = 20.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_044",
+      "question": "A right triangle has hypotenuse 20 and one leg 12. What is the length of the other leg?",
+      "correctAnswer": "16",
+      "distractors": [
+        "18",
+        "15",
+        "8"
+      ],
+      "explanation": "By the Pythagorean theorem, b^2 = 20^2 - 12^2 = 256, so b = 16.",
+      "memoryHook": "T-Rexy says: Solve for the missing leg by subtracting squares.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_045",
+      "question": "A right triangle has legs of length 20 and 21. What is the length of the hypotenuse?",
+      "correctAnswer": "29",
+      "distractors": [
+        "30",
+        "28",
+        "41"
+      ],
+      "explanation": "By the Pythagorean theorem, c^2 = 20^2 + 21^2 = 841, so c = 29.",
+      "memoryHook": "T-Rexy says: a squared plus b squared equals c squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_046",
+      "question": "A right triangle has hypotenuse 29 and one leg 20. What is the length of the other leg?",
+      "correctAnswer": "21",
+      "distractors": [
+        "23",
+        "20",
+        "9"
+      ],
+      "explanation": "By the Pythagorean theorem, b^2 = 29^2 - 20^2 = 441, so b = 21.",
+      "memoryHook": "T-Rexy says: Solve for the missing leg by subtracting squares.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "pythagorean",
+        "right-triangle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_047",
+      "question": "Two triangles are similar. The smaller triangle has a side of length 6, and the corresponding side of the larger triangle is 12. What is the scale factor from the smaller triangle to the larger triangle?",
+      "correctAnswer": "2",
+      "distractors": [
+        "3",
+        "1/2",
+        "12"
+      ],
+      "explanation": "Scale factor is the ratio of corresponding sides: 12/6 = 2.",
+      "memoryHook": "T-Rexy says: Scale factor is new length divided by old length.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similarity",
+        "scale-factor"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_048",
+      "question": "Two triangles are similar. The smaller triangle has a side of length 5, and the corresponding side of the larger triangle is 15. What is the scale factor from the smaller triangle to the larger triangle?",
+      "correctAnswer": "3",
+      "distractors": [
+        "4",
+        "1/3",
+        "15"
+      ],
+      "explanation": "Scale factor is the ratio of corresponding sides: 15/5 = 3.",
+      "memoryHook": "T-Rexy says: Scale factor is new length divided by old length.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similarity",
+        "scale-factor"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_049",
+      "question": "Two triangles are similar. The smaller triangle has a side of length 9, and the corresponding side of the larger triangle is 18. What is the scale factor from the smaller triangle to the larger triangle?",
+      "correctAnswer": "2",
+      "distractors": [
+        "3",
+        "1/2",
+        "18"
+      ],
+      "explanation": "Scale factor is the ratio of corresponding sides: 18/9 = 2.",
+      "memoryHook": "T-Rexy says: Scale factor is new length divided by old length.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similarity",
+        "scale-factor"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_050",
+      "question": "Two triangles are similar. The smaller triangle has a side of length 3, and the corresponding side of the larger triangle is 12. What is the scale factor from the smaller triangle to the larger triangle?",
+      "correctAnswer": "4",
+      "distractors": [
+        "5",
+        "1/4",
+        "12"
+      ],
+      "explanation": "Scale factor is the ratio of corresponding sides: 12/3 = 4.",
+      "memoryHook": "T-Rexy says: Scale factor is new length divided by old length.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similarity",
+        "scale-factor"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_051",
+      "question": "Two triangles are similar. The smaller triangle has a side of length 8, and the corresponding side of the larger triangle is 24. What is the scale factor from the smaller triangle to the larger triangle?",
+      "correctAnswer": "3",
+      "distractors": [
+        "4",
+        "1/3",
+        "24"
+      ],
+      "explanation": "Scale factor is the ratio of corresponding sides: 24/8 = 3.",
+      "memoryHook": "T-Rexy says: Scale factor is new length divided by old length.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "similarity",
+        "scale-factor"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_052",
+      "question": "What is the circumference of a circle with radius 5? Use 3.14 for pi.",
+      "correctAnswer": "31.4 units",
+      "distractors": [
+        "78.5 units",
+        "15.7 units",
+        "62.8 units"
+      ],
+      "explanation": "Circumference is 2 x pi x r = 2 x 3.14 x 5 = 31.4.",
+      "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_053",
+      "question": "What is the area of a circle with radius 5? Use 3.14 for pi.",
+      "correctAnswer": "78.5 square units",
+      "distractors": [
+        "31.4 square units",
+        "15.7 square units",
+        "157 square units"
+      ],
+      "explanation": "Area is pi x r^2 = 3.14 x 5^2 = 78.5.",
+      "memoryHook": "T-Rexy says: Circle area is pi r squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_054",
+      "question": "What is the circumference of a circle with radius 7? Use 3.14 for pi.",
+      "correctAnswer": "43.96 units",
+      "distractors": [
+        "153.86 units",
+        "21.98 units",
+        "87.92 units"
+      ],
+      "explanation": "Circumference is 2 x pi x r = 2 x 3.14 x 7 = 43.96.",
+      "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_055",
+      "question": "What is the area of a circle with radius 7? Use 3.14 for pi.",
+      "correctAnswer": "153.86 square units",
+      "distractors": [
+        "43.96 square units",
+        "21.98 square units",
+        "307.72 square units"
+      ],
+      "explanation": "Area is pi x r^2 = 3.14 x 7^2 = 153.86.",
+      "memoryHook": "T-Rexy says: Circle area is pi r squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_056",
+      "question": "What is the circumference of a circle with radius 10? Use 3.14 for pi.",
+      "correctAnswer": "62.8 units",
+      "distractors": [
+        "314 units",
+        "31.4 units",
+        "125.6 units"
+      ],
+      "explanation": "Circumference is 2 x pi x r = 2 x 3.14 x 10 = 62.8.",
+      "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_057",
+      "question": "What is the area of a circle with radius 10? Use 3.14 for pi.",
+      "correctAnswer": "314 square units",
+      "distractors": [
+        "62.8 square units",
+        "31.4 square units",
+        "628 square units"
+      ],
+      "explanation": "Area is pi x r^2 = 3.14 x 10^2 = 314.",
+      "memoryHook": "T-Rexy says: Circle area is pi r squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_058",
+      "question": "What is the circumference of a circle with radius 3? Use 3.14 for pi.",
+      "correctAnswer": "18.84 units",
+      "distractors": [
+        "28.26 units",
+        "9.42 units",
+        "37.68 units"
+      ],
+      "explanation": "Circumference is 2 x pi x r = 2 x 3.14 x 3 = 18.84.",
+      "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_059",
+      "question": "What is the area of a circle with radius 3? Use 3.14 for pi.",
+      "correctAnswer": "28.26 square units",
+      "distractors": [
+        "18.84 square units",
+        "9.42 square units",
+        "56.52 square units"
+      ],
+      "explanation": "Area is pi x r^2 = 3.14 x 3^2 = 28.26.",
+      "memoryHook": "T-Rexy says: Circle area is pi r squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_060",
+      "question": "What is the circumference of a circle with radius 6? Use 3.14 for pi.",
+      "correctAnswer": "37.68 units",
+      "distractors": [
+        "113.04 units",
+        "18.84 units",
+        "75.36 units"
+      ],
+      "explanation": "Circumference is 2 x pi x r = 2 x 3.14 x 6 = 37.68.",
+      "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "circumference"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_061",
+      "question": "What is the area of a circle with radius 6? Use 3.14 for pi.",
+      "correctAnswer": "113.04 square units",
+      "distractors": [
+        "37.68 square units",
+        "18.84 square units",
+        "226.08 square units"
+      ],
+      "explanation": "Area is pi x r^2 = 3.14 x 6^2 = 113.04.",
+      "memoryHook": "T-Rexy says: Circle area is pi r squared.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "area"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_062",
+      "question": "What is the sum of the interior angles of a polygon with 5 sides?",
+      "correctAnswer": "540 degrees",
+      "distractors": [
+        "900 degrees",
+        "360 degrees",
+        "720 degrees"
+      ],
+      "explanation": "The sum is (n - 2) x 180 = (5 - 2) x 180 = 540 degrees.",
+      "memoryHook": "T-Rexy says: Interior angle sum is (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_063",
+      "question": "What is the sum of the interior angles of a polygon with 6 sides?",
+      "correctAnswer": "720 degrees",
+      "distractors": [
+        "1080 degrees",
+        "540 degrees",
+        "900 degrees"
+      ],
+      "explanation": "The sum is (n - 2) x 180 = (6 - 2) x 180 = 720 degrees.",
+      "memoryHook": "T-Rexy says: Interior angle sum is (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_064",
+      "question": "What is the sum of the interior angles of a polygon with 8 sides?",
+      "correctAnswer": "1080 degrees",
+      "distractors": [
+        "1440 degrees",
+        "900 degrees",
+        "1260 degrees"
+      ],
+      "explanation": "The sum is (n - 2) x 180 = (8 - 2) x 180 = 1080 degrees.",
+      "memoryHook": "T-Rexy says: Interior angle sum is (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_065",
+      "question": "What is the sum of the interior angles of a polygon with 10 sides?",
+      "correctAnswer": "1440 degrees",
+      "distractors": [
+        "1800 degrees",
+        "1260 degrees",
+        "1620 degrees"
+      ],
+      "explanation": "The sum is (n - 2) x 180 = (10 - 2) x 180 = 1440 degrees.",
+      "memoryHook": "T-Rexy says: Interior angle sum is (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_066",
+      "question": "What is the sum of the interior angles of a polygon with 7 sides?",
+      "correctAnswer": "900 degrees",
+      "distractors": [
+        "1260 degrees",
+        "720 degrees",
+        "1080 degrees"
+      ],
+      "explanation": "The sum is (n - 2) x 180 = (7 - 2) x 180 = 900 degrees.",
+      "memoryHook": "T-Rexy says: Interior angle sum is (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_067",
+      "question": "What is the sum of the interior angles of a polygon with 12 sides?",
+      "correctAnswer": "1800 degrees",
+      "distractors": [
+        "2160 degrees",
+        "1620 degrees",
+        "1980 degrees"
+      ],
+      "explanation": "The sum is (n - 2) x 180 = (12 - 2) x 180 = 1800 degrees.",
+      "memoryHook": "T-Rexy says: Interior angle sum is (n minus 2) times 180.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "angles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_068",
+      "question": "What is the slope of the line through (0, 0) and (4, 8)?",
+      "correctAnswer": "2",
+      "distractors": [
+        "3",
+        "0.5",
+        "-2"
+      ],
+      "explanation": "Slope is (y2 - y1)/(x2 - x1) = (8 - 0)/(4 - 0) = 2.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate",
+        "slope"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_069",
+      "question": "What is the slope of the line through (1, 2) and (5, 10)?",
+      "correctAnswer": "2",
+      "distractors": [
+        "3",
+        "0.5",
+        "-2"
+      ],
+      "explanation": "Slope is (y2 - y1)/(x2 - x1) = (10 - 2)/(5 - 1) = 2.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate",
+        "slope"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_070",
+      "question": "What is the slope of the line through (2, 3) and (6, 7)?",
+      "correctAnswer": "1",
+      "distractors": [
+        "2",
+        "8",
+        "-1"
+      ],
+      "explanation": "Slope is (y2 - y1)/(x2 - x1) = (7 - 3)/(6 - 2) = 1.",
+      "memoryHook": "T-Rexy says: Slope is rise over run.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate",
+        "slope"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_071",
+      "question": "In triangle ABC, side a = 5, side b = 5, and the included angle C is 60 degrees. What is the length of side c?",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "10",
+        "7.07"
+      ],
+      "explanation": "By the Law of Cosines, c^2 = 5^2 + 5^2 - 2(5)(5)cos(60) = 25, so c = 5.",
+      "memoryHook": "T-Rexy says: Law of Cosines handles triangles without a right angle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "law-of-cosines",
+        "triangles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_072",
+      "question": "In triangle ABC, side a = 6, side b = 4, and the included angle C is 60 degrees. What is the length of side c?",
+      "correctAnswer": "5.29",
+      "distractors": [
+        "6.29",
+        "10",
+        "7.21"
+      ],
+      "explanation": "By the Law of Cosines, c^2 = 6^2 + 4^2 - 2(6)(4)cos(60) = 28, so c = 5.29.",
+      "memoryHook": "T-Rexy says: Law of Cosines handles triangles without a right angle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "law-of-cosines",
+        "triangles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_073",
+      "question": "In triangle ABC, side a = 8, side b = 8, and the included angle C is 60 degrees. What is the length of side c?",
+      "correctAnswer": "8",
+      "distractors": [
+        "9",
+        "16",
+        "11.31"
+      ],
+      "explanation": "By the Law of Cosines, c^2 = 8^2 + 8^2 - 2(8)(8)cos(60) = 64, so c = 8.",
+      "memoryHook": "T-Rexy says: Law of Cosines handles triangles without a right angle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "law-of-cosines",
+        "triangles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_074",
+      "question": "In a right triangle, the hypotenuse is 10 and the angle opposite a leg is 30 degrees. What is the length of that leg?",
+      "correctAnswer": "5",
+      "distractors": [
+        "10",
+        "8.66",
+        "2.5"
+      ],
+      "explanation": "sin(30) = opposite/hypotenuse = 1/2, so the leg is 10 x 1/2 = 5.",
+      "memoryHook": "T-Rexy says: Sine of 30 degrees is one half.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "trigonometry",
+        "sine"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_075",
+      "question": "In a right triangle, the hypotenuse is 12 and the angle adjacent to a leg is 60 degrees. What is the length of that leg?",
+      "correctAnswer": "6",
+      "distractors": [
+        "12",
+        "10.39",
+        "3"
+      ],
+      "explanation": "cos(60) = adjacent/hypotenuse = 1/2, so the leg is 12 x 1/2 = 6.",
+      "memoryHook": "T-Rexy says: Cosine of 60 degrees is one half.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "trigonometry",
+        "cosine"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_076",
+      "question": "What is the center of the circle with equation (x - 0)^2 + (y - 0)^2 = 25?",
+      "correctAnswer": "(0, 0)",
+      "distractors": [
+        "(0, 5)",
+        "(5, 5)",
+        "(5, 0)"
+      ],
+      "explanation": "The standard form (x - h)^2 + (y - k)^2 = r^2 has center (h, k) = (0, 0).",
+      "memoryHook": "T-Rexy says: In circle form, the center hides behind the minus signs.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "coordinate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_077",
+      "question": "What is the center of the circle with equation (x - 3)^2 + (y + 2)^2 = 16?",
+      "correctAnswer": "(3, -2)",
+      "distractors": [
+        "(-3, 2)",
+        "(4, 4)",
+        "(3, 2)"
+      ],
+      "explanation": "The standard form (x - h)^2 + (y - k)^2 = r^2 has center (h, k) = (3, -2).",
+      "memoryHook": "T-Rexy says: In circle form, the center hides behind the minus signs.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "coordinate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_078",
+      "question": "What is the center of the circle with equation (x + 1)^2 + (y - 4)^2 = 36?",
+      "correctAnswer": "(-1, 4)",
+      "distractors": [
+        "(1, -4)",
+        "(6, 6)",
+        "(-1, -4)"
+      ],
+      "explanation": "The standard form (x - h)^2 + (y - k)^2 = r^2 has center (h, k) = (-1, 4).",
+      "memoryHook": "T-Rexy says: In circle form, the center hides behind the minus signs.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "coordinate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_079",
+      "question": "An inscribed angle intercepts an arc of 80 degrees. What is the measure of the inscribed angle?",
+      "correctAnswer": "40 degrees",
+      "distractors": [
+        "80 degrees",
+        "160 degrees",
+        "100 degrees"
+      ],
+      "explanation": "An inscribed angle is half the measure of its intercepted arc: 80/2 = 40.",
+      "memoryHook": "T-Rexy says: An inscribed angle is half its arc.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "inscribed-angle"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_080",
+      "question": "An inscribed angle intercepts an arc of 120 degrees. What is the measure of the inscribed angle?",
+      "correctAnswer": "60 degrees",
+      "distractors": [
+        "120 degrees",
+        "240 degrees",
+        "67 degrees"
+      ],
+      "explanation": "An inscribed angle is half the measure of its intercepted arc: 120/2 = 60.",
+      "memoryHook": "T-Rexy says: An inscribed angle is half its arc.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "inscribed-angle"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_081",
+      "question": "An inscribed angle intercepts an arc of 60 degrees. What is the measure of the inscribed angle?",
+      "correctAnswer": "30 degrees",
+      "distractors": [
+        "60 degrees",
+        "120 degrees",
+        "90 degrees"
+      ],
+      "explanation": "An inscribed angle is half the measure of its intercepted arc: 60/2 = 30.",
+      "memoryHook": "T-Rexy says: An inscribed angle is half its arc.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "inscribed-angle"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_082",
+      "question": "An inscribed angle intercepts an arc of 100 degrees. What is the measure of the inscribed angle?",
+      "correctAnswer": "50 degrees",
+      "distractors": [
+        "100 degrees",
+        "200 degrees",
+        "80 degrees"
+      ],
+      "explanation": "An inscribed angle is half the measure of its intercepted arc: 100/2 = 50.",
+      "memoryHook": "T-Rexy says: An inscribed angle is half its arc.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "inscribed-angle"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_083",
+      "question": "What is the measure of each interior angle of a regular polygon with 5 sides?",
+      "correctAnswer": "108 degrees",
+      "distractors": [
+        "540 degrees",
+        "72 degrees",
+        "128 degrees"
+      ],
+      "explanation": "Each interior angle is (n - 2) x 180 / n = 540/5 = 108 degrees.",
+      "memoryHook": "T-Rexy says: Divide the total interior sum by the number of sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "regular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_084",
+      "question": "What is the measure of each interior angle of a regular polygon with 6 sides?",
+      "correctAnswer": "120 degrees",
+      "distractors": [
+        "720 degrees",
+        "60 degrees",
+        "140 degrees"
+      ],
+      "explanation": "Each interior angle is (n - 2) x 180 / n = 720/6 = 120 degrees.",
+      "memoryHook": "T-Rexy says: Divide the total interior sum by the number of sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "regular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_085",
+      "question": "What is the measure of each interior angle of a regular polygon with 8 sides?",
+      "correctAnswer": "135 degrees",
+      "distractors": [
+        "1080 degrees",
+        "45 degrees",
+        "155 degrees"
+      ],
+      "explanation": "Each interior angle is (n - 2) x 180 / n = 1080/8 = 135 degrees.",
+      "memoryHook": "T-Rexy says: Divide the total interior sum by the number of sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "regular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_086",
+      "question": "What is the measure of each interior angle of a regular polygon with 10 sides?",
+      "correctAnswer": "144 degrees",
+      "distractors": [
+        "1440 degrees",
+        "36 degrees",
+        "164 degrees"
+      ],
+      "explanation": "Each interior angle is (n - 2) x 180 / n = 1440/10 = 144 degrees.",
+      "memoryHook": "T-Rexy says: Divide the total interior sum by the number of sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "regular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_087",
+      "question": "What is the measure of each interior angle of a regular polygon with 9 sides?",
+      "correctAnswer": "140 degrees",
+      "distractors": [
+        "1260 degrees",
+        "40 degrees",
+        "160 degrees"
+      ],
+      "explanation": "Each interior angle is (n - 2) x 180 / n = 1260/9 = 140 degrees.",
+      "memoryHook": "T-Rexy says: Divide the total interior sum by the number of sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "regular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_088",
+      "question": "What is the measure of each interior angle of a regular polygon with 12 sides?",
+      "correctAnswer": "150 degrees",
+      "distractors": [
+        "1800 degrees",
+        "30 degrees",
+        "170 degrees"
+      ],
+      "explanation": "Each interior angle is (n - 2) x 180 / n = 1800/12 = 150 degrees.",
+      "memoryHook": "T-Rexy says: Divide the total interior sum by the number of sides.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "polygons",
+        "regular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_089",
+      "question": "What is the volume of a sphere with radius 3? Use 3.14 for pi.",
+      "correctAnswer": "113.04 cubic units",
+      "distractors": [
+        "28.26 cubic units",
+        "120.04 cubic units",
+        "56.52 cubic units"
+      ],
+      "explanation": "Volume is (4/3) x pi x r^3 = (4/3) x 3.14 x 3^3 = 113.04.",
+      "memoryHook": "T-Rexy says: Sphere volume is four-thirds pi r cubed.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "sphere"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_090",
+      "question": "What is the volume of a sphere with radius 6? Use 3.14 for pi.",
+      "correctAnswer": "904.32 cubic units",
+      "distractors": [
+        "113.04 cubic units",
+        "452.16 cubic units",
+        "226.08 cubic units"
+      ],
+      "explanation": "Volume is (4/3) x pi x r^3 = (4/3) x 3.14 x 6^3 = 904.32.",
+      "memoryHook": "T-Rexy says: Sphere volume is four-thirds pi r cubed.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "sphere"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_091",
+      "question": "What is the volume of a cone with radius 3 and height 9? Use 3.14 for pi.",
+      "correctAnswer": "84.78 cubic units",
+      "distractors": [
+        "254.34 cubic units",
+        "91.78 cubic units",
+        "169.56 cubic units"
+      ],
+      "explanation": "Volume is (1/3) x pi x r^2 x h = (1/3) x 3.14 x 3^2 x 9 = 84.78.",
+      "memoryHook": "T-Rexy says: A cone is one third of its cylinder.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "cone"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_092",
+      "question": "What is the volume of a cone with radius 6 and height 4? Use 3.14 for pi.",
+      "correctAnswer": "150.72 cubic units",
+      "distractors": [
+        "452.16 cubic units",
+        "75.36 cubic units",
+        "301.44 cubic units"
+      ],
+      "explanation": "Volume is (1/3) x pi x r^2 x h = (1/3) x 3.14 x 6^2 x 4 = 150.72.",
+      "memoryHook": "T-Rexy says: A cone is one third of its cylinder.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "volume",
+        "cone"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_093",
+      "question": "What is the distance between the points (0, 0) and (3, 4)?",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "7",
+        "10"
+      ],
+      "explanation": "Distance is sqrt((3-0)^2 + (4-0)^2) = sqrt(25) = 5.",
+      "memoryHook": "T-Rexy says: Distance is the hypotenuse of the run-rise triangle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate",
+        "distance"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_094",
+      "question": "What is the distance between the points (1, 1) and (4, 5)?",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "7",
+        "10"
+      ],
+      "explanation": "Distance is sqrt((4-1)^2 + (5-1)^2) = sqrt(25) = 5.",
+      "memoryHook": "T-Rexy says: Distance is the hypotenuse of the run-rise triangle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate",
+        "distance"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_095",
+      "question": "What is the distance between the points (2, 3) and (5, 7)?",
+      "correctAnswer": "5",
+      "distractors": [
+        "6",
+        "7",
+        "10"
+      ],
+      "explanation": "Distance is sqrt((5-2)^2 + (7-3)^2) = sqrt(25) = 5.",
+      "memoryHook": "T-Rexy says: Distance is the hypotenuse of the run-rise triangle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "coordinate",
+        "distance"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_096",
+      "question": "What is the area of a sector of a circle with radius 6 and a central angle of 90 degrees? Use 3.14 for pi.",
+      "correctAnswer": "28.26 square units",
+      "distractors": [
+        "113.04 square units",
+        "37.68 square units",
+        "56.52 square units"
+      ],
+      "explanation": "Sector area is (90/360) x pi x r^2 = 28.26.",
+      "memoryHook": "T-Rexy says: A sector is a fraction of the whole circle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "sector"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_097",
+      "question": "What is the area of a sector of a circle with radius 4 and a central angle of 180 degrees? Use 3.14 for pi.",
+      "correctAnswer": "25.12 square units",
+      "distractors": [
+        "50.24 square units",
+        "32.12 square units",
+        "12.56 square units"
+      ],
+      "explanation": "Sector area is (180/360) x pi x r^2 = 25.12.",
+      "memoryHook": "T-Rexy says: A sector is a fraction of the whole circle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "sector"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_098",
+      "question": "What is the area of a sector of a circle with radius 10 and a central angle of 90 degrees? Use 3.14 for pi.",
+      "correctAnswer": "78.5 square units",
+      "distractors": [
+        "314 square units",
+        "62.8 square units",
+        "157 square units"
+      ],
+      "explanation": "Sector area is (90/360) x pi x r^2 = 78.5.",
+      "memoryHook": "T-Rexy says: A sector is a fraction of the whole circle.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "circles",
+        "sector"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_099",
+      "question": "What is the surface area of a rectangular prism with length 4, width 3, and height 5?",
+      "correctAnswer": "94 square units",
+      "distractors": [
+        "60 square units",
+        "47 square units",
+        "84 square units"
+      ],
+      "explanation": "Surface area is 2(lw + lh + wh) = 2(12 + 20 + 15) = 94.",
+      "memoryHook": "T-Rexy says: Add all six faces, then double the three pairs.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "prism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO10_100",
+      "question": "What is the surface area of a rectangular prism with length 6, width 2, and height 8?",
+      "correctAnswer": "152 square units",
+      "distractors": [
+        "96 square units",
+        "76 square units",
+        "112 square units"
+      ],
+      "explanation": "Surface area is 2(lw + lh + wh) = 2(12 + 48 + 16) = 152.",
+      "memoryHook": "T-Rexy says: Add all six faces, then double the three pairs.",
+      "imageUrl": "topic:geometry",
+      "tags": [
+        "surface-area",
+        "prism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

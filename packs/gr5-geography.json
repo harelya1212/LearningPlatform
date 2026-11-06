@@ -1,0 +1,2016 @@
+{
+  "packId": "gr5-geography",
+  "title": "Geography (5th Grade)",
+  "description": "Geography (5th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "geography",
+    "5th"
+  ],
+  "questions": [
+    {
+      "id": "GEO5_001",
+      "question": "What is a map?",
+      "correctAnswer": "A flat drawing that shows places on Earth",
+      "distractors": [
+        "A picture of the Moon",
+        "A list of city names",
+        "A type of compass"
+      ],
+      "explanation": "A map is a flat picture that shows where places are.",
+      "memoryHook": "T-Rexy says: a map is Earth's picture, flattened out!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_002",
+      "question": "What is a globe?",
+      "correctAnswer": "A round model of Earth",
+      "distractors": [
+        "A flat map of a city",
+        "A telescope for stars",
+        "A kind of compass"
+      ],
+      "explanation": "A globe is a sphere shaped like Earth.",
+      "memoryHook": "T-Rexy says: a globe is Earth in miniature - round like the real thing!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "globes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_003",
+      "question": "What does a map's title tell you?",
+      "correctAnswer": "What the map is about",
+      "distractors": [
+        "How far places are",
+        "Which way is north",
+        "Who made the map"
+      ],
+      "explanation": "The title names the subject of the map.",
+      "memoryHook": "T-Rexy says: the title tells you what the map is showing!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "parts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_004",
+      "question": "What is a map key, or legend?",
+      "correctAnswer": "A box that explains the symbols on a map",
+      "distractors": [
+        "A key that unlocks a map",
+        "The title of the map",
+        "The edge of the map"
+      ],
+      "explanation": "The key explains what each symbol and color means.",
+      "memoryHook": "T-Rexy says: the key unlocks the meaning of the symbols!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "parts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_005",
+      "question": "What does a compass rose show on a map?",
+      "correctAnswer": "The directions: north, south, east, and west",
+      "distractors": [
+        "The distance between cities",
+        "The names of oceans",
+        "The height of mountains"
+      ],
+      "explanation": "A compass rose points out the cardinal directions.",
+      "memoryHook": "T-Rexy says: the compass rose points the way - north, south, east, west!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "parts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_006",
+      "question": "Which direction is opposite of north?",
+      "correctAnswer": "South",
+      "distractors": [
+        "East",
+        "West",
+        "Northwest"
+      ],
+      "explanation": "North and south are opposites.",
+      "memoryHook": "T-Rexy says: north and south are opposite ends!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "directions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_007",
+      "question": "What is a map scale used for?",
+      "correctAnswer": "To measure real distances on a map",
+      "distractors": [
+        "To weigh objects",
+        "To find the temperature",
+        "To count the population"
+      ],
+      "explanation": "The scale shows how map distances relate to real distances.",
+      "memoryHook": "T-Rexy says: the scale turns map inches into real miles!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "scale"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_008",
+      "question": "On a map, 1 inch equals 10 miles. Two towns are 3 inches apart on the map. How far apart are they really?",
+      "correctAnswer": "30 miles",
+      "distractors": [
+        "3 miles",
+        "13 miles",
+        "10 miles"
+      ],
+      "explanation": "3 inches x 10 miles per inch = 30 miles.",
+      "memoryHook": "T-Rexy says: multiply the inches by the miles each inch stands for!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "scale"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_009",
+      "question": "What do the lines of latitude measure?",
+      "correctAnswer": "How far north or south a place is from the equator",
+      "distractors": [
+        "How far east or west a place is",
+        "How high a mountain is",
+        "How deep an ocean is"
+      ],
+      "explanation": "Latitude lines run east-west and measure distance north or south of the equator.",
+      "memoryHook": "T-Rexy says: latitude lines are the rungs of Earth's ladder!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_010",
+      "question": "What do the lines of longitude measure?",
+      "correctAnswer": "How far east or west a place is from the Prime Meridian",
+      "distractors": [
+        "How far north or south a place is",
+        "How hot a place is",
+        "How much rain a place gets"
+      ],
+      "explanation": "Longitude lines run north-south and measure distance east or west of the Prime Meridian.",
+      "memoryHook": "T-Rexy says: longitude lines slice Earth like orange segments!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_011",
+      "question": "What is the equator?",
+      "correctAnswer": "The imaginary line around Earth's middle, at 0 degrees latitude",
+      "distractors": [
+        "The line that divides east and west",
+        "The North Pole",
+        "The largest ocean"
+      ],
+      "explanation": "The equator circles Earth's middle, halfway between the poles.",
+      "memoryHook": "T-Rexy says: the equator is Earth's belt - right around the middle!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_012",
+      "question": "What is the Prime Meridian?",
+      "correctAnswer": "The imaginary line at 0 degrees longitude that runs through Greenwich, England",
+      "distractors": [
+        "The equator",
+        "The line around the North Pole",
+        "The border of the United States"
+      ],
+      "explanation": "The Prime Meridian divides east from west.",
+      "memoryHook": "T-Rexy says: the Prime Meridian is longitude's starting line!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "latitude-longitude"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_013",
+      "question": "Which continent is the United States on?",
+      "correctAnswer": "North America",
+      "distractors": [
+        "South America",
+        "Europe",
+        "Africa"
+      ],
+      "explanation": "The United States is in North America.",
+      "memoryHook": "T-Rexy says: the U.S. sits on North America!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "continents"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_014",
+      "question": "How many continents are there on Earth?",
+      "correctAnswer": "Seven",
+      "distractors": [
+        "Five",
+        "Six",
+        "Ten"
+      ],
+      "explanation": "The seven continents are Africa, Antarctica, Asia, Europe, North America, Australia, and South America.",
+      "memoryHook": "T-Rexy says: seven continents - can you name them all?",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "continents"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_015",
+      "question": "Which is the largest continent?",
+      "correctAnswer": "Asia",
+      "distractors": [
+        "Africa",
+        "North America",
+        "Europe"
+      ],
+      "explanation": "Asia is the largest continent by land area.",
+      "memoryHook": "T-Rexy says: Asia is the biggest continent of all!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "continents"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_016",
+      "question": "Which ocean is on the west coast of the United States?",
+      "correctAnswer": "The Pacific Ocean",
+      "distractors": [
+        "The Atlantic Ocean",
+        "The Indian Ocean",
+        "The Arctic Ocean"
+      ],
+      "explanation": "The Pacific Ocean washes California, Oregon, and Washington.",
+      "memoryHook": "T-Rexy says: the Pacific laps the West Coast!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "oceans"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_017",
+      "question": "Which ocean is on the east coast of the United States?",
+      "correctAnswer": "The Atlantic Ocean",
+      "distractors": [
+        "The Pacific Ocean",
+        "The Indian Ocean",
+        "The Arctic Ocean"
+      ],
+      "explanation": "The Atlantic Ocean washes the East Coast.",
+      "memoryHook": "T-Rexy says: the Atlantic laps the East Coast!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "maps",
+        "oceans"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_018",
+      "question": "What is a peninsula?",
+      "correctAnswer": "Land surrounded by water on three sides",
+      "distractors": [
+        "An island in the middle of an ocean",
+        "A deep valley",
+        "A tall mountain"
+      ],
+      "explanation": "Florida is a peninsula: water on three sides.",
+      "memoryHook": "T-Rexy says: a peninsula is almost an island - water on three sides!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "peninsula"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_019",
+      "question": "What is an island?",
+      "correctAnswer": "Land completely surrounded by water",
+      "distractors": [
+        "Land surrounded by water on three sides",
+        "A mountain in the ocean",
+        "A river delta"
+      ],
+      "explanation": "An island has water all around it.",
+      "memoryHook": "T-Rexy says: an island is land with water all around!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "island"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_020",
+      "question": "What do we call the height of land above sea level?",
+      "correctAnswer": "Elevation",
+      "distractors": [
+        "Latitude",
+        "Longitude",
+        "Climate"
+      ],
+      "explanation": "Elevation measures how high land rises above the sea.",
+      "memoryHook": "T-Rexy says: elevation is how high up you are!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "elevation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_021",
+      "question": "What is a mountain?",
+      "correctAnswer": "A very tall landform that rises high above the land around it",
+      "distractors": [
+        "A flat area of land",
+        "A small hill",
+        "A deep hole in the ground"
+      ],
+      "explanation": "Mountains are the tallest landforms on Earth.",
+      "memoryHook": "T-Rexy says: mountains are Earth's giants!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "mountains"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_022",
+      "question": "What is a valley?",
+      "correctAnswer": "A low area of land between hills or mountains",
+      "distractors": [
+        "A tall mountain peak",
+        "A flat desert",
+        "A deep ocean"
+      ],
+      "explanation": "Valleys are low places, often with a river running through them.",
+      "memoryHook": "T-Rexy says: a valley is the low dip between hills!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "valley"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_023",
+      "question": "What is a plain?",
+      "correctAnswer": "A large, flat area of land",
+      "distractors": [
+        "A steep mountain",
+        "A deep canyon",
+        "A small island"
+      ],
+      "explanation": "Plains are wide, flat lands, good for farming.",
+      "memoryHook": "T-Rexy says: a plain is flat as a pancake for miles!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "plain"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_024",
+      "question": "What is a plateau?",
+      "correctAnswer": "A flat area of land that is raised high above the land around it",
+      "distractors": [
+        "A deep valley",
+        "A small hill",
+        "A sandy beach"
+      ],
+      "explanation": "A plateau is like a flat-topped mountain.",
+      "memoryHook": "T-Rexy says: a plateau is a flat table of land held up high!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "plateau"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_025",
+      "question": "What is a canyon?",
+      "correctAnswer": "A deep, narrow valley with steep sides, often carved by a river",
+      "distractors": [
+        "A tall mountain",
+        "A flat plain",
+        "A sandy desert"
+      ],
+      "explanation": "The Grand Canyon was carved by the Colorado River.",
+      "memoryHook": "T-Rexy says: a canyon is a deep cut in the rock!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "canyon"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_026",
+      "question": "What is a desert?",
+      "correctAnswer": "A very dry place that gets little rain",
+      "distractors": [
+        "A place that is always cold",
+        "A forest with many trees",
+        "A land covered in snow"
+      ],
+      "explanation": "Deserts get less than 10 inches of rain a year.",
+      "memoryHook": "T-Rexy says: a desert is a place where rain almost never visits!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "desert"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_027",
+      "question": "What is a river?",
+      "correctAnswer": "A large stream of water that flows across land",
+      "distractors": [
+        "A small pond",
+        "A salty ocean",
+        "A frozen lake"
+      ],
+      "explanation": "Rivers flow from high land to the sea.",
+      "memoryHook": "T-Rexy says: a river is water on a long journey to the sea!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "water",
+        "rivers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_028",
+      "question": "What is a lake?",
+      "correctAnswer": "A body of water surrounded by land",
+      "distractors": [
+        "A river that flows to the sea",
+        "A small ocean",
+        "A waterfall"
+      ],
+      "explanation": "Lakes are still bodies of water with land all around.",
+      "memoryHook": "T-Rexy says: a lake is water hugged by land!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "water",
+        "lakes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_029",
+      "question": "What is the mouth of a river?",
+      "correctAnswer": "Where the river flows into a larger body of water",
+      "distractors": [
+        "Where the river begins",
+        "The widest part of the river",
+        "A waterfall on the river"
+      ],
+      "explanation": "The mouth is the end of a river, where it meets a sea or lake.",
+      "memoryHook": "T-Rexy says: the mouth is where the river meets the sea!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "water",
+        "rivers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_030",
+      "question": "What is the source of a river?",
+      "correctAnswer": "Where the river begins",
+      "distractors": [
+        "Where the river ends",
+        "The middle of the river",
+        "A dam on the river"
+      ],
+      "explanation": "The source is the start, often a spring or melting snow.",
+      "memoryHook": "T-Rexy says: the source is where the river is born!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "water",
+        "rivers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_031",
+      "question": "Which is the longest river in the United States?",
+      "correctAnswer": "The Missouri River",
+      "distractors": [
+        "The Mississippi River",
+        "The Colorado River",
+        "The Rio Grande"
+      ],
+      "explanation": "The Missouri River is the longest river in the U.S.",
+      "memoryHook": "T-Rexy says: the Missouri is America's longest river!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "water",
+        "rivers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_032",
+      "question": "Which river forms part of the border between the United States and Mexico?",
+      "correctAnswer": "The Rio Grande",
+      "distractors": [
+        "The Mississippi River",
+        "The Colorado River",
+        "The Columbia River"
+      ],
+      "explanation": "The Rio Grande flows along the Texas-Mexico border.",
+      "memoryHook": "T-Rexy says: the Rio Grande is the river border with Mexico!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "water",
+        "rivers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_033",
+      "question": "What is a tributary?",
+      "correctAnswer": "A smaller stream or river that flows into a larger river",
+      "distractors": [
+        "A dam on a river",
+        "A waterfall",
+        "A lake near a river"
+      ],
+      "explanation": "Tributaries feed water into bigger rivers.",
+      "memoryHook": "T-Rexy says: a tributary is a small river joining a big one!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "water",
+        "rivers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_034",
+      "question": "What is a delta?",
+      "correctAnswer": "Land formed by soil dropped where a river meets the sea",
+      "distractors": [
+        "A tall mountain",
+        "A deep ocean trench",
+        "A desert oasis"
+      ],
+      "explanation": "River soil settles at the mouth and builds new land.",
+      "memoryHook": "T-Rexy says: a delta is new land built by river mud!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "water",
+        "rivers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_035",
+      "question": "What is a glacier?",
+      "correctAnswer": "A huge, slow-moving mass of ice",
+      "distractors": [
+        "A frozen lake that never melts",
+        "A snowstorm",
+        "An iceberg in the ocean"
+      ],
+      "explanation": "Glaciers creep downhill, carving valleys as they go.",
+      "memoryHook": "T-Rexy says: a glacier is a river of ice moving in slow motion!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "glaciers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_036",
+      "question": "What is a volcano?",
+      "correctAnswer": "An opening in Earth's crust where lava, ash, and gas erupt",
+      "distractors": [
+        "A tall mountain made of snow",
+        "A deep ocean trench",
+        "A hot desert"
+      ],
+      "explanation": "Volcanoes form when melted rock pushes up through the crust.",
+      "memoryHook": "T-Rexy says: a volcano is Earth's pressure valve - boom!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "volcanoes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_037",
+      "question": "What is an earthquake?",
+      "correctAnswer": "A shaking of the ground caused by movement under Earth's surface",
+      "distractors": [
+        "A loud thunderstorm",
+        "A volcanic eruption",
+        "A strong wind"
+      ],
+      "explanation": "Earthquakes happen when rocks under the surface suddenly shift.",
+      "memoryHook": "T-Rexy says: an earthquake is the ground shaking from below!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "earthquakes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_038",
+      "question": "What is a coast?",
+      "correctAnswer": "The land along the edge of an ocean or sea",
+      "distractors": [
+        "The middle of an ocean",
+        "A river in the mountains",
+        "A desert by a lake"
+      ],
+      "explanation": "Coasts are where land meets the sea.",
+      "memoryHook": "T-Rexy says: the coast is where land meets the sea!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "coast"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_039",
+      "question": "What is a harbor?",
+      "correctAnswer": "A sheltered place on the coast where ships can dock safely",
+      "distractors": [
+        "A tall lighthouse",
+        "A beach for swimming",
+        "A fishing boat"
+      ],
+      "explanation": "Harbors protect ships from storms and waves.",
+      "memoryHook": "T-Rexy says: a harbor is a safe parking spot for ships!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "water",
+        "harbor"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_040",
+      "question": "Which landform is the Grand Canyon?",
+      "correctAnswer": "A canyon",
+      "distractors": [
+        "A mountain",
+        "A plateau",
+        "A valley"
+      ],
+      "explanation": "The Grand Canyon is a deep canyon carved by the Colorado River.",
+      "memoryHook": "T-Rexy says: the Grand Canyon is a giant canyon!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "landforms",
+        "canyon"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_041",
+      "question": "What is climate?",
+      "correctAnswer": "The usual weather in a place over a long time",
+      "distractors": [
+        "The weather today",
+        "The temperature right now",
+        "A rainstorm"
+      ],
+      "explanation": "Climate is the pattern of weather over many years.",
+      "memoryHook": "T-Rexy says: climate is the weather's long-term habit!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_042",
+      "question": "What is weather?",
+      "correctAnswer": "What the air is like at a certain time and place",
+      "distractors": [
+        "The climate of a region",
+        "The seasons of the year",
+        "The height of a mountain"
+      ],
+      "explanation": "Weather is short-term: sunny today, rainy tomorrow.",
+      "memoryHook": "T-Rexy says: weather is what is happening outside right now!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "weather"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_043",
+      "question": "Why is it hot near the equator?",
+      "correctAnswer": "The Sun's rays hit there most directly all year",
+      "distractors": [
+        "There are no clouds there",
+        "It is close to the ocean",
+        "There are many deserts there"
+      ],
+      "explanation": "Near the equator, sunlight hits straight on, so it stays warm.",
+      "memoryHook": "T-Rexy says: the equator gets the Sun's rays straight on!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "equator"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_044",
+      "question": "Why do places near the ocean often have mild temperatures?",
+      "correctAnswer": "Water warms and cools slowly, keeping nearby land mild",
+      "distractors": [
+        "The ocean makes it rain every day",
+        "Ocean water is always hot",
+        "The wind never blows there"
+      ],
+      "explanation": "Oceans act like a blanket, warming winters and cooling summers.",
+      "memoryHook": "T-Rexy says: the ocean is a temperature blanket for the coast!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "oceans"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_045",
+      "question": "What is a rainforest climate like?",
+      "correctAnswer": "Hot and rainy all year",
+      "distractors": [
+        "Cold and dry",
+        "Hot and dry",
+        "Cold and snowy"
+      ],
+      "explanation": "Rainforests near the equator are warm and wet year-round.",
+      "memoryHook": "T-Rexy says: a rainforest is hot and rainy all year long!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "zones"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_046",
+      "question": "What is a tundra?",
+      "correctAnswer": "A cold, treeless region where the ground stays frozen",
+      "distractors": [
+        "A hot desert",
+        "A tropical forest",
+        "A grassy plain"
+      ],
+      "explanation": "Tundras are cold lands with short summers and frozen soil.",
+      "memoryHook": "T-Rexy says: the tundra is a frozen land with no trees!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "zones"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_047",
+      "question": "Which factor affects a place's climate the most?",
+      "correctAnswer": "Its latitude, or distance from the equator",
+      "distractors": [
+        "Its population",
+        "Its language",
+        "Its flag"
+      ],
+      "explanation": "Latitude decides how directly the Sun's rays hit.",
+      "memoryHook": "T-Rexy says: latitude is the biggest climate decider!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "factors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_048",
+      "question": "Why are mountaintops cold even in warm places?",
+      "correctAnswer": "Air gets colder as elevation rises",
+      "distractors": [
+        "Mountains block the Sun",
+        "Snow makes the air cold",
+        "Wind blows harder there"
+      ],
+      "explanation": "Higher elevation means thinner, colder air.",
+      "memoryHook": "T-Rexy says: climb high and the air gets cold!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "elevation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_049",
+      "question": "What are the four seasons?",
+      "correctAnswer": "Spring, summer, fall, and winter",
+      "distractors": [
+        "Hot, cold, wet, and dry",
+        "January, April, July, and October",
+        "Rain, snow, wind, and sun"
+      ],
+      "explanation": "Earth's tilt makes four seasons as it orbits the Sun.",
+      "memoryHook": "T-Rexy says: spring, summer, fall, winter - the year in four parts!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "seasons"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_050",
+      "question": "Which place would most likely have a desert climate?",
+      "correctAnswer": "A place far from the ocean with very little rain",
+      "distractors": [
+        "A place near the equator with heavy rain",
+        "A place high in the mountains",
+        "A place on a rainy coast"
+      ],
+      "explanation": "Deserts form where air is dry and rain is rare.",
+      "memoryHook": "T-Rexy says: far from rain means desert dry!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "climate",
+        "desert"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_051",
+      "question": "Which region of the United States includes New York, Pennsylvania, and New Jersey?",
+      "correctAnswer": "The Northeast",
+      "distractors": [
+        "The Southeast",
+        "The Midwest",
+        "The Southwest"
+      ],
+      "explanation": "The Northeast is the region along the Atlantic coast in the north.",
+      "memoryHook": "T-Rexy says: New York and friends are the Northeast!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "northeast"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_052",
+      "question": "Which region includes Alabama, Florida, and Georgia?",
+      "correctAnswer": "The Southeast",
+      "distractors": [
+        "The Northeast",
+        "The Midwest",
+        "The Northwest"
+      ],
+      "explanation": "Alabama, Florida, and Georgia are in the Southeast.",
+      "memoryHook": "T-Rexy says: Alabama, Florida, Georgia - the Southeast!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "southeast"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_053",
+      "question": "Which region is known for farming corn and wheat on flat plains?",
+      "correctAnswer": "The Midwest",
+      "distractors": [
+        "The Northeast",
+        "The Southeast",
+        "The West"
+      ],
+      "explanation": "The Midwest's flat, rich soil grows corn and wheat.",
+      "memoryHook": "T-Rexy says: the Midwest is America's breadbasket!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "midwest"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_054",
+      "question": "Which region includes California, Oregon, and Washington?",
+      "correctAnswer": "The West Coast",
+      "distractors": [
+        "The Midwest",
+        "The Southeast",
+        "New England"
+      ],
+      "explanation": "California, Oregon, and Washington line the Pacific coast.",
+      "memoryHook": "T-Rexy says: California, Oregon, Washington - the West Coast!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "west"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_055",
+      "question": "What is the capital of the United States?",
+      "correctAnswer": "Washington, D.C.",
+      "distractors": [
+        "New York City",
+        "Philadelphia",
+        "Boston"
+      ],
+      "explanation": "Washington, D.C. is the nation's capital.",
+      "memoryHook": "T-Rexy says: Washington, D.C. is the capital!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "capital"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_056",
+      "question": "Which mountain range runs along the east coast of the United States?",
+      "correctAnswer": "The Appalachian Mountains",
+      "distractors": [
+        "The Rocky Mountains",
+        "The Sierra Nevada",
+        "The Cascade Range"
+      ],
+      "explanation": "The Appalachians stretch from Maine to Georgia.",
+      "memoryHook": "T-Rexy says: the Appalachians run down the East!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "mountains"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_057",
+      "question": "Which mountain range runs through the western United States?",
+      "correctAnswer": "The Rocky Mountains",
+      "distractors": [
+        "The Appalachian Mountains",
+        "The Ozark Mountains",
+        "The Catskill Mountains"
+      ],
+      "explanation": "The Rockies stretch from Canada to New Mexico.",
+      "memoryHook": "T-Rexy says: the Rockies tower over the West!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "mountains"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_058",
+      "question": "Which is the largest state in the United States by area?",
+      "correctAnswer": "Alaska",
+      "distractors": [
+        "Texas",
+        "California",
+        "Montana"
+      ],
+      "explanation": "Alaska is by far the largest state.",
+      "memoryHook": "T-Rexy says: Alaska is huge - the biggest state!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "states"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_059",
+      "question": "Which state is known as the Sunshine State?",
+      "correctAnswer": "Florida",
+      "distractors": [
+        "Arizona",
+        "California",
+        "Hawaii"
+      ],
+      "explanation": "Florida's nickname is the Sunshine State.",
+      "memoryHook": "T-Rexy says: Florida is the Sunshine State!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "states"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_060",
+      "question": "Which state is an island chain in the Pacific Ocean?",
+      "correctAnswer": "Hawaii",
+      "distractors": [
+        "Florida",
+        "Alaska",
+        "California"
+      ],
+      "explanation": "Hawaii is a group of volcanic islands in the Pacific.",
+      "memoryHook": "T-Rexy says: Hawaii is islands in the middle of the Pacific!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "states"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_061",
+      "question": "What is the Mississippi River known for?",
+      "correctAnswer": "It is a major waterway that drains the central United States",
+      "distractors": [
+        "It is the longest river in the world",
+        "It flows into the Pacific Ocean",
+        "It forms the border with Canada"
+      ],
+      "explanation": "The Mississippi carries water from the heart of the country to the Gulf of Mexico.",
+      "memoryHook": "T-Rexy says: the Mississippi is America's great central river!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "rivers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_062",
+      "question": "Which Great Lake is the largest?",
+      "correctAnswer": "Lake Superior",
+      "distractors": [
+        "Lake Michigan",
+        "Lake Erie",
+        "Lake Ontario"
+      ],
+      "explanation": "Lake Superior is the largest of the Great Lakes and the largest freshwater lake by area in the world.",
+      "memoryHook": "T-Rexy says: Lake Superior is the biggest Great Lake!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "great-lakes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_063",
+      "question": "Which city is the largest in the United States?",
+      "correctAnswer": "New York City",
+      "distractors": [
+        "Los Angeles",
+        "Chicago",
+        "Houston"
+      ],
+      "explanation": "New York City has the largest population of any U.S. city.",
+      "memoryHook": "T-Rexy says: New York City is America's biggest city!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "cities"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_064",
+      "question": "What is the name of the region that includes Arizona, New Mexico, and parts of Texas and California?",
+      "correctAnswer": "The Southwest",
+      "distractors": [
+        "The Northeast",
+        "The Midwest",
+        "The Pacific Northwest"
+      ],
+      "explanation": "The Southwest is the hot, dry region of the desert states.",
+      "memoryHook": "T-Rexy says: Arizona and New Mexico are the Southwest!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "southwest"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_065",
+      "question": "Which region is called New England?",
+      "correctAnswer": "Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, and Connecticut",
+      "distractors": [
+        "New York and New Jersey",
+        "Virginia and Maryland",
+        "Ohio and Indiana"
+      ],
+      "explanation": "New England is the six-state region in the far Northeast.",
+      "memoryHook": "T-Rexy says: six states make up New England!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "us-regions",
+        "new-england"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_066",
+      "question": "Which state borders Arizona to the west?",
+      "correctAnswer": "California",
+      "distractors": [
+        "Texas",
+        "Utah",
+        "New Mexico"
+      ],
+      "explanation": "California lies across the Colorado River from Arizona.",
+      "memoryHook": "T-Rexy says: California is Arizona's western neighbor!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "borders"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_067",
+      "question": "Which state borders Arizona to the east?",
+      "correctAnswer": "New Mexico",
+      "distractors": [
+        "California",
+        "Nevada",
+        "Utah"
+      ],
+      "explanation": "New Mexico is east of Arizona.",
+      "memoryHook": "T-Rexy says: New Mexico is Arizona's eastern neighbor!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "borders"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_068",
+      "question": "Which country borders Arizona to the south?",
+      "correctAnswer": "Mexico",
+      "distractors": [
+        "Canada",
+        "Guatemala",
+        "Spain"
+      ],
+      "explanation": "Arizona's southern border is with Mexico.",
+      "memoryHook": "T-Rexy says: Mexico is south of Arizona!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "borders"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_069",
+      "question": "Which city is the second largest in Arizona?",
+      "correctAnswer": "Tucson",
+      "distractors": [
+        "Flagstaff",
+        "Mesa",
+        "Scottsdale"
+      ],
+      "explanation": "Tucson, in southern Arizona, is the state's second-largest city.",
+      "memoryHook": "T-Rexy says: Tucson is Arizona's second city!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "cities"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_070",
+      "question": "Why is Flagstaff cooler than Phoenix?",
+      "correctAnswer": "Flagstaff is at a much higher elevation",
+      "distractors": [
+        "Flagstaff is closer to the ocean",
+        "Flagstaff gets more rain from the sea",
+        "Phoenix is in a valley with no wind"
+      ],
+      "explanation": "Flagstaff sits about 7,000 feet up, so its air is cooler.",
+      "memoryHook": "T-Rexy says: Flagstaff is high up, so it stays cool!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "climate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_071",
+      "question": "What is the Colorado Plateau?",
+      "correctAnswer": "A high, flat region in northern Arizona with canyons and mesas",
+      "distractors": [
+        "A desert in southern Arizona",
+        "A mountain in Phoenix",
+        "A river in Tucson"
+      ],
+      "explanation": "The Colorado Plateau covers northern Arizona, including the Grand Canyon.",
+      "memoryHook": "T-Rexy says: the Colorado Plateau is northern Arizona's high, flat land!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "landforms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_072",
+      "question": "What is a mesa?",
+      "correctAnswer": "A flat-topped hill with steep sides",
+      "distractors": [
+        "A deep canyon",
+        "A sandy dune",
+        "A small lake"
+      ],
+      "explanation": "Mesas are common in the Southwest, with flat tops and cliff sides.",
+      "memoryHook": "T-Rexy says: a mesa is a flat-topped hill standing tall!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "landforms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_073",
+      "question": "Which Arizona city is in the mountains and gets snow in winter?",
+      "correctAnswer": "Flagstaff",
+      "distractors": [
+        "Phoenix",
+        "Yuma",
+        "Tucson"
+      ],
+      "explanation": "Flagstaff's high elevation brings snow each winter.",
+      "memoryHook": "T-Rexy says: Flagstaff gets real snow in winter!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "cities"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_074",
+      "question": "What is the name of the river that forms Arizona's western border?",
+      "correctAnswer": "The Colorado River",
+      "distractors": [
+        "The Gila River",
+        "The Salt River",
+        "The Verde River"
+      ],
+      "explanation": "The Colorado River separates Arizona from California and Nevada.",
+      "memoryHook": "T-Rexy says: the Colorado River is Arizona's western edge!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "rivers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_075",
+      "question": "Which desert plant is a symbol of Arizona?",
+      "correctAnswer": "The saguaro cactus",
+      "distractors": [
+        "The pine tree",
+        "The palm tree",
+        "The oak tree"
+      ],
+      "explanation": "The giant saguaro is Arizona's most famous desert plant.",
+      "memoryHook": "T-Rexy says: the saguaro is Arizona's desert giant!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "nature"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_076",
+      "question": "What is the Petrified Forest in Arizona?",
+      "correctAnswer": "A place where ancient trees turned to stone",
+      "distractors": [
+        "A forest of living pine trees",
+        "A desert with no trees",
+        "A mountain of gold"
+      ],
+      "explanation": "In the Petrified Forest, wood from ancient trees became colorful stone.",
+      "memoryHook": "T-Rexy says: ancient trees turned to rainbow stone!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "landmarks"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_077",
+      "question": "Which Arizona landmark is a huge hole made by a meteor long ago?",
+      "correctAnswer": "Meteor Crater",
+      "distractors": [
+        "The Grand Canyon",
+        "Monument Valley",
+        "Sedona"
+      ],
+      "explanation": "Meteor Crater is a giant bowl-shaped hole from a space rock impact.",
+      "memoryHook": "T-Rexy says: a space rock blasted Meteor Crater into Arizona!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "landmarks"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_078",
+      "question": "What is Monument Valley known for?",
+      "correctAnswer": "Tall red rock formations on Navajo land",
+      "distractors": [
+        "A big lake",
+        "A snowy mountain",
+        "A sandy beach"
+      ],
+      "explanation": "Monument Valley's red buttes rise from the desert floor.",
+      "memoryHook": "T-Rexy says: Monument Valley's red towers are famous worldwide!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "landmarks"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_079",
+      "question": "Why is Phoenix called the Valley of the Sun?",
+      "correctAnswer": "It sits in a sunny desert valley",
+      "distractors": [
+        "It is near the ocean",
+        "It has many lakes",
+        "It is in the mountains"
+      ],
+      "explanation": "Phoenix lies in the Salt River Valley, with sunshine most of the year.",
+      "memoryHook": "T-Rexy says: Phoenix basks in a sunny desert valley!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "cities"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_080",
+      "question": "Which highway runs through Phoenix from north to south?",
+      "correctAnswer": "Interstate 17",
+      "distractors": [
+        "Interstate 40",
+        "Interstate 8",
+        "Interstate 15"
+      ],
+      "explanation": "Interstate 17 runs north-south through Phoenix toward Flagstaff.",
+      "memoryHook": "T-Rexy says: I-17 runs north-south through Phoenix!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "arizona",
+        "cities"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_081",
+      "question": "What is the largest hot desert in the world?",
+      "correctAnswer": "The Sahara Desert",
+      "distractors": [
+        "The Sonoran Desert",
+        "The Gobi Desert",
+        "The Mojave Desert"
+      ],
+      "explanation": "The Sahara in northern Africa is the largest hot desert in the world.",
+      "memoryHook": "T-Rexy says: the Sahara is the world's biggest hot desert!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "deserts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_082",
+      "question": "On which continent is the Sahara Desert?",
+      "correctAnswer": "Africa",
+      "distractors": [
+        "Asia",
+        "Australia",
+        "South America"
+      ],
+      "explanation": "The Sahara covers much of northern Africa.",
+      "memoryHook": "T-Rexy says: the Sahara sprawls across northern Africa!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "deserts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_083",
+      "question": "What is the longest river in the world?",
+      "correctAnswer": "The Nile River",
+      "distractors": [
+        "The Amazon River",
+        "The Mississippi River",
+        "The Yangtze River"
+      ],
+      "explanation": "The Nile, in Africa, is generally considered the longest river.",
+      "memoryHook": "T-Rexy says: the Nile is the world's longest river!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "rivers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_084",
+      "question": "Which is the tallest mountain on Earth?",
+      "correctAnswer": "Mount Everest",
+      "distractors": [
+        "Mount Kilimanjaro",
+        "Mount Fuji",
+        "Denali"
+      ],
+      "explanation": "Mount Everest, in the Himalayas, rises about 29,032 feet.",
+      "memoryHook": "T-Rexy says: Everest is the tallest mountain on Earth!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "mountains"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_085",
+      "question": "On which continent is Mount Everest?",
+      "correctAnswer": "Asia",
+      "distractors": [
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "explanation": "Everest stands on the border of Nepal and China in Asia.",
+      "memoryHook": "T-Rexy says: Everest towers over Asia!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "mountains"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_086",
+      "question": "What is a population?",
+      "correctAnswer": "The number of people living in a place",
+      "distractors": [
+        "The number of buildings in a city",
+        "The size of a country",
+        "The number of rivers in a place"
+      ],
+      "explanation": "Population means how many people live somewhere.",
+      "memoryHook": "T-Rexy says: population is a headcount of a place!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "human-geography",
+        "population"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_087",
+      "question": "What is a city?",
+      "correctAnswer": "A large place where many people live and work",
+      "distractors": [
+        "A small village",
+        "A farm in the country",
+        "A mountain town"
+      ],
+      "explanation": "Cities are large settlements with many people, buildings, and jobs.",
+      "memoryHook": "T-Rexy says: a city is a big busy place full of people!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "human-geography",
+        "settlements"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_088",
+      "question": "What is a rural area?",
+      "correctAnswer": "Countryside with few people and lots of open land",
+      "distractors": [
+        "A big city",
+        "A busy port",
+        "A factory town"
+      ],
+      "explanation": "Rural areas have farms, small towns, and open space.",
+      "memoryHook": "T-Rexy says: rural means countryside - open land and few neighbors!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "human-geography",
+        "settlements"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_089",
+      "question": "What is an urban area?",
+      "correctAnswer": "A city area with many people and buildings",
+      "distractors": [
+        "A farm area",
+        "A desert",
+        "A forest"
+      ],
+      "explanation": "Urban areas are cities and their crowded surroundings.",
+      "memoryHook": "T-Rexy says: urban means city - crowds and tall buildings!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "human-geography",
+        "settlements"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_090",
+      "question": "Why do many cities grow near rivers?",
+      "correctAnswer": "Rivers give water, food, transport, and trade",
+      "distractors": [
+        "Rivers make cities warmer",
+        "Rivers stop floods",
+        "Rivers are pretty to look at"
+      ],
+      "explanation": "Rivers supply drinking water and a way to move goods.",
+      "memoryHook": "T-Rexy says: rivers bring water and trade - cities grow beside them!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "human-geography",
+        "cities"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_091",
+      "question": "What is a natural resource?",
+      "correctAnswer": "Something from nature that people use, like water, wood, or minerals",
+      "distractors": [
+        "Something made in a factory",
+        "A type of money",
+        "A kind of map"
+      ],
+      "explanation": "Natural resources come from Earth and people use them.",
+      "memoryHook": "T-Rexy says: natural resources are Earth's gifts we use!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "human-geography",
+        "resources"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_092",
+      "question": "Which of these is a renewable resource?",
+      "correctAnswer": "Sunlight",
+      "distractors": [
+        "Coal",
+        "Oil",
+        "Natural gas"
+      ],
+      "explanation": "Sunlight keeps coming back, while coal and oil run out.",
+      "memoryHook": "T-Rexy says: sunlight never runs out - it is renewable!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "human-geography",
+        "resources"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_093",
+      "question": "Which of these is a nonrenewable resource?",
+      "correctAnswer": "Coal",
+      "distractors": [
+        "Wind",
+        "Sunlight",
+        "Water in a river"
+      ],
+      "explanation": "Coal takes millions of years to form and can run out.",
+      "memoryHook": "T-Rexy says: coal takes millions of years to make - once gone, it is gone!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "human-geography",
+        "resources"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_094",
+      "question": "What is the capital of Canada?",
+      "correctAnswer": "Ottawa",
+      "distractors": [
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ],
+      "explanation": "Ottawa is Canada's capital city.",
+      "memoryHook": "T-Rexy says: Ottawa is Canada's capital!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "capitals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_095",
+      "question": "What is the capital of Mexico?",
+      "correctAnswer": "Mexico City",
+      "distractors": [
+        "Cancun",
+        "Guadalajara",
+        "Monterrey"
+      ],
+      "explanation": "Mexico City is Mexico's capital.",
+      "memoryHook": "T-Rexy says: Mexico City is Mexico's capital!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "capitals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_096",
+      "question": "Which country is south of the United States?",
+      "correctAnswer": "Mexico",
+      "distractors": [
+        "Canada",
+        "Brazil",
+        "Cuba"
+      ],
+      "explanation": "Mexico shares the southern border of the U.S.",
+      "memoryHook": "T-Rexy says: Mexico is the neighbor to the south!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "neighbors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_097",
+      "question": "Which country is north of the United States?",
+      "correctAnswer": "Canada",
+      "distractors": [
+        "Mexico",
+        "Russia",
+        "Greenland"
+      ],
+      "explanation": "Canada shares the northern border of the U.S.",
+      "memoryHook": "T-Rexy says: Canada is the neighbor to the north!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "neighbors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_098",
+      "question": "What is the largest ocean on Earth?",
+      "correctAnswer": "The Pacific Ocean",
+      "distractors": [
+        "The Atlantic Ocean",
+        "The Indian Ocean",
+        "The Arctic Ocean"
+      ],
+      "explanation": "The Pacific is the biggest ocean.",
+      "memoryHook": "T-Rexy says: the Pacific is the biggest ocean of all!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "oceans"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_099",
+      "question": "What is the smallest continent?",
+      "correctAnswer": "Australia",
+      "distractors": [
+        "Europe",
+        "Antarctica",
+        "South America"
+      ],
+      "explanation": "Australia is the smallest continent.",
+      "memoryHook": "T-Rexy says: Australia is the smallest continent!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "world",
+        "continents"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO5_100",
+      "question": "Why do geographers study places?",
+      "correctAnswer": "To understand how people, places, and environments connect",
+      "distractors": [
+        "To memorize every city name",
+        "To draw pretty maps only",
+        "To predict the weather for one day"
+      ],
+      "explanation": "Geography explains how land, climate, and people shape each other.",
+      "memoryHook": "T-Rexy says: geographers study how people and places connect!",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "human-geography",
+        "geography"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

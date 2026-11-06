@@ -1,0 +1,2017 @@
+{
+  "packId": "gr10-biology",
+  "title": "Biology (10th Grade)",
+  "description": "Biology (10th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "science",
+    "biology",
+    "10th"
+  ],
+  "questions": [
+    {
+      "id": "BIO10_001",
+      "question": "What is the basic unit of life?",
+      "correctAnswer": "The cell",
+      "distractors": [
+        "The atom",
+        "The molecule",
+        "The organ"
+      ],
+      "explanation": "Every living thing - from a bacterium to a whale - is built from cells, and every life process happens inside cells or between them.",
+      "memoryHook": "T-Rexy says: Cells are the building blocks of life.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_002",
+      "question": "Which organelle is known as the powerhouse of the cell?",
+      "correctAnswer": "The mitochondria",
+      "distractors": [
+        "The nucleus",
+        "The ribosome",
+        "The Golgi apparatus"
+      ],
+      "explanation": "Mitochondria release energy from food through cellular respiration.",
+      "memoryHook": "T-Rexy says: Mitochondria make the cell's energy.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_003",
+      "question": "Which structure controls what enters and leaves a cell?",
+      "correctAnswer": "The cell membrane",
+      "distractors": [
+        "The nucleus",
+        "The cytoplasm",
+        "The vacuole"
+      ],
+      "explanation": "The cell membrane is selectively permeable, controlling what passes in and out.",
+      "memoryHook": "T-Rexy says: The cell membrane is the cell's gatekeeper.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "membrane"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_004",
+      "question": "Where is DNA stored in a eukaryotic cell?",
+      "correctAnswer": "In the nucleus",
+      "distractors": [
+        "In the mitochondria",
+        "In the ribosome",
+        "In the cytoplasm"
+      ],
+      "explanation": "The nucleus holds the cell's DNA, the instructions for making proteins.",
+      "memoryHook": "T-Rexy says: The nucleus is the cell's instruction manual.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "nucleus"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_005",
+      "question": "Which organelle makes proteins?",
+      "correctAnswer": "The ribosome",
+      "distractors": [
+        "The lysosome",
+        "The vacuole",
+        "The chloroplast"
+      ],
+      "explanation": "Ribosomes read mRNA and assemble amino acids into proteins.",
+      "memoryHook": "T-Rexy says: Ribosomes build proteins.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_006",
+      "question": "Which organelle performs photosynthesis in plant cells?",
+      "correctAnswer": "The chloroplast",
+      "distractors": [
+        "The mitochondria",
+        "The nucleus",
+        "The Golgi apparatus"
+      ],
+      "explanation": "Chloroplasts capture sunlight to make food in photosynthesis.",
+      "memoryHook": "T-Rexy says: Chloroplasts turn sunlight into food.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "photosynthesis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_007",
+      "question": "What is the main difference between prokaryotic and eukaryotic cells?",
+      "correctAnswer": "Prokaryotic cells have no nucleus; eukaryotic cells do",
+      "distractors": [
+        "Prokaryotic cells are larger",
+        "Eukaryotic cells have no DNA",
+        "Prokaryotic cells have mitochondria"
+      ],
+      "explanation": "Prokaryotes, like bacteria, lack a membrane-bound nucleus; eukaryotes have one.",
+      "memoryHook": "T-Rexy says: No nucleus means prokaryote.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_008",
+      "question": "What does the Golgi apparatus do?",
+      "correctAnswer": "It modifies, sorts, and packages proteins",
+      "distractors": [
+        "It makes energy",
+        "It stores water",
+        "It copies DNA"
+      ],
+      "explanation": "The Golgi receives newly made proteins from the ER in small vesicles, adds finishing touches such as sugar tags, then sorts and ships them to their destinations.",
+      "memoryHook": "T-Rexy says: The Golgi is the cell's post office.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_009",
+      "question": "Which organelle breaks down waste and old cell parts?",
+      "correctAnswer": "The lysosome",
+      "distractors": [
+        "The ribosome",
+        "The vacuole",
+        "The endoplasmic reticulum"
+      ],
+      "explanation": "Lysosomes contain enzymes that digest waste and worn-out organelles.",
+      "memoryHook": "T-Rexy says: Lysosomes are the cell's cleanup crew.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_010",
+      "question": "What is the fluid that fills a cell?",
+      "correctAnswer": "Cytoplasm",
+      "distractors": [
+        "Plasma",
+        "Serum",
+        "Lymph"
+      ],
+      "explanation": "Cytoplasm is a gel of water, salts, and proteins; its watery part, the cytosol, is where many of the cell's chemical reactions take place.",
+      "memoryHook": "T-Rexy says: Cytoplasm is the cell's jelly.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_011",
+      "question": "Which structure is found in plant cells but not in animal cells?",
+      "correctAnswer": "The cell wall",
+      "distractors": [
+        "The nucleus",
+        "The mitochondria",
+        "The cell membrane"
+      ],
+      "explanation": "The cell wall lies outside the membrane and is woven from cellulose fibers, giving plant cells a fixed shape and extra protection that animal cells do not have.",
+      "memoryHook": "T-Rexy says: Plant cells wear a stiff wall; animal cells do not.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "plant"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_012",
+      "question": "What is the function of the rough endoplasmic reticulum?",
+      "correctAnswer": "To make and fold proteins",
+      "distractors": [
+        "To make lipids",
+        "To store calcium",
+        "To break down toxins"
+      ],
+      "explanation": "Ribosomes on its surface start building proteins, and those proteins pass into the rough ER, where they are folded into their working shapes.",
+      "memoryHook": "T-Rexy says: Rough ER is rough because ribosomes stud it.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_013",
+      "question": "What is osmosis?",
+      "correctAnswer": "The movement of water across a membrane from high to low concentration",
+      "distractors": [
+        "The movement of salt against a gradient",
+        "The division of a cell",
+        "The making of proteins"
+      ],
+      "explanation": "Water moves through the membrane toward the side with more dissolved solute, evening out concentrations without the cell spending any energy.",
+      "memoryHook": "T-Rexy says: Water follows the salt in osmosis.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "transport"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_014",
+      "question": "What happens to a plant cell placed in pure water?",
+      "correctAnswer": "Water enters and the cell becomes turgid",
+      "distractors": [
+        "Water leaves and the cell shrinks",
+        "The cell bursts immediately",
+        "Nothing changes"
+      ],
+      "explanation": "Water moves into the cell by osmosis; the cell wall prevents bursting, so the cell becomes firm.",
+      "memoryHook": "T-Rexy says: The cell wall stops a plant cell from popping.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "osmosis"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_015",
+      "question": "What is active transport?",
+      "correctAnswer": "Moving molecules against their gradient using energy",
+      "distractors": [
+        "Moving water by osmosis",
+        "Diffusion of oxygen",
+        "Moving molecules with the gradient"
+      ],
+      "explanation": "Active transport uses ATP to move substances from low to high concentration.",
+      "memoryHook": "T-Rexy says: Active transport spends energy to push uphill.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "transport"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_016",
+      "question": "Which molecule carries genetic instructions for making proteins?",
+      "correctAnswer": "DNA",
+      "distractors": [
+        "ATP",
+        "Glucose",
+        "Lipids"
+      ],
+      "explanation": "DNA stores the instructions for building proteins in its base sequence.",
+      "memoryHook": "T-Rexy says: DNA is the recipe book for proteins.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "dna"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_017",
+      "question": "What is the cell theory?",
+      "correctAnswer": "All living things are made of cells, and cells come from other cells",
+      "distractors": [
+        "Cells are the largest unit of life",
+        "Only animals have cells",
+        "Cells are made of atoms only"
+      ],
+      "explanation": "Cell theory has three parts: the cell is the basic unit of life, all living things are made of one or more cells, and all cells arise from pre-existing cells.",
+      "memoryHook": "T-Rexy says: Every cell comes from another cell.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "theory"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_018",
+      "question": "Which organelle stores water and nutrients in a plant cell?",
+      "correctAnswer": "The central vacuole",
+      "distractors": [
+        "The lysosome",
+        "The nucleus",
+        "The ribosome"
+      ],
+      "explanation": "When the central vacuole fills with water, it presses the cell contents against the wall; this turgor pressure is what keeps stems and leaves standing upright.",
+      "memoryHook": "T-Rexy says: The vacuole is a plant cell's water tank.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "plant"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_019",
+      "question": "What is diffusion?",
+      "correctAnswer": "Movement of molecules from high to low concentration",
+      "distractors": [
+        "Movement of water only",
+        "Movement against a gradient",
+        "Movement requiring ATP"
+      ],
+      "explanation": "Diffusion needs no energy: constant random motion spreads particles from where they are crowded to where they are sparse, which is how oxygen crosses into the blood in the lungs.",
+      "memoryHook": "T-Rexy says: Diffusion spreads things from crowded to empty.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "transport"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_020",
+      "question": "What is the role of ATP in a cell?",
+      "correctAnswer": "To store and release energy for cell work",
+      "distractors": [
+        "To carry oxygen",
+        "To build cell walls",
+        "To copy DNA"
+      ],
+      "explanation": "ATP is the cell's energy currency, releasing energy when its bonds break.",
+      "memoryHook": "T-Rexy says: ATP is the cell's rechargeable battery.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "energy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_021",
+      "question": "Which cells have a nucleus?",
+      "correctAnswer": "Eukaryotic cells",
+      "distractors": [
+        "Prokaryotic cells",
+        "Bacterial cells",
+        "All cells"
+      ],
+      "explanation": "Only eukaryotic cells keep their DNA inside a membrane-bound nucleus; bacteria and archaea are prokaryotic and have no nucleus at all.",
+      "memoryHook": "T-Rexy says: Eukaryotic means true nucleus.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "types"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_022",
+      "question": "What is the function of the smooth endoplasmic reticulum?",
+      "correctAnswer": "To make lipids and detoxify chemicals",
+      "distractors": [
+        "To make proteins",
+        "To store DNA",
+        "To produce ATP"
+      ],
+      "explanation": "With no ribosomes on its surface, the smooth ER builds lipids and steroid hormones and neutralizes alcohol and other toxins, especially in liver cells.",
+      "memoryHook": "T-Rexy says: Smooth ER makes fats and cleans up toxins.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_023",
+      "question": "What is a stem cell?",
+      "correctAnswer": "An unspecialized cell that can develop into different cell types",
+      "distractors": [
+        "A dead cell",
+        "A cell with no DNA",
+        "A plant cell only"
+      ],
+      "explanation": "Stem cells can divide and differentiate into specialized cells.",
+      "memoryHook": "T-Rexy says: Stem cells are the body's blank slates.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "stem-cells"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_024",
+      "question": "What is the main component of the cell membrane?",
+      "correctAnswer": "A phospholipid bilayer",
+      "distractors": [
+        "Cellulose fibers",
+        "Protein only",
+        "Chitin"
+      ],
+      "explanation": "The membrane is two layers of phospholipids with proteins embedded.",
+      "memoryHook": "T-Rexy says: The membrane is a double layer of fats.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "membrane"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_025",
+      "question": "Which organelle contains enzymes that break down hydrogen peroxide?",
+      "correctAnswer": "The peroxisome",
+      "distractors": [
+        "The ribosome",
+        "The vacuole",
+        "The nucleolus"
+      ],
+      "explanation": "Peroxisomes break down fatty acids and detoxify hydrogen peroxide.",
+      "memoryHook": "T-Rexy says: Peroxisomes neutralize a toxic byproduct.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "cells",
+        "organelles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_026",
+      "question": "What is a gene?",
+      "correctAnswer": "A segment of DNA that codes for a protein",
+      "distractors": [
+        "A type of cell",
+        "A chromosome pair",
+        "A protein that copies DNA"
+      ],
+      "explanation": "Most genes spell out the amino-acid sequence of one protein, and switching a gene on or off changes what a cell is able to do.",
+      "memoryHook": "T-Rexy says: A gene is a recipe for one protein.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "genes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_027",
+      "question": "How many chromosomes do human body cells have?",
+      "correctAnswer": "46",
+      "distractors": [
+        "23",
+        "44",
+        "48"
+      ],
+      "explanation": "Human body cells are diploid: 23 chromosomes come from each parent, giving 46 in 23 homologous pairs; gametes carry only 23.",
+      "memoryHook": "T-Rexy says: Humans have 46 chromosomes.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "chromosomes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_028",
+      "question": "What are the four bases of DNA?",
+      "correctAnswer": "Adenine, thymine, cytosine, guanine",
+      "distractors": [
+        "Adenine, uracil, cytosine, guanine",
+        "Alanine, thymine, cytosine, guanine",
+        "Adenine, thymine, cytosine, glucose"
+      ],
+      "explanation": "The DNA bases are adenine, thymine, cytosine, and guanine; RNA uses the same set except that uracil replaces thymine.",
+      "memoryHook": "T-Rexy says: A pairs with T, C pairs with G.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "dna"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_029",
+      "question": "What does DNA stand for?",
+      "correctAnswer": "Deoxyribonucleic acid",
+      "distractors": [
+        "Deoxyribose nucleic atom",
+        "Dinucleic acid",
+        "Deoxyribonucleic amino acid"
+      ],
+      "explanation": "The name describes the molecule itself: a nucleic acid built from the sugar deoxyribose, phosphate groups, and nitrogen bases.",
+      "memoryHook": "T-Rexy says: DNA is deoxyribonucleic acid.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "dna"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_030",
+      "question": "In DNA, adenine always pairs with which base?",
+      "correctAnswer": "Thymine",
+      "distractors": [
+        "Cytosine",
+        "Guanine",
+        "Uracil"
+      ],
+      "explanation": "Base pairing is fixed by hydrogen bonds: adenine always bonds with thymine, and cytosine always bonds with guanine.",
+      "memoryHook": "T-Rexy says: A always hugs T.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "dna"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_031",
+      "question": "What is the shape of a DNA molecule?",
+      "correctAnswer": "A double helix",
+      "distractors": [
+        "A single strand",
+        "A triple helix",
+        "A flat sheet"
+      ],
+      "explanation": "A DNA molecule is two strands wound around each other like a twisted ladder, with sugar-phosphate rails and base-pair rungs.",
+      "memoryHook": "T-Rexy says: DNA twists like a ladder into a helix.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "dna"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_032",
+      "question": "What is a dominant allele?",
+      "correctAnswer": "An allele that is expressed when present in one copy",
+      "distractors": [
+        "An allele that is never expressed",
+        "An allele found only in males",
+        "An allele that causes disease"
+      ],
+      "explanation": "A dominant allele shows its trait even when paired with a recessive allele.",
+      "memoryHook": "T-Rexy says: Dominant alleles show up with just one copy.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "alleles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_033",
+      "question": "What is the genotype of a heterozygous individual for a trait with alleles A and a?",
+      "correctAnswer": "Aa",
+      "distractors": [
+        "AA",
+        "aa",
+        "A"
+      ],
+      "explanation": "Heterozygous means the two alleles differ - one dominant (written with a capital A) and one recessive (lowercase a); AA and aa are homozygous instead.",
+      "memoryHook": "T-Rexy says: Hetero means different, so Aa.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "genotype"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_034",
+      "question": "What is the probability that two heterozygous parents (Aa x Aa) have a child with genotype aa?",
+      "correctAnswer": "1/4",
+      "distractors": [
+        "1/2",
+        "3/4",
+        "1/8"
+      ],
+      "explanation": "A Punnett square gives AA, Aa, Aa, aa, so aa has a 1/4 chance.",
+      "memoryHook": "T-Rexy says: The Punnett square shows one aa in four.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "punnett"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_035",
+      "question": "Who is known as the father of genetics?",
+      "correctAnswer": "Gregor Mendel",
+      "distractors": [
+        "Charles Darwin",
+        "James Watson",
+        "Louis Pasteur"
+      ],
+      "explanation": "Mendel's pea plant experiments in the 1800s revealed the laws of inheritance.",
+      "memoryHook": "T-Rexy says: Mendel counted peas and found the laws of heredity.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "mendel"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_036",
+      "question": "What is a phenotype?",
+      "correctAnswer": "The observable traits of an organism",
+      "distractors": [
+        "The DNA sequence",
+        "The number of chromosomes",
+        "The genes only"
+      ],
+      "explanation": "Phenotype is the physical expression of the genotype, such as eye color.",
+      "memoryHook": "T-Rexy says: Phenotype is what you see.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "phenotype"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_037",
+      "question": "What is a mutation?",
+      "correctAnswer": "A change in the DNA sequence",
+      "distractors": [
+        "A type of cell division",
+        "A protein that repairs DNA",
+        "A chromosome pair"
+      ],
+      "explanation": "Mutations range from a single swapped base to whole missing segments, and a changed sequence can change the protein a gene builds.",
+      "memoryHook": "T-Rexy says: A mutation is a typo in the DNA.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "mutation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_038",
+      "question": "What is RNA's role in protein synthesis?",
+      "correctAnswer": "To carry instructions from DNA to the ribosome",
+      "distractors": [
+        "To store genetic information long term",
+        "To break down proteins",
+        "To copy chromosomes"
+      ],
+      "explanation": "Messenger RNA carries the DNA code to ribosomes, where proteins are built.",
+      "memoryHook": "T-Rexy says: mRNA is the messenger from DNA to the ribosome.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "rna"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_039",
+      "question": "In RNA, which base replaces thymine?",
+      "correctAnswer": "Uracil",
+      "distractors": [
+        "Adenine",
+        "Cytosine",
+        "Guanine"
+      ],
+      "explanation": "In RNA, uracil takes thymine's place and pairs with adenine, exactly as thymine does in DNA.",
+      "memoryHook": "T-Rexy says: RNA swaps T for U.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "rna"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_040",
+      "question": "What is meiosis?",
+      "correctAnswer": "Cell division that produces four gametes with half the chromosomes",
+      "distractors": [
+        "Cell division that produces two identical cells",
+        "The copying of DNA",
+        "The fusion of two gametes"
+      ],
+      "explanation": "Meiosis uses two divisions to turn one diploid cell into four haploid gametes, each carrying half the usual chromosome number.",
+      "memoryHook": "T-Rexy says: Meiosis halves the chromosomes for sex cells.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "meiosis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_041",
+      "question": "What is mitosis?",
+      "correctAnswer": "Cell division that produces two identical body cells",
+      "distractors": [
+        "Cell division that produces gametes",
+        "The death of a cell",
+        "The fusion of egg and sperm"
+      ],
+      "explanation": "Mitosis uses a single division to turn one cell into two daughter cells, each keeping the full set of 46 chromosomes.",
+      "memoryHook": "T-Rexy says: Mitosis copies cells for growth and repair.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "mitosis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_042",
+      "question": "What is a sex-linked trait?",
+      "correctAnswer": "A trait carried on a sex chromosome",
+      "distractors": [
+        "A trait found only in females",
+        "A trait that skips generations",
+        "A trait with two alleles"
+      ],
+      "explanation": "Because the gene sits on a sex chromosome, inheritance follows sex: males, who have only one X chromosome, show X-linked recessive traits such as color blindness far more often.",
+      "memoryHook": "T-Rexy says: Color blindness rides on the X chromosome.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "sex-linked"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_043",
+      "question": "What does a Punnett square show?",
+      "correctAnswer": "The possible genotypes of offspring from a cross",
+      "distractors": [
+        "The actual children of a couple",
+        "The number of chromosomes",
+        "The order of genes on a chromosome"
+      ],
+      "explanation": "Each parent supplies one allele to the boxes, so a Punnett square gives the genotype ratios to expect in offspring - probabilities, not guarantees.",
+      "memoryHook": "T-Rexy says: A Punnett square predicts the possible kids.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "punnett"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_044",
+      "question": "What is codominance?",
+      "correctAnswer": "When both alleles are fully expressed in the heterozygote",
+      "distractors": [
+        "When one allele hides the other",
+        "When a trait is sex-linked",
+        "When a gene mutates"
+      ],
+      "explanation": "In codominance, both alleles show, as in AB blood type.",
+      "memoryHook": "T-Rexy says: AB blood shows both A and B.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "inheritance"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_045",
+      "question": "What is incomplete dominance?",
+      "correctAnswer": "When the heterozygote shows a blend of the two traits",
+      "distractors": [
+        "When one allele is fully dominant",
+        "When a trait is recessive",
+        "When genes are linked"
+      ],
+      "explanation": "In incomplete dominance, a red and white flower cross gives pink offspring.",
+      "memoryHook": "T-Rexy says: Pink flowers are a blend of red and white.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "inheritance"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_046",
+      "question": "What is the process of copying DNA called?",
+      "correctAnswer": "Replication",
+      "distractors": [
+        "Transcription",
+        "Translation",
+        "Mutation"
+      ],
+      "explanation": "In replication, enzymes unwind the double helix and build a new matching strand on each old strand, producing two identical DNA molecules.",
+      "memoryHook": "T-Rexy says: Replication copies DNA.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "replication"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_047",
+      "question": "What is transcription?",
+      "correctAnswer": "Copying a DNA sequence into RNA",
+      "distractors": [
+        "Building a protein from RNA",
+        "Copying DNA into DNA",
+        "Joining amino acids"
+      ],
+      "explanation": "In transcription, the enzyme RNA polymerase reads one strand of a gene's DNA and assembles a matching messenger RNA copy.",
+      "memoryHook": "T-Rexy says: Transcription writes DNA into RNA.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "transcription"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_048",
+      "question": "What is translation?",
+      "correctAnswer": "Building a protein from an mRNA code at the ribosome",
+      "distractors": [
+        "Copying DNA",
+        "Making RNA from DNA",
+        "Splitting a cell"
+      ],
+      "explanation": "Translation reads mRNA codons and assembles amino acids into a protein.",
+      "memoryHook": "T-Rexy says: Translation turns the RNA message into a protein.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "translation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_049",
+      "question": "What is a codon?",
+      "correctAnswer": "A three-base sequence on mRNA that codes for an amino acid",
+      "distractors": [
+        "A DNA base pair",
+        "A type of ribosome",
+        "A chromosome segment"
+      ],
+      "explanation": "The ribosome reads mRNA three bases at a time, and each codon matches a transfer RNA carrying one specific amino acid.",
+      "memoryHook": "T-Rexy says: Three letters of mRNA code for one amino acid.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "codons"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_050",
+      "question": "What is Down syndrome caused by?",
+      "correctAnswer": "An extra copy of chromosome 21",
+      "distractors": [
+        "A missing X chromosome",
+        "A mutation in one gene",
+        "An extra Y chromosome"
+      ],
+      "explanation": "Down syndrome usually comes from nondisjunction: an egg or sperm keeps two copies of chromosome 21, so after fertilization the cells have three - trisomy 21.",
+      "memoryHook": "T-Rexy says: Down syndrome is an extra chromosome 21.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "genetics",
+        "disorders"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_051",
+      "question": "What is natural selection?",
+      "correctAnswer": "The process by which organisms with helpful traits survive and reproduce more",
+      "distractors": [
+        "The deliberate breeding of animals",
+        "The extinction of all species",
+        "The random movement of genes only"
+      ],
+      "explanation": "Natural selection favors traits that improve survival and reproduction in an environment.",
+      "memoryHook": "T-Rexy says: Nature selects the traits that work best.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "evolution",
+        "natural-selection"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_052",
+      "question": "Who proposed the theory of evolution by natural selection?",
+      "correctAnswer": "Charles Darwin",
+      "distractors": [
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "James Watson"
+      ],
+      "explanation": "Darwin published On the Origin of Species in 1859, proposing natural selection.",
+      "memoryHook": "T-Rexy says: Darwin's finches revealed natural selection.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "evolution",
+        "darwin"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_053",
+      "question": "What is a fossil?",
+      "correctAnswer": "The preserved remains or traces of an ancient organism",
+      "distractors": [
+        "A living organism",
+        "A type of rock only",
+        "A modern species"
+      ],
+      "explanation": "Fossils form when dead organisms are buried in sediment that hardens into rock, preserving bones, shells, or even footprints for millions of years.",
+      "memoryHook": "T-Rexy says: Fossils are echoes of ancient life.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "evolution",
+        "fossils"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_054",
+      "question": "What is adaptation?",
+      "correctAnswer": "A trait that helps an organism survive in its environment",
+      "distractors": [
+        "A change in the weather",
+        "A type of mutation only",
+        "A learned behavior only"
+      ],
+      "explanation": "An adaptation is an inherited trait that improves survival or reproduction.",
+      "memoryHook": "T-Rexy says: Camouflage is an adaptation.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "evolution",
+        "adaptation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_055",
+      "question": "What is speciation?",
+      "correctAnswer": "The formation of a new species",
+      "distractors": [
+        "The extinction of a species",
+        "The migration of a species",
+        "The growth of a population"
+      ],
+      "explanation": "Speciation occurs when populations become reproductively isolated and diverge.",
+      "memoryHook": "T-Rexy says: New species form when populations split apart.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "evolution",
+        "speciation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_056",
+      "question": "What is genetic drift?",
+      "correctAnswer": "Random changes in allele frequencies in a population",
+      "distractors": [
+        "Selection for the fittest traits",
+        "Migration between populations",
+        "Mutation of a single gene"
+      ],
+      "explanation": "Genetic drift is chance change in gene frequencies, strongest in small populations.",
+      "memoryHook": "T-Rexy says: Genetic drift is evolution by luck.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "evolution",
+        "drift"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_057",
+      "question": "What is the main source of new genetic variation?",
+      "correctAnswer": "Mutation",
+      "distractors": [
+        "Mitosis",
+        "Photosynthesis",
+        "Respiration"
+      ],
+      "explanation": "Mutations create new alleles, the raw material for evolution.",
+      "memoryHook": "T-Rexy says: Mutations create new genetic options.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "evolution",
+        "variation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_058",
+      "question": "What is a homologous structure?",
+      "correctAnswer": "A structure in different species with a common evolutionary origin",
+      "distractors": [
+        "A structure with the same function but different origin",
+        "A structure that has no function",
+        "A structure found in only one species"
+      ],
+      "explanation": "Homologous structures, like the forelimbs of humans and bats, share an ancestor.",
+      "memoryHook": "T-Rexy says: A bat wing and a human arm share a blueprint.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "evolution",
+        "homology"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_059",
+      "question": "What is a vestigial structure?",
+      "correctAnswer": "A structure that has lost most of its original function",
+      "distractors": [
+        "A structure that is fully functional",
+        "A new structure in a species",
+        "A structure found in fossils only"
+      ],
+      "explanation": "Vestigial structures, like the human appendix, are reduced remnants of once-useful features.",
+      "memoryHook": "T-Rexy says: The appendix is a leftover from our ancestors.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "evolution",
+        "vestigial"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_060",
+      "question": "What is an ecosystem?",
+      "correctAnswer": "A community of organisms interacting with their physical environment",
+      "distractors": [
+        "A single species only",
+        "A group of the same animals",
+        "A body of water only"
+      ],
+      "explanation": "An ecosystem includes living organisms plus the nonliving factors they interact with.",
+      "memoryHook": "T-Rexy says: An ecosystem is life plus its surroundings.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "ecosystem"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_061",
+      "question": "What is a producer in an ecosystem?",
+      "correctAnswer": "An organism that makes its own food, usually by photosynthesis",
+      "distractors": [
+        "An organism that eats plants",
+        "An organism that eats other animals",
+        "An organism that breaks down dead matter"
+      ],
+      "explanation": "Producers, like plants and algae, make food from sunlight.",
+      "memoryHook": "T-Rexy says: Producers make the food everyone else eats.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "food-web"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_062",
+      "question": "What is a decomposer?",
+      "correctAnswer": "An organism that breaks down dead matter and returns nutrients to the soil",
+      "distractors": [
+        "An organism that hunts prey",
+        "An organism that makes food",
+        "An organism that eats only seeds"
+      ],
+      "explanation": "Decomposers like fungi and bacteria recycle nutrients from dead organisms.",
+      "memoryHook": "T-Rexy says: Decomposers recycle the dead into soil.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "food-web"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_063",
+      "question": "What is a food chain?",
+      "correctAnswer": "A sequence showing who eats whom in an ecosystem",
+      "distractors": [
+        "A list of all species",
+        "A map of habitats",
+        "A type of population graph"
+      ],
+      "explanation": "A food chain traces energy from producers through consumers.",
+      "memoryHook": "T-Rexy says: A food chain shows energy passing from eater to eaten.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "food-web"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_064",
+      "question": "What is carrying capacity?",
+      "correctAnswer": "The largest population an environment can support long term",
+      "distractors": [
+        "The number of predators in an area",
+        "The birth rate of a species",
+        "The size of a habitat"
+      ],
+      "explanation": "A population grows until food, space, water, or predators limit it; that ceiling is the carrying capacity, the flat top of a logistic S-shaped growth curve.",
+      "memoryHook": "T-Rexy says: Carrying capacity is the environment's limit.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "population"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_065",
+      "question": "What is symbiosis?",
+      "correctAnswer": "A close, long-term interaction between two species",
+      "distractors": [
+        "A fight between predators",
+        "A type of reproduction",
+        "A migration pattern"
+      ],
+      "explanation": "Symbiosis is the umbrella term for close, long-term living arrangements between species - mutualism, commensalism, and parasitism are its three main forms.",
+      "memoryHook": "T-Rexy says: Symbiosis is living closely together.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "symbiosis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_066",
+      "question": "What is mutualism?",
+      "correctAnswer": "A symbiotic relationship where both species benefit",
+      "distractors": [
+        "A relationship where one benefits and one is harmed",
+        "A relationship where one benefits and one is unaffected",
+        "A relationship where both are harmed"
+      ],
+      "explanation": "In mutualism, both partners gain, like bees and flowers.",
+      "memoryHook": "T-Rexy says: Bees and flowers both win.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "symbiosis"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_067",
+      "question": "What is parasitism?",
+      "correctAnswer": "A relationship where one organism benefits and the other is harmed",
+      "distractors": [
+        "A relationship where both benefit",
+        "A relationship where neither benefits",
+        "A relationship between two predators"
+      ],
+      "explanation": "A parasite lives on or in a host, gaining food while harming the host.",
+      "memoryHook": "T-Rexy says: A parasite takes and the host pays.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "symbiosis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_068",
+      "question": "What is competition in ecology?",
+      "correctAnswer": "Organisms fighting for the same limited resources",
+      "distractors": [
+        "Organisms helping each other",
+        "Organisms migrating together",
+        "Organisms eating different foods"
+      ],
+      "explanation": "Competition occurs when organisms need the same resources, like food or space.",
+      "memoryHook": "T-Rexy says: Two species wanting the same food compete.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "competition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_069",
+      "question": "What is a keystone species?",
+      "correctAnswer": "A species whose presence strongly affects the whole ecosystem",
+      "distractors": [
+        "The most common species",
+        "The largest predator",
+        "A species with no predators"
+      ],
+      "explanation": "Removing a keystone species causes major changes throughout the ecosystem.",
+      "memoryHook": "T-Rexy says: Sea otters are a keystone species in kelp forests.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "keystone"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_070",
+      "question": "What is biodiversity?",
+      "correctAnswer": "The variety of life in an area, including species diversity",
+      "distractors": [
+        "The number of humans in an area",
+        "The amount of rainfall",
+        "The size of a forest"
+      ],
+      "explanation": "Biodiversity is the variety of genes, species, and ecosystems in a place.",
+      "memoryHook": "T-Rexy says: Biodiversity is life's variety.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "biodiversity"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_071",
+      "question": "What is the main cause of the greenhouse effect?",
+      "correctAnswer": "Gases like carbon dioxide trapping heat in the atmosphere",
+      "distractors": [
+        "Oxygen in the air",
+        "Clouds blocking sunlight",
+        "Ocean currents"
+      ],
+      "explanation": "Greenhouse gases absorb and re-emit heat, warming the Earth.",
+      "memoryHook": "T-Rexy says: CO2 traps heat like a blanket.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "climate"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_072",
+      "question": "What is a trophic level?",
+      "correctAnswer": "A feeding level in a food chain or web",
+      "distractors": [
+        "A type of habitat",
+        "A population size",
+        "A migration route"
+      ],
+      "explanation": "Trophic levels are the steps in a food chain: producers, herbivores, carnivores.",
+      "memoryHook": "T-Rexy says: Each trophic level is one step up the food chain.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "food-web"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_073",
+      "question": "What is succession?",
+      "correctAnswer": "The gradual change in species over time in an area",
+      "distractors": [
+        "The extinction of a species",
+        "The daily cycle of tides",
+        "The migration of birds"
+      ],
+      "explanation": "Ecological succession is the orderly replacement of species in a community over time.",
+      "memoryHook": "T-Rexy says: A bare field slowly becomes a forest.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "succession"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_074",
+      "question": "What is a biome?",
+      "correctAnswer": "A large region with a distinct climate and characteristic organisms",
+      "distractors": [
+        "A single pond",
+        "A small garden",
+        "A type of cell"
+      ],
+      "explanation": "Biomes, like deserts and rainforests, are large areas defined by climate and life.",
+      "memoryHook": "T-Rexy says: A desert is a biome.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "biomes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_075",
+      "question": "What is the role of nitrogen-fixing bacteria?",
+      "correctAnswer": "To convert nitrogen gas into forms plants can use",
+      "distractors": [
+        "To make oxygen",
+        "To break down rocks",
+        "To produce carbon dioxide"
+      ],
+      "explanation": "Nitrogen-fixing bacteria turn atmospheric nitrogen into ammonia and nitrates for plants.",
+      "memoryHook": "T-Rexy says: Bacteria make nitrogen usable for plants.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "ecology",
+        "cycles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_076",
+      "question": "What is the function of red blood cells?",
+      "correctAnswer": "To carry oxygen around the body",
+      "distractors": [
+        "To fight infection",
+        "To clot blood",
+        "To carry nerve signals"
+      ],
+      "explanation": "Red blood cells are packed with hemoglobin, which picks up oxygen in the lungs and releases it in the tissues; they have no nucleus, leaving more room for hemoglobin.",
+      "memoryHook": "T-Rexy says: Red blood cells deliver oxygen.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "blood"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_077",
+      "question": "What is the function of white blood cells?",
+      "correctAnswer": "To fight infections and disease",
+      "distractors": [
+        "To carry oxygen",
+        "To clot blood",
+        "To produce hormones"
+      ],
+      "explanation": "White blood cells patrol the blood and tissues, engulfing microbes and producing antibodies; unlike red blood cells, they keep their nucleus.",
+      "memoryHook": "T-Rexy says: White blood cells are the immune system's soldiers.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "blood"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_078",
+      "question": "Which organ pumps blood around the body?",
+      "correctAnswer": "The heart",
+      "distractors": [
+        "The liver",
+        "The lung",
+        "The kidney"
+      ],
+      "explanation": "With each beat, the heart's ventricles squeeze blood into the arteries - oxygen-rich blood to the body and oxygen-poor blood to the lungs.",
+      "memoryHook": "T-Rexy says: The heart is the body's pump.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "circulation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_079",
+      "question": "What is the main function of the lungs?",
+      "correctAnswer": "To exchange oxygen and carbon dioxide",
+      "distractors": [
+        "To pump blood",
+        "To digest food",
+        "To filter blood"
+      ],
+      "explanation": "In the lungs' alveoli, oxygen diffuses into the blood while carbon dioxide diffuses out to be exhaled; the diaphragm muscle drives the breathing itself.",
+      "memoryHook": "T-Rexy says: Lungs swap oxygen for carbon dioxide.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "respiration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_080",
+      "question": "What is photosynthesis?",
+      "correctAnswer": "The process by which plants make food using sunlight, water, and carbon dioxide",
+      "distractors": [
+        "The process by which animals make energy",
+        "The breakdown of glucose",
+        "The movement of water in plants"
+      ],
+      "explanation": "Photosynthesis uses light energy to build glucose from water and carbon dioxide.",
+      "memoryHook": "T-Rexy says: Photosynthesis turns light into sugar.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "plants",
+        "photosynthesis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_081",
+      "question": "What is cellular respiration?",
+      "correctAnswer": "The process that releases energy from glucose using oxygen",
+      "distractors": [
+        "The process of making food in plants",
+        "The exchange of gases in the lungs",
+        "The copying of DNA"
+      ],
+      "explanation": "Cellular respiration breaks down glucose to release energy as ATP.",
+      "memoryHook": "T-Rexy says: Respiration burns sugar for energy.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "energy",
+        "respiration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_082",
+      "question": "What is the chemical equation for photosynthesis?",
+      "correctAnswer": "6CO2 + 6H2O + light energy -> C6H12O6 + 6O2",
+      "distractors": [
+        "C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy",
+        "6CO2 + 6H2O -> 6O2 + energy",
+        "C6H12O6 -> 2C2H5OH + 2CO2"
+      ],
+      "explanation": "Photosynthesis combines carbon dioxide and water with light to make glucose and oxygen.",
+      "memoryHook": "T-Rexy says: Photosynthesis builds sugar from air and water.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "plants",
+        "photosynthesis"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_083",
+      "question": "Which pigment captures light in photosynthesis?",
+      "correctAnswer": "Chlorophyll",
+      "distractors": [
+        "Hemoglobin",
+        "Melanin",
+        "Cellulose"
+      ],
+      "explanation": "Chlorophyll in chloroplasts absorbs sunlight, mostly red and blue light.",
+      "memoryHook": "T-Rexy says: Chlorophyll makes plants green.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "plants",
+        "photosynthesis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_084",
+      "question": "Where does photosynthesis take place?",
+      "correctAnswer": "In the chloroplasts of plant cells",
+      "distractors": [
+        "In the mitochondria",
+        "In the nucleus",
+        "In the vacuole"
+      ],
+      "explanation": "Photosynthesis runs in the chloroplasts of mesophyll cells inside leaves, close to the light and to the veins that deliver water.",
+      "memoryHook": "T-Rexy says: Chloroplasts are the kitchen of the leaf.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "plants",
+        "photosynthesis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_085",
+      "question": "What is the main function of the roots of a plant?",
+      "correctAnswer": "To absorb water and minerals from the soil",
+      "distractors": [
+        "To make food",
+        "To attract pollinators",
+        "To produce seeds"
+      ],
+      "explanation": "Roots anchor the plant and absorb water and nutrients.",
+      "memoryHook": "T-Rexy says: Roots drink for the plant.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "plants",
+        "anatomy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_086",
+      "question": "What is the function of the xylem in a plant?",
+      "correctAnswer": "To transport water and minerals upward",
+      "distractors": [
+        "To transport food downward",
+        "To make seeds",
+        "To capture sunlight"
+      ],
+      "explanation": "Xylem is built from dead, hollow vessel cells stacked into tubes; evaporation from the leaves pulls water up these tubes from the roots.",
+      "memoryHook": "T-Rexy says: Xylem carries water up.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "plants",
+        "transport"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_087",
+      "question": "What is the function of the phloem in a plant?",
+      "correctAnswer": "To transport food (sugars) throughout the plant",
+      "distractors": [
+        "To transport water upward",
+        "To absorb minerals",
+        "To make chlorophyll"
+      ],
+      "explanation": "Phloem is living tissue that moves sugars from sources, where they are made (leaves), to sinks, where they are used or stored (roots, fruits, seeds).",
+      "memoryHook": "T-Rexy says: Phloem delivers the food.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "plants",
+        "transport"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_088",
+      "question": "What is the role of stomata in leaves?",
+      "correctAnswer": "To allow gas exchange and control water loss",
+      "distractors": [
+        "To make chlorophyll",
+        "To store food",
+        "To attract insects"
+      ],
+      "explanation": "Stomata are pores that let carbon dioxide in and oxygen and water vapor out.",
+      "memoryHook": "T-Rexy says: Stomata are the leaf's breathing pores.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "plants",
+        "anatomy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_089",
+      "question": "What is the nervous system's main job?",
+      "correctAnswer": "To receive, process, and respond to information",
+      "distractors": [
+        "To pump blood",
+        "To digest food",
+        "To make hormones"
+      ],
+      "explanation": "Sensory neurons detect stimuli, interneurons in the brain and spinal cord process the signals, and motor neurons trigger the response in muscles or glands.",
+      "memoryHook": "T-Rexy says: Nerves carry the body's messages.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "nervous"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_090",
+      "question": "What is a neuron?",
+      "correctAnswer": "A nerve cell that carries electrical signals",
+      "distractors": [
+        "A blood cell",
+        "A muscle cell",
+        "A bone cell"
+      ],
+      "explanation": "A neuron's dendrites receive signals and its long axon carries the electrical impulse onward to other cells; ordinary body cells cannot pass signals this way.",
+      "memoryHook": "T-Rexy says: Neurons are the wires of the nervous system.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "nervous"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_091",
+      "question": "What is homeostasis?",
+      "correctAnswer": "The maintenance of a stable internal environment",
+      "distractors": [
+        "The growth of new cells",
+        "The breakdown of food",
+        "The production of hormones"
+      ],
+      "explanation": "Homeostasis keeps conditions like temperature and blood sugar steady.",
+      "memoryHook": "T-Rexy says: Homeostasis keeps the body's balance.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "homeostasis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_092",
+      "question": "Which organ filters blood and makes urine?",
+      "correctAnswer": "The kidney",
+      "distractors": [
+        "The liver",
+        "The spleen",
+        "The pancreas"
+      ],
+      "explanation": "Inside each kidney, about a million nephrons filter blood under pressure, reabsorbing the water and salts the body needs and sending the waste out as urine.",
+      "memoryHook": "T-Rexy says: Kidneys filter the blood.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "excretion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_093",
+      "question": "What is the function of the liver?",
+      "correctAnswer": "To process nutrients, detoxify blood, and make bile",
+      "distractors": [
+        "To pump blood",
+        "To make insulin only",
+        "To store urine"
+      ],
+      "explanation": "The liver processes nutrients, breaks down toxins, and produces bile for digestion.",
+      "memoryHook": "T-Rexy says: The liver is the body's chemical factory.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "organs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_094",
+      "question": "What hormone lowers blood sugar?",
+      "correctAnswer": "Insulin",
+      "distractors": [
+        "Glucagon",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "explanation": "Insulin, made by the pancreas, helps cells take in glucose and lowers blood sugar.",
+      "memoryHook": "T-Rexy says: Insulin opens the door for sugar to enter cells.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "hormones"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_095",
+      "question": "What is the function of the skeleton?",
+      "correctAnswer": "To support the body, protect organs, and produce blood cells",
+      "distractors": [
+        "To pump blood",
+        "To digest food",
+        "To carry nerve signals"
+      ],
+      "explanation": "Bones support the body, protect organs, and make blood cells in marrow.",
+      "memoryHook": "T-Rexy says: Bones support, protect, and make blood.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "skeleton"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_096",
+      "question": "What is the main function of the digestive system?",
+      "correctAnswer": "To break down food and absorb nutrients",
+      "distractors": [
+        "To carry oxygen",
+        "To filter blood",
+        "To produce hormones"
+      ],
+      "explanation": "Churning and enzymes break food into molecules small enough to pass through the intestinal wall into the blood.",
+      "memoryHook": "T-Rexy says: Digestion turns food into fuel.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "digestion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_097",
+      "question": "Which enzyme in saliva begins breaking down starch?",
+      "correctAnswer": "Amylase",
+      "distractors": [
+        "Pepsin",
+        "Lipase",
+        "Trypsin"
+      ],
+      "explanation": "Amylase in saliva starts digesting starch into sugars.",
+      "memoryHook": "T-Rexy says: Amylase starts digesting starch in your mouth.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "digestion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_098",
+      "question": "What is the function of the immune system?",
+      "correctAnswer": "To defend the body against pathogens",
+      "distractors": [
+        "To carry oxygen",
+        "To make blood cells",
+        "To regulate temperature"
+      ],
+      "explanation": "The immune system recognizes and attacks invaders like bacteria and viruses.",
+      "memoryHook": "T-Rexy says: The immune system is the body's defense force.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "immune"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_099",
+      "question": "What is a pathogen?",
+      "correctAnswer": "A microorganism that causes disease",
+      "distractors": [
+        "A type of white blood cell",
+        "A vitamin",
+        "A hormone"
+      ],
+      "explanation": "Most microbes are harmless or even helpful; pathogens are the minority of microorganisms that invade the body and cause disease.",
+      "memoryHook": "T-Rexy says: Pathogens are germs that make you sick.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "human-body",
+        "immune"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "BIO10_100",
+      "question": "What is an enzyme?",
+      "correctAnswer": "A protein that speeds up chemical reactions",
+      "distractors": [
+        "A type of fat",
+        "A DNA molecule",
+        "A cell organelle"
+      ],
+      "explanation": "Enzymes act as biological catalysts, speeding reactions without being used up.",
+      "memoryHook": "T-Rexy says: Enzymes speed up reactions without being used up.",
+      "imageUrl": "topic:biology",
+      "tags": [
+        "energy",
+        "enzymes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

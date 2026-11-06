@@ -1,0 +1,2137 @@
+{
+  "packId": "ella-ap-world-history",
+  "title": "AP World History (11th Grade)",
+  "description": "AP World History (11th) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-04",
+  "tags": [
+    "history",
+    "world",
+    "ap",
+    "11th"
+  ],
+  "questions": [
+    {
+      "id": "EWH_001",
+      "question": "Marco Polo, describing the money used in Kublai Khan's China in the 1290s, wrote: \"All these pieces of paper are issued with as much solemnity and authority as if they were of pure gold or silver.\" Polo's account best illustrates which of the following?",
+      "correctAnswer": "A strong central government could make paper currency work across a huge empire",
+      "distractors": [
+        "European merchants refused to trade with China",
+        "China depended on imported silver for its money supply",
+        "The Mongols abolished Chinese taxes"
+      ],
+      "explanation": "Polo was describing Yuan China's paper money. The notes were only bark paper; they circulated because the Khan's government printed them with official seals, required everyone to accept them, and punished forgery with death. A currency accepted 'as if it were gold' from one end of the empire to the other is evidence of the Mongol Yuan state's administrative reach, and it let merchants trade across Eurasia without carrying heavy metal coins.",
+      "memoryHook": "T-Rexy says: Paper passed for gold because the Khan's seal stood behind it - authority, not metal, made it money!",
+      "imageUrl": "topic:marco-polo-paper-money",
+      "tags": [
+        "trade",
+        "mongol",
+        "yuan-china",
+        "1200-1450"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_002",
+      "question": "After capturing the city of Bukhara in 1220, Genghis Khan addressed its people, as recorded by the Persian historian Juvayni: \"I am the punishment of God. If you had not committed great sins, God would not have sent a punishment like me upon you.\" The speech presents the Mongol conquests as",
+      "correctAnswer": "Divinely ordained punishment that conquered peoples had brought on themselves",
+      "distractors": [
+        "A defensive war fought only to protect Mongol herds",
+        "A campaign to force all conquered peoples to adopt Mongol religion",
+        "An accident that the Mongol leadership regretted"
+      ],
+      "explanation": "Genghis Khan did not present himself at Bukhara as a mere raider. Speaking from the pulpit of the city's mosque, he claimed his victory was God's judgment on the sins of Bukhara's rulers and people. Framing conquest as divine punishment served Mongol rule: it made resistance look like defiance of heaven itself, and it warned other cities that surrender was safer than the fate of Bukhara, which was burned and emptied after the speech.",
+      "memoryHook": "T-Rexy says: Genghis called himself God's punishment - surrender, or be judged!",
+      "imageUrl": "topic:genghis-khan-bukhara",
+      "tags": [
+        "mongol",
+        "conquest",
+        "1200-1450"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_003",
+      "question": "Which crop from the Americas became a staple food in Europe after the Columbian Exchange?",
+      "correctAnswer": "Potato",
+      "distractors": [
+        "Rice",
+        "Wheat",
+        "Barley"
+      ],
+      "explanation": "The potato, native to the Andes, spread to Europe and became a dietary staple, especially in Ireland. It provided more calories per acre than grain and supported major population growth.",
+      "memoryHook": "T-Rexy says: The humble potato crossed the Atlantic and fed Europe - thanks, Andes!",
+      "imageUrl": "topic:columbian-exchange-potato",
+      "tags": [
+        "columbian-exchange",
+        "food",
+        "1450-1750"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_004",
+      "question": "What was the Middle Passage?",
+      "correctAnswer": "The forced transport of enslaved Africans across the Atlantic Ocean",
+      "distractors": [
+        "The sea route Portuguese ships used to reach India",
+        "The overland trade route connecting West Africa to North Africa",
+        "The journey of European indentured servants to the Caribbean"
+      ],
+      "explanation": "The Middle Passage was the brutal middle leg of the triangular trade, carrying millions of enslaved Africans from West Africa to the Americas under horrific conditions. An estimated 12.5 million people were forced across the Atlantic.",
+      "memoryHook": "T-Rexy says: Middle Passage = the middle leg of the triangular trade - the darkest crossing in history.",
+      "imageUrl": "topic:middle-passage-slave-trade",
+      "tags": [
+        "slave-trade",
+        "atlantic",
+        "1450-1750"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_005",
+      "question": "Which Enlightenment thinker argued that people have natural rights to life, liberty, and property?",
+      "correctAnswer": "John Locke",
+      "distractors": [
+        "Thomas Hobbes",
+        "Voltaire",
+        "Rene Descartes"
+      ],
+      "explanation": "John Locke argued in his Two Treatises of Government that government exists to protect natural rights, and that people may overthrow a government that fails to do so. His ideas heavily influenced the American and French Revolutions.",
+      "memoryHook": "T-Rexy says: Locke = life, liberty, property - the rights governments must protect!",
+      "imageUrl": "topic:john-locke-natural-rights",
+      "tags": [
+        "enlightenment",
+        "philosophy",
+        "1450-1750"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_006",
+      "question": "Article 3 of the French Declaration of the Rights of Man and of the Citizen (1789) states: \"The principle of all sovereignty resides essentially in the nation. No body nor individual may exercise any authority which does not proceed directly from the nation.\" The article most directly rejects which idea?",
+      "correctAnswer": "That kings rule by divine right, with authority granted by God",
+      "distractors": [
+        "That governments should protect property rights",
+        "That citizens owe obedience to the law",
+        "That France should immediately abolish its monarchy"
+      ],
+      "explanation": "Under the Old Regime, French kings claimed their authority came from God - the doctrine of divine right - so no earthly body could limit them. Article 3 turns that upside down: all legitimate authority flows from 'the nation', meaning the people as a whole. This is the Enlightenment idea of popular sovereignty, drawn from thinkers such as Rousseau, and it became the founding claim of the French Revolution. Note that the Assembly of 1789 still kept a king; what it abolished was the divine source of his power.",
+      "memoryHook": "T-Rexy says: Sovereignty lives in the nation, not in a God-crowned king - Article 3 flipped the crown upside down!",
+      "imageUrl": "topic:declaration-rights-of-man",
+      "tags": [
+        "enlightenment",
+        "revolution",
+        "france",
+        "1750-1900"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_007",
+      "question": "In February 1840 British officials and Maori chiefs first signed the Treaty of Waitangi; copies carried around New Zealand were eventually signed by more than 500 chiefs in total. Text A (English version): Maori cede 'sovereignty' to the British Crown. Text B (Maori-language version): chiefs grant 'governorship' but keep their full chiefly authority over their lands and treasures. The treaty is historically significant mainly because",
+      "correctAnswer": "It founded British rule in New Zealand, and its disputed meaning still drives Maori claims today",
+      "distractors": [
+        "It granted New Zealand independence in 1840",
+        "It expelled all European settlers from New Zealand",
+        "It was signed only after Maori forces defeated Britain in war"
+      ],
+      "explanation": "Waitangi made New Zealand a British colony without a war of conquest, but the two texts did not say the same thing, and Maori understood the agreement differently from the British. As settlers poured in and governments bought or seized Maori land, resistance grew into the New Zealand Wars of the 1840s-1860s and, in the twentieth century, into formal treaty claims before the Waitangi Tribunal. The treaty remains New Zealand's founding document and the basis of its ongoing debate about Maori rights.",
+      "memoryHook": "T-Rexy says: One treaty, two meanings - Waitangi still shapes New Zealand today!",
+      "imageUrl": "topic:treaty-of-waitangi",
+      "tags": [
+        "imperialism",
+        "oceania",
+        "new-zealand",
+        "1750-1900"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_008",
+      "question": "In 1832 Elizabeth Bentley testified before a British parliamentary committee about starting work in a Leeds flax mill at the age of six: \"What were your hours of labour in that mill? - From 5 in the morning till 9 at night, when they were thronged... What time was allowed for your meals? - Forty minutes at noon.\" Testimony like Bentley's was gathered mainly to support",
+      "correctAnswer": "Laws limiting factory hours and child labor",
+      "distractors": [
+        "The expansion of child labor into new industries",
+        "Lower taxes on factory owners",
+        "The replacement of factories with home workshops"
+      ],
+      "explanation": "Michael Sadler's committee collected testimony from former child workers to build the case for his Ten Hours Bill. Bentley's sixteen-hour days, single short meal break, and fines for lateness showed Parliament what unregulated factories did to children. The campaign led within a year to the Factory Act of 1833, which limited children's working hours and created factory inspectors - an early example of industrialization generating its own reform movements.",
+      "memoryHook": "T-Rexy says: Five in the morning to nine at night, starting at age six - her words helped change the law!",
+      "imageUrl": "topic:sadler-report-testimony",
+      "tags": [
+        "industrialization",
+        "labor",
+        "britain",
+        "1750-1900"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_009",
+      "question": "The Berlin Conference of 1884-1885 is most associated with which of the following?",
+      "correctAnswer": "The partition of Africa among European powers",
+      "distractors": [
+        "The creation of the League of Nations",
+        "The unification of Germany",
+        "The end of the transatlantic slave trade"
+      ],
+      "explanation": "At the Berlin Conference, European powers set rules for claiming African territory, accelerating the Scramble for Africa. By 1914, only Ethiopia and Liberia remained independent on the continent.",
+      "memoryHook": "T-Rexy says: Berlin 1884 - Europeans drew Africa's borders without a single African present.",
+      "imageUrl": "topic:berlin-conference-africa",
+      "tags": [
+        "imperialism",
+        "africa",
+        "1750-1900"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_010",
+      "question": "Article 231 of the Treaty of Versailles (1919) reads: \"The Allied and Associated Governments affirm and Germany accepts the responsibility of Germany and her allies for causing all the loss and damage to which the Allied and Associated Governments and their nationals have been subjected as a consequence of the war imposed upon them by the aggression of Germany and her allies.\" Germans across the political spectrum reacted to this clause with outrage mainly because they",
+      "correctAnswer": "Read it as assigning Germany sole moral guilt for the war, a national humiliation",
+      "distractors": [
+        "Believed it gave Germany control of the Allied colonies",
+        "Objected most strongly to Germany joining the League of Nations",
+        "Wanted Germany to keep paying reparations indefinitely"
+      ],
+      "explanation": "Article 231 was written as the legal basis for reparations, but Germans read its German translation - which called Germany and its allies the 'authors' of all losses - as a verdict of sole war guilt. Nationalists denounced this 'war-guilt lie' and the reparations bills that followed, and the grievance poisoned the politics of the Weimar Republic. Extremist parties, above all the Nazis, built much of their attack on the postwar order around it.",
+      "memoryHook": "T-Rexy says: One clause, read as 'Germany alone is guilty' - Article 231 haunted Europe for twenty years!",
+      "imageUrl": "topic:versailles-article-231",
+      "tags": [
+        "wwi",
+        "treaty",
+        "germany",
+        "1900-1945"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_011",
+      "question": "An inscription Zheng He and his officers erected in 1431 states: \"We have traversed more than one hundred thousand li of immense water spaces and have beheld in the ocean huge waves like mountains rising sky-high.\" The voyages this inscription celebrates were mainly intended to",
+      "correctAnswer": "Display Ming China's power and draw distant states into its tribute system",
+      "distractors": [
+        "Establish Chinese settler colonies in East Africa",
+        "Find a sea route around Africa to Portugal",
+        "Conquer Japan and Korea"
+      ],
+      "explanation": "Zheng He's seven voyages (1405-1433) carried tens of thousands of men on enormous treasure ships to Southeast Asia, India, Arabia, and East Africa. The fleet fought pirates and intervened in a few local disputes, but its main work was diplomacy on a grand scale: dazzling foreign rulers with Ming wealth, escorting their envoys back to China, and enrolling their states as tribute-bearing partners of the emperor. The boastful inscription, carved before the final voyage, was itself part of that display of power.",
+      "memoryHook": "T-Rexy says: A hundred thousand li of showing off - the treasure fleet was a floating parade of Ming power!",
+      "imageUrl": "topic:zheng-he-inscription",
+      "tags": [
+        "china",
+        "maritime",
+        "indian-ocean",
+        "1200-1450"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_012",
+      "question": "Data - Hangzhou, capital of the Southern Song, c. 1270: Population: over 1,000,000 residents. Streets: restaurants, tea houses, and shops of every kind. Money: paper notes accepted in daily trade. Print: books and printed menus in wide circulation. Hangzhou's size and bustle are best explained by which development in Song China?",
+      "correctAnswer": "A commercial revolution of growing trade, markets, and money-based exchange",
+      "distractors": [
+        "A decree forcing most farmers to live in the capital",
+        "The arrival of large numbers of European merchants after 1200",
+        "The abandonment of farming in southern China"
+      ],
+      "explanation": "Hangzhou was the capital of the Southern Song and the showcase of China's commercial revolution. Fast-ripening Champa rice, better farming tools, and water transport raised farm output, while markets, guilds, paper money, and maritime trade supported cities far larger than any in contemporary Europe. A million-person city full of restaurants and printed menus could exist only where farming produced a surplus and commerce moved it to buyers.",
+      "memoryHook": "T-Rexy says: Restaurants, paper money, a million people - Song cities ran on trade!",
+      "imageUrl": "topic:song-hangzhou-commerce",
+      "tags": [
+        "china",
+        "song",
+        "cities",
+        "1200-1450"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_013",
+      "question": "Source - Charter granted by the Dutch States General to the Dutch East India Company (VOC), 1602, summarized: The company may build forts, keep soldiers, and sign treaties in Asia. Its starting capital was raised by selling shares to the general public, and any Dutch resident could invest. The VOC's share-selling structure was significant because it",
+      "correctAnswer": "Let many investors pool capital and share the risk of long-distance trade",
+      "distractors": [
+        "Ended competition between European trading nations in Asia",
+        "Made the Dutch government pay for all of the company's voyages",
+        "Reserved all Asian trade for the Dutch royal family"
+      ],
+      "explanation": "A single voyage to Asia could cost a fortune and take two years, and many ships never returned. The VOC spread that risk: thousands of investors bought shares, the company pooled their money into a permanent capital fund, and profits flowed back to shareholders as dividends. This joint-stock model, similar to the English East India Company founded in 1600, let small maritime nations finance worldwide networks of forts, factories, and fleets.",
+      "memoryHook": "T-Rexy says: Thousands of shareholders, one company - the VOC sold pieces of an empire!",
+      "imageUrl": "topic:dutch-east-india-company",
+      "tags": [
+        "maritime-empires",
+        "companies",
+        "trade",
+        "1450-1750"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_014",
+      "question": "Mohandas Gandhi is best known for using which strategy against British rule?",
+      "correctAnswer": "Nonviolent civil disobedience",
+      "distractors": [
+        "Armed guerrilla warfare",
+        "Economic boycotts by industrial workers only",
+        "Diplomatic negotiation with the League of Nations"
+      ],
+      "explanation": "Gandhi's strategy of satyagraha - nonviolent civil disobedience - included the Salt March of 1930 and mass boycotts of British goods. It inspired civil rights movements worldwide.",
+      "memoryHook": "T-Rexy says: Satyagraha - truth-force without violence, Gandhi's signature weapon.",
+      "imageUrl": "topic:gandhi-nonviolent-resistance",
+      "tags": [
+        "decolonization",
+        "india",
+        "1900-1945"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_015",
+      "question": "The Ottoman Empire collapsed after which war?",
+      "correctAnswer": "World War I",
+      "distractors": [
+        "The Crimean War",
+        "The Russo-Turkish War of 1877",
+        "The Napoleonic Wars"
+      ],
+      "explanation": "The Ottoman Empire, on the losing side in World War I, was dismantled by the Treaty of Sevres. Mustafa Kemal Ataturk then led the Turkish War of Independence, creating the Republic of Turkey in 1923.",
+      "memoryHook": "T-Rexy says: WWI finished the 'sick man of Europe' - and Ataturk built Turkey from the ruins.",
+      "imageUrl": "topic:ottoman-empire-collapse",
+      "tags": [
+        "ottoman",
+        "wwi",
+        "1900-1945"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_016",
+      "question": "The Meiji Restoration of 1868 in Japan is best described as a period of",
+      "correctAnswer": "Rapid modernization and industrialization",
+      "distractors": [
+        "Isolation from all foreign contact",
+        "Return to feudal samurai rule",
+        "Colonization by European powers"
+      ],
+      "explanation": "After 1868, Japan's Meiji government rapidly industrialized, built railroads and factories, reformed the military, and adopted Western institutions - while preserving Japanese culture. Japan became the first non-Western industrial power.",
+      "memoryHook": "T-Rexy says: Meiji 1868 - Japan modernizes at lightning speed and joins the great powers.",
+      "imageUrl": "topic:meiji-restoration-japan",
+      "tags": [
+        "japan",
+        "modernization",
+        "1750-1900"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_017",
+      "question": "The Opium Wars of the 19th century were fought between China and which country?",
+      "correctAnswer": "Great Britain",
+      "distractors": [
+        "Russia",
+        "Portugal",
+        "The Netherlands"
+      ],
+      "explanation": "Britain fought China in both Opium Wars (1839-1842 and 1856-1860) to force open Chinese markets to British opium and trade; France joined Britain in the second war. The Treaty of Nanjing (1842) ceded Hong Kong to Britain and opened treaty ports.",
+      "memoryHook": "T-Rexy says: Britain forced opium on China - the wars that opened China to the West.",
+      "imageUrl": "topic:opium-wars-china",
+      "tags": [
+        "china",
+        "imperialism",
+        "1750-1900"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_018",
+      "question": "The Arab writer al-Umari described the 1324 visit of Mansa Musa of Mali to Cairo during his pilgrimage to Mecca: \"This man flooded Cairo with his benefactions. He left no court emir nor holder of a royal office without the gift of a load of gold. ... They exchanged gold until they depressed its value in Egypt and caused its price to fall.\" The account most directly supports which conclusion?",
+      "correctAnswer": "Mali controlled gold supplies large enough to affect markets far beyond West Africa",
+      "distractors": [
+        "Mali was isolated from the wider Islamic world",
+        "Egypt conquered Mali and seized its gold mines",
+        "Cairo's merchants refused to accept African gold"
+      ],
+      "explanation": "Mansa Musa's caravan carried so much gold into Cairo that, according to al-Umari, the price of gold in Egypt fell and stayed low for years afterward. That was possible because Mali sat astride the trans-Saharan trade routes and drew gold from West African mining regions such as Bambuk and Bure. The episode shows a West African empire wealthy enough, and connected enough, to move prices in one of the great cities of the Islamic world.",
+      "memoryHook": "T-Rexy says: Musa spent so much gold in Cairo that its price crashed - that is Mali's wealth talking!",
+      "imageUrl": "topic:mansa-musa-cairo",
+      "tags": [
+        "mali",
+        "gold",
+        "trans-saharan",
+        "1200-1450"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_019",
+      "question": "Indian Ocean trade in the period 1200-1450 was primarily made possible by",
+      "correctAnswer": "Monsoon winds",
+      "distractors": [
+        "The invention of the steamship",
+        "The construction of the Suez Canal",
+        "The use of caravans across the steppe"
+      ],
+      "explanation": "Seasonal monsoon winds allowed merchants to sail reliably across the Indian Ocean, connecting East Africa, Arabia, India, and Southeast Asia in a vast trading network of spices, textiles, and ceramics.",
+      "memoryHook": "T-Rexy says: Monsoon winds were the engine of the Indian Ocean trade network.",
+      "imageUrl": "topic:indian-ocean-monsoon-trade",
+      "tags": [
+        "trade",
+        "indian-ocean",
+        "1200-1450"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_020",
+      "question": "Map - Abel Tasman's voyage for the Dutch East India Company, 1642-1643: From Batavia on Java, the track runs south of Australia to the island now called Tasmania, then northeast to New Zealand, where the first recorded meeting between Europeans and Maori took place, then on to Tonga and Fiji. Tasman's voyage, as shown on the map, is best understood as part of which broader pattern?",
+      "correctAnswer": "European maritime companies expanding exploration and trade into the Pacific",
+      "distractors": [
+        "Spain's conquest of the Aztec and Inca empires",
+        "The founding of the Dutch colony at Cape Town in South Africa",
+        "Aboriginal Australian merchants opening trade with Europe"
+      ],
+      "explanation": "By the 1640s the Dutch East India Company (VOC), the world's richest trading company, wanted new sea routes and lands in the southern oceans and hoped a great southern continent might exist. Tasman found no continent and little trade, but his landfalls extended European knowledge across the Pacific world and produced the first recorded European encounter with Maori New Zealand. Company-sponsored exploration was steadily pulling the Pacific into European maps and commercial plans.",
+      "memoryHook": "T-Rexy says: Tasman put Tasmania and New Zealand on European maps - the company wanted the whole Pacific!",
+      "imageUrl": "topic:tasman-voyage-1642",
+      "tags": [
+        "exploration",
+        "pacific",
+        "oceania",
+        "1450-1750"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_021",
+      "question": "Martin Luther's Ninety-five Theses, posted in 1517, challenged which institution?",
+      "correctAnswer": "The Catholic Church",
+      "distractors": [
+        "The Ottoman Empire",
+        "The Holy Roman Emperor",
+        "The English monarchy"
+      ],
+      "explanation": "Luther's 1517 theses protested the sale of indulgences and questioned papal authority, launching the Protestant Reformation. The printing press spread his ideas rapidly across Europe.",
+      "memoryHook": "T-Rexy says: 1517 - Luther's theses nailed to the door, and the Reformation begins.",
+      "imageUrl": "topic:luther-ninety-five-theses",
+      "tags": [
+        "reformation",
+        "religion",
+        "1450-1750"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_022",
+      "question": "Which two Indigenous empires were conquered by Spain in the 16th century?",
+      "correctAnswer": "The Aztec and Inca empires",
+      "distractors": [
+        "The Maya and the Cherokee",
+        "The Songhai and the Mali",
+        "The Ottoman and the Safavid"
+      ],
+      "explanation": "Hernan Cortes conquered the Aztec Empire in 1521 and Francisco Pizarro conquered the Inca Empire in 1533. Disease, superior weaponry, and alliances with rival Indigenous groups aided the Spanish.",
+      "memoryHook": "T-Rexy says: Cortes took the Aztecs, Pizarro took the Incas - two empires fell in a decade.",
+      "imageUrl": "topic:spanish-conquest-aztec-inca",
+      "tags": [
+        "conquest",
+        "americas",
+        "1450-1750"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_023",
+      "question": "The Russian Revolution of 1917 resulted in which of the following?",
+      "correctAnswer": "The establishment of a communist government under the Bolsheviks",
+      "distractors": [
+        "The restoration of the Romanov monarchy",
+        "Russia joining the Axis powers",
+        "The immediate end of World War I for all nations"
+      ],
+      "explanation": "In October 1917, the Bolsheviks under Lenin seized power, promising 'peace, land, and bread.' They withdrew Russia from WWI and established the world's first communist state, later the Soviet Union.",
+      "memoryHook": "T-Rexy says: 1917 - the Bolsheviks seize power and Russia turns red.",
+      "imageUrl": "topic:russian-revolution-1917",
+      "tags": [
+        "revolution",
+        "russia",
+        "1900-1945"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_024",
+      "question": "The Great Depression began with which event in 1929?",
+      "correctAnswer": "The crash of the United States stock market",
+      "distractors": [
+        "The outbreak of World War II",
+        "The collapse of the Ottoman Empire",
+        "The Russian Revolution"
+      ],
+      "explanation": "The US stock market crashed in October 1929, triggering a global depression. Bank failures, unemployment, and collapsing trade spread worldwide, and governments responded with new policies like the New Deal.",
+      "memoryHook": "T-Rexy says: October 1929 - the crash on Wall Street echoed around the world.",
+      "imageUrl": "topic:great-depression-1929",
+      "tags": [
+        "depression",
+        "economy",
+        "1900-1945"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_025",
+      "question": "The League of Nations was created after World War I primarily to",
+      "correctAnswer": "Prevent future wars through collective security",
+      "distractors": [
+        "Punish Germany with reparations",
+        "Divide the Ottoman Empire",
+        "Establish free trade zones in Europe"
+      ],
+      "explanation": "The League of Nations, proposed in Wilson's Fourteen Points and founded in 1920, aimed to resolve disputes through diplomacy and collective security. It failed to prevent WWII, partly because the US never joined.",
+      "memoryHook": "T-Rexy says: The League was born to keep the peace - but without the US, it was toothless.",
+      "imageUrl": "topic:league-of-nations",
+      "tags": [
+        "wwi",
+        "diplomacy",
+        "1900-1945"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_026",
+      "question": "Map description - Lake Texcoco, c. 1500: The Aztec capital Tenochtitlan stands on an island near the western shore, linked to the mainland by causeways. On all sides, the shallow water is divided into a grid of narrow canals and rectangular plots (chinampas) built from mud and vegetation, green with crops in every season. The chinampa system shown in this map description most directly helped the Aztec state by",
+      "correctAnswer": "Feeding a very large city population from the lake itself",
+      "distractors": [
+        "Providing cavalry horses for Aztec armies",
+        "Producing cotton mainly for export to Europe",
+        "Ending the need for tribute from conquered peoples"
+      ],
+      "explanation": "Tenochtitlan, founded in 1325 on an island in Lake Texcoco, grew to perhaps 200,000 people, larger than most European cities of its day. Chinampas turned the surrounding shallows into some of the most productive farmland in the Americas: constantly watered, fertilized with lake mud, and harvested several times a year. That local food supply, together with tribute, let the Aztecs sustain a huge urban capital built on a lake.",
+      "memoryHook": "T-Rexy says: Farms on the lake fed a city of 200,000 - chinampas were Tenochtitlan's grocery store!",
+      "imageUrl": "topic:aztec-chinampas",
+      "tags": [
+        "aztec",
+        "agriculture",
+        "americas",
+        "1200-1450"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_027",
+      "question": "The Berlin Wall fell in which year, symbolizing the end of the Cold War in Europe?",
+      "correctAnswer": "1989",
+      "distractors": [
+        "1961",
+        "1975",
+        "1991"
+      ],
+      "explanation": "The Berlin Wall, built in 1961 to divide East and West Berlin, fell on November 9, 1989, as communist regimes collapsed across Eastern Europe. German reunification followed in 1990.",
+      "memoryHook": "T-Rexy says: November 1989 - the Wall falls, and the Cold War crumbles with it.",
+      "imageUrl": "topic:berlin-wall-falls-1989",
+      "tags": [
+        "cold-war",
+        "germany",
+        "1945-present"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_028",
+      "question": "Apartheid was a system of racial segregation enforced in which country?",
+      "correctAnswer": "South Africa",
+      "distractors": [
+        "India",
+        "Algeria",
+        "Kenya"
+      ],
+      "explanation": "Apartheid was South Africa's official policy of racial segregation from 1948 to the early 1990s. Nelson Mandela, imprisoned for 27 years, became president in 1994 after apartheid ended.",
+      "memoryHook": "T-Rexy says: Apartheid ruled South Africa until Mandela's election in 1994.",
+      "imageUrl": "topic:apartheid-south-africa",
+      "tags": [
+        "apartheid",
+        "africa",
+        "1945-present"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_029",
+      "question": "Which technology most transformed global trade in the second half of the 20th century?",
+      "correctAnswer": "Container shipping",
+      "distractors": [
+        "The steam locomotive",
+        "The telegraph",
+        "The sailing ship"
+      ],
+      "explanation": "Standardized shipping containers, introduced in the 1950s, drastically cut the cost and time of loading cargo. Containerization was a key driver of globalization, enabling just-in-time manufacturing worldwide.",
+      "memoryHook": "T-Rexy says: The humble shipping container shrank the world and supercharged globalization.",
+      "imageUrl": "topic:container-shipping-globalization",
+      "tags": [
+        "globalization",
+        "trade",
+        "1945-present"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_030",
+      "question": "The Green Revolution of the mid-20th century primarily involved",
+      "correctAnswer": "High-yield crop varieties and new agricultural techniques",
+      "distractors": [
+        "The creation of national parks",
+        "The shift from coal to solar power",
+        "The banning of chemical fertilizers"
+      ],
+      "explanation": "The Green Revolution introduced high-yield wheat and rice varieties, fertilizers, and irrigation to countries like India and Mexico in the 1960s, dramatically increasing food production and averting famine.",
+      "memoryHook": "T-Rexy says: High-yield seeds + fertilizer = the Green Revolution fed billions.",
+      "imageUrl": "topic:green-revolution-agriculture",
+      "tags": [
+        "agriculture",
+        "technology",
+        "1945-present"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_031",
+      "question": "The Pax Mongolica contributed most directly to which of the following?",
+      "correctAnswer": "Safer long-distance trade across Eurasia and the spread of the Black Death",
+      "distractors": [
+        "The collapse of the Byzantine Empire",
+        "The end of the trans-Saharan gold trade",
+        "The founding of the Ottoman Empire"
+      ],
+      "explanation": "Mongol unification made Eurasian roads safer, reviving Silk Roads trade in the 13th and 14th centuries. The same connected networks, however, carried the bubonic plague from Central Asia to Europe and China.",
+      "memoryHook": "T-Rexy says: Pax Mongolica: safer roads, booming trade - and the plague hitching a ride.",
+      "imageUrl": "topic:pax-mongolica-trade-plague",
+      "tags": [
+        "mongol",
+        "trade",
+        "disease",
+        "1200-1450"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_032",
+      "question": "Zheng He's treasure voyages in the early 15th century demonstrated which of the following?",
+      "correctAnswer": "Ming China's naval power and reach into the Indian Ocean",
+      "distractors": [
+        "China's desire to colonize the Americas",
+        "The Ming dynasty's alliance with the Mongols",
+        "China's dependence on European shipbuilding"
+      ],
+      "explanation": "Between 1405 and 1433, Admiral Zheng He led massive fleets to Southeast Asia, India, Arabia, and East Africa, displaying Ming wealth and power. The voyages ended when the Ming turned inward and focused on northern defenses.",
+      "memoryHook": "T-Rexy says: Zheng He's treasure ships sailed to Africa - then China turned inward.",
+      "imageUrl": "topic:zheng-he-treasure-voyages",
+      "tags": [
+        "china",
+        "maritime",
+        "1200-1450"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_033",
+      "question": "Akbar the Great of the Mughal Empire is best known for his policy of",
+      "correctAnswer": "Religious tolerance toward Hindus and other faiths",
+      "distractors": [
+        "Forcing all subjects to convert to Islam",
+        "Banning all trade with Europeans",
+        "Abolishing the caste system entirely"
+      ],
+      "explanation": "Akbar (r. 1556-1605) promoted sulh-i-kul, or universal tolerance, abolished the jizya tax on non-Muslims, and married Hindu princesses. His policies helped stabilize Mughal rule over a largely Hindu population.",
+      "memoryHook": "T-Rexy says: Akbar's tolerance - sulh-i-kul - held the diverse Mughal Empire together.",
+      "imageUrl": "topic:akbar-mughal-tolerance",
+      "tags": [
+        "mughal",
+        "religion",
+        "1450-1750"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_034",
+      "question": "A major difference between the Ottoman and Safavid empires was",
+      "correctAnswer": "The Ottomans were Sunni Muslim while the Safavids were Shia Muslim",
+      "distractors": [
+        "The Safavids controlled the Balkans while the Ottomans controlled Persia",
+        "The Ottomans were Hindu while the Safavids were Buddhist",
+        "The Safavids were a sea power while the Ottomans were landlocked"
+      ],
+      "explanation": "The Sunni Ottoman and Shia Safavid empires were rivals, and their religious difference shaped centuries of conflict over Iraq and the Caucasus. The Safavids made Twelver Shiism the state religion of Persia.",
+      "memoryHook": "T-Rexy says: Sunni Ottomans vs Shia Safavids - faith divided two great empires.",
+      "imageUrl": "topic:ottoman-safavid-sunni-shia",
+      "tags": [
+        "ottoman",
+        "safavid",
+        "religion",
+        "1450-1750"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_035",
+      "question": "The triangular trade of the Atlantic world connected which three regions?",
+      "correctAnswer": "Europe, Africa, and the Americas",
+      "distractors": [
+        "Europe, Asia, and Australia",
+        "Africa, India, and China",
+        "The Americas, Europe, and the Middle East"
+      ],
+      "explanation": "Triangular trade linked Europe (manufactured goods), Africa (enslaved people), and the Americas (plantation goods like sugar and tobacco). It drove the Atlantic economy from the 16th to the 19th century.",
+      "memoryHook": "T-Rexy says: Europe, Africa, Americas - the triangle that built the Atlantic economy.",
+      "imageUrl": "topic:triangular-trade-atlantic",
+      "tags": [
+        "trade",
+        "atlantic",
+        "1450-1750"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_036",
+      "question": "Sugar plantations in the Caribbean relied primarily on which labor system?",
+      "correctAnswer": "Enslaved African labor",
+      "distractors": [
+        "Wage labor by European workers",
+        "Indentured Chinese labor only",
+        "Cooperative labor by Indigenous farmers"
+      ],
+      "explanation": "Caribbean sugar plantations were brutal labor camps worked by enslaved Africans. Sugar was the most valuable commodity of the Atlantic economy, and its demand drove the slave trade's massive scale.",
+      "memoryHook": "T-Rexy says: Sugar was sweet for Europe - and deadly for enslaved workers in the Caribbean.",
+      "imageUrl": "topic:caribbean-sugar-plantations",
+      "tags": [
+        "slave-trade",
+        "labor",
+        "1450-1750"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_037",
+      "question": "Montesquieu's idea of the separation of powers influenced which document?",
+      "correctAnswer": "The United States Constitution",
+      "distractors": [
+        "The Magna Carta",
+        "The Edict of Nantes",
+        "The Treaty of Westphalia"
+      ],
+      "explanation": "Montesquieu argued in The Spirit of the Laws (1748) that liberty requires dividing government into legislative, executive, and judicial branches. The US Constitution adopted this structure of checks and balances.",
+      "memoryHook": "T-Rexy says: Montesquieu split power into three branches - the US Constitution followed.",
+      "imageUrl": "topic:montesquieu-separation-powers",
+      "tags": [
+        "enlightenment",
+        "government",
+        "1450-1750"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_038",
+      "question": "The Haitian Revolution (1791-1804) is significant because it",
+      "correctAnswer": "Was the only successful slave revolt to create an independent nation",
+      "distractors": [
+        "Restored French colonial rule in the Caribbean",
+        "Established the first monarchy in the Americas",
+        "Ended the transatlantic slave trade immediately"
+      ],
+      "explanation": "Led by Toussaint Louverture and Jean-Jacques Dessalines, enslaved people in Saint-Domingue defeated French forces and founded Haiti in 1804 - the first Black republic and the second independent nation in the Americas.",
+      "memoryHook": "T-Rexy says: Haiti 1804 - the only successful slave revolt that built a nation.",
+      "imageUrl": "topic:haitian-revolution",
+      "tags": [
+        "revolution",
+        "haiti",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_039",
+      "question": "Simon Bolivar is best known for leading independence movements in which region?",
+      "correctAnswer": "Spanish South America",
+      "distractors": [
+        "British North America",
+        "Portuguese Brazil",
+        "French North Africa"
+      ],
+      "explanation": "Bolivar, called El Libertador, led the liberation of Venezuela, Colombia, Ecuador, Peru, and Bolivia from Spanish rule in the 1810s and 1820s. He dreamed of a united Spanish America but died disappointed as the new states split apart.",
+      "memoryHook": "T-Rexy says: Bolivar the Liberator freed much of South America from Spain.",
+      "imageUrl": "topic:simon-bolivar-independence",
+      "tags": [
+        "revolution",
+        "latin-america",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_040",
+      "question": "The Congress of Vienna (1814-1815) aimed primarily to",
+      "correctAnswer": "Restore the balance of power in Europe after Napoleon",
+      "distractors": [
+        "Grant independence to Latin American colonies",
+        "Abolish the slave trade worldwide",
+        "Unify Italy and Germany"
+      ],
+      "explanation": "After Napoleon's defeat, the great powers met in Vienna to restore monarchies, redraw borders, and create a balance of power that would prevent another French domination. The settlement kept general peace in Europe for decades.",
+      "memoryHook": "T-Rexy says: Vienna 1815 - the great powers rebuilt Europe to contain France.",
+      "imageUrl": "topic:congress-of-vienna",
+      "tags": [
+        "diplomacy",
+        "europe",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_041",
+      "question": "Which industry was the first to industrialize in Britain?",
+      "correctAnswer": "Textiles",
+      "distractors": [
+        "Steel",
+        "Coal mining",
+        "Shipbuilding"
+      ],
+      "explanation": "Textiles led industrialization - inventions like the spinning jenny, water frame, and power loom mechanized cotton production. The factory system began in textile mills before spreading to iron, coal, and railroads.",
+      "memoryHook": "T-Rexy says: Cotton first - the textile mill was the factory system's birthplace.",
+      "imageUrl": "topic:textile-industry-first",
+      "tags": [
+        "industrialization",
+        "britain",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_042",
+      "question": "Railroads contributed to industrialization most directly by",
+      "correctAnswer": "Lowering transportation costs and connecting markets",
+      "distractors": [
+        "Replacing all factory labor with machines",
+        "Eliminating the need for coal",
+        "Ending international trade"
+      ],
+      "explanation": "Railroads moved goods and people cheaply and quickly, integrated national markets, created demand for iron and coal, and standardized time. They were the backbone of 19th-century industrial economies.",
+      "memoryHook": "T-Rexy says: Railroads shrank distance and stitched national markets together.",
+      "imageUrl": "topic:railroads-industrialization",
+      "tags": [
+        "industrialization",
+        "transport",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_043",
+      "question": "The Second Industrial Revolution is best characterized by which developments?",
+      "correctAnswer": "Steel, chemicals, electricity, and oil",
+      "distractors": [
+        "Textiles and water power",
+        "Steam engines and canals",
+        "Handcraft production and guilds"
+      ],
+      "explanation": "From about 1870, steel, chemicals, electricity, and petroleum transformed industry. New technologies included the Bessemer process, the internal combustion engine, and electric lighting, and large corporations and trusts emerged.",
+      "memoryHook": "T-Rexy says: Steel, chemicals, electricity - the second wave industrialized the world.",
+      "imageUrl": "topic:second-industrial-revolution",
+      "tags": [
+        "industrialization",
+        "technology",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_044",
+      "question": "Which of the following best explains Japan's success in industrializing in the late 19th century?",
+      "correctAnswer": "State-led modernization that adopted Western technology while preserving Japanese control",
+      "distractors": [
+        "Colonization by Britain",
+        "Abundant domestic oil reserves",
+        "The abolition of all traditional culture"
+      ],
+      "explanation": "The Meiji state directed industrialization: it built railroads, hired foreign experts, sent students abroad, and created state enterprises later sold to private firms. Japan avoided colonization and became an imperial power itself.",
+      "memoryHook": "T-Rexy says: The Meiji state drove modernization - Japan industrialized on its own terms.",
+      "imageUrl": "topic:japan-industrialization-meiji",
+      "tags": [
+        "japan",
+        "industrialization",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_045",
+      "question": "Under Sergei Witte, Russia's industrialization in the 1890s focused on",
+      "correctAnswer": "Building the Trans-Siberian Railway and heavy industry",
+      "distractors": [
+        "Privatizing all state factories",
+        "Abandoning serfdom-era agriculture",
+        "Importing British textiles"
+      ],
+      "explanation": "Finance Minister Witte pushed state-directed industrialization: foreign investment, protective tariffs, and the Trans-Siberian Railway. Russian industry grew rapidly, though most peasants remained poor and discontent grew.",
+      "memoryHook": "T-Rexy says: Witte's railways and heavy industry dragged Russia into the industrial age.",
+      "imageUrl": "topic:witte-russia-industrialization",
+      "tags": [
+        "russia",
+        "industrialization",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_046",
+      "question": "A primary motive for the European Scramble for Africa was",
+      "correctAnswer": "Competition for raw materials and markets amid industrialization",
+      "distractors": [
+        "A desire to spread democracy",
+        "African invitations for European rule",
+        "The need to find new land for European farmers only"
+      ],
+      "explanation": "Industrial powers sought African raw materials (rubber, copper, palm oil) and new markets, while nationalist rivalry pushed each power to claim territory before rivals did. The Berlin Conference formalized the partition.",
+      "memoryHook": "T-Rexy says: Raw materials + rivalry = the Scramble for Africa.",
+      "imageUrl": "topic:scramble-for-africa-motives",
+      "tags": [
+        "imperialism",
+        "africa",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_047",
+      "question": "The British Raj in India was characterized by which of the following?",
+      "correctAnswer": "Direct British rule after the Sepoy Rebellion of 1857",
+      "distractors": [
+        "Indian self-government under the Mughal emperor",
+        "A joint Anglo-French administration",
+        "Complete free trade with no tariffs"
+      ],
+      "explanation": "After the Sepoy Rebellion (1857), the British Crown took direct control of India from the East India Company. The Raj built railroads and extracted resources while discriminating against Indians in administration and the military.",
+      "memoryHook": "T-Rexy says: After 1857, the Crown ruled India directly - the Raj had begun.",
+      "imageUrl": "topic:british-raj-india",
+      "tags": [
+        "imperialism",
+        "india",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_048",
+      "question": "The Boxer Rebellion (1899-1901) in China was a response to",
+      "correctAnswer": "Foreign imperialist influence and Christian missionary activity",
+      "distractors": [
+        "The Mongol invasion of northern China",
+        "The Japanese invasion of Manchuria",
+        "The collapse of the Ming dynasty"
+      ],
+      "explanation": "The Boxers, a secret society, attacked foreigners and Chinese Christians in protest against imperialist encroachment after China's defeat in the Opium Wars and the Sino-Japanese War. An eight-nation force crushed the rebellion.",
+      "memoryHook": "T-Rexy says: The Boxers rose against foreign domination - and were crushed by eight nations.",
+      "imageUrl": "topic:boxer-rebellion-china",
+      "tags": [
+        "china",
+        "imperialism",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_049",
+      "question": "The Russo-Japanese War of 1904-1905 was significant because",
+      "correctAnswer": "An Asian power defeated a European great power",
+      "distractors": [
+        "Russia annexed Japan",
+        "Japan became a British colony",
+        "It started World War I"
+      ],
+      "explanation": "Japan's victory over Russia shocked the world - the first time a modern Asian state defeated a European great power. It established Japan as a major power and fueled Russian discontent that fed the 1905 Revolution.",
+      "memoryHook": "T-Rexy says: 1905 - Japan beats Russia, and the world rethinks European supremacy.",
+      "imageUrl": "topic:russo-japanese-war",
+      "tags": [
+        "japan",
+        "russia",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_050",
+      "question": "Which of the following was a major long-term cause of World War I?",
+      "correctAnswer": "The alliance system that turned a local conflict into a continental war",
+      "distractors": [
+        "The invention of the airplane",
+        "The fall of the Ottoman Empire in 1908",
+        "The Spanish-American War"
+      ],
+      "explanation": "Europe's rigid alliance system - the Triple Alliance and Triple Entente - meant a crisis in the Balkans pulled in all the great powers. Militarism, imperial rivalry, and nationalism were the other long-term causes.",
+      "memoryHook": "T-Rexy says: Alliances turned a Balkan crisis into a world war - the system was the trap.",
+      "imageUrl": "topic:wwi-alliance-system-cause",
+      "tags": [
+        "wwi",
+        "alliances",
+        "1900-1945"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_051",
+      "question": "The Treaty of Versailles (1919) is best remembered for",
+      "correctAnswer": "Imposing harsh reparations and war guilt on Germany",
+      "distractors": [
+        "Creating the United Nations",
+        "Granting independence to all European colonies",
+        "Establishing the Soviet Union"
+      ],
+      "explanation": "Versailles blamed Germany for the war (Article 231), imposed heavy reparations, and redrew Europe's map. German resentment over the treaty later helped the Nazis rise to power.",
+      "memoryHook": "T-Rexy says: Versailles punished Germany - and its resentment fueled the next war.",
+      "imageUrl": "topic:treaty-of-versailles",
+      "tags": [
+        "wwi",
+        "treaty",
+        "1900-1945"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_052",
+      "question": "Mustafa Kemal Ataturk is best known for",
+      "correctAnswer": "Founding the secular Republic of Turkey",
+      "distractors": [
+        "Leading the Ottoman conquest of Constantinople",
+        "Founding the Safavid Empire",
+        "Leading the Arab Revolt against the Ottomans"
+      ],
+      "explanation": "Ataturk led Turkey's War of Independence, abolished the sultanate and caliphate, and built a secular republic with reforms in law, education, language, and women's rights.",
+      "memoryHook": "T-Rexy says: Ataturk built modern, secular Turkey from the Ottoman ruins.",
+      "imageUrl": "topic:ataturk-turkey",
+      "tags": [
+        "turkey",
+        "nationalism",
+        "1900-1945"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_053",
+      "question": "The Chinese Civil War ended in 1949 with which result?",
+      "correctAnswer": "The Communists under Mao Zedong won and the Nationalists fled to Taiwan",
+      "distractors": [
+        "The Nationalists under Chiang Kai-shek won and the Communists fled",
+        "China was partitioned between the US and USSR",
+        "Japan reoccupied China"
+      ],
+      "explanation": "After years of civil war interrupted by the Japanese invasion, Mao's Communists defeated Chiang Kai-shek's Nationalists in 1949. The People's Republic of China was proclaimed, and the Nationalists retreated to Taiwan.",
+      "memoryHook": "T-Rexy says: 1949 - Mao wins, the People's Republic is born, and the Nationalists flee to Taiwan.",
+      "imageUrl": "topic:chinese-civil-war-1949",
+      "tags": [
+        "china",
+        "communism",
+        "1900-1945"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_054",
+      "question": "Which of the following was a key feature of total war in World War II?",
+      "correctAnswer": "Entire economies and civilian populations were mobilized for the war effort",
+      "distractors": [
+        "Only professional soldiers fought, with civilians unaffected",
+        "All nations agreed to limit bombing to military targets",
+        "Naval battles were the only form of combat"
+      ],
+      "explanation": "Total war meant governments mobilized whole economies, rationed goods, conscripted labor, and targeted civilian populations - through strategic bombing, blockades, and atrocities. The line between soldier and civilian blurred.",
+      "memoryHook": "T-Rexy says: Total war mobilized everything - factories, farms, and civilians became targets.",
+      "imageUrl": "topic:total-war-wwii",
+      "tags": [
+        "wwii",
+        "warfare",
+        "1900-1945"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_055",
+      "question": "The US policy of containment during the Cold War aimed to",
+      "correctAnswer": "Prevent the spread of communism to new countries",
+      "distractors": [
+        "Contain the Soviet Union's nuclear weapons by disarmament",
+        "Isolate the United States from all foreign trade",
+        "Overthrow communist governments by direct invasion"
+      ],
+      "explanation": "Containment, articulated by George Kennan, meant stopping communism's spread through aid (Marshall Plan), alliances (NATO), and military intervention (Korea, Vietnam) rather than directly attacking the USSR.",
+      "memoryHook": "T-Rexy says: Containment: stop communism from spreading - aid, alliances, and proxy wars.",
+      "imageUrl": "topic:containment-policy",
+      "tags": [
+        "cold-war",
+        "us-policy",
+        "1945-present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_056",
+      "question": "The Korean War (1950-1953) ended with which outcome?",
+      "correctAnswer": "An armistice that left Korea divided at the 38th parallel",
+      "distractors": [
+        "A unified communist Korea",
+        "A unified democratic Korea",
+        "A peace treaty signed by all parties"
+      ],
+      "explanation": "The war ended in a 1953 armistice, not a peace treaty, leaving North and South Korea divided along roughly the 38th parallel - a division that persists today. The US and China fought on opposite sides.",
+      "memoryHook": "T-Rexy says: 1953 - armistice, not peace, and Korea stays divided to this day.",
+      "imageUrl": "topic:korean-war-armistice",
+      "tags": [
+        "cold-war",
+        "korea",
+        "1945-present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_057",
+      "question": "The Vietnam War was part of which broader Cold War pattern?",
+      "correctAnswer": "Proxy wars between the US and the Soviet Union",
+      "distractors": [
+        "Direct nuclear confrontation between superpowers",
+        "The decolonization of Latin America",
+        "The unification of Europe"
+      ],
+      "explanation": "Vietnam was a proxy war: the US backed South Vietnam while the USSR and China backed North Vietnam. The US withdrew in 1973, and North Vietnam unified the country in 1975.",
+      "memoryHook": "T-Rexy says: Vietnam - a Cold War proxy war that ended in US withdrawal and unification.",
+      "imageUrl": "topic:vietnam-war-proxy",
+      "tags": [
+        "cold-war",
+        "vietnam",
+        "1945-present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_058",
+      "question": "The Cuban Missile Crisis of 1962 was resolved when",
+      "correctAnswer": "The Soviet Union removed its missiles from Cuba in exchange for a US pledge not to invade Cuba",
+      "distractors": [
+        "The United States invaded Cuba",
+        "The United Nations destroyed all nuclear weapons",
+        "Cuba joined NATO"
+      ],
+      "explanation": "For thirteen days the world stood at the brink of nuclear war. Khrushchev agreed to remove Soviet missiles from Cuba; Kennedy pledged not to invade Cuba and secretly agreed to remove US missiles from Turkey.",
+      "memoryHook": "T-Rexy says: Thirteen days at the nuclear brink - resolved by a secret missile trade.",
+      "imageUrl": "topic:cuban-missile-crisis",
+      "tags": [
+        "cold-war",
+        "cuba",
+        "1945-present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_059",
+      "question": "The year 1960 is called the 'Year of Africa' because",
+      "correctAnswer": "Seventeen African nations gained independence that year",
+      "distractors": [
+        "The African Union was founded",
+        "Apartheid ended in South Africa",
+        "The Suez Canal was nationalized"
+      ],
+      "explanation": "In 1960, seventeen African states won independence from European colonial rule, the peak of the decolonization wave. Leaders like Kwame Nkrumah in Ghana inspired the continent's liberation movements.",
+      "memoryHook": "T-Rexy says: 1960 - seventeen African nations free in a single year.",
+      "imageUrl": "topic:year-of-africa-1960",
+      "tags": [
+        "decolonization",
+        "africa",
+        "1945-present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_060",
+      "question": "The Arab-Israeli conflict began primarily over",
+      "correctAnswer": "Competing claims to the land of Palestine after the British Mandate",
+      "distractors": [
+        "Control of the Suez Canal",
+        "Oil reserves in Saudi Arabia",
+        "Religious differences between Sunni and Shia Muslims"
+      ],
+      "explanation": "After the British Mandate ended in 1948, Jewish leaders proclaimed Israel and neighboring Arab states attacked. The conflict over land, refugees, and borders has continued through multiple wars and remains unresolved.",
+      "memoryHook": "T-Rexy says: 1948 - two peoples, one land, and a conflict that endures.",
+      "imageUrl": "topic:arab-israeli-conflict",
+      "tags": [
+        "middle-east",
+        "conflict",
+        "1945-present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_061",
+      "question": "The Iranian Revolution of 1979 resulted in",
+      "correctAnswer": "An Islamic republic under Ayatollah Khomeini",
+      "distractors": [
+        "A communist government allied with the USSR",
+        "A pro-Western monarchy",
+        "A secular democracy"
+      ],
+      "explanation": "Mass protests overthrew the US-backed Shah, and Ayatollah Khomeini established an Islamic Republic. The revolution transformed Iran, inspired Islamist movements, and reshaped Middle Eastern politics.",
+      "memoryHook": "T-Rexy says: 1979 - the Shah falls, Khomeini's Islamic Republic rises.",
+      "imageUrl": "topic:iranian-revolution-1979",
+      "tags": [
+        "iran",
+        "revolution",
+        "1945-present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_062",
+      "question": "Mikhail Gorbachev's policies of glasnost and perestroika contributed to",
+      "correctAnswer": "The collapse of the Soviet Union",
+      "distractors": [
+        "The strengthening of the Warsaw Pact",
+        "The reunification of Korea",
+        "The invasion of Afghanistan"
+      ],
+      "explanation": "Glasnost (openness) and perestroika (restructuring) loosened Communist Party control and exposed the USSR's economic failures. Nationalist movements surged, and the Soviet Union dissolved in 1991.",
+      "memoryHook": "T-Rexy says: Glasnost and perestroika opened the USSR - and it fell apart.",
+      "imageUrl": "topic:gorbachev-glasnost-perestroika",
+      "tags": [
+        "cold-war",
+        "ussr",
+        "1945-present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_063",
+      "question": "The World Bank, IMF, and WTO are best described as institutions that",
+      "correctAnswer": "Promote global economic integration and development",
+      "distractors": [
+        "Enforce military alliances",
+        "Regulate nuclear weapons",
+        "Administer colonial territories"
+      ],
+      "explanation": "The Bretton Woods institutions (IMF and World Bank, 1944) and the WTO (1995) promote trade, lending, and development. Critics argue they favor wealthy nations; supporters credit them with lifting millions from poverty.",
+      "memoryHook": "T-Rexy says: IMF, World Bank, WTO - the institutions that built the global economy.",
+      "imageUrl": "topic:bretton-woods-institutions",
+      "tags": [
+        "globalization",
+        "economy",
+        "1945-present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_064",
+      "question": "Women's suffrage movements in the early 20th century were part of a broader trend of",
+      "correctAnswer": "Expanding political participation and rights",
+      "distractors": [
+        "Returning women to traditional roles",
+        "Ending all voting rights",
+        "Restricting education to men"
+      ],
+      "explanation": "Women won the vote in New Zealand (1893), Britain (1918/1928), the US (1920), and elsewhere as part of broader demands for equality. Later feminist movements pressed for legal, economic, and social rights.",
+      "memoryHook": "T-Rexy says: Suffrage was the first wave - votes for women, then equality beyond the ballot.",
+      "imageUrl": "topic:women-suffrage-movement",
+      "tags": [
+        "gender",
+        "rights",
+        "1900-1945"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_065",
+      "question": "The printing press, invented by Gutenberg around 1440, most directly contributed to",
+      "correctAnswer": "The rapid spread of new ideas such as the Reformation",
+      "distractors": [
+        "The decline of all written language",
+        "The end of trade in Europe",
+        "The isolation of China from Europe"
+      ],
+      "explanation": "Gutenberg's European movable-type press (movable type itself had been developed earlier in East Asia) slashed the cost of books, spreading literacy, scientific knowledge, and Reformation ideas across Europe. Within decades, millions of books were printed - an information revolution.",
+      "memoryHook": "T-Rexy says: Gutenberg's press - cheap books, spreading ideas, a revolution in print.",
+      "imageUrl": "topic:gutenberg-printing-press",
+      "tags": [
+        "technology",
+        "reformation",
+        "1450-1750"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_066",
+      "question": "The spread of Islam between 1200 and 1450 occurred primarily through",
+      "correctAnswer": "Trade networks, Sufi missionaries, and conquest",
+      "distractors": [
+        "European colonialism",
+        "The Mongol destruction of Baghdad only",
+        "Forced conversion by the Byzantine Empire"
+      ],
+      "explanation": "Islam spread along trade routes - Muslim merchants carried the faith to West Africa, Southeast Asia, and India - and through Sufi missionaries and the expansion of Muslim states like the Delhi Sultanate.",
+      "memoryHook": "T-Rexy says: Merchants and Sufis carried Islam across Afro-Eurasia.",
+      "imageUrl": "topic:spread-of-islam-1200-1450",
+      "tags": [
+        "islam",
+        "trade",
+        "religion",
+        "1200-1450"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_067",
+      "question": "The Ming dynasty's decision to end the treasure voyages reflected which broader pattern?",
+      "correctAnswer": "A shift toward inward focus and defense against northern threats",
+      "distractors": [
+        "A decision to conquer Europe",
+        "The collapse of the Chinese economy",
+        "An alliance with Portuguese explorers"
+      ],
+      "explanation": "After 1433, the Ming halted the voyages, partly due to court politics and the cost, and focused on the northern frontier and the Great Wall. China turned inward just as Europeans began overseas expansion.",
+      "memoryHook": "T-Rexy says: China turned inward after 1433 - just as Europe sailed out.",
+      "imageUrl": "topic:ming-turns-inward",
+      "tags": [
+        "china",
+        "maritime",
+        "1450-1750"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_068",
+      "question": "Which of the following best describes the role of silver in the global economy from 1500 to 1750?",
+      "correctAnswer": "American silver, especially from Potosi, became the basis of a global currency system",
+      "distractors": [
+        "Silver was used only within Europe",
+        "China rejected silver entirely",
+        "Silver replaced all other forms of trade"
+      ],
+      "explanation": "Silver mined at Potosi in the Andes flowed to China - which demanded silver for taxes - and to Europe and India, creating the first truly global economy. The Manila galleons carried silver across the Pacific.",
+      "memoryHook": "T-Rexy says: Potosi silver - the metal that wired the first global economy together.",
+      "imageUrl": "topic:silver-global-economy-potosi",
+      "tags": [
+        "trade",
+        "silver",
+        "1450-1750"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_069",
+      "question": "The Columbian Exchange had which of the following effects on Afro-Eurasia?",
+      "correctAnswer": "New American crops like maize and potatoes increased food supplies and populations",
+      "distractors": [
+        "It had no effect on Afro-Eurasia",
+        "It ended all trade in the Indian Ocean",
+        "It caused the immediate collapse of the Ottoman Empire"
+      ],
+      "explanation": "American crops - maize, potatoes, tomatoes, chili peppers - spread to Afro-Eurasia, transforming diets and supporting population growth in China, Europe, and Africa. The exchange also carried diseases and enslaved labor.",
+      "memoryHook": "T-Rexy says: Maize and potatoes from the Americas fed a growing Afro-Eurasia.",
+      "imageUrl": "topic:columbian-exchange-afro-eurasia",
+      "tags": [
+        "columbian-exchange",
+        "food",
+        "1450-1750"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_070",
+      "question": "The Atlantic slave trade differed from earlier forms of slavery in Africa in that it was",
+      "correctAnswer": "Race-based, commercialized on a massive scale, and driven by plantation demand",
+      "distractors": [
+        "Entirely voluntary",
+        "Limited to a few hundred people",
+        "Based on religious conversion only"
+      ],
+      "explanation": "The Atlantic system was racialized and industrial in scale - millions of people treated as commodities for plantation labor. Earlier African slavery was smaller in scale and often allowed social mobility or manumission.",
+      "memoryHook": "T-Rexy says: The Atlantic trade turned people into commodities on an industrial scale.",
+      "imageUrl": "topic:atlantic-slave-trade-race-based",
+      "tags": [
+        "slave-trade",
+        "labor",
+        "1450-1750"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_071",
+      "question": "Which of the following best illustrates continuity in the Silk Roads trade networks from 1200 to 1450?",
+      "correctAnswer": "The continued exchange of luxury goods like silk and porcelain across Eurasia",
+      "distractors": [
+        "The complete abandonment of overland routes",
+        "The replacement of all trade by sea routes",
+        "The end of Chinese participation in trade"
+      ],
+      "explanation": "Despite Mongol conquests and political changes, the Silk Roads continued to move silk, porcelain, spices, and ideas across Eurasia. The networks adapted - shifting routes and goods - but the core function of Afro-Eurasian exchange persisted.",
+      "memoryHook": "T-Rexy says: Same roads, new rulers - silk kept flowing across Eurasia.",
+      "imageUrl": "topic:continuity-silk-roads",
+      "tags": [
+        "continuity-change",
+        "trade",
+        "1200-1450"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_072",
+      "question": "The 'Great Divergence' debate among historians concerns primarily",
+      "correctAnswer": "Why Europe industrialized first while China, despite earlier advances, did not",
+      "distractors": [
+        "Why the Roman Empire fell",
+        "Why the Americas were colonized",
+        "Why the Cold War ended"
+      ],
+      "explanation": "The Great Divergence debate asks why Britain industrialized around 1800 while China - wealthier and more advanced in 1500 - did not. Explanations include coal, colonies, institutions, and geography.",
+      "memoryHook": "T-Rexy says: Why did Europe pull ahead of China? The Great Divergence debate.",
+      "imageUrl": "topic:great-divergence-debate",
+      "tags": [
+        "historiography",
+        "industrialization",
+        "1750-1900"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_073",
+      "question": "Dependency theory, as applied to Latin America, argues that",
+      "correctAnswer": "Underdevelopment results from the region's subordinate role in the global economy",
+      "distractors": [
+        "Latin America was never integrated into world trade",
+        "Colonization had no economic effects",
+        "Industrialization caused underdevelopment in Europe"
+      ],
+      "explanation": "Dependency theorists argue that Latin America remained poor because it exported raw materials to wealthy nations and imported manufactured goods, a structure inherited from colonialism and reinforced by foreign investment.",
+      "memoryHook": "T-Rexy says: Dependency theory: the global economy kept Latin America poor by design.",
+      "imageUrl": "topic:dependency-theory-latin-america",
+      "tags": [
+        "historiography",
+        "economy",
+        "1945-present"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_074",
+      "question": "World-systems theory divides the global economy into which categories?",
+      "correctAnswer": "Core, semi-periphery, and periphery",
+      "distractors": [
+        "Capitalist and socialist only",
+        "Developed and underdeveloped only",
+        "North and South only"
+      ],
+      "explanation": "Immanuel Wallerstein's world-systems theory describes a capitalist world economy with a wealthy core, a semi-periphery, and an exploited periphery. The system emerged in the 16th century and persists in modified form today.",
+      "memoryHook": "T-Rexy says: Core, semi-periphery, periphery - Wallerstein's map of the world economy.",
+      "imageUrl": "topic:world-systems-theory",
+      "tags": [
+        "historiography",
+        "economy",
+        "1450-1750"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_075",
+      "question": "The Little Ice Age (roughly 1300-1850) affected world history most significantly by",
+      "correctAnswer": "Contributing to famine, disease, and social upheaval across Eurasia",
+      "distractors": [
+        "Causing the extinction of all European agriculture",
+        "Ending the Indian Ocean trade",
+        "Triggering the Industrial Revolution directly"
+      ],
+      "explanation": "Cooler temperatures shortened growing seasons, contributing to famines, the Black Death's context, and crises in Ming China and Europe. Climate stress amplified political instability in the 17th century.",
+      "memoryHook": "T-Rexy says: A colder climate meant failed harvests - and crisis across Eurasia.",
+      "imageUrl": "topic:little-ice-age",
+      "tags": [
+        "environment",
+        "climate",
+        "1200-1450"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_076",
+      "question": "Which comparison best illustrates the difference between the Black Death and the Columbian Exchange's disease impact?",
+      "correctAnswer": "The Black Death spread along existing trade routes within Eurasia, while the Columbian Exchange introduced Old World diseases to populations with no immunity",
+      "distractors": [
+        "Both were caused by the same bacterium",
+        "The Black Death affected only the Americas",
+        "The Columbian Exchange caused no deaths"
+      ],
+      "explanation": "The plague spread through connected Eurasian trade networks and killed a huge share of Eurasia's population, but Eurasian societies faced it within existing social structures. In the Americas, smallpox, measles, and influenza arrived together in populations with no prior exposure at all - virgin-soil epidemics that killed up to 90 percent of Indigenous peoples in some regions and shattered their societies.",
+      "memoryHook": "T-Rexy says: Eurasia had some immunity; the Americas had none - the difference was devastating.",
+      "imageUrl": "topic:black-death-vs-columbian-exchange",
+      "tags": [
+        "disease",
+        "comparison",
+        "1200-1450"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_077",
+      "question": "Gunpowder technology diffused from China to the rest of Eurasia primarily through",
+      "correctAnswer": "Mongol conquests and trade networks",
+      "distractors": [
+        "European missionaries in the 1800s",
+        "The transatlantic slave trade",
+        "The printing press"
+      ],
+      "explanation": "Gunpowder, invented in China, spread west through Mongol armies and trade routes. By the 14th century, Europeans used cannons and firearms, which later became central to their global expansion - the 'gunpowder empires' and European colonialism.",
+      "memoryHook": "T-Rexy says: Gunpowder rode west with the Mongols - and changed warfare forever.",
+      "imageUrl": "topic:gunpowder-diffusion",
+      "tags": [
+        "technology",
+        "diffusion",
+        "1200-1450"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_078",
+      "question": "Tokugawa Japan and Ming China both responded to European contact in the 16th and 17th centuries by",
+      "correctAnswer": "Restricting and controlling foreign trade and influence",
+      "distractors": [
+        "Embracing full free trade with Europeans",
+        "Converting to Christianity",
+        "Colonizing Europe"
+      ],
+      "explanation": "Tokugawa Japan expelled missionaries and confined Dutch and Chinese traders to Nagasaki; Ming China restricted the Portuguese to Macau, and the Qing later confined Western trade to Canton. Both states sought to control foreign influence while selectively adopting useful technology.",
+      "memoryHook": "T-Rexy says: Japan and China both slammed the door - trade on their terms only.",
+      "imageUrl": "topic:tokugawa-ming-restriction",
+      "tags": [
+        "japan",
+        "china",
+        "comparison",
+        "1450-1750"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_079",
+      "question": "Coercive labor systems in the period 1450-1750 included all of the following EXCEPT",
+      "correctAnswer": "Free wage labor in European factories",
+      "distractors": [
+        "Enslaved African labor on plantations",
+        "The Spanish encomienda system",
+        "Russian serfdom"
+      ],
+      "explanation": "Enslavement, encomienda, and serfdom were all coercive labor systems that expanded or intensified in 1450-1750 to produce goods for global markets. Free wage labor in factories came later, with industrialization.",
+      "memoryHook": "T-Rexy says: Enslavement, encomienda, serfdom - coercion fed the early global economy.",
+      "imageUrl": "topic:coercive-labor-systems",
+      "tags": [
+        "labor",
+        "comparison",
+        "1450-1750"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_080",
+      "question": "Nationalism in the 19th century contributed most directly to",
+      "correctAnswer": "The unification of Italy and Germany and the breakup of multiethnic empires",
+      "distractors": [
+        "The end of all wars in Europe",
+        "The restoration of the Holy Roman Empire",
+        "The isolation of Japan"
+      ],
+      "explanation": "Nationalist movements unified Italy (1861) and Germany (1871) and later fractured the Ottoman and Austro-Hungarian empires. Nationalism also fueled anti-colonial movements in the 20th century.",
+      "memoryHook": "T-Rexy says: Nationalism unified Italy and Germany - and cracked empires apart.",
+      "imageUrl": "topic:nationalism-19th-century",
+      "tags": [
+        "nationalism",
+        "unification",
+        "1750-1900"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_081",
+      "question": "The concept of total war first emerged most clearly during which conflict?",
+      "correctAnswer": "World War I",
+      "distractors": [
+        "The Seven Years' War",
+        "The Crimean War",
+        "The Opium Wars"
+      ],
+      "explanation": "World War I was the first fully industrialized total war: mass conscription, government control of economies, propaganda, and civilian targeting through blockades. WWII extended the pattern with strategic bombing and genocide.",
+      "memoryHook": "T-Rexy says: WWI invented total war - whole nations, not just armies, went to war.",
+      "imageUrl": "topic:total-war-wwi",
+      "tags": [
+        "wwi",
+        "warfare",
+        "1900-1945"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_082",
+      "question": "The Armenian Genocide (1915) and the Rwandan Genocide (1994) are both studied as examples of",
+      "correctAnswer": "State-sponsored mass killing driven by ethnic hatred and dehumanization",
+      "distractors": [
+        "Natural disasters",
+        "Colonial wars of independence",
+        "Economic depressions"
+      ],
+      "explanation": "Both genocides involved governments or state-linked forces systematically murdering a targeted ethnic group amid war or political crisis. Historians compare them to understand warning signs, international inaction, and the politics of recognition.",
+      "memoryHook": "T-Rexy says: Armenia 1915, Rwanda 1994 - the same pattern of state-driven mass murder.",
+      "imageUrl": "topic:genocide-comparison",
+      "tags": [
+        "genocide",
+        "comparison",
+        "1900-1945"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_083",
+      "question": "Mercantilism and free trade differed fundamentally in that mercantilism",
+      "correctAnswer": "Sought to accumulate bullion through a favorable balance of trade and state regulation",
+      "distractors": [
+        "Rejected all government involvement in the economy",
+        "Was practiced only in Asia",
+        "Encouraged unlimited imports"
+      ],
+      "explanation": "Mercantilism (16th-18th centuries) held that wealth meant gold and silver, so states regulated trade, protected domestic industry, and built colonies to supply raw materials. Adam Smith's free-trade ideas challenged this system.",
+      "memoryHook": "T-Rexy says: Mercantilism: hoard gold, control trade - Smith said let it flow free.",
+      "imageUrl": "topic:mercantilism-vs-free-trade",
+      "tags": [
+        "economy",
+        "theory",
+        "1450-1750"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_084",
+      "question": "Sikhism, which emerged in 15th-century Punjab, is an example of",
+      "correctAnswer": "Religious syncretism blending Hindu and Islamic traditions",
+      "distractors": [
+        "A purely European religion",
+        "A revival of Buddhism only",
+        "A political movement with no religious content"
+      ],
+      "explanation": "Founded by Guru Nanak, Sikhism blended elements of Hindu bhakti devotion and Islamic monotheism, rejecting caste and emphasizing equality. It illustrates how trade and empire fostered cultural synthesis in South Asia.",
+      "memoryHook": "T-Rexy says: Sikhism - where Hindu devotion met Islamic monotheism in Punjab.",
+      "imageUrl": "topic:sikhism-syncretism",
+      "tags": [
+        "religion",
+        "syncretism",
+        "1450-1750"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_085",
+      "question": "Mass migration in the 19th century was driven primarily by",
+      "correctAnswer": "Industrialization, population growth, and the search for land and work",
+      "distractors": [
+        "Government bans on travel",
+        "The end of all ocean shipping",
+        "Religious unity"
+      ],
+      "explanation": "Tens of millions migrated in the 19th century - Europeans to the Americas and Oceania, and Chinese and Indians to Southeast Asia, the Caribbean, and elsewhere, mostly in search of work. Push factors included poverty and persecution; pull factors included land, wages, and steamships. Separately, the forced transport of enslaved Africans continued, above all to Cuba (into the 1860s) and Brazil (until about 1850).",
+      "memoryHook": "T-Rexy says: Steamships carried tens of millions - the great 19th-century migration wave.",
+      "imageUrl": "topic:mass-migration-19th-century",
+      "tags": [
+        "migration",
+        "industrialization",
+        "1750-1900"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_086",
+      "question": "Urbanization in the 19th century differed between Europe and Latin America in that",
+      "correctAnswer": "European cities grew mainly from industrial jobs while Latin American cities grew from administrative and commercial roles",
+      "distractors": [
+        "Latin American cities industrialized first",
+        "European cities shrank",
+        "No cities grew anywhere"
+      ],
+      "explanation": "European urbanization was driven by factory employment; Latin American cities grew as administrative capitals and ports exporting raw materials, with less industrial employment - a pattern reflecting dependency on the global economy.",
+      "memoryHook": "T-Rexy says: Europe urbanized around factories; Latin America around ports and capitals.",
+      "imageUrl": "topic:urbanization-comparison",
+      "tags": [
+        "urbanization",
+        "comparison",
+        "1750-1900"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_087",
+      "question": "Bartolome de las Casas, a Spanish friar who had witnessed the conquest of the Caribbean and Mexico, published 'A Short Account of the Destruction of the Indies' in 1552, describing in detail the massacres and brutal forced labor inflicted on Indigenous peoples, and presented his writings to the Spanish Crown. Las Casas wrote the account primarily in order to",
+      "correctAnswer": "Persuade the Spanish monarchy to protect Indigenous peoples and curb abuses such as the encomienda",
+      "distractors": [
+        "Provide Spain's Protestant rivals with propaganda for their own colonies",
+        "Argue that Indigenous peoples should be expelled from the Americas",
+        "Justify converting Indigenous peoples by military force"
+      ],
+      "explanation": "Las Casas spent fifty years lobbying the Spanish court. His campaigning helped win the New Laws of 1542, which tried to limit the encomienda system that granted Spaniards Indigenous labor, and in 1550-1551 he defended the full humanity of Indigenous peoples against Juan Gines de Sepulveda in the Valladolid debate. His 'Short Account' was a reformer's appeal addressed to the future king Philip II. Rival nations later translated it as anti-Spanish propaganda, but that was an unintended afterlife, not its author's purpose.",
+      "memoryHook": "T-Rexy says: Las Casas wrote to shame a king into mercy - a friar with a printing press fought an empire of cruelty!",
+      "imageUrl": "topic:las-casas-short-account",
+      "tags": [
+        "las-casas",
+        "americas",
+        "encomienda",
+        "1450-1750"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_088",
+      "question": "Table - Imported objects found by archaeologists in elite layers at Great Zimbabwe, dated to the 1200s-1400s: Chinese celadon porcelain (from China); glazed ware (from Persia); glass beads (from the Middle East); alongside locally worked gold and copper. These finds best support which conclusion about Great Zimbabwe?",
+      "correctAnswer": "It was linked to Indian Ocean trade networks, exchanging interior gold for imported luxuries",
+      "distractors": [
+        "It was a Chinese colony governed from Beijing",
+        "Its people manufactured porcelain locally in Chinese styles",
+        "It traded only with nearby farming villages"
+      ],
+      "explanation": "Great Zimbabwe lay inland, far from the coast, yet its elite layers contain goods made in China, Persia, and Arabia. Those imports arrived through Swahili coast ports such as Sofala and Kilwa and moved inland in exchange for Zimbabwean gold, ivory, and copper. The ruins therefore show an African state plugged into the same Indian Ocean commercial world as the Swahili cities, not an isolated interior kingdom.",
+      "memoryHook": "T-Rexy says: Chinese plates inside Zimbabwe's stone walls - its gold sailed the Indian Ocean!",
+      "imageUrl": "topic:great-zimbabwe-trade",
+      "tags": [
+        "africa",
+        "indian-ocean",
+        "trade",
+        "1200-1450"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_089",
+      "question": "Foot binding in China and sati in India are often compared by historians as examples of",
+      "correctAnswer": "Gendered practices that reinforced patriarchal social structures",
+      "distractors": [
+        "Religious rituals with no social meaning",
+        "Practices imposed by European colonizers",
+        "Economic policies of the state"
+      ],
+      "explanation": "Both practices controlled women's bodies and reinforced patriarchal norms - foot binding marked elite status in China, sati linked a widow's honor to her husband. Both were challenged by reformers and colonial authorities in the 19th and 20th centuries.",
+      "memoryHook": "T-Rexy says: Foot binding and sati - different lands, same patriarchal logic.",
+      "imageUrl": "topic:gender-practices-comparison",
+      "tags": [
+        "gender",
+        "comparison",
+        "1450-1750"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_090",
+      "question": "Resistance to European imperialism took many forms, including",
+      "correctAnswer": "Armed rebellion, religious movements, and cultural preservation",
+      "distractors": [
+        "Only peaceful submission",
+        "Immediate and total military victory everywhere",
+        "No resistance at all"
+      ],
+      "explanation": "Resistance ranged from the Sepoy Rebellion and the Zulu War to Ethiopia's victory at Adwa (1896), the Ghost Dance, and cultural preservation. Most armed resistance failed against industrial weaponry, but it shaped colonial policy and nationalist memory.",
+      "memoryHook": "T-Rexy says: From Adwa to the Sepoy Rebellion - resistance took many forms.",
+      "imageUrl": "topic:resistance-to-imperialism",
+      "tags": [
+        "imperialism",
+        "resistance",
+        "1750-1900"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_091",
+      "question": "Proxy wars during the Cold War are best understood as",
+      "correctAnswer": "Conflicts in which superpowers supported opposing sides without fighting each other directly",
+      "distractors": [
+        "Wars fought only by the superpowers themselves",
+        "Peaceful diplomatic conferences",
+        "Trade disputes with no violence"
+      ],
+      "explanation": "Korea, Vietnam, Angola, and Afghanistan were proxy wars: the US and USSR armed and advised opposing sides while avoiding direct war, which risked nuclear escalation. These wars devastated the countries where they were fought.",
+      "memoryHook": "T-Rexy says: Proxy wars - superpowers fought through others to avoid nuclear war.",
+      "imageUrl": "topic:proxy-wars-cold-war",
+      "tags": [
+        "cold-war",
+        "warfare",
+        "1945-present"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_092",
+      "question": "In March 1521, the surviving ships of Ferdinand Magellan's expedition reached Guam in the Mariana Islands after crossing the Pacific - the first recorded European contact with the Pacific islanders of Micronesia. Magellan was killed weeks later in the Philippines, but one of his ships completed the first circumnavigation of the globe in 1522. The voyage's most important long-term consequence for global exchange was that it",
+      "correctAnswer": "Opened a Pacific crossing between the Americas and Asia, later used by the Manila galleon trade",
+      "distractors": [
+        "Immediately made Spain the dominant power in the Indian Ocean",
+        "Proved that the Pacific was too wide for regular trade routes",
+        "Led Spain to abandon the Americas and focus on Asia"
+      ],
+      "explanation": "Magellan's crossing showed Europeans the true scale of the Pacific and linked American wealth to Asian markets. From 1565 the Manila galleons sailed yearly between Acapulco and Manila, carrying Mexican and Peruvian silver west and Chinese silk and porcelain east, and stopping at Guam along the way. The Pacific, the last ocean to enter regular global trade, completed the first genuinely worldwide exchange network.",
+      "memoryHook": "T-Rexy says: One ship limped home around the world - and the Pacific joined the global marketplace!",
+      "imageUrl": "topic:magellan-guam-1521",
+      "tags": [
+        "exploration",
+        "pacific",
+        "oceania",
+        "1450-1750"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_093",
+      "question": "The digital revolution of the late 20th century accelerated globalization by",
+      "correctAnswer": "Enabling instant communication and the coordination of global supply chains",
+      "distractors": [
+        "Ending all international trade",
+        "Making computers illegal",
+        "Isolating countries from each other"
+      ],
+      "explanation": "The internet, mobile phones, and container logistics let firms coordinate production across continents in real time, financial markets trade instantly, and ideas spread globally - deepening the integration begun by steam and telegraph.",
+      "memoryHook": "T-Rexy says: The internet wired the world together - globalization's digital engine.",
+      "imageUrl": "topic:digital-revolution-globalization",
+      "tags": [
+        "globalization",
+        "technology",
+        "1945-present"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_094",
+      "question": "The Universal Declaration of Human Rights (1948) was significant because it",
+      "correctAnswer": "Established a global standard of rights for all people regardless of nationality",
+      "distractors": [
+        "Applied only to European citizens",
+        "Abolished the United Nations",
+        "Was written by a single country"
+      ],
+      "explanation": "Adopted by the UN in 1948, the Declaration proclaimed universal rights - to life, liberty, education, and free expression. Though not legally binding, it shaped international law and human rights movements worldwide.",
+      "memoryHook": "T-Rexy says: 1948 - the world declared rights belong to everyone, everywhere.",
+      "imageUrl": "topic:universal-declaration-human-rights",
+      "tags": [
+        "human-rights",
+        "un",
+        "1945-present"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_095",
+      "question": "The Non-Aligned Movement, founded in 1961, represented countries that",
+      "correctAnswer": "Refused to align with either the US or the Soviet Union during the Cold War",
+      "distractors": [
+        "Joined NATO",
+        "Joined the Warsaw Pact",
+        "Refused to join the United Nations"
+      ],
+      "explanation": "Led by Nehru, Tito, Nasser, and Sukarno, the Non-Aligned Movement let newly independent states avoid Cold War blocs and pursue development on their own terms. It gave the Global South a collective voice.",
+      "memoryHook": "T-Rexy says: Non-aligned: neither Washington nor Moscow - a third way for new nations.",
+      "imageUrl": "topic:non-aligned-movement",
+      "tags": [
+        "cold-war",
+        "decolonization",
+        "1945-present"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_096",
+      "question": "The Bretton Woods system (1944) created a postwar economic order based on",
+      "correctAnswer": "Fixed exchange rates tied to the US dollar and institutions like the IMF and World Bank",
+      "distractors": [
+        "A return to the gold standard for all nations",
+        "The abolition of all international trade",
+        "Soviet control of global finance"
+      ],
+      "explanation": "At Bretton Woods, Allied delegates pegged currencies to the US dollar (convertible to gold) and created the IMF and World Bank to stabilize trade and finance. The system collapsed in 1971 but its institutions endure.",
+      "memoryHook": "T-Rexy says: Bretton Woods - dollars, fixed rates, and new institutions rebuilt the economy.",
+      "imageUrl": "topic:bretton-woods-system",
+      "tags": [
+        "economy",
+        "1945-present",
+        "1945-present"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_097",
+      "question": "Which of the following best describes a long-term effect of the Atlantic slave trade on Africa?",
+      "correctAnswer": "Depopulation, political destabilization, and the growth of states that raided for captives",
+      "distractors": [
+        "The immediate industrialization of West Africa",
+        "The unification of all African kingdoms",
+        "The end of all African trade"
+      ],
+      "explanation": "The slave trade removed millions of people, distorted economies toward raiding, and strengthened states like Dahomey and Asante that traded captives for guns. Its demographic and political effects shaped Africa for centuries.",
+      "memoryHook": "T-Rexy says: The slave trade drained Africa's people and warped its politics for centuries.",
+      "imageUrl": "topic:slave-trade-effect-africa",
+      "tags": [
+        "slave-trade",
+        "africa",
+        "1450-1750"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_098",
+      "question": "The Meiji Restoration and the Tanzimat reforms in the Ottoman Empire are best compared as",
+      "correctAnswer": "State-led modernization efforts in response to Western pressure, with Japan succeeding more fully",
+      "distractors": [
+        "Identical programs with identical results",
+        "Reforms that ignored the West entirely",
+        "Revolutions that abolished monarchy"
+      ],
+      "explanation": "Both were top-down modernization responses to Western power - Japan's Meiji reforms built a strong industrial state, while the Ottoman Tanzimat reforms were limited by debt, resistance, and European interference.",
+      "memoryHook": "T-Rexy says: Meiji and Tanzimat - two states modernized under pressure; Japan went further.",
+      "imageUrl": "topic:meiji-tanzimat-comparison",
+      "tags": [
+        "modernization",
+        "comparison",
+        "1750-1900"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_099",
+      "question": "In the period 1900-1945, the most significant change in global migration patterns was",
+      "correctAnswer": "The restriction of immigration by many states and the movement of refugees from war and persecution",
+      "distractors": [
+        "The complete end of all migration",
+        "The return of all migrants to their homelands",
+        "Migration only within Europe"
+      ],
+      "explanation": "States like the US (1924 quotas) restricted immigration, while wars created millions of refugees - Armenians, Russians, Jews, Chinese, and others. The era marked a shift from open mass migration to state-controlled borders.",
+      "memoryHook": "T-Rexy says: 1900-1945 - borders closed, and war made millions refugees.",
+      "imageUrl": "topic:migration-1900-1945",
+      "tags": [
+        "migration",
+        "1900-1945",
+        "1945-present"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EWH_100",
+      "question": "Data - British Australia, 1788-1868: Convicts transported from Britain: about 160,000. 1851: gold discovered in New South Wales and Victoria. Early 1860s: non-Indigenous population passes 1,000,000, including free settlers and gold seekers from Britain, China, and elsewhere. These movements are best understood as part of which broader pattern of the industrial age?",
+      "correctAnswer": "Mass migration that built European settler societies overseas, often at Indigenous peoples' expense",
+      "distractors": [
+        "The transatlantic slave trade at its peak",
+        "A worldwide decline in migration after 1800",
+        "Indentured migration from India to the Caribbean"
+      ],
+      "explanation": "Nineteenth-century industrialization set tens of millions of people moving: to factory cities, to the Americas, and to settler colonies in temperate lands such as Australia, New Zealand, and Canada. Australia's mix was distinctive because it began as a prison, but convicts, assisted settlers, and gold seekers all built a British settler society on land taken from Aboriginal peoples, whose population collapsed from disease, violence, and dispossession.",
+      "memoryHook": "T-Rexy says: Convicts first, then gold hunters - Australia filled up as Aboriginal land was taken!",
+      "imageUrl": "topic:australia-migration-1800s",
+      "tags": [
+        "migration",
+        "oceania",
+        "australia",
+        "1750-1900"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

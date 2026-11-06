@@ -1,0 +1,2003 @@
+{
+  "packId": "ella-us-history-11",
+  "title": "US History (11th Grade)",
+  "description": "US History (11th) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-04",
+  "tags": [
+    "history",
+    "us",
+    "11th"
+  ],
+  "questions": [
+    {
+      "id": "USH_001",
+      "question": "What was the first permanent English settlement in North America?",
+      "correctAnswer": "Jamestown, Virginia",
+      "distractors": [
+        "Plymouth, Massachusetts",
+        "Roanoke, Virginia",
+        "St. Augustine, Florida"
+      ],
+      "explanation": "Jamestown was founded in 1607 by the Virginia Company and survived to become the first permanent English settlement, while Roanoke was lost.",
+      "memoryHook": "T-Rexy says: Jamestown in 1607 - jam your feet in the mud and stay put, the first town that stuck!",
+      "imageUrl": "topic:jamestown-settlement",
+      "tags": [
+        "colonial",
+        "settlement"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_002",
+      "question": "What document did the Pilgrims sign aboard ship in 1620 to agree to self-government?",
+      "correctAnswer": "The Mayflower Compact",
+      "distractors": [
+        "The Fundamental Orders",
+        "The House of Burgesses",
+        "The Virginia Charter"
+      ],
+      "explanation": "The Mayflower Compact was signed in 1620 before landing at Plymouth and established a civil body politic based on majority rule.",
+      "memoryHook": "T-Rexy says: Mayflower Compact - a compact promise on a cramped ship to govern themselves!",
+      "imageUrl": "topic:mayflower-compact",
+      "tags": [
+        "colonial",
+        "government"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_003",
+      "question": "In what year was the Declaration of Independence adopted?",
+      "correctAnswer": "1776",
+      "distractors": [
+        "1775",
+        "1783",
+        "1787"
+      ],
+      "explanation": "The Continental Congress adopted the Declaration of Independence on July 4, 1776, formally breaking with Britain.",
+      "memoryHook": "T-Rexy says: 1776 - seven, seven, six, independence clicks!",
+      "imageUrl": "topic:declaration-independence",
+      "tags": [
+        "revolution",
+        "founding"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_004",
+      "question": "Who was the first President of the United States?",
+      "correctAnswer": "George Washington",
+      "distractors": [
+        "John Adams",
+        "Thomas Jefferson",
+        "Benjamin Franklin"
+      ],
+      "explanation": "George Washington was unanimously elected and served from 1789 to 1797, setting many presidential precedents.",
+      "memoryHook": "T-Rexy says: Washington first - the general who became president number one!",
+      "imageUrl": "topic:george-washington",
+      "tags": [
+        "presidents",
+        "founding"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_005",
+      "question": "In which years was the American Civil War fought?",
+      "correctAnswer": "1861-1865",
+      "distractors": [
+        "1850-1854",
+        "1865-1869",
+        "1876-1880"
+      ],
+      "explanation": "The Civil War began with the attack on Fort Sumter in April 1861 and ended with Lee's surrender at Appomattox in April 1865.",
+      "memoryHook": "T-Rexy says: 61 to 65 - four hard years that split and healed the nation!",
+      "imageUrl": "topic:civil-war",
+      "tags": [
+        "civil-war"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_006",
+      "question": "Who issued the Emancipation Proclamation?",
+      "correctAnswer": "Abraham Lincoln",
+      "distractors": [
+        "Ulysses S. Grant",
+        "Andrew Johnson",
+        "Jefferson Davis"
+      ],
+      "explanation": "Lincoln issued the Emancipation Proclamation on January 1, 1863, freeing enslaved people in Confederate-held territory.",
+      "memoryHook": "T-Rexy says: Lincoln's proclamation - the pen that proclaimed freedom in 63!",
+      "imageUrl": "topic:emancipation-proclamation",
+      "tags": [
+        "civil-war",
+        "lincoln"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_007",
+      "question": "What event brought the United States into World War II?",
+      "correctAnswer": "The attack on Pearl Harbor",
+      "distractors": [
+        "The sinking of the Lusitania",
+        "The Zimmermann Telegram",
+        "The invasion of Poland"
+      ],
+      "explanation": "Japan's surprise attack on Pearl Harbor on December 7, 1941 led Congress to declare war the next day.",
+      "memoryHook": "T-Rexy says: Pearl Harbor, December 7 - a day that woke a sleeping giant!",
+      "imageUrl": "topic:pearl-harbor",
+      "tags": [
+        "wwii"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_008",
+      "question": "The Cold War was primarily a rivalry between the United States and which country?",
+      "correctAnswer": "The Soviet Union",
+      "distractors": [
+        "Germany",
+        "China",
+        "Japan"
+      ],
+      "explanation": "The Cold War (roughly 1947-1991) pitted the capitalist United States against the communist Soviet Union without direct large-scale war between them.",
+      "memoryHook": "T-Rexy says: Cold War - two superpowers, icy stares, no direct fight!",
+      "imageUrl": "topic:cold-war",
+      "tags": [
+        "cold-war"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_009",
+      "question": "Who delivered the famous 'I Have a Dream' speech in 1963?",
+      "correctAnswer": "Martin Luther King Jr.",
+      "distractors": [
+        "Malcolm X",
+        "Rosa Parks",
+        "John F. Kennedy"
+      ],
+      "explanation": "King delivered the speech at the March on Washington for Jobs and Freedom on August 28, 1963.",
+      "memoryHook": "T-Rexy says: King had a dream - jobs, freedom, and equality for all!",
+      "imageUrl": "topic:mlk-dream-speech",
+      "tags": [
+        "civil-rights"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_010",
+      "question": "What was the Boston Tea Party a protest against?",
+      "correctAnswer": "British taxes on tea",
+      "distractors": [
+        "British bans on newspapers",
+        "British troops in Boston",
+        "British control of trade with France"
+      ],
+      "explanation": "In December 1773, colonists dumped tea into Boston Harbor to protest the Tea Act and taxation without representation.",
+      "memoryHook": "T-Rexy says: Tea in the harbor - taxed tea makes salty water!",
+      "imageUrl": "topic:boston-tea-party",
+      "tags": [
+        "revolution"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_011",
+      "question": "In what year was the U.S. Constitution ratified?",
+      "correctAnswer": "1788",
+      "distractors": [
+        "1776",
+        "1783",
+        "1791"
+      ],
+      "explanation": "The Constitution was ratified in 1788 when New Hampshire became the ninth state to approve it, and it took effect in 1789.",
+      "memoryHook": "T-Rexy says: 1788 - eight ate eight states, then one more made it law!",
+      "imageUrl": "topic:constitution-ratification",
+      "tags": [
+        "founding",
+        "constitution"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_012",
+      "question": "Which president bought the Louisiana Territory from France in 1803?",
+      "correctAnswer": "Thomas Jefferson",
+      "distractors": [
+        "James Madison",
+        "John Adams",
+        "James Monroe"
+      ],
+      "explanation": "Jefferson's purchase doubled the size of the United States for about 15 million dollars.",
+      "memoryHook": "T-Rexy says: Jefferson's bargain - fifteen million for half a continent!",
+      "imageUrl": "topic:louisiana-purchase",
+      "tags": [
+        "expansion",
+        "presidents"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_013",
+      "question": "What was the Trail of Tears?",
+      "correctAnswer": "The forced removal of Cherokee and other Native peoples westward",
+      "distractors": [
+        "A gold rush route to California",
+        "A cattle trail to Texas",
+        "A pioneer wagon road to Oregon"
+      ],
+      "explanation": "Under the Indian Removal Act, thousands of Cherokee died on the forced march to Oklahoma in 1838-1839.",
+      "memoryHook": "T-Rexy says: Trail of Tears - a forced march west that left tears on every mile!",
+      "imageUrl": "topic:trail-of-tears",
+      "tags": [
+        "native-american",
+        "jackson"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_014",
+      "question": "Where did Lincoln deliver the Gettysburg Address in 1863?",
+      "correctAnswer": "At the dedication of a soldiers' cemetery in Gettysburg, Pennsylvania",
+      "distractors": [
+        "At his second inauguration in Washington",
+        "At the signing of the Emancipation Proclamation",
+        "At the surrender at Appomattox"
+      ],
+      "explanation": "Lincoln's brief address at the Gettysburg battlefield cemetery redefined the war as a struggle for equality and democracy.",
+      "memoryHook": "T-Rexy says: Gettysburg - 272 words that rededicated a nation!",
+      "imageUrl": "topic:gettysburg-address",
+      "tags": [
+        "civil-war",
+        "lincoln"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_015",
+      "question": "Which amendment gave women the right to vote?",
+      "correctAnswer": "The 19th Amendment",
+      "distractors": [
+        "The 15th Amendment",
+        "The 17th Amendment",
+        "The 21st Amendment"
+      ],
+      "explanation": "The 19th Amendment, ratified in 1920, prohibited denying the vote on account of sex.",
+      "memoryHook": "T-Rexy says: 19 in 1920 - women win the vote at last!",
+      "imageUrl": "topic:womens-suffrage",
+      "tags": [
+        "suffrage",
+        "amendments"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_016",
+      "question": "What event is generally seen as starting the Great Depression?",
+      "correctAnswer": "The stock market crash of October 1929",
+      "distractors": [
+        "The Dust Bowl of 1934",
+        "The bank failures of 1933",
+        "The Smoot-Hawley Tariff of 1930"
+      ],
+      "explanation": "The crash of October 1929 shattered confidence and helped trigger a decade of depression, though deeper causes included overproduction and weak banking.",
+      "memoryHook": "T-Rexy says: Black Tuesday 1929 - stocks crashed and the decade went dark!",
+      "imageUrl": "topic:stock-market-crash-1929",
+      "tags": [
+        "depression"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_017",
+      "question": "Whose New Deal programs responded to the Great Depression?",
+      "correctAnswer": "Franklin D. Roosevelt",
+      "distractors": [
+        "Herbert Hoover",
+        "Calvin Coolidge",
+        "Harry Truman"
+      ],
+      "explanation": "FDR's New Deal (1933-1939) used federal programs like the CCC, TVA, and Social Security to provide relief, recovery, and reform.",
+      "memoryHook": "T-Rexy says: FDR's New Deal - relief, recovery, reform, three Rs to the rescue!",
+      "imageUrl": "topic:new-deal",
+      "tags": [
+        "depression",
+        "presidents"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_018",
+      "question": "In what year did American astronauts first land on the Moon?",
+      "correctAnswer": "1969",
+      "distractors": [
+        "1959",
+        "1965",
+        "1975"
+      ],
+      "explanation": "Apollo 11 landed on the Moon on July 20, 1969, with Neil Armstrong and Buzz Aldrin walking on its surface.",
+      "memoryHook": "T-Rexy says: 1969 - one small step for man, one giant leap for mankind!",
+      "imageUrl": "topic:moon-landing",
+      "tags": [
+        "space",
+        "cold-war"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_019",
+      "question": "Which amendment abolished slavery in the United States?",
+      "correctAnswer": "The 13th Amendment",
+      "distractors": [
+        "The 12th Amendment",
+        "The 14th Amendment",
+        "The 15th Amendment"
+      ],
+      "explanation": "The 13th Amendment, ratified in 1865, abolished slavery and involuntary servitude except as punishment for a crime.",
+      "memoryHook": "T-Rexy says: 13 ends slavery - unlucky number, lucky freedom!",
+      "imageUrl": "topic:13th-amendment",
+      "tags": [
+        "amendments",
+        "reconstruction"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_020",
+      "question": "What did the Monroe Doctrine of 1823 declare?",
+      "correctAnswer": "European powers should not colonize or interfere in the Americas",
+      "distractors": [
+        "The United States would annex Texas",
+        "Britain would defend Latin America",
+        "The United States would stay out of all foreign wars"
+      ],
+      "explanation": "President Monroe warned Europe against further colonization in the Western Hemisphere, a policy later backed by British naval power.",
+      "memoryHook": "T-Rexy says: Monroe's warning - hands off the Americas, Europe!",
+      "imageUrl": "topic:monroe-doctrine",
+      "tags": [
+        "foreign-policy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_021",
+      "question": "Which war began in 1898 after the explosion of the USS Maine?",
+      "correctAnswer": "The Spanish-American War",
+      "distractors": [
+        "The Mexican-American War",
+        "World War I",
+        "The Philippine-American War"
+      ],
+      "explanation": "The Spanish-American War (1898) resulted in U.S. control of Puerto Rico, Guam, and the Philippines and Cuban independence.",
+      "memoryHook": "T-Rexy says: Remember the Maine - 1898, Spain loses an empire!",
+      "imageUrl": "topic:spanish-american-war",
+      "tags": [
+        "imperialism"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_022",
+      "question": "The Vietnam War ended for the United States in 1973 with what agreement?",
+      "correctAnswer": "The Paris Peace Accords",
+      "distractors": [
+        "The Geneva Accords",
+        "The Camp David Accords",
+        "The SALT Treaty"
+      ],
+      "explanation": "The Paris Peace Accords of January 1973 ended direct U.S. military involvement in Vietnam, though fighting continued until Saigon fell in 1975.",
+      "memoryHook": "T-Rexy says: Paris 1973 - the accords that brought the troops home!",
+      "imageUrl": "topic:vietnam-war",
+      "tags": [
+        "vietnam"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_023",
+      "question": "What scandal led to President Nixon's resignation in 1974?",
+      "correctAnswer": "Watergate",
+      "distractors": [
+        "Iran-Contra",
+        "Teapot Dome",
+        "The Pentagon Papers"
+      ],
+      "explanation": "The Watergate break-in cover-up led to impeachment proceedings, and Nixon resigned on August 9, 1974.",
+      "memoryHook": "T-Rexy says: Watergate - a break-in and a cover-up that sank a presidency!",
+      "imageUrl": "topic:watergate",
+      "tags": [
+        "presidents",
+        "scandal"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_024",
+      "question": "What are the first ten amendments to the Constitution called?",
+      "correctAnswer": "The Bill of Rights",
+      "distractors": [
+        "The Federalist Papers",
+        "The Articles of Confederation",
+        "The Reconstruction Amendments"
+      ],
+      "explanation": "The Bill of Rights, ratified in 1791, protects freedoms of speech, religion, press, and other individual rights.",
+      "memoryHook": "T-Rexy says: Bill of Rights - ten amendments, ten shields for freedom!",
+      "imageUrl": "topic:bill-of-rights",
+      "tags": [
+        "constitution",
+        "amendments"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_025",
+      "question": "What were the Federalist Papers?",
+      "correctAnswer": "Essays supporting ratification of the Constitution",
+      "distractors": [
+        "The first laws passed by Congress",
+        "Anti-British pamphlets from 1776",
+        "The Supreme Court's first decisions"
+      ],
+      "explanation": "Hamilton, Madison, and Jay wrote 85 essays in 1787-1788 arguing for the new Constitution, published as The Federalist.",
+      "memoryHook": "T-Rexy says: Federalist Papers - 85 essays that sold the Constitution!",
+      "imageUrl": "topic:federalist-papers",
+      "tags": [
+        "founding",
+        "constitution"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_026",
+      "question": "Who led the Corps of Discovery expedition to the Pacific in 1804-1806?",
+      "correctAnswer": "Meriwether Lewis and William Clark",
+      "distractors": [
+        "Zebulon Pike and John Fremont",
+        "Daniel Boone and Davy Crockett",
+        "John Smith and John Rolfe"
+      ],
+      "explanation": "Lewis and Clark explored the Louisiana Purchase and reached the Pacific, mapping the route and meeting Native nations.",
+      "memoryHook": "T-Rexy says: Lewis and Clark - two captains, one river, all the way to the Pacific!",
+      "imageUrl": "topic:lewis-and-clark",
+      "tags": [
+        "expansion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_027",
+      "question": "In what year was the transcontinental railroad completed at Promontory, Utah?",
+      "correctAnswer": "1869",
+      "distractors": [
+        "1865",
+        "1876",
+        "1890"
+      ],
+      "explanation": "The Central Pacific and Union Pacific met at Promontory Summit on May 10, 1869, linking east and west by rail.",
+      "memoryHook": "T-Rexy says: Golden spike 1869 - east meets west on iron rails!",
+      "imageUrl": "topic:transcontinental-railroad",
+      "tags": [
+        "expansion",
+        "industry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_028",
+      "question": "Ellis Island in New York Harbor was mainly used for what purpose?",
+      "correctAnswer": "Processing immigrants arriving in the United States",
+      "distractors": [
+        "Quarantining sick soldiers",
+        "Housing freed slaves",
+        "Training naval officers"
+      ],
+      "explanation": "From 1892 to 1954, Ellis Island processed millions of immigrants, most from Europe, before they entered the country.",
+      "memoryHook": "T-Rexy says: Ellis Island - the gateway where millions became Americans!",
+      "imageUrl": "topic:ellis-island",
+      "tags": [
+        "immigration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_029",
+      "question": "What did Brown v. Board of Education (1954) decide?",
+      "correctAnswer": "Segregated public schools are unconstitutional",
+      "distractors": [
+        "Prayer in schools is unconstitutional",
+        "Busing students is unconstitutional",
+        "Affirmative action is unconstitutional"
+      ],
+      "explanation": "The unanimous decision overturned Plessy v. Ferguson's 'separate but equal' doctrine in public education.",
+      "memoryHook": "T-Rexy says: Brown 1954 - separate is inherently unequal!",
+      "imageUrl": "topic:brown-v-board",
+      "tags": [
+        "civil-rights",
+        "supreme-court"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_030",
+      "question": "Which battle is considered the turning point of the Civil War in the East?",
+      "correctAnswer": "Gettysburg",
+      "distractors": [
+        "Bull Run",
+        "Antietam",
+        "Vicksburg"
+      ],
+      "explanation": "The Union victory at Gettysburg in July 1863 ended Lee's invasion of the North and, with Vicksburg, marked the war's turning point.",
+      "memoryHook": "T-Rexy says: Gettysburg July 1863 - Pickett's charge fails, the tide turns!",
+      "imageUrl": "topic:battle-gettysburg",
+      "tags": [
+        "civil-war"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_031",
+      "question": "What was the main weakness of the Articles of Confederation?",
+      "correctAnswer": "The central government had no power to tax or enforce laws",
+      "distractors": [
+        "It gave too much power to the president",
+        "It banned slavery in all states",
+        "It required unanimous consent for all laws"
+      ],
+      "explanation": "Under the Articles, Congress could not tax, regulate commerce, or enforce its decisions, which led to the Constitutional Convention of 1787.",
+      "memoryHook": "T-Rexy says: Articles - a government that could ask but never command!",
+      "imageUrl": "topic:articles-of-confederation",
+      "tags": [
+        "founding",
+        "constitution"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_032",
+      "question": "What did the Great Compromise of 1787 decide?",
+      "correctAnswer": "Congress would have a House based on population and a Senate with equal state representation",
+      "distractors": [
+        "Slavery would be banned after 1808",
+        "The president would serve four-year terms",
+        "The capital would move to Washington, D.C."
+      ],
+      "explanation": "The Connecticut Compromise blended the Virginia Plan (population) and New Jersey Plan (equal states) into the bicameral Congress.",
+      "memoryHook": "T-Rexy says: Great Compromise - big states get the House, small states get the Senate!",
+      "imageUrl": "topic:great-compromise",
+      "tags": [
+        "founding",
+        "constitution"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_033",
+      "question": "What was the core of Alexander Hamilton's financial plan?",
+      "correctAnswer": "The federal government would assume state debts and create a national bank",
+      "distractors": [
+        "The government would abolish all tariffs",
+        "The government would pay off debts with new land sales only",
+        "The government would coin money from silver alone"
+      ],
+      "explanation": "Hamilton's plan funded the national debt, assumed state debts, and chartered the Bank of the United States to build credit and commerce.",
+      "memoryHook": "T-Rexy says: Hamilton's plan - assume the debt, bank the future!",
+      "imageUrl": "topic:hamilton-financial-plan",
+      "tags": [
+        "founding",
+        "economics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_034",
+      "question": "What did the Whiskey Rebellion of 1794 demonstrate?",
+      "correctAnswer": "The federal government would enforce its laws with force if needed",
+      "distractors": [
+        "Farmers could refuse to pay any taxes",
+        "The president could not command troops",
+        "Western states could secede freely"
+      ],
+      "explanation": "Washington led troops to suppress Pennsylvania farmers protesting the whiskey tax, showing federal authority under the new Constitution.",
+      "memoryHook": "T-Rexy says: Whiskey Rebellion - Washington marches west and the tax sticks!",
+      "imageUrl": "topic:whiskey-rebellion",
+      "tags": [
+        "founding",
+        "presidents"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_035",
+      "question": "What principle did Marbury v. Madison (1803) establish?",
+      "correctAnswer": "Judicial review, the Court's power to declare laws unconstitutional",
+      "distractors": [
+        "The president's power to veto Court decisions",
+        "The states' right to nullify federal law",
+        "The Senate's power to confirm judges"
+      ],
+      "explanation": "Chief Justice John Marshall asserted that the Supreme Court could strike down laws conflicting with the Constitution.",
+      "memoryHook": "T-Rexy says: Marbury - Marshall grabs the gavel and claims judicial review!",
+      "imageUrl": "topic:marbury-v-madison",
+      "tags": [
+        "supreme-court",
+        "constitution"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_036",
+      "question": "Which issue was a major cause of the War of 1812?",
+      "correctAnswer": "British impressment of American sailors",
+      "distractors": [
+        "Spanish attacks on Florida",
+        "French seizure of Louisiana",
+        "British support for Native American raids in Texas"
+      ],
+      "explanation": "Britain's seizure of American sailors and interference with trade, plus pressure from War Hawks, pushed the U.S. to declare war in 1812.",
+      "memoryHook": "T-Rexy says: Impressment - Britain grabbed our sailors, we grabbed our muskets!",
+      "imageUrl": "topic:war-of-1812",
+      "tags": [
+        "war",
+        "foreign-policy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_037",
+      "question": "What did the Missouri Compromise of 1820 do?",
+      "correctAnswer": "Admitted Missouri as a slave state and Maine as a free state, and banned slavery north of 36-30 in the Louisiana Territory",
+      "distractors": [
+        "Banned slavery in Missouri and Maine",
+        "Admitted both Missouri and Maine as slave states",
+        "Ended the slave trade in Washington, D.C."
+      ],
+      "explanation": "The compromise kept the Senate balanced and drew a line across the Louisiana Territory to limit slavery's expansion.",
+      "memoryHook": "T-Rexy says: 36-30 line - Missouri slave, Maine free, and a line across the map!",
+      "imageUrl": "topic:missouri-compromise",
+      "tags": [
+        "slavery",
+        "expansion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_038",
+      "question": "What was the spoils system under Andrew Jackson?",
+      "correctAnswer": "Giving government jobs to political supporters",
+      "distractors": [
+        "Selling public land to the highest bidder",
+        "Dividing war booty among soldiers",
+        "Rewarding Native allies with territory"
+      ],
+      "explanation": "Jackson replaced many federal officeholders with loyal supporters, arguing rotation in office was democratic.",
+      "memoryHook": "T-Rexy says: Spoils system - to the victor belong the government jobs!",
+      "imageUrl": "topic:spoils-system",
+      "tags": [
+        "jackson",
+        "politics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_039",
+      "question": "What happened at the Seneca Falls Convention of 1848?",
+      "correctAnswer": "Women's rights activists issued the Declaration of Sentiments demanding equality",
+      "distractors": [
+        "Abolitionists founded the Liberty Party",
+        "Temperance leaders banned alcohol in New York",
+        "Labor unions held their first national convention"
+      ],
+      "explanation": "Organized by Elizabeth Cady Stanton and Lucretia Mott, Seneca Falls launched the organized women's rights movement in the U.S.",
+      "memoryHook": "T-Rexy says: Seneca Falls 1848 - women declare sentiments, demand equality!",
+      "imageUrl": "topic:seneca-falls",
+      "tags": [
+        "suffrage",
+        "reform"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_040",
+      "question": "What did the Kansas-Nebraska Act of 1854 do?",
+      "correctAnswer": "Let settlers decide slavery by popular sovereignty, repealing the Missouri Compromise line",
+      "distractors": [
+        "Admitted Kansas and Nebraska as free states",
+        "Banned slavery in all western territories",
+        "Granted statehood to Kansas immediately"
+      ],
+      "explanation": "Stephen Douglas's act opened the territories to popular sovereignty, leading to violent 'Bleeding Kansas' and the collapse of the Whig Party.",
+      "memoryHook": "T-Rexy says: Kansas-Nebraska - let the settlers vote, and Kansas bled!",
+      "imageUrl": "topic:kansas-nebraska-act",
+      "tags": [
+        "slavery",
+        "expansion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_041",
+      "question": "What did the Dred Scott decision (1857) rule?",
+      "correctAnswer": "African Americans were not citizens and Congress could not ban slavery in the territories",
+      "distractors": [
+        "Slavery was illegal in all U.S. territories",
+        "Escaped slaves had the right to a jury trial",
+        "Missouri could not remain a slave state"
+      ],
+      "explanation": "Chief Justice Taney's ruling declared the Missouri Compromise unconstitutional and denied citizenship to Black Americans, deepening sectional conflict.",
+      "memoryHook": "T-Rexy says: Dred Scott - the Court said no citizenship, no limits on slavery!",
+      "imageUrl": "topic:dred-scott",
+      "tags": [
+        "slavery",
+        "supreme-court"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_042",
+      "question": "Which three amendments are known as the Reconstruction Amendments?",
+      "correctAnswer": "The 13th, 14th, and 15th Amendments",
+      "distractors": [
+        "The 12th, 13th, and 14th Amendments",
+        "The 14th, 15th, and 16th Amendments",
+        "The 13th, 15th, and 17th Amendments"
+      ],
+      "explanation": "The 13th abolished slavery, the 14th granted citizenship and equal protection, and the 15th protected voting rights regardless of race.",
+      "memoryHook": "T-Rexy says: 13, 14, 15 - free them, make them citizens, let them vote!",
+      "imageUrl": "topic:reconstruction-amendments",
+      "tags": [
+        "reconstruction",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_043",
+      "question": "What did the Homestead Act of 1862 offer settlers?",
+      "correctAnswer": "160 acres of public land for a small fee after five years of farming it",
+      "distractors": [
+        "Free railroad passes to the West",
+        "Cash grants for building towns",
+        "Tax exemption for mining claims"
+      ],
+      "explanation": "The act encouraged westward settlement by granting land to anyone who lived on and improved it for five years.",
+      "memoryHook": "T-Rexy says: Homestead - 160 acres free if you farm it five years!",
+      "imageUrl": "topic:homestead-act",
+      "tags": [
+        "expansion",
+        "west"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_044",
+      "question": "What was the Populist movement of the 1890s mainly about?",
+      "correctAnswer": "Farmers demanding government help against railroads, banks, and low crop prices",
+      "distractors": [
+        "Industrial workers demanding an eight-hour day",
+        "Immigrants demanding open borders",
+        "Southerners demanding the repeal of Reconstruction laws"
+      ],
+      "explanation": "The People's Party called for free silver, railroad regulation, and a graduated income tax to help struggling farmers.",
+      "memoryHook": "T-Rexy says: Populists - farmers vs railroads, banks, and falling prices!",
+      "imageUrl": "topic:populist-movement",
+      "tags": [
+        "gilded-age",
+        "reform"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_045",
+      "question": "What was a muckraker during the Progressive Era?",
+      "correctAnswer": "A journalist who exposed corruption and social problems",
+      "distractors": [
+        "A politician who took bribes from corporations",
+        "A labor organizer who led strikes",
+        "A scientist who studied urban sanitation"
+      ],
+      "explanation": "Muckrakers like Upton Sinclair (The Jungle) and Ida Tarbell exposed abuses, fueling reform laws on food, drugs, and trusts.",
+      "memoryHook": "T-Rexy says: Muckrakers - journalists who raked the muck and exposed the rot!",
+      "imageUrl": "topic:muckrakers",
+      "tags": [
+        "progressive-era",
+        "reform"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_046",
+      "question": "What were Woodrow Wilson's Fourteen Points mainly meant to do?",
+      "correctAnswer": "Outline a plan for a just peace after World War I",
+      "distractors": [
+        "Justify American entry into the war",
+        "Divide Germany's colonies among the Allies",
+        "Create the United Nations"
+      ],
+      "explanation": "Wilson's 1918 points called for open diplomacy, freedom of the seas, self-determination, and a League of Nations.",
+      "memoryHook": "T-Rexy says: Fourteen Points - Wilson's recipe for peace without victory!",
+      "imageUrl": "topic:fourteen-points",
+      "tags": [
+        "wwi",
+        "foreign-policy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_047",
+      "question": "What was the Red Scare of 1919-1920?",
+      "correctAnswer": "Fear of communism and radicalism that led to raids and deportations",
+      "distractors": [
+        "A flu epidemic that killed millions",
+        "A wave of bank failures",
+        "A series of race riots in northern cities"
+      ],
+      "explanation": "After the Russian Revolution, Attorney General Palmer's raids targeted suspected radicals and immigrants, violating civil liberties.",
+      "memoryHook": "T-Rexy says: Red Scare - fear of reds led to raids and deportations!",
+      "imageUrl": "topic:red-scare",
+      "tags": [
+        "1920s",
+        "cold-war"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_048",
+      "question": "What was the Harlem Renaissance?",
+      "correctAnswer": "A flowering of African American literature, music, and art in 1920s Harlem",
+      "distractors": [
+        "A political movement to return to Africa",
+        "A housing project in New York City",
+        "A labor strike by Black railroad workers"
+      ],
+      "explanation": "Writers like Langston Hughes and musicians like Duke Ellington made Harlem the center of Black cultural life in the 1920s.",
+      "memoryHook": "T-Rexy says: Harlem Renaissance - jazz, poetry, and pride in the 1920s!",
+      "imageUrl": "topic:harlem-renaissance",
+      "tags": [
+        "1920s",
+        "culture"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_049",
+      "question": "What caused the Dust Bowl of the 1930s?",
+      "correctAnswer": "Severe drought combined with poor farming practices on the Great Plains",
+      "distractors": [
+        "Volcanic eruptions in the Rockies",
+        "Overgrazing by cattle ranchers alone",
+        "Flooding from the Mississippi River"
+      ],
+      "explanation": "Drought plus overplowing stripped the topsoil, creating dust storms that forced many farm families to migrate west.",
+      "memoryHook": "T-Rexy says: Dust Bowl - dry soil and bad plows made black blizzards!",
+      "imageUrl": "topic:dust-bowl",
+      "tags": [
+        "depression",
+        "west"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_050",
+      "question": "What did the Lend-Lease Act of 1941 do?",
+      "correctAnswer": "Allowed the U.S. to lend or lease war supplies to Britain and other Allies",
+      "distractors": [
+        "Drafted American soldiers for service in Europe",
+        "Banned trade with all warring nations",
+        "Sold the Philippines to Japan"
+      ],
+      "explanation": "Lend-Lease made the U.S. the 'arsenal of democracy' before Pearl Harbor, supplying Britain, the USSR, and China.",
+      "memoryHook": "T-Rexy says: Lend-Lease - lend the guns now, settle the bill later!",
+      "imageUrl": "topic:lend-lease",
+      "tags": [
+        "wwii",
+        "foreign-policy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_051",
+      "question": "What was the Truman Doctrine of 1947?",
+      "correctAnswer": "The U.S. would support free peoples resisting communist pressure",
+      "distractors": [
+        "The U.S. would build atomic bombs for its allies",
+        "The U.S. would withdraw from Europe",
+        "The U.S. would recognize communist China"
+      ],
+      "explanation": "Truman pledged aid to Greece and Turkey and, more broadly, to contain communism, a policy that shaped the Cold War.",
+      "memoryHook": "T-Rexy says: Truman Doctrine - help free peoples fight communism!",
+      "imageUrl": "topic:truman-doctrine",
+      "tags": [
+        "cold-war",
+        "foreign-policy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_052",
+      "question": "What was the outcome of the Korean War (1950-1953)?",
+      "correctAnswer": "An armistice that left Korea divided near the 38th parallel",
+      "distractors": [
+        "A unified Korea under the United Nations",
+        "A communist victory over South Korea",
+        "A peace treaty that ended the Cold War"
+      ],
+      "explanation": "The war ended in a stalemate; North and South Korea remain divided today under a 1953 armistice, not a peace treaty.",
+      "memoryHook": "T-Rexy says: Korea 1953 - armistice, not peace, and still divided!",
+      "imageUrl": "topic:korean-war",
+      "tags": [
+        "cold-war",
+        "war"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_053",
+      "question": "What happened during the Cuban Missile Crisis of 1962?",
+      "correctAnswer": "The U.S. discovered Soviet nuclear missiles in Cuba and imposed a naval quarantine",
+      "distractors": [
+        "Cuba invaded Florida with Soviet help",
+        "The U.S. bombed missile sites in Cuba",
+        "The Soviet Union withdrew from the United Nations"
+      ],
+      "explanation": "The 13-day standoff ended when the USSR agreed to remove the missiles and the U.S. pledged not to invade Cuba.",
+      "memoryHook": "T-Rexy says: Thirteen days in October - missiles in Cuba, world holds its breath!",
+      "imageUrl": "topic:cuban-missile-crisis",
+      "tags": [
+        "cold-war",
+        "kennedy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_054",
+      "question": "What was Lyndon Johnson's Great Society?",
+      "correctAnswer": "A program of civil rights, anti-poverty, health, and education reforms in the 1960s",
+      "distractors": [
+        "A plan to end the Vietnam War quickly",
+        "A tax cut for wealthy Americans",
+        "A program to build the interstate highway system"
+      ],
+      "explanation": "The Great Society created Medicare, Medicaid, Head Start, and the War on Poverty alongside landmark civil rights laws.",
+      "memoryHook": "T-Rexy says: Great Society - Medicare, Medicaid, and a war on poverty!",
+      "imageUrl": "topic:great-society",
+      "tags": [
+        "1960s",
+        "presidents"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_055",
+      "question": "What was the Tet Offensive of 1968?",
+      "correctAnswer": "A massive coordinated Viet Cong attack on South Vietnamese cities during a holiday truce",
+      "distractors": [
+        "A U.S. bombing campaign against North Vietnam",
+        "A peace negotiation in Paris",
+        "A South Vietnamese invasion of Cambodia"
+      ],
+      "explanation": "Although a military failure for the communists, Tet shocked Americans and turned public opinion against the war.",
+      "memoryHook": "T-Rexy says: Tet 1968 - a surprise attack that changed minds at home!",
+      "imageUrl": "topic:tet-offensive",
+      "tags": [
+        "vietnam"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_056",
+      "question": "What did the Camp David Accords of 1978 achieve?",
+      "correctAnswer": "A framework that led to a peace treaty between Egypt and Israel, brokered by Jimmy Carter",
+      "distractors": [
+        "An end to the Iran hostage crisis",
+        "A nuclear arms agreement with the Soviet Union",
+        "A trade deal between the U.S. and Mexico"
+      ],
+      "explanation": "Carter mediated between Anwar Sadat and Menachem Begin at Camp David in 1978. The accords themselves were a framework, not the treaty: they led to the 1979 Egypt-Israel peace treaty, under which Egypt became the first Arab state to recognize Israel.",
+      "memoryHook": "T-Rexy says: Camp David - Carter, Sadat, Begin, and a handshake for peace!",
+      "imageUrl": "topic:camp-david-accords",
+      "tags": [
+        "foreign-policy",
+        "carter"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_057",
+      "question": "What was Reaganomics?",
+      "correctAnswer": "Supply-side policies of tax cuts, deregulation, and reduced domestic spending",
+      "distractors": [
+        "A plan to nationalize major industries",
+        "A program of massive public works",
+        "A policy of raising taxes on the middle class"
+      ],
+      "explanation": "Reagan's economic program argued that cutting taxes on businesses and the wealthy would spur investment and growth.",
+      "memoryHook": "T-Rexy says: Reaganomics - cut taxes, deregulate, and let wealth trickle down!",
+      "imageUrl": "topic:reaganomics",
+      "tags": [
+        "1980s",
+        "economics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_058",
+      "question": "What was the Iran-Contra affair?",
+      "correctAnswer": "Secret arms sales to Iran used to fund Nicaraguan Contra rebels despite a congressional ban",
+      "distractors": [
+        "A hostage rescue mission in Tehran",
+        "A trade embargo against Iran",
+        "A CIA plot to overthrow the Shah"
+      ],
+      "explanation": "Reagan administration officials secretly sold arms to Iran and diverted the money to the Contras, violating the Boland Amendment.",
+      "memoryHook": "T-Rexy says: Iran-Contra - arms for hostages, cash for Contras, scandal for all!",
+      "imageUrl": "topic:iran-contra",
+      "tags": [
+        "1980s",
+        "scandal"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_059",
+      "question": "What triggered the financial crisis of 2008?",
+      "correctAnswer": "The collapse of the housing bubble and risky mortgage-backed securities",
+      "distractors": [
+        "A sudden spike in oil prices",
+        "The failure of the dot-com stock bubble",
+        "A trade war with China"
+      ],
+      "explanation": "Subprime mortgages bundled into securities failed when housing prices fell, freezing credit and triggering the Great Recession.",
+      "memoryHook": "T-Rexy says: 2008 - the housing bubble burst and the banks froze!",
+      "imageUrl": "topic:financial-crisis-2008",
+      "tags": [
+        "economics",
+        "2000s"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_060",
+      "question": "What did the Affordable Care Act of 2010 mainly do?",
+      "correctAnswer": "Expanded health insurance coverage and regulated insurers",
+      "distractors": [
+        "Created a single-payer national health system",
+        "Abolished Medicare and Medicaid",
+        "Made health insurance optional for employers only"
+      ],
+      "explanation": "The ACA required most Americans to have coverage, expanded Medicaid, and barred insurers from denying coverage for pre-existing conditions.",
+      "memoryHook": "T-Rexy says: Obamacare - more people covered, pre-existing conditions protected!",
+      "imageUrl": "topic:affordable-care-act",
+      "tags": [
+        "2010s",
+        "healthcare"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_061",
+      "question": "What did the Sherman Antitrust Act of 1890 outlaw?",
+      "correctAnswer": "Monopolies and combinations in restraint of trade",
+      "distractors": [
+        "Labor unions and strikes",
+        "Foreign ownership of railroads",
+        "Price-fixing by small businesses only"
+      ],
+      "explanation": "The act was the first federal attempt to break up monopolies, though it was rarely used effectively until the Progressive Era.",
+      "memoryHook": "T-Rexy says: Sherman 1890 - bust the trusts, free the trade!",
+      "imageUrl": "topic:sherman-antitrust",
+      "tags": [
+        "gilded-age",
+        "economics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_062",
+      "question": "What did the Interstate Commerce Act of 1887 create?",
+      "correctAnswer": "Federal regulation of railroads through the Interstate Commerce Commission",
+      "distractors": [
+        "A national highway system",
+        "The first federal income tax",
+        "A ban on railroad strikes"
+      ],
+      "explanation": "It was the first federal regulatory agency, aimed at curbing railroad rate discrimination against farmers and small shippers.",
+      "memoryHook": "T-Rexy says: Interstate Commerce - the first federal watchdog over the rails!",
+      "imageUrl": "topic:interstate-commerce-act",
+      "tags": [
+        "gilded-age",
+        "economics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_063",
+      "question": "What was the Open Door Policy toward China?",
+      "correctAnswer": "All nations should have equal trading rights in China",
+      "distractors": [
+        "China should be closed to all foreign trade",
+        "The U.S. should annex Chinese ports",
+        "Only Britain could trade with China"
+      ],
+      "explanation": "Secretary of State John Hay's 1899 notes asked European powers to keep China open to trade rather than carving it into exclusive spheres.",
+      "memoryHook": "T-Rexy says: Open Door - keep China open for everyone's trade!",
+      "imageUrl": "topic:open-door-policy",
+      "tags": [
+        "imperialism",
+        "foreign-policy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_064",
+      "question": "Why was the Panama Canal important to the United States?",
+      "correctAnswer": "It shortened the sea route between the Atlantic and Pacific Oceans",
+      "distractors": [
+        "It gave the U.S. control of the Suez Canal",
+        "It stopped European ships from reaching South America",
+        "It provided drinking water for Panama City"
+      ],
+      "explanation": "Completed in 1914, the canal let ships avoid the long trip around South America and strengthened U.S. naval and commercial power.",
+      "memoryHook": "T-Rexy says: Panama Canal - cut through the isthmus, cut weeks off the voyage!",
+      "imageUrl": "topic:panama-canal",
+      "tags": [
+        "imperialism",
+        "foreign-policy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_065",
+      "question": "What was nativism in the 1920s?",
+      "correctAnswer": "Hostility toward immigrants and a push to restrict immigration",
+      "distractors": [
+        "A movement to preserve Native American languages",
+        "A philosophy that favored rural over urban life",
+        "A campaign to ban foreign goods"
+      ],
+      "explanation": "Nativism fueled the 1921 and 1924 quota laws that sharply limited immigration, especially from southern and eastern Europe and Asia.",
+      "memoryHook": "T-Rexy says: Nativism - fear of newcomers led to quota laws!",
+      "imageUrl": "topic:nativism-1920s",
+      "tags": [
+        "1920s",
+        "immigration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_066",
+      "question": "What was the Tennessee Valley Authority (TVA)?",
+      "correctAnswer": "A New Deal agency that built dams and brought electricity to a poor region",
+      "distractors": [
+        "A program to relocate farmers to cities",
+        "A federal bank for southern states",
+        "A military base in Tennessee"
+      ],
+      "explanation": "The TVA built dams for flood control and hydroelectric power, modernizing the Tennessee Valley and creating jobs.",
+      "memoryHook": "T-Rexy says: TVA - dams, power, and jobs for the Tennessee Valley!",
+      "imageUrl": "topic:tva",
+      "tags": [
+        "new-deal",
+        "depression"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_067",
+      "question": "What did the GI Bill of 1944 provide for World War II veterans?",
+      "correctAnswer": "Education benefits, low-interest home loans, and unemployment pay",
+      "distractors": [
+        "Free cars and lifetime pensions",
+        "Guaranteed government jobs",
+        "Free land in the West"
+      ],
+      "explanation": "The Servicemen's Readjustment Act helped millions of veterans attend college and buy homes, fueling the postwar boom.",
+      "memoryHook": "T-Rexy says: GI Bill - college, a home, and a fresh start for veterans!",
+      "imageUrl": "topic:gi-bill",
+      "tags": [
+        "wwii",
+        "postwar"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_068",
+      "question": "What was the Marshall Plan?",
+      "correctAnswer": "U.S. aid to rebuild Western Europe after World War II",
+      "distractors": [
+        "A plan to divide Germany into four zones",
+        "A military alliance against the Soviet Union",
+        "A program to bring European scientists to America"
+      ],
+      "explanation": "The 1948 plan gave over 12 billion dollars to rebuild European economies, aiming to prevent communism and restore trade.",
+      "memoryHook": "T-Rexy says: Marshall Plan - rebuild Europe, stop communism, restart trade!",
+      "imageUrl": "topic:marshall-plan",
+      "tags": [
+        "cold-war",
+        "postwar"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_069",
+      "question": "What was NATO, founded in 1949?",
+      "correctAnswer": "A military alliance of the United States, Canada, and Western European nations",
+      "distractors": [
+        "A trade agreement between the U.S. and Britain",
+        "A United Nations peacekeeping force",
+        "An organization to control nuclear weapons"
+      ],
+      "explanation": "The North Atlantic Treaty Organization committed members to collective defense against Soviet aggression.",
+      "memoryHook": "T-Rexy says: NATO 1949 - an attack on one is an attack on all!",
+      "imageUrl": "topic:nato",
+      "tags": [
+        "cold-war",
+        "foreign-policy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_070",
+      "question": "What did the Civil Rights Act of 1964 do?",
+      "correctAnswer": "Banned discrimination in employment and public accommodations based on race, color, religion, sex, or national origin",
+      "distractors": [
+        "Granted voting rights to all citizens over 18",
+        "Desegregated the military",
+        "Created the Equal Employment Opportunity Commission only"
+      ],
+      "explanation": "The landmark law ended legal segregation in public places and outlawed employment discrimination, enforced by the federal government.",
+      "memoryHook": "T-Rexy says: 1964 - no more whites-only signs, no more job discrimination!",
+      "imageUrl": "topic:civil-rights-act-1964",
+      "tags": [
+        "civil-rights",
+        "1960s"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_071",
+      "question": "What was the main argument of Federalist No. 10?",
+      "correctAnswer": "A large republic can control factions better than a small one",
+      "distractors": [
+        "The states should have more power than the federal government",
+        "A bill of rights is unnecessary",
+        "The president should serve for life"
+      ],
+      "explanation": "Madison argued that in an extended republic, many competing interests would prevent any single faction from dominating.",
+      "memoryHook": "T-Rexy says: Federalist 10 - many factions cancel each other out in a big republic!",
+      "imageUrl": "topic:federalist-10",
+      "tags": [
+        "founding",
+        "constitution"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_072",
+      "question": "What was the XYZ Affair of 1797-1798?",
+      "correctAnswer": "French agents demanded bribes from American diplomats, sparking an undeclared naval war",
+      "distractors": [
+        "British agents plotted to seize New Orleans",
+        "Spanish officials closed the Mississippi River",
+        "Dutch merchants smuggled goods into New York"
+      ],
+      "explanation": "The French demand for bribes outraged Americans, leading to the Quasi-War and the slogan 'Millions for defense, but not one cent for tribute.'",
+      "memoryHook": "T-Rexy says: XYZ - French agents want bribes, America says no tribute!",
+      "imageUrl": "topic:xyz-affair",
+      "tags": [
+        "founding",
+        "foreign-policy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_073",
+      "question": "What was the Hartford Convention of 1814-1815?",
+      "correctAnswer": "New England Federalists met to discuss grievances over the War of 1812 and possible secession",
+      "distractors": [
+        "A meeting that drafted the Monroe Doctrine",
+        "A convention that banned the slave trade",
+        "A gathering of abolitionists in Connecticut"
+      ],
+      "explanation": "The convention's talk of secession discredited the Federalist Party when news of the Treaty of Ghent, which ended the war on status-quo terms, arrived together with news of Jackson's victory at the Battle of New Orleans, making the Federalists look disloyal.",
+      "memoryHook": "T-Rexy says: Hartford - Federalists talk secession, then the war ends and they vanish!",
+      "imageUrl": "topic:hartford-convention",
+      "tags": [
+        "war-of-1812",
+        "politics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_074",
+      "question": "What was the Nullification Crisis of 1832-1833 about?",
+      "correctAnswer": "South Carolina claimed it could nullify a federal tariff it considered unconstitutional",
+      "distractors": [
+        "Georgia refused to follow Supreme Court rulings on Native land",
+        "Virginia threatened to secede over the Missouri Compromise",
+        "Massachusetts refused to pay federal taxes"
+      ],
+      "explanation": "Calhoun's doctrine of nullification clashed with Jackson's defense of the Union; a compromise tariff defused the crisis.",
+      "memoryHook": "T-Rexy says: Nullification - South Carolina vs Jackson, Union wins this round!",
+      "imageUrl": "topic:nullification-crisis",
+      "tags": [
+        "jackson",
+        "sectionalism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_075",
+      "question": "What did the Wilmot Proviso of 1846 propose?",
+      "correctAnswer": "Slavery would be banned in any territory acquired from Mexico",
+      "distractors": [
+        "Texas would be annexed as a free state",
+        "California would be divided into two states",
+        "The slave trade would end in Washington, D.C."
+      ],
+      "explanation": "The proviso passed the House but not the Senate, and it sharpened the sectional debate over slavery in new territories.",
+      "memoryHook": "T-Rexy says: Wilmot Proviso - no slavery in the land won from Mexico!",
+      "imageUrl": "topic:wilmot-proviso",
+      "tags": [
+        "slavery",
+        "expansion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_076",
+      "question": "What was a key part of the Compromise of 1850?",
+      "correctAnswer": "California entered as a free state while a stronger Fugitive Slave Act was passed",
+      "distractors": [
+        "Slavery was banned in all new territories",
+        "Texas was split into two states",
+        "The Missouri Compromise line was extended to the Pacific"
+      ],
+      "explanation": "Henry Clay's compromise admitted California free, organized Utah and New Mexico by popular sovereignty, and tightened fugitive slave enforcement.",
+      "memoryHook": "T-Rexy says: Compromise of 1850 - California free, but fugitives face a harsher law!",
+      "imageUrl": "topic:compromise-1850",
+      "tags": [
+        "slavery",
+        "sectionalism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_077",
+      "question": "What was the Freeport Doctrine?",
+      "correctAnswer": "Stephen Douglas's claim that territories could exclude slavery by refusing to pass laws protecting it",
+      "distractors": [
+        "Lincoln's plan to free slaves in border states",
+        "A proposal to make Chicago a free port",
+        "A doctrine supporting the expansion of slavery into Cuba"
+      ],
+      "explanation": "At Freeport in 1858, Douglas argued that popular sovereignty let territories keep slavery out in practice, which cost him Southern support in 1860.",
+      "memoryHook": "T-Rexy says: Freeport - Douglas says territories can freeze slavery out by doing nothing!",
+      "imageUrl": "topic:freeport-doctrine",
+      "tags": [
+        "slavery",
+        "lincoln-douglas"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_078",
+      "question": "What was the Wade-Davis Bill of 1864?",
+      "correctAnswer": "A Radical Republican plan requiring a majority of white males to swear loyalty before a state could rejoin the Union",
+      "distractors": [
+        "A law freeing slaves in border states",
+        "A bill creating the Freedmen's Bureau",
+        "A plan to divide the South into military districts"
+      ],
+      "explanation": "Lincoln pocket-vetoed the bill because he favored a more lenient Reconstruction plan based on 10 percent loyalty oaths.",
+      "memoryHook": "T-Rexy says: Wade-Davis - Radicals demand half the South swear loyalty, Lincoln says no!",
+      "imageUrl": "topic:wade-davis-bill",
+      "tags": [
+        "reconstruction"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_079",
+      "question": "What was the Credit Mobilier scandal?",
+      "correctAnswer": "A construction company bribed congressmen with discounted stock to protect its railroad contracts",
+      "distractors": [
+        "A bank collapsed after lending to the government",
+        "A railroad company went bankrupt from overbuilding",
+        "A mining company cheated the Treasury of gold"
+      ],
+      "explanation": "The Union Pacific's construction arm overcharged the government and bribed officials, damaging Grant's administration.",
+      "memoryHook": "T-Rexy says: Credit Mobilier - railroad builders bribe Congress with cheap stock!",
+      "imageUrl": "topic:credit-mobilier",
+      "tags": [
+        "gilded-age",
+        "scandal"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_080",
+      "question": "What did the Bland-Allison Act of 1878 do?",
+      "correctAnswer": "Required the Treasury to buy and coin silver each month",
+      "distractors": [
+        "Banned the coinage of silver entirely",
+        "Put the U.S. on the gold standard",
+        "Created the Federal Reserve"
+      ],
+      "explanation": "The act was a compromise between free-silver advocates and gold supporters, mandating limited monthly silver purchases.",
+      "memoryHook": "T-Rexy says: Bland-Allison - buy some silver, please the farmers, keep the gold men calm!",
+      "imageUrl": "topic:bland-allison-act",
+      "tags": [
+        "gilded-age",
+        "economics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_081",
+      "question": "Why was the Pullman Strike of 1894 significant?",
+      "correctAnswer": "Federal troops broke the strike, showing government support for business over labor",
+      "distractors": [
+        "It won workers an eight-hour day",
+        "It led to the founding of the AFL",
+        "It ended all railroad strikes for a decade"
+      ],
+      "explanation": "When the American Railway Union boycotted Pullman cars, Attorney General Olney obtained an injunction and Cleveland sent troops, crushing the strike and jailing Eugene Debs.",
+      "memoryHook": "T-Rexy says: Pullman 1894 - troops break the boycott, labor loses this round!",
+      "imageUrl": "topic:pullman-strike",
+      "tags": [
+        "gilded-age",
+        "labor"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_082",
+      "question": "What did Plessy v. Ferguson (1896) establish?",
+      "correctAnswer": "The 'separate but equal' doctrine legalizing segregation",
+      "distractors": [
+        "The right of states to ban interracial marriage",
+        "The unconstitutionality of Jim Crow laws",
+        "The federal power to integrate schools"
+      ],
+      "explanation": "The Court upheld Louisiana's segregated railroad cars, giving legal cover to segregation until Brown v. Board in 1954.",
+      "memoryHook": "T-Rexy says: Plessy 1896 - separate but equal, the law of segregation!",
+      "imageUrl": "topic:plessy-v-ferguson",
+      "tags": [
+        "supreme-court",
+        "segregation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_083",
+      "question": "What did the Insular Cases (1901) decide?",
+      "correctAnswer": "The Constitution does not automatically extend full rights to people in newly acquired territories",
+      "distractors": [
+        "Puerto Rico and the Philippines must become states",
+        "The U.S. could not acquire overseas territory",
+        "All territorial residents were full citizens"
+      ],
+      "explanation": "The Court ruled that only some constitutional rights applied in 'unincorporated' territories like Puerto Rico and the Philippines.",
+      "memoryHook": "T-Rexy says: Insular Cases - the flag flies there, but the Constitution follows only partly!",
+      "imageUrl": "topic:insular-cases",
+      "tags": [
+        "imperialism",
+        "supreme-court"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_084",
+      "question": "What was the Teapot Dome scandal?",
+      "correctAnswer": "The Secretary of the Interior secretly leased federal oil reserves for bribes",
+      "distractors": [
+        "A cabinet member sold military secrets to Germany",
+        "A senator embezzled funds from the Treasury",
+        "A governor rigged elections with oil money"
+      ],
+      "explanation": "Albert Fall leased Navy oil reserves at Teapot Dome, Wyoming, to private companies for bribes, the first cabinet secretary jailed for a crime in office.",
+      "memoryHook": "T-Rexy says: Teapot Dome - oil reserves leased for bribes, a secretary goes to jail!",
+      "imageUrl": "topic:teapot-dome",
+      "tags": [
+        "1920s",
+        "scandal"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_085",
+      "question": "What was the effect of the Smoot-Hawley Tariff of 1930?",
+      "correctAnswer": "It raised tariffs sharply and worsened the Depression by shrinking world trade",
+      "distractors": [
+        "It lowered prices for American consumers",
+        "It ended the Depression by protecting farmers",
+        "It encouraged other nations to lower their tariffs"
+      ],
+      "explanation": "The tariff raised duties to record levels, prompting retaliation that cut international trade by two-thirds and deepened the Depression.",
+      "memoryHook": "T-Rexy says: Smoot-Hawley - high tariffs, trade war, deeper Depression!",
+      "imageUrl": "topic:smoot-hawley-tariff",
+      "tags": [
+        "depression",
+        "economics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_086",
+      "question": "What was Roosevelt's court-packing plan of 1937?",
+      "correctAnswer": "A proposal to add justices to the Supreme Court after it struck down New Deal laws",
+      "distractors": [
+        "A plan to remove justices who opposed the New Deal",
+        "A law limiting the Court to nine members",
+        "A proposal to elect Supreme Court justices"
+      ],
+      "explanation": "FDR proposed adding one justice for each over 70, up to six, to gain a favorable Court. Congress rejected it, though the Court soon upheld New Deal laws.",
+      "memoryHook": "T-Rexy says: Court-packing - FDR tries to add judges, Congress says no!",
+      "imageUrl": "topic:court-packing-plan",
+      "tags": [
+        "new-deal",
+        "supreme-court"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_087",
+      "question": "What did the Yalta Conference of February 1945 agree on?",
+      "correctAnswer": "Postwar division of Germany, Soviet entry into the war against Japan, and the United Nations",
+      "distractors": [
+        "An immediate invasion of Japan",
+        "The creation of NATO",
+        "The unconditional surrender of Italy"
+      ],
+      "explanation": "Roosevelt, Churchill, and Stalin agreed on occupation zones, a new world organization, and Soviet promises on Poland and Japan.",
+      "memoryHook": "T-Rexy says: Yalta - divide Germany, plan the UN, promise to fight Japan!",
+      "imageUrl": "topic:yalta-conference",
+      "tags": [
+        "wwii",
+        "foreign-policy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_088",
+      "question": "What ended Senator Joseph McCarthy's influence in 1954?",
+      "correctAnswer": "The televised Army-McCarthy hearings exposed his bullying tactics",
+      "distractors": [
+        "He lost his Senate re-election",
+        "President Eisenhower fired him",
+        "The Supreme Court ruled his investigations illegal"
+      ],
+      "explanation": "During the hearings, Army counsel Joseph Welch asked 'Have you no sense of decency?' and the Senate censured McCarthy later that year.",
+      "memoryHook": "T-Rexy says: Army-McCarthy - have you no sense of decency, sir!",
+      "imageUrl": "topic:army-mccarthy-hearings",
+      "tags": [
+        "cold-war",
+        "mccarthyism"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_089",
+      "question": "What did the Gulf of Tonkin Resolution of 1964 do?",
+      "correctAnswer": "Gave President Johnson broad authority to use military force in Vietnam",
+      "distractors": [
+        "Declared war on North Vietnam",
+        "Authorized the bombing of Cambodia",
+        "Ended U.S. involvement in Southeast Asia"
+      ],
+      "explanation": "After reported attacks on U.S. destroyers, Congress passed the resolution, which Johnson used as a blank check for escalation.",
+      "memoryHook": "T-Rexy says: Tonkin - a resolution that became a blank check for war!",
+      "imageUrl": "topic:gulf-of-tonkin",
+      "tags": [
+        "vietnam",
+        "congress"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_090",
+      "question": "What did the War Powers Act of 1973 require?",
+      "correctAnswer": "The president must notify Congress within 48 hours of deploying troops and withdraw them after 60 days without approval",
+      "distractors": [
+        "Congress must declare war before any troops deploy",
+        "The president cannot deploy troops overseas at all",
+        "The military must report directly to Congress"
+      ],
+      "explanation": "Passed over Nixon's veto after Vietnam, the act aimed to restore Congress's war powers, though presidents have disputed its constitutionality.",
+      "memoryHook": "T-Rexy says: War Powers - 48 hours to tell Congress, 60 days to get approval!",
+      "imageUrl": "topic:war-powers-act",
+      "tags": [
+        "vietnam",
+        "congress"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_091",
+      "question": "What was the SALT II treaty of 1979 about?",
+      "correctAnswer": "Limiting strategic nuclear weapons between the U.S. and the Soviet Union",
+      "distractors": [
+        "Banning all nuclear testing",
+        "Reducing conventional forces in Europe",
+        "Sharing missile defense technology"
+      ],
+      "explanation": "Carter and Brezhnev signed SALT II to cap nuclear launchers, but the Senate never ratified it after the Soviet invasion of Afghanistan.",
+      "memoryHook": "T-Rexy says: SALT II - cap the missiles, but Afghanistan kills the treaty!",
+      "imageUrl": "topic:salt-ii",
+      "tags": [
+        "cold-war",
+        "arms-control"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_092",
+      "question": "What did Regents of the University of California v. Bakke (1978) decide?",
+      "correctAnswer": "Racial quotas in admissions are unconstitutional, but race may be one factor among many",
+      "distractors": [
+        "Affirmative action is entirely unconstitutional",
+        "Universities must admit students by test scores alone",
+        "States cannot consider race in any public policy"
+      ],
+      "explanation": "The Court struck down UC Davis's quota system but allowed race as a 'plus factor' in admissions, a compromise that shaped affirmative action for decades.",
+      "memoryHook": "T-Rexy says: Bakke - no quotas, but race can count as one factor!",
+      "imageUrl": "topic:bakke-case",
+      "tags": [
+        "supreme-court",
+        "civil-rights"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_093",
+      "question": "What was the Gramm-Rudman-Hollings Act of 1985 designed to do?",
+      "correctAnswer": "Force automatic spending cuts to reduce the federal budget deficit",
+      "distractors": [
+        "Raise taxes to balance the budget",
+        "Create a balanced budget amendment",
+        "Abolish the national debt"
+      ],
+      "explanation": "The act set deficit targets enforced by automatic sequestration, but the Supreme Court struck down its enforcement mechanism in 1986.",
+      "memoryHook": "T-Rexy says: Gramm-Rudman - hit the deficit target or the budget gets cut automatically!",
+      "imageUrl": "topic:gramm-rudman",
+      "tags": [
+        "1980s",
+        "economics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_094",
+      "question": "What did the USA PATRIOT Act of 2001 expand?",
+      "correctAnswer": "Government surveillance and law enforcement powers to fight terrorism",
+      "distractors": [
+        "The military draft for the war in Afghanistan",
+        "Border wall construction along Mexico",
+        "The power of states to deport immigrants"
+      ],
+      "explanation": "Passed after 9/11, the act expanded wiretapping, search, and detention powers, raising debates about civil liberties versus security.",
+      "memoryHook": "T-Rexy says: PATRIOT Act - more surveillance powers after 9/11!",
+      "imageUrl": "topic:patriot-act",
+      "tags": [
+        "2000s",
+        "civil-liberties"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_095",
+      "question": "What did Citizens United v. FEC (2010) decide?",
+      "correctAnswer": "Corporate and union spending on elections is protected free speech",
+      "distractors": [
+        "Corporations cannot donate to candidates",
+        "Campaign finance limits are unconstitutional in all cases",
+        "Only individuals may fund political ads"
+      ],
+      "explanation": "The Court ruled that restricting independent political spending by corporations violated the First Amendment, reshaping campaign finance.",
+      "memoryHook": "T-Rexy says: Citizens United - corporate money talks, and the Court calls it speech!",
+      "imageUrl": "topic:citizens-united",
+      "tags": [
+        "supreme-court",
+        "politics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_096",
+      "question": "What was the Dawes Act of 1887 meant to do to Native Americans?",
+      "correctAnswer": "Break up tribal lands into individual allotments to encourage assimilation",
+      "distractors": [
+        "Grant tribes full sovereignty over their lands",
+        "Create reservations for all tribes in Oklahoma",
+        "Pay tribes for land taken by settlers"
+      ],
+      "explanation": "The act divided communal tribal land into 160-acre allotments, with 'surplus' sold to settlers, costing tribes about two-thirds of their land by 1934.",
+      "memoryHook": "T-Rexy says: Dawes Act - split the tribal land, sell the surplus, erase the tribe!",
+      "imageUrl": "topic:dawes-act",
+      "tags": [
+        "native-american",
+        "west"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_097",
+      "question": "What happened at Wounded Knee in 1890?",
+      "correctAnswer": "U.S. soldiers killed about 150 Lakota Sioux, ending armed Native resistance on the Plains",
+      "distractors": [
+        "The Sioux defeated the U.S. Army in battle",
+        "A treaty granted the Sioux the Black Hills",
+        "The Ghost Dance movement began"
+      ],
+      "explanation": "The massacre followed the army's attempt to disarm Lakota practicing the Ghost Dance and marked the end of the Indian Wars era.",
+      "memoryHook": "T-Rexy says: Wounded Knee 1890 - a massacre that closed the frontier wars!",
+      "imageUrl": "topic:wounded-knee",
+      "tags": [
+        "native-american",
+        "west"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_098",
+      "question": "What was the Lowell mill system?",
+      "correctAnswer": "Textile factories in Massachusetts that employed young farm women living in company boardinghouses",
+      "distractors": [
+        "A system of slave labor in southern cotton mills",
+        "A network of canals built by Irish immigrants",
+        "A plan to unionize all New England factories"
+      ],
+      "explanation": "Lowell's mills recruited 'mill girls' from farm families, offering wages and supervised housing, an early model of American industrial labor.",
+      "memoryHook": "T-Rexy says: Lowell mills - farm girls become factory workers, dorms included!",
+      "imageUrl": "topic:lowell-mills",
+      "tags": [
+        "industrialization",
+        "labor"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_099",
+      "question": "What reform movements grew out of the Second Great Awakening?",
+      "correctAnswer": "Abolition, temperance, women's rights, and prison and education reform",
+      "distractors": [
+        "Only the abolition movement",
+        "Socialism and anarchism",
+        "The Populist and Progressive movements"
+      ],
+      "explanation": "The religious revival of the 1820s-1840s inspired Americans to perfect society through reform, linking evangelical faith to social activism.",
+      "memoryHook": "T-Rexy says: Second Great Awakening - revival fires up reform in every direction!",
+      "imageUrl": "topic:second-great-awakening",
+      "tags": [
+        "reform",
+        "religion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "USH_100",
+      "question": "What was the policy of containment and its key document NSC-68?",
+      "correctAnswer": "A strategy to stop the spread of communism, with NSC-68 calling for a major military buildup",
+      "distractors": [
+        "A plan to contain the Soviet Union by trade embargoes alone",
+        "A policy of withdrawing from all overseas bases",
+        "A strategy to overthrow communist governments by force"
+      ],
+      "explanation": "George Kennan proposed containment in 1947. NSC-68, drafted in April 1950 before the Korean War began, called for a major military buildup to apply containment globally; Truman approved and funded that buildup only after North Korea invaded the South in June 1950.",
+      "memoryHook": "T-Rexy says: Containment - stop communism from spreading, then build the muscle to do it!",
+      "imageUrl": "topic:containment-policy",
+      "tags": [
+        "cold-war",
+        "foreign-policy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

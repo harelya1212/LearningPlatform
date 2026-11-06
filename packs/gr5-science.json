@@ -1,0 +1,2016 @@
+{
+  "packId": "gr5-science",
+  "title": "Science (5th Grade)",
+  "description": "Science (5th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "science",
+    "5th"
+  ],
+  "questions": [
+    {
+      "id": "SCI5_001",
+      "question": "What are the three states of matter?",
+      "correctAnswer": "Solid, liquid, and gas",
+      "distractors": [
+        "Solid, liquid, and plasma",
+        "Hot, cold, and warm",
+        "Rock, water, and air"
+      ],
+      "explanation": "Matter can be a solid with a fixed shape, a liquid that flows, or a gas that spreads out.",
+      "memoryHook": "T-Rexy says: solids keep their shape, liquids flow, gases fill the room!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "states"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_002",
+      "question": "Which of these is a solid?",
+      "correctAnswer": "An ice cube",
+      "distractors": [
+        "Orange juice",
+        "Steam from a kettle",
+        "The air in a balloon"
+      ],
+      "explanation": "An ice cube keeps its own shape, so it is a solid.",
+      "memoryHook": "T-Rexy says: if it keeps its shape when you pick it up, it is a solid!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "states"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_003",
+      "question": "Which of these is a gas?",
+      "correctAnswer": "The air we breathe",
+      "distractors": [
+        "A glass of milk",
+        "A wooden block",
+        "A metal spoon"
+      ],
+      "explanation": "Air spreads out to fill its container and you cannot see it, so it is a gas.",
+      "memoryHook": "T-Rexy says: gases are sneaky - they fill every corner!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "states"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_004",
+      "question": "What happens to water when it freezes?",
+      "correctAnswer": "It turns into solid ice",
+      "distractors": [
+        "It turns into steam",
+        "It disappears",
+        "It turns into salt"
+      ],
+      "explanation": "Freezing cools water until it changes from a liquid into solid ice.",
+      "memoryHook": "T-Rexy says: cold turns flowing water into hard ice!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "changes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_005",
+      "question": "What is melting?",
+      "correctAnswer": "A solid changing into a liquid",
+      "distractors": [
+        "A liquid changing into a solid",
+        "A gas changing into a liquid",
+        "A solid disappearing"
+      ],
+      "explanation": "When a solid warms up enough, it melts and becomes a liquid.",
+      "memoryHook": "T-Rexy says: heat melts a solid into a puddle!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "changes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_006",
+      "question": "What do we call water changing into water vapor?",
+      "correctAnswer": "Evaporation",
+      "distractors": [
+        "Freezing",
+        "Melting",
+        "Condensation"
+      ],
+      "explanation": "Evaporation is when liquid water turns into invisible water vapor.",
+      "memoryHook": "T-Rexy says: the sun lifts water up into the sky as vapor!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "water-cycle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_007",
+      "question": "Which tool measures the mass of an object?",
+      "correctAnswer": "A balance scale",
+      "distractors": [
+        "A thermometer",
+        "A ruler",
+        "A stopwatch"
+      ],
+      "explanation": "A balance scale compares masses, while a ruler measures length.",
+      "memoryHook": "T-Rexy says: a balance scale weighs things like a dino seesaw!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "measurement"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_008",
+      "question": "What is the smallest unit of matter that keeps the properties of an element?",
+      "correctAnswer": "An atom",
+      "distractors": [
+        "A cell",
+        "A molecule of water",
+        "A grain of sand"
+      ],
+      "explanation": "Atoms are the tiny building blocks of all matter.",
+      "memoryHook": "T-Rexy says: atoms are the tiniest dino building blocks!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "atoms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_009",
+      "question": "Which of these is a mixture?",
+      "correctAnswer": "Trail mix",
+      "distractors": [
+        "Pure water",
+        "A gold coin",
+        "Table salt"
+      ],
+      "explanation": "Trail mix is a mixture because its parts stay separate and can be picked apart.",
+      "memoryHook": "T-Rexy says: a mixture keeps its parts separate - like trail mix!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "mixtures"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_010",
+      "question": "What happens to the particles of a solid when it is heated?",
+      "correctAnswer": "They move faster and spread apart",
+      "distractors": [
+        "They stop moving completely",
+        "They shrink and freeze",
+        "They turn into atoms of a new element"
+      ],
+      "explanation": "Heat gives particles more energy, so they vibrate faster and spread apart.",
+      "memoryHook": "T-Rexy says: heat makes tiny particles dance faster!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "particles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_011",
+      "question": "Which material is a good conductor of heat?",
+      "correctAnswer": "Metal",
+      "distractors": [
+        "Wood",
+        "Plastic",
+        "Rubber"
+      ],
+      "explanation": "Metals let heat flow through them easily, which is why metal pans get hot.",
+      "memoryHook": "T-Rexy says: metal passes heat along like a hot potato!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "conductors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_012",
+      "question": "What is density?",
+      "correctAnswer": "How much mass is packed into a space",
+      "distractors": [
+        "How heavy something feels",
+        "How hot something is",
+        "How big something looks"
+      ],
+      "explanation": "Density is mass divided by volume - how tightly matter is packed.",
+      "memoryHook": "T-Rexy says: density is how squished the mass is inside!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "density"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_013",
+      "question": "Why does ice float on water?",
+      "correctAnswer": "Ice is less dense than liquid water",
+      "distractors": [
+        "Ice is heavier than water",
+        "Ice is warmer than water",
+        "Ice has no mass"
+      ],
+      "explanation": "Frozen water spreads out a little, so ice is less dense than liquid water and floats.",
+      "memoryHook": "T-Rexy says: ice floats because it is lighter for its size than water!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "density"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_014",
+      "question": "Which change is a chemical change?",
+      "correctAnswer": "Burning wood into ash",
+      "distractors": [
+        "Melting an ice cube",
+        "Cutting paper in half",
+        "Dissolving sugar in water"
+      ],
+      "explanation": "Burning makes new substances (ash, smoke) that cannot turn back into wood.",
+      "memoryHook": "T-Rexy says: burning makes brand-new stuff - that is a chemical change!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "chemical-change"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_015",
+      "question": "What is a solution?",
+      "correctAnswer": "A mixture where one substance dissolves evenly in another",
+      "distractors": [
+        "A solid that never melts",
+        "A liquid with no color",
+        "A gas trapped in a bottle"
+      ],
+      "explanation": "In a solution, like salt water, the dissolved part spreads evenly and cannot be seen.",
+      "memoryHook": "T-Rexy says: a solution hides the dissolved part completely!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "solutions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_016",
+      "question": "Which of these will dissolve fastest in warm water?",
+      "correctAnswer": "Sugar stirred in warm water",
+      "distractors": [
+        "A whole sugar cube in cold water",
+        "Sand in warm water",
+        "Oil in warm water"
+      ],
+      "explanation": "Warm water, small pieces, and stirring all speed up dissolving.",
+      "memoryHook": "T-Rexy says: warm water plus stirring equals speedy dissolving!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "matter",
+        "solutions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_017",
+      "question": "What is a producer in an ecosystem?",
+      "correctAnswer": "An organism that makes its own food, like a plant",
+      "distractors": [
+        "An animal that eats plants",
+        "An animal that eats other animals",
+        "A fungus that breaks down dead things"
+      ],
+      "explanation": "Producers, such as plants, make food using sunlight.",
+      "memoryHook": "T-Rexy says: plants are the chefs - they cook food from sunlight!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "producers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_018",
+      "question": "What is a consumer?",
+      "correctAnswer": "An organism that eats other organisms for energy",
+      "distractors": [
+        "A plant that makes food",
+        "A rock in a river",
+        "A cloud in the sky"
+      ],
+      "explanation": "Consumers cannot make their own food, so they eat producers or other consumers.",
+      "memoryHook": "T-Rexy says: consumers eat to get their energy!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "consumers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_019",
+      "question": "What does a decomposer do?",
+      "correctAnswer": "It breaks down dead plants and animals",
+      "distractors": [
+        "It hunts live prey",
+        "It makes food from sunlight",
+        "It builds nests for birds"
+      ],
+      "explanation": "Decomposers like fungi and bacteria recycle nutrients from dead things.",
+      "memoryHook": "T-Rexy says: decomposers are nature's clean-up crew!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "decomposers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_020",
+      "question": "In a food chain, what eats the grass?",
+      "correctAnswer": "A grasshopper",
+      "distractors": [
+        "A hawk",
+        "A mushroom",
+        "A rock"
+      ],
+      "explanation": "The grasshopper is the herbivore that eats the producer, grass.",
+      "memoryHook": "T-Rexy says: follow the munching - grasshopper eats grass!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "food-chain"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_021",
+      "question": "Which animal is a herbivore?",
+      "correctAnswer": "A rabbit",
+      "distractors": [
+        "A lion",
+        "An eagle",
+        "A shark"
+      ],
+      "explanation": "A herbivore eats only plants, like a rabbit eating grass and leaves.",
+      "memoryHook": "T-Rexy says: herbivores munch plants all day!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "animals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_022",
+      "question": "Which animal is a carnivore?",
+      "correctAnswer": "A wolf",
+      "distractors": [
+        "A deer",
+        "A cow",
+        "A rabbit"
+      ],
+      "explanation": "A carnivore eats meat, and a wolf hunts other animals.",
+      "memoryHook": "T-Rexy says: carnivores hunt meat for dinner!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "animals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_023",
+      "question": "Which animal is an omnivore?",
+      "correctAnswer": "A bear",
+      "distractors": [
+        "A cow",
+        "A lion",
+        "A koala"
+      ],
+      "explanation": "An omnivore eats both plants and animals, like a bear eating berries and fish.",
+      "memoryHook": "T-Rexy says: omnivores eat plants AND meat - best of both menus!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "animals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_024",
+      "question": "What is a food web?",
+      "correctAnswer": "Many food chains linked together in an ecosystem",
+      "distractors": [
+        "A spider's web in a garden",
+        "A net used to catch fish",
+        "A map of a forest"
+      ],
+      "explanation": "A food web shows how many food chains connect, since most animals eat more than one thing.",
+      "memoryHook": "T-Rexy says: a food web is many food chains tangled together!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "food-web"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_025",
+      "question": "If all the rabbits in a meadow disappeared, what would most likely happen to the foxes?",
+      "correctAnswer": "The foxes would have less food and their numbers would fall",
+      "distractors": [
+        "The foxes would eat more grass",
+        "The foxes would turn into rabbits",
+        "Nothing would change at all"
+      ],
+      "explanation": "Foxes eat rabbits, so losing that food source means fewer foxes can survive.",
+      "memoryHook": "T-Rexy says: take away the prey and the hunters go hungry!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "food-web"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_026",
+      "question": "What is a habitat?",
+      "correctAnswer": "The place where an organism lives",
+      "distractors": [
+        "The food an animal eats",
+        "The sound an animal makes",
+        "The season when animals sleep"
+      ],
+      "explanation": "A habitat is the home environment that gives an organism food, water, and shelter.",
+      "memoryHook": "T-Rexy says: a habitat is an animal's home address!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "habitat"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_027",
+      "question": "What is an adaptation?",
+      "correctAnswer": "A trait that helps an organism survive in its home",
+      "distractors": [
+        "A disease that hurts an animal",
+        "A type of rock",
+        "A change in the weather"
+      ],
+      "explanation": "Adaptations, like a cactus storing water, help living things survive where they live.",
+      "memoryHook": "T-Rexy says: adaptations are survival superpowers!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "adaptations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_028",
+      "question": "Why do cacti have thick, waxy stems?",
+      "correctAnswer": "To store water in the dry desert",
+      "distractors": [
+        "To catch more sunlight",
+        "To attract bees",
+        "To grow taller than trees"
+      ],
+      "explanation": "Thick stems store water and the waxy skin slows water loss in the desert.",
+      "memoryHook": "T-Rexy says: a cactus is a living water bottle!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "adaptations"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_029",
+      "question": "What is the main source of energy for almost all food chains?",
+      "correctAnswer": "The Sun",
+      "distractors": [
+        "The Moon",
+        "Rocks",
+        "Rain"
+      ],
+      "explanation": "Sunlight powers photosynthesis, which starts nearly every food chain.",
+      "memoryHook": "T-Rexy says: the Sun is the battery for almost all life!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "energy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_030",
+      "question": "Which of these is a predator?",
+      "correctAnswer": "An owl hunting mice",
+      "distractors": [
+        "A mouse eating seeds",
+        "A flower making nectar",
+        "A worm eating dead leaves"
+      ],
+      "explanation": "A predator hunts and eats other animals, like an owl hunting mice.",
+      "memoryHook": "T-Rexy says: predators hunt - prey hides!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "predator-prey"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_031",
+      "question": "What happens when a population grows too large for its habitat?",
+      "correctAnswer": "Some organisms run out of food or space",
+      "distractors": [
+        "The habitat grows bigger",
+        "All the animals get stronger",
+        "The weather gets warmer"
+      ],
+      "explanation": "Too many organisms means not enough food, water, or space for all of them.",
+      "memoryHook": "T-Rexy says: too many dinos, not enough snacks - something has to give!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "populations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_032",
+      "question": "Why are bees important to many plants?",
+      "correctAnswer": "Bees move pollen so plants can make seeds",
+      "distractors": [
+        "Bees eat the plants' leaves",
+        "Bees keep the plants warm",
+        "Bees dig holes for plant roots"
+      ],
+      "explanation": "As bees visit flowers, they carry pollen from flower to flower, which lets plants reproduce.",
+      "memoryHook": "T-Rexy says: bees are the mail carriers of pollen!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "ecosystems",
+        "pollination"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_033",
+      "question": "What is the water cycle?",
+      "correctAnswer": "Water moving between Earth and the sky by evaporation, condensation, and precipitation",
+      "distractors": [
+        "Water flowing only downhill",
+        "Water freezing into ice",
+        "Water used by people in homes"
+      ],
+      "explanation": "The water cycle is the endless loop of evaporation, condensation, precipitation, and collection.",
+      "memoryHook": "T-Rexy says: water travels up to the clouds and back down again!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "water-cycle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_034",
+      "question": "What is precipitation?",
+      "correctAnswer": "Water falling from clouds as rain, snow, sleet, or hail",
+      "distractors": [
+        "Water rising into the sky",
+        "Water soaking into soil",
+        "Water boiling in a pot"
+      ],
+      "explanation": "Precipitation is any water that falls from the sky.",
+      "memoryHook": "T-Rexy says: precipitation is sky water falling down!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "weather"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_035",
+      "question": "What is condensation?",
+      "correctAnswer": "Water vapor cooling into tiny liquid drops",
+      "distractors": [
+        "Water turning into ice",
+        "Rain falling to the ground",
+        "Water flowing into the sea"
+      ],
+      "explanation": "When water vapor cools, it condenses into the tiny droplets that make clouds.",
+      "memoryHook": "T-Rexy says: cool air squeezes vapor into cloud droplets!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "water-cycle"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_036",
+      "question": "What causes wind?",
+      "correctAnswer": "Air moving from high pressure to low pressure",
+      "distractors": [
+        "The Moon pulling on oceans",
+        "Plants releasing oxygen",
+        "Clouds getting heavy"
+      ],
+      "explanation": "Wind is air flowing from places with higher pressure toward places with lower pressure.",
+      "memoryHook": "T-Rexy says: wind is air rushing to fill the low-pressure spot!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "weather"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_037",
+      "question": "Which tool measures air temperature?",
+      "correctAnswer": "A thermometer",
+      "distractors": [
+        "A barometer",
+        "A rain gauge",
+        "A wind vane"
+      ],
+      "explanation": "A thermometer measures how hot or cold the air is.",
+      "memoryHook": "T-Rexy says: a thermometer tells you how hot or cold it is!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "weather-tools"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_038",
+      "question": "Which tool measures rainfall?",
+      "correctAnswer": "A rain gauge",
+      "distractors": [
+        "A thermometer",
+        "A barometer",
+        "A compass"
+      ],
+      "explanation": "A rain gauge collects rain so you can measure how much fell.",
+      "memoryHook": "T-Rexy says: a rain gauge is a cup that catches the rain!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "weather-tools"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_039",
+      "question": "What does a barometer measure?",
+      "correctAnswer": "Air pressure",
+      "distractors": [
+        "Wind speed",
+        "Rainfall",
+        "Humidity"
+      ],
+      "explanation": "A barometer measures air pressure, which helps predict weather changes.",
+      "memoryHook": "T-Rexy says: a barometer feels how heavy the air is pressing down!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "weather-tools"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_040",
+      "question": "What is the main cause of Earth's seasons?",
+      "correctAnswer": "The tilt of Earth's axis",
+      "distractors": [
+        "Earth moving closer to the Sun in summer",
+        "The Moon changing shape",
+        "Clouds blocking sunlight"
+      ],
+      "explanation": "Earth's tilted axis means different parts get more direct sunlight at different times of year.",
+      "memoryHook": "T-Rexy says: the tilt is why summer is sunny and winter is chilly!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "seasons"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_041",
+      "question": "Which layer of Earth do we live on?",
+      "correctAnswer": "The crust",
+      "distractors": [
+        "The mantle",
+        "The outer core",
+        "The inner core"
+      ],
+      "explanation": "The crust is the thin, rocky outer layer where we live.",
+      "memoryHook": "T-Rexy says: the crust is Earth's thin crunchy skin!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "layers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_042",
+      "question": "What is the center of Earth called?",
+      "correctAnswer": "The core",
+      "distractors": [
+        "The crust",
+        "The mantle",
+        "The ocean"
+      ],
+      "explanation": "The core is the hot center, with a liquid outer core and a solid inner core.",
+      "memoryHook": "T-Rexy says: the core is Earth's super-hot heart!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "layers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_043",
+      "question": "Which is the largest ocean on Earth?",
+      "correctAnswer": "The Pacific Ocean",
+      "distractors": [
+        "The Atlantic Ocean",
+        "The Indian Ocean",
+        "The Arctic Ocean"
+      ],
+      "explanation": "The Pacific is the largest ocean, covering more area than all Earth's land combined.",
+      "memoryHook": "T-Rexy says: the Pacific is so big it could swallow all the land!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "oceans"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_044",
+      "question": "What is groundwater?",
+      "correctAnswer": "Water stored underground in soil and rock",
+      "distractors": [
+        "Water in a swimming pool",
+        "Rain falling from a cloud",
+        "Water in a river"
+      ],
+      "explanation": "Groundwater is water that soaks down and is stored in cracks and spaces underground.",
+      "memoryHook": "T-Rexy says: groundwater hides in the spaces under your feet!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "water"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_045",
+      "question": "What is erosion?",
+      "correctAnswer": "Soil and rock being worn away and moved by water, wind, or ice",
+      "distractors": [
+        "Rocks growing bigger over time",
+        "Plants growing on a hill",
+        "Volcanoes erupting"
+      ],
+      "explanation": "Erosion moves weathered rock and soil to new places.",
+      "memoryHook": "T-Rexy says: erosion is nature slowly carrying the land away!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "erosion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_046",
+      "question": "Which of these causes the most erosion in a river valley?",
+      "correctAnswer": "Flowing water",
+      "distractors": [
+        "Sunlight",
+        "Snowfall on a mountain",
+        "Earthquakes"
+      ],
+      "explanation": "Fast-moving river water wears away banks and carries soil downstream.",
+      "memoryHook": "T-Rexy says: rushing water carves valleys like a slow chisel!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "erosion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_047",
+      "question": "What is weathering?",
+      "correctAnswer": "Rock breaking down into smaller pieces where it sits",
+      "distractors": [
+        "Rock being carried to a new place",
+        "Rock melting underground",
+        "Rock turning into soil plants eat"
+      ],
+      "explanation": "Weathering breaks rock apart in place; erosion then moves the pieces.",
+      "memoryHook": "T-Rexy says: weathering cracks rocks - erosion carries the pieces away!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "weathering"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_048",
+      "question": "What is energy?",
+      "correctAnswer": "The ability to do work or cause change",
+      "distractors": [
+        "A type of rock",
+        "A kind of food",
+        "The speed of an object"
+      ],
+      "explanation": "Energy is what lets things move, heat up, light up, or change.",
+      "memoryHook": "T-Rexy says: energy is the power to make things happen!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "energy",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_049",
+      "question": "Which of these is a form of energy?",
+      "correctAnswer": "Heat from the Sun",
+      "distractors": [
+        "A wooden chair",
+        "A glass of water",
+        "A piece of paper"
+      ],
+      "explanation": "Heat, light, sound, and motion are all forms of energy.",
+      "memoryHook": "T-Rexy says: heat, light, and motion are all energy in action!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "energy",
+        "forms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_050",
+      "question": "What force pulls objects toward Earth?",
+      "correctAnswer": "Gravity",
+      "distractors": [
+        "Magnetism",
+        "Friction",
+        "Wind"
+      ],
+      "explanation": "Gravity pulls everything toward Earth's center.",
+      "memoryHook": "T-Rexy says: gravity is Earth's invisible hug pulling everything down!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "forces",
+        "gravity"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_051",
+      "question": "What is friction?",
+      "correctAnswer": "A force that slows things down when surfaces rub together",
+      "distractors": [
+        "A force that pulls objects up",
+        "A type of magnet",
+        "A kind of light"
+      ],
+      "explanation": "Friction resists motion between two touching surfaces.",
+      "memoryHook": "T-Rexy says: friction is the rub that slows things down!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "forces",
+        "friction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_052",
+      "question": "Why do we use wheels on a cart?",
+      "correctAnswer": "Wheels reduce friction so the cart moves easily",
+      "distractors": [
+        "Wheels make the cart heavier",
+        "Wheels make the cart slower",
+        "Wheels stop gravity"
+      ],
+      "explanation": "Rolling friction is much smaller than sliding friction.",
+      "memoryHook": "T-Rexy says: wheels turn a hard slide into an easy roll!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "forces",
+        "friction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_053",
+      "question": "What is a magnet attracted to?",
+      "correctAnswer": "Iron",
+      "distractors": [
+        "Wood",
+        "Plastic",
+        "Glass"
+      ],
+      "explanation": "Magnets attract iron and a few other metals like nickel and cobalt.",
+      "memoryHook": "T-Rexy says: magnets love iron - they stick like best friends!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "forces",
+        "magnetism"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_054",
+      "question": "What happens when two north poles of magnets face each other?",
+      "correctAnswer": "They push each other away",
+      "distractors": [
+        "They stick together",
+        "They turn into electricity",
+        "Nothing happens"
+      ],
+      "explanation": "Like poles repel and opposite poles attract.",
+      "memoryHook": "T-Rexy says: same poles push apart - north hates north!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "forces",
+        "magnetism"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_055",
+      "question": "What is the unit used to measure force?",
+      "correctAnswer": "The newton",
+      "distractors": [
+        "The meter",
+        "The liter",
+        "The second"
+      ],
+      "explanation": "Force is measured in newtons, named after Isaac Newton.",
+      "memoryHook": "T-Rexy says: force is measured in newtons - thank you, Isaac!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "forces",
+        "measurement"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_056",
+      "question": "A ball rolls farther on smooth ice than on rough grass. Why?",
+      "correctAnswer": "There is less friction on the smooth ice",
+      "distractors": [
+        "Gravity is weaker on ice",
+        "The ball is heavier on grass",
+        "The wind pushes harder on ice"
+      ],
+      "explanation": "Rough surfaces create more friction, which slows the ball faster.",
+      "memoryHook": "T-Rexy says: smooth means slippery - less friction, longer roll!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "forces",
+        "friction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_057",
+      "question": "Which simple machine is a seesaw?",
+      "correctAnswer": "A lever",
+      "distractors": [
+        "A pulley",
+        "A screw",
+        "A wedge"
+      ],
+      "explanation": "A seesaw is a lever: a bar that turns on a fixed point called a fulcrum.",
+      "memoryHook": "T-Rexy says: a seesaw is a lever - push down here, up goes there!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "forces",
+        "simple-machines"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_058",
+      "question": "Which simple machine helps you lift a flag up a pole?",
+      "correctAnswer": "A pulley",
+      "distractors": [
+        "A lever",
+        "A screw",
+        "An inclined plane"
+      ],
+      "explanation": "A pulley changes the direction of a force so you can pull down to lift up.",
+      "memoryHook": "T-Rexy says: a pulley lets you pull down to lift things up!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "forces",
+        "simple-machines"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_059",
+      "question": "What is speed?",
+      "correctAnswer": "How fast something moves, distance divided by time",
+      "distractors": [
+        "How heavy something is",
+        "How far something falls",
+        "How loud something sounds"
+      ],
+      "explanation": "Speed tells how much distance is covered in a certain time.",
+      "memoryHook": "T-Rexy says: speed is distance divided by time - zoom!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "forces",
+        "motion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_060",
+      "question": "A car travels 120 miles in 2 hours. What is its speed?",
+      "correctAnswer": "60 miles per hour",
+      "distractors": [
+        "120 miles per hour",
+        "240 miles per hour",
+        "30 miles per hour"
+      ],
+      "explanation": "Speed = 120 miles divided by 2 hours = 60 miles per hour.",
+      "memoryHook": "T-Rexy says: divide the miles by the hours to find the speed!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "forces",
+        "motion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_061",
+      "question": "What kind of energy does a moving bicycle have?",
+      "correctAnswer": "Kinetic energy",
+      "distractors": [
+        "Potential energy",
+        "Chemical energy",
+        "Nuclear energy"
+      ],
+      "explanation": "Kinetic energy is the energy of motion.",
+      "memoryHook": "T-Rexy says: moving things carry kinetic energy!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "energy",
+        "kinetic"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_062",
+      "question": "What kind of energy does a stretched rubber band have before it is let go?",
+      "correctAnswer": "Potential energy",
+      "distractors": [
+        "Kinetic energy",
+        "Sound energy",
+        "Light energy"
+      ],
+      "explanation": "Potential energy is stored energy, waiting to be released.",
+      "memoryHook": "T-Rexy says: a stretched band stores energy like a coiled spring!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "energy",
+        "potential"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_063",
+      "question": "What is photosynthesis?",
+      "correctAnswer": "How plants make food using sunlight, water, and air",
+      "distractors": [
+        "How animals digest food",
+        "How seeds sleep in winter",
+        "How flowers change color"
+      ],
+      "explanation": "Plants use sunlight, water, and carbon dioxide to make sugar and oxygen.",
+      "memoryHook": "T-Rexy says: plants cook their food with sunlight!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "plants",
+        "photosynthesis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_064",
+      "question": "Which part of a plant makes food?",
+      "correctAnswer": "The leaf",
+      "distractors": [
+        "The root",
+        "The stem",
+        "The flower"
+      ],
+      "explanation": "Leaves catch sunlight and hold the chlorophyll that powers photosynthesis.",
+      "memoryHook": "T-Rexy says: leaves are the plant's solar-powered kitchens!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "plants",
+        "parts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_065",
+      "question": "What do roots do for a plant?",
+      "correctAnswer": "They take in water and hold the plant in the soil",
+      "distractors": [
+        "They make seeds",
+        "They catch sunlight",
+        "They make flowers"
+      ],
+      "explanation": "Roots anchor the plant and absorb water and nutrients from the soil.",
+      "memoryHook": "T-Rexy says: roots drink water and hold on tight!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "plants",
+        "parts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_066",
+      "question": "What gas do plants take in from the air for photosynthesis?",
+      "correctAnswer": "Carbon dioxide",
+      "distractors": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "explanation": "Plants take in carbon dioxide and release oxygen.",
+      "memoryHook": "T-Rexy says: plants breathe in carbon dioxide and breathe out oxygen!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "plants",
+        "photosynthesis"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_067",
+      "question": "What gas do plants release during photosynthesis?",
+      "correctAnswer": "Oxygen",
+      "distractors": [
+        "Carbon dioxide",
+        "Helium",
+        "Nitrogen"
+      ],
+      "explanation": "Photosynthesis releases oxygen, which animals need to breathe.",
+      "memoryHook": "T-Rexy says: plants give us the oxygen we breathe - say thanks!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "plants",
+        "photosynthesis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_068",
+      "question": "What is the job of a flower?",
+      "correctAnswer": "To help the plant reproduce by making seeds",
+      "distractors": [
+        "To catch sunlight",
+        "To absorb water",
+        "To hold the plant upright"
+      ],
+      "explanation": "Flowers attract pollinators and produce seeds for new plants.",
+      "memoryHook": "T-Rexy says: flowers are the plant's way of making baby plants!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "plants",
+        "reproduction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_069",
+      "question": "What is a seed?",
+      "correctAnswer": "A young plant in a protective case, ready to grow",
+      "distractors": [
+        "A type of leaf",
+        "A plant's root",
+        "A flower petal"
+      ],
+      "explanation": "A seed holds a tiny plant plus stored food until conditions are right to grow.",
+      "memoryHook": "T-Rexy says: a seed is a baby plant packed with a lunchbox!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "plants",
+        "reproduction"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_070",
+      "question": "What do seeds need to germinate and grow?",
+      "correctAnswer": "Water, air, and the right temperature",
+      "distractors": [
+        "Darkness and no water",
+        "Only sunlight",
+        "Only soil with no water"
+      ],
+      "explanation": "Seeds need water, oxygen, and warmth to sprout; light matters after sprouting.",
+      "memoryHook": "T-Rexy says: water plus air plus warmth wakes a seed up!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "plants",
+        "growth"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_071",
+      "question": "Which part of the plant carries water from the roots to the leaves?",
+      "correctAnswer": "The stem",
+      "distractors": [
+        "The petal",
+        "The seed",
+        "The bark"
+      ],
+      "explanation": "The stem is the highway that moves water and food through the plant.",
+      "memoryHook": "T-Rexy says: the stem is the plant's delivery highway!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "plants",
+        "parts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_072",
+      "question": "What is the life cycle of a butterfly?",
+      "correctAnswer": "Egg, larva, pupa, adult",
+      "distractors": [
+        "Egg, pupa, larva, adult",
+        "Larva, egg, adult, pupa",
+        "Adult, egg, larva, pupa"
+      ],
+      "explanation": "A butterfly hatches as a caterpillar (larva), forms a chrysalis (pupa), then becomes an adult.",
+      "memoryHook": "T-Rexy says: egg, caterpillar, chrysalis, butterfly - a four-step costume change!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "animals",
+        "life-cycle"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_073",
+      "question": "What is metamorphosis?",
+      "correctAnswer": "A big change in body shape as an animal grows",
+      "distractors": [
+        "An animal sleeping through winter",
+        "An animal changing color",
+        "An animal moving to a new home"
+      ],
+      "explanation": "Metamorphosis is the change from larva to adult, like a tadpole becoming a frog.",
+      "memoryHook": "T-Rexy says: metamorphosis is nature's biggest makeover!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "animals",
+        "life-cycle"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_074",
+      "question": "Why do some animals hibernate in winter?",
+      "correctAnswer": "To save energy when food is scarce and it is cold",
+      "distractors": [
+        "To find more food",
+        "To grow bigger",
+        "To escape predators only"
+      ],
+      "explanation": "Hibernation slows the body down so the animal can survive winter on stored fat.",
+      "memoryHook": "T-Rexy says: hibernation is a long winter nap to save energy!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "animals",
+        "behavior"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_075",
+      "question": "What is the difference between a vertebrate and an invertebrate?",
+      "correctAnswer": "Vertebrates have a backbone and invertebrates do not",
+      "distractors": [
+        "Vertebrates live on land and invertebrates live in water",
+        "Vertebrates are bigger than invertebrates",
+        "Vertebrates eat meat and invertebrates eat plants"
+      ],
+      "explanation": "The backbone is the key difference: fish, birds, and mammals are vertebrates; worms and insects are not.",
+      "memoryHook": "T-Rexy says: backbone or no backbone - that is the big split!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "animals",
+        "classification"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_076",
+      "question": "Which of these is an invertebrate?",
+      "correctAnswer": "An earthworm",
+      "distractors": [
+        "A dog",
+        "A fish",
+        "A bird"
+      ],
+      "explanation": "An earthworm has no backbone, so it is an invertebrate.",
+      "memoryHook": "T-Rexy says: no backbone, no problem - worms are invertebrates!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "animals",
+        "classification"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_077",
+      "question": "How do fish get oxygen from water?",
+      "correctAnswer": "Through gills",
+      "distractors": [
+        "Through lungs",
+        "Through their skin only",
+        "Through their fins"
+      ],
+      "explanation": "Gills pull dissolved oxygen out of the water as it flows over them.",
+      "memoryHook": "T-Rexy says: gills are fish lungs that work underwater!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "animals",
+        "adaptations"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_078",
+      "question": "What is a fossil?",
+      "correctAnswer": "The remains or traces of an ancient living thing preserved in rock",
+      "distractors": [
+        "A type of shiny gem",
+        "A rock that fell from space",
+        "A bone from a living animal"
+      ],
+      "explanation": "Fossils form when remains are buried and slowly turn to stone over millions of years.",
+      "memoryHook": "T-Rexy says: fossils are ancient life turned to stone!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "fossils"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_079",
+      "question": "What do fossils tell scientists?",
+      "correctAnswer": "What life was like long ago",
+      "distractors": [
+        "What the weather will be tomorrow",
+        "How old the Moon is",
+        "Where gold is buried"
+      ],
+      "explanation": "Fossils show which organisms lived in the past and how Earth has changed.",
+      "memoryHook": "T-Rexy says: fossils are Earth's old photo album!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "fossils"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_080",
+      "question": "Which rock forms when lava or magma cools and hardens?",
+      "correctAnswer": "Igneous rock",
+      "distractors": [
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Sandstone"
+      ],
+      "explanation": "Igneous rock, like granite and basalt, forms from cooled molten rock.",
+      "memoryHook": "T-Rexy says: igneous rock is born from fire - cooled lava!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "rocks"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_081",
+      "question": "Which rock forms from layers of sand and mud pressed together?",
+      "correctAnswer": "Sedimentary rock",
+      "distractors": [
+        "Igneous rock",
+        "Metamorphic rock",
+        "Marble"
+      ],
+      "explanation": "Sedimentary rock forms when layers of sediment are compacted and cemented over time.",
+      "memoryHook": "T-Rexy says: sedimentary rock is layers squished into stone!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "rocks"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_082",
+      "question": "What is the rock cycle?",
+      "correctAnswer": "Rocks changing from one type to another over time",
+      "distractors": [
+        "Rocks rolling down a hill",
+        "Rocks being used to build houses",
+        "Rocks melting only once"
+      ],
+      "explanation": "Heat, pressure, melting, cooling, and weathering turn rocks from one type into another.",
+      "memoryHook": "T-Rexy says: rocks recycle - igneous, sedimentary, metamorphic, round and round!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "rocks"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_083",
+      "question": "In rock layers, which layer is usually the oldest?",
+      "correctAnswer": "The bottom layer",
+      "distractors": [
+        "The top layer",
+        "The middle layer",
+        "They are all the same age"
+      ],
+      "explanation": "New layers pile on top of older ones, so the bottom layer formed first.",
+      "memoryHook": "T-Rexy says: the bottom layer is the oldest - like a stack of pancakes!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "earth",
+        "fossils"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_084",
+      "question": "What is the Sun?",
+      "correctAnswer": "A star",
+      "distractors": [
+        "A planet",
+        "A moon",
+        "A comet"
+      ],
+      "explanation": "The Sun is a star, a huge ball of hot gas that makes its own light and heat.",
+      "memoryHook": "T-Rexy says: the Sun is a star - our very own!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "space",
+        "solar-system"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_085",
+      "question": "Which planet is closest to the Sun?",
+      "correctAnswer": "Mercury",
+      "distractors": [
+        "Venus",
+        "Mars",
+        "Earth"
+      ],
+      "explanation": "Mercury orbits closest to the Sun.",
+      "memoryHook": "T-Rexy says: Mercury is first in line around the Sun!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "space",
+        "solar-system"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_086",
+      "question": "Which planet is known as the Red Planet?",
+      "correctAnswer": "Mars",
+      "distractors": [
+        "Jupiter",
+        "Venus",
+        "Saturn"
+      ],
+      "explanation": "Mars looks red because of iron-rich dust on its surface.",
+      "memoryHook": "T-Rexy says: Mars is red like rusty iron dust!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "space",
+        "solar-system"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_087",
+      "question": "Which is the largest planet in our solar system?",
+      "correctAnswer": "Jupiter",
+      "distractors": [
+        "Saturn",
+        "Neptune",
+        "Earth"
+      ],
+      "explanation": "Jupiter is the biggest planet, more than twice as massive as all the others combined.",
+      "memoryHook": "T-Rexy says: Jupiter is the giant of the planets!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "space",
+        "solar-system"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_088",
+      "question": "What causes day and night on Earth?",
+      "correctAnswer": "Earth rotating on its axis",
+      "distractors": [
+        "Earth moving around the Sun",
+        "The Moon blocking the Sun",
+        "Clouds passing by"
+      ],
+      "explanation": "As Earth spins, one side faces the Sun (day) while the other faces away (night).",
+      "memoryHook": "T-Rexy says: Earth's spin turns day into night!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "space",
+        "earth"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_089",
+      "question": "What causes the phases of the Moon?",
+      "correctAnswer": "The changing amount of the Moon's sunlit side we can see",
+      "distractors": [
+        "The Moon changing shape",
+        "Clouds covering the Moon",
+        "Earth's shadow every night"
+      ],
+      "explanation": "The Moon's lit side turns toward and away from us as it orbits Earth.",
+      "memoryHook": "T-Rexy says: the Moon does not change shape - we just see different lit parts!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "space",
+        "moon"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_090",
+      "question": "How long does Earth take to orbit the Sun once?",
+      "correctAnswer": "One year",
+      "distractors": [
+        "One day",
+        "One month",
+        "One week"
+      ],
+      "explanation": "One trip around the Sun takes about 365 days, which is one year.",
+      "memoryHook": "T-Rexy says: one lap around the Sun equals one year!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "space",
+        "earth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_091",
+      "question": "What is the first step of the scientific method?",
+      "correctAnswer": "Ask a question or make an observation",
+      "distractors": [
+        "Write the conclusion",
+        "Do the experiment",
+        "Buy new tools"
+      ],
+      "explanation": "Science starts with a question about something you observed.",
+      "memoryHook": "T-Rexy says: great science starts with a great question!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "science",
+        "scientific-method"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_092",
+      "question": "What is a hypothesis?",
+      "correctAnswer": "An educated guess that can be tested",
+      "distractors": [
+        "A proven fact",
+        "A list of tools",
+        "The final answer"
+      ],
+      "explanation": "A hypothesis is a testable prediction based on what you already know.",
+      "memoryHook": "T-Rexy says: a hypothesis is a smart guess you can test!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "science",
+        "scientific-method"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_093",
+      "question": "In an experiment, what is the variable you change on purpose?",
+      "correctAnswer": "The independent variable",
+      "distractors": [
+        "The dependent variable",
+        "The control",
+        "The conclusion"
+      ],
+      "explanation": "The independent variable is the one the scientist changes to see what happens.",
+      "memoryHook": "T-Rexy says: the independent variable is the one YOU change!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "science",
+        "scientific-method"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_094",
+      "question": "In an experiment, what do you measure to see the result?",
+      "correctAnswer": "The dependent variable",
+      "distractors": [
+        "The independent variable",
+        "The hypothesis",
+        "The control group"
+      ],
+      "explanation": "The dependent variable depends on what you changed, so you measure it.",
+      "memoryHook": "T-Rexy says: the dependent variable is the result you measure!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "science",
+        "scientific-method"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_095",
+      "question": "Why do scientists repeat an experiment?",
+      "correctAnswer": "To check that the results are reliable",
+      "distractors": [
+        "To use up extra materials",
+        "To make the experiment longer",
+        "To avoid writing a conclusion"
+      ],
+      "explanation": "Repeating an experiment shows the result was not a one-time accident.",
+      "memoryHook": "T-Rexy says: repeat it to prove it was not a lucky accident!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "science",
+        "scientific-method"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_096",
+      "question": "Which tool would you use to look at tiny cells?",
+      "correctAnswer": "A microscope",
+      "distractors": [
+        "A telescope",
+        "A thermometer",
+        "A ruler"
+      ],
+      "explanation": "A microscope magnifies tiny things like cells so you can see them.",
+      "memoryHook": "T-Rexy says: a microscope makes tiny cells look huge!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "science",
+        "tools"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_097",
+      "question": "What is the best way to record what happens in an experiment?",
+      "correctAnswer": "Write down observations and measurements carefully",
+      "distractors": [
+        "Try to remember everything later",
+        "Guess the numbers at the end",
+        "Only write down the fun parts"
+      ],
+      "explanation": "Careful notes let you compare results and share them with others.",
+      "memoryHook": "T-Rexy says: write it down - a good scientist never trusts memory alone!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "science",
+        "scientific-method"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_098",
+      "question": "Which planet has beautiful rings made of ice and rock?",
+      "correctAnswer": "Saturn",
+      "distractors": [
+        "Mars",
+        "Venus",
+        "Mercury"
+      ],
+      "explanation": "Saturn's rings are made of chunks of ice and rock orbiting the planet.",
+      "memoryHook": "T-Rexy says: Saturn wears rings of sparkling ice!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "space",
+        "solar-system"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_099",
+      "question": "Why does the Moon shine at night?",
+      "correctAnswer": "It reflects sunlight toward Earth",
+      "distractors": [
+        "It makes its own light",
+        "It is on fire",
+        "It stores daylight in rocks"
+      ],
+      "explanation": "The Moon has no light of its own; we see sunlight bouncing off it.",
+      "memoryHook": "T-Rexy says: the Moon is a mirror for sunlight!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "space",
+        "moon"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SCI5_100",
+      "question": "What force keeps the planets in orbit around the Sun?",
+      "correctAnswer": "Gravity",
+      "distractors": [
+        "Magnetism",
+        "Friction",
+        "Wind"
+      ],
+      "explanation": "The Sun's gravity pulls the planets, keeping them in orbit.",
+      "memoryHook": "T-Rexy says: the Sun's gravity holds the planets in their lanes!",
+      "imageUrl": "topic:science",
+      "tags": [
+        "space",
+        "gravity"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}
