@@ -908,15 +908,15 @@
     },
     {
       "id": "AZDL_045",
-      "question": "Unless otherwise posted, the maximum speed on Arizona highways is:",
-      "correctAnswer": "65 mph",
+      "question": "Unless otherwise posted, the maximum speed limit on a rural interstate highway in Arizona is:",
+      "correctAnswer": "75 mph",
       "distractors": [
         "55 mph",
-        "75 mph",
+        "65 mph",
         "85 mph"
       ],
-      "explanation": "Arizona's statutory maximum is 65 mph on highways unless a different limit is posted. Many rural interstates are posted at 75 mph.",
-      "memoryHook": "T-Rexy says: 65 is the default max - posted signs can change it!",
+      "explanation": "Arizona law sets the maximum speed on interstate highways in rural areas at 75 mph unless a lower limit is posted. On other Arizona highways, the statutory maximum is 65 mph.",
+      "memoryHook": "T-Rexy says: rural interstates fly at 75 - other highways top out at 65, and posted signs always win!",
       "imageUrl": "topic:speed-limit-highway",
       "tags": [
         "speed",
@@ -1031,14 +1031,14 @@
     {
       "id": "AZDL_051",
       "question": "When parallel parking, your wheels must be within what distance of the curb?",
-      "correctAnswer": "12 inches",
+      "correctAnswer": "18 inches",
       "distractors": [
-        "6 inches",
+        "12 inches",
         "24 inches",
-        "36 inches"
+        "6 inches"
       ],
-      "explanation": "Picture one standard ruler: if the gap between your tires and the curb is wider than 12 inches, you are parked too far into the lane and can be cited under A.R.S. 28-874. (Note: some states allow 18 inches - Arizona does not.)",
-      "memoryHook": "T-Rexy says: 12 inches from the curb - about one shoe length!",
+      "explanation": "Arizona law (A.R.S. 28-874) requires your wheels to be within 18 inches of the curb when you parallel park. If the gap is wider than 18 inches, your car sticks too far into the traffic lane and you can be cited.",
+      "memoryHook": "T-Rexy says: 18 inches from the curb, max - about a ruler and a half!",
       "imageUrl": "topic:parking-curb-distance",
       "tags": [
         "parking"
