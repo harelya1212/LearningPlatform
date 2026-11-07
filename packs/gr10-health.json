@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 100,
+  "totalQuestions": 109,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2012,6 +2012,168 @@
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
+    },
+    {
+      "id": "HEA10_101",
+      "question": "What is PrEP?",
+      "correctAnswer": "A medicine that greatly reduces the risk of getting HIV when taken as prescribed",
+      "distractors": [
+        "A vaccine that cures HIV",
+        "A test for sexually transmitted infections",
+        "A type of birth control pill"
+      ],
+      "explanation": "PrEP (pre-exposure prophylaxis) is a medicine people at higher risk take to prevent HIV. It is highly effective when taken as prescribed, but it does not prevent other STIs or pregnancy.",
+      "memoryHook": "T-Rexy says: PrEP prevents HIV before exposure - it is prevention, not a cure.",
+      "tags": [
+        "sexual-health",
+        "hiv"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_102",
+      "question": "Which contraceptive methods are the most effective at preventing pregnancy?",
+      "correctAnswer": "Long-acting methods like the implant and IUDs - over 99 percent effective",
+      "distractors": [
+        "Condoms used on their own",
+        "The rhythm (calendar) method",
+        "Withdrawal"
+      ],
+      "explanation": "Implants and IUDs are over 99 percent effective because they do not depend on daily or per-act use. Typical-use effectiveness of condoms and fertility tracking is much lower.",
+      "memoryHook": "T-Rexy says: Implant and IUD top the chart - over 99 percent.",
+      "tags": [
+        "sexual-health",
+        "contraception"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_103",
+      "question": "Untreated chlamydia or gonorrhea can lead to which serious outcome?",
+      "correctAnswer": "Infertility caused by pelvic inflammatory disease",
+      "distractors": [
+        "Permanent hair loss",
+        "Diabetes",
+        "Broken bones"
+      ],
+      "explanation": "Untreated infections can spread to the reproductive organs and cause pelvic inflammatory disease, which can scar tissue and lead to infertility. Both infections are curable when caught early.",
+      "memoryHook": "T-Rexy says: Untreated today, infertility tomorrow - early treatment prevents it.",
+      "tags": [
+        "sexual-health",
+        "sti"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_104",
+      "question": "Why do health experts recommend STI testing even when a person has no symptoms?",
+      "correctAnswer": "Silent infections can cause permanent harm and spread unknowingly; testing finds them early",
+      "distractors": [
+        "Testing is only needed before marriage",
+        "Symptoms always appear before damage happens",
+        "Testing once in a lifetime is enough for everyone"
+      ],
+      "explanation": "Most STIs cause no symptoms while still damaging the body and spreading to partners. Regular testing finds infections early, when treatment works best.",
+      "memoryHook": "T-Rexy says: Test before trouble - silent infections still spread.",
+      "tags": [
+        "sexual-health",
+        "testing"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_105",
+      "question": "What is the core of valid consent?",
+      "correctAnswer": "A clear, voluntary yes from everyone involved, every time",
+      "distractors": [
+        "Silence, as long as nobody says no",
+        "A yes given once that covers all future times",
+        "A yes obtained after repeated pressure"
+      ],
+      "explanation": "Consent must be freely given, clear, and ongoing. Silence is not consent, a past yes does not carry forward, and pressure invalidates it.",
+      "memoryHook": "T-Rexy says: Clear, voluntary, every time - that is consent.",
+      "tags": [
+        "sexual-health",
+        "relationships"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_106",
+      "question": "A friend tells you they were sexually assaulted. What is the best response?",
+      "correctAnswer": "Believe them, listen without blame, and help them reach a trusted adult or support service",
+      "distractors": [
+        "Ask what they did to cause it",
+        "Tell them to keep it quiet to avoid drama",
+        "Demand every detail before believing them"
+      ],
+      "explanation": "Survivors need belief and support, never blame. Listening calmly and connecting them with a trusted adult, counselor, or support service helps them get care and options.",
+      "memoryHook": "T-Rexy says: Believe, listen, connect - blame never helps.",
+      "tags": [
+        "sexual-health",
+        "relationships"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_107",
+      "question": "Which combination most reduces a person's overall STI risk?",
+      "correctAnswer": "Consistent condom use, regular testing, and fewer partners",
+      "distractors": [
+        "Relying on a partner's appearance",
+        "Using two hormonal methods at once",
+        "Douching after sex"
+      ],
+      "explanation": "No single habit removes all risk. Combining consistent condom use, regular testing, and fewer partners lowers overall risk the most.",
+      "memoryHook": "T-Rexy says: Condoms plus testing plus fewer partners - layers protect.",
+      "tags": [
+        "sexual-health",
+        "prevention"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_108",
+      "question": "What is the key fact about emergency contraception?",
+      "correctAnswer": "It prevents pregnancy after unprotected sex; it does not end an existing pregnancy",
+      "distractors": [
+        "It works at any point during pregnancy",
+        "It protects against sexually transmitted infections",
+        "It is the same as a surgical abortion"
+      ],
+      "explanation": "Emergency contraception, such as the morning-after pill, works by preventing pregnancy after unprotected sex, mainly by delaying ovulation. It does not end an established pregnancy and gives no STI protection.",
+      "memoryHook": "T-Rexy says: Emergency contraception prevents pregnancy - sooner works better.",
+      "tags": [
+        "sexual-health",
+        "contraception"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_109",
+      "question": "Which resource gives teens accurate, confidential sexual health help?",
+      "correctAnswer": "A school nurse, clinic, or trusted health provider",
+      "distractors": [
+        "Social media influencers",
+        "Friends with more experience",
+        "Anonymous internet forums"
+      ],
+      "explanation": "Health professionals give medically accurate answers and, in California, many confidential services for minors. Online sources and peers often repeat myths.",
+      "memoryHook": "T-Rexy says: Ask a nurse or clinic - skip the myths online.",
+      "tags": [
+        "sexual-health",
+        "resources"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
     }
   ]
 }

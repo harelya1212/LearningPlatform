@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 100,
+  "totalQuestions": 109,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -1994,6 +1994,168 @@
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
+    },
+    {
+      "id": "HEA8_101",
+      "question": "What does HIV stand for?",
+      "correctAnswer": "Human Immunodeficiency Virus",
+      "distractors": [
+        "Human Infection Virus",
+        "High Immunity Virus",
+        "Human Internal Virus"
+      ],
+      "explanation": "HIV stands for Human Immunodeficiency Virus. It attacks the body's immune system, and AIDS is the most advanced stage of the infection.",
+      "memoryHook": "T-Rexy says: HIV names the virus - Human Immunodeficiency Virus.",
+      "tags": [
+        "sexual-health",
+        "hiv"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_102",
+      "question": "Which of these does NOT spread HIV?",
+      "correctAnswer": "Hugging or sharing a water bottle",
+      "distractors": [
+        "Unprotected sex with a person who has HIV",
+        "Sharing needles for injecting drugs",
+        "Blood-to-blood contact with infected blood"
+      ],
+      "explanation": "HIV spreads only through specific body fluids such as blood and sexual fluids. It is not spread by hugging, sharing drinks, toilet seats, or mosquito bites.",
+      "memoryHook": "T-Rexy says: HIV needs specific fluids - casual contact never spreads it.",
+      "tags": [
+        "sexual-health",
+        "hiv"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_103",
+      "question": "What is the only completely sure way to prevent sexually transmitted infections?",
+      "correctAnswer": "Not having sexual contact (abstinence)",
+      "distractors": [
+        "Taking birth control pills",
+        "Washing carefully after sex",
+        "Only dating one person at a time"
+      ],
+      "explanation": "Abstinence is the only 100 percent effective way to prevent STIs. Birth control pills prevent pregnancy but give no protection against infections.",
+      "memoryHook": "T-Rexy says: Only abstinence is 100 percent - pills stop pregnancy, not infections.",
+      "tags": [
+        "sexual-health",
+        "prevention"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_104",
+      "question": "Used correctly every time, what does a condom protect against?",
+      "correctAnswer": "Both pregnancy and many sexually transmitted infections, including HIV",
+      "distractors": [
+        "Only pregnancy",
+        "Only sexually transmitted infections",
+        "Nothing - condoms do not really work"
+      ],
+      "explanation": "Condoms are the one method that protects against both pregnancy and many STIs, including HIV, when used correctly every time.",
+      "memoryHook": "T-Rexy says: One condom, double duty - pregnancy and infection protection.",
+      "tags": [
+        "sexual-health",
+        "prevention"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_105",
+      "question": "What is an STI?",
+      "correctAnswer": "An infection passed from one person to another through sexual contact",
+      "distractors": [
+        "An infection you only get from dirty bathrooms",
+        "A type of food poisoning",
+        "An infection spread through the air like a cold"
+      ],
+      "explanation": "STI stands for sexually transmitted infection. These infections pass between people through sexual contact, and many are very common in teens and young adults.",
+      "memoryHook": "T-Rexy says: STI = infection that travels through sexual contact.",
+      "tags": [
+        "sexual-health",
+        "sti"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_106",
+      "question": "A classmate keeps pressuring a friend to share private photos. What is the healthiest response?",
+      "correctAnswer": "Refuse, never forward the photos, and tell a trusted adult",
+      "distractors": [
+        "Send one photo so the pressure stops",
+        "Forward the photo to warn other people",
+        "Ignore it - it is not your business"
+      ],
+      "explanation": "Pressure to share private photos is a form of coercion. Refusing, never forwarding images, and telling a trusted adult protects everyone involved.",
+      "memoryHook": "T-Rexy says: Pressure is a red flag - refuse, never forward, tell an adult.",
+      "tags": [
+        "sexual-health",
+        "relationships"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_107",
+      "question": "Why can a person have an STI and not know it?",
+      "correctAnswer": "Many STIs cause no symptoms, so testing is the only way to know",
+      "distractors": [
+        "STIs always cause pain within one day",
+        "Only adults can carry STIs",
+        "Symptoms show only after a year"
+      ],
+      "explanation": "Many STIs cause no symptoms at all, especially early on. A person can feel completely fine, still carry an infection, and pass it to others - testing is the only way to be sure.",
+      "memoryHook": "T-Rexy says: No symptoms does not mean no infection - testing tells.",
+      "tags": [
+        "sexual-health",
+        "sti"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_108",
+      "question": "Which statement about healthy relationships is true?",
+      "correctAnswer": "Both partners can say no, disagree, and still be treated with respect",
+      "distractors": [
+        "Jealousy proves that a partner really cares",
+        "Checking a partner's phone builds trust",
+        "A partner who pressures you is showing love"
+      ],
+      "explanation": "In a healthy relationship, both people keep the right to say no and to disagree, and both are treated with respect. Jealousy, phone checks, and pressure are warning signs, not love.",
+      "memoryHook": "T-Rexy says: In healthy love, 'no' is always respected.",
+      "tags": [
+        "sexual-health",
+        "relationships"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_109",
+      "question": "If a teen thinks they may have been exposed to HIV or another STI, what is the best first step?",
+      "correctAnswer": "Get tested at a clinic or health provider as soon as possible",
+      "distractors": [
+        "Wait to see if symptoms appear",
+        "Keep it secret and hope it goes away",
+        "Take a friend's leftover medicine"
+      ],
+      "explanation": "Testing early protects your health and your partners. Clinics can test and treat most STIs, and taking someone else's medicine is unsafe and may not work.",
+      "memoryHook": "T-Rexy says: Worried? Get tested early - never borrow medicine.",
+      "tags": [
+        "sexual-health",
+        "testing"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
     }
   ]
 }

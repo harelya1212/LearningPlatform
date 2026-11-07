@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 100,
+  "totalQuestions": 109,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2012,6 +2012,168 @@
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
+    },
+    {
+      "id": "HEA9_101",
+      "question": "Besides abstinence, which method greatly reduces the risk of HIV and other STIs during sex?",
+      "correctAnswer": "Using a condom correctly every time",
+      "distractors": [
+        "Using birth control pills every day",
+        "Showering right after sex",
+        "Choosing a partner who looks healthy"
+      ],
+      "explanation": "Condoms, used correctly every time, greatly reduce the risk of HIV and many other STIs. Pills prevent pregnancy only, and infections often have no visible signs.",
+      "memoryHook": "T-Rexy says: Every time, correctly - that is how condoms protect.",
+      "tags": [
+        "sexual-health",
+        "prevention"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_102",
+      "question": "How is HIV different from AIDS?",
+      "correctAnswer": "HIV is the virus; AIDS is the advanced stage when the immune system is badly damaged",
+      "distractors": [
+        "They are two completely different viruses",
+        "AIDS comes first and turns into HIV",
+        "HIV is the stage and AIDS is the virus"
+      ],
+      "explanation": "HIV is the virus that attacks the immune system. Without treatment, the damage can progress to AIDS, the most advanced stage. Modern treatment usually prevents that progression.",
+      "memoryHook": "T-Rexy says: HIV is the virus; AIDS is the late stage.",
+      "tags": [
+        "sexual-health",
+        "hiv"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_103",
+      "question": "Which contraceptive method also protects against sexually transmitted infections?",
+      "correctAnswer": "The external (male) condom",
+      "distractors": [
+        "The birth control pill",
+        "An IUD",
+        "The contraceptive implant"
+      ],
+      "explanation": "The condom is the only contraceptive that also protects against STIs. Pills, IUDs, and implants prevent pregnancy very well but block no infections.",
+      "memoryHook": "T-Rexy says: Only the condom guards against both pregnancy and STIs.",
+      "tags": [
+        "sexual-health",
+        "contraception"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_104",
+      "question": "What should someone do after a possible exposure to an STI?",
+      "correctAnswer": "Get tested, pause sexual activity until results, and follow the provider's treatment",
+      "distractors": [
+        "Wait a few months to see what happens",
+        "Take vitamin supplements and move on",
+        "Have sex only with the same partner until it clears up"
+      ],
+      "explanation": "After a possible exposure, testing and treatment protect your health and stop spread. Many STIs are curable, and all are manageable when caught early.",
+      "memoryHook": "T-Rexy says: Test, pause, treat - in that order.",
+      "tags": [
+        "sexual-health",
+        "testing"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_105",
+      "question": "Which statement about STIs is true?",
+      "correctAnswer": "Many STIs have no symptoms but can still harm health and spread to partners",
+      "distractors": [
+        "Every STI causes obvious symptoms right away",
+        "STIs cannot spread unless symptoms are visible",
+        "Only people with many partners can get an STI"
+      ],
+      "explanation": "Most STIs are silent at first. Without symptoms, infections can still damage the body over time and pass to partners, which is why testing matters.",
+      "memoryHook": "T-Rexy says: Silent does not mean safe - most STIs start quiet.",
+      "tags": [
+        "sexual-health",
+        "sti"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_106",
+      "question": "A partner says, 'If you really loved me, you would do it.' What is this?",
+      "correctAnswer": "Coercion - pressure that can never create real consent",
+      "distractors": [
+        "A normal way to show commitment",
+        "Proof the relationship is serious",
+        "A fair test of trust"
+      ],
+      "explanation": "Using guilt or pressure to get sexual activity is coercion. Real consent is freely given without pressure, and love is never proven through sex.",
+      "memoryHook": "T-Rexy says: 'If you loved me' is pressure, not love - and never consent.",
+      "tags": [
+        "sexual-health",
+        "relationships"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_107",
+      "question": "Why are long-acting methods like IUDs and implants among the most effective contraceptives?",
+      "correctAnswer": "They work for years without depending on remembering or correct use every time",
+      "distractors": [
+        "They also block sexually transmitted infections",
+        "They are the cheapest methods to buy",
+        "They can be removed only by surgery"
+      ],
+      "explanation": "IUDs and implants remove user error - once placed, they work for years at over 99 percent effectiveness. They do not protect against STIs, so condoms still matter for infection protection.",
+      "memoryHook": "T-Rexy says: Set-and-forget methods win because there is nothing to forget.",
+      "tags": [
+        "sexual-health",
+        "contraception"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_108",
+      "question": "Where can a teen in California get sexual health services confidentially?",
+      "correctAnswer": "At a clinic - California law lets minors consent to many sexual health services confidentially",
+      "distractors": [
+        "Nowhere - a parent must always be told first",
+        "Only after turning 18",
+        "Only through a school office"
+      ],
+      "explanation": "California law allows minors to consent to many sexual health services, such as STI testing and contraception, without parental notification. Clinics can explain exactly what stays confidential.",
+      "memoryHook": "T-Rexy says: In California, clinics can help teens confidentially.",
+      "tags": [
+        "sexual-health",
+        "resources"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_109",
+      "question": "What does 'undetectable = untransmittable' mean for people living with HIV?",
+      "correctAnswer": "A person whose treatment keeps HIV undetectable does not transmit it sexually",
+      "distractors": [
+        "The virus is cured and gone forever",
+        "The person no longer needs any medication",
+        "Testing is no longer needed after starting treatment"
+      ],
+      "explanation": "HIV treatment can lower the virus to undetectable levels. Studies show a person who stays undetectable does not pass HIV to sexual partners - treatment is also prevention.",
+      "memoryHook": "T-Rexy says: Undetectable means untransmittable - treatment protects partners too.",
+      "tags": [
+        "sexual-health",
+        "hiv"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
     }
   ]
 }

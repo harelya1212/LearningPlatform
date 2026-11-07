@@ -1,7 +1,7 @@
 {
   "packId": "az-drivers-license",
-  "title": "Arizona Driver's License",
-  "description": "Arizona Driver's License practice - 100 questions",
+  "title": "Driver's License Theory",
+  "description": "Driver's License Theory practice - 100 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 80,
@@ -431,8 +431,8 @@
         "Flooding is guaranteed",
         "Only wet tires may use the road"
       ],
-      "explanation": "Oil and dust make Arizona roads especially slick during the first minutes of rain. Slow down and increase following distance.",
-      "memoryHook": "T-Rexy says: wet roads are slippery - Arizona rain plus oil equals ice-like slick!",
+      "explanation": "Oil and dust make roads especially slick during the first minutes of rain. Slow down and increase following distance.",
+      "memoryHook": "T-Rexy says: wet roads are slippery - rain plus oil equals ice-like slick!",
       "imageUrl": "topic:slippery-when-wet-sign",
       "tags": [
         "signs",
@@ -532,7 +532,7 @@
         "A bike shop is nearby",
         "Motorcycles only"
       ],
-      "explanation": "Bicycle warning signs remind drivers that cyclists may be present. Give them space and pass with at least 3 feet of clearance in Arizona.",
+      "explanation": "Bicycle warning signs remind drivers that cyclists may be present. Give them space and pass with at least 3 feet of clearance.",
       "memoryHook": "T-Rexy says: bike sign means share the road - cyclists are traffic too!",
       "imageUrl": "topic:bicycle-warning-sign",
       "tags": [
@@ -587,14 +587,14 @@
     },
     {
       "id": "AZDL_029",
-      "question": "When may you turn right on a steady red light in Arizona?",
+      "question": "When may you turn right on a steady red light?",
       "correctAnswer": "After coming to a complete stop and yielding, unless a sign prohibits it",
       "distractors": [
         "Never - it is always illegal",
         "Without stopping if no cars are coming",
         "Only between midnight and 5 AM"
       ],
-      "explanation": "Right turn on red is legal in Arizona after a full stop and yielding to traffic and pedestrians, unless a NO TURN ON RED sign is posted.",
+      "explanation": "Right turn on red is legal after a full stop and yielding to traffic and pedestrians, unless a NO TURN ON RED sign is posted.",
       "memoryHook": "T-Rexy says: red light right turn: stop first, look, then go - like a stop sign!",
       "imageUrl": "topic:right-on-red",
       "tags": [
@@ -772,7 +772,7 @@
         "Bicyclists only",
         "Whoever is faster"
       ],
-      "explanation": "In Arizona, drivers must yield to pedestrians in any crosswalk, marked or unmarked. Every intersection is legally a crosswalk.",
+      "explanation": "Drivers must yield to pedestrians in any crosswalk, marked or unmarked. Every intersection is legally a crosswalk.",
       "memoryHook": "T-Rexy says: feet beat wheels at crosswalks - pedestrians always win!",
       "imageUrl": "topic:pedestrian-right-of-way",
       "tags": [
@@ -867,14 +867,14 @@
     },
     {
       "id": "AZDL_043",
-      "question": "Unless otherwise posted, the speed limit in Arizona residential and business districts is:",
+      "question": "Unless otherwise posted, the speed limit in residential and business districts is:",
       "correctAnswer": "25 mph",
       "distractors": [
         "15 mph",
         "35 mph",
         "45 mph"
       ],
-      "explanation": "Arizona's default speed limit is 25 mph in residential and business districts. Always watch for posted signs that may differ.",
+      "explanation": "The default speed limit is 25 mph in residential and business districts. Always watch for posted signs that may differ.",
       "memoryHook": "T-Rexy says: 25 in neighborhoods - kids and pets live there!",
       "imageUrl": "topic:speed-limit-residential",
       "tags": [
@@ -997,7 +997,7 @@
         "Halved",
         "Only warnings are given"
       ],
-      "explanation": "A violation that costs $100 elsewhere costs $200 in a work zone - Arizona doubles fines to protect workers standing feet from live traffic, and the doubling applies even when you cannot see a crew at that moment.",
+      "explanation": "A violation that costs $100 elsewhere costs $200 in a work zone - fines double in work zones to protect workers standing feet from live traffic, and the doubling applies even when you cannot see a crew at that moment.",
       "memoryHook": "T-Rexy says: work zone fines DOUBLE - slow down, it is cheaper and safer!",
       "imageUrl": "topic:work-zone-fines",
       "tags": [
@@ -1010,7 +1010,7 @@
     },
     {
       "id": "AZDL_050",
-      "question": "Arizona's basic speed law requires you to:",
+      "question": "The basic speed law requires you to:",
       "correctAnswer": "Never drive faster than is safe for current conditions",
       "distractors": [
         "Always drive the posted limit",
@@ -1037,7 +1037,7 @@
         "24 inches",
         "6 inches"
       ],
-      "explanation": "Arizona law (A.R.S. 28-874) requires your wheels to be within 18 inches of the curb when you parallel park. If the gap is wider than 18 inches, your car sticks too far into the traffic lane and you can be cited.",
+      "explanation": "The law requires your wheels to be within 18 inches of the curb when you parallel park. If the gap is wider than 18 inches, your car sticks too far into the traffic lane and you can be cited.",
       "memoryHook": "T-Rexy says: 18 inches from the curb, max - about a ruler and a half!",
       "imageUrl": "topic:parking-curb-distance",
       "tags": [
@@ -1075,7 +1075,7 @@
         "5 feet",
         "30 feet"
       ],
-      "explanation": "Parking too close to a crosswalk blocks drivers' view of pedestrians. Arizona requires 20 feet of clearance.",
+      "explanation": "Parking too close to a crosswalk blocks drivers' view of pedestrians. The law requires 20 feet of clearance.",
       "memoryHook": "T-Rexy says: 20 feet from crosswalks - don't block the view of walkers!",
       "imageUrl": "topic:parking-crosswalk",
       "tags": [
@@ -1182,7 +1182,7 @@
     },
     {
       "id": "AZDL_059",
-      "question": "In Arizona, it is illegal for a driver age 21 or older to drive with a BAC of:",
+      "question": "It is illegal for a driver age 21 or older to drive with a BAC of:",
       "correctAnswer": "0.08% or higher",
       "distractors": [
         "0.10% or higher",
@@ -1324,14 +1324,14 @@
     },
     {
       "id": "AZDL_066",
-      "question": "In Arizona, having an open container of alcohol in a vehicle is:",
+      "question": "Having an open container of alcohol in a vehicle is:",
       "correctAnswer": "Illegal for both drivers and passengers",
       "distractors": [
         "Legal for passengers only",
         "Legal if the driver is sober",
         "Legal on highways only"
       ],
-      "explanation": "Arizona prohibits open containers of alcohol in the passenger area for everyone in the vehicle, driver and passengers alike.",
+      "explanation": "The law prohibits open containers of alcohol in the passenger area for everyone in the vehicle, driver and passengers alike.",
       "memoryHook": "T-Rexy says: open containers are a NO for everyone in the car!",
       "imageUrl": "topic:open-container",
       "tags": [
@@ -1352,7 +1352,7 @@
         "Only illegal drugs count",
         "Only if mixed with alcohol"
       ],
-      "explanation": "Arizona DUI law covers impairment by any drug, including legal prescriptions and over-the-counter medicines. Read labels for driving warnings.",
+      "explanation": "DUI law covers impairment by any drug, including legal prescriptions and over-the-counter medicines. Read labels for driving warnings.",
       "memoryHook": "T-Rexy says: legal pills can still mean illegal driving - check the label!",
       "imageUrl": "topic:drugged-driving",
       "tags": [
@@ -1404,7 +1404,7 @@
     },
     {
       "id": "AZDL_070",
-      "question": "The BAC limit for commercial vehicle drivers in Arizona is:",
+      "question": "The BAC limit for commercial vehicle drivers is:",
       "correctAnswer": "0.04%",
       "distractors": [
         "0.08%",
@@ -1550,14 +1550,14 @@
     },
     {
       "id": "AZDL_077",
-      "question": "When passing a bicyclist in Arizona, you must leave at least:",
+      "question": "When passing a bicyclist, you must leave at least:",
       "correctAnswer": "3 feet of space",
       "distractors": [
         "1 foot of space",
         "6 inches of space",
         "10 feet of space"
       ],
-      "explanation": "Arizona requires at least 3 feet of clearance when passing a bicycle. Slow down and pass only when safe.",
+      "explanation": "The law requires at least 3 feet of clearance when passing a bicycle. Slow down and pass only when safe.",
       "memoryHook": "T-Rexy says: 3 feet for bikes - give cyclists their bubble!",
       "imageUrl": "topic:bicycle-passing",
       "tags": [
@@ -1631,7 +1631,7 @@
     },
     {
       "id": "AZDL_081",
-      "question": "Arizona's Move Over law requires you to:",
+      "question": "The Move Over law requires you to:",
       "correctAnswer": "Move over one lane or slow down for stopped emergency and work vehicles",
       "distractors": [
         "Stop in the lane",
@@ -1975,14 +1975,14 @@
     },
     {
       "id": "AZDL_098",
-      "question": "Arizona's hands-free driving law prohibits:",
+      "question": "Hands-free driving laws prohibit:",
       "correctAnswer": "Holding a phone in your hand while driving",
       "distractors": [
         "Using GPS at all",
         "Talking to passengers",
         "Listening to the radio"
       ],
-      "explanation": "Since 2019, Arizona drivers may not hold or support a phone with their body while driving. Use hands-free or pull over.",
+      "explanation": "Drivers may not hold or support a phone with their body while driving. Use hands-free or pull over.",
       "memoryHook": "T-Rexy says: phone in hand means ticket in hand - go hands-free!",
       "imageUrl": "topic:hands-free-law",
       "tags": [
