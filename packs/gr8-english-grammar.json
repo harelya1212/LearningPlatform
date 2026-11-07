@@ -235,14 +235,14 @@
     },
     {
       "id": "GRA8_012",
-      "question": "What is the predicate of the sentence 'The cat sat on the mat'?",
+      "question": "What is the complete predicate of the sentence 'The cat sat on the mat'?",
       "correctAnswer": "sat on the mat",
       "distractors": [
         "The cat",
         "the mat",
         "sat"
       ],
-      "explanation": "The predicate tells what the subject did: sat on the mat.",
+      "explanation": "The complete predicate tells everything the subject did: sat on the mat.",
       "memoryHook": "T-Rexy says: The predicate tells what happened.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -1110,7 +1110,7 @@
       "question": "Which sentence uses commas correctly?",
       "correctAnswer": "After dinner, we went for a walk.",
       "distractors": [
-        "After dinner we went for a walk.",
+        "After we had finished our dinner and cleared the table we went for a walk.",
         "After, dinner we went for a walk.",
         "After dinner, we, went for a walk."
       ],
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "GRA8_062",
-      "question": "Which word is the correct possessive form of 'dog'?",
+      "question": "Which word is the correct singular possessive form of 'dog'?",
       "correctAnswer": "dog's",
       "distractors": [
         "dogs",
