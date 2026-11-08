@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 109,
+  "totalQuestions": 118,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2171,6 +2171,168 @@
       "tags": [
         "sexual-health",
         "resources"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_110",
+      "question": "Which resource can a teen contact for free, confidential help with dating abuse?",
+      "correctAnswer": "The National Domestic Violence Hotline (thehotline.org) or a local domestic-violence program",
+      "distractors": [
+        "Only a police station, in person",
+        "A teacher at a different school",
+        "Anonymous social media followers"
+      ],
+      "explanation": "Hotlines such as the National Domestic Violence Hotline (call, chat, or text via thehotline.org) and love is respect give free, confidential support and safety planning. Local domestic-violence programs and school counselors can help too - no one has to handle abuse alone.",
+      "memoryHook": "T-Rexy says: confidential help exists - thehotline.org is a start.",
+      "tags": [
+        "dating-violence",
+        "resources"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_111",
+      "question": "How can someone report suspected human trafficking in the United States?",
+      "correctAnswer": "Call the National Human Trafficking Hotline at 1-888-373-7888 (or text HELP to 233733)",
+      "distractors": [
+        "Post about it on social media and wait for a response",
+        "Confront the suspected trafficker directly",
+        "Only by walking into a police station in person"
+      ],
+      "explanation": "The National Human Trafficking Hotline (1-888-373-7888, or text HELP to 233733) takes reports and connects victims with help, day and night. Never confront a suspected trafficker yourself - report what you saw and let trained responders act.",
+      "memoryHook": "T-Rexy says: 1-888-373-7888 - the trafficking hotline, any time.",
+      "tags": [
+        "trafficking-prevention",
+        "reporting"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_112",
+      "question": "A partner threatens to share your private images if you break up with them. This is best described as:",
+      "correctAnswer": "Coercion and digital abuse - a form of dating violence, whether or not they ever send the images",
+      "distractors": [
+        "A normal breakup argument",
+        "Only a problem if they actually send them",
+        "Something you caused by taking the photo"
+      ],
+      "explanation": "Threatening to expose private images to control a partner is coercive digital abuse - sometimes called image-based abuse or sextortion. The threat itself is the abuse, and responsibility always lies with the person making the threat, never with the person in the photo.",
+      "memoryHook": "T-Rexy says: threats to share images are abuse - never your fault.",
+      "tags": [
+        "dating-violence",
+        "digital-abuse"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_113",
+      "question": "What is a safety plan for someone leaving an abusive relationship?",
+      "correctAnswer": "A personal plan for staying safe - telling trusted people, choosing safe places and routes, and keeping essentials and key contacts ready",
+      "distractors": [
+        "A plan to make the abusive partner change their behavior",
+        "A written agreement both partners sign",
+        "Permanently deleting every social media account"
+      ],
+      "explanation": "A safety plan prepares for the riskiest moments around leaving: who knows, where is safe, how to get there, what to have ready (phone, keys, documents, money), and which adults or hotlines to contact. Counselors and hotlines help people build one.",
+      "memoryHook": "T-Rexy says: trusted people, safe places, essentials ready - that is a plan.",
+      "tags": [
+        "dating-violence",
+        "safety-planning"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_114",
+      "question": "You regularly see a classmate's partner screaming at them and shoving them in the hallway. What is the most responsible action?",
+      "correctAnswer": "Do not step in physically - tell a trusted adult or counselor what you have seen, and let your classmate know support is available",
+      "distractors": [
+        "Record it and post the video so everyone knows",
+        "Get between them and break it up yourself",
+        "Stay completely out of it - it is their private business"
+      ],
+      "explanation": "Direct physical intervention can put you and the victim in more danger, and posting video humiliates the victim. Bystanders still have power: report to a trusted adult or counselor, and quietly let the classmate know you believe them and that help exists.",
+      "memoryHook": "T-Rexy says: bystanders help best through trusted adults.",
+      "tags": [
+        "dating-violence",
+        "bystanders"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_115",
+      "question": "Which sequence best describes how groomers and recruiters operate?",
+      "correctAnswer": "They spot a need, build trust and affection, isolate the teen, then introduce control, demands, or sexual content",
+      "distractors": [
+        "They threaten first, then ask to be friends",
+        "They offer a job, then immediately call the police",
+        "They kidnap the teen in a public place"
+      ],
+      "explanation": "Recruitment is usually gradual: attention and gifts create trust, the teen is separated from friends and family, boundaries are tested and pushed, and only then do demands and exploitation begin. Recognizing the early stages is the best defense.",
+      "memoryHook": "T-Rexy says: trust, isolation, then control - spot the sequence early.",
+      "tags": [
+        "trafficking-prevention",
+        "grooming"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_116",
+      "question": "Which fact corrects a common myth about human trafficking?",
+      "correctAnswer": "Most victims are not kidnapped - traffickers more often use lies, false promises, and trusted relationships",
+      "distractors": [
+        "Victims are always moved across national borders",
+        "Trafficking happens only in very large cities",
+        "If a victim does not try to escape, it is not trafficking"
+      ],
+      "explanation": "The kidnapping image is mostly a myth. Traffickers typically recruit through fraud and coercion - fake jobs, fake romances, false promises - and it happens in suburbs and small towns as well as big cities. Victims who seem 'free to leave' are often held by threats, debt, or fear.",
+      "memoryHook": "T-Rexy says: most traffickers manipulate - they do not kidnap.",
+      "tags": [
+        "trafficking-prevention",
+        "myths"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_117",
+      "question": "Under US law, when a person under 18 is involved in commercial sex, it is automatically considered trafficking because:",
+      "correctAnswer": "Minors cannot legally consent, so no force, fraud, or coercion needs to be proven",
+      "distractors": [
+        "All work by minors is illegal",
+        "It only counts if a state line was crossed",
+        "The law treats it as a curfew violation"
+      ],
+      "explanation": "Under the federal Trafficking Victims Protection Act, anyone under 18 in commercial sex is a trafficking victim by definition - prosecutors never have to prove force, fraud, or coercion. The minor is a victim to be protected, never a criminal.",
+      "memoryHook": "T-Rexy says: under 18 means victim by law - no exceptions.",
+      "tags": [
+        "trafficking-prevention",
+        "law"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_118",
+      "question": "Setting a boundary in a dating relationship means:",
+      "correctAnswer": "Clearly stating what you are and are not comfortable with - and a respectful partner accepts it",
+      "distractors": [
+        "Giving your partner rules they must obey",
+        "Ending the relationship immediately",
+        "Testing your partner to see how much they care"
+      ],
+      "explanation": "Boundaries are about your own comfort and safety - around time, touch, phones, photos, anything. Stating them clearly is healthy, and how a partner reacts tells you a lot: respect means the boundary is accepted the first time.",
+      "memoryHook": "T-Rexy says: state your limits - respect accepts them the first time.",
+      "tags": [
+        "dating-violence",
+        "boundaries"
       ],
       "difficulty": "easy",
       "imageUrl": "topic:health"

@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 109,
+  "totalQuestions": 118,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2171,6 +2171,168 @@
       "tags": [
         "sexual-health",
         "hiv"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_110",
+      "question": "Which of these is an early warning sign of dating abuse?",
+      "correctAnswer": "Extreme jealousy and trying to isolate you from friends and family",
+      "distractors": [
+        "Disagreeing about which movie to watch",
+        "Wanting to spend lots of time together",
+        "Feeling nervous before a first date"
+      ],
+      "explanation": "Isolation is a core abuse tactic: a controlling partner cuts you off from the people who could support you. Extreme jealousy, constant accusations, and monitoring are warning signs to take seriously from the very start.",
+      "memoryHook": "T-Rexy says: jealousy that isolates you is a warning sign.",
+      "tags": [
+        "dating-violence",
+        "warning-signs"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_111",
+      "question": "Which is a sign of a healthy dating relationship?",
+      "correctAnswer": "You can be honest, disagree respectfully, and keep your own friendships",
+      "distractors": [
+        "Your partner decides who you are allowed to talk to",
+        "You often feel afraid of your partner's reactions",
+        "Your partner reads your messages every day"
+      ],
+      "explanation": "In a healthy relationship both partners feel safe being themselves. Disagreements happen without fear, boundaries are respected, and neither person gives up their friends, family, or interests.",
+      "memoryHook": "T-Rexy says: healthy means honest, respectful, and still yourself.",
+      "tags": [
+        "dating-violence",
+        "healthy-relationships"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_112",
+      "question": "An abusive partner constantly puts their partner down, controls the money, and dictates what they wear. These are examples of:",
+      "correctAnswer": "Power and control - the pattern at the center of dating abuse",
+      "distractors": [
+        "Normal rules every couple has",
+        "Stress that will pass on its own",
+        "Signs the partner just needs more attention"
+      ],
+      "explanation": "Dating abuse is not about anger or stress - it is a pattern of behaviors used to hold power and control over a partner: insults, threats, isolation, monitoring, and controlling money, clothes, and activities.",
+      "memoryHook": "T-Rexy says: abuse is a pattern of power and control.",
+      "tags": [
+        "dating-violence",
+        "power-and-control"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_113",
+      "question": "Your friend wants to end an abusive relationship but is scared of what their partner might do. What is a helpful response?",
+      "correctAnswer": "Support their decision, help them think through a safety plan, and connect them with a trusted adult or a hotline",
+      "distractors": [
+        "Tell them to stay until the partner calms down",
+        "Break up with the partner on your friend's behalf",
+        "Tell them it is partly their fault for staying so long"
+      ],
+      "explanation": "Leaving is often the most dangerous time in an abusive relationship, so support and planning matter. Stand by your friend without blame, help them plan how to stay safe, and involve a trusted adult or a dating-abuse hotline.",
+      "memoryHook": "T-Rexy says: support the decision, plan for safety, never blame.",
+      "tags": [
+        "dating-violence",
+        "helping-a-friend"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_114",
+      "question": "Why might a teen stay in an abusive relationship instead of leaving right away?",
+      "correctAnswer": "Fear of retaliation, threats, isolation, and the manipulated hope that the partner will change",
+      "distractors": [
+        "Because the abuse is not actually serious",
+        "Because being controlled feels good",
+        "Because leaving is always easy and completely safe"
+      ],
+      "explanation": "Abusive partners use threats, fear, and isolation to trap their victims, and often mix abuse with apologies and promises to change. That is why victims deserve support, never blame - leaving can be the riskiest step, not the simplest one.",
+      "memoryHook": "T-Rexy says: fear traps victims - support frees them.",
+      "tags": [
+        "dating-violence",
+        "why-victims-stay"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_115",
+      "question": "What is human trafficking?",
+      "correctAnswer": "Exploiting a person through force, fraud, or coercion for labor or commercial sex",
+      "distractors": [
+        "A legal way for teens to earn money quickly",
+        "Something that only happens in other countries",
+        "Traveling abroad for a new job"
+      ],
+      "explanation": "Trafficking means exploiting someone through force, fraud, or coercion - violence and threats (force), lies and false promises (fraud), or pressure and manipulation (coercion). It happens in the United States, in cities and small towns alike - and when a minor is involved in commercial sex, it is trafficking by law even without proof of force or fraud.",
+      "memoryHook": "T-Rexy says: trafficking is exploitation by force, fraud, or coercion.",
+      "tags": [
+        "trafficking-prevention",
+        "definition"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_116",
+      "question": "A person online offers you a modeling job that requires travel, keeping it secret from your parents, and sending photos first. This is most likely:",
+      "correctAnswer": "A trafficking or exploitation recruitment scam",
+      "distractors": [
+        "A normal way first jobs are offered",
+        "A scholarship opportunity",
+        "A harmless fan page"
+      ],
+      "explanation": "Real employers do not demand secrecy from parents or personal photos up front. Travel plus secrecy plus photo requests is a textbook recruitment pattern - end contact, save the messages, and tell a trusted adult.",
+      "memoryHook": "T-Rexy says: secret travel plus photos equals a recruitment scam.",
+      "tags": [
+        "trafficking-prevention",
+        "recruitment-scams"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_117",
+      "question": "Which habit best protects you from online groomers and recruiters?",
+      "correctAnswer": "Keeping accounts private, never sharing your location or personal details with online-only contacts, and telling an adult about suspicious approaches",
+      "distractors": [
+        "Accepting friend requests from anyone with lots of followers",
+        "Using a fake name, which makes everything else safe",
+        "Meeting online contacts alone first, to check if they are real"
+      ],
+      "explanation": "Privacy settings, guarding personal information and location, and involving a trusted adult early are the strongest defenses. A fake name alone does not protect you, and meeting an online contact alone is exactly what recruiters count on.",
+      "memoryHook": "T-Rexy says: private accounts and a trusted adult shut recruiters out.",
+      "tags": [
+        "trafficking-prevention",
+        "online-safety"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_118",
+      "question": "Which statement about trafficking victims is true?",
+      "correctAnswer": "Victims can be any gender or background, and many are recruited by someone they know or trust",
+      "distractors": [
+        "Victims are almost always kidnapped by strangers",
+        "Only teens who run away can be trafficked",
+        "Victims could simply leave whenever they want"
+      ],
+      "explanation": "Kidnapping is rare in trafficking. Most victims are manipulated by someone they know - a 'friend,' a romantic partner, sometimes even a family member - and are held by fear, threats, debt, or dependence rather than chains. Anyone can be targeted.",
+      "memoryHook": "T-Rexy says: anyone can be targeted - recruiters are often trusted faces.",
+      "tags": [
+        "trafficking-prevention",
+        "facts"
       ],
       "difficulty": "hard",
       "imageUrl": "topic:health"

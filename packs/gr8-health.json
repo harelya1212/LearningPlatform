@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 109,
+  "totalQuestions": 118,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2153,6 +2153,168 @@
       "tags": [
         "sexual-health",
         "testing"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_110",
+      "question": "What is teen dating violence?",
+      "correctAnswer": "Harmful or controlling behavior by a dating partner - it can be physical, emotional, verbal, sexual, or digital",
+      "distractors": [
+        "Any argument between two people who are dating",
+        "Only physical hitting between married adults",
+        "A disagreement that ends with a sincere apology"
+      ],
+      "explanation": "Dating violence is a pattern of abusive behavior a partner uses to gain power and control. It is not only physical - constant put-downs, threats, and controlling someone's phone or social media are dating violence too. Florida requires this instruction for grades 7-12 (F.S. 1003.42(2)(o)).",
+      "memoryHook": "T-Rexy says: dating violence is a pattern of control - in person or on a screen.",
+      "tags": [
+        "dating-violence",
+        "definition"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_111",
+      "question": "Which of these is a warning sign of an unhealthy dating relationship?",
+      "correctAnswer": "A partner who constantly checks your phone and demands to know where you are at all times",
+      "distractors": [
+        "A partner who respects your time with your own friends",
+        "A partner who apologizes after a disagreement",
+        "A partner who asks before posting a photo of you"
+      ],
+      "explanation": "Demanding access to a partner's phone and tracking their every move is controlling behavior - one of the earliest warning signs of dating abuse. Healthy partners trust each other and respect privacy.",
+      "memoryHook": "T-Rexy says: constant checking is control, not caring.",
+      "tags": [
+        "dating-violence",
+        "warning-signs"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_112",
+      "question": "Which behavior belongs in a healthy dating relationship?",
+      "correctAnswer": "Both partners can say no, disagree respectfully, and keep their own friendships",
+      "distractors": [
+        "One partner makes all the decisions for both",
+        "Partners hide the relationship from every adult",
+        "Jealousy proves how much a partner cares"
+      ],
+      "explanation": "Healthy relationships are built on respect, honesty, and equality: both people keep their own friends and interests, can disagree without fear, and always have their boundaries honored.",
+      "memoryHook": "T-Rexy says: healthy love leaves room for two whole people.",
+      "tags": [
+        "dating-violence",
+        "healthy-relationships"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_113",
+      "question": "A friend confides that her boyfriend threatens to hurt her if she breaks up with him. What is the best first step?",
+      "correctAnswer": "Believe her, listen without judging, and help her tell a trusted adult or counselor",
+      "distractors": [
+        "Tell her to ignore the threats - he is probably joking",
+        "Confront the boyfriend yourself and warn him off",
+        "Share the story with classmates so they can watch him"
+      ],
+      "explanation": "Threats of harm are a serious warning sign, and leaving an abusive relationship can be a dangerous moment. Believe your friend, support her, and connect her with a trusted adult or counselor who can help her plan for safety. Never confront the abusive partner yourself.",
+      "memoryHook": "T-Rexy says: believe your friend - and bring a trusted adult in.",
+      "tags": [
+        "dating-violence",
+        "helping-a-friend"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_114",
+      "question": "A dating partner demands your phone password, tracks your location 24/7, and gets angry when you answer messages from friends. These behaviors are best described as:",
+      "correctAnswer": "Digital abuse - using technology to control and monitor a partner",
+      "distractors": [
+        "Normal signs of a serious relationship",
+        "Proof of deep love and commitment",
+        "Harmless, as long as no one is physically hurt"
+      ],
+      "explanation": "Using phones and social media to control, stalk, or intimidate a partner is digital abuse, a real form of dating violence. Abuse does not have to leave bruises to be abuse, and anyone experiencing it deserves support and help.",
+      "memoryHook": "T-Rexy says: passwords and tracking are control - not love.",
+      "tags": [
+        "dating-violence",
+        "digital-abuse"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_115",
+      "question": "What is grooming?",
+      "correctAnswer": "When someone builds trust and a close relationship with a young person in order to exploit or abuse them",
+      "distractors": [
+        "A normal way for teens to make new friends online",
+        "An older student teaching a younger student a skill",
+        "A popular type of social media challenge"
+      ],
+      "explanation": "Groomers win a young person's trust with attention, compliments, gifts, and shared 'secrets,' then slowly push boundaries. It can happen online or in person, and it is a setup for abuse or exploitation - which is why Florida requires trafficking-prevention education (F.S. 1003.42(2)(o)).",
+      "memoryHook": "T-Rexy says: grooming builds trust to exploit - secrets are the trap.",
+      "tags": [
+        "trafficking-prevention",
+        "grooming"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_116",
+      "question": "Someone you met online keeps demanding that your chats stay secret and offers you gifts if you send photos. What should you do?",
+      "correctAnswer": "Stop responding, save the messages, and tell a trusted adult",
+      "distractors": [
+        "Send one photo to see what happens",
+        "Agree to meet once, as long as a friend comes along",
+        "Delete all the chats so nobody ever finds out"
+      ],
+      "explanation": "Demands for secrecy plus gifts in exchange for photos are classic grooming and recruitment tactics. Do not send anything, do not meet, and do not delete the evidence - saved messages help adults and authorities protect you and others.",
+      "memoryHook": "T-Rexy says: gifts for secrets means danger - stop, save, and tell.",
+      "tags": [
+        "trafficking-prevention",
+        "online-safety"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_117",
+      "question": "Which statement about people who recruit teens into trafficking or exploitation is true?",
+      "correctAnswer": "They often pose as friends or romantic partners and target teens online or in person",
+      "distractors": [
+        "They are always strangers waiting in vans",
+        "They only target teens in other countries",
+        "They are easy to recognize by how they dress"
+      ],
+      "explanation": "Traffickers rarely grab strangers. Far more often they build fake friendships or romances, learn what a teen needs or dreams about, and use that trust to trap them. It can happen in any community, to teens of any background.",
+      "memoryHook": "T-Rexy says: recruiters pose as friends first - that is the trap.",
+      "tags": [
+        "trafficking-prevention",
+        "recruiters"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_118",
+      "question": "You learn that an older teen is being forced to send explicit images and is too afraid to tell anyone. What is the safest response?",
+      "correctAnswer": "Tell a trusted adult or school counselor, or report it - and never share or forward the images",
+      "distractors": [
+        "Forward the images to friends to build support for them",
+        "Try to rescue them on your own",
+        "Wait until you are completely sure before telling anyone"
+      ],
+      "explanation": "Forwarding the images spreads the harm and can itself be illegal. You do not need proof to speak up - telling a trusted adult or counselor lets trained people intervene safely. A person being exploited is never to blame for what is being done to them.",
+      "memoryHook": "T-Rexy says: speak up to an adult - never forward the images.",
+      "tags": [
+        "trafficking-prevention",
+        "reporting"
       ],
       "difficulty": "hard",
       "imageUrl": "topic:health"
