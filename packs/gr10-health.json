@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 118,
+  "totalQuestions": 127,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2335,6 +2335,174 @@
         "boundaries"
       ],
       "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_119",
+      "question": "In Illinois, teachers, counselors, and coaches are 'mandated reporters.' This means they must:",
+      "correctAnswer": "Report suspected child abuse or neglect to DCFS - they cannot legally keep the suspicion to themselves",
+      "distractors": [
+        "Investigate the family themselves before telling anyone",
+        "Keep a student's disclosure confidential if the student asks",
+        "Report only if they personally witness the abuse"
+      ],
+      "explanation": "Illinois law makes school staff mandated reporters: a reasonable suspicion is enough, and the report goes to the DCFS hotline. Their job is to report, not to investigate or to sit on a disclosure.",
+      "memoryHook": "T-Rexy says: mandated reporters must report - suspicion is enough.",
+      "tags": [
+        "erins-law",
+        "reporting",
+        "illinois"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_120",
+      "question": "A teen anywhere in the U.S. can reach free, confidential sexual assault support through:",
+      "correctAnswer": "The National Sexual Assault Hotline (RAINN) at 1-800-656-4673, or online at rainn.org",
+      "distractors": [
+        "Only a local police station's front desk",
+        "A school's general attendance office",
+        "Any large social media account with 'help' in its name"
+      ],
+      "explanation": "RAINN's hotline connects callers to trained staff and local service providers, by phone or chat, free and confidential - whether the assault was recent or years ago.",
+      "memoryHook": "T-Rexy says: 1-800-656-4673 - confidential help, day or night.",
+      "tags": [
+        "erins-law",
+        "resources"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_121",
+      "question": "If sexual abuse or assault happens to you, the most important thing to know is:",
+      "correctAnswer": "It is never the victim's fault - no matter what they wore, drank, or agreed to earlier - and help is available whenever they are ready",
+      "distractors": [
+        "It only counts if there are visible injuries",
+        "Nothing can be done unless it is reported within 24 hours",
+        "Staying silent is best if the person is well liked"
+      ],
+      "explanation": "Responsibility rests entirely with the offender. There is no deadline on deserving support: medical care, counseling, and reporting options remain open, and disclosure can happen whenever the survivor is ready.",
+      "memoryHook": "T-Rexy says: never the victim's fault - help waits for no deadline.",
+      "tags": [
+        "erins-law",
+        "facts"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_122",
+      "question": "Grooming by a person in authority - a coach, teacher, or employer - is especially dangerous because:",
+      "correctAnswer": "The authority figure controls grades, playing time, or a job, so refusing or reporting feels risky - and that power is exactly what the grooming exploits",
+      "distractors": [
+        "Adults in authority are legally allowed unlimited private contact with teens",
+        "Teens always exaggerate about authority figures",
+        "It is only a problem if the gifts involved are expensive"
+      ],
+      "explanation": "Authority adds leverage: the teen fears losing a team spot, a grade, or a job, and the offender knows it. That power imbalance is a feature of the abuse, not a defense of it.",
+      "memoryHook": "T-Rexy says: power over your future is the groomer's lever - name it.",
+      "tags": [
+        "erins-law",
+        "grooming",
+        "authority"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_123",
+      "question": "'Sextortion' targeting teens usually works by:",
+      "correctAnswer": "An offender obtains private images - or pretends to have them - and threatens to share them unless the teen sends more images or money; the right move is to stop responding, save the evidence, and tell a trusted adult or report it",
+      "distractors": [
+        "A stranger politely asking for photos one time",
+        "Guessing the teen's password correctly on the first attempt",
+        "Something that can only happen to adults with bank accounts"
+      ],
+      "explanation": "Sextortion runs on panic and secrecy. Complying never ends the threats - offenders escalate. Stopping contact, preserving evidence, and involving an adult or a report (for example through the CyberTipline) is how teens get out of it.",
+      "memoryHook": "T-Rexy says: threats feed on secrecy - stop, save, and tell an adult.",
+      "tags": [
+        "erins-law",
+        "online-safety",
+        "sextortion"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_124",
+      "question": "A common reason older teens do not disclose abuse by a family member or close family friend is:",
+      "correctAnswer": "Fear of breaking up the family, being blamed, or losing housing and financial support",
+      "distractors": [
+        "A rule that abuse inside families is not reportable",
+        "Teens generally not understanding that it is wrong",
+        "Disclosure being illegal until both parents agree"
+      ],
+      "explanation": "When the offender is inside the family circle, disclosure can feel like detonating the teen's whole life - home, income, holidays, loyalties. Understanding that pressure is why believing and supporting the teen matters so much.",
+      "memoryHook": "T-Rexy says: fear of fallout silences teens - support lowers the cost of truth.",
+      "tags": [
+        "erins-law",
+        "disclosure"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_125",
+      "question": "Which school response best supports a student who discloses sexual abuse?",
+      "correctAnswer": "Believe the student, ensure immediate safety, report to DCFS as required, and connect the student with counseling - without making the student repeat the account to many different people",
+      "distractors": [
+        "Have the student retell the details in a staff group meeting",
+        "Wait a week to see if the student changes the story",
+        "Notify the accused adult first so they can give their side"
+      ],
+      "explanation": "Good practice protects and limits re-traumatizing: one supportive conversation, the mandated report, safety planning, and counseling referrals. Repeated retellings and tipping off the accused both cause harm.",
+      "memoryHook": "T-Rexy says: believe, protect, report, support - and spare the retelling.",
+      "tags": [
+        "erins-law",
+        "disclosure",
+        "schools"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_126",
+      "question": "A senior says: 'It can't be abuse - he never hit me, and I went along with the meetings.' The accurate correction is:",
+      "correctAnswer": "Abuse does not require violence or physical resistance - manipulation, authority, and grooming can produce compliance, and responsibility still rests entirely with the offender",
+      "distractors": [
+        "Correct - without force, it cannot be abuse",
+        "It is abuse only if the teen said the word 'no' out loud",
+        "Going along with meetings makes the teen partly responsible"
+      ],
+      "explanation": "Freezing, complying, or even returning are common survival responses engineered by grooming. The law and prevention education both place responsibility on the offender who created the situation.",
+      "memoryHook": "T-Rexy says: compliance under manipulation is not consent - blame stays with the offender.",
+      "tags": [
+        "erins-law",
+        "facts",
+        "grooming"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_127",
+      "question": "Why does Illinois's Erin's Law require abuse-prevention instruction through grade 12 instead of ending it in elementary school?",
+      "correctAnswer": "Because risks change as teens age - dating, jobs, teams, and online contact create new settings for grooming and assault - so prevention skills must mature with students through high school",
+      "distractors": [
+        "Because younger children cannot learn any safety concepts at all",
+        "Because the law only applies to high school seniors",
+        "Because elementary schools are exempt from all safety education"
+      ],
+      "explanation": "Erin's Law was written in Illinois to run through grade 12 precisely because the threat changes shape: authority figures, workplaces, relationships, and phones. Age-appropriate prevention has to keep pace.",
+      "memoryHook": "T-Rexy says: risks grow up - so the lessons grow up too, through grade 12.",
+      "tags": [
+        "erins-law",
+        "illinois",
+        "facts"
+      ],
+      "difficulty": "hard",
       "imageUrl": "topic:health"
     }
   ]

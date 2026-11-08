@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 118,
+  "totalQuestions": 127,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2333,6 +2333,173 @@
       "tags": [
         "trafficking-prevention",
         "facts"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_119",
+      "question": "In sexual abuse prevention, 'grooming' means:",
+      "correctAnswer": "A pattern where an adult (or older teen) slowly builds trust with a teen and pushes boundaries - special attention, gifts, secrets, and alone time - to make abuse easier and keep it hidden",
+      "distractors": [
+        "Any friendly behavior by a coach or teacher",
+        "A normal stage of every mentoring relationship",
+        "When two teens in a dating relationship argue often"
+      ],
+      "explanation": "Grooming is deliberate: the offender earns trust and lowers defenses step by step - singling the teen out, creating secrets, arranging time alone, and testing physical boundaries - so the abuse can happen and stay hidden.",
+      "memoryHook": "T-Rexy says: trust built in secret steps is a grooming pattern.",
+      "tags": [
+        "erins-law",
+        "grooming"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_120",
+      "question": "When a teen discloses sexual abuse, a trusted adult's most important first response is to:",
+      "correctAnswer": "Believe them, stay calm, and make clear that the abuse is not their fault",
+      "distractors": [
+        "Demand proof before doing anything",
+        "Promise to keep it a complete secret no matter what",
+        "Confront the accused person immediately, alone"
+      ],
+      "explanation": "Belief and calm support come first. An adult should never promise total secrecy - teachers and many other adults are mandated reporters who must pass the report on so the teen can be protected.",
+      "memoryHook": "T-Rexy says: believe first - it is never the victim's fault.",
+      "tags": [
+        "erins-law",
+        "disclosure"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_121",
+      "question": "In Illinois, suspected child sexual abuse can be reported by:",
+      "correctAnswer": "Calling the Illinois DCFS Child Abuse Hotline at 1-800-25-ABUSE (1-800-252-2873), or telling a teacher, counselor, or other trusted adult",
+      "distractors": [
+        "Only hiring a lawyer",
+        "Only filing a report after turning 18",
+        "Posting the details on social media"
+      ],
+      "explanation": "Illinois runs a statewide child abuse hotline (DCFS, 1-800-25-ABUSE) that anyone can call. Telling a trusted adult at school also works - school staff are mandated reporters who must pass it on the same day.",
+      "memoryHook": "T-Rexy says: 1-800-25-ABUSE - Illinois's line for reporting abuse.",
+      "tags": [
+        "erins-law",
+        "reporting",
+        "illinois"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_122",
+      "question": "Which pattern is a red flag for grooming by an adult?",
+      "correctAnswer": "Singling one teen out with gifts and rides, insisting on secrecy, finding reasons to be alone together, and gradually increasing physical contact like 'accidental' touches",
+      "distractors": [
+        "A coach who praises the whole team equally",
+        "A teacher who keeps the classroom door open during meetings",
+        "A mentor who includes parents in group messages"
+      ],
+      "explanation": "Each behavior alone can look innocent; together they form the grooming pattern - special status, secrecy, isolation, and boundary testing. Open doors and parent-inclusive communication are the opposite: protective behavior.",
+      "memoryHook": "T-Rexy says: gifts, secrets, alone time, touches - the pattern is the warning.",
+      "tags": [
+        "erins-law",
+        "grooming",
+        "warning-signs"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_123",
+      "question": "Teens who are sexually abused often delay telling anyone mainly because of:",
+      "correctAnswer": "Shame, self-blame, fear of not being believed, and the abuser's manipulation - none of which make the abuse the teen's fault",
+      "distractors": [
+        "A legal rule that reports must wait a year",
+        "The abuse usually not being serious enough to mention",
+        "Schools discouraging students from reporting"
+      ],
+      "explanation": "Delayed disclosure is the norm, not the exception. Abusers engineer silence with threats, gifts, and blame-shifting, and teens often fear the reaction as much as the abuser. The responsibility is always the offender's.",
+      "memoryHook": "T-Rexy says: silence is engineered by abusers - blame never belongs to the teen.",
+      "tags": [
+        "erins-law",
+        "disclosure"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_124",
+      "question": "A friend confides that an adult has been sending them sexual messages. The best response is to:",
+      "correctAnswer": "Encourage them to tell a trusted adult or report it, offer to go with them, and not forward or share the messages",
+      "distractors": [
+        "Keep it completely secret to protect your friend's privacy",
+        "Reply to the adult yourself to scare them off",
+        "Ask your friend to send you the messages so you can post them as proof"
+      ],
+      "explanation": "Supporting a friend means connecting them to adults who can act - and going along for support. Sharing sexual messages involving a minor spreads harm and can itself be illegal; secrecy protects only the offender.",
+      "memoryHook": "T-Rexy says: walk with your friend to help - never spread the messages.",
+      "tags": [
+        "erins-law",
+        "helping-a-friend",
+        "online-safety"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_125",
+      "question": "Which statement about child sexual abuse is accurate?",
+      "correctAnswer": "Most abusers are someone the teen and family know and trust, not strangers",
+      "distractors": [
+        "Most abusers are strangers who approach teens in public places",
+        "Abuse only happens in certain kinds of families",
+        "A teen's clothing or behavior can make them responsible if it happens"
+      ],
+      "explanation": "The large majority of child sexual abuse is committed by a known, trusted person - a relative, family friend, coach, or mentor. That is exactly why grooming works, and why 'stranger danger' alone is not enough protection.",
+      "memoryHook": "T-Rexy says: most abusers are known and trusted - that is the hard truth.",
+      "tags": [
+        "erins-law",
+        "facts"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_126",
+      "question": "An adult asks a teen to keep their private chats and meetings secret from the teen's parents. This is concerning mainly because:",
+      "correctAnswer": "Secrecy is a core grooming tool - healthy adults do not build hidden relationships with teens; unlike a surprise, which is temporary and meant to be shared, this kind of secret is meant to isolate",
+      "distractors": [
+        "Every secret between any two people is equally dangerous",
+        "It proves abuse has already happened in every case",
+        "Teens should never keep anything at all private from parents"
+      ],
+      "explanation": "The secrets-versus-surprises distinction grows up with students: a surprise party is time-limited and joyful; an adult demanding a hidden relationship is isolating the teen from the people who would protect them - a classic grooming step.",
+      "memoryHook": "T-Rexy says: surprises get shared - isolating secrets are a warning.",
+      "tags": [
+        "erins-law",
+        "grooming",
+        "secrets"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_127",
+      "question": "A coach always texts one teammate privately, gives her rides home alone, and comments on her body. The most accurate reading is:",
+      "correctAnswer": "These are boundary violations and grooming warning signs that should be reported to a trusted adult or administrator, even if no touching has occurred",
+      "distractors": [
+        "Harmless favoritism unless touching occurs",
+        "The teammate's private responsibility to handle alone",
+        "Typical coaching behavior that should not be questioned"
+      ],
+      "explanation": "Grooming is reportable before any contact abuse happens - private messaging, alone time, and body comments from an authority figure are exactly the early pattern Erin's Law teaches students to name and report.",
+      "memoryHook": "T-Rexy says: report the pattern early - you do not wait for worse.",
+      "tags": [
+        "erins-law",
+        "grooming",
+        "warning-signs"
       ],
       "difficulty": "hard",
       "imageUrl": "topic:health"
