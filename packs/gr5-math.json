@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 100,
+  "totalQuestions": 110,
   "addedAt": "2026-11-05",
   "tags": [
     "math",
@@ -2007,6 +2007,206 @@
       "tags": [
         "geometry",
         "perimeter"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_101",
+      "question": "Which tax is taken out of the money a person earns at a job?",
+      "correctAnswer": "Income tax",
+      "distractors": [
+        "Sales tax",
+        "Property tax",
+        "A toll fee"
+      ],
+      "explanation": "Income tax is charged on earnings - the money a person makes by working. Sales tax is added to purchases, and property tax is charged on property a person owns.",
+      "memoryHook": "T-Rexy says: income tax comes from INCOME - the money you earn!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "income-tax"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_102",
+      "question": "You buy a toy priced at $10 and pay $10.80 at the register. The extra $0.80 is:",
+      "correctAnswer": "Sales tax",
+      "distractors": [
+        "Income tax",
+        "Property tax",
+        "A tip for the cashier"
+      ],
+      "explanation": "Sales tax is a percent of the price added when you buy goods. It is charged on the purchase, not on money you earn or property you own.",
+      "memoryHook": "T-Rexy says: the extra bit at the register is sales tax!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "sales-tax"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_103",
+      "question": "A family pays property tax each year mainly on:",
+      "correctAnswer": "The house and land they own",
+      "distractors": [
+        "The groceries they buy",
+        "The paycheck they earn",
+        "The clothes they wear"
+      ],
+      "explanation": "Property tax is a tax on real property - land and buildings a person owns. It is not charged on shopping or on wages.",
+      "memoryHook": "T-Rexy says: property tax is for PROPERTY - houses and land!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "property-tax"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_104",
+      "question": "Jada earned $500 at her job before anything was taken out. That $500 is her:",
+      "correctAnswer": "Gross income",
+      "distractors": [
+        "Net income",
+        "Sales tax",
+        "Budget"
+      ],
+      "explanation": "Gross income is the total amount earned before taxes and other deductions are taken out. Net income is what is left after those deductions.",
+      "memoryHook": "T-Rexy says: GROSS is the whole amount, before anything is taken away!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "gross-income"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_105",
+      "question": "Marco's gross pay is $640. Taxes of $90 are taken out. What is his net pay?",
+      "correctAnswer": "$550",
+      "distractors": [
+        "$730",
+        "$640",
+        "$460"
+      ],
+      "explanation": "Net pay = gross pay - deductions. $640 - $90 = $550. Net pay is the amount the worker actually receives.",
+      "memoryHook": "T-Rexy says: net = gross MINUS what is taken out!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "net-income"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_106",
+      "question": "A budget is balanced when:",
+      "correctAnswer": "Total spending is equal to or less than total income",
+      "distractors": [
+        "Spending is greater than income",
+        "All income is spent on wants first",
+        "Nothing is saved at all"
+      ],
+      "explanation": "Balancing a budget means planning so that the money going out does not pass the money coming in. Any income left over can be saved.",
+      "memoryHook": "T-Rexy says: spending at or below income keeps a budget BALANCED!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "budget"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_107",
+      "question": "The Lee family earns $3,200 a month. Their expenses are rent $1,400, food $700, bills $450, transport $300, and fun $200. How much is left to save?",
+      "correctAnswer": "$150",
+      "distractors": [
+        "$350",
+        "$50",
+        "$250"
+      ],
+      "explanation": "Add the expenses: $1,400 + $700 + $450 + $300 + $200 = $3,050. Subtract from income: $3,200 - $3,050 = $150 left to save.",
+      "memoryHook": "T-Rexy says: add up ALL the expenses first, then subtract from income!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "budget"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_108",
+      "question": "Why is it important to keep financial records, like pay stubs and receipts?",
+      "correctAnswer": "They show what you earned and spent, so you can prove payments and plan a budget",
+      "distractors": [
+        "They are needed to buy groceries",
+        "They make your money grow by themselves",
+        "They take the place of a bank account"
+      ],
+      "explanation": "Good records track money in and money out. They let you check for mistakes, prove that a bill was paid, and build a budget from real numbers.",
+      "memoryHook": "T-Rexy says: records remember your money story - keep them!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "record-keeping"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_109",
+      "question": "A home is taxed at $12 for every $1,000 of its value. The home is worth $150,000. How much property tax is owed?",
+      "correctAnswer": "$1,800",
+      "distractors": [
+        "$180",
+        "$12,000",
+        "$1,200"
+      ],
+      "explanation": "First find how many thousands are in $150,000: 150. Then multiply by the rate: 150 x $12 = $1,800 of property tax.",
+      "memoryHook": "T-Rexy says: count the thousands first - 150 of them - then multiply!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "property-tax"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT5_110",
+      "question": "A worker pays 10% income tax on $2,000 of earnings. How much income tax does she pay?",
+      "correctAnswer": "$200",
+      "distractors": [
+        "$20",
+        "$2,100",
+        "$180"
+      ],
+      "explanation": "Income tax here is 10% of earnings. 10% of $2,000 = 0.10 x $2,000 = $200.",
+      "memoryHook": "T-Rexy says: 10% means one tenth - $2,000 shrinks to a $200 tax!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "income-tax"
       ],
       "difficulty": "hard",
       "dynamic": false,

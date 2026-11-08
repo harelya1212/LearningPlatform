@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 100,
+  "totalQuestions": 110,
   "addedAt": "2026-11-05",
   "tags": [
     "math",
@@ -2009,6 +2009,207 @@
         "commission"
       ],
       "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_101",
+      "question": "Rosa earned $1,500. Her income tax is 12% of her earnings. How much income tax does she pay?",
+      "correctAnswer": "$180",
+      "distractors": [
+        "$18",
+        "$120",
+        "$1,320"
+      ],
+      "explanation": "Income tax is a percent of earned wages: 12% of $1,500 = 0.12 x $1,500 = $180. Sales tax is different - it is charged on purchases, not on pay.",
+      "memoryHook": "T-Rexy says: income tax is a percent of what you EARN!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "income-tax"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_102",
+      "question": "Devon's gross pay is $2,400. He pays 15% in income tax and $60 in other deductions. What is his net pay?",
+      "correctAnswer": "$1,980",
+      "distractors": [
+        "$2,040",
+        "$1,860",
+        "$2,340"
+      ],
+      "explanation": "First the tax: 15% of $2,400 = $360. Then subtract all deductions: $2,400 - $360 - $60 = $1,980 of net pay.",
+      "memoryHook": "T-Rexy says: tax first, then the rest - net is what lands in your pocket!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "income-tax",
+        "net-income"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_103",
+      "question": "Which list shows the main parts of a personal budget?",
+      "correctAnswer": "Income, fixed expenses, variable expenses, and savings",
+      "distractors": [
+        "Only wants and wishes",
+        "Credit cards and loans",
+        "Prices and discounts"
+      ],
+      "explanation": "A personal budget plans around money coming in (income), costs that stay the same (fixed), costs that change (variable), and money set aside (savings).",
+      "memoryHook": "T-Rexy says: a budget has four corners - income, fixed, variable, savings!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "budget"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_104",
+      "question": "In a net worth statement, liabilities are:",
+      "correctAnswer": "Amounts you owe to others",
+      "distractors": [
+        "Things of value that you own",
+        "Money you earn each month",
+        "Taxes you paid last year"
+      ],
+      "explanation": "Liabilities are debts - what you owe. Assets are the opposite: things of value that you own. Net worth compares the two.",
+      "memoryHook": "T-Rexy says: liabilities are what you OWE - assets are what you OWN!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "net-worth"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_105",
+      "question": "Ana's assets are a savings account of $1,200 and a bike worth $300. Her only liability is $250 owed on a credit card. What is her net worth?",
+      "correctAnswer": "$1,250",
+      "distractors": [
+        "$1,500",
+        "$950",
+        "$1,750"
+      ],
+      "explanation": "Add the assets: $1,200 + $300 = $1,500. Subtract the liabilities: $1,500 - $250 = $1,250. Net worth = assets - liabilities.",
+      "memoryHook": "T-Rexy says: net worth = everything you own MINUS everything you owe!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "net-worth"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_106",
+      "question": "$1,000 invested at 10% for 2 years earns $200 with simple interest, but $210 with compound interest. With compound interest, the extra money comes from earning interest on:",
+      "correctAnswer": "The interest earned in year 1",
+      "distractors": [
+        "New money you deposit in year 2",
+        "Bank fees",
+        "The tax you paid"
+      ],
+      "explanation": "Simple interest is paid only on the original $1,000: $100 each year. Compound interest also pays on past interest - in year 2, 10% of $1,100 is $110, so the total is $210.",
+      "memoryHook": "T-Rexy says: compound interest earns interest ON interest - it snowballs!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "compound-interest"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_107",
+      "question": "A jacket costs $75. A rebate offers $15 back, and a coupon offers 10% off. Which deal saves more money?",
+      "correctAnswer": "The $15 rebate",
+      "distractors": [
+        "The 10% coupon",
+        "Both save exactly the same",
+        "Neither saves anything"
+      ],
+      "explanation": "The coupon saves 10% of $75 = $7.50. The rebate saves $15, which is more. Always turn percents into dollars before comparing incentives.",
+      "memoryHook": "T-Rexy says: turn every percent into dollars, THEN compare the deals!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "incentives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_108",
+      "question": "A coupon, a store sale, and a mail-in rebate are all examples of:",
+      "correctAnswer": "Monetary incentives that encourage people to buy",
+      "distractors": [
+        "Types of income tax",
+        "Parts of a net worth statement",
+        "Kinds of bank accounts"
+      ],
+      "explanation": "Incentives are money-based reasons to act. Sellers use sales, coupons, and rebates to encourage customers to buy now or buy more.",
+      "memoryHook": "T-Rexy says: sales, coupons, rebates - all are money incentives!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "incentives"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_109",
+      "question": "A family plans its budget as percents of its $4,000 monthly income: housing 30%, food 15%, savings 10%. How much do they plan for housing and food together?",
+      "correctAnswer": "$1,800",
+      "distractors": [
+        "$1,200",
+        "$600",
+        "$2,200"
+      ],
+      "explanation": "Housing is 30% of $4,000 = $1,200. Food is 15% of $4,000 = $600. Together: $1,200 + $600 = $1,800.",
+      "memoryHook": "T-Rexy says: find each percent in dollars, then add them up!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "budget"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT7_110",
+      "question": "A paycheck shows gross pay of $900 and net pay of $765 after income tax. What percent of the gross pay was taken as income tax?",
+      "correctAnswer": "15%",
+      "distractors": [
+        "85%",
+        "10%",
+        "20%"
+      ],
+      "explanation": "The tax taken is $900 - $765 = $135. As a percent of gross pay: $135 / $900 = 0.15, which is 15%.",
+      "memoryHook": "T-Rexy says: tax divided by gross pay gives the tax percent!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "income-tax"
+      ],
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     }

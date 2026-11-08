@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 100,
+  "totalQuestions": 110,
   "addedAt": "2026-11-05",
   "tags": [
     "math",
@@ -2007,6 +2007,206 @@
       "tags": [
         "ratios",
         "unit-rate"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_101",
+      "question": "Money kept in a checking account can be spent using:",
+      "correctAnswer": "A debit card or checks",
+      "distractors": [
+        "A credit report",
+        "A loan",
+        "A paycheck stub"
+      ],
+      "explanation": "A checking account holds your own money for everyday spending. You reach it with a debit card or by writing checks.",
+      "memoryHook": "T-Rexy says: checking accounts are for spending YOUR money - by card or check!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "checking-account"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_102",
+      "question": "When you pay with a debit card, the money comes from:",
+      "correctAnswer": "Your own bank account right away",
+      "distractors": [
+        "Money you borrow from the bank",
+        "Your future paycheck",
+        "The store's account"
+      ],
+      "explanation": "A debit card takes money straight out of your bank account. A credit card is different - it lets you borrow and pay later.",
+      "memoryHook": "T-Rexy says: DEBIT means your dollars, right now!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "debit-card"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_103",
+      "question": "Sara's check register shows a balance of $215. She writes a check for $40 and then deposits $60. What is her new balance?",
+      "correctAnswer": "$235",
+      "distractors": [
+        "$195",
+        "$215",
+        "$315"
+      ],
+      "explanation": "Start with $215. Subtract the check: $215 - $40 = $175. Add the deposit: $175 + $60 = $235. Keeping the register up to date is how you always know your balance.",
+      "memoryHook": "T-Rexy says: checks subtract, deposits add - track every move!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "check-register"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_104",
+      "question": "A person's credit history is:",
+      "correctAnswer": "A record of how they have borrowed money and paid it back",
+      "distractors": [
+        "A list of every job they have held",
+        "A plan for saving money",
+        "A secret bank password"
+      ],
+      "explanation": "Credit history tracks borrowing and repayment over time. Lenders look at it to judge whether a person pays back money as promised.",
+      "memoryHook": "T-Rexy says: your credit history is your borrowing report card!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "credit-history"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_105",
+      "question": "Which of these would most likely HURT a credit report?",
+      "correctAnswer": "Paying bills late or missing payments",
+      "distractors": [
+        "Paying every bill on time",
+        "Keeping good money records",
+        "Saving a little each month"
+      ],
+      "explanation": "A credit report records late and missed payments, and they lower how lenders judge you. Paying on time builds a strong report instead.",
+      "memoryHook": "T-Rexy says: late payments leave a mark - pay on time, every time!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "credit-report"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_106",
+      "question": "Ben buys a $300 bike with a credit card and pays it off over 6 months, paying interest along the way. Compared with paying by debit card, Ben will:",
+      "correctAnswer": "Pay more than $300 in total",
+      "distractors": [
+        "Pay less than $300",
+        "Pay exactly $300",
+        "Pay nothing at all"
+      ],
+      "explanation": "Credit card balances charge interest when they are not paid off right away. The bike still costs $300, but the interest adds extra cost on top.",
+      "memoryHook": "T-Rexy says: borrowed money grows a tail called interest!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "credit-card"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_107",
+      "question": "Which is a way to pay for college WITHOUT borrowing money?",
+      "correctAnswer": "Saving regularly over time and applying for scholarships",
+      "distractors": [
+        "Taking out the largest loan possible",
+        "Charging tuition to a credit card",
+        "Skipping payments until graduation"
+      ],
+      "explanation": "Families can prepare for college by saving a little at a time and by earning scholarships or grants, which do not have to be paid back. Loans must be repaid, usually with interest.",
+      "memoryHook": "T-Rexy says: save early, hunt scholarships - college without debt!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "paying-for-college"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_108",
+      "question": "Job A needs a high school diploma and pays $34,000 a year. Job B needs a college degree and pays $58,000 a year. How much more does Job B pay over 10 years?",
+      "correctAnswer": "$240,000",
+      "distractors": [
+        "$24,000",
+        "$92,000",
+        "$2,400"
+      ],
+      "explanation": "The yearly difference is $58,000 - $34,000 = $24,000. Over 10 years that is $24,000 x 10 = $240,000. Education level can change lifetime earnings a lot.",
+      "memoryHook": "T-Rexy says: subtract the salaries, then multiply by the years!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "income-and-education"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_109",
+      "question": "Why should you check your bank statement or check register regularly?",
+      "correctAnswer": "To catch mistakes and know exactly how much money you have",
+      "distractors": [
+        "To make the bank pay you interest",
+        "To raise your credit card limit",
+        "To stop paying taxes"
+      ],
+      "explanation": "Reviewing your statement against your register catches errors and surprise charges early, and it keeps your balance honest so you never spend money you do not have.",
+      "memoryHook": "T-Rexy says: check your records - surprises are for birthdays, not bank accounts!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "check-register"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MAT6_110",
+      "question": "College will cost Maya about $24,000. Her family saves $200 each month. Ignoring interest, how many months must they save to reach $24,000?",
+      "correctAnswer": "120 months",
+      "distractors": [
+        "12 months",
+        "24 months",
+        "100 months"
+      ],
+      "explanation": "Divide the goal by the monthly saving: $24,000 / $200 = 120 months - that is 10 years of steady saving.",
+      "memoryHook": "T-Rexy says: goal divided by monthly saving tells you the months!",
+      "imageUrl": "topic:math",
+      "tags": [
+        "financial-literacy",
+        "paying-for-college"
       ],
       "difficulty": "hard",
       "dynamic": false,

@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 100,
+  "totalQuestions": 110,
   "addedAt": "2026-11-05",
   "tags": [
     "math",
@@ -1953,6 +1953,211 @@
         "mean"
       ],
       "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_101",
+      "question": "When you borrow money with a loan, interest is:",
+      "correctAnswer": "The extra money you pay the lender for using their money",
+      "distractors": [
+        "A gift from the bank",
+        "A refund of your taxes",
+        "Free money with no cost"
+      ],
+      "explanation": "Interest is the price of borrowing. You repay the amount borrowed plus interest, so a loan always costs more than the amount you received.",
+      "memoryHook": "T-Rexy says: interest is the rental fee for borrowed money!",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "financial-literacy",
+        "loans",
+        "interest"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_102",
+      "question": "Two loans each borrow $1,000 at the same interest rate. Loan A is repaid in 1 year and Loan B in 4 years. Which loan costs more in total interest?",
+      "correctAnswer": "Loan B, the 4-year loan",
+      "distractors": [
+        "Loan A, the 1-year loan",
+        "Both cost exactly the same",
+        "Neither loan has interest"
+      ],
+      "explanation": "Interest grows with time. The longer money is borrowed, the more interest builds up, so stretching a loan over 4 years costs more in total than repaying in 1 year.",
+      "memoryHook": "T-Rexy says: more time borrowed means more interest paid!",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "financial-literacy",
+        "loans",
+        "interest"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_103",
+      "question": "You charge a $500 purchase on a credit card and pay it off slowly, paying $120 in interest before the balance is gone. What is the total cost of the purchase?",
+      "correctAnswer": "$620",
+      "distractors": [
+        "$500",
+        "$380",
+        "$512"
+      ],
+      "explanation": "The real cost of a credit purchase is the price plus the interest: $500 + $120 = $620. Paying slowly makes everything you buy more expensive.",
+      "memoryHook": "T-Rexy says: total cost = price PLUS interest - count both!",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "financial-literacy",
+        "credit-cards"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_104",
+      "question": "Saving or investing a small amount every month for many years works well mainly because:",
+      "correctAnswer": "The money has a long time to grow",
+      "distractors": [
+        "Banks double it every month",
+        "It removes every risk",
+        "It means you never pay taxes again"
+      ],
+      "explanation": "Regular small deposits add up, and time lets interest and growth build on them. Starting early gives money more years to grow, whether the goal is college or retirement.",
+      "memoryHook": "T-Rexy says: small amounts plus LONG time grow big results!",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "financial-literacy",
+        "saving",
+        "investing"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_105",
+      "question": "$2,000 is invested at 5% compound interest. After year 1 it is worth $2,100. How much interest is earned in year 2?",
+      "correctAnswer": "$105",
+      "distractors": [
+        "$100",
+        "$110",
+        "$200"
+      ],
+      "explanation": "Compound interest is charged on the new, bigger balance: 5% of $2,100 = $105. That is $5 more than year 1, because year 1's interest is now earning interest too.",
+      "memoryHook": "T-Rexy says: year 2 pays 5% of the BIGGER pile - that is compounding!",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "financial-literacy",
+        "compound-interest"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_106",
+      "question": "The key difference between simple interest and compound interest is:",
+      "correctAnswer": "Compound interest pays interest on the original amount AND on interest already earned",
+      "distractors": [
+        "Simple interest is always higher",
+        "Compound interest is used only for loans",
+        "There is no real difference"
+      ],
+      "explanation": "Simple interest is figured only on the starting amount. Compound interest is figured on the starting amount plus all the interest added so far, so growth speeds up over time.",
+      "memoryHook": "T-Rexy says: simple pays on the start - compound pays on the start PLUS the growth!",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "financial-literacy",
+        "interest"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_107",
+      "question": "A retirement account is designed to:",
+      "correctAnswer": "Hold savings and investments that grow over a working life and are used after you stop working",
+      "distractors": [
+        "Pay for daily shopping",
+        "Replace a checking account",
+        "Lend your money to a bank for free"
+      ],
+      "explanation": "Retirement accounts collect regular contributions during the years a person works. Decades of growth turn those steady deposits into income for the years after work ends.",
+      "memoryHook": "T-Rexy says: retirement accounts are long-game savings for future you!",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "financial-literacy",
+        "retirement"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_108",
+      "question": "Four years of college will cost about $60,000. A family starts saving 10 years before college starts. Ignoring interest, how much must they save each year to reach the goal?",
+      "correctAnswer": "$6,000 per year",
+      "distractors": [
+        "$600 per year",
+        "$60,000 per year",
+        "$1,500 per year"
+      ],
+      "explanation": "Spread the goal over the years available: $60,000 / 10 = $6,000 per year. A written savings plan turns a huge goal into a yearly target.",
+      "memoryHook": "T-Rexy says: big goal divided by years left gives the yearly target!",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "financial-literacy",
+        "saving",
+        "college-costs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_109",
+      "question": "Paying for a $240 purchase with cash you saved, instead of a credit card paid off over several months, usually costs less because:",
+      "correctAnswer": "You avoid paying interest on the purchase",
+      "distractors": [
+        "Stores charge double for credit cards",
+        "Cash is worth more than the same dollars on a card",
+        "Credit cards add a tax to every purchase"
+      ],
+      "explanation": "When a card balance is carried month to month, interest is added to the price. Paying with saved cash ends the purchase at $240 - no interest on top.",
+      "memoryHook": "T-Rexy says: compare payment methods by TOTAL cost, not just price!",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "financial-literacy",
+        "credit-cards",
+        "payment-methods"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PAL8_110",
+      "question": "Which choice shows financial responsibility?",
+      "correctAnswer": "Comparing the total cost of a loan, including interest, before you borrow",
+      "distractors": [
+        "Borrowing the largest amount a lender offers",
+        "Buying the first option you see",
+        "Ignoring the interest rate"
+      ],
+      "explanation": "Responsible borrowers look past the monthly payment to the full cost - the amount borrowed plus all the interest - and choose the option they can truly afford.",
+      "memoryHook": "T-Rexy says: responsible money moves start with the TOTAL cost!",
+      "imageUrl": "topic:pre-algebra",
+      "tags": [
+        "financial-literacy",
+        "financial-responsibility"
+      ],
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     }
