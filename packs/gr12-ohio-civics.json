@@ -1,0 +1,2704 @@
+{
+  "packId": "gr12-ohio-civics",
+  "title": "Ohio Civics & Government (12th Grade)",
+  "description": "Ohio Civics & Government (12th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-08",
+  "tags": [
+    "ohio",
+    "civics",
+    "grade-12"
+  ],
+  "questions": [
+    {
+      "id": "OHC12_001",
+      "question": "A city council cancels a scheduled election and announces its members will serve indefinitely. Which constitutional principle is most directly violated by this action?",
+      "correctAnswer": "Popular sovereignty, because governing authority ultimately rests with the people",
+      "distractors": [
+        "Federalism, because elections are reserved exclusively to the states",
+        "Separation of powers, because councils may not exercise executive authority",
+        "Judicial review, because only courts may set election dates"
+      ],
+      "difficulty": "easy",
+      "explanation": "Popular sovereignty means the people are the source of all political power and grant authority to government through elections and constitutions. Removing elections severs that consent and allows rulers to govern without the people's authorization.",
+      "memoryHook": "T-Rexy says: If the people cannot choose, the people do not rule - popular sovereignty starts with the vote.",
+      "tags": [
+        "popular-sovereignty",
+        "principles",
+        "consent"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of diverse adult citizens placing ballots into a transparent ballot box in front of a neoclassical courthouse at dawn, emphasizing civic authority rising from the people. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Popular sovereignty means power comes from the people, not from rulers themselves.",
+        "title": "POWER FROM PEOPLE"
+      }
+    },
+    {
+      "id": "OHC12_002",
+      "question": "Police search a home without a warrant or probable cause, and a judge excludes the evidence. How does this outcome illustrate limited government and the rule of law?",
+      "correctAnswer": "Government officials must follow the Constitution even when enforcing the law",
+      "distractors": [
+        "Judges can create new criminal laws when police make mistakes",
+        "The Fourth Amendment applies only to federal officers, not local police",
+        "Evidence is excluded because trials require unanimous jury verdicts"
+      ],
+      "difficulty": "easy",
+      "explanation": "Limited government means officials possess only powers granted by law and remain bound by constitutional restrictions. The rule of law applies that standard to everyone, including those charged with enforcing it, so unlawful searches have legal consequences.",
+      "memoryHook": "T-Rexy says: Even the enforcers have limits - the Constitution binds the government first.",
+      "tags": [
+        "limited-government",
+        "rule-of-law",
+        "fourth-amendment"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a judge's gavel resting beside balanced scales in a wood-paneled courtroom, with a closed door and shield symbolizing constitutional limits on searches. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Limited government means officials must obey the Constitution while doing their jobs.",
+        "title": "LAW BINDS GOVERNMENT"
+      }
+    },
+    {
+      "id": "OHC12_003",
+      "question": "Congress passes a statute, the president enforces it, and a federal court interprets its meaning in a dispute. This sequence best demonstrates which structural principle?",
+      "correctAnswer": "Separation of powers among three distinct branches",
+      "distractors": [
+        "Federalism dividing authority between national and state governments",
+        "Direct democracy through national referendums",
+        "Judicial supremacy over all legislative decisions"
+      ],
+      "difficulty": "easy",
+      "explanation": "Separation of powers assigns lawmaking to the legislature, execution to the executive, and interpretation to the judiciary. Keeping those functions in different institutions reduces the concentration of power in any single set of hands.",
+      "memoryHook": "T-Rexy says: Make, enforce, interpret - three jobs, three branches, by design.",
+      "tags": [
+        "separation-of-powers",
+        "branches",
+        "constitution"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of three distinct classical buildings arranged in a triangle, one with legislative columns, one executive residence style, and one courthouse, connected by balanced pathways. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Legislative makes laws, executive enforces them, judicial interprets them.",
+        "title": "THREE SEPARATE BRANCHES"
+      }
+    },
+    {
+      "id": "OHC12_004",
+      "question": "The Senate refuses to confirm a presidential nominee for a federal judgeship, and the president responds by vetoing a bill the Senate majority supports. What does this exchange illustrate?",
+      "correctAnswer": "Checks and balances allow each branch to restrain the others",
+      "distractors": [
+        "The Senate has final authority over all judicial appointments without exception",
+        "A presidential veto can be overturned only by the Supreme Court",
+        "Confirmation disputes must be settled by state governors"
+      ],
+      "difficulty": "medium",
+      "explanation": "Checks and balances give each branch tools to limit the others, such as Senate confirmation of nominees and the presidential veto of legislation. The friction is intentional, forcing negotiation and preventing unilateral control.",
+      "memoryHook": "T-Rexy says: A veto answers a blocked nomination - each branch holds a brake on the others.",
+      "tags": [
+        "checks-and-balances",
+        "veto",
+        "confirmation"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two opposing brass levers and interlocking gears in a government chamber, symbolizing mutual restraint between executive and legislative power. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Checks and balances means each branch can block or limit another branch.",
+        "title": "MUTUAL RESTRAINTS AT WORK"
+      }
+    },
+    {
+      "id": "OHC12_005",
+      "question": "The federal government negotiates a treaty, a state issues driver's licenses, and both levels levy income taxes. Sorting these powers correctly shows that treaty-making is delegated, licensing is reserved, and taxation is what type of power?",
+      "correctAnswer": "Concurrent, because both national and state governments may exercise it",
+      "distractors": [
+        "Implied, because taxation is never mentioned in the Constitution",
+        "Reserved, because only states may collect revenue",
+        "Exclusive federal, because states act only with congressional permission"
+      ],
+      "difficulty": "medium",
+      "explanation": "Under federalism, delegated powers belong to the national government, reserved powers remain with the states under the Tenth Amendment, and concurrent powers such as taxation are shared. The same taxing action by both levels is a classic concurrent example.",
+      "memoryHook": "T-Rexy says: Both levels tax, so taxation is concurrent - shared on purpose.",
+      "tags": [
+        "federalism",
+        "concurrent-powers",
+        "tenth-amendment"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a two-layer government diagram shown visually as a large national capitol above and smaller state capitol below sharing a common foundation of coins and documents. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Concurrent powers are exercised by both federal and state governments, like taxation.",
+        "title": "SHARED TAXING POWER"
+      }
+    },
+    {
+      "id": "OHC12_006",
+      "question": "In Marbury v. Madison (1803), Chief Justice John Marshall faced a politically charged dispute over a judicial commission. Why did the Court's ruling endure as a landmark?",
+      "correctAnswer": "It established judicial review, the power to strike down laws that conflict with the Constitution",
+      "distractors": [
+        "It gave the president authority to appoint judges without Senate consent",
+        "It declared that federal courts may write legislation when Congress is deadlocked",
+        "It expanded the Court's original jurisdiction beyond what the Constitution allows"
+      ],
+      "difficulty": "medium",
+      "explanation": "Marbury v. Madison asserted that it is the judiciary's duty to say what the law is and to refuse to enforce statutes repugnant to the Constitution. That claim created judicial review, a central check on the other branches.",
+      "memoryHook": "T-Rexy says: Marbury made review real - courts can void laws that violate the Constitution.",
+      "tags": [
+        "judicial-review",
+        "marbury-v-madison",
+        "supreme-court"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an early American courtroom with robed justices reviewing a sealed commission document by candlelight, conveying the Marbury decision era. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Marbury v. Madison in 1803 established judicial review.",
+        "title": "MARBURY ESTABLISHES REVIEW"
+      }
+    },
+    {
+      "id": "OHC12_007",
+      "question": "At the Constitutional Convention, Virginia wanted representation based on population while New Jersey wanted equal representation for every state. How was the deadlock resolved?",
+      "correctAnswer": "The Great Compromise created a bicameral Congress with a population-based House and an equal-representation Senate",
+      "distractors": [
+        "Delegates adopted a unicameral legislature with representation by wealth",
+        "The convention postponed the issue for the first Congress to decide",
+        "Each state received representation based on its land area"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Great Compromise, also called the Connecticut Compromise, blended the Virginia and New Jersey plans. It produced the two-chamber structure still used today, balancing the interests of large and small states.",
+      "memoryHook": "T-Rexy says: House by population, Senate by equality - the compromise built both.",
+      "tags": [
+        "great-compromise",
+        "constitutional-convention",
+        "congress"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of delegates in 18th-century dress shaking hands between two contrasting chamber models, one large hall with many seats and one smaller hall with equal groupings. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Great Compromise paired a population-based House with an equal Senate.",
+        "title": "CONNECTICUT COMPROMISE BREAKTHROUGH"
+      }
+    },
+    {
+      "id": "OHC12_008",
+      "question": "An Anti-Federalist pamphleteer warns that the proposed Constitution lacks explicit protections and creates a distant, powerful central government. Which concern most accurately captures the Anti-Federalist position?",
+      "correctAnswer": "A strong national government without a bill of rights could threaten individual liberty and state authority",
+      "distractors": [
+        "The Constitution gave too little power to the national government to tax",
+        "Federalists and Anti-Federalists agreed that no executive branch was needed",
+        "Anti-Federalists opposed any written constitution at the state level"
+      ],
+      "difficulty": "medium",
+      "explanation": "Federalists argued a stronger union was necessary and that structural limits protected liberty. Anti-Federalists countered that consolidation endangered freedom and demanded explicit rights protections and greater safeguards for the states.",
+      "memoryHook": "T-Rexy says: Anti-Federalists feared distance plus power - they demanded rights in writing.",
+      "tags": [
+        "federalists",
+        "anti-federalists",
+        "ratification-debate"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two printing presses facing each other in a colonial print shop, with pamphlets and quills on opposing tables suggesting a public debate over ratification. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Anti-Federalists wanted a bill of rights and feared an overly powerful central government.",
+        "title": "RATIFICATION DEBATE INTENSIFIES"
+      }
+    },
+    {
+      "id": "OHC12_009",
+      "question": "Several state conventions ratified the Constitution only after Federalists pledged to add amendments soon after the new government began. Why was that pledge politically essential?",
+      "correctAnswer": "Promising a Bill of Rights persuaded skeptical states and citizens that individual liberties would be explicitly protected",
+      "distractors": [
+        "Ratification legally required unanimous approval from all thirteen states",
+        "The pledge guaranteed that states could nullify any federal law",
+        "Federalists promised to abolish the presidency within the first term"
+      ],
+      "difficulty": "medium",
+      "explanation": "Ratification needed approval from nine of thirteen states, and opposition centered heavily on the absence of a bill of rights. The Federalist promise to propose amendments helped secure key states and led to the first ten amendments in 1791.",
+      "memoryHook": "T-Rexy says: No rights listed, no deal - the Bill of Rights promise closed ratification.",
+      "tags": [
+        "bill-of-rights",
+        "ratification",
+        "federalists"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of state convention delegates gathered around a long table with a rolled parchment and an additional scroll being presented as a promised set of protections. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A promised Bill of Rights helped win ratification in closely divided states.",
+        "title": "RIGHTS PROMISE SECURES RATIFICATION"
+      }
+    },
+    {
+      "id": "OHC12_010",
+      "question": "A proposed amendment passes both houses of Congress by two-thirds and is then approved by legislatures in three-fourths of the states. Why does this demanding Article V process matter for constitutional stability?",
+      "correctAnswer": "It requires broad national consensus so the fundamental law cannot be changed by temporary majorities",
+      "distractors": [
+        "It allows the president to amend the Constitution after congressional approval",
+        "It permits a simple majority of voters in a national referendum to amend the Constitution",
+        "It requires approval from the Supreme Court before states may vote"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article V deliberately sets supermajority thresholds at both the proposal and ratification stages. That difficulty preserves stability while still allowing change when support is broad, sustained, and geographically widespread.",
+      "memoryHook": "T-Rexy says: Two-thirds to propose, three-fourths to ratify - amendments need consensus, not impulse.",
+      "tags": [
+        "article-v",
+        "amendment-process",
+        "constitution"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a heavy stone archway being built cooperatively by representatives from many regions, symbolizing the broad consensus needed to amend a foundational structure. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Article V requires two-thirds of Congress to propose and three-fourths of states to ratify.",
+        "title": "DELIBERATE AMENDMENT PROCESS"
+      }
+    },
+    {
+      "id": "OHC12_011",
+      "question": "No amendment created political parties, the cabinet, or judicial review in so many words, yet all three shape how the Constitution operates today. What form of constitutional change does this pattern represent?",
+      "correctAnswer": "Informal change through interpretation, custom, and established practice over time",
+      "distractors": [
+        "Formal amendment under Article V ratified by state conventions",
+        "Nullification of constitutional provisions by state legislatures",
+        "Executive orders that permanently rewrite constitutional text"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Constitution changes in practice not only through Article V amendments but also through judicial interpretation, congressional statutes, executive practice, and long-standing customs. Parties, the cabinet, and many working conventions developed through this informal process.",
+      "memoryHook": "T-Rexy says: Practice reshapes government without rewriting the text - that is informal change.",
+      "tags": [
+        "informal-change",
+        "interpretation",
+        "constitutional-practice"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an old parchment foundation with modern government practices layered above it as translucent overlays of a cabinet meeting and party convention, showing evolution without altering the base document. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Informal change happens through interpretation, custom, and practice, not Article V.",
+        "title": "CHANGE WITHOUT AMENDMENT"
+      }
+    },
+    {
+      "id": "OHC12_012",
+      "question": "A student reads that the government should form a more perfect union, establish justice, insure domestic tranquility, and promote the general welfare. Where do these stated purposes appear, and what is their function?",
+      "correctAnswer": "In the Preamble, where they state the goals and reasons for the Constitution",
+      "distractors": [
+        "In Article III, where they define the jurisdiction of federal courts",
+        "In the Tenth Amendment, where they reserve powers to the states",
+        "In the Declaration of Independence, where they list grievances against the king"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Preamble introduces the Constitution and announces its purposes, from union and justice to defense, welfare, and liberty. It does not grant powers by itself, but it frames why the government was created and for whom.",
+      "memoryHook": "T-Rexy says: The Preamble is the mission statement - purposes first, powers after.",
+      "tags": [
+        "preamble",
+        "constitution",
+        "purposes"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an open foundational document on a lectern with symbolic imagery above it of scales, a shield, farmland, and a torch representing justice, defense, welfare, and liberty. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Preamble states the purposes of the Constitution but grants no powers itself.",
+        "title": "PREAMBLE STATES PURPOSES"
+      }
+    },
+    {
+      "id": "OHC12_013",
+      "question": "Thomas Jefferson wrote that governments derive their just powers from the consent of the governed and that people retain unalienable rights to life, liberty, and the pursuit of happiness. Which document and theory do these claims express?",
+      "correctAnswer": "The Declaration of Independence, grounded in natural rights theory",
+      "distractors": [
+        "The Articles of Confederation, grounded in hereditary monarchy",
+        "The Federalist Papers, grounded in judicial supremacy",
+        "The Bill of Rights, grounded in parliamentary sovereignty"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Declaration of Independence justified separation from Britain using natural rights philosophy associated with Locke. It argued legitimate government rests on consent and exists to secure rights people possess by nature.",
+      "memoryHook": "T-Rexy says: Rights come first, government by consent second - that is the Declaration's logic.",
+      "tags": [
+        "declaration-of-independence",
+        "natural-rights",
+        "consent"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a quill resting beside an inkwell and a rising sun over a colonial harbor, evoking the writing of a declaration of independence and a new political beginning. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Declaration rests on natural rights and consent of the governed.",
+        "title": "NATURAL RIGHTS DECLARED"
+      }
+    },
+    {
+      "id": "OHC12_014",
+      "question": "Under the Articles of Confederation, Congress could not levy taxes, lacked an executive to enforce its decisions, and needed nine states to pass major laws. Why did these features push leaders toward a new constitution?",
+      "correctAnswer": "The national government was too weak to raise revenue, enforce laws, or act decisively",
+      "distractors": [
+        "The Articles created a presidency that routinely overrode state governments",
+        "State governments had been abolished and could not provide services",
+        "Congress could amend the Articles by a simple majority vote at any time"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Articles preserved state sovereignty at the cost of national effectiveness, leaving Congress dependent on state contributions it could not compel. Events such as unpaid debts and Shays' Rebellion exposed the need for a stronger framework.",
+      "memoryHook": "T-Rexy says: No tax power, no executive, no enforcement - weakness was the Articles' flaw.",
+      "tags": [
+        "articles-of-confederation",
+        "weaknesses",
+        "confederation"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a fragile rope bridge with missing planks spanning a river between separate state houses, symbolizing a weak confederation unable to hold together effectively. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Articles failed largely because Congress could not tax or enforce its decisions.",
+        "title": "CONFEDERATION TOO WEAK"
+      }
+    },
+    {
+      "id": "OHC12_015",
+      "question": "A senior who cannot vote in the next election still attends a school board meeting, volunteers for a voter registration drive, and contacts a representative about a bill. What does this example show about civic involvement?",
+      "correctAnswer": "Civic involvement includes many forms of participation beyond casting a ballot",
+      "distractors": [
+        "Only citizens of voting age can lawfully contact public officials",
+        "Attending public meetings is a substitute that eliminates the need for elections",
+        "Volunteering for a campaign is prohibited for high school students"
+      ],
+      "difficulty": "easy",
+      "explanation": "Voting is central, but civic involvement also includes attending meetings, contacting officials, volunteering, serving on juries, staying informed, and joining community efforts. These actions influence decisions between elections and strengthen democratic accountability.",
+      "memoryHook": "T-Rexy says: Democracy runs between elections too - show up, speak up, help register voters.",
+      "tags": [
+        "civic-involvement",
+        "participation",
+        "beyond-voting"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of community members of varied ages speaking at microphones in a public meeting room while others register voters at a table nearby. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Civic involvement includes meetings, contacting officials, and volunteering, not just voting.",
+        "title": "PARTICIPATION BEYOND VOTING"
+      }
+    },
+    {
+      "id": "OHC12_016",
+      "question": "Two websites make opposite claims about a new state law. One cites the enacted statute, names its author, and links to primary documents; the other is anonymous, uses loaded language, and offers no sources. Applying credibility evaluation, what should a careful reader conclude?",
+      "correctAnswer": "The sourced, attributed site is more credible, though its claims should still be cross-checked",
+      "distractors": [
+        "The anonymous site is more credible because it is free from institutional bias",
+        "Both sites are equally credible if they are shared widely on social media",
+        "Credibility depends only on which site was published more recently"
+      ],
+      "difficulty": "medium",
+      "explanation": "Evaluating sources requires checking authorship, evidence, primary documentation, tone, and corroboration by independent outlets. A transparent, source-based account earns greater trust, but verification against the actual law remains the strongest check.",
+      "memoryHook": "T-Rexy says: Named author plus primary sources plus calm tone - check all three before you trust.",
+      "tags": [
+        "source-credibility",
+        "civic-skills",
+        "media-literacy"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a student at a desk comparing two laptop screens with a magnifying glass over one screen showing documents and citations, suggesting careful source evaluation. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Judge credibility by authorship, evidence, and corroboration, not by shares or tone alone.",
+        "title": "EVALUATE SOURCE CREDIBILITY"
+      }
+    },
+    {
+      "id": "OHC12_017",
+      "question": "Residents peacefully gather in a public park and circulate a petition asking the city to repair a recreation center. Which First Amendment freedoms are they exercising?",
+      "correctAnswer": "Freedom of assembly and the right to petition the government for redress of grievances",
+      "distractors": [
+        "Freedom from unreasonable searches and the right to a speedy trial",
+        "The establishment clause and the free exercise of religion only",
+        "The right to bear arms and protection against quartering soldiers"
+      ],
+      "difficulty": "easy",
+      "explanation": "The First Amendment protects speech, press, assembly, and petition as connected tools of civic expression. Peaceful gatherings and petitions allow citizens to organize collectively and press government to respond without fear of punishment for the viewpoint expressed.",
+      "memoryHook": "T-Rexy says: Gather peacefully and petition formally - the First Amendment protects both moves.",
+      "tags": [
+        "first-amendment",
+        "petition",
+        "assembly"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a peaceful crowd gathered in a public park holding blank placards and passing a clipboard from person to person in an orderly assembly. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Assembly and petition are both protected by the First Amendment.",
+        "title": "ASSEMBLY AND PETITION"
+      }
+    },
+    {
+      "id": "OHC12_018",
+      "question": "Research finds that teenagers whose parents discuss politics and vote regularly are far more likely to vote as adults, even after accounting for income and education. Which concept best explains this pattern?",
+      "correctAnswer": "Political socialization, especially the family's role as an early agent",
+      "distractors": [
+        "Political efficacy measured through scientific polling samples",
+        "Gerrymandering of congressional districts over time",
+        "Retrospective voting based on recent economic performance"
+      ],
+      "difficulty": "medium",
+      "explanation": "Political socialization is the process by which people acquire political values, knowledge, and habits. Family is typically the earliest and most influential agent, with peers, schools, and media shaping attitudes later.",
+      "memoryHook": "T-Rexy says: Politics is learned early at home first - family is socialization agent number one.",
+      "tags": [
+        "political-socialization",
+        "family",
+        "civic-habits"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a family at a kitchen table discussing current events with a newspaper and a tablet present while a teenager listens and asks a question. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Family is usually the first and strongest agent of political socialization.",
+        "title": "FAMILY SHAPES POLITICS"
+      }
+    },
+    {
+      "id": "OHC12_019",
+      "question": "A poll of 400 self-selected website visitors reports a candidate at 70 percent, while a scientific poll of 1,200 randomly sampled likely voters reports 48 percent with a margin of error of plus or minus 3 points. Why is the second result more trustworthy for measuring public opinion?",
+      "correctAnswer": "Random sampling of a defined population allows results to be generalized within a known margin of error",
+      "distractors": [
+        "Larger samples are always accurate regardless of how respondents are chosen",
+        "Self-selected polls are more accurate because respondents care more about the issue",
+        "A margin of error means the reported percentage is exact for the whole population"
+      ],
+      "difficulty": "hard",
+      "explanation": "Scientific polling relies on random selection so every member of the target population has a known chance of inclusion, making generalization defensible. Self-selected samples overrepresent the motivated and cannot support population estimates, regardless of enthusiasm.",
+      "memoryHook": "T-Rexy says: Random beats self-selected every time - sampling method decides if a poll counts.",
+      "tags": [
+        "public-opinion",
+        "scientific-polling",
+        "sampling"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a researcher selecting names by lottery from a large drum of identical capsules representing a population, with a balanced cross-section of citizens standing nearby. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Trust polls with random sampling and a stated margin of error over self-selected polls.",
+        "title": "RANDOM SAMPLING MATTERS"
+      }
+    },
+    {
+      "id": "OHC12_020",
+      "question": "A party recruits candidates, raises funds, publishes a platform, coordinates campaigns across many races, and tries to organize the government after winning. Taken together, these activities reflect the central function of political parties, which is to do what?",
+      "correctAnswer": "Compete to win elections and control government in order to enact their policies",
+      "distractors": [
+        "Represent a single narrow economic interest in court proceedings",
+        "Administer elections neutrally on behalf of the state",
+        "Lobby officeholders without ever nominating candidates"
+      ],
+      "difficulty": "medium",
+      "explanation": "Political parties are broad coalitions whose defining purpose is winning power through elections and then governing. Recruiting, fundraising, platform writing, and voter mobilization all serve that electoral and governing function.",
+      "memoryHook": "T-Rexy says: Parties exist to win and govern - nominations plus platforms plus mobilization.",
+      "tags": [
+        "political-parties",
+        "elections",
+        "platforms"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a campaign headquarters with volunteers organizing maps, phones, and event boards while candidates meet in the background, showing coordinated electoral work. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The defining function of a party is to win elections and control government.",
+        "title": "PARTIES SEEK POWER"
+      }
+    },
+    {
+      "id": "OHC12_021",
+      "question": "Third parties in the United States rarely win the presidency, yet a third-party candidate who draws 8 percent in a close state can still reshape the outcome and force major parties to address new issues. What does this reveal about the two-party system?",
+      "correctAnswer": "Winner-take-all elections sustain two dominant parties, but third parties can act as spoilers and agenda-setters",
+      "distractors": [
+        "Proportional representation guarantees third parties seats in Congress",
+        "Third parties are prohibited from appearing on general election ballots",
+        "Major parties are legally required to adopt third-party platforms in full"
+      ],
+      "difficulty": "hard",
+      "explanation": "Single-member districts with plurality, winner-take-all rules make it hard for third parties to convert votes into offices, reinforcing two-party dominance. Even so, third parties influence outcomes by drawing votes and introducing issues the major parties later absorb.",
+      "memoryHook": "T-Rexy says: Third parties seldom win offices, but they can spoil races and set agendas.",
+      "tags": [
+        "two-party-system",
+        "third-parties",
+        "winner-take-all"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a racetrack finish line where two large runners lead while a smaller third runner redirects the crowd's attention toward a new path opening beside the track. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Winner-take-all sustains two parties; third parties still matter as spoilers and innovators.",
+        "title": "THIRD PARTY INFLUENCE"
+      }
+    },
+    {
+      "id": "OHC12_022",
+      "question": "In March, registered party members choose between two candidates seeking the same nomination; in November, the winners of those contests face opponents from other parties for the office itself. What is the key distinction being illustrated?",
+      "correctAnswer": "Primaries select a party's nominee, while general elections select the officeholder",
+      "distractors": [
+        "Primaries are held only for federal offices and general elections only for state offices",
+        "General elections occur before primaries in states with open ballots",
+        "Primaries determine electoral votes and general elections determine the popular vote"
+      ],
+      "difficulty": "medium",
+      "explanation": "A primary is an intra-party contest that decides who will represent the party. A general election is the inter-party contest that decides who actually holds the office, which is why the same voter participates in two different kinds of decisions.",
+      "memoryHook": "T-Rexy says: Primary picks the nominee, general picks the winner - two different decisions.",
+      "tags": [
+        "primaries",
+        "general-election",
+        "nominations"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a two-stage gateway at a polling place, with voters first passing through a smaller inner gate and later through a larger outer gate toward a capitol building. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Primaries choose nominees; general elections choose officeholders.",
+        "title": "PRIMARY THEN GENERAL"
+      }
+    },
+    {
+      "id": "OHC12_023",
+      "question": "A candidate wins a state's popular vote by a narrow margin and receives all of that state's electoral votes, reaching 271 electoral votes nationally while trailing in the national popular vote. How is this outcome possible?",
+      "correctAnswer": "Most states use winner-take-all allocation, and winning 270 electoral votes, not the national popular vote, decides the presidency",
+      "distractors": [
+        "Electors are legally bound in every state to vote for the national popular vote winner",
+        "The House of Representatives selects the president whenever the popular vote is close",
+        "Faithless electors routinely add extra votes beyond a state's total"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Electoral College awards each state's electors, usually on a winner-take-all basis except in Maine and Nebraska, to the state popular vote winner. A candidate needs 270 of 538 electoral votes, so geographic distribution can produce an Electoral College win without a national popular vote plurality.",
+      "memoryHook": "T-Rexy says: Count to 270 state by state - the College, not the national total, elects the president.",
+      "tags": [
+        "electoral-college",
+        "winner-take-all",
+        "270-votes"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a stylized United States map formed by interlocking blocks of different sizes being counted toward a finish arch, with one narrowly won state block tipping the balance. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A candidate needs 270 electoral votes; most states award all electors to the state winner.",
+        "title": "RACE TO 270"
+      }
+    },
+    {
+      "id": "OHC12_024",
+      "question": "An environmental organization endorses candidates, funds issue ads, and lobbies Congress, but it never runs its own candidate for office. A political party, by contrast, would cross a defining line if it stopped doing which activity?",
+      "correctAnswer": "Nominating its own candidates to win elections and hold office",
+      "distractors": [
+        "Publishing policy positions on environmental questions",
+        "Attempting to influence legislation through lobbying",
+        "Educating voters about issues before an election"
+      ],
+      "difficulty": "hard",
+      "explanation": "Interest groups seek to influence policy from outside government by lobbying, litigation, and electoral support for sympathetic candidates. Parties are defined by seeking power directly: they nominate candidates and try to place their own members in office.",
+      "memoryHook": "T-Rexy says: Groups influence from outside, parties run candidates to govern from inside.",
+      "tags": [
+        "interest-groups",
+        "political-parties",
+        "lobbying"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration contrasting an advocacy meeting presenting research to legislators through an open doorway with a separate campaign stage where candidates stand for election. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Interest groups influence policy; parties nominate candidates to hold office.",
+        "title": "INFLUENCE VERSUS OFFICE"
+      }
+    },
+    {
+      "id": "OHC12_025",
+      "question": "Investigative reporting exposes bid-rigging in a city contract, news coverage then focuses intensely on procurement reform for weeks, and officials who had ignored the issue place it on the council agenda. Which two media roles are shown in sequence?",
+      "correctAnswer": "Watchdog first, exposing wrongdoing, followed by agenda-setting as coverage shapes what the public and officials prioritize",
+      "distractors": [
+        "Horse-race coverage first, followed by priming of candidate evaluations",
+        "Gatekeeping by the Federal Communications Commission, followed by a fairness doctrine ruling",
+        "Political socialization of children, followed by selective exposure by partisans"
+      ],
+      "difficulty": "hard",
+      "explanation": "The watchdog role holds power accountable by uncovering corruption or abuse that officials would prefer to hide. Agenda-setting follows when sustained coverage signals an issue's importance, pushing it onto the public and policy agendas.",
+      "memoryHook": "T-Rexy says: Watchdog finds the wrongdoing, agenda-setting makes everyone deal with it.",
+      "tags": [
+        "media-roles",
+        "watchdog",
+        "agenda-setting"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an investigative journalist with a camera and notebook uncovering covered file boxes in a municipal storage room while spotlights shift toward a council chamber in the background. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Watchdog exposes wrongdoing; agenda-setting shapes which issues get attention.",
+        "title": "WATCHDOG AND AGENDA"
+      }
+    },
+    {
+      "id": "OHC12_026",
+      "question": "A representative argues that Congress may fund a national highway program because Article I, Section 8 lists taxing, borrowing, regulating commerce, and providing for the common defense and general welfare. What kind of powers is she citing?",
+      "correctAnswer": "Enumerated powers expressly granted to Congress in the Constitution",
+      "distractors": [
+        "Reserved powers kept by the states under the Tenth Amendment",
+        "Implied powers inferred only from court precedent with no textual basis",
+        "Concurrent powers held exclusively by state legislatures"
+      ],
+      "difficulty": "easy",
+      "explanation": "Enumerated powers are the specific authorities written into Article I, Section 8, including taxing, borrowing, coining money, declaring war, and regulating interstate commerce. Powers not granted to the federal government are reserved to the states or the people.",
+      "memoryHook": "T-Rexy says: If Congress can point to the list in Article I, the power is enumerated.",
+      "tags": [
+        "congress",
+        "enumerated-powers"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of the United States Capitol dome with columns of light highlighting distinct foundational pillars below it, each pillar representing a separate constitutional power, viewed from a formal civic plaza. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Start by checking whether the power appears in the Article I, Section 8 list.",
+        "title": "POWERS ON THE LIST"
+      }
+    },
+    {
+      "id": "OHC12_027",
+      "question": "Congress creates a federal bank charter system to carry out its enumerated powers to tax, borrow, and regulate commerce, even though the Constitution never mentions chartering banks. Which clause most directly supports this action?",
+      "correctAnswer": "The Necessary and Proper Clause, often called the elastic clause",
+      "distractors": [
+        "The supremacy clause, which resolves conflicts between laws",
+        "The commerce clause alone, with no other constitutional basis",
+        "The Tenth Amendment, which reserves unlisted powers to the states"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Necessary and Proper Clause in Article I, Section 8 allows Congress to make laws needed to execute its enumerated powers, which is why it is called elastic. It stretches federal authority to practical means, but it must still connect to an enumerated end.",
+      "memoryHook": "T-Rexy says: Elastic means Congress can stretch to a means, not invent a new end.",
+      "tags": [
+        "elastic-clause",
+        "congress",
+        "implied-powers"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of an elastic band stretched between two marble pillars, one pillar anchored to a solid foundation stone and the other reaching toward a distant federal building, symbolizing implied authority tied to a fixed power. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Ask what enumerated power the implied law is helping to carry out.",
+        "title": "STRETCH WITH AN ANCHOR"
+      }
+    },
+    {
+      "id": "OHC12_028",
+      "question": "A health care bill is introduced in the House, debated in committee, passed by both the House and the Senate in identical form, and sent to the President. What is the correct description of the steps it has completed so far?",
+      "correctAnswer": "It has cleared bicameral passage and now awaits presidential action to become law",
+      "distractors": [
+        "It already became law when the second chamber passed it",
+        "It must next be approved by the Supreme Court before the President sees it",
+        "It returns to committee for a final signature by the committee chair"
+      ],
+      "difficulty": "easy",
+      "explanation": "A federal bill must pass both chambers in identical form before it goes to the President. The President may then sign it into law or veto it, and a committee cannot enact a bill on its own.",
+      "memoryHook": "T-Rexy says: Same text, both chambers, then the President - in that order.",
+      "tags": [
+        "bill-to-law",
+        "congress",
+        "legislative-process"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a sealed document traveling along a stone pathway through two matching arched gateways representing two legislative chambers, then toward a white executive mansion in the distance. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Remember that identical text in both chambers is required before presentment.",
+        "title": "TWO GATES THEN SIGNING"
+      }
+    },
+    {
+      "id": "OHC12_029",
+      "question": "The President vetoes a spending bill. Supporters want the bill to become law anyway. What must happen, and by what margin in each chamber?",
+      "correctAnswer": "Congress overrides the veto with a two-thirds vote in both the House and the Senate",
+      "distractors": [
+        "Congress overrides the veto with a simple majority vote in either chamber",
+        "The Senate alone overrides the veto with a three-fourths vote",
+        "The Supreme Court sets aside the veto if it finds the bill constitutional"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I gives Congress the power to override a presidential veto by a two-thirds vote in each chamber. A simple majority was enough to pass the bill the first time, but overriding requires a broader consensus.",
+      "memoryHook": "T-Rexy says: Override is two-thirds, twice - once in each chamber.",
+      "tags": [
+        "veto",
+        "veto-override",
+        "checks-and-balances"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a large wooden veto barrier being lifted by two groups of legislators working together on opposite sides of a divided hall, with a balance scale tipped toward a supermajority. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Separate first passage, a simple majority, from an override, a two-thirds vote in both houses.",
+        "title": "LIFTING THE VETO"
+      }
+    },
+    {
+      "id": "OHC12_030",
+      "question": "During one week, the President negotiates a trade agreement, orders military readiness as commander in chief, delivers the State of the Union, and grants a pardon. Which list best names the roles being exercised?",
+      "correctAnswer": "Chief diplomat, commander in chief, chief legislator, and chief executive exercising clemency",
+      "distractors": [
+        "Chief justice, party whip, speaker, and governor of the states",
+        "Head of the judiciary, head of Congress, and head of state governments",
+        "Ambassador, general for life, senator, and trial judge"
+      ],
+      "difficulty": "easy",
+      "explanation": "The presidency combines several roles in one office, including chief executive, commander in chief, chief diplomat, and an agenda-setting role in legislation. The President does not serve as a judge, a member of Congress, or a state governor.",
+      "memoryHook": "T-Rexy says: One person, many hats - but never the robe or the gavel in Congress.",
+      "tags": [
+        "presidency",
+        "executive-roles"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a single executive desk with a diplomatic handshake sculpture, a military insignia case, a rolled legislative scroll, and a sealed pardon document arranged as four distinct symbols of office. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Match each presidential action to the role, not to the branch it influences.",
+        "title": "MANY ROLES ONE OFFICE"
+      }
+    },
+    {
+      "id": "OHC12_031",
+      "question": "A President issues an executive order directing federal agencies to change how they enforce an existing environmental statute. A successor later revokes it with a new order, and a court strikes down a different order for exceeding the statute. What does this sequence show about executive orders?",
+      "correctAnswer": "They have the force of law for agencies but can be revoked by a later President and invalidated if they exceed constitutional or statutory authority",
+      "distractors": [
+        "They are permanent amendments to the Constitution that later Presidents cannot change",
+        "They outrank statutes, so courts may not review them for legal limits",
+        "They require a two-thirds vote in the Senate before they can take effect"
+      ],
+      "difficulty": "hard",
+      "explanation": "Executive orders direct the executive branch and rest on either constitutional authority or a delegation from Congress. Because they are not statutes, a successor can revoke them, and courts can invalidate orders that go beyond the underlying authority.",
+      "memoryHook": "T-Rexy says: An order lives only as strong as the authority underneath it.",
+      "tags": [
+        "executive-orders",
+        "presidency",
+        "separation-of-powers"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a fountain pen signing a document on an executive desk while a courthouse and a legislative building stand visible through the window, framing the order between the other branches. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Classify an order by its source of authority and by how it can be undone.",
+        "title": "POWER WITH LIMITS"
+      }
+    },
+    {
+      "id": "OHC12_032",
+      "question": "A farmer applies for a disaster loan, a veteran files for benefits, and an importer clears goods at a port. None of them deals directly with the President. Which feature of modern government explains why?",
+      "correctAnswer": "The federal bureaucracy and the cabinet departments carry out laws through specialized agencies and career staff",
+      "distractors": [
+        "State governments have taken over all federal program administration",
+        "Congress personally processes individual applications in its committees",
+        "Federal courts administer most domestic programs through their clerks"
+      ],
+      "difficulty": "easy",
+      "explanation": "Congress writes broad laws and the executive branch implements them through departments such as Agriculture, Veterans Affairs, and Homeland Security, plus agencies within them. Cabinet secretaries lead the major departments and advise the President, while career employees handle day-to-day administration.",
+      "memoryHook": "T-Rexy says: Laws are promises on paper; the bureaucracy is the machinery that delivers them.",
+      "tags": [
+        "bureaucracy",
+        "cabinet",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a large federal office complex at work, with distinct wings for agriculture, veterans services, and port operations connected to a central executive building by walkways. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Think implementation when a question involves agencies delivering a program.",
+        "title": "MACHINERY OF GOVERNMENT"
+      }
+    },
+    {
+      "id": "OHC12_033",
+      "question": "A dispute between two states over river water reaches the Supreme Court without going through a lower court first, while an appeal about a federal statute arrives only after lower courts have ruled. What principle explains both paths?",
+      "correctAnswer": "The Court has narrow original jurisdiction, including state-versus-state cases, and much broader appellate jurisdiction over lower court decisions",
+      "distractors": [
+        "The Court may hear any case filed by any citizen as a first court of choice",
+        "The Court has only appellate jurisdiction and never hears a case first",
+        "State governments choose which of their disputes bypass the lower courts"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article III gives the Supreme Court original jurisdiction in a small category, notably cases involving ambassadors and those in which a state is a party. Most of its docket is appellate, reviewing decisions from federal courts of appeals and state supreme courts on federal questions.",
+      "memoryHook": "T-Rexy says: Original is rare and narrow; appellate is the usual road to the Court.",
+      "tags": [
+        "supreme-court",
+        "jurisdiction",
+        "federal-judiciary"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of the Supreme Court building with two pathways leading to its steps, a short direct path from two state capitol buildings and a long winding path climbing through lower courthouse tiers. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Ask whether the case starts at the Court or arrives there on appeal.",
+        "title": "TWO PATHS TO COURT"
+      }
+    },
+    {
+      "id": "OHC12_034",
+      "question": "Critics argue that a Supreme Court justice appointed at age 48 could shape constitutional law for four decades without ever facing voters. Supporters answer that this is the point of the design. Which pair of features creates this tension?",
+      "correctAnswer": "Presidential nomination with Senate confirmation, followed by life tenure during good behavior",
+      "distractors": [
+        "Election by state legislatures, followed by a single six-year term",
+        "Appointment by the House alone, followed by recall elections every ten years",
+        "Selection by lottery among law professors, followed by mandatory retirement at sixty"
+      ],
+      "difficulty": "hard",
+      "explanation": "Federal judges are nominated by the President and confirmed by the Senate, then serve during good behavior, which in practice means life tenure subject to impeachment. The design insulates judges from political pressure, at the cost of direct democratic accountability.",
+      "memoryHook": "T-Rexy says: Confirmed once, insulated for life - independence is the trade, accountability is the cost.",
+      "tags": [
+        "judicial-appointment",
+        "life-tenure",
+        "federal-judiciary"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a robed judge seated behind a high bench shielded by a thick stone wall from a crowd holding ballots outside, symbolizing insulation from electoral pressure. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Link life tenure to judicial independence, not to job security alone.",
+        "title": "INSULATED FOR INDEPENDENCE"
+      }
+    },
+    {
+      "id": "OHC12_035",
+      "question": "A contract dispute between neighbors goes to a state trial court, while a challenge to a federal civil rights statute goes to a federal district court. Which system does this illustrate?",
+      "correctAnswer": "The dual court system, with separate state and federal courts each hearing cases within their jurisdiction",
+      "distractors": [
+        "A single unified court system in which all cases start in federal court",
+        "A system in which state courts may strike down federal statutes for any reason",
+        "A hierarchy in which county courts outrank the United States Supreme Court"
+      ],
+      "difficulty": "medium",
+      "explanation": "The United States has a dual court system: state courts handle most everyday law such as contracts, property, and state crimes, while federal courts handle federal questions and certain diversity cases. The United States Supreme Court sits at the top on matters of federal law.",
+      "memoryHook": "T-Rexy says: Two court systems side by side, sorted by the kind of law in dispute.",
+      "tags": [
+        "dual-court-system",
+        "federalism",
+        "jurisdiction"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of two courthouse buildings standing side by side on the same street, one with a state flag and one with a national flag, with separate queues of citizens entering each entrance. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Sort the case first by whether the claim arises under state or federal law.",
+        "title": "TWO COURTHOUSES SIDE BY SIDE"
+      }
+    },
+    {
+      "id": "OHC12_036",
+      "question": "A state law requires safety inspections that directly conflict with a valid federal transportation safety law, so both cannot be obeyed at once. A court sets the state rule aside. Which clause is the court applying?",
+      "correctAnswer": "The supremacy clause, which makes the Constitution and valid federal law the supreme law of the land",
+      "distractors": [
+        "The elastic clause, which lets states expand their own powers",
+        "The Tenth Amendment, which makes state law superior in a conflict",
+        "The commerce clause, which gives state law priority over treaties"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article VI provides that the Constitution, federal laws made under it, and treaties are the supreme law of the land. When a valid federal law and a state law conflict, the state law must give way through preemption.",
+      "memoryHook": "T-Rexy says: In a true conflict, valid federal law sits on the top rung.",
+      "tags": [
+        "supremacy-clause",
+        "federalism",
+        "preemption"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a three-tiered stone hierarchy with a national capitol emblem on the highest tier, a state capitol on the middle tier, and a city hall on the lowest tier, showing order in a conflict. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Use supremacy only when there is a genuine conflict or a valid federal preemption.",
+        "title": "TOP RUNG RULE"
+      }
+    },
+    {
+      "id": "OHC12_037",
+      "question": "In McCulloch v. Maryland, Maryland taxed a branch of the national bank and argued that the federal government had no power to create the bank at all. How did the Supreme Court rule on both issues?",
+      "correctAnswer": "Congress could charter the bank under its implied powers, and Maryland could not tax a federal instrument because the power to tax could destroy it",
+      "distractors": [
+        "Congress lacked any power to charter a bank, but Maryland also could not tax it",
+        "Congress could charter the bank, and Maryland was free to tax it at any rate",
+        "The bank was a state institution, so the case was dismissed for lack of jurisdiction"
+      ],
+      "difficulty": "hard",
+      "explanation": "Chief Justice Marshall read the Necessary and Proper Clause broadly, upholding the bank as a means to carry out enumerated fiscal powers. The Court also held that a state tax on a federal instrument violated supremacy, because the power to tax involves the power to destroy.",
+      "memoryHook": "T-Rexy says: McCulloch means implied powers are real, and states cannot tax the nation out of existence.",
+      "tags": [
+        "mcculloch-v-maryland",
+        "implied-powers",
+        "supremacy-clause"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a marble national bank building with a tax collector's hand being stopped by a shield bearing scales of justice, set in an early American cityscape. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Remember both holdings: the bank is constitutional, and the state tax is not.",
+        "title": "BANK YES TAX NO"
+      }
+    },
+    {
+      "id": "OHC12_038",
+      "question": "In Gibbons v. Ogden, New York had granted a monopoly for steamboat routes that also ran into neighboring waters, and a federally licensed operator challenged it. What did the Court establish?",
+      "correctAnswer": "Commerce includes navigation and interstate movement, so Congress, not a state monopoly, controls interstate commerce",
+      "distractors": [
+        "Commerce means only the buying and selling of goods, never transportation",
+        "Each state may exclude federally licensed operators from its waters",
+        "Interstate commerce is a reserved state power under the Tenth Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Court in Gibbons v. Ogden defined commerce broadly to include navigation and intercourse, and held that a valid federal license prevailed over a conflicting state monopoly. The decision became a foundation for broad federal regulatory power under the commerce clause.",
+      "memoryHook": "T-Rexy says: If it crosses a state line, think Gibbons and think Congress.",
+      "tags": [
+        "commerce-clause",
+        "gibbons-v-ogden",
+        "federalism"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of an early steamboat crossing a wide river between two state shorelines at dawn, passing through an open gate in a chain that had blocked the channel. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Connect the commerce clause to movement and activity across state lines.",
+        "title": "OPEN RIVER OPEN COMMERCE"
+      }
+    },
+    {
+      "id": "OHC12_039",
+      "question": "Match the barrier to the amendment that removed it: race as a basis for denying the vote, sex as a basis, a poll tax in federal elections, and an eighteen-year-old being turned away. Which set is correct?",
+      "correctAnswer": "Fifteenth for race, Nineteenth for sex, Twenty-fourth for the poll tax in federal elections, and Twenty-sixth for voting at age eighteen",
+      "distractors": [
+        "Nineteenth for race, Fifteenth for sex, Twenty-sixth for the poll tax, and Twenty-fourth for age eighteen",
+        "Fifteenth for race, Twenty-sixth for sex, Nineteenth for the poll tax, and Twenty-fourth for age eighteen",
+        "Twenty-fourth for race, Fifteenth for sex, Twenty-sixth for the poll tax, and Nineteenth for age eighteen"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Fifteenth Amendment barred denial of the vote based on race, the Nineteenth based on sex, the Twenty-fourth banned poll taxes in federal elections, and the Twenty-sixth set eighteen as the minimum voting age. Each amendment targeted a specific exclusion rather than creating a general right to vote in one step.",
+      "memoryHook": "T-Rexy says: Race, sex, tax, age - fifteen, nineteen, twenty-four, twenty-six.",
+      "tags": [
+        "voting-rights",
+        "amendments",
+        "suffrage"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of four locked gates along a road to a polling place opening one by one as diverse citizens walk through toward a ballot box at sunrise. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Learn the four amendments as a matched set tied to the barrier each one removed.",
+        "title": "FOUR GATES OPENING"
+      }
+    },
+    {
+      "id": "OHC12_040",
+      "question": "Early in the republic, most states limited voting to white male property owners. By the mid twentieth century, property tests, literacy tests used to exclude, and formal racial and sex bars had largely fallen. Which statement best describes this long pattern?",
+      "correctAnswer": "Suffrage expanded in stages through state reforms, constitutional amendments, and federal enforcement laws that dismantled successive barriers",
+      "distractors": [
+        "Suffrage was universal from the founding and only the voting age ever changed",
+        "Suffrage expanded in a single amendment that removed every barrier at once",
+        "Suffrage steadily narrowed over time as more qualifications were added"
+      ],
+      "difficulty": "medium",
+      "explanation": "Voting rights grew unevenly: property requirements fell in the early 1800s, the Reconstruction amendments and the Nineteenth Amendment removed formal race and sex bars, and laws such as the Voting Rights Act targeted practices like literacy tests. Formal rights and real access did not always advance at the same pace.",
+      "memoryHook": "T-Rexy says: Expansion was staged, contested, and enforced - never automatic.",
+      "tags": [
+        "suffrage",
+        "voting-rights",
+        "historical-expansion"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a long timeline road winding from a small colonial polling table with few chairs toward a large modern polling place with many open doors and a broad crowd. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Distinguish a formal amendment from the enforcement needed to make it real.",
+        "title": "LONG ROAD TO BALLOT"
+      }
+    },
+    {
+      "id": "OHC12_041",
+      "question": "A midterm election draws far fewer voters than the presidential election two years earlier, and a competitive Senate race in one state draws more than a safe race elsewhere. Which factors best explain the difference?",
+      "correctAnswer": "Election salience, competitiveness, registration and voting costs, and voter mobilization all shape turnout",
+      "distractors": [
+        "Turnout is fixed by law at the same rate for every election and every state",
+        "Only weather on election day determines whether citizens participate",
+        "Turnout depends solely on how many candidates appear on the ballot"
+      ],
+      "difficulty": "hard",
+      "explanation": "Turnout rises when an election feels important and competitive, when registration and voting are less costly, and when campaigns and groups mobilize supporters. Presidential elections typically outdraw midterms, and safe seats depress participation because the outcome feels settled in advance.",
+      "memoryHook": "T-Rexy says: People turn out when the stakes feel real and the cost of voting feels low.",
+      "tags": [
+        "voter-turnout",
+        "participation",
+        "elections"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of two polling places in the same town, one with a long line during a high-stakes competitive race and one nearly empty during a quiet uncontested race, under the same sky. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Look for both motivation, such as competitiveness, and cost, such as registration rules.",
+        "title": "WHY LINES GROW"
+      }
+    },
+    {
+      "id": "OHC12_042",
+      "question": "A voter hears a party platform at a rally, reads a news investigation, joins an advocacy group that grades candidates, and then votes. Which concept connects the party, the press, and the group in this story?",
+      "correctAnswer": "They are linkage institutions that connect citizens to government and transmit demands and information",
+      "distractors": [
+        "They are formal branches of government created by Article I",
+        "They are linkage institutions only when they endorse the same candidate",
+        "They are part of the federal bureaucracy and are led by cabinet officers"
+      ],
+      "difficulty": "medium",
+      "explanation": "Political parties, elections, interest groups, and the media are linkage institutions because they link the public to policymakers. They aggregate interests, provide information, and create pressure, but they are not themselves branches of government.",
+      "memoryHook": "T-Rexy says: Linkage means connection - parties, groups, media, and elections carry citizen voices upward.",
+      "tags": [
+        "linkage-institutions",
+        "political-parties",
+        "media"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of bridges spanning between a neighborhood of homes on one side and a capitol building on the other, with people, a printing press, and a town hall meeting crossing the bridges. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Name the institution by how it connects voters to officials, not by its size.",
+        "title": "BRIDGES TO GOVERNMENT"
+      }
+    },
+    {
+      "id": "OHC12_043",
+      "question": "A trade association hires lobbyists to meet with committee staff, its political action committee donates to supportive incumbents, and an allied super PAC runs independent ads. Which description is legally accurate?",
+      "correctAnswer": "Lobbying seeks direct influence on policy, a PAC raises and donates limited contributions to candidates, and a super PAC may raise unlimited sums for independent spending but may not coordinate with a campaign",
+      "distractors": [
+        "Lobbyists may give unlimited cash directly to candidates from corporate treasuries",
+        "A traditional PAC and a super PAC operate under identical contribution limits",
+        "Independent spending may be secretly coordinated with a campaign without legal consequence"
+      ],
+      "difficulty": "medium",
+      "explanation": "Lobbying is an attempt to influence government decisions, protected as petitioning but regulated through registration and disclosure. Traditional PACs contribute limited amounts directly to candidates, while super PACs accept unlimited contributions for independent expenditures that cannot be coordinated with campaigns.",
+      "memoryHook": "T-Rexy says: PAC gives to the candidate within limits; super PAC spends beside the candidate, never with the candidate.",
+      "tags": [
+        "lobbying",
+        "pacs",
+        "campaign-finance"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a capitol corridor where a lobbyist presents a policy folder to staff, while outside two separate billboards stand apart from a campaign headquarters, showing independence. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Separate direct contributions, which are limited, from independent spending, which is not coordinated.",
+        "title": "INSIDE AND INDEPENDENT INFLUENCE"
+      }
+    },
+    {
+      "id": "OHC12_044",
+      "question": "A campaign ad shows only a candidate's most unflattering photo, pairs it with ominous music, and quotes a speech out of context, while a news segment from an outlet owned by the candidate's allies omits a major scandal. What skill is most needed to evaluate both?",
+      "correctAnswer": "Detecting bias and manipulation by checking sourcing, context, selection of facts, and what competing outlets report",
+      "distractors": [
+        "Assuming the most emotionally powerful presentation is the most accurate one",
+        "Trusting any outlet that agrees with your prior view without checking its sourcing",
+        "Judging accuracy solely by production quality and how widely an ad is shared"
+      ],
+      "difficulty": "hard",
+      "explanation": "Campaign media is designed to persuade, so evaluation requires checking the original context of a quote, noting which facts are selected or omitted, and comparing coverage across outlets. Emotional cues such as music and imagery signal persuasion, not evidence.",
+      "memoryHook": "T-Rexy says: Ask what was cut, what was framed, and what the other side actually said.",
+      "tags": [
+        "media-bias",
+        "campaign-media",
+        "political-communication"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a citizen holding a magnifying lens over a television screen showing a dramatic political advertisement, with the unedited wider scene visible beyond the cropped frame. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Check the full quote and the missing facts before accepting a framed claim.",
+        "title": "LOOK BEYOND THE FRAME"
+      }
+    },
+    {
+      "id": "OHC12_045",
+      "question": "A House member who was elected narrowly now wins easily: she has name recognition, a large donor list, staff who solve constituent problems, and a district drawn by her party to include friendly voters. Which two advantages are working together here?",
+      "correctAnswer": "Incumbency advantage reinforced by gerrymandering that packs or cracks opposing voters to create a safe seat",
+      "distractors": [
+        "Term limits reinforced by mandatory rotation of districts among the parties",
+        "Judicial review reinforced by the Senate practice of confirming House members",
+        "A primary challenge reinforced by an open seat with no sitting member"
+      ],
+      "difficulty": "hard",
+      "explanation": "Incumbents benefit from recognition, fundraising networks, franked communication, and casework that builds goodwill. Gerrymandering can lock in that advantage when mapmakers pack opponents into a few districts or crack them across many districts to dilute their strength.",
+      "memoryHook": "T-Rexy says: Pack them in or crack them apart - both moves rig the map, and incumbency does the rest.",
+      "tags": [
+        "incumbency",
+        "gerrymandering",
+        "elections"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a jigsaw map of voting districts with one oddly contorted district highlighted, its boundary snaking around neighborhoods to gather scattered friendly streets into one shape. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Spot packing and cracking by asking who benefits from where the line was drawn.",
+        "title": "DRAWN TO WIN"
+      }
+    },
+    {
+      "id": "OHC12_046",
+      "question": "A senior compares Ohio's legislature to Congress and asks for its exact makeup. Which answer correctly describes the Ohio General Assembly?",
+      "correctAnswer": "A bicameral legislature with a Senate of 33 members and a House of Representatives of 99 members",
+      "distractors": [
+        "A bicameral legislature with a Senate of 50 members and a House of 435 members",
+        "A unicameral legislature with a single chamber of 132 members",
+        "A bicameral legislature with a Senate of 99 members and a House of 33 members"
+      ],
+      "difficulty": "easy",
+      "explanation": "Ohio's legislative branch is the General Assembly, made up of two chambers. The Ohio Senate has 33 members and the Ohio House of Representatives has 99 members, for 132 state legislators in total.",
+      "memoryHook": "T-Rexy says: Ohio is 33 in the Senate and 99 in the House - small Senate, big House.",
+      "tags": [
+        "ohio-general-assembly",
+        "ohio-government",
+        "state-legislature"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of the Ohio Statehouse with two legislative chambers visible in a cutaway view, a smaller semicircular senate room and a larger house chamber filled with many more seats. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Anchor Ohio numbers as a pair and never swap the two chambers.",
+        "title": "OHIO TWO CHAMBERS"
+      }
+    },
+    {
+      "id": "OHC12_047",
+      "question": "An Ohio state senator has served two consecutive four-year terms in the Ohio Senate and wants to run immediately for a third consecutive term in the same chamber. What does Ohio law say?",
+      "correctAnswer": "Ohio term limits bar more than eight consecutive years in one chamber, so she cannot serve a third consecutive term in that chamber now",
+      "distractors": [
+        "Ohio has no term limits for state legislators, so she may run without restriction",
+        "Ohio limits state legislators to eight years total across both chambers combined for life",
+        "Ohio allows twelve consecutive years in one chamber before any limit applies"
+      ],
+      "difficulty": "medium",
+      "explanation": "Ohio state legislators are term-limited to eight consecutive years in one chamber. That means two consecutive four-year Senate terms, or four consecutive two-year House terms, before a legislator must leave that chamber.",
+      "memoryHook": "T-Rexy says: Eight straight years in one Ohio chamber is the ceiling.",
+      "tags": [
+        "ohio-term-limits",
+        "ohio-general-assembly",
+        "ohio-government"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a legislative chamber doorway with an hourglass and a calendar showing a completed cycle, as a departing lawmaker hands a folder to a newly arriving colleague. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Read the limit as consecutive years in one chamber, not a lifetime ban.",
+        "title": "EIGHT YEAR CEILING"
+      }
+    },
+    {
+      "id": "OHC12_048",
+      "question": "Who leads Ohio's executive branch, commands its administration, and is chosen by voters across the entire state rather than appointed by the legislature?",
+      "correctAnswer": "The Governor of Ohio, the state's chief executive, elected statewide",
+      "distractors": [
+        "The Speaker of the Ohio House, chosen by fellow representatives",
+        "The Chief Justice of Ohio, appointed to lead the executive branch",
+        "The Secretary of State, who automatically outranks all other Ohio officers"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Governor of Ohio is the state's chief executive and is elected by voters statewide. The role parallels the presidency at the state level, heading the executive branch rather than the legislature or the judiciary.",
+      "memoryHook": "T-Rexy says: At the state level, the Governor is Ohio's chief executive, just as the President is the nation's.",
+      "tags": [
+        "ohio-governor",
+        "ohio-government",
+        "chief-executive"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a governor standing on the steps of the Ohio Statehouse addressing citizens from across a map-shaped plaza, with executive office buildings behind. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Match chief executive at the state level to the Governor, not to a legislative leader.",
+        "title": "OHIO CHIEF EXECUTIVE"
+      }
+    },
+    {
+      "id": "OHC12_049",
+      "question": "Unlike the federal cabinet, whose members are appointed by the President, Ohio fills several top executive offices at the ballot box. Which list correctly names Ohio executive officers elected separately by the voters?",
+      "correctAnswer": "Lieutenant Governor, Attorney General, Secretary of State, Auditor of State, and Treasurer of State",
+      "distractors": [
+        "Secretary of Defense, Secretary of the Treasury, and White House Chief of Staff",
+        "Speaker of the House, Senate President, and Chief Justice of Ohio",
+        "County commissioners, mayors, and township trustees across Ohio"
+      ],
+      "difficulty": "medium",
+      "explanation": "Ohio voters separately elect an executive row that includes the Lieutenant Governor, Attorney General, Secretary of State, Auditor of State, and Treasurer of State, alongside the Governor. This differs from the federal system, where cabinet officers are appointed by the President and confirmed by the Senate.",
+      "memoryHook": "T-Rexy says: In Ohio the voters, not the Governor, hire the whole executive row.",
+      "tags": [
+        "ohio-executive-row",
+        "ohio-government",
+        "elected-officials"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of five separate ballot stations in a row at an Ohio polling place, each leading to a different executive office suite in a state government building behind them. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Contrast Ohio's elected row officers with appointed federal cabinet secretaries.",
+        "title": "VOTERS HIRE THE ROW"
+      }
+    },
+    {
+      "id": "OHC12_050",
+      "question": "A civics class plans a trip to watch the Ohio General Assembly in session and visit the Governor's offices in the state capital. Which city should they travel to?",
+      "correctAnswer": "Columbus, the capital of Ohio and the seat of its state government",
+      "distractors": [
+        "Cleveland, because it is a large city on Lake Erie",
+        "Cincinnati, because it sits on the Ohio River",
+        "Akron, because it is a major industrial city in the state"
+      ],
+      "difficulty": "easy",
+      "explanation": "Columbus is the capital of Ohio and the seat of its state government, home to the Ohio Statehouse where the General Assembly meets. Other large Ohio cities are important economically and culturally, but they are not the capital.",
+      "memoryHook": "T-Rexy says: State government business in Ohio happens in Columbus.",
+      "tags": [
+        "ohio-capital",
+        "columbus",
+        "ohio-government"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of the Ohio Statehouse with its distinctive cupola in downtown Columbus at golden hour, with a river and a modern city skyline behind it. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Do not confuse the largest or best known city with the capital city.",
+        "title": "CAPITAL IS COLUMBUS"
+      }
+    },
+    {
+      "id": "OHC12_051",
+      "question": "A city council member notices rising pedestrian injuries near a high school. She holds hearings, drafts an ordinance for new crosswalks, wins a vote, funds the work through the budget, and later reviews crash data to judge results. Which sequence correctly names the stages she is following?",
+      "correctAnswer": "Agenda setting, policy formulation, adoption, implementation, and evaluation",
+      "distractors": [
+        "Adoption, evaluation, agenda setting, formulation, and implementation",
+        "Implementation, agenda setting, adoption, evaluation, and formulation",
+        "Formulation, implementation, evaluation, adoption, and agenda setting"
+      ],
+      "difficulty": "easy",
+      "explanation": "Public policymaking typically moves from identifying a problem and placing it on the agenda, to developing proposals, adopting one, putting it into effect, and evaluating outcomes. Evaluation can then restart the cycle if results fall short. The order matters because each stage builds on the decisions of the previous one.",
+      "memoryHook": "T-Rexy says: Agenda first, action next, assessment last - policy is a cycle, not a single vote.",
+      "tags": [
+        "public-policy",
+        "policy-process"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a city council chamber with a circular flow of five connected stages represented by icons for discussion, drafting, voting, construction, and data review around a high school crosswalk. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Learn the five stages in order and match each scenario action to its stage.",
+        "title": "POLICY PROCESS CYCLE"
+      }
+    },
+    {
+      "id": "OHC12_052",
+      "question": "Which assignment of responsibilities best reflects how public policy duties are typically divided in the United States?",
+      "correctAnswer": "The federal government leads on interstate highways and national defense, states lead on public education standards, and local governments lead on zoning and city services",
+      "distractors": [
+        "Local governments lead on national defense, states lead on interstate highways, and the federal government leads on zoning",
+        "States lead on national defense and foreign treaties, while the federal government sets all local zoning rules",
+        "The federal government runs all public schools directly, while cities control interstate commerce"
+      ],
+      "difficulty": "easy",
+      "explanation": "Federalism divides work by scale and by constitutional authority. National concerns such as defense and the interstate highway system draw heavy federal involvement, states hold primary responsibility for education, and local governments handle land use and day-to-day services. Many areas overlap, but the primary lead differs by level.",
+      "memoryHook": "T-Rexy says: Match the problem to its scale - neighborhood, state, or nation.",
+      "tags": [
+        "federalism",
+        "levels-of-government"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of three layered levels showing a national highway network at the top, a state school building in the middle, and a local neighborhood with zoning and city services at the bottom, in a mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Ask which level is closest to the problem and which has the constitutional lead.",
+        "title": "DIVIDED RESPONSIBILITIES"
+      }
+    },
+    {
+      "id": "OHC12_053",
+      "question": "Congress offers Ohio money that must be spent only on highway safety programs with detailed federal conditions, and separately offers a second pool that Ohio may use broadly for community development. How should the two offers be classified?",
+      "correctAnswer": "The first is a categorical grant and the second is a block grant",
+      "distractors": [
+        "The first is a block grant and the second is a categorical grant",
+        "Both are categorical grants because both come from Congress",
+        "Both are block grants because both go to a state government"
+      ],
+      "difficulty": "medium",
+      "explanation": "Categorical grants carry narrow purposes and strict conditions, giving Congress more control over how money is used. Block grants give states broader discretion within a general policy area. Both are tools of cooperative federalism, but they differ sharply in flexibility.",
+      "memoryHook": "T-Rexy says: Categorical is controlled and specific - block is broad.",
+      "tags": [
+        "federal-grants",
+        "federalism"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration contrasting a narrow labeled funding channel directed to a single highway safety project on one side with a wide flexible funding pool spreading to several community projects on the other side, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Narrow purpose plus conditions means categorical - broad purpose means block.",
+        "title": "TWO GRANT TYPES"
+      }
+    },
+    {
+      "id": "OHC12_054",
+      "question": "During a recession, Congress cuts income taxes and increases spending on infrastructure, and the federal budget moves into deficit. Which concept describes this deliberate use of taxing and spending to influence the economy?",
+      "correctAnswer": "Fiscal policy",
+      "distractors": [
+        "Monetary policy",
+        "Trade policy",
+        "Regulatory policy"
+      ],
+      "difficulty": "medium",
+      "explanation": "Fiscal policy is the use of government spending and taxation by Congress and the President to promote growth, reduce unemployment, or slow inflation. A deficit occurs when spending exceeds revenue in a given year. It is distinct from monetary policy, which is carried out by the Federal Reserve.",
+      "memoryHook": "T-Rexy says: Fiscal means the federal budget - taxing and spending.",
+      "tags": [
+        "fiscal-policy",
+        "federal-budget"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a large government budget balance scale with tax revenue on one side and infrastructure spending on the other during an economic downturn, with factory and road imagery, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "If Congress and taxes or spending are involved, think fiscal policy.",
+        "title": "FISCAL POLICY LEVERS"
+      }
+    },
+    {
+      "id": "OHC12_055",
+      "question": "Inflation is rising quickly. The Federal Reserve raises its target interest rate, making borrowing more expensive for banks, businesses, and consumers. Why is this an example of monetary policy rather than fiscal policy?",
+      "correctAnswer": "It controls the money supply and credit conditions through interest rates, a tool of the independent Federal Reserve rather than Congress",
+      "distractors": [
+        "It changes federal income tax brackets, which only the Federal Reserve can set",
+        "It increases government spending on entitlement programs to stimulate demand",
+        "It imposes new safety regulations on banks through an act of Congress"
+      ],
+      "difficulty": "hard",
+      "explanation": "Monetary policy involves managing money and credit, principally by setting interest rate targets and buying or selling securities. The Federal Reserve was designed to be insulated from day-to-day politics so it could act against inflation even when tighter credit is unpopular. Fiscal tools, by contrast, require elected officials to change taxes or spending.",
+      "memoryHook": "T-Rexy says: Fed and rates mean monetary - Congress and budgets mean fiscal.",
+      "tags": [
+        "monetary-policy",
+        "federal-reserve"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a central bank building with a large interest rate dial being turned upward while loan and credit flows to businesses and households narrow, mature analytical style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Separate the actor first - Federal Reserve actions are monetary, congressional budget actions are fiscal.",
+        "title": "FEDERAL RESERVE ACTION"
+      }
+    },
+    {
+      "id": "OHC12_056",
+      "question": "A company sells a dietary supplement with false health claims, and a factory releases unsafe products because cutting corners is cheaper than testing them. Which rationale best explains government regulation in both cases?",
+      "correctAnswer": "Regulation can correct market failures and protect the public from fraud and unsafe products when private incentives alone are insufficient",
+      "distractors": [
+        "Regulation exists mainly to guarantee profits for the largest firms in an industry",
+        "Regulation replaces all private ownership with direct government production",
+        "Regulation is required only when a company exports products to other countries"
+      ],
+      "difficulty": "easy",
+      "explanation": "Markets do not always produce safe or honest outcomes, especially when consumers lack information or when harm falls on third parties. Regulation sets enforceable standards for safety, labeling, and fair dealing. It operates within a market economy rather than replacing it.",
+      "memoryHook": "T-Rexy says: When the market alone leaves people unprotected, rules step in.",
+      "tags": [
+        "regulation",
+        "market-failure"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of inspectors testing products in a laboratory and checking a factory production line for safety, with a consumer protected by a shield symbol, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Link each regulation example to fraud, safety, or a broader market failure.",
+        "title": "WHY GOVERNMENTS REGULATE"
+      }
+    },
+    {
+      "id": "OHC12_057",
+      "question": "In the United States, most businesses are privately owned and prices are largely set by supply and demand, yet government builds roads, enforces contracts, provides public schools, and operates programs such as Social Security. Which term best describes this system?",
+      "correctAnswer": "A mixed economy",
+      "distractors": [
+        "A command economy",
+        "A purely free-market economy with no government role",
+        "A traditional economy based on custom and barter"
+      ],
+      "difficulty": "easy",
+      "explanation": "A mixed economy combines private enterprise and market decisions with significant government roles in providing public goods, enforcing rules, and supporting economic security. Government is neither absent nor in total control. Most modern economies, including the United States, fit this description.",
+      "memoryHook": "T-Rexy says: Private markets plus public roles equals a mixed economy.",
+      "tags": [
+        "mixed-economy",
+        "economic-roles"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration blending private storefronts and a marketplace on one side with public roads, a school, and government services on the other side in a single cityscape, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Look for both private choice and government provision in the same system.",
+        "title": "MIXED ECONOMY BALANCE"
+      }
+    },
+    {
+      "id": "OHC12_058",
+      "question": "Two workers earn different incomes. The lower earner pays 10 percent on the first portion of income, while the higher earner pays 10 percent on that same first portion and higher rates only on income above each threshold. Which principle does this illustrate?",
+      "correctAnswer": "A progressive income tax with marginal tax rates",
+      "distractors": [
+        "A regressive tax that takes a larger share from lower incomes",
+        "A flat tax in which every dollar is taxed at an identical rate",
+        "A sales tax applied equally at the point of purchase"
+      ],
+      "difficulty": "medium",
+      "explanation": "Under a progressive structure, higher portions of income are taxed at higher marginal rates, but no one pays the top rate on all of their income. Moving into a higher bracket does not reduce take-home pay from the lower brackets. The design is based on ability to pay.",
+      "memoryHook": "T-Rexy says: Marginal means the higher rate applies only to the extra slice.",
+      "tags": [
+        "progressive-tax",
+        "income-tax"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of stacked income layers for two workers, with lower layers shaded lightly and higher layers shaded more intensely to show rising marginal rates, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Visualize income as stacked slices - each slice can have its own rate.",
+        "title": "PROGRESSIVE TAX BRACKETS"
+      }
+    },
+    {
+      "id": "OHC12_059",
+      "question": "A retired worker receives a monthly Social Security payment funded largely by payroll taxes collected from current workers, and eligibility is set by law rather than by annual congressional appropriations for each recipient. Which description is most accurate?",
+      "correctAnswer": "Social Security is an entitlement program in which qualified beneficiaries have a legal right to benefits under established criteria",
+      "distractors": [
+        "Social Security is a private savings account that each worker individually owns and invests without government rules",
+        "Social Security payments are voluntary charitable grants that can be ended for all recipients without any change in law",
+        "Social Security is funded only by state sales taxes and administered by city governments"
+      ],
+      "difficulty": "medium",
+      "explanation": "Entitlement programs provide benefits to anyone who meets eligibility criteria established in law. Social Security operates mainly as a pay-as-you-go system, with current payroll taxes funding current benefits alongside trust fund reserves. Changing benefits generally requires changing the underlying law.",
+      "memoryHook": "T-Rexy says: Meet the legal criteria, and the benefit is an entitlement - not a yearly gift.",
+      "tags": [
+        "social-security",
+        "entitlement-programs"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of working adults contributing through payroll to a shared fund that supports a retired adult, showing an intergenerational flow in a mature respectful style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Remember pay-as-you-go - current workers largely fund current retirees.",
+        "title": "SOCIAL SECURITY BASICS"
+      }
+    },
+    {
+      "id": "OHC12_060",
+      "question": "For much of United States history, the Bill of Rights was read as limiting only the federal government. A student argues that a state cannot censor a peaceful newspaper because of the First Amendment. Which doctrine makes that argument possible, and through which clause?",
+      "correctAnswer": "Selective incorporation, applying most Bill of Rights protections to the states through the Due Process Clause of the Fourteenth Amendment",
+      "distractors": [
+        "Selective incorporation, applying the Bill of Rights to the states through the Commerce Clause",
+        "Dual federalism, which holds that the Bill of Rights can never limit a state",
+        "Judicial restraint, which automatically transfers all federal powers to the states"
+      ],
+      "difficulty": "hard",
+      "explanation": "Beginning in the twentieth century, the Supreme Court incorporated most provisions of the Bill of Rights against the states case by case. The vehicle was the Fourteenth Amendment, ratified after the Civil War, which bars states from depriving any person of liberty without due process. Incorporation is selective rather than total, but it now covers most major rights.",
+      "memoryHook": "T-Rexy says: The Fourteenth is the bridge that carries rights to the states, one case at a time.",
+      "tags": [
+        "selective-incorporation",
+        "fourteenth-amendment",
+        "bill-of-rights"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a bridge connecting a national capitol to a state capitol, with shield symbols representing individual rights crossing the bridge one by one, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Incorporation questions almost always point to the Fourteenth Amendment due process clause.",
+        "title": "INCORPORATION DOCTRINE"
+      }
+    },
+    {
+      "id": "OHC12_061",
+      "question": "In an Ohio American Government class, students study a 1961 case in which police forced entry into a Cleveland home without a valid warrant and seized evidence that was then used at trial. The Supreme Court reversed the conviction. Which holding explains the result?",
+      "correctAnswer": "Under Mapp v. Ohio, evidence seized in an illegal search is excluded at trial because the exclusionary rule applies to the states",
+      "distractors": [
+        "Under Mapp v. Ohio, illegally seized evidence is always admissible if police acted in good faith and the charge is serious",
+        "Under Mapp v. Ohio, states may conduct warrantless searches of homes whenever they suspect a crime",
+        "Under Mapp v. Ohio, the exclusionary rule applies only in federal court and never in a state trial"
+      ],
+      "difficulty": "medium",
+      "explanation": "Mapp v. Ohio applied the Fourth Amendment exclusionary rule to state prosecutions through the Fourteenth Amendment. If police obtain evidence through an unconstitutional search, the prosecution generally cannot use that evidence at trial. The rule is intended to deter unlawful police conduct.",
+      "memoryHook": "T-Rexy says: Illegal search, excluded evidence - that is Mapp.",
+      "tags": [
+        "mapp-v-ohio",
+        "exclusionary-rule",
+        "fourth-amendment"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a courtroom evidence table with a barrier blocking improperly obtained items from reaching the jury box, while lawful procedure is represented by an intact doorway in the background, mature style without any identifiable person. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Connect Mapp to Ohio, illegal search, and exclusion of evidence at trial.",
+        "title": "MAPP EXCLUSIONARY RULE"
+      }
+    },
+    {
+      "id": "OHC12_062",
+      "question": "An Ohio speaker at a rally uses offensive language and calls in general terms for action against a group at some indefinite future time, but does not urge an immediate crime likely to happen. Ohio prosecutes him under a law banning advocacy of violence. Under Brandenburg v. Ohio, how should a court analyze the case?",
+      "correctAnswer": "The speech is protected unless it was directed at inciting imminent lawless action and was likely to produce such action",
+      "distractors": [
+        "The speech is unprotected whenever it expresses support for any unlawful idea, regardless of timing or likelihood",
+        "The speech is protected only if every listener agrees with its message",
+        "The speech is unprotected because offensive political speech has no First Amendment protection"
+      ],
+      "difficulty": "hard",
+      "explanation": "Brandenburg v. Ohio set a demanding two-part test for punishing advocacy of violence or crime. Both intent to incite imminent lawless action and likelihood of producing it must be shown. Abstract advocacy, however offensive, remains protected when those elements are missing.",
+      "memoryHook": "T-Rexy says: Brandenburg needs both - directed at imminent action and likely to cause it.",
+      "tags": [
+        "brandenburg-v-ohio",
+        "free-speech",
+        "first-amendment"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a public rally speaker at a distance from a calm crowd, with a symbolic clock and a broken chain showing that no immediate unlawful act follows, mature style without any identifiable person. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Check both prongs - imminence and likelihood - before calling advocacy unprotected.",
+        "title": "IMMINENT ACTION TEST"
+      }
+    },
+    {
+      "id": "OHC12_063",
+      "question": "A defendant who cannot afford a lawyer is charged with a felony, and after arrest police question him in custody without telling him he may remain silent and have counsel present. Which pair of protections is directly implicated?",
+      "correctAnswer": "Gideon v. Wainwright guarantees counsel for indigent felony defendants in state court, and Miranda warnings protect the Fifth and Sixth Amendment rights of a person in custodial interrogation",
+      "distractors": [
+        "Gideon guarantees a free lawyer in every civil lawsuit, and Miranda warnings apply only after a trial has ended",
+        "Gideon abolished the right to remain silent, and Miranda requires suspects to answer all police questions",
+        "Gideon applies only in federal court, and Miranda warnings are required before any traffic stop conversation"
+      ],
+      "difficulty": "medium",
+      "explanation": "Gideon v. Wainwright incorporated the Sixth Amendment right to counsel and required states to provide counsel to felony defendants who cannot afford one, while Miranda v. Arizona requires warnings before custodial interrogation so suspects understand their right to silence and to counsel. Together they make constitutional rights usable in practice, not just on paper.",
+      "memoryHook": "T-Rexy says: Gideon gives the lawyer - Miranda gives the warnings.",
+      "tags": [
+        "gideon-v-wainwright",
+        "miranda-warnings",
+        "right-to-counsel"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a courtroom with a defense attorney seated beside a defendant facing a judge bench in silhouette, and a separate police interview room with an officer pausing before questioning, mature style without any identifiable person. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Separate the settings - Gideon is trial counsel, Miranda is custodial questioning.",
+        "title": "COUNSEL AND WARNINGS"
+      }
+    },
+    {
+      "id": "OHC12_064",
+      "question": "A state agency revokes a professional license after a closed meeting, giving the license holder no notice of the charges and no chance to respond. A federal court finds a constitutional violation even though the agency followed its own written steps on paper. Which concept is at issue?",
+      "correctAnswer": "Procedural due process under the Fifth and Fourteenth Amendments, which requires fair procedures such as notice and an opportunity to be heard before government deprives a person of life, liberty, or property",
+      "distractors": [
+        "Substantive due process only, which concerns whether the license law itself is popular with voters",
+        "The Establishment Clause, which governs official state involvement with religion",
+        "The right to a jury trial in all administrative matters, with no requirement of advance notice"
+      ],
+      "difficulty": "hard",
+      "explanation": "Procedural due process focuses on how government acts, not only on what it decides. The Fifth Amendment limits the federal government and the Fourteenth Amendment limits the states with nearly identical language. Notice and a meaningful hearing are core safeguards before a protected interest is taken away.",
+      "memoryHook": "T-Rexy says: Procedural means process - notice first, a chance to be heard, then a decision.",
+      "tags": [
+        "due-process",
+        "fifth-amendment",
+        "fourteenth-amendment"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a formal hearing room with an empty chair facing a panel, a sealed notice envelope on the table, and balanced scales symbolizing a fair procedure, mature style without any identifiable person. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "If the facts stress no notice and no hearing, answer procedural due process.",
+        "title": "PROCEDURAL DUE PROCESS"
+      }
+    },
+    {
+      "id": "OHC12_065",
+      "question": "A school system assigns Black and white children to separate schools by law, and the facilities are claimed to be roughly equal in funding. Parents challenge the system as inherently unequal. Which case and clause support their challenge?",
+      "correctAnswer": "Brown v. Board of Education, under the Equal Protection Clause of the Fourteenth Amendment, holding that separate educational facilities are inherently unequal",
+      "distractors": [
+        "Plessy v. Ferguson, under the Equal Protection Clause, holding that separate but equal is always constitutional in schools",
+        "Brown v. Board of Education, under the Free Exercise Clause, holding only that school prayer is required",
+        "Marbury v. Madison, under the Commerce Clause, establishing judicial review of school budgets"
+      ],
+      "difficulty": "medium",
+      "explanation": "In Brown v. Board of Education in 1954, the Supreme Court unanimously rejected state-mandated segregation in public schools. The Court held that separating children by race generates a feeling of inferiority that undermines equal educational opportunity. The decision rested on the Fourteenth Amendment guarantee of equal protection of the laws.",
+      "memoryHook": "T-Rexy says: Brown taught that separate in public schools is inherently unequal.",
+      "tags": [
+        "brown-v-board",
+        "equal-protection",
+        "fourteenth-amendment"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of children of different backgrounds walking together through the open doors of a single public school building in the morning light, mature respectful style without any identifiable person. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Equal protection plus school segregation points directly to Brown.",
+        "title": "BROWN AND EQUALITY"
+      }
+    },
+    {
+      "id": "OHC12_066",
+      "question": "A historian asks students to distinguish two landmark laws. One banned discrimination in public accommodations and employment, and the other outlawed literacy tests and authorized federal oversight of elections in areas with a history of discrimination. Which pairing is correct?",
+      "correctAnswer": "The Civil Rights Act of 1964 banned discrimination in public accommodations and employment, and the Voting Rights Act of 1965 targeted barriers to Black voting",
+      "distractors": [
+        "The Civil Rights Act of 1964 targeted barriers to voting only, and the Voting Rights Act of 1965 banned discrimination in employment only",
+        "Both laws dealt only with school funding formulas and neither addressed voting or employment",
+        "The Civil Rights Act of 1964 created the Electoral College, and the Voting Rights Act of 1965 abolished it"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Civil Rights Act of 1964 was a broad ban on discrimination based on race, color, religion, sex, or national origin in public accommodations and employment. The Voting Rights Act of 1965 focused specifically on the vote, suspending literacy tests and providing federal enforcement. Together they gave the civil rights movement strong legal tools.",
+      "memoryHook": "T-Rexy says: 1964 opens doors and jobs - 1965 protects the vote.",
+      "tags": [
+        "civil-rights-act",
+        "voting-rights-act"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration with two panels showing diverse workers entering a workplace and diverse citizens casting ballots at a polling place, connected by a shared timeline motif, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Anchor the years - 1964 for broad civil rights, 1965 for voting rights.",
+        "title": "LANDMARK CIVIL RIGHTS LAWS"
+      }
+    },
+    {
+      "id": "OHC12_067",
+      "question": "A public school begins each day with a teacher-led prayer from one faith, while separately a student is punished for quietly wearing a religious symbol that causes no disruption. Which analysis correctly applies the two religion clauses of the First Amendment?",
+      "correctAnswer": "The teacher-led prayer raises an Establishment Clause problem because government is endorsing religion, while punishing the student raises a Free Exercise Clause problem because government is burdening private religious practice",
+      "distractors": [
+        "Both actions raise only Free Exercise problems because the Establishment Clause applies solely to Congress creating a national church building",
+        "Both actions are permitted because public schools are exempt from the First Amendment",
+        "The teacher-led prayer is a Free Exercise right of the school as government, and the student has no religion rights at school"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Establishment Clause limits government sponsorship or endorsement of religion, which is why school-led prayer has been struck down. The Free Exercise Clause protects individuals from government punishment for their religious beliefs and practices, within limits. The two clauses can pull in different directions and courts balance them case by case.",
+      "memoryHook": "T-Rexy says: Establishment stops government from pushing religion - Free Exercise stops government from punishing it.",
+      "tags": [
+        "establishment-clause",
+        "free-exercise",
+        "first-amendment"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a balance scale with a government building on one side held back from a house of worship and a student with a small personal religious symbol on the other side protected by a shield, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Ask who is acting - government endorsing is Establishment, individual practicing is Free Exercise.",
+        "title": "TWO RELIGION CLAUSES"
+      }
+    },
+    {
+      "id": "OHC12_068",
+      "question": "A parent asks why curriculum standards, teacher licensing, and graduation requirements differ from state to state instead of being set by a single national rule. Which constitutional explanation is strongest?",
+      "correctAnswer": "Education is not listed as a federal power, so under the Tenth Amendment it is reserved largely to the states and the people",
+      "distractors": [
+        "The First Amendment assigns all education decisions to the federal Department of Education",
+        "Article I, Section 10 requires Congress to set every state curriculum directly",
+        "The Electoral College gives the President sole authority over state school standards"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Tenth Amendment reserves powers not delegated to the federal government, nor prohibited to the states, to the states or the people. Because the Constitution does not grant Congress a general power over education, states have historically led on schools. Federal influence usually comes through funding conditions and civil rights laws rather than direct control.",
+      "memoryHook": "T-Rexy says: Not listed for the nation, reserved to the states - that is the Tenth.",
+      "tags": [
+        "tenth-amendment",
+        "education-policy",
+        "reserved-powers"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a state capitol building overseeing a variety of local school buildings with distinct architectural details, suggesting state-level decision making, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Unlisted powers default to the states under the Tenth Amendment.",
+        "title": "EDUCATION AND THE TENTH"
+      }
+    },
+    {
+      "id": "OHC12_069",
+      "question": "A worker in Columbus pays federal income tax to the United States and state income tax to Ohio on the same paycheck, and both taxes are constitutional. Which category of power explains this?",
+      "correctAnswer": "Concurrent powers, which are shared by the federal and state governments",
+      "distractors": [
+        "Enumerated powers, which belong to the states alone",
+        "Reserved powers, which belong to the federal government alone",
+        "Denied powers, which neither level may exercise"
+      ],
+      "difficulty": "easy",
+      "explanation": "Concurrent powers are exercised by both levels of government, and taxation is the classic example. Other concurrent powers include building roads, establishing courts, and borrowing money. A power is not exclusive simply because the federal government uses it.",
+      "memoryHook": "T-Rexy says: Concurrent means both can do it at the same time - taxing is the classic case.",
+      "tags": [
+        "concurrent-powers",
+        "federalism",
+        "taxation"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a single paycheck in the center with two separate civic buildings in the background representing national and state governments, each connected by its own channel, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Both levels acting lawfully on the same activity signals a concurrent power.",
+        "title": "SHARED TAXING POWER"
+      }
+    },
+    {
+      "id": "OHC12_070",
+      "question": "An Ohio lawmaker proposes that the state sign its own treaty with a foreign nation, coin its own currency, and impose a tax on imports arriving from abroad. A constitutional scholar objects to all three proposals. On what basis?",
+      "correctAnswer": "Article I, Section 10 denies those powers to the states in order to keep foreign affairs, currency, and import duties under national control",
+      "distractors": [
+        "The Tenth Amendment reserves treaty making, coinage, and import taxes exclusively to the states",
+        "The First Amendment prohibits states from any economic legislation affecting trade",
+        "Those powers are denied only to Congress, while states may use them freely"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article I, Section 10 lists powers denied to the states, including making treaties, coining money, and laying duties on imports or exports without congressional consent. The Framers wanted a single national voice in foreign affairs and a uniform economic system. State proposals in these areas are unconstitutional regardless of their popularity at home.",
+      "memoryHook": "T-Rexy says: Section 10 is the stop list for states - no treaties, no coinage, no import taxes.",
+      "tags": [
+        "denied-powers",
+        "article-i-section-10",
+        "federalism"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a state capitol behind a firm constitutional barrier blocking symbols of a foreign treaty scroll, coined currency, and a port import tax station, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Memorize the Section 10 stop list and contrast it with reserved powers.",
+        "title": "POWERS DENIED STATES"
+      }
+    },
+    {
+      "id": "OHC12_071",
+      "question": "A city needs land for a new public water treatment plant and offers the owner the independently appraised fair market value of the property. The owner objects that government may never take private property. Which response is constitutionally correct?",
+      "correctAnswer": "Under the Fifth Amendment takings clause, government may take private property for public use if it pays just compensation",
+      "distractors": [
+        "Government may take private property for any private development without paying compensation",
+        "The Fifth Amendment bans all takings, even for public use with full payment",
+        "Only state governments may use eminent domain, and the Fifth Amendment does not apply to them"
+      ],
+      "difficulty": "medium",
+      "explanation": "Eminent domain is the power to take private property for public use. The Fifth Amendment, applied to the states through the Fourteenth, does not forbid takings but conditions them on public use and just compensation. Disputes usually center on whether the use is public and whether the payment is truly just.",
+      "memoryHook": "T-Rexy says: Public use plus just pay - both parts are required.",
+      "tags": [
+        "eminent-domain",
+        "takings-clause",
+        "fifth-amendment"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a planned public water treatment facility on open land with surveyors, an appraisal handshake between a city official and a property owner, and a balanced scale motif, mature style without any identifiable person. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Check for both elements - public use and just compensation.",
+        "title": "EMINENT DOMAIN LIMITS"
+      }
+    },
+    {
+      "id": "OHC12_072",
+      "question": "Students wear black armbands at school to silently protest a war. No classes are disrupted, but administrators suspend them solely because they dislike the message. Under Tinker v. Des Moines, what is the likely outcome?",
+      "correctAnswer": "The students likely win, because schools may limit student speech only when it substantially disrupts school work or invades the rights of others",
+      "distractors": [
+        "The school likely wins, because students lose all First Amendment rights at the schoolhouse gate",
+        "The students likely win only if a majority of teachers agree with their viewpoint",
+        "The school likely wins whenever any student speech expresses a political opinion"
+      ],
+      "difficulty": "medium",
+      "explanation": "In Tinker v. Des Moines in 1969, the Court held that students do not shed their constitutional rights at the schoolhouse gate. Pure, non-disruptive expression is protected, and officials must show a reasonable forecast of substantial disruption to restrict it. Disagreement with the viewpoint alone is not enough.",
+      "memoryHook": "T-Rexy says: Tinker protects quiet protest - disruption is the line.",
+      "tags": [
+        "tinker-v-des-moines",
+        "student-speech",
+        "first-amendment"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of students in a calm school hallway wearing plain dark armbands while classes proceed normally around them, mature respectful style without any identifiable person. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Apply the Tinker test - was there substantial disruption or only disagreement?",
+        "title": "STUDENT SPEECH RIGHTS"
+      }
+    },
+    {
+      "id": "OHC12_073",
+      "question": "In a seminar debate, one student argues the Electoral College forces candidates to build broad geographic coalitions and protects the federal character of the election, while another argues a candidate can win the presidency while losing the national popular vote, undermining majority rule. Which evaluation is most balanced?",
+      "correctAnswer": "Both points identify real trade-offs - the system privileges broad state-by-state support within a federal structure, at the cost of sometimes diverging from the national popular vote",
+      "distractors": [
+        "Only the defense is valid, because the Electoral College has never produced a winner who lost the popular vote",
+        "Only the criticism is valid, because electors are legally required in every state to follow the national popular vote",
+        "Neither point is relevant, because the Electoral College is used only to elect state governors"
+      ],
+      "difficulty": "hard",
+      "explanation": "Defenders value the Electoral College for requiring geographically broad support and preserving a role for states in choosing the President. Critics focus on popular vote mismatches, winner-take-all distortions in most states, and reduced attention to non-competitive states. A balanced analysis weighs democratic legitimacy against federalism rather than treating either value as cost-free.",
+      "memoryHook": "T-Rexy says: Weigh federal breadth against popular majority - the debate is the trade-off.",
+      "tags": [
+        "electoral-college",
+        "elections",
+        "federalism"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a seminar balance scale with a map of many states on one side and a large crowd of individual voters on the other side in careful equilibrium, mature analytical style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "For debate scenarios, name the value each side protects and the cost it accepts.",
+        "title": "ELECTORAL COLLEGE DEBATE"
+      }
+    },
+    {
+      "id": "OHC12_074",
+      "question": "A coalition of parents, a professional association, and a local business group wants a state to fund expanded school counseling. They publish research, testify at hearings, meet legislators, run a public information campaign, and support candidates who back the proposal, which then passes. Which conclusion best explains their influence?",
+      "correctAnswer": "Interest groups shaped the outcome by combining information, testimony, public pressure, and electoral support to move an issue through the policymaking process",
+      "distractors": [
+        "Interest groups shaped the outcome by casting the deciding votes on the bill themselves in the legislature",
+        "Interest groups have no lawful way to influence policy, so the passage must have been unrelated to their work",
+        "Interest groups influenced the outcome only by offering legislators personal payments, which is a protected part of lobbying"
+      ],
+      "difficulty": "hard",
+      "explanation": "Interest groups influence policy without holding office by supplying expertise, organizing constituents, testifying, shaping public opinion, and engaging in elections. Their activity is a normal and constitutionally protected part of democratic policymaking, though critics watch for unequal access and improper inducements. In this scenario, multiple lawful strategies worked across several stages of the process.",
+      "memoryHook": "T-Rexy says: Groups persuade and organize - legislators still cast the votes.",
+      "tags": [
+        "interest-groups",
+        "public-policy",
+        "lobbying"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of diverse community members presenting research at a legislative hearing, speaking with lawmakers in a hallway, and addressing a public forum, mature style without any identifiable person. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "List the lawful tools groups use and keep them separate from the formal vote.",
+        "title": "INTEREST GROUP INFLUENCE"
+      }
+    },
+    {
+      "id": "OHC12_075",
+      "question": "On a single morning, a resident drinks tap water, drives on a repaired street past a public library branch, and sees a fire crew responding nearby while trash is collected at the curb. Which level of government is most directly responsible for most of these daily services?",
+      "correctAnswer": "Local government - cities, counties, townships, and special districts",
+      "distractors": [
+        "The federal government acting through the Federal Reserve",
+        "Foreign governments under treaty agreements with the state",
+        "Private charities, because local governments provide no direct services"
+      ],
+      "difficulty": "easy",
+      "explanation": "Local governments are the layer citizens encounter most often, providing or overseeing water, streets, police and fire protection, libraries, parks, and waste collection. Counties, municipalities, townships, and special districts divide these tasks in different combinations by state. Their budgets rely heavily on property taxes, local sales taxes, and fees.",
+      "memoryHook": "T-Rexy says: The services you touch every day are usually local.",
+      "tags": [
+        "local-government",
+        "public-services"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a morning neighborhood scene with a water tap, a repaired street, a library branch, a fire crew in the distance, and a waste collection truck at the curb, mature style. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Daily contact is the clue - water, streets, safety, and trash are local.",
+        "title": "LOCAL SERVICES DAILY"
+      }
+    },
+    {
+      "id": "OHC12_076",
+      "question": "Which set of principles appears in both the Ohio Constitution and the U.S. Constitution?",
+      "correctAnswer": "Separation of powers, checks and balances, limited government, a bill of rights, popular sovereignty, and elections",
+      "distractors": [
+        "A single national religion, hereditary office, and rule by executive decree",
+        "Unlimited executive power, lifetime state legislators, and no written rights protections",
+        "Direct rule by federal officials in all state matters and no state courts"
+      ],
+      "difficulty": "easy",
+      "explanation": "Both constitutions rest on the same structural ideas: power is divided among branches, each branch can check the others, and government is limited by written law. Both also protect rights in a bill of rights and ground authority in the people, who choose their officials through elections.",
+      "memoryHook": "T-Rexy says: Same blueprint, two buildings - principles shared, levels different.",
+      "tags": [
+        "ohio-constitution",
+        "us-constitution",
+        "shared-principles"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of two marble government buildings side by side, one domed statehouse and one national capitol, connected by balanced scales and three separate pillars in morning light. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "List the shared principles in pairs to lock in both structure and rights.",
+        "title": "SHARED CONSTITUTIONAL PRINCIPLES"
+      }
+    },
+    {
+      "id": "OHC12_077",
+      "question": "In Ohio, what is an initiative?",
+      "correctAnswer": "A process in which citizens propose a law or constitutional amendment by petition and place it directly before the voters",
+      "distractors": [
+        "A process in which the Governor orders the General Assembly to pass a specific bill",
+        "A process in which voters decide whether to keep or remove an elected official before the term ends",
+        "A process in which the Supreme Court of Ohio reviews a bill before it becomes law"
+      ],
+      "difficulty": "easy",
+      "explanation": "The initiative is a form of direct democracy reserved to Ohio citizens. By gathering the required petition signatures, citizens can propose a statute or a constitutional amendment themselves and send the proposal straight to the ballot for voters to decide.",
+      "memoryHook": "T-Rexy says: Initiative starts with I - citizens initiate the idea.",
+      "tags": [
+        "initiative",
+        "direct-democracy",
+        "ohio-voters"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of adult citizens at a table outside the Ohio Statehouse collecting signatures on clipboards, with a ballot box nearby and the statehouse dome behind them. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Link initiative to its first step: citizens, not legislators, draft the proposal.",
+        "title": "CITIZENS PROPOSE LAW"
+      }
+    },
+    {
+      "id": "OHC12_078",
+      "question": "In Ohio, what is a referendum?",
+      "correctAnswer": "A process in which voters approve or reject a law already passed by the General Assembly, after citizens petition to put it on the ballot",
+      "distractors": [
+        "A process in which citizens write an entirely new law and enact it without a vote",
+        "A process in which the Governor sends a bill back to the General Assembly for revision",
+        "A process in which county commissioners choose members of the General Assembly"
+      ],
+      "difficulty": "easy",
+      "explanation": "A referendum is a check on a law the legislature has already enacted. Ohio citizens who oppose the law can petition to refer it to the voters, who then approve or reject it at the ballot box.",
+      "memoryHook": "T-Rexy says: Referendum means refer it back - the law goes back to the people.",
+      "tags": [
+        "referendum",
+        "direct-democracy",
+        "general-assembly"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of voters in a polling place reviewing a single measure on a ballot, with the Ohio Statehouse visible through a window in soft daylight. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Remember referendum reacts to an existing law; it does not start one.",
+        "title": "VOTERS JUDGE LAW"
+      }
+    },
+    {
+      "id": "OHC12_079",
+      "question": "Ohio voters learn that the General Assembly has just passed a tax law they oppose, so they gather petition signatures to place that law itself before voters for approval or rejection. Which power are they using?",
+      "correctAnswer": "Referendum, because they are referring a law the General Assembly already passed to the voters",
+      "distractors": [
+        "Initiative, because they are proposing an entirely new law of their own drafting",
+        "Recall, because they are removing the legislators who passed the law from office",
+        "Veto, because they are acting as the Governor to block the law from taking effect"
+      ],
+      "difficulty": "medium",
+      "explanation": "The key fact in the scenario is that the law already exists and came from the General Assembly. Petitioning to let voters approve or reject that enacted law is a referendum, while an initiative would begin with a new proposal written by citizens.",
+      "memoryHook": "T-Rexy says: Already passed? Referendum. Brand new proposal? Initiative.",
+      "tags": [
+        "initiative-vs-referendum",
+        "scenario",
+        "direct-democracy"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a split scene with legislators debating inside a chamber on one side and citizens carrying petition folders toward a ballot box on the other, divided by the Ohio River in the distance. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "In scenarios, ask who acted first - the legislature or the citizens.",
+        "title": "TELL THEM APART"
+      }
+    },
+    {
+      "id": "OHC12_080",
+      "question": "How do Ohio judges obtain their offices, and how does that differ from federal judges?",
+      "correctAnswer": "Ohio judges are elected by the voters, while federal judges are appointed and serve for life",
+      "distractors": [
+        "Ohio judges are appointed by the Governor for life, while federal judges are elected by the voters",
+        "Ohio judges are chosen by the General Assembly, while federal judges are chosen by state governors",
+        "Both Ohio and federal judges are elected by the voters to six-year terms"
+      ],
+      "difficulty": "easy",
+      "explanation": "Ohio places its judiciary directly before the electorate, so judges at all levels of the state system stand for election. The federal system works differently: federal judges are appointed and hold office for life under the U.S. Constitution.",
+      "memoryHook": "T-Rexy says: Ohio judges face voters; federal judges hold life seats.",
+      "tags": [
+        "ohio-judges",
+        "elections",
+        "federal-comparison"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a robed judge standing before a line of voters at a county courthouse, with a gavel and scales of justice on a table and an American flag in the background. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Pair Ohio elected judges against federal appointed, life-tenured judges.",
+        "title": "OHIO JUDGES ELECTED"
+      }
+    },
+    {
+      "id": "OHC12_081",
+      "question": "Which statement correctly describes term limits as a difference between Ohio government and the federal government?",
+      "correctAnswer": "Ohio limits the consecutive service of its state legislators, while the U.S. Constitution sets no term limits for members of Congress",
+      "distractors": [
+        "Ohio sets no term limits for state legislators, while the U.S. Constitution limits members of Congress to two terms",
+        "Both Ohio and the U.S. Constitution limit members of Congress to the same number of consecutive terms",
+        "Ohio limits the terms of members of Congress, while Congress limits the terms of Ohio legislators"
+      ],
+      "difficulty": "medium",
+      "explanation": "Term limits are a state-level restriction in Ohio: state legislators may serve only a limited number of consecutive terms in the same chamber. No comparable limit appears in the U.S. Constitution for senators or representatives, who may be re-elected indefinitely.",
+      "memoryHook": "T-Rexy says: Ohio caps its own legislators; Congress has no constitutional cap.",
+      "tags": [
+        "term-limits",
+        "general-assembly",
+        "federal-comparison"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of an hourglass beside rows of empty legislative desks inside a statehouse chamber, with a calendar wheel turning in muted colors. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Attach term limits to Ohio legislators only - not to Congress.",
+        "title": "TERM LIMITS DIFFERENCE"
+      }
+    },
+    {
+      "id": "OHC12_082",
+      "question": "What major change did the Ohio Constitution of 1851 make regarding executive officials?",
+      "correctAnswer": "Major executive officials became elected by the voters rather than appointed",
+      "distractors": [
+        "Major executive officials became appointed by the Governor rather than elected",
+        "Major executive offices were abolished and their duties given to the legislature",
+        "Major executive officials became appointed for life by the Supreme Court of Ohio"
+      ],
+      "difficulty": "medium",
+      "explanation": "Under the 1803 frame, appointments were concentrated in the General Assembly, leaving voters with little direct say over the executive branch. The 1851 Constitution answered by making major executive officials elected, broadening popular control over state government.",
+      "memoryHook": "T-Rexy says: 1851 moved executive power from appointment to election.",
+      "tags": [
+        "constitution-1851",
+        "executive-branch",
+        "elections"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of nineteenth-century Ohio voters depositing paper ballots into a wooden ballot box outside a brick courthouse, with farmland stretching behind them. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "For 1851, track the direction of change: appointed to elected.",
+        "title": "EXECUTIVES BECAME ELECTED"
+      }
+    },
+    {
+      "id": "OHC12_083",
+      "question": "What major change did the Ohio Constitution of 1851 make regarding judges?",
+      "correctAnswer": "All Ohio judges became elected by the voters rather than appointed",
+      "distractors": [
+        "All Ohio judges became appointed by the Governor with approval of the Senate",
+        "All Ohio judges became selected by the General Assembly for life terms",
+        "All local judgeships were abolished and replaced by federal courts"
+      ],
+      "difficulty": "medium",
+      "explanation": "The 1851 Constitution extended the same democratic reform to the judiciary that it applied to executive officials. Instead of appointment, all Ohio judges would be elected, a system Ohio still uses today.",
+      "memoryHook": "T-Rexy says: 1851 elected everyone - executives and every judge.",
+      "tags": [
+        "constitution-1851",
+        "ohio-judges",
+        "elections"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a nineteenth-century courthouse with a robed judge on its steps facing a crowd of voters, an empty ballot box open in the foreground. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Use the same appointed-to-elected shift for both executives and judges in 1851.",
+        "title": "JUDGES BECAME ELECTED"
+      }
+    },
+    {
+      "id": "OHC12_084",
+      "question": "Why did the Ohio Constitution of 1851 add a system of district courts?",
+      "correctAnswer": "To relieve the overloaded Supreme Court of Ohio by adding an intermediate level of courts",
+      "distractors": [
+        "To replace the Supreme Court of Ohio entirely with regional courts",
+        "To give the Governor a court system separate from the state judiciary",
+        "To handle only cases involving the federal government inside Ohio"
+      ],
+      "difficulty": "hard",
+      "explanation": "Under the earlier system, the Supreme Court of Ohio carried an unsustainable caseload across a growing state. The 1851 Constitution created district courts as an added layer, distributing appellate work and relieving pressure on the state's highest court.",
+      "memoryHook": "T-Rexy says: Too many cases at the top - 1851 built a middle floor.",
+      "tags": [
+        "constitution-1851",
+        "district-courts",
+        "ohio-courts"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a three-tiered courthouse structure shown as stacked stone levels, with stacks of case folders flowing from a crowded top level down to a broader middle level. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Connect district courts to one cause: supreme court overload.",
+        "title": "DISTRICT COURTS ADDED"
+      }
+    },
+    {
+      "id": "OHC12_085",
+      "question": "What fiscal change did the Ohio Constitution of 1851 impose, and why?",
+      "correctAnswer": "It placed strict limits on state debt after earlier state borrowing for canals and internal improvements",
+      "distractors": [
+        "It required the state to borrow freely for any public project the Governor approved",
+        "It banned all taxation in Ohio and funded government entirely through borrowing",
+        "It transferred all state debt to the federal government and to private banks"
+      ],
+      "difficulty": "hard",
+      "explanation": "Ohio had borrowed heavily to finance canals and other internal improvements, leaving the state deep in debt. The framers of 1851 responded with strict constitutional limits on state debt so that future borrowing would be tightly constrained.",
+      "memoryHook": "T-Rexy says: Canal debt taught the lesson - 1851 capped borrowing.",
+      "tags": [
+        "constitution-1851",
+        "state-debt",
+        "canals"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a historic Ohio canal boat on calm water beside a towpath and farmland, with a heavy iron chain and lock in the foreground symbolizing restraint. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Remember the cause first - canal borrowing - then the effect, strict debt limits.",
+        "title": "STRICT DEBT LIMITS"
+      }
+    },
+    {
+      "id": "OHC12_086",
+      "question": "Which description best characterizes the Ohio Constitution of 1803, the frame that the 1851 Constitution was written to correct?",
+      "correctAnswer": "It made the legislature dominant and the governor weak, with appointments concentrated in the General Assembly",
+      "distractors": [
+        "It made the governor dominant and reduced the legislature to an advisory body",
+        "It gave judges control over both executive appointments and state spending",
+        "It divided power equally and gave voters direct election of every state official"
+      ],
+      "difficulty": "hard",
+      "explanation": "Ohio's first constitution reflected deep distrust of executive power, so it built a legislature-dominant system with a weak governor. Appointments were concentrated in the General Assembly, and the resulting imbalance and inefficiency were central problems the 1851 Constitution set out to answer.",
+      "memoryHook": "T-Rexy says: 1803 - legislature on top, governor weak; 1851 rebalanced it.",
+      "tags": [
+        "constitution-1803",
+        "general-assembly",
+        "constitution-1851"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a tilted balance scale inside an early American legislative chamber, one side piled high with wooden desks and the other holding a single small chair, in warm candlelight tones. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Picture 1803 as a lopsided scale tipped toward the legislature.",
+        "title": "LEGISLATURE DOMINANT FRAME"
+      }
+    },
+    {
+      "id": "OHC12_087",
+      "question": "What did the 1912 amendments to the Ohio Constitution establish for cities through municipal home rule?",
+      "correctAnswer": "Ohio cities may adopt their own charters and govern their own local affairs",
+      "distractors": [
+        "Ohio cities must follow a single state-written charter with no local variation",
+        "Ohio cities were placed under direct administration by county commissioners",
+        "Ohio cities gained the power to override the Ohio Constitution on state matters"
+      ],
+      "difficulty": "hard",
+      "explanation": "The 1912 amendments added municipal home rule to the Ohio Constitution. Home rule allows a city to frame and adopt its own charter and to exercise self-government over local affairs, rather than relying entirely on general laws passed by the state.",
+      "memoryHook": "T-Rexy says: Home rule means the city writes its own house rules.",
+      "tags": [
+        "home-rule",
+        "amendments-1912",
+        "municipalities"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a city hall with a distinctive local tower surrounded by neighborhoods, parks, and a riverfront, drawn as a self-contained community within a larger state outline shape formed by fields. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Date plus concept: 1912 equals home rule for municipalities.",
+        "title": "MUNICIPAL HOME RULE"
+      }
+    },
+    {
+      "id": "OHC12_088",
+      "question": "Which two routes can place a proposed amendment to the Ohio Constitution before the voters?",
+      "correctAnswer": "The General Assembly proposes it by three-fifths of each chamber, or citizens initiate it by petition",
+      "distractors": [
+        "The Governor proposes it by executive order, or the Supreme Court of Ohio proposes it by ruling",
+        "County commissioners propose it by majority vote, or the Secretary of State proposes it alone",
+        "Congress proposes it for Ohio, or the Governor adopts it without a statewide vote"
+      ],
+      "difficulty": "hard",
+      "explanation": "Ohio provides both a legislative route and a citizen route for constitutional amendments. The General Assembly may propose an amendment with three-fifths support in each chamber, and citizens may initiate one by petition; in either case, the voters make the final decision.",
+      "memoryHook": "T-Rexy says: Two doors, one ballot - legislature by three-fifths, or citizens by petition.",
+      "tags": [
+        "amending-constitution",
+        "general-assembly",
+        "initiative"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of two converging paths leading to a single ballot box in front of the Ohio Statehouse, one path from a legislative chamber and one from a crowd of citizens carrying folders. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Memorize both routes and the shared endpoint: voters decide.",
+        "title": "AMENDING OHIO CONSTITUTION"
+      }
+    },
+    {
+      "id": "OHC12_089",
+      "question": "In correct order, how does a bill become law in Ohio, including how a veto can be overcome?",
+      "correctAnswer": "It passes both chambers of the General Assembly, the Governor signs it or vetoes it, and the General Assembly can override a veto by three-fifths of each chamber",
+      "distractors": [
+        "It passes one chamber, the Governor signs it, and a veto can be overridden by a simple majority of one chamber",
+        "It is drafted by the Governor, approved by the courts, and takes effect without a legislative vote",
+        "It passes both chambers, the Secretary of State signs it, and no veto override is possible"
+      ],
+      "difficulty": "medium",
+      "explanation": "Ohio lawmaking mirrors the federal process with an Ohio threshold for overrides. A bill must pass both the Senate and the House, then go to the Governor for signature or veto, and the General Assembly can enact it over a veto only with three-fifths of each chamber.",
+      "memoryHook": "T-Rexy says: Both chambers, Governor next, three-fifths to override.",
+      "tags": [
+        "bill-to-law",
+        "general-assembly",
+        "veto-override"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a document folder moving along a stone path through two legislative chambers and then to an executive desk with a pen, inside the Ohio Statehouse. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Recite the sequence aloud: pass, pass, sign or veto, three-fifths override.",
+        "title": "HOW BILLS BECOME LAW"
+      }
+    },
+    {
+      "id": "OHC12_090",
+      "question": "What veto power does the Governor of Ohio hold that the U.S. President does not?",
+      "correctAnswer": "A line-item veto over appropriations bills, allowing the Governor to strike individual items while signing the rest",
+      "distractors": [
+        "A veto over decisions of the Supreme Court of Ohio in funding cases",
+        "A veto over bills passed by Congress that spend money inside Ohio",
+        "A pocket veto that permanently bars the General Assembly from reconsidering any bill"
+      ],
+      "difficulty": "hard",
+      "explanation": "For appropriations bills, Ohio's Governor can reject particular spending items while allowing the remainder of the bill to become law. The U.S. President has no comparable line-item veto and must accept or reject a bill as a whole.",
+      "memoryHook": "T-Rexy says: Ohio Governor can cross out one line; the President takes all or nothing.",
+      "tags": [
+        "line-item-veto",
+        "governor",
+        "appropriations"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of an executive desk with a thick budget folder and a pen drawing a single line through one row of a grid of shapes, the rest of the page left intact under warm light. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Limit the line-item veto to its scope: appropriations bills only.",
+        "title": "LINE ITEM VETO"
+      }
+    },
+    {
+      "id": "OHC12_091",
+      "question": "Which Ohio executive official serves as the state's chief elections officer, and what do the officials in that elected executive row share?",
+      "correctAnswer": "The Secretary of State is chief elections officer, and the Lieutenant Governor, Attorney General, Auditor of State, and Treasurer of State are likewise elected officials",
+      "distractors": [
+        "The Auditor of State is chief elections officer, and the other executive officials are appointed by the Governor",
+        "The Attorney General is chief elections officer, and the other executive officials are chosen by the General Assembly",
+        "The Treasurer of State is chief elections officer, and the other executive officials serve life terms"
+      ],
+      "difficulty": "medium",
+      "explanation": "Ohio's Secretary of State oversees elections as the state's chief elections officer. Ohio does not concentrate its executive branch in the Governor alone: the Lieutenant Governor, Attorney General, Auditor of State, and Treasurer of State are also elected statewide.",
+      "memoryHook": "T-Rexy says: Secretary of State runs elections - and the whole executive row is elected.",
+      "tags": [
+        "secretary-of-state",
+        "elections",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of election workers preparing ballot boxes and voting booths in a spacious hall, with the Ohio Statehouse dome visible through tall windows at dawn. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Anchor elections to the Secretary of State, then list the other four elected executives.",
+        "title": "CHIEF ELECTIONS OFFICER"
+      }
+    },
+    {
+      "id": "OHC12_092",
+      "question": "How do the duties of Ohio's Auditor of State and Treasurer of State differ?",
+      "correctAnswer": "The Auditor of State audits public funds, while the Treasurer of State is custodian of state money",
+      "distractors": [
+        "The Auditor of State holds custody of state money, while the Treasurer of State audits public funds",
+        "The Auditor of State commands the state militia, while the Treasurer of State oversees elections",
+        "Both officials perform the same duty of collecting taxes for county governments"
+      ],
+      "difficulty": "medium",
+      "explanation": "The two fiscal offices divide oversight from custody. The Auditor of State examines and audits how public funds are spent, while the Treasurer of State serves as custodian, holding and managing the state's money.",
+      "memoryHook": "T-Rexy says: Auditor checks the books; Treasurer holds the money.",
+      "tags": [
+        "auditor-of-state",
+        "treasurer-of-state",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of two office scenes side by side, one with an examiner reviewing ledger folders under a lamp and one with a secure vault door guarding stacked coin trays, in muted tones. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Use the verbs: audit for Auditor, custody for Treasurer.",
+        "title": "AUDITOR VERSUS TREASURER"
+      }
+    },
+    {
+      "id": "OHC12_093",
+      "question": "What is the composition and role of the Supreme Court of Ohio?",
+      "correctAnswer": "A Chief Justice and six justices, elected statewide to six-year terms, serving as the state's court of last resort",
+      "distractors": [
+        "A Chief Justice and eight justices, appointed by the Governor to life terms, serving as a trial court",
+        "Seven justices chosen by the General Assembly to four-year terms, hearing only local ordinance cases",
+        "A Chief Justice and six justices, elected by district to two-year terms, subordinate to the courts of appeals"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Supreme Court of Ohio consists of a Chief Justice and six justices, for a total of seven members. They are elected statewide to six-year terms, and the court is Ohio's court of last resort, with final authority on questions of Ohio law.",
+      "memoryHook": "T-Rexy says: Seven seats, six years, last word in Ohio.",
+      "tags": [
+        "supreme-court-ohio",
+        "ohio-courts",
+        "justices"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of seven robed justices seated in a curved row behind a polished wooden bench in a grand marble courtroom, with tall columns and soft window light. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Count it: one Chief plus six equals seven, each on a six-year term.",
+        "title": "SUPREME COURT OHIO"
+      }
+    },
+    {
+      "id": "OHC12_094",
+      "question": "What is the role of Ohio's courts of appeals, and how are they organized?",
+      "correctAnswer": "Twelve districts hear appeals from the trial courts",
+      "distractors": [
+        "Twelve districts conduct original trials for all felony cases in Ohio",
+        "A single statewide district reviews decisions of the Supreme Court of Ohio",
+        "Eighty-eight districts, one per county, hear appeals from the Governor's decisions"
+      ],
+      "difficulty": "medium",
+      "explanation": "Ohio's courts of appeals form the intermediate appellate level of the state judiciary. Organized into twelve districts, they hear appeals from the trial courts, reviewing those decisions before cases can reach the Supreme Court of Ohio.",
+      "memoryHook": "T-Rexy says: Twelve districts carry appeals up from the trial courts.",
+      "tags": [
+        "courts-of-appeals",
+        "ohio-courts",
+        "appellate"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a state map shape divided into twelve regions formed by county lines and rivers, with a courthouse in each region connected by paths toward a central marble building. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Place courts of appeals in the middle: trial courts below, supreme court above.",
+        "title": "TWELVE APPEALS DISTRICTS"
+      }
+    },
+    {
+      "id": "OHC12_095",
+      "question": "What are Ohio's courts of common pleas?",
+      "correctAnswer": "The general-jurisdiction trial court found in each Ohio county",
+      "distractors": [
+        "The statewide appellate court that reviews all trial court decisions",
+        "Small claims offices that handle only parking and traffic violations",
+        "Federal trial courts located in Ohio that apply only federal law"
+      ],
+      "difficulty": "easy",
+      "explanation": "The court of common pleas is the workhorse trial court of Ohio. Present in each county, it is a court of general jurisdiction, meaning it can hear the broad range of civil and criminal cases arising under Ohio law.",
+      "memoryHook": "T-Rexy says: Common pleas in every county - the general trial court.",
+      "tags": [
+        "common-pleas",
+        "ohio-courts",
+        "trial-courts"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a stately county courthouse with a clock tower on a town square, with farmers market stalls and farmland visible beyond the square in late afternoon light. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "General jurisdiction plus every county points to common pleas.",
+        "title": "COURTS COMMON PLEAS"
+      }
+    },
+    {
+      "id": "OHC12_096",
+      "question": "Where are individual rights protected in the Ohio Constitution, and how does that protection relate to the federal constitution?",
+      "correctAnswer": "Article I, Ohio's Bill of Rights, protects individual rights, paralleling the U.S. Bill of Rights",
+      "distractors": [
+        "The preamble alone protects individual rights, with no parallel in federal law",
+        "A separate federal charter governs Ohio rights, and the Ohio Constitution lists none",
+        "Rights in Ohio are protected only by statute and can never appear in its constitution"
+      ],
+      "difficulty": "hard",
+      "explanation": "Ohio's Constitution opens its rights protections in Article I, its Bill of Rights. Like the first amendments to the U.S. Constitution, it guarantees individual rights against government action, so Ohioans hold rights protections at both the state and federal levels.",
+      "memoryHook": "T-Rexy says: Article I in Ohio mirrors the federal Bill of Rights.",
+      "tags": [
+        "bill-of-rights",
+        "article-i",
+        "individual-rights"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of an open parchment scroll beside a shield and a torch on a library table, with the Ohio Statehouse seen softly through an arched window behind them. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Rights in Ohio start at Article I - the first article, like the first amendments federally.",
+        "title": "OHIO BILL RIGHTS"
+      }
+    },
+    {
+      "id": "OHC12_097",
+      "question": "How is county government structured in Ohio, and how many counties does the state have?",
+      "correctAnswer": "Ohio has 88 counties, each with elected commissioners and other county officers delivering state-mandated services",
+      "distractors": [
+        "Ohio has 12 counties, each governed by an appointed manager delivering only federal services",
+        "Ohio has 99 counties, each governed directly by the General Assembly",
+        "Ohio has 88 counties, but county officers are appointed for life and deliver no state services"
+      ],
+      "difficulty": "easy",
+      "explanation": "Ohio is divided into 88 counties, the primary local units for administering many state requirements. Voters elect county commissioners along with other county officers, who deliver the services the state mandates at the local level.",
+      "memoryHook": "T-Rexy says: 88 counties, elected commissioners, state services delivered locally.",
+      "tags": [
+        "counties",
+        "local-government",
+        "ohio-88"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a patchwork of farmland and small towns divided by rivers and roads into many county shapes, viewed from above with a courthouse at the center of one county. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Memorize 88 as Ohio's county count - it recurs across the course.",
+        "title": "OHIO 88 COUNTIES"
+      }
+    },
+    {
+      "id": "OHC12_098",
+      "question": "What is an Ohio township, who runs it, and what does it typically provide?",
+      "correctAnswer": "A local government run by elected trustees, providing services such as roads, cemeteries, and fire protection in unincorporated areas",
+      "distractors": [
+        "A state agency run by the Auditor of State, providing courts and prisons in cities",
+        "A private association run by landowners, providing statewide elections and taxation",
+        "A federal district run by appointed officials, providing highways between states"
+      ],
+      "difficulty": "medium",
+      "explanation": "Townships are a distinct Ohio local government serving mainly unincorporated areas outside cities and villages. Elected trustees govern the township, which typically maintains local roads and cemeteries and provides fire protection for its residents.",
+      "memoryHook": "T-Rexy says: Township trustees handle roads, cemeteries, and fire protection.",
+      "tags": [
+        "townships",
+        "local-government",
+        "trustees"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a modest township hall beside a rural road, with a small fire station, a fenced cemetery, and cornfields stretching to the horizon at sunset. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Trustees plus unincorporated areas identifies a township every time.",
+        "title": "TOWNSHIP TRUSTEES GOVERN"
+      }
+    },
+    {
+      "id": "OHC12_099",
+      "question": "How do Ohio cities and villages differ from unincorporated areas in their legal status and self-government?",
+      "correctAnswer": "Cities and villages are incorporated municipalities, and under home rule, charter cities govern their own local affairs",
+      "distractors": [
+        "Cities and villages are unincorporated areas governed directly by township trustees",
+        "Cities and villages are federal territories that operate outside the Ohio Constitution",
+        "Cities and villages may incorporate only if the Governor personally approves each local law"
+      ],
+      "difficulty": "medium",
+      "explanation": "A city or village exists because it has incorporated as a municipality, giving it a defined local government of its own. Under Ohio's home rule, a city that adopts a charter can govern its local affairs under that charter rather than only under general state law.",
+      "memoryHook": "T-Rexy says: Incorporated means its own government - charter cities rule at home.",
+      "tags": [
+        "municipalities",
+        "home-rule",
+        "cities-villages"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of a small Ohio city skyline along the Ohio River at dusk, with a village main street in the foreground and bridges crossing the water behind it. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Contrast incorporated municipalities with unincorporated township areas.",
+        "title": "CITIES VILLAGES INCORPORATED"
+      }
+    },
+    {
+      "id": "OHC12_100",
+      "question": "Which actions best show Ohioans assisting state and local government by engaging with community problems?",
+      "correctAnswer": "Attending council or township meetings, serving on local boards, and volunteering in the community",
+      "distractors": [
+        "Ignoring local issues until a state official orders residents to act",
+        "Refusing jury service, skipping public meetings, and avoiding all civic contact",
+        "Moving community decisions entirely to federal officials in Washington"
+      ],
+      "difficulty": "easy",
+      "explanation": "Government in Ohio depends on residents who take part between elections as well as at the ballot box. Attending council or township meetings, serving on local boards, and volunteering connect citizens directly to community problems and to the officials working on them.",
+      "memoryHook": "T-Rexy says: Show up, serve, volunteer - civic action is local and hands-on.",
+      "tags": [
+        "civic-action",
+        "local-government",
+        "engagement"
+      ],
+      "imageUrl": "topic:ohio-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration, mature style, of residents of varied ages seated in a township hall meeting, with volunteers planting trees along a nearby road visible through open doors in bright daylight. No text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "For civic action items, choose the answer where citizens participate directly.",
+        "title": "CITIZENS ENGAGE LOCALLY"
+      }
+    }
+  ]
+}
