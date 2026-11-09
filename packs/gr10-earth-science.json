@@ -1,11 +1,11 @@
 {
   "packId": "gr10-earth-science",
   "title": "Earth Science (10th Grade)",
-  "description": "Earth Science (10th Grade) practice - 100 questions",
+  "description": "Earth Science (10th Grade) practice - 110 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 100,
+  "totalQuestions": 110,
   "addedAt": "2026-11-05",
   "tags": [
     "science",
@@ -2012,6 +2012,261 @@
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
+    },
+    {
+      "id": "EAR10_101",
+      "question": "How many physiographic provinces does Virginia have, and which one borders the Atlantic Ocean?",
+      "correctAnswer": "Five provinces, and the Coastal Plain borders the ocean",
+      "distractors": [
+        "Four provinces, and the Piedmont borders the ocean",
+        "Five provinces, and the Blue Ridge borders the ocean",
+        "Six provinces, and the Valley and Ridge borders the ocean"
+      ],
+      "explanation": "Virginia is divided into five physiographic provinces. The easternmost, the Coastal Plain, is the flat lowland that meets the Chesapeake Bay and the Atlantic Ocean.",
+      "memoryHook": "T-Rexy says: Five provinces; the Coastal Plain meets the ocean.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an ocean shoreline giving way inland to five progressively higher landscape bands of plain, hills, and mountains. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Virginia has five provinces; the Coastal Plain is on the coast.",
+        "title": "FIVE PROVINCES, ONE COAST"
+      }
+    },
+    {
+      "id": "EAR10_102",
+      "question": "The Piedmont province is best described as:",
+      "correctAnswer": "A region of rolling hills underlain by hard metamorphic and igneous rock",
+      "distractors": [
+        "A flat plain of loose beach sand and shells",
+        "A high plateau cut by deep coal valleys",
+        "A chain of limestone caves and sinkholes"
+      ],
+      "explanation": "Between the Coastal Plain and the Blue Ridge, the Piedmont is rolling hill country over old, hard metamorphic and igneous bedrock - the eroded roots of ancient mountains.",
+      "memoryHook": "T-Rexy says: The Piedmont is rolling hills over hard old rock.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of gently rolling green hills with rocky outcrops of dark metamorphic stone beside a clear stream. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Piedmont is rolling hills on hard metamorphic and igneous rock.",
+        "title": "ROLLING PIEDMONT HILLS"
+      }
+    },
+    {
+      "id": "EAR10_103",
+      "question": "Why do so many historic Virginia cities, including Richmond, sit along the Fall Line?",
+      "correctAnswer": "Falls blocked boats from traveling farther upstream, and the falling water powered mills",
+      "distractors": [
+        "The Fall Line had the state's only fertile farmland",
+        "Ocean ships could sail past the falls into the mountains",
+        "The boundary was chosen as the safest place from storms"
+      ],
+      "explanation": "At the Fall Line, rivers tumble from Piedmont rock onto Coastal Plain sediments. The falls were the head of navigation for ships and a power source for mills, so trading cities grew there.",
+      "memoryHook": "T-Rexy says: Falls stopped ships and powered mills, so cities grew at the Fall Line.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a historic river city beside rapids and waterfalls, old mill buildings along the bank and boats waiting below the falls. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Fall Line falls blocked navigation and powered mills.",
+        "title": "CITIES AT THE FALLS"
+      }
+    },
+    {
+      "id": "EAR10_104",
+      "question": "Mount Rogers, the highest point in Virginia, rises in which province?",
+      "correctAnswer": "The Blue Ridge",
+      "distractors": [
+        "The Coastal Plain",
+        "The Valley and Ridge",
+        "The Appalachian Plateau"
+      ],
+      "explanation": "Virginia's highest elevations, including Mount Rogers, are in the Blue Ridge province, the ancient uplifted mountain core along the state's spine.",
+      "memoryHook": "T-Rexy says: Virginia's highest point is in the Blue Ridge.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a high spruce-covered mountain summit above clouds, ancient weathered rock at the peak. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Mount Rogers, Virginia's highest point, is in the Blue Ridge.",
+        "title": "THE HIGHEST PEAK"
+      }
+    },
+    {
+      "id": "EAR10_105",
+      "question": "The Great Valley of Virginia, including the Shenandoah Valley, lies within which province?",
+      "correctAnswer": "The Valley and Ridge",
+      "distractors": [
+        "The Piedmont",
+        "The Coastal Plain",
+        "The Blue Ridge"
+      ],
+      "explanation": "The Great Valley - the Shenandoah Valley in Virginia - is the broad lowland within the Valley and Ridge province, floored by limestone and framed by long sandstone ridges.",
+      "memoryHook": "T-Rexy says: The Shenandoah Valley sits in the Valley and Ridge province.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a broad fertile valley with farms and a winding river between two long parallel mountain ridges. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Great Valley lies in the Valley and Ridge province.",
+        "title": "THE GREAT VALLEY"
+      }
+    },
+    {
+      "id": "EAR10_106",
+      "question": "Groundwater pollution spreads quickly and is hard to clean up in Virginia's karst areas mainly because:",
+      "correctAnswer": "Dissolved limestone forms caves and rapid underground channels that carry water - and pollutants - directly to wells and springs",
+      "distractors": [
+        "Limestone completely blocks all groundwater movement",
+        "Karst soil filters out every chemical before it reaches wells",
+        "Underground rivers in karst always flow out to sea within a day"
+      ],
+      "explanation": "In the Valley and Ridge's karst, water moves through open fractures and cave channels instead of slowly filtering through soil, so a spill or sinkhole dumping can reach wells and springs fast.",
+      "memoryHook": "T-Rexy says: Karst channels rush water - and pollution - straight to wells.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces",
+        "karst"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a cutaway view of limestone underground with caves and fast-flowing underground streams connecting a sinkhole to a spring and a well. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Karst channels carry pollutants quickly to wells and springs.",
+        "title": "KARST AND GROUNDWATER RISK"
+      }
+    },
+    {
+      "id": "EAR10_107",
+      "question": "Which river flows entirely within Virginia and is the state's largest Chesapeake Bay tributary?",
+      "correctAnswer": "The James River",
+      "distractors": [
+        "The Susquehanna River",
+        "The Hudson River",
+        "The Savannah River"
+      ],
+      "explanation": "The James River flows across Virginia from the mountains to Hampton Roads and is the state's largest river and a major Chesapeake Bay tributary; the Susquehanna, the Bay's largest tributary overall, flows mostly through other states.",
+      "memoryHook": "T-Rexy says: The James is Virginia's great river to the Bay.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds",
+        "chesapeake-bay"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a long river journey from mountain headwaters through a capital city to a wide harbor opening into a bay. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The James River is Virginia's largest Chesapeake Bay tributary.",
+        "title": "THE JAMES RIVER"
+      }
+    },
+    {
+      "id": "EAR10_108",
+      "question": "A raindrop falls in far southwestern Virginia and joins a river flowing toward the Tennessee River system. Into which regional drainage does that water ultimately move?",
+      "correctAnswer": "The Gulf of Mexico drainage, by way of the Ohio and Mississippi Rivers",
+      "distractors": [
+        "The Chesapeake Bay drainage",
+        "The North Carolina sounds drainage",
+        "The Great Lakes drainage"
+      ],
+      "explanation": "Virginia has three regional drainage systems. Southwestern Virginia's Tennessee-system rivers join the Ohio and Mississippi, so their water ultimately reaches the Gulf of Mexico.",
+      "memoryHook": "T-Rexy says: Southwest Virginia water can end up in the Gulf of Mexico.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a mountain stream in a western valley joining ever larger rivers that bend southward toward a distant gulf coastline. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Tennessee-system rivers drain Virginia water to the Gulf of Mexico.",
+        "title": "TOWARD THE GULF"
+      }
+    },
+    {
+      "id": "EAR10_109",
+      "question": "Why can Virginia contain fossils from very different chapters of Earth history?",
+      "correctAnswer": "Different provinces preserve rocks from many geologic periods - ancient mountain cores, folded sea-floor sediments, and young coastal deposits",
+      "distractors": [
+        "Fossils move between counties through underground rivers",
+        "Every Virginia rock layer formed in the same single year",
+        "Collectors planted fossils from other continents statewide"
+      ],
+      "explanation": "Virginia's provinces are a geologic archive: billion-year-old Blue Ridge rocks, Paleozoic sedimentary layers folded in the Valley and Ridge, and young marine sediments on the Coastal Plain, so fossils from many periods occur across the state.",
+      "memoryHook": "T-Rexy says: Virginia's provinces preserve rocks and fossils from many periods.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces",
+        "fossils"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of three fossil specimens - a shell, a trilobite-like marine fossil, and a plant fossil - displayed in front of a layered mountain-to-coast landscape. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Different Virginia provinces preserve fossils from many geologic periods.",
+        "title": "A FOSSIL ARCHIVE"
+      }
+    },
+    {
+      "id": "EAR10_110",
+      "question": "Under Chesapeake Bay coastal-zone management, a vegetated buffer strip is kept between new development and the water mainly to:",
+      "correctAnswer": "Slow and filter runoff so sediment and nutrients are trapped before they reach the Bay",
+      "distractors": [
+        "Give developers a place to store construction equipment",
+        "Raise property values by blocking public views of the water",
+        "Keep boats from approaching the shoreline at night"
+      ],
+      "explanation": "Coastal-zone policy for the Chesapeake Bay uses buffers, wetland protection, and land-use rules: plant-covered buffer strips slow runoff and trap sediment and nutrients, protecting the estuary's water quality.",
+      "memoryHook": "T-Rexy says: Buffers filter runoff before it can pollute the Bay.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds",
+        "chesapeake-bay",
+        "coastal-policy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of homes set behind a wide strip of native trees, grasses, and marsh at the edge of a calm bay inlet. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Vegetated buffers trap sediment and nutrients before runoff reaches the Bay.",
+        "title": "BUFFERS PROTECT THE BAY"
+      }
     }
   ]
 }

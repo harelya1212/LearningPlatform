@@ -1,11 +1,11 @@
 {
   "packId": "gr10-health",
   "title": "Health (10th Grade)",
-  "description": "Health (10th Grade) practice - 127 questions",
+  "description": "Health (10th Grade) practice - 135 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 127,
+  "totalQuestions": 135,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2504,6 +2504,220 @@
       ],
       "difficulty": "hard",
       "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_128",
+      "question": "Virginia's 2024 hazing law (Code 22.1-207(B)) requires the state to develop what for schools?",
+      "correctAnswer": "Standards and curriculum guidance for research-based hazing prevention instruction in grade 9 or 10 health or physical education",
+      "distractors": [
+        "A statewide tryout rubric for school sports teams",
+        "A list of approved initiation ceremonies for school clubs",
+        "A hazing reporting hotline run by student captains only"
+      ],
+      "explanation": "The 2024 law directs the Board of Education to develop Standards of Learning and curriculum guidelines for research-based hazing prevention as part of health or physical education instruction in grade 9 or 10.",
+      "memoryHook": "T-Rexy says: The law orders research-based hazing prevention teaching for grades 9-10.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an open curriculum binder and a teacher planning a lesson at a desk, blank pages and a school building visible through a window. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Virginia's 2024 law requires hazing prevention curriculum guidance for grades 9-10.",
+        "title": "THE 2024 HAZING LAW"
+      }
+    },
+    {
+      "id": "HEA10_129",
+      "question": "Which situation is hazing, even though nobody is physically injured?",
+      "correctAnswer": "New band members are forced to perform humiliating acts in front of the group as the price of being accepted",
+      "distractors": [
+        "Section leaders run a difficult but standard conditioning session",
+        "Returning members organize a voluntary welcome picnic for newcomers",
+        "A director assigns extra practice to students who missed rehearsal"
+      ],
+      "explanation": "Hazing includes forced humiliation tied to membership, not only physical harm. Conditioning, assigned practice, and voluntary welcome events are legitimate group activities.",
+      "memoryHook": "T-Rexy says: Forced humiliation to earn membership is hazing, injury or not.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a new student standing uncomfortably in front of a laughing group in a rehearsal room, a teacher entering with a concerned expression. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Forced humiliation for membership is hazing even without injury.",
+        "title": "HUMILIATION IS HAZING"
+      }
+    },
+    {
+      "id": "HEA10_130",
+      "question": "Why do prevention programs teach that 'everyone in the group agreed' does not settle a hazing question?",
+      "correctAnswer": "Group pressure makes agreement unreliable, and Virginia hazing law does not accept a victim's consent as a defense",
+      "distractors": [
+        "Because only a coach can ever consent on behalf of a team",
+        "Because written waivers are required for all club activities",
+        "Because new members are legally unable to join any group"
+      ],
+      "explanation": "Initiation settings carry intense pressure to belong, so apparent agreement is not free choice - and under Virginia law consent is not a defense to hazing that endangers health or safety.",
+      "memoryHook": "T-Rexy says: Pressure corrupts agreement, and consent is no defense to hazing.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention",
+        "consent"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a lone student facing a semicircle of teammates in shadow, spotlight emphasizing social pressure, no violence shown. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Peer pressure makes 'they agreed' unreliable - and consent is no defense to hazing.",
+        "title": "PRESSURE IS NOT PERMISSION"
+      }
+    },
+    {
+      "id": "HEA10_131",
+      "question": "During an initiation, a student who was pressured to drink becomes unresponsive. What should bystanders do first?",
+      "correctAnswer": "Call 911 immediately and stay with the student - getting medical help fast matters more than avoiding trouble",
+      "distractors": [
+        "Wait an hour to see whether the student sleeps it off",
+        "Move the student to a car and drive around to sober them up",
+        "Give the student coffee and a cold shower, then decide"
+      ],
+      "explanation": "Unresponsiveness after drinking signals possible alcohol poisoning, a medical emergency. Prevention instruction stresses calling 911 at once; delayed help is a recurring factor in hazing deaths.",
+      "memoryHook": "T-Rexy says: Unresponsive after drinking means call 911 now.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention",
+        "alcohol",
+        "bystander"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of students urgently calling emergency services while one kneels beside an unresponsive friend at a gathering, alarmed expressions. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Call 911 immediately for an unresponsive student - never wait it out.",
+        "title": "CALL 911 FIRST"
+      }
+    },
+    {
+      "id": "HEA10_132",
+      "question": "A club leader wants a bonding tradition that builds belonging without hazing. Which choice fits prevention guidance?",
+      "correctAnswer": "A voluntary team service project and shared meal where newcomers can opt out of any activity without penalty",
+      "distractors": [
+        "A secret ritual newcomers must complete to be accepted",
+        "A ranking ceremony where newcomers are publicly graded by seniors",
+        "A challenge night where newcomers prove loyalty by taking risks"
+      ],
+      "explanation": "Research-based prevention replaces hazing with inclusive bonding: shared goals, service, and mentoring where participation is genuinely voluntary and nobody must endure harm or humiliation to belong.",
+      "memoryHook": "T-Rexy says: Real bonding is voluntary and safe - nobody pays for belonging with harm.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a mixed group of new and returning students planting trees together and sharing a meal outdoors, relaxed and inclusive atmosphere. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Voluntary, safe shared activities build belonging without hazing.",
+        "title": "BELONGING WITHOUT HAZING"
+      }
+    },
+    {
+      "id": "HEA10_133",
+      "question": "Which online behavior is sexual harassment using electronic means?",
+      "correctAnswer": "Creating a group chat that rates classmates' bodies and shares sexual comments about them after being asked to stop",
+      "distractors": [
+        "Messaging a classmate once to ask about a group project",
+        "Posting team celebration photos with everyone's permission",
+        "Blocking someone whose messages make you uncomfortable"
+      ],
+      "explanation": "Virginia's prevention standards name sexual harassment including sexual harassment using electronic means: sexual comments, ratings, or images directed at someone through phones or social media, especially when repeated or after refusal, are harassment.",
+      "memoryHook": "T-Rexy says: Sexual comments about classmates online are electronic sexual harassment.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "sexual-harassment",
+        "electronic-means"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a student showing a trusted adult a phone screen with blurred generic chat bubbles, serious conversation in a school office. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Online sexual comments and ratings about classmates are sexual harassment.",
+        "title": "ONLINE HARASSMENT IS HARASSMENT"
+      }
+    },
+    {
+      "id": "HEA10_134",
+      "question": "A student keeps pressuring a dating partner by message to send intimate photos, saying 'if you loved me you would.' This is best identified as:",
+      "correctAnswer": "Coercion and sexual harassment using electronic means - pressure tied to the relationship is not consent",
+      "distractors": [
+        "Normal persuasion that partners are expected to accept",
+        "Consent, because the partner has not blocked the sender",
+        "A private matter that schools never treat as harassment"
+      ],
+      "explanation": "Using a relationship as leverage to demand intimate images is coercion delivered by electronic means. Consent obtained by pressure is not consent, and the behavior falls under the sexual harassment Virginia instruction must teach students to recognize.",
+      "memoryHook": "T-Rexy says: Love used as leverage for photos is coercion, not consent.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "sexual-harassment",
+        "electronic-means",
+        "consent"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a student looking upset reading messages on a phone at home, a parent sitting down beside them to talk supportively. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Pressuring a partner for intimate photos is coercion and electronic sexual harassment.",
+        "title": "PRESSURE IS NOT CONSENT"
+      }
+    },
+    {
+      "id": "HEA10_135",
+      "question": "Which scenario shows consent as Virginia law and instruction define it?",
+      "correctAnswer": "Both people clearly and freely agree, either can change their mind at any point, and the agreement stops the moment one person withdraws it",
+      "distractors": [
+        "One person stops protesting after repeated pressure, so the other proceeds",
+        "A person who is asleep is assumed to agree because they agreed on another occasion",
+        "A dating partner agrees once, which settles every future occasion"
+      ],
+      "explanation": "Consent is freely given, specific, and revocable: it must be present for each activity, it ends when withdrawn, and it cannot come from pressure, past agreement, or a person who is asleep or incapacitated.",
+      "memoryHook": "T-Rexy says: Consent is free, specific, and can be withdrawn at any time.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "consent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two young adults talking openly on a park bench, relaxed body language showing mutual respect and clear communication. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Consent is freely given, specific, and revocable at any time.",
+        "title": "FREE, SPECIFIC, REVOCABLE"
+      }
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "packId": "gr9-health",
   "title": "Health (9th Grade)",
-  "description": "Health (9th Grade) practice - 127 questions",
+  "description": "Health (9th Grade) practice - 135 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 127,
+  "totalQuestions": 135,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2503,6 +2503,221 @@
       ],
       "difficulty": "hard",
       "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA9_128",
+      "question": "Under Virginia law, health instruction in grade 9 or 10 must include research-based instruction on which topic?",
+      "correctAnswer": "Hazing prevention",
+      "distractors": [
+        "Competitive team tryout strategies",
+        "Sports officiating and scorekeeping",
+        "Athletic scholarship applications"
+      ],
+      "explanation": "Virginia Code 22.1-207(B), added in 2024, directs that research-based hazing prevention instruction be developed for health and physical education in grade 9 or 10.",
+      "memoryHook": "T-Rexy says: Virginia requires hazing prevention instruction in grade 9 or 10 health.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a high school health classroom with a teacher leading a respectful discussion circle of students, a blank presentation board behind them. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Virginia law requires hazing prevention instruction in grade 9 or 10.",
+        "title": "REQUIRED HAZING PREVENTION"
+      }
+    },
+    {
+      "id": "HEA9_129",
+      "question": "Which definition of hazing is correct?",
+      "correctAnswer": "Endangering a student's health or safety, or forcing humiliating or harmful acts, as a condition of joining or staying in a group",
+      "distractors": [
+        "Any practice or workout that feels physically hard",
+        "A welcome celebration that new members freely choose and can leave at any time",
+        "Friendly teasing between close friends who can stop it at will"
+      ],
+      "explanation": "Hazing is conduct that endangers health or safety - or forces degrading acts - tied to initiation into or membership in a team, club, or organization. Hard training and voluntary celebrations are not hazing.",
+      "memoryHook": "T-Rexy says: Hazing endangers or degrades someone to belong to a group.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a concerned student watching a group initiation scene from a doorway, dramatic light emphasizing the danger, no violence shown. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Hazing is endangering or degrading acts tied to joining a group.",
+        "title": "WHAT HAZING MEANS"
+      }
+    },
+    {
+      "id": "HEA9_130",
+      "question": "A senior says a new teammate 'agreed to it, so it is not hazing.' Why is that reasoning wrong?",
+      "correctAnswer": "Hazing is unlawful even when the person says they consent - agreement does not make endangering initiation acts legal or safe",
+      "distractors": [
+        "It is wrong only because the senior is not the team captain",
+        "Consent always cancels any school rule about group activities",
+        "New members can consent, but only in writing and with a coach present"
+      ],
+      "explanation": "Under Virginia's hazing law, the victim's apparent consent is not a defense: initiation acts that endanger health or safety are prohibited whether or not the person went along with them, often under heavy peer pressure.",
+      "memoryHook": "T-Rexy says: Saying yes under pressure does not make hazing legal.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention",
+        "consent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a young athlete looking pressured and isolated while older teammates stand around in a locker room corridor, tense atmosphere, no violence shown. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Consent is not a defense to hazing under Virginia law.",
+        "title": "CONSENT IS NO EXCUSE FOR HAZING"
+      }
+    },
+    {
+      "id": "HEA9_131",
+      "question": "Forcing a new member to drink large amounts of alcohol quickly is especially dangerous because:",
+      "correctAnswer": "Rapid drinking can cause alcohol poisoning, which can stop breathing and kill - and hazers often delay calling for help",
+      "distractors": [
+        "It is only risky if the person has never tasted alcohol before",
+        "The main danger is embarrassment the next day at school",
+        "Large amounts are safe if the group stays indoors together"
+      ],
+      "explanation": "Forced rapid drinking is one of the deadliest hazing patterns: blood alcohol can keep rising after the person passes out, suppressing breathing, and fear of punishment often delays the 911 call that could save them.",
+      "memoryHook": "T-Rexy says: Forced drinking can kill - and fear delays the rescue call.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention",
+        "alcohol"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an unconscious young person at a party being helped by a worried friend reaching for a phone to call emergency services, bottles pushed aside. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Forced drinking risks fatal alcohol poisoning; call for help immediately.",
+        "title": "DEADLY DRINKING HAZING"
+      }
+    },
+    {
+      "id": "HEA9_132",
+      "question": "You learn that teammates plan to haze new players next weekend. What is the most protective action?",
+      "correctAnswer": "Tell a trusted adult, coach, or administrator now - reporting before it happens can prevent the harm entirely",
+      "distractors": [
+        "Stay silent so you are not seen as disloyal to the team",
+        "Warn only the new players and let them handle it alone",
+        "Film the event so there is evidence afterward"
+      ],
+      "explanation": "Bystander reporting is a core hazing-prevention skill: telling a trusted adult or administrator, or using a school reporting channel, can stop a planned event before anyone is hurt.",
+      "memoryHook": "T-Rexy says: Report a planned hazing before it happens - silence protects the hazing, not the team.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention",
+        "bystander"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a student speaking privately and seriously with a school counselor in an office, relieved expression. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Report planned hazing to a trusted adult before it happens.",
+        "title": "SPEAK UP BEFORE IT HAPPENS"
+      }
+    },
+    {
+      "id": "HEA9_133",
+      "question": "Virginia family life standards require prevention teaching on sexual harassment 'using electronic means.' Which behavior fits that phrase?",
+      "correctAnswer": "Repeatedly sending unwanted sexual messages or images, or pressuring someone by phone or social media for sexual photos",
+      "distractors": [
+        "Sending a friend a homework reminder by text",
+        "Following a classmate's public sports account",
+        "Losing an online game and sending a frustrated message"
+      ],
+      "explanation": "Sexual harassment using electronic means is harassment carried out through technology: unwanted sexual texts or images, repeated sexual comments online, or pressuring someone for intimate photos.",
+      "memoryHook": "T-Rexy says: Electronic sexual harassment is unwanted sexual messages, images, or pressure online.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "sexual-harassment",
+        "electronic-means"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a student looking distressed at a phone glowing with generic blurred message bubbles, a supportive friend beside them. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Unwanted sexual messages or photo pressure online is electronic sexual harassment.",
+        "title": "HARASSMENT THROUGH A SCREEN"
+      }
+    },
+    {
+      "id": "HEA9_134",
+      "question": "Someone shares a classmate's private intimate photo in a group chat without that person's permission. The best description is:",
+      "correctAnswer": "Sexual harassment and a serious violation - the sharing itself is the harm, and it should be reported, not forwarded",
+      "distractors": [
+        "A harmless joke as long as the sharer did not take the photo",
+        "Acceptable if the two students used to date",
+        "Only a problem if a teacher happens to see it"
+      ],
+      "explanation": "Sharing an intimate image without consent is a form of sexual harassment and abuse: each forward spreads the harm. The protective response is to not forward it, support the person targeted, and report it to a trusted adult or the platform.",
+      "memoryHook": "T-Rexy says: Never forward an intimate image - report it and support the person.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "sexual-harassment",
+        "electronic-means",
+        "consent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a student firmly turning a phone face down while friends look on seriously, a teacher approaching supportively in a school hallway. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Sharing an intimate image without consent is sexual harassment - do not forward it.",
+        "title": "NEVER FORWARD IT"
+      }
+    },
+    {
+      "id": "HEA9_135",
+      "question": "Which statement about consent matches what Virginia instruction must teach about its law and meaning?",
+      "correctAnswer": "Consent must be freely given by a person who is able to decide - it cannot be obtained by pressure, and a person who is incapacitated by alcohol or drugs cannot consent",
+      "distractors": [
+        "Consent is assumed unless the person physically resists",
+        "Once someone agrees to one activity, they have agreed to everything",
+        "Silence or going along out of fear counts as consent"
+      ],
+      "explanation": "Virginia family life instruction covers the law and meaning of consent: agreement must be free and informed, pressure or force voids it, and someone who is incapacitated cannot legally consent.",
+      "memoryHook": "T-Rexy says: Real consent is free, informed, and from someone able to decide.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "consent",
+        "sexual-harassment"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two students in a calm respectful conversation in a school common area, body language showing listening and clear communication. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Consent must be freely given by someone able to decide.",
+        "title": "THE MEANING OF CONSENT"
+      }
     }
   ]
 }

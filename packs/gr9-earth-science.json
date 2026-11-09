@@ -1,11 +1,11 @@
 {
   "packId": "gr9-earth-science",
   "title": "Earth Science (9th Grade)",
-  "description": "Earth Science (9th Grade) practice - 100 questions",
+  "description": "Earth Science (9th Grade) practice - 110 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 100,
+  "totalQuestions": 110,
   "addedAt": "2026-11-05",
   "tags": [
     "science",
@@ -2012,6 +2012,260 @@
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
+    },
+    {
+      "id": "EAR9_101",
+      "question": "From east to west, what is the correct order of Virginia's five physiographic provinces?",
+      "correctAnswer": "Coastal Plain, Piedmont, Blue Ridge, Valley and Ridge, Appalachian Plateau",
+      "distractors": [
+        "Piedmont, Coastal Plain, Appalachian Plateau, Blue Ridge, Valley and Ridge",
+        "Blue Ridge, Coastal Plain, Valley and Ridge, Piedmont, Appalachian Plateau",
+        "Coastal Plain, Blue Ridge, Piedmont, Appalachian Plateau, Valley and Ridge"
+      ],
+      "explanation": "Virginia's five physiographic provinces run in bands from east to west: Coastal Plain, Piedmont, Blue Ridge, Valley and Ridge, and Appalachian Plateau.",
+      "memoryHook": "T-Rexy says: East to west: Coastal Plain, Piedmont, Blue Ridge, Valley and Ridge, Plateau.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a cross-section landscape divided into five bands from a flat coastal shore through rolling hills and mountain ridges to a high western plateau. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Virginia's provinces run Coastal Plain to Appalachian Plateau, east to west.",
+        "title": "FIVE PROVINCES EAST TO WEST"
+      }
+    },
+    {
+      "id": "EAR9_102",
+      "question": "Virginia's Coastal Plain province is built mostly from:",
+      "correctAnswer": "Layers of sediment eroded from the mountains and deposited by rivers and ancient seas",
+      "distractors": [
+        "Recently cooled lava flows from active volcanoes",
+        "Glacial ice that still covers the lowland",
+        "Solid granite exposed at the surface everywhere"
+      ],
+      "explanation": "The Coastal Plain is a low, flat province of unconsolidated sediments washed down from the Piedmont and deposited in ancient seas, which is why its layers hold marine fossils.",
+      "memoryHook": "T-Rexy says: The Coastal Plain is sediment piled up by rivers and ancient seas.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of flat coastal lowland with layered sediment banks along a wide tidal river, shells visible in the exposed layers. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Coastal Plain is built from deposited sediments.",
+        "title": "SEDIMENTS OF THE COASTAL PLAIN"
+      }
+    },
+    {
+      "id": "EAR9_103",
+      "question": "The Fall Line, where rivers drop in rapids and waterfalls, marks the boundary between which two Virginia provinces?",
+      "correctAnswer": "The Coastal Plain and the Piedmont",
+      "distractors": [
+        "The Blue Ridge and the Valley and Ridge",
+        "The Valley and Ridge and the Appalachian Plateau",
+        "The Piedmont and the Blue Ridge"
+      ],
+      "explanation": "At the Fall Line, rivers cross from the hard rocks of the Piedmont onto the soft sediments of the Coastal Plain, creating rapids and waterfalls - the reason cities such as Richmond grew at that boundary.",
+      "memoryHook": "T-Rexy says: The Fall Line divides the Coastal Plain from the Piedmont.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a river dropping over rapids and a small waterfall as it passes from rocky upland onto a flat sediment plain, a historic mill town beside the falls. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Fall Line is the Coastal Plain-Piedmont boundary.",
+        "title": "THE FALL LINE BOUNDARY"
+      }
+    },
+    {
+      "id": "EAR9_104",
+      "question": "Which Virginia province contains the state's oldest rocks and some of its highest mountain peaks?",
+      "correctAnswer": "The Blue Ridge",
+      "distractors": [
+        "The Coastal Plain",
+        "The Appalachian Plateau",
+        "The Valley and Ridge"
+      ],
+      "explanation": "The Blue Ridge province is an ancient mountain core of metamorphic and igneous rocks around a billion years old, uplifted and eroded into Virginia's high peaks.",
+      "memoryHook": "T-Rexy says: The Blue Ridge holds Virginia's oldest rocks and high peaks.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a high blue-hazed mountain ridge of ancient dark rock rising above forested foothills at dawn. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Blue Ridge has the oldest rocks and highest peaks.",
+        "title": "ANCIENT BLUE RIDGE"
+      }
+    },
+    {
+      "id": "EAR9_105",
+      "question": "The Valley and Ridge province gets its landforms because its folded sedimentary rock layers:",
+      "correctAnswer": "Erode at different rates - resistant sandstone holds up ridges while softer shale and limestone wear into valleys",
+      "distractors": [
+        "Were melted and pushed up as a single granite block",
+        "Are still covered by a shallow sea",
+        "Were carved by glaciers in the last ice age"
+      ],
+      "explanation": "Compression folded the Valley and Ridge's sedimentary layers; hard sandstone resists erosion and forms the long parallel ridges, while softer shale and limestone dissolve and erode into the valleys between them.",
+      "memoryHook": "T-Rexy says: Hard layers make ridges, soft layers make valleys.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of long parallel forested ridges separated by a wide farm valley, folded rock layers visible in a road cut. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Differential erosion of folded layers forms the Valley and Ridge.",
+        "title": "RIDGES AND VALLEYS BY EROSION"
+      }
+    },
+    {
+      "id": "EAR9_106",
+      "question": "Limestone caves, sinkholes, and disappearing streams - karst features - are most characteristic of which Virginia province?",
+      "correctAnswer": "The Valley and Ridge",
+      "distractors": [
+        "The Coastal Plain",
+        "The Piedmont",
+        "The Blue Ridge"
+      ],
+      "explanation": "The Valley and Ridge's limestone dissolves in slightly acidic groundwater, producing karst: caves such as those in the Shenandoah Valley, sinkholes, and streams that vanish underground.",
+      "memoryHook": "T-Rexy says: Dissolving limestone makes karst in the Valley and Ridge.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces",
+        "karst"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of the entrance to a limestone cave in a valley slope with stalactites inside and a stream disappearing into the rock. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Karst caves and sinkholes mark the Valley and Ridge.",
+        "title": "KARST COUNTRY"
+      }
+    },
+    {
+      "id": "EAR9_107",
+      "question": "Virginia's westernmost province, the Appalachian Plateau, is known economically for its:",
+      "correctAnswer": "Coal-bearing sedimentary rock layers",
+      "distractors": [
+        "Gold deposits in ancient lava",
+        "Offshore oil platforms",
+        "Salt domes under a coastal marsh"
+      ],
+      "explanation": "The Appalachian Plateau in far southwestern Virginia is a dissected plateau of sedimentary rock whose Pennsylvanian-age layers contain the state's major coal seams.",
+      "memoryHook": "T-Rexy says: The Appalachian Plateau holds Virginia's coal seams.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a rugged dissected plateau with steep forested hollows and an exposed dark coal seam in a rock face. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Appalachian Plateau is Virginia's coal province.",
+        "title": "COAL IN THE PLATEAU"
+      }
+    },
+    {
+      "id": "EAR9_108",
+      "question": "Virginia's rivers drain into three major regional systems. Which set is correct?",
+      "correctAnswer": "The Chesapeake Bay, the North Carolina sounds, and the Gulf of Mexico",
+      "distractors": [
+        "The Chesapeake Bay, the Great Lakes, and the Atlantic directly",
+        "The Gulf of Mexico, Hudson Bay, and the Chesapeake Bay",
+        "The North Carolina sounds, the Mississippi Delta only, and the Great Lakes"
+      ],
+      "explanation": "Virginia's major watershed systems drain three ways: most rivers flow to the Chesapeake Bay, southern rivers such as the Roanoke flow to North Carolina's sounds, and western rivers such as the New and Tennessee systems flow toward the Gulf of Mexico.",
+      "memoryHook": "T-Rexy says: Virginia drains to the Bay, the NC sounds, and the Gulf.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a state-shaped landscape with river systems flowing in three different directions toward a bay, a southern sound, and a distant gulf. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Virginia watersheds drain to the Chesapeake Bay, NC sounds, and Gulf of Mexico.",
+        "title": "THREE WAYS TO THE SEA"
+      }
+    },
+    {
+      "id": "EAR9_109",
+      "question": "A geologist finds shells of ancient marine organisms in rock layers dug up near the Chesapeake Bay shore. What does this show about Virginia's geologic past?",
+      "correctAnswer": "The Coastal Plain was once covered by the sea, and its sediments preserve fossils from many geologic periods",
+      "distractors": [
+        "The Bay region was once a high desert crossed by dunes",
+        "Marine animals once lived on dry land without water",
+        "The rocks were carried there recently by construction crews"
+      ],
+      "explanation": "Rocks and fossils from many geologic periods are found in Virginia: Coastal Plain sediments were deposited in ancient seas, so their layers preserve marine shells and shark teeth long after the sea retreated.",
+      "memoryHook": "T-Rexy says: Marine fossils in Coastal Plain layers mean an ancient sea covered the land.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-provinces",
+        "fossils"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of fossil shells and a shark tooth embedded in layered coastal sediment above a modern bay shoreline. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Coastal Plain fossils record a time when the sea covered the land.",
+        "title": "FOSSILS OF AN ANCIENT SEA"
+      }
+    },
+    {
+      "id": "EAR9_110",
+      "question": "Virginia's Chesapeake Bay coastal-zone policy mainly aims to:",
+      "correctAnswer": "Protect the Bay's water quality and shoreline habitats by managing land use in coastal areas",
+      "distractors": [
+        "Drain the Bay's wetlands to create more farmland",
+        "Allow unlimited building directly on every shoreline",
+        "Replace natural shorelines with concrete along the whole Bay"
+      ],
+      "explanation": "Chesapeake Bay coastal-zone policy treats the Bay as a managed coastal zone: buffer areas, wetland protection, and land-use rules exist to keep sediment and pollution out of the estuary and preserve its habitats.",
+      "memoryHook": "T-Rexy says: Coastal-zone policy protects Bay water quality and habitats.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds",
+        "chesapeake-bay",
+        "coastal-policy"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a protected bay shoreline with a wide band of marsh and trees buffering homes and farms set back from the water. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Coastal-zone policy manages land use to protect the Bay.",
+        "title": "PROTECTING THE COASTAL ZONE"
+      }
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "packId": "gr6-earth-space-science",
   "title": "Earth & Space Science (6th Grade)",
-  "description": "Earth & Space Science (6th Grade) practice - 100 questions",
+  "description": "Earth & Space Science (6th Grade) practice - 108 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 100,
+  "totalQuestions": 108,
   "addedAt": "2026-11-05",
   "tags": [
     "science",
@@ -2012,6 +2012,216 @@
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
+    },
+    {
+      "id": "ESC6_101",
+      "question": "In watershed science, an area of land is called a watershed when all of its water does what?",
+      "correctAnswer": "Drains into the same body of water",
+      "distractors": [
+        "Evaporates before reaching any stream",
+        "Freezes underground for the whole year",
+        "Flows upward toward higher ground"
+      ],
+      "explanation": "A watershed is composed of the land that drains into a body of water: rain and streams across that whole area eventually flow toward the same river, lake, or bay.",
+      "memoryHook": "T-Rexy says: A watershed is all the land that drains to one body of water.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds",
+        "chesapeake-bay"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Friendly educational illustration of a green cartoon dinosaur mascot matching the logo character standing beside a valley where streams join into one river flowing toward a wide bay, hills and rain clouds around. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A watershed is the land that drains into a body of water.",
+        "title": "ONE LAND, ONE DRAIN"
+      }
+    },
+    {
+      "id": "ESC6_102",
+      "question": "Virginia is composed of what, in terms of its water systems?",
+      "correctAnswer": "Multiple watershed systems, each with its own specific features",
+      "distractors": [
+        "One single watershed that covers the whole state",
+        "Only underground aquifers, with no surface watersheds",
+        "Two identical watersheds with the same features"
+      ],
+      "explanation": "Virginia standards describe the state as composed of multiple watershed systems which have specific features - different rivers, landforms, and drainage paths across the state.",
+      "memoryHook": "T-Rexy says: Virginia has many watershed systems, not just one.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Friendly educational illustration of a green cartoon dinosaur mascot matching the logo character looking over a patchwork map-like landscape of several separate river basins in different colors, each with its own river. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Virginia is made of multiple watershed systems with specific features.",
+        "title": "MANY WATERSHEDS, ONE STATE"
+      }
+    },
+    {
+      "id": "ESC6_103",
+      "question": "The Chesapeake Bay is best described as an estuary because it is where:",
+      "correctAnswer": "Fresh water from rivers mixes with salt water from the ocean",
+      "distractors": [
+        "Ocean water is completely separated from river water",
+        "A river is dammed to create a freshwater lake",
+        "Salt water evaporates and leaves salt flats behind"
+      ],
+      "explanation": "The Chesapeake Bay is an estuary: rivers deliver fresh water that mixes with salt water pushing in from the Atlantic, creating brackish water that changes with tides and seasons.",
+      "memoryHook": "T-Rexy says: An estuary is where fresh river water and salt ocean water mix.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds",
+        "chesapeake-bay",
+        "estuary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Friendly educational illustration of a green cartoon dinosaur mascot matching the logo character at a shoreline where a river flows into a wide bay, gentle waves and marsh grasses, crabs and fish in the shallow water. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Chesapeake Bay is an estuary where fresh and salt water mix.",
+        "title": "WHERE RIVERS MEET THE SEA"
+      }
+    },
+    {
+      "id": "ESC6_104",
+      "question": "Which group lists only rivers that flow into the Chesapeake Bay?",
+      "correctAnswer": "Potomac, Rappahannock, York, and James Rivers",
+      "distractors": [
+        "Colorado, Rio Grande, and Columbia Rivers",
+        "Mississippi, Missouri, and Ohio Rivers",
+        "Hudson, Delaware, and Connecticut Rivers"
+      ],
+      "explanation": "Virginia's major Chesapeake Bay tributaries include the Potomac, Rappahannock, York, and James Rivers, which carry water from Virginia's watersheds into the Bay.",
+      "memoryHook": "T-Rexy says: Potomac, Rappahannock, York, and James all feed the Bay.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds",
+        "chesapeake-bay"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Friendly educational illustration of a green cartoon dinosaur mascot matching the logo character tracing four rivers on a landscape as they flow from mountains through farmland into one large bay. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Potomac, Rappahannock, York, and James Rivers flow into the Chesapeake Bay.",
+        "title": "FOUR RIVERS, ONE BAY"
+      }
+    },
+    {
+      "id": "ESC6_105",
+      "question": "Why does the Chesapeake Bay serve as an important nursery habitat?",
+      "correctAnswer": "Its shallow marshes and grasses shelter young fish, crabs, and other animals while they grow",
+      "distractors": [
+        "Its deep open water hides young animals from all predators year-round",
+        "Its water is fresh everywhere, so ocean animals cannot enter it",
+        "Its shores are paved, which gives young animals hard shelter"
+      ],
+      "explanation": "As an estuary, the Bay has many important functions: shallow water, marshes, and underwater grasses give young fish and blue crabs food and shelter, and wetlands filter runoff before it reaches open water.",
+      "memoryHook": "T-Rexy says: Shallow marshes and grasses make the Bay a nursery for young animals.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds",
+        "chesapeake-bay",
+        "estuary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Friendly educational illustration of a green cartoon dinosaur mascot matching the logo character watching small fish and a blue crab shelter among underwater grasses and marsh reeds in shallow bay water. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Bay's marshes and grasses shelter young fish and crabs.",
+        "title": "A NURSERY IN THE BAY"
+      }
+    },
+    {
+      "id": "ESC6_106",
+      "question": "A farm far inland spreads too much fertilizer, and heavy rain washes it into a creek. Why can this harm the Chesapeake Bay, even though the farm is nowhere near the Bay?",
+      "correctAnswer": "The creek is part of a watershed that drains toward the Bay, carrying the fertilizer with it",
+      "distractors": [
+        "It cannot harm the Bay, because pollution only matters at the shoreline",
+        "Wind always blows farm chemicals away from waterways",
+        "Creeks flow away from larger bodies of water, never toward them"
+      ],
+      "explanation": "Natural processes, human activities, and living and nonliving factors influence the health of a watershed system. Runoff moves downhill through creeks and rivers, so inland fertilizer can reach the Bay and fuel algal blooms.",
+      "memoryHook": "T-Rexy says: What washes into a creek can ride the watershed all the way to the Bay.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds",
+        "chesapeake-bay"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Friendly educational illustration of a green cartoon dinosaur mascot matching the logo character following rain runoff from a farm field into a creek that joins a river flowing onward to a distant bay. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Runoff travels through the watershed, so inland actions affect the Bay.",
+        "title": "UPSTREAM ACTIONS, DOWNSTREAM EFFECTS"
+      }
+    },
+    {
+      "id": "ESC6_107",
+      "question": "How does the water in the Chesapeake Bay change as you travel from the mouth of a river toward the ocean?",
+      "correctAnswer": "It gradually becomes saltier, changing from fresh to brackish to saltier bay water",
+      "distractors": [
+        "It becomes completely fresh once it leaves the river",
+        "Its salt level stays exactly the same everywhere in the Bay",
+        "It becomes saltier only in winter and fresh only in summer"
+      ],
+      "explanation": "In an estuary, fresh river water and salty ocean water mix in a gradient: nearly fresh at river mouths, brackish in the middle Bay, and saltiest near the Atlantic, and the animals in each zone are adapted to that salt level.",
+      "memoryHook": "T-Rexy says: Bay water gets saltier as you move from river mouth toward ocean.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds",
+        "chesapeake-bay",
+        "estuary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Friendly educational illustration of a green cartoon dinosaur mascot matching the logo character on a boat crossing a bay shown in bands from pale river water to deep blue ocean water, with different fish in each band. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Estuary water grades from fresh to brackish to salty.",
+        "title": "FRESH TO SALTY"
+      }
+    },
+    {
+      "id": "ESC6_108",
+      "question": "Which action best protects the health of a Virginia watershed system?",
+      "correctAnswer": "Planting trees and grasses along stream banks to filter runoff and prevent erosion",
+      "distractors": [
+        "Paving stream banks so rain runs off faster",
+        "Dumping yard waste into creeks so it decomposes in water",
+        "Removing wetlands so water drains straight into rivers"
+      ],
+      "explanation": "Vegetated stream banks slow runoff, trap sediment and fertilizer, and shade the water, while paving, dumping, and removing wetlands deliver pollution to the watershed faster and in larger amounts.",
+      "memoryHook": "T-Rexy says: Plants along stream banks filter runoff and guard the watershed.",
+      "imageUrl": "topic:earth-science",
+      "tags": [
+        "virginia-watersheds",
+        "chesapeake-bay"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Friendly educational illustration of a green cartoon dinosaur mascot matching the logo character planting grasses and small trees along a creek bank while clean water flows past toward a river. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Stream-bank plants filter runoff and protect watershed health.",
+        "title": "GUARD THE STREAM BANKS"
+      }
     }
   ]
 }
