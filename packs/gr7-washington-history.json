@@ -1,0 +1,2717 @@
+{
+  "packId": "gr7-washington-history",
+  "title": "Washington State History (7th Grade)",
+  "description": "Washington State History (7th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-08",
+  "tags": [
+    "washington",
+    "history",
+    "grade-7"
+  ],
+  "questions": [
+    {
+      "id": "WSH7_001",
+      "question": "A hiker crosses Washington from west to east and notices the forests grow thinner and the land turns dry and open soon after crossing one mountain range. Which range creates that sharp climate divide?",
+      "correctAnswer": "The Cascade Range - its high peaks wring moisture from Pacific air, leaving eastern Washington much drier",
+      "distractors": [
+        "The Olympic Mountains - they run north to south along the Canadian border",
+        "The Blue Mountains - they separate Seattle from Spokane",
+        "The Selkirk Mountains - they block all rain from reaching the coast"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Cascades form a rain shadow: moist ocean air rises, cools and drops rain and snow on the western slopes, then descends dry to the east. That single fact explains the rainforests of the west and the shrub-steppe and farmland of eastern Washington.",
+      "memoryHook": "T-Rexy says: The Cascades are Washington's weather wall - wet on one side, dry on the other.",
+      "tags": [
+        "cascades",
+        "rain-shadow",
+        "geography"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a cross-section view of a mountain range with rain clouds on its green western slope and dry golden hills on its eastern side, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Cascades: wet west, dry east - the rain shadow.",
+        "title": "THE WEATHER WALL"
+      }
+    },
+    {
+      "id": "WSH7_002",
+      "question": "On a map of Washington, a deep inland arm of the sea cuts between Seattle and the Olympic Peninsula, with inlets reaching down past Tacoma and Olympia. What is that waterway system called?",
+      "correctAnswer": "Puget Sound - a network of inlets, channels and bays carved by glaciers and connected to the Pacific Ocean",
+      "distractors": [
+        "The Columbia River - a single freshwater river along the northern border",
+        "The Strait of Georgia - a lake in the center of the state",
+        "Lake Chelan - a reservoir behind Grand Coulee Dam"
+      ],
+      "difficulty": "easy",
+      "explanation": "Puget Sound was gouged out by Ice Age glaciers and is filled with salt water from the Pacific. Its ports at Seattle, Tacoma and Everett made it Washington's historic highway for trade, ferries and fishing.",
+      "memoryHook": "T-Rexy says: Puget Sound is the sea reaching inland - Washington's front door.",
+      "tags": [
+        "puget-sound",
+        "geography",
+        "waterways"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of an aerial view of a deep blue inlet winding between forested peninsulas with ferry boats and port cranes, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Puget Sound is a glacier-carved arm of the sea.",
+        "title": "THE INLAND SEA"
+      }
+    },
+    {
+      "id": "WSH7_003",
+      "question": "Which river forms most of Washington's southern border with Oregon before turning and cutting through the Cascades to the Pacific?",
+      "correctAnswer": "The Columbia River",
+      "distractors": [
+        "The Snake River alone, along the entire southern border",
+        "The Willamette River",
+        "The Skagit River"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Columbia begins in Canada, bends through eastern Washington, is joined by the Snake River near the Tri-Cities, then turns west to form the Oregon border. Its dams supply hydropower, irrigation water and a shipping channel.",
+      "memoryHook": "T-Rexy says: The Columbia draws Washington's southern line and lights its cities.",
+      "tags": [
+        "columbia-river",
+        "geography",
+        "borders"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a wide river flowing between dry bluffs with a dam and barges in the distance, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Columbia forms the Oregon border.",
+        "title": "THE SOUTHERN BORDER RIVER"
+      }
+    },
+    {
+      "id": "WSH7_004",
+      "question": "A national park on Washington's northwestern peninsula protects moss-draped old-growth forest that receives around 12 feet of rain in some years. Which peninsula and forest is this?",
+      "correctAnswer": "The Olympic Peninsula and its temperate rainforest, including the Hoh Rainforest",
+      "distractors": [
+        "The Kitsap Peninsula and its high desert",
+        "The Long Beach Peninsula and its pine barrens",
+        "The Palouse and its rainforest canopy"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Olympic Mountains force ocean air upward, dumping heavy rain on their western valleys. The Hoh, Quinault and Queets valleys grow some of the largest spruce and fir trees in the world under that constant moisture.",
+      "memoryHook": "T-Rexy says: Olympic rain grows giant trees - no umbrella survives the Hoh.",
+      "tags": [
+        "olympic-peninsula",
+        "rainforest",
+        "geography"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of towering moss-covered spruce trees in misty green rainforest with ferns at their bases, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Olympic Peninsula holds a temperate rainforest.",
+        "title": "THE RAINFOREST PENINSULA"
+      }
+    },
+    {
+      "id": "WSH7_005",
+      "question": "Standing at 14,411 feet, which volcanic peak is the highest point in Washington and a landmark visible across the Puget Sound lowlands on clear days?",
+      "correctAnswer": "Mount Rainier",
+      "distractors": [
+        "Mount Baker",
+        "Mount Adams",
+        "Mount St. Helens"
+      ],
+      "difficulty": "medium",
+      "explanation": "Mount Rainier is an active volcano and the most heavily glaciated peak in the contiguous United States. It became the fifth national park in the country in 1899 and feeds rivers such as the Nisqually and Puyallup with glacial meltwater.",
+      "memoryHook": "T-Rexy says: Rainier rules the skyline - tallest, iciest, unforgettable.",
+      "tags": [
+        "mount-rainier",
+        "geography",
+        "volcanoes"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a massive snow-covered volcanic peak rising above evergreen forest and a wildflower meadow, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Mount Rainier is Washington's highest peak.",
+        "title": "THE TALLEST PEAK"
+      }
+    },
+    {
+      "id": "WSH7_006",
+      "question": "Farmers around Pullman grow wheat on smooth, rolling hills of deep wind-blown soil in southeastern Washington. What is this farming region called?",
+      "correctAnswer": "The Palouse - rolling loess hills famous for dryland wheat and lentils",
+      "distractors": [
+        "The Columbia Basin - an irrigated desert plateau",
+        "The Willapa Hills - a coastal logging region",
+        "The Okanogan Highlands - a mining district"
+      ],
+      "difficulty": "medium",
+      "explanation": "Palouse soil is loess, fine dust carried by Ice Age winds and floods, piled into steep rolling hills. Growers there raise soft white wheat and lentils mostly with rainfall alone, a practice called dryland farming.",
+      "memoryHook": "T-Rexy says: Palouse hills roll like waves - and they grow wheat, not water.",
+      "tags": [
+        "palouse",
+        "agriculture",
+        "geography"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of golden rolling wheat hills under a wide sky with a combine harvester on a ridge, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Palouse grows dryland wheat on rolling hills.",
+        "title": "THE ROLLING WHEAT HILLS"
+      }
+    },
+    {
+      "id": "WSH7_007",
+      "question": "A ferry rider leaving Seattle for Friday Harbor is traveling through an island group that once sat at the center of a border dispute. Which islands are these?",
+      "correctAnswer": "The San Juan Islands, between Washington and Vancouver Island",
+      "distractors": [
+        "The Aleutian Islands, off Alaska",
+        "The Channel Islands, off California",
+        "The Apostle Islands, in Lake Superior"
+      ],
+      "difficulty": "medium",
+      "explanation": "The San Juans sit in the Salish Sea between the mainland and Vancouver Island. Ambiguity in the 1846 border treaty over which channel was the boundary led to the Pig War standoff of 1859, settled by arbitration in 1872.",
+      "memoryHook": "T-Rexy says: San Juan ferries sail through a border puzzle from 1846.",
+      "tags": [
+        "san-juan-islands",
+        "geography",
+        "salish-sea"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of forested islands scattered across calm blue water with a ferry passing between them, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The San Juan Islands lie in the Salish Sea.",
+        "title": "THE ISLAND MAZE"
+      }
+    },
+    {
+      "id": "WSH7_008",
+      "question": "In the 1950s, a vast irrigation project began delivering Grand Coulee Dam water - first delivered in spring 1952 - to turn dry central Washington land into orchards and fields. What is that project area called?",
+      "correctAnswer": "The Columbia Basin Project",
+      "distractors": [
+        "The Yakima Delta Project",
+        "The Puget Lowland Project",
+        "The Spokane Aquifer Project"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Columbia Basin Project pumps Columbia River water uphill from behind Grand Coulee Dam into Banks Lake, then distributes it by canals to roughly 670,000 acres. Potatoes, corn, apples and other crops now grow where sagebrush once dominated.",
+      "memoryHook": "T-Rexy says: Grand Coulee water turned desert into dinner.",
+      "tags": [
+        "columbia-basin",
+        "irrigation",
+        "geography"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of green irrigated crop circles and orchards surrounded by dry sagebrush land with a canal running through, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Columbia Basin Project irrigates central Washington.",
+        "title": "DESERT TURNED GREEN"
+      }
+    },
+    {
+      "id": "WSH7_009",
+      "question": "Two large cities anchor very different regions: Seattle sits on Puget Sound in the west, but which city is the main urban center of eastern Washington, on the river that shares its name?",
+      "correctAnswer": "Spokane, on the Spokane River near the Idaho border",
+      "distractors": [
+        "Yakima, on the Columbia River at the coast",
+        "Walla Walla, on Puget Sound",
+        "Bellingham, on the Spokane River"
+      ],
+      "difficulty": "hard",
+      "explanation": "Spokane grew around Spokane Falls, where the river's power ran mills and later generated electricity. It became the trade and rail hub of the Inland Northwest, serving eastern Washington, northern Idaho and western Montana.",
+      "memoryHook": "T-Rexy says: Spokane is the east's anchor - built on its falls.",
+      "tags": [
+        "spokane",
+        "cities",
+        "geography"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a city skyline beside a river waterfall with a historic clock tower and bridges, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Spokane anchors eastern Washington.",
+        "title": "THE INLAND CITY"
+      }
+    },
+    {
+      "id": "WSH7_010",
+      "question": "A geographer divides Washington into five major land regions. A student describes lowland between the Olympics and the Cascades holding most of the state's population and biggest cities. Which region is she describing?",
+      "correctAnswer": "The Puget Sound Lowlands (Puget Lowland)",
+      "distractors": [
+        "The Columbia Plateau",
+        "The Okanogan Highlands",
+        "The Blue Mountains region"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Puget Sound Lowlands stretch from the Canadian border to the Columbia River between the Olympic and Cascade ranges. Glacial plains, the Sound's ports and a mild marine climate drew the state's largest cities, including Seattle, Tacoma and the capital, Olympia.",
+      "memoryHook": "T-Rexy says: Most Washingtonians live in the lowland by the Sound.",
+      "tags": [
+        "puget-lowland",
+        "regions",
+        "geography"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a broad green lowland with cities along a bay, mountains visible on both horizons, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Puget Lowland holds most of Washington's people.",
+        "title": "WHERE MOST PEOPLE LIVE"
+      }
+    },
+    {
+      "id": "WSH7_011",
+      "question": "Long before statehood, Native peoples lived in Washington for thousands of years, sustained by salmon, cedar and shellfish. The phrase Washington schools use to describe that unbroken presence since the beginning is the name of the state's tribal sovereignty curriculum. What is it called?",
+      "correctAnswer": "Since Time Immemorial - the OSPI curriculum on tribal sovereignty in Washington State",
+      "distractors": [
+        "Manifest Destiny - the OSPI curriculum on westward expansion",
+        "The Columbian Exchange - the OSPI curriculum on trade goods",
+        "New Horizons - the OSPI curriculum on space exploration"
+      ],
+      "difficulty": "easy",
+      "explanation": "Since Time Immemorial, required in Washington social studies by a 2015 law (SB 5433), teaches that tribal nations governed themselves long before the United States existed. Its units were developed with Washington's tribes and are woven into history and civics courses.",
+      "memoryHook": "T-Rexy says: Since Time Immemorial means tribes were here first - and never left.",
+      "tags": [
+        "sti",
+        "tribal-sovereignty",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a river at dawn with salmon leaping and cedar longhouses along the bank in timeless style, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "STI teaches tribal sovereignty since time immemorial.",
+        "title": "SINCE TIME IMMEMORIAL"
+      }
+    },
+    {
+      "id": "WSH7_012",
+      "question": "A tribal government in Washington passes its own laws, runs its own courts and police, and manages health clinics for its citizens. A student asks where that authority comes from. Which answer is correct?",
+      "correctAnswer": "Tribal sovereignty is inherent - Native nations governed themselves before the United States existed, and treaties and federal law recognize that self-government",
+      "distractors": [
+        "Tribal authority is a gift from the Washington Legislature that it can take back at any time",
+        "Tribal governments are departments of county government",
+        "Tribal courts exist only when a governor grants permission each year"
+      ],
+      "difficulty": "easy",
+      "explanation": "Sovereignty means a nation's power to govern itself. Washington's 29 federally recognized tribes retain inherent sovereignty, limited by treaties and federal law, and deal with the United States on a government-to-government basis - not through the state.",
+      "memoryHook": "T-Rexy says: Tribes were sovereign first - the treaties recognized it, they did not create it.",
+      "tags": [
+        "tribal-sovereignty",
+        "government",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a tribal council chamber with carved cedar panels and a river visible through a window, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Tribal sovereignty is inherent self-government.",
+        "title": "SOVEREIGN FROM THE START"
+      }
+    },
+    {
+      "id": "WSH7_013",
+      "question": "Salmon appear in the stories, ceremonies, art and diets of Native peoples across Washington, and tribal fishers still hold a First Salmon Ceremony each year. What does that ceremony honor?",
+      "correctAnswer": "The return of the first salmon of the season, giving thanks and ensuring the salmon people are treated with respect so they will return",
+      "distractors": [
+        "The opening of a commercial cannery for the season",
+        "The anniversary of a dam's construction",
+        "The start of the tourist fishing season for visitors"
+      ],
+      "difficulty": "easy",
+      "explanation": "For Coast Salish and Plateau peoples, salmon are relatives and a sacred gift, not just food. First Salmon ceremonies, some revived after years of suppression, mark a reciprocal relationship: care for salmon and their habitat, and salmon will feed the people.",
+      "memoryHook": "T-Rexy says: First Salmon is gratitude in action - respect the fish, and the fish return.",
+      "tags": [
+        "salmon",
+        "culture",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of people gathered respectfully on a riverbank at sunrise as the first salmon of the season is brought ashore, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "First Salmon ceremonies honor salmon's return.",
+        "title": "HONORING THE FIRST SALMON"
+      }
+    },
+    {
+      "id": "WSH7_014",
+      "question": "Along the coast and Puget Sound, Native families lived in large cedar-plank houses that sheltered many related families, and carved canoes from single cedar logs. Which cultural group is most associated with this way of life in western Washington?",
+      "correctAnswer": "The Coast Salish peoples of Puget Sound and the coast",
+      "distractors": [
+        "The Plains peoples who followed bison herds",
+        "The Pueblo peoples of the desert Southwest",
+        "The Iroquois Confederacy of the Great Lakes"
+      ],
+      "difficulty": "medium",
+      "explanation": "Western red cedar gave Coast Salish peoples houses, canoes, clothing fiber and baskets - it is called the tree of life. Coast Salish carving centered on house posts and story poles; totem poles are a northern-coast form of the Haida, Tlingit and Tsimshian peoples. Village life centered on the water, where salmon, shellfish and marine mammals were harvested by family-owned fishing places.",
+      "memoryHook": "T-Rexy says: Cedar built the Coast Salish world - houses, canoes, everything.",
+      "tags": [
+        "coast-salish",
+        "cedar",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a large cedar-plank longhouse beside calm water with a carved canoe pulled up on the shore, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Coast Salish life centered on cedar and the water.",
+        "title": "THE CEDAR PEOPLE"
+      }
+    },
+    {
+      "id": "WSH7_015",
+      "question": "East of the Cascades, Native peoples such as the Spokane, Yakama and Colville traveled seasonally between river fisheries, root grounds and hunting areas, and lived part of the year in tule mat lodges and later tipis. Which cultural region does this describe?",
+      "correctAnswer": "The Plateau peoples of the Columbia Plateau in eastern Washington",
+      "distractors": [
+        "The Arctic peoples of the far north coast",
+        "The Southeast peoples of the river swamps",
+        "The Great Basin peoples of the Nevada desert only"
+      ],
+      "difficulty": "medium",
+      "explanation": "Plateau life followed a seasonal round keyed to salmon runs at places like Kettle Falls and Celilo Falls, camas and bitterroot harvests, and deer hunting. The Columbia River was the region's trade highway, linking Plateau, coastal and Plains peoples.",
+      "memoryHook": "T-Rexy says: Plateau life moved with the seasons - salmon, roots, game.",
+      "tags": [
+        "plateau",
+        "columbia-river",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a seasonal village of mat lodges near a wide river with drying racks and horses in the distance, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Plateau peoples followed a seasonal round.",
+        "title": "THE SEASONAL ROUND"
+      }
+    },
+    {
+      "id": "WSH7_016",
+      "question": "The Makah Tribe, at the northwestern tip of the Olympic Peninsula, is famous for a traditional hunt carried out from cedar canoes and for treaties that specifically protected that right. What did the Makah traditionally hunt at sea?",
+      "correctAnswer": "Gray whales, along with seals and other marine mammals",
+      "distractors": [
+        "Salmon only, never leaving the bay",
+        "Bison that swam to offshore islands",
+        "Polar bears on sea ice"
+      ],
+      "difficulty": "medium",
+      "explanation": "Whaling shaped Makah culture, rank and ceremony for thousands of years, a tradition confirmed by artifacts at the Ozette archaeological site. The 1855 Treaty of Neah Bay is the only United States treaty that expressly secures a tribe's whaling right.",
+      "memoryHook": "T-Rexy says: The Makah are whalers of the cape - a right written into their treaty.",
+      "tags": [
+        "makah",
+        "whaling",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a cedar ocean canoe with paddlers on open sea near a rocky cape and lighthouse, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Makah traditionally hunted gray whales.",
+        "title": "WHALERS OF THE CAPE"
+      }
+    },
+    {
+      "id": "WSH7_017",
+      "question": "How many federally recognized tribes have reservations or tribal lands within Washington State today?",
+      "correctAnswer": "29 federally recognized tribes",
+      "distractors": [
+        "3 federally recognized tribes",
+        "12 federally recognized tribes",
+        "57 federally recognized tribes"
+      ],
+      "difficulty": "medium",
+      "explanation": "Washington's 29 federally recognized tribes include the Yakama Nation, the Confederated Tribes of the Colville Reservation, the Puyallup, Lummi, Tulalip, Muckleshoot, Nisqually and Spokane tribes, among others. Each is a separate sovereign nation with its own government and citizenship.",
+      "memoryHook": "T-Rexy says: Twenty-nine nations within one state - remember 29.",
+      "tags": [
+        "tribes",
+        "federally-recognized",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a map-like landscape of many distinct tribal community centers spread across mountains, coast and plateau without any words, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington has 29 federally recognized tribes.",
+        "title": "TWENTY-NINE NATIONS"
+      }
+    },
+    {
+      "id": "WSH7_018",
+      "question": "A tribal nation in Washington opens a natural resources department that tests river water, restores estuary habitat and co-manages salmon hatcheries with the state. Which idea best explains why the tribe does this as a government, not a charity?",
+      "correctAnswer": "Tribal self-governance - tribes exercise their sovereign responsibility to protect the lands, waters and treaty resources their citizens depend on",
+      "distractors": [
+        "Tribes must earn permission from cities before doing environmental work",
+        "Only nonprofit groups may restore habitat in Washington",
+        "The state pays tribes to avoid doing environmental work itself"
+      ],
+      "difficulty": "hard",
+      "explanation": "Since the era of self-determination in federal Indian policy, tribes have contracted and compacted to run their own programs, from health care to fisheries science. Modern tribal governments are major employers and environmental managers across Washington.",
+      "memoryHook": "T-Rexy says: Self-governance means tribes run their own future.",
+      "tags": [
+        "self-governance",
+        "tribal-government",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of tribal scientists in waders sampling a river while a restored estuary stretches behind them, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Tribal self-governance protects treaty resources.",
+        "title": "GOVERNING THEIR OWN FUTURE"
+      }
+    },
+    {
+      "id": "WSH7_019",
+      "question": "In the late 1800s and early 1900s, many Native children in Washington were sent far from home to federal boarding schools such as the one at Chemawa in Oregon, where they were punished for speaking their languages. What was the stated federal goal of that system?",
+      "correctAnswer": "Forced assimilation - to erase Native languages and cultures and replace them with English and Euro-American ways",
+      "distractors": [
+        "Bilingual education - to strengthen tribal languages in schools",
+        "Vocational choice - students freely picked any school they liked",
+        "Treaty fulfillment - the treaties required boarding schools"
+      ],
+      "difficulty": "hard",
+      "explanation": "Boarding schools were a tool of assimilation policy, summed up by the era's slogan about killing the Indian to save the man. Washington tribes today lead language revitalization programs, teaching Lushootseed, Ichishkiin and other Native languages to new generations.",
+      "memoryHook": "T-Rexy says: Boarding schools tried to erase languages - tribes are bringing them back.",
+      "tags": [
+        "boarding-schools",
+        "assimilation",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a somber historic brick school building at dusk with an empty swing in the yard, respectful and quiet mood, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Boarding schools pursued forced assimilation.",
+        "title": "A PAINFUL SCHOOLING ERA"
+      }
+    },
+    {
+      "id": "WSH7_020",
+      "question": "Leaders of the Puyallup Tribe and other Puget Sound tribes describe their reservations not as gifts of land from the United States, but in a different way. How do they describe them?",
+      "correctAnswer": "As small homelands reserved by the tribes themselves from their much larger original territories when they signed treaties",
+      "distractors": [
+        "As land the tribes purchased from railroad companies",
+        "As military forts loaned to the tribes",
+        "As county parks set aside for tribal use"
+      ],
+      "difficulty": "hard",
+      "explanation": "In treaties, tribes ceded millions of acres and reserved - kept back - smaller homelands and specific rights, a principle lawyers call the reserved rights doctrine. Reservations are what tribes kept, not what the government gave.",
+      "memoryHook": "T-Rexy says: Reservations are what tribes kept, not what they were given.",
+      "tags": [
+        "reservations",
+        "reserved-rights",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a small homeland valley with homes and a river, surrounded by a vast historic territory fading into mountains, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Reservations are homelands tribes reserved.",
+        "title": "WHAT TRIBES KEPT"
+      }
+    },
+    {
+      "id": "WSH7_021",
+      "question": "A Washington school district works directly with a nearby tribal government to design lessons about that tribe's history, rather than using only a state textbook. Which principle from the Since Time Immemorial approach does this follow?",
+      "correctAnswer": "Tribal history should be taught in partnership with tribes themselves, including local tribal history specific to each place",
+      "distractors": [
+        "Only state officials may write any lesson about tribes",
+        "Every district must use the identical national textbook chapter",
+        "Local tribes should be mentioned only in a single heritage month"
+      ],
+      "difficulty": "easy",
+      "explanation": "OSPI built the Since Time Immemorial curriculum with tribal leaders, and state law encourages districts to collaborate with neighboring tribes. A lesson about the Snoqualmie Tribe near the Cascades foothills should differ from one about the Makah at Neah Bay, because each nation's history is its own.",
+      "memoryHook": "T-Rexy says: Local tribal history, taught with the tribe - that is the STI way.",
+      "tags": [
+        "sti",
+        "local-history",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of teachers and tribal elders reviewing lesson materials together at a table with a river view, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "STI lessons are built in partnership with tribes.",
+        "title": "TAUGHT WITH TRIBES"
+      }
+    },
+    {
+      "id": "WSH7_022",
+      "question": "Before contact with Europeans, trade networks moved dentalium shells from the coast, obsidian from volcanic areas and dried salmon far inland across the region that is now Washington. What does the scale of that trade show about Native societies here?",
+      "correctAnswer": "They were organized, prosperous societies with governments, property systems and long-distance commerce long before Europeans arrived",
+      "distractors": [
+        "They had no economies until fur traders arrived",
+        "They lived completely isolated from one another",
+        "They relied entirely on Europeans for tools and food"
+      ],
+      "difficulty": "easy",
+      "explanation": "Archaeology and tribal oral histories document ranked villages, family-owned resource sites, potlatch redistribution ceremonies and trade reaching hundreds of miles. The fur trade later plugged into Native trade networks that already existed - it did not create them.",
+      "memoryHook": "T-Rexy says: Trade here is ancient - Europeans joined a system already running.",
+      "tags": [
+        "trade",
+        "pre-contact",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a bustling pre-contact river trade gathering with canoes, woven baskets and dried goods exchanged on a beach, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Native trade networks were ancient and extensive.",
+        "title": "ANCIENT TRADE NETWORKS"
+      }
+    },
+    {
+      "id": "WSH7_023",
+      "question": "In December 1854, Territorial Governor Isaac Stevens met Nisqually and Puyallup leaders at a council on a creek near the Nisqually Delta. The treaty signed there was the first of the Stevens treaties in Washington. Which treaty was it?",
+      "correctAnswer": "The Treaty of Medicine Creek (1854)",
+      "distractors": [
+        "The Treaty of Point Elliott (1855)",
+        "The Treaty of Walla Walla (1855)",
+        "The Treaty of Neah Bay (1855)"
+      ],
+      "difficulty": "easy",
+      "explanation": "At Medicine Creek, the Nisqually, Puyallup and Squaxin Island tribes ceded about 2.24 million acres and reserved small reservations. Its fishing language - the right to fish at usual and accustomed grounds in common with settlers - later became central to the Boldt decision.",
+      "memoryHook": "T-Rexy says: Medicine Creek was first - December 1854.",
+      "tags": [
+        "medicine-creek",
+        "stevens-treaties",
+        "treaties"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a winter council gathering under tall fir trees near a creek, tribal leaders and territorial officials seated facing each other, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Medicine Creek (1854) was the first Stevens treaty.",
+        "title": "THE FIRST TREATY"
+      }
+    },
+    {
+      "id": "WSH7_024",
+      "question": "Almost every Stevens treaty in Washington contains nearly identical words protecting the right of taking fish at usual and accustomed grounds and stations. Why do those words matter so much today?",
+      "correctAnswer": "They reserved tribal fishing rights in the treaties themselves, so the rights survived statehood and were later upheld in federal court",
+      "distractors": [
+        "They were a polite greeting with no legal meaning",
+        "They gave all fishing rights in Washington to the territory",
+        "They expired automatically when Washington became a state in 1889"
+      ],
+      "difficulty": "medium",
+      "explanation": "Treaties are the supreme law of the land under the US Constitution, and courts read them as the tribes would have understood them. The reserved fishing right became the legal foundation for tribal fisheries, the fish wars protests and Judge Boldt's 1974 ruling.",
+      "memoryHook": "T-Rexy says: Usual and accustomed - three words that still feed families.",
+      "tags": [
+        "fishing-rights",
+        "treaties",
+        "reserved-rights"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of tribal fishers hauling a net of salmon from a river at dawn with mist rising, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Treaty language reserved tribal fishing rights.",
+        "title": "USUAL AND ACCUSTOMED"
+      }
+    },
+    {
+      "id": "WSH7_025",
+      "question": "In January 1855, leaders of the Duwamish, Suquamish and other Puget Sound peoples signed a treaty at Mukilteo that ceded the land where Seattle now stands. Chief Seattle and Chief Patkanim were among the signers. Which treaty was this?",
+      "correctAnswer": "The Treaty of Point Elliott (1855)",
+      "distractors": [
+        "The Treaty of Medicine Creek (1854)",
+        "The Treaty of Point No Point (1855)",
+        "The Yakima Treaty (1855)"
+      ],
+      "difficulty": "medium",
+      "explanation": "Point Elliott created reservations including Tulalip, Swinomish, Lummi and Port Madison, and reserved fishing and hunting rights. The city of Seattle takes its name from Si'ahl, the Duwamish and Suquamish leader who signed for his peoples.",
+      "memoryHook": "T-Rexy says: Point Elliott gave Seattle its land story - and its name.",
+      "tags": [
+        "point-elliott",
+        "treaties",
+        "seattle"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a council on a Puget Sound beach in winter with canoes drawn up and leaders gathered around a fire, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Point Elliott (1855) covered the Seattle area.",
+        "title": "THE SEATTLE-AREA TREATY"
+      }
+    },
+    {
+      "id": "WSH7_026",
+      "question": "Governor Isaac Stevens pushed Washington's treaties through in little more than a year, using interpreters and a trade jargon called Chinook Jargon that had only a few hundred words. Why do historians and courts treat that fact as important?",
+      "correctAnswer": "Complex legal ideas like land cession were explained through a limited trade language, so treaties must be interpreted as the tribes understood them, with ambiguities resolved in the tribes' favor",
+      "distractors": [
+        "It proves the treaties were written perfectly clearly",
+        "It means the treaties were never signed at all",
+        "It shows Stevens spoke every Native language fluently"
+      ],
+      "difficulty": "medium",
+      "explanation": "Chinook Jargon lacked words for concepts like fee-simple ownership, and many Native signers could not read English. Federal courts therefore apply canons of treaty interpretation: understand the treaty as the tribal signers did, and resolve unclear terms in favor of the tribes.",
+      "memoryHook": "T-Rexy says: A few hundred jargon words carried away millions of acres - courts remember that.",
+      "tags": [
+        "chinook-jargon",
+        "treaty-interpretation",
+        "treaties"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of an interpreter speaking between two seated groups at a treaty council, with documents on a blanket between them, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Treaties are read as tribes understood them.",
+        "title": "WORDS THAT FELL SHORT"
+      }
+    },
+    {
+      "id": "WSH7_027",
+      "question": "Anger over the Stevens treaties, shrinking reservations and miners rushing onto Yakama land helped spark armed conflict in 1855 to 1858 across the territory. What is that conflict generally called?",
+      "correctAnswer": "The Puget Sound and Yakima wars - including the Yakima War in the east and fighting around Puget Sound in the west",
+      "distractors": [
+        "The Pig War, fought entirely over a single pig",
+        "The Nez Perce War of 1877 only, with no earlier fighting",
+        "The War of 1812 in the Pacific Northwest"
+      ],
+      "difficulty": "medium",
+      "explanation": "Leschi, a Nisqually leader who had resisted the Medicine Creek Treaty's tiny reservation, became a central figure and was hanged in 1858 after a controversial trial; a Historical Court of Inquiry exonerated him in 2004, in a symbolic ruling with no legal significance. Kamiakin led Yakama resistance in the east until the fighting ended in 1858.",
+      "memoryHook": "T-Rexy says: Broken treaty promises lit the wars of 1855 to 1858.",
+      "tags": [
+        "treaty-wars",
+        "leschi",
+        "treaties"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a tense 1850s frontier landscape with a river crossing and distant smoke, somber mood, no battle shown close up, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Treaty grievances sparked wars in 1855-1858.",
+        "title": "WHEN PROMISES BROKE"
+      }
+    },
+    {
+      "id": "WSH7_028",
+      "question": "In the 1960s and early 1970s, tribal members including Nisqually activist Billy Frank Jr. held fish-ins on the Puyallup and Nisqually rivers, deliberately fishing in defiance of state rules to assert treaty rights. What were they protesting and claiming?",
+      "correctAnswer": "That Washington State was arresting tribal fishers and ignoring the treaty right to fish at usual and accustomed places",
+      "distractors": [
+        "That salmon should never be eaten by anyone",
+        "That the federal government should close all rivers to fishing",
+        "That tribes wanted to fish only in other states"
+      ],
+      "difficulty": "hard",
+      "explanation": "State officials blamed tribal nets for declining salmon runs while allowing large commercial and sport harvests, and tribal fishers took only a small share of the catch. Fish-ins drew national attention - actor Marlon Brando was arrested at a 1964 Puyallup fish-in - and pushed the dispute into federal court.",
+      "memoryHook": "T-Rexy says: Fish-ins said: the treaty is still the law.",
+      "tags": [
+        "fish-wars",
+        "billy-frank-jr",
+        "treaty-rights"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of 1960s tribal fishers casting nets from a small boat on a river while onlookers watch from the bank, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Fish-ins asserted treaty fishing rights.",
+        "title": "THE FISH-INS"
+      }
+    },
+    {
+      "id": "WSH7_029",
+      "question": "In 1974, Federal Judge George H. Boldt ruled in United States v. Washington after a long trial in Tacoma. What was the core of his decision, known everywhere as the Boldt decision?",
+      "correctAnswer": "Treaty tribes reserved the right to take up to 50 percent of the harvestable salmon at their usual and accustomed grounds, and tribes became co-managers of the fishery with the state",
+      "distractors": [
+        "Tribes could take 5 percent of the salmon as a welfare benefit",
+        "All commercial fishing in Washington must end permanently",
+        "The treaties had expired and tribes had no fishing rights at all"
+      ],
+      "difficulty": "hard",
+      "explanation": "Boldt read the treaty phrase 'in common with' to mean tribes could take up to half the harvestable fish passing their grounds. The US Supreme Court largely upheld the ruling in 1979, and the decision transformed tribes into co-managers of Washington salmon.",
+      "memoryHook": "T-Rexy says: Boldt: in common with means up to half.",
+      "tags": [
+        "boldt-decision",
+        "1974",
+        "treaty-rights"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a federal courtroom in the 1970s with a judge's bench and tribal and state representatives seated at tables, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Boldt gave treaty tribes up to 50 percent.",
+        "title": "THE BOLDT DECISION"
+      }
+    },
+    {
+      "id": "WSH7_030",
+      "question": "After the Boldt decision, how is salmon management in Washington actually carried out each year?",
+      "correctAnswer": "The state and the treaty tribes act as co-managers, jointly setting seasons, harvest levels and hatchery plans to protect the runs",
+      "distractors": [
+        "The state manages alone and informs tribes afterward",
+        "A private company sets all fishing rules",
+        "Only the federal government sets seasons, with no state role"
+      ],
+      "difficulty": "hard",
+      "explanation": "Co-management grew from conflict into an institution: tribal and state scientists jointly model runs, negotiate annual agreements such as the Puget Sound harvest plan, and work on habitat. Judge Boldt retained court jurisdiction, and later phases of the case covered shellfish and habitat culverts.",
+      "memoryHook": "T-Rexy says: From court fight to co-management - that is Boldt's legacy at work.",
+      "tags": [
+        "co-management",
+        "salmon",
+        "treaty-rights"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of tribal and state biologists together counting salmon at a river weir with clipboards and measuring boards, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Tribes and state co-manage salmon together.",
+        "title": "CO-MANAGERS NOW"
+      }
+    },
+    {
+      "id": "WSH7_031",
+      "question": "Judge Boldt's ruling was bitterly opposed by many non-tribal fishers at first, with protests and bumper stickers attacking him. What happened when the case reached the US Supreme Court in 1979?",
+      "correctAnswer": "The Supreme Court upheld the heart of the ruling, confirming the tribes' right to up to 50 percent of harvestable fish",
+      "distractors": [
+        "The Supreme Court reversed Boldt completely and voided the treaties",
+        "The Supreme Court refused to hear any part of the case",
+        "The Supreme Court ruled treaties apply only in Oregon"
+      ],
+      "difficulty": "easy",
+      "explanation": "In Washington v. Washington State Commercial Passenger Fishing Vessel Association (1979), the Supreme Court affirmed the treaty interpretation, with modest adjustments. The decision stands as one of the most important affirmations of treaty rights in American law.",
+      "memoryHook": "T-Rexy says: 1979: the highest court said Boldt was right.",
+      "tags": [
+        "supreme-court",
+        "boldt-decision",
+        "treaty-rights"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of the marble facade of a supreme court building with tall columns under a morning sky, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Supreme Court upheld Boldt in 1979.",
+        "title": "UPHELD IN 1979"
+      }
+    },
+    {
+      "id": "WSH7_032",
+      "question": "In a later phase of the same treaty case, the US Supreme Court in 2018 deadlocked 4 to 4 on whether Washington must repair highway culverts that block salmon from reaching habitat on tribal treaty grounds. What was the effect of that tie?",
+      "correctAnswer": "The lower court ruling against the state stood, so Washington had to fix the barrier culverts on the court's schedule",
+      "distractors": [
+        "The treaty case was dismissed forever",
+        "All highways in Washington were ordered closed",
+        "The Boldt decision itself was overturned"
+      ],
+      "difficulty": "easy",
+      "explanation": "The culverts case held that the treaties promise more than a chance to dip nets in empty rivers - the state may not build and maintain culverts that destroy the salmon runs the treaties protect. The 4-4 tie, with Justice Kennedy recused, left the Ninth Circuit's pro-tribal ruling in place.",
+      "memoryHook": "T-Rexy says: A right to fish means little in a river with no fish - the courts said so.",
+      "tags": [
+        "culverts",
+        "salmon",
+        "treaty-rights"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of workers replacing a narrow round culvert under a road with a wide open-bottom bridge while a stream flows through, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The 2018 tie left the culvert ruling standing.",
+        "title": "FISH NEED PASSAGE TOO"
+      }
+    },
+    {
+      "id": "WSH7_033",
+      "question": "In 1792, American captain Robert Gray sailed his ship Columbia Rediviva across a dangerous bar and into a great river he named for his ship. Why did that voyage matter for the United States?",
+      "correctAnswer": "It gave the United States a key claim to the Columbia River and the Oregon Country in later boundary negotiations",
+      "distractors": [
+        "It discovered gold in the Klondike",
+        "It founded the city of Seattle",
+        "It proved Washington was an island"
+      ],
+      "difficulty": "easy",
+      "explanation": "Gray's entry into the Columbia, building on his earlier coastal trade, let the United States argue it had discovered and explored the river. Explorers Lewis and Clark, Britain's David Thompson and Gray's voyage all became evidence in the Oregon boundary dispute.",
+      "memoryHook": "T-Rexy says: Gray named the river for his ship - and staked a claim.",
+      "tags": [
+        "robert-gray",
+        "columbia-river",
+        "exploration"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a tall sailing ship crossing the breakers at a wide river mouth at sunrise, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Gray's 1792 voyage supported the US claim.",
+        "title": "THE RIVER AND THE SHIP"
+      }
+    },
+    {
+      "id": "WSH7_034",
+      "question": "British explorer George Vancouver charted Puget Sound in 1792 and named many features for his officers and patrons, including Mount Rainier and Mount Baker. Whom did he name Puget Sound itself for?",
+      "correctAnswer": "Peter Puget, an officer who surveyed the southern inlets of the sound",
+      "distractors": [
+        "Pierre Puget, a French fur trader who founded Tacoma",
+        "Lord Puget, the British prime minister",
+        "Puget was a Native word Vancouver recorded for the whole sea"
+      ],
+      "difficulty": "medium",
+      "explanation": "Lieutenant Peter Puget led boat parties into the deep southern inlets below the Tacoma Narrows in May 1792. Vancouver applied Puget's name to those southern waters, and usage later extended it to the whole sound system.",
+      "memoryHook": "T-Rexy says: Puget Sound is named for a lieutenant in an open boat.",
+      "tags": [
+        "vancouver",
+        "puget-sound",
+        "exploration"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of sailors in an open longboat charting a forested inlet with a large sailing ship anchored behind, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Puget Sound honors surveyor Peter Puget.",
+        "title": "NAMED FOR THE SURVEYOR"
+      }
+    },
+    {
+      "id": "WSH7_035",
+      "question": "Arriving overland in the winter of 1805, the Lewis and Clark Expedition finally saw the Pacific Ocean near the mouth of the Columbia. What had the expedition accomplished for the young United States?",
+      "correctAnswer": "It explored the Louisiana Purchase and the route to the Pacific, mapping the region and strengthening the American claim to Oregon Country",
+      "distractors": [
+        "It conquered California for the United States",
+        "It built the first railroad to the Pacific",
+        "It signed the treaties that created Washington Territory"
+      ],
+      "difficulty": "medium",
+      "explanation": "Sent by President Thomas Jefferson and guided in part by Sacagawea, the Corps of Discovery wintered at Fort Clatsop on the Oregon side in 1805-1806. Their journals documented Native nations, geography and wildlife, and their route became a foundation of the US claim to the Northwest.",
+      "memoryHook": "T-Rexy says: Lewis and Clark wintered within sight of the goal - the Pacific.",
+      "tags": [
+        "lewis-and-clark",
+        "exploration",
+        "columbia-river"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of explorers in early 1800s dress looking out over a stormy ocean estuary from a forested hill, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Lewis and Clark reached the Pacific in 1805.",
+        "title": "SIGHTING THE PACIFIC"
+      }
+    },
+    {
+      "id": "WSH7_036",
+      "question": "In 1825, the Hudson's Bay Company built a fort on the north bank of the Columbia that became the fur trade capital of the region, with farms, mills and a diverse workforce. Which fort was it, and who led it for two decades?",
+      "correctAnswer": "Fort Vancouver, led by Chief Factor John McLoughlin",
+      "distractors": [
+        "Fort Spokane, led by Captain George Vancouver",
+        "Fort Nisqually, led by Governor Isaac Stevens",
+        "Fort Walla Walla, led by Marcus Whitman only"
+      ],
+      "difficulty": "medium",
+      "explanation": "John McLoughlin, called the Father of Oregon, ran Fort Vancouver as a self-sufficient depot that supplied brigades across the Northwest. He famously aided exhausted American settlers arriving on the Oregon Trail, even though his company served British interests.",
+      "memoryHook": "T-Rexy says: Fort Vancouver was the fur era's capital - McLoughlin its mayor in all but name.",
+      "tags": [
+        "fort-vancouver",
+        "hudsons-bay",
+        "fur-trade"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a wooden palisade fur trade fort with workshops, gardens and a river dock with canoes, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Fort Vancouver was the Hudson's Bay hub.",
+        "title": "THE FUR TRADE CAPITAL"
+      }
+    },
+    {
+      "id": "WSH7_037",
+      "question": "Sea otter pelts from the Northwest Coast sold for high prices in China, drawing American and British ships in the maritime fur trade. What did that trade do to Native coastal societies and to the otters?",
+      "correctAnswer": "It enriched some Native trading chiefs and spread new goods - and firearms and disease - while sea otters were hunted nearly to extinction",
+      "distractors": [
+        "It left Native societies completely unchanged",
+        "It increased sea otter numbers across the coast",
+        "It ended all trade between Native groups"
+      ],
+      "difficulty": "medium",
+      "explanation": "Ship captains traded metal goods and guns for pelts that Native hunters supplied through their own trade systems. By the early 1800s sea otters were commercially wiped out in many areas; they were protected much later and reintroduced to the Washington coast in 1969-1970.",
+      "memoryHook": "T-Rexy says: A pelt worth a fortune in China nearly erased the otter.",
+      "tags": [
+        "maritime-fur-trade",
+        "sea-otter",
+        "exploration"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a trading scene on a beach with a sailing ship offshore, canoes and bundles of furs being exchanged, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The sea otter trade brought wealth, disease and depletion.",
+        "title": "THE COSTLY PELT"
+      }
+    },
+    {
+      "id": "WSH7_038",
+      "question": "In 1811, John Jacob Astor's men founded the first American fur post at the mouth of the Columbia, a settlement later sold to a British company during the War of 1812. Which post was it?",
+      "correctAnswer": "Fort Astoria (Fort George under the British)",
+      "distractors": [
+        "Fort Vancouver, founded in 1825",
+        "Fort Colville, founded for mining",
+        "Fort Steilacoom, founded by the Army"
+      ],
+      "difficulty": "hard",
+      "explanation": "Astoria, in present-day Oregon just across the river from Washington, anchored the Pacific Fur Company's attempt to link Columbia furs to China. Its sale to the North West Company in 1813 shows how the War of 1812 reached even the remote Northwest Coast.",
+      "memoryHook": "T-Rexy says: Astoria was America's first foothold at the river's mouth.",
+      "tags": [
+        "astoria",
+        "fur-trade",
+        "exploration"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a small early fur post with log buildings at a river mouth, ships and canoes nearby, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Fort Astoria was founded in 1811.",
+        "title": "THE FIRST AMERICAN POST"
+      }
+    },
+    {
+      "id": "WSH7_039",
+      "question": "Fur brigades carried beaver pelts and supplies on a famous trail from Fort Vancouver eastward through the Columbia Gorge and north into the interior. What sustained the fur trade at posts like Spokane House and Fort Colville?",
+      "correctAnswer": "Native trappers, traders and guides whose knowledge, labor and trade networks made the posts work",
+      "distractors": [
+        "Steam locomotives delivering furs year round",
+        "Gold miners working in winter camps",
+        "Only British soldiers stationed at each post"
+      ],
+      "difficulty": "hard",
+      "explanation": "Posts depended on Native peoples as trappers, provisioners, interpreters and family partners, and on French-Canadian and Hawaiian (Kanaka) workers. Spokane House (1810) and Fort Colville (1825) traded within Indigenous economies that predated them by centuries.",
+      "memoryHook": "T-Rexy says: No Native knowledge, no fur trade - the posts ran on it.",
+      "tags": [
+        "fur-trade",
+        "posts",
+        "indigenous"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a busy fur post yard with pack horses, bales of furs, and Native and voyageur traders working together, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Fur posts depended on Native expertise.",
+        "title": "THE PEOPLE BEHIND THE POSTS"
+      }
+    },
+    {
+      "id": "WSH7_040",
+      "question": "Long before explorers arrived, a Spanish claim rested on a 1592 tale of a Greek pilot sailing a great strait at about Washington's latitude. The waterway between Vancouver Island and the mainland now carries his name. Who was he said to be, and what is the strait called?",
+      "correctAnswer": "Juan de Fuca - the Strait of Juan de Fuca",
+      "distractors": [
+        "Juan Cabrillo - the Strait of Cabrillo",
+        "Ferdinand Magellan - the Strait of Anian only",
+        "Sebastian Vizcaino - the Strait of Georgia"
+      ],
+      "difficulty": "hard",
+      "explanation": "The mariner known as Juan de Fuca (born Ioannis Fokas) claimed to have found the fabled Strait of Anian for Spain. No proof of his voyage survives, but British captain Charles Barkley applied the name in 1787 to the real strait, which forms part of the US-Canada border today.",
+      "memoryHook": "T-Rexy says: A possibly tall tale still labels the map: Juan de Fuca.",
+      "tags": [
+        "juan-de-fuca",
+        "strait",
+        "exploration"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a narrow strait between mountainous forested shores with a sailing ship entering from the ocean, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The strait is named for Juan de Fuca.",
+        "title": "THE STRAIT OF LEGEND"
+      }
+    },
+    {
+      "id": "WSH7_041",
+      "question": "From 1818 to 1846, the United States and Britain agreed to jointly occupy the Oregon Country rather than fight over it. How was that long dispute finally settled?",
+      "correctAnswer": "The Oregon Treaty of 1846 set the boundary at the 49th parallel west to the sea, with Vancouver Island remaining British",
+      "distractors": [
+        "The Treaty of Medicine Creek gave all of it to the United States",
+        "A popular vote of settlers gave all of it to Britain",
+        "The Pig War ended with Britain keeping the mainland"
+      ],
+      "difficulty": "easy",
+      "explanation": "The treaty extended the familiar 49th parallel line through the Rockies to the coast, dipping around Vancouver Island. Vague wording about the water boundary near the San Juan Islands left one dispute behind, settled peacefully in 1872.",
+      "memoryHook": "T-Rexy says: 1846: the 49th parallel became Washington's northern edge.",
+      "tags": [
+        "oregon-treaty",
+        "1846",
+        "boundaries"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of diplomats shaking hands over a large map table in a 19th century office, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The 1846 treaty set the 49th parallel border.",
+        "title": "THE 49TH PARALLEL DEAL"
+      }
+    },
+    {
+      "id": "WSH7_042",
+      "question": "Thousands of American families traveled the Oregon Trail in the 1840s, many settling first in the Willamette Valley, then spreading north of the Columbia. What federal law of 1850 fueled settlement by granting land to white settlers?",
+      "correctAnswer": "The Donation Land Claim Act - it gave large claims to settlers who arrived and farmed the land, on territory taken from Native peoples",
+      "distractors": [
+        "The Homestead Act of 1862, applied retroactively to 1830",
+        "The Indian Removal Act, which granted land only to tribes",
+        "The Land Ordinance of 1785, written for Washington"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Act promised 320 acres to a single settler and 640 to a married couple who arrived before December 1850 and cultivated for four years. It recognized and extinguished Native title on paper before treaties were negotiated north of the Columbia, accelerating dispossession.",
+      "memoryHook": "T-Rexy says: Free land for settlers meant taken land for tribes - both halves are the story.",
+      "tags": [
+        "donation-land-act",
+        "settlement",
+        "oregon-trail"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a covered wagon family staking a farm claim on open prairie with a river in the distance, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Donation Land Claim Act fueled settlement.",
+        "title": "LAND THAT SPARKED SETTLEMENT"
+      }
+    },
+    {
+      "id": "WSH7_043",
+      "question": "In 1836, Marcus and Narcissa Whitman founded a mission among the Cayuse people near present-day Walla Walla. What did the Whitmans do there besides preach?",
+      "correctAnswer": "They ran a way station for Oregon Trail emigrants, farmed with irrigation, and provided medical care - while bringing diseases and cultural pressure that strained relations with the Cayuse",
+      "distractors": [
+        "They operated a gold mine and a bank",
+        "They commanded an army fort on the Columbia",
+        "They printed Washington's first state constitution"
+      ],
+      "difficulty": "easy",
+      "explanation": "Whitman Mission became a major stop where wagon trains rested and resupplied. Measles carried by emigrants devastated the Cayuse, who had little immunity, while settler numbers kept rising on Cayuse land - tensions that ended in violence in 1847.",
+      "memoryHook": "T-Rexy says: The mission was a crossroads - of help, disease and conflict.",
+      "tags": [
+        "whitman-mission",
+        "1836",
+        "oregon-trail"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a mission station with a house, mill and garden beside a creek, wagon trains resting nearby, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Whitman Mission served emigrants among the Cayuse.",
+        "title": "THE MISSION CROSSROADS"
+      }
+    },
+    {
+      "id": "WSH7_044",
+      "question": "In November 1847, Cayuse men attacked the Whitman mission and killed Marcus and Narcissa Whitman and 11 others. What was the attack's immediate background?",
+      "correctAnswer": "A measles epidemic was killing many Cayuse while most white patients recovered, and Cayuse grievances over disease, land and the mission's role had deepened",
+      "distractors": [
+        "A dispute over the price of wheat alone",
+        "The Cayuse were ordered to attack by British officials",
+        "A gold discovery on mission land that same week"
+      ],
+      "difficulty": "medium",
+      "explanation": "Whitman treated both peoples as a doctor, but measles mortality fell overwhelmingly on the Cayuse. The killings triggered the Cayuse War and pushed Congress to organize Oregon Territory in 1848, reshaping federal control of the region.",
+      "memoryHook": "T-Rexy says: Disease did the killing first - then came the attack and a war.",
+      "tags": [
+        "whitman-massacre",
+        "1847",
+        "cayuse"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a quiet mission site at dusk with a memorial mood, empty buildings and autumn trees, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Measles and grievances preceded the 1847 attack.",
+        "title": "1847 TURNING POINT"
+      }
+    },
+    {
+      "id": "WSH7_045",
+      "question": "Settlers north of the Columbia complained that Oregon's government at Oregon City was too far away across the river. Congress answered in 1853 by doing what?",
+      "correctAnswer": "Creating Washington Territory, split off from Oregon Territory, with Olympia as its capital",
+      "distractors": [
+        "Making Washington the 42nd state immediately",
+        "Moving Oregon's capital to Seattle",
+        "Annexing the area to Canada until statehood"
+      ],
+      "difficulty": "medium",
+      "explanation": "The new territory, named for George Washington, at first included northern Idaho and western Montana as well as today's Washington. Isaac Stevens arrived as its first governor - and simultaneously as superintendent of Indian affairs, a dual role that drove the rushed treaty campaign.",
+      "memoryHook": "T-Rexy says: 1853: too far to govern became Washington Territory.",
+      "tags": [
+        "washington-territory",
+        "1853",
+        "olympia"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a small frontier capital town with a wooden territorial capitol building and muddy streets, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington Territory was created in 1853.",
+        "title": "A TERRITORY IS BORN"
+      }
+    },
+    {
+      "id": "WSH7_046",
+      "question": "In 1859, an American farmer on San Juan Island shot a British company's pig rooting in his potato patch, and both nations sent warships and troops. How did the Pig War end?",
+      "correctAnswer": "With no battle at all - joint military occupation lasted until 1872, when an arbitrator awarded the islands to the United States",
+      "distractors": [
+        "With a major naval battle in Puget Sound",
+        "With Britain annexing all of Puget Sound",
+        "With the farmer becoming governor of the island"
+      ],
+      "difficulty": "medium",
+      "explanation": "The only casualty was the pig. Commanders including Captain George Pickett for the US and British naval officers kept the standoff bloodless, and Kaiser Wilhelm I's arbitration in 1872 fixed the boundary through Haro Strait, giving the San Juans to the United States.",
+      "memoryHook": "T-Rexy says: The Pig War: one pig, zero soldiers lost, thirteen years of patience.",
+      "tags": [
+        "pig-war",
+        "1859",
+        "san-juan"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of American and British camps at opposite ends of a green island with warships anchored peacefully offshore, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Pig War ended without a battle.",
+        "title": "THE WAR WITH ONE CASUALTY"
+      }
+    },
+    {
+      "id": "WSH7_047",
+      "question": "The Denny Party landed at Alki Point in November 1851 after scouting Puget Sound, then moved their settlement across the bay to a deep harbor. Which city grew from that settlement?",
+      "correctAnswer": "Seattle - named for Chief Seattle (Si'ahl) of the Duwamish and Suquamish peoples",
+      "distractors": [
+        "Tacoma - named for a British admiral",
+        "Olympia - named for Mount Olympus in Greece only",
+        "Everett - named for its founder's ship"
+      ],
+      "difficulty": "medium",
+      "explanation": "Seattle's founders depended on Duwamish knowledge and on Chief Seattle's diplomacy, and Henry Yesler's sawmill (1853) anchored the town on Elliott Bay. The Duwamish, on whose land the city rose, are still seeking federal recognition today - a modern echo of the Point Elliott Treaty era.",
+      "memoryHook": "T-Rexy says: Seattle began at Alki - and carries a chief's name.",
+      "tags": [
+        "seattle",
+        "denny-party",
+        "founding"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of settlers landing from a schooner on a rainy beach with forested hills across a bay, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Seattle grew from the 1851 Alki landing.",
+        "title": "FROM ALKI TO SEATTLE"
+      }
+    },
+    {
+      "id": "WSH7_048",
+      "question": "Tacoma's founders promoted their town hard in 1873 when a railroad picked it as a terminus, giving it a famous nickname. Which railroad, and what nickname did the choice inspire?",
+      "correctAnswer": "The Northern Pacific Railroad - Tacoma was billed as the City of Destiny",
+      "distractors": [
+        "The Great Northern - Tacoma was billed as the Emerald City",
+        "The Union Pacific - Tacoma was billed as the Rose City",
+        "The Southern Pacific - Tacoma was billed as the Inland Empire"
+      ],
+      "difficulty": "hard",
+      "explanation": "Northern Pacific chose Commencement Bay partly for its deep harbor and timber, and boosters called Tacoma the City of Destiny. The choice made Tacoma, for a time, seem certain to outgrow Seattle - until Seattle's Klondike boom reversed the rivalry.",
+      "memoryHook": "T-Rexy says: Destiny was a railroad decision wearing a slogan.",
+      "tags": [
+        "tacoma",
+        "northern-pacific",
+        "territorial"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a 1870s harbor town with a railroad terminus, lumber mills and ships at wharves below a mountain view, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Tacoma was the Northern Pacific terminus.",
+        "title": "THE CITY OF DESTINY"
+      }
+    },
+    {
+      "id": "WSH7_049",
+      "question": "On November 11, 1889, President Benjamin Harrison signed the proclamation admitting Washington as a state. Which number state was it, and who became its first governor?",
+      "correctAnswer": "The 42nd state - first governor Elisha P. Ferry",
+      "distractors": [
+        "The 38th state - first governor Isaac Stevens",
+        "The 42nd state - first governor George Turner",
+        "The 50th state - first governor John Rankin Rogers"
+      ],
+      "difficulty": "hard",
+      "explanation": "Washington entered the Union the same month as Montana and the Dakotas, under the 1889 Enabling Act. Elisha P. Ferry, a former territorial governor, won the first state election; Olympia, the territorial capital since 1853, remained the capital.",
+      "memoryHook": "T-Rexy says: 42nd state, Ferry first, Olympia stays - November 11, 1889.",
+      "tags": [
+        "statehood",
+        "1889",
+        "ferry"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a crowd celebrating outside a new state capitol building with flags and a brass band in 1889 style, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington became the 42nd state in 1889.",
+        "title": "STATEHOOD DAY"
+      }
+    },
+    {
+      "id": "WSH7_050",
+      "question": "Delegates writing the Washington Constitution in 1889 produced a document much longer and more detailed than the US Constitution. Why?",
+      "correctAnswer": "They distrusted legislatures and corporations after territorial scandals, so they wrote detailed limits and rules directly into the constitution",
+      "distractors": [
+        "They were paid by the word and stretched the text",
+        "They copied the British constitution word for word",
+        "The US Constitution was banned as a model"
+      ],
+      "difficulty": "hard",
+      "explanation": "Progressive-era suspicion of railroads and graft shaped the 1889 convention in Olympia. The result regulates everything from public lands and water to corporate power, and it still contains the original articles alongside more than 100 amendments.",
+      "memoryHook": "T-Rexy says: A long constitution is a short leash - that was the point in 1889.",
+      "tags": [
+        "wa-constitution",
+        "1889",
+        "convention"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of delegates debating at wooden desks in a hall with tall windows, stacks of handwritten pages before them, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The WA Constitution is long and detailed by design.",
+        "title": "A LONG CONSTITUTION, A SHORT LEASH"
+      }
+    },
+    {
+      "id": "WSH7_051",
+      "question": "Article IX of the Washington Constitution says it is the paramount duty of the state to make ample provision for the education of all children living within its borders. What has that sentence done in modern times?",
+      "correctAnswer": "It became the basis of court rulings, including the McCleary decision, holding that the state must fully fund basic education before other programs",
+      "distractors": [
+        "It was repealed in 1900 and has no effect today",
+        "It applies only to private schools",
+        "It sets the price of college tuition each year"
+      ],
+      "difficulty": "easy",
+      "explanation": "Paramount means first and highest - stronger education language than in most state constitutions. In McCleary v. State, decided in January 2012, the state Supreme Court held that Washington was failing that duty; the court held the state in contempt on September 11, 2014, imposed sanctions in 2015, and lifted the contempt in 2018 after the Legislature raised education funding, a fight that reshaped state budgets for years.",
+      "memoryHook": "T-Rexy says: Paramount duty: schools get funded first - the court enforced it.",
+      "tags": [
+        "paramount-duty",
+        "education",
+        "wa-constitution"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a schoolhouse standing first in a line of public buildings at sunrise with a courthouse behind, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Education is the state's paramount duty.",
+        "title": "SCHOOLS FIRST, BY LAW"
+      }
+    },
+    {
+      "id": "WSH7_052",
+      "question": "Washington voters can propose laws themselves, gather signatures, and put them directly on the ballot, bypassing the Legislature. What is this power called, and when did Washington adopt it?",
+      "correctAnswer": "The initiative - adopted by constitutional amendment in 1912, along with the referendum",
+      "distractors": [
+        "The filibuster - adopted in 1889 at statehood",
+        "The recall alone - adopted in 1950",
+        "The pocket veto - adopted in 1912 for citizens"
+      ],
+      "difficulty": "easy",
+      "explanation": "Washington was an early direct-democracy state: initiative and referendum came in 1912 and the recall of elected officials in 1911. The first successful initiative, in 1914, prohibited alcohol statewide - five years before national Prohibition.",
+      "memoryHook": "T-Rexy says: 1912 gave voters a pen of their own: the initiative.",
+      "tags": [
+        "initiative",
+        "direct-democracy",
+        "wa-constitution"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of volunteers collecting signatures on a city sidewalk with clipboards and a ballot box nearby, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington adopted the initiative in 1912.",
+        "title": "THE PEOPLE'S PEN"
+      }
+    },
+    {
+      "id": "WSH7_053",
+      "question": "In 1910, Washington became only the fifth state to grant women full voting rights in its constitution - a decade before the nation followed. How did that victory connect to an earlier attempt?",
+      "correctAnswer": "Washington Territory had briefly given women the vote in the 1880s before courts struck it down, so suffragists fought for a permanent constitutional amendment in 1910",
+      "distractors": [
+        "Women had voted in Washington continuously since 1853",
+        "The 1910 vote applied only to school board elections",
+        "Congress ordered Washington to adopt women's suffrage in 1910"
+      ],
+      "difficulty": "easy",
+      "explanation": "Territorial women voted in 1883-1887 until territorial supreme court decisions ended the experiment. The 1910 amendment, won by organizers like Emma Smith DeVoe, made Washington a suffrage leader and helped build momentum for the Nineteenth Amendment in 1920.",
+      "memoryHook": "T-Rexy says: Washington women won the vote, lost it, then won it for good in 1910.",
+      "tags": [
+        "womens-suffrage",
+        "1910",
+        "wa-constitution"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of women in 1910 dress campaigning with banners without words outside a polling place, voters lining up, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington granted women's suffrage in 1910.",
+        "title": "WON, LOST, WON FOR GOOD"
+      }
+    },
+    {
+      "id": "WSH7_054",
+      "question": "The Washington Constitution's Declaration of Rights (Article I) protects freedoms such as speech, religion and jury trial. How does it sometimes protect Washingtonians more than the US Bill of Rights does?",
+      "correctAnswer": "State courts can read Washington's own rights provisions more broadly than the federal floor, giving extra protection under state law",
+      "distractors": [
+        "Article I replaced the US Bill of Rights entirely in Washington",
+        "Article I applies only to state employees",
+        "State rights can never exceed federal rights in any state"
+      ],
+      "difficulty": "medium",
+      "explanation": "Federalism means two constitutions guard liberty: the US Constitution sets a floor, not a ceiling. Washington courts have at times protected privacy and free speech more strongly under Article I, using their own history and text rather than federal rulings.",
+      "memoryHook": "T-Rexy says: Two constitutions, two shields - Washington's can be wider.",
+      "tags": [
+        "article-i",
+        "rights",
+        "wa-constitution"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of two overlapping shields in front of a courthouse, one slightly larger in the foreground, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "State rights can exceed the federal floor.",
+        "title": "TWO SHIELDS OF RIGHTS"
+      }
+    },
+    {
+      "id": "WSH7_055",
+      "question": "Unlike the federal government, Washington State finances much of its budget without a broad personal income tax, relying heavily on another tax instead. Which tax is the state's largest source of revenue?",
+      "correctAnswer": "The retail sales tax, collected on most goods and many services",
+      "distractors": [
+        "The state personal income tax on wages",
+        "A state poll tax on registered voters",
+        "Tariffs on ships entering Puget Sound"
+      ],
+      "difficulty": "medium",
+      "explanation": "Voters rejected income tax proposals repeatedly, and a graduated income tax amendment failed in the 1930s litigation era after a 1932 initiative passed. Sales, property and business-and-occupation taxes fund the state instead, which critics note makes the system fall harder on low-income households.",
+      "memoryHook": "T-Rexy says: No income tax - the sales tax carries Washington's budget.",
+      "tags": [
+        "sales-tax",
+        "state-finance",
+        "government"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a shop counter with a cash register and shopping bags in a small town main street scene, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The sales tax is Washington's largest revenue source.",
+        "title": "FUNDED AT THE REGISTER"
+      }
+    },
+    {
+      "id": "WSH7_056",
+      "question": "Seattle voters in 1889 faced a city leveled by fire, and Washington faced statehood the same year. What was the Great Seattle Fire's place in that story?",
+      "correctAnswer": "The fire destroyed downtown Seattle in June 1889, months before statehood, and the city rebuilt in brick and stone at a raised street level",
+      "distractors": [
+        "The fire happened in 1851 and delayed the Denny Party",
+        "The fire destroyed Olympia and moved the capital to Seattle",
+        "The fire burned the constitutional convention hall during its session"
+      ],
+      "difficulty": "medium",
+      "explanation": "On June 6, 1889, a glue pot fire swept the wooden business district. Rebuilding ordinances required brick and stone, and engineers raised the streets, burying the old ground floors - the origin of today's Seattle Underground tours.",
+      "memoryHook": "T-Rexy says: Seattle rose from ashes the same year Washington rose to statehood.",
+      "tags": [
+        "seattle-fire",
+        "1889",
+        "statehood"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of 1880s firefighters battling a blaze in a wooden downtown while brick buildings rise in the aftermath nearby, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Great Seattle Fire struck in June 1889.",
+        "title": "ASHES BEFORE STATEHOOD"
+      }
+    },
+    {
+      "id": "WSH7_057",
+      "question": "Washington's 1889 constitution barred public money from supporting religious institutions more strictly than the US Constitution does - a provision in Article I, Section 11. What is this kind of provision commonly called nationally?",
+      "correctAnswer": "A Blaine amendment - a state no-aid clause for religious schools and institutions",
+      "distractors": [
+        "A supremacy clause for state churches",
+        "A free exercise mandate requiring aid",
+        "An establishment tax provision"
+      ],
+      "difficulty": "medium",
+      "explanation": "Washington is one of many states that adopted Blaine amendments in the late 1800s, named for Congressman James G. Blaine. The clause has shaped modern fights over funding for religious schools and charities, and the US Supreme Court has limited how far such clauses can exclude religious groups from general programs.",
+      "memoryHook": "T-Rexy says: Blaine clauses: stricter walls between state money and religion.",
+      "tags": [
+        "blaine-amendment",
+        "article-i",
+        "wa-constitution"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a schoolhouse and a church standing apart across a town square with a clear stone boundary between them, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Article I has a Blaine no-aid clause.",
+        "title": "THE NO-AID CLAUSE"
+      }
+    },
+    {
+      "id": "WSH7_058",
+      "question": "Elisha P. Ferry, Washington's first state governor, had already served as territorial governor in the 1870s. What does his career illustrate about the move to statehood?",
+      "correctAnswer": "Statehood was a transition, not a fresh start - territorial leaders, laws and the capital at Olympia carried over into the new state",
+      "distractors": [
+        "Statehood replaced every official and law overnight",
+        "Ferry was imported from Ohio having never visited Washington",
+        "The capital moved to Ferry's hometown at statehood"
+      ],
+      "difficulty": "hard",
+      "explanation": "Ferry served as territorial governor from 1872 to 1880, then returned as the first elected state governor in 1889. The continuity was typical: the 1889 constitution kept Olympia as capital, and territorial institutions became state ones.",
+      "memoryHook": "T-Rexy says: The first state governor was an old territorial hand - continuity, not rupture.",
+      "tags": [
+        "ferry",
+        "statehood",
+        "governors"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a portrait-style scene of a 19th century governor at a desk with territorial and state seals side by side without words, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Statehood continued territorial leadership.",
+        "title": "CONTINUITY AT THE TOP"
+      }
+    },
+    {
+      "id": "WSH7_059",
+      "question": "Voters, not the Legislature, get the final word when Washington lawmakers pass a controversial law and opponents gather signatures within 90 days to send it to the ballot. Which direct-democracy power is that?",
+      "correctAnswer": "The referendum - voters can approve or reject a law the Legislature just passed",
+      "distractors": [
+        "The initiative - voters write a brand-new law from scratch",
+        "The impeachment - voters remove a judge",
+        "The veto - voters block a bill before passage"
+      ],
+      "difficulty": "hard",
+      "explanation": "Initiative and referendum are a pair: the initiative starts a new law with the people, while the referendum lets the people review the Legislature's work. Emergency laws with an emergency clause are exempt, a limit written into the 1912 amendment itself.",
+      "memoryHook": "T-Rexy says: Initiative writes, referendum reviews - learn the pair.",
+      "tags": [
+        "referendum",
+        "direct-democracy",
+        "wa-constitution"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of citizens studying a newly passed law posted outside a county courthouse and signing petitions, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The referendum lets voters review new laws.",
+        "title": "THE PEOPLE REVIEW"
+      }
+    },
+    {
+      "id": "WSH7_060",
+      "question": "What title is given to the top elected executive of Washington State, and how is that official chosen compared with, for example, the state's judges on its highest court?",
+      "correctAnswer": "The governor is elected statewide by voters - and Washington Supreme Court justices are also elected by voters, in nonpartisan races",
+      "distractors": [
+        "The premier is appointed by the Legislature - and justices are appointed for life",
+        "The governor is chosen by county commissions - and justices inherit their seats",
+        "The chancellor is elected by cities - and justices are chosen by the governor alone"
+      ],
+      "difficulty": "hard",
+      "explanation": "Washington elects nearly its whole government: governor, other statewide executives and judges at every level, including the nine-member Supreme Court on six-year terms. Nonpartisan judicial elections are a Progressive-era reform meant to keep courts independent of parties and of the governor.",
+      "memoryHook": "T-Rexy says: Washington elects its judges too - even the top court.",
+      "tags": [
+        "governor",
+        "judiciary",
+        "elections"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a ballot being cast with a capitol dome and a courthouse both visible in the background, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington elects governor and justices.",
+        "title": "ELECTED, TOP TO BOTTOM"
+      }
+    },
+    {
+      "id": "WSH7_061",
+      "question": "A bill passes in Olympia and needs one more step before becoming law, while a county proposal needs action from a three-member board. Which pairing matches Washington's structure?",
+      "correctAnswer": "State laws are signed (or vetoed) by the governor; counties are run day to day by elected county commissioners (or a council in charter counties)",
+      "distractors": [
+        "State laws are signed by the chief justice; counties are run by mayors",
+        "State laws take effect with no executive step; counties are run by the governor",
+        "State laws are signed by the Senate president; counties have no elected boards"
+      ],
+      "difficulty": "easy",
+      "explanation": "Washington mirrors the federal design at the state level - a bicameral Legislature and a governor with veto power, including a partial veto for budget bills. Below the state, 39 counties deliver services from roads and sheriffs to elections and public health.",
+      "memoryHook": "T-Rexy says: Governor signs for the state; commissioners run the county.",
+      "tags": [
+        "governor",
+        "counties",
+        "government"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a governor's desk in a capitol office and a small county meeting room shown side by side, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Governor signs state laws; commissioners run counties.",
+        "title": "STATE SIGNS, COUNTY RUNS"
+      }
+    },
+    {
+      "id": "WSH7_062",
+      "question": "How many counties does Washington have, and which is by far the most populous, containing Seattle?",
+      "correctAnswer": "39 counties - King County is the most populous",
+      "distractors": [
+        "12 counties - Pierce County is the most populous",
+        "39 counties - Spokane County is the most populous",
+        "58 counties - King County is the most populous"
+      ],
+      "difficulty": "easy",
+      "explanation": "King County, named for William Rufus King and rededicated in honor of Martin Luther King Jr., holds about 2.3 million people. The smallest, Garfield County in the Palouse, has only about 2,300 - a contrast that shapes how services are funded across the state.",
+      "memoryHook": "T-Rexy says: 39 counties, one giant: King.",
+      "tags": [
+        "counties",
+        "king-county",
+        "government"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a landscape divided into many county shapes from a huge city county to tiny rural ones, shown as colored regions without words, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington has 39 counties; King is largest.",
+        "title": "THIRTY-NINE COUNTIES"
+      }
+    },
+    {
+      "id": "WSH7_063",
+      "question": "Washington's Legislature meets in Olympia in the Legislative Building under its famous dome. How is the Legislature structured?",
+      "correctAnswer": "Bicameral - a Senate and a House of Representatives, elected from 49 legislative districts that each send one senator and two representatives",
+      "distractors": [
+        "Unicameral - a single chamber of 49 members",
+        "Tricameral - Senate, House and Council of Tribes as a chamber",
+        "Bicameral - a Senate chosen by counties and a House chosen by the governor"
+      ],
+      "difficulty": "easy",
+      "explanation": "Each of the 49 districts elects one senator (four-year terms) and two representatives (two-year terms), for 147 legislators total. Regular sessions run 105 days in odd years (budget years) and 60 days in even years, with special sessions possible.",
+      "memoryHook": "T-Rexy says: 49 districts, 147 lawmakers, one dome.",
+      "tags": [
+        "legislature",
+        "districts",
+        "government"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a domed legislative building with two chamber interiors shown in cutaway style, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "WA Legislature: 49 districts, Senate plus House.",
+        "title": "UNDER THE DOME"
+      }
+    },
+    {
+      "id": "WSH7_064",
+      "question": "Besides the governor, Washington voters elect a whole row of statewide executives - including the official who runs elections and the official who is the state's top lawyer. Who are they?",
+      "correctAnswer": "The Secretary of State runs elections and state records; the Attorney General is the state's chief legal officer",
+      "distractors": [
+        "The Treasurer runs elections; the Auditor is the top lawyer",
+        "The Secretary of State commands the militia; the Attorney General runs schools",
+        "The Insurance Commissioner runs elections; the Lands Commissioner is top lawyer"
+      ],
+      "difficulty": "medium",
+      "explanation": "Washington's plural executive also includes the Treasurer, Auditor, Superintendent of Public Instruction, Commissioner of Public Lands and Insurance Commissioner, each elected independently. That design fragments executive power on purpose, a Progressive-era suspicion of concentrated authority.",
+      "memoryHook": "T-Rexy says: Elections chief and top lawyer are elected separately - on purpose.",
+      "tags": [
+        "executive",
+        "elections",
+        "government"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a row of distinct office doors in a capitol hallway, each with a different simple emblem without words, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Secretary of State runs elections; AG is top lawyer.",
+        "title": "A ROW OF ELECTED OFFICES"
+      }
+    },
+    {
+      "id": "WSH7_065",
+      "question": "A mayor and city council in a Washington city want to set local speed limits, run parks and zone neighborhoods for housing. What kind of authority are they using?",
+      "correctAnswer": "Local self-government (home rule and delegated police powers) - cities and towns govern local affairs under state law and their own charters",
+      "distractors": [
+        "Tribal sovereignty delegated to cities each year",
+        "Federal authority borrowed from Congress",
+        "Authority that outranks the state constitution"
+      ],
+      "difficulty": "medium",
+      "explanation": "Washington cities operate as code cities or under charters, exercising powers the state grants for local health, safety and land use. The state can preempt local rules, but day-to-day life - streets, utilities, permits, libraries - is mostly local government at work.",
+      "memoryHook": "T-Rexy says: Your street, your park, your permit: that is city hall.",
+      "tags": [
+        "local-government",
+        "cities",
+        "government"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a city council meeting in a modest hall with residents speaking at a microphone, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Cities govern local affairs under state law.",
+        "title": "CITY HALL AT WORK"
+      }
+    },
+    {
+      "id": "WSH7_066",
+      "question": "When the Washington Legislature and a tribal government disagree about, for example, taxes on a reservation border business, what framework does modern Washington law use to resolve such disputes?",
+      "correctAnswer": "Government-to-government relations - the 1989 Centennial Accord and later agreements commit the state and tribes to negotiate as sovereigns",
+      "distractors": [
+        "County courts decide all tribal questions finally",
+        "The state may simply order tribal governments to comply",
+        "Disputes are settled by private arbitration companies"
+      ],
+      "difficulty": "medium",
+      "explanation": "Signed in 1989, Washington's centennial year, the Centennial Accord recognized tribal sovereignty in state practice and created regular state-tribal summits. The 2012 law (SB 6175, Chapter 122, Laws of 2012, codified as RCW 43.376 and effective June 7, 2012) wrote the government-to-government obligation into statute for state agencies.",
+      "memoryHook": "T-Rexy says: 1989 brought an accord: sovereigns talking to sovereigns.",
+      "tags": [
+        "centennial-accord",
+        "tribal-government",
+        "government"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of state and tribal leaders seated as equals around a large round table with flags behind them, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Centennial Accord frames state-tribal relations.",
+        "title": "SOVEREIGNS AT ONE TABLE"
+      }
+    },
+    {
+      "id": "WSH7_067",
+      "question": "A Washington resident wants to attend the meeting where her school district sets its budget and school board policies. Who runs a Washington school district?",
+      "correctAnswer": "A locally elected school board, which hires a superintendent to manage daily operations",
+      "distractors": [
+        "The governor, through appointed district managers",
+        "The county sheriff's education division",
+        "A private company chosen by the state every year"
+      ],
+      "difficulty": "medium",
+      "explanation": "Washington has about 295 school districts, each governed by elected directors who set policy, adopt budgets and hire the superintendent. The state Superintendent of Public Instruction oversees the system, but local boards remain the front line of school governance.",
+      "memoryHook": "T-Rexy says: School boards are elected neighbors, not appointees from Olympia.",
+      "tags": [
+        "school-boards",
+        "local-government",
+        "education"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a school board meeting in a district office with community members in folding chairs, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Elected school boards run districts.",
+        "title": "NEIGHBORS RUN SCHOOLS"
+      }
+    },
+    {
+      "id": "WSH7_068",
+      "question": "Washington's highest court has nine justices who hear cases in the Temple of Justice in Olympia and in a notable arrangement also sit for arguments elsewhere. What is that court's role in the state system?",
+      "correctAnswer": "The Washington Supreme Court is the final interpreter of the Washington Constitution and state law, reviewing decisions of the lower state courts",
+      "distractors": [
+        "It is a trial court that hears traffic cases first",
+        "It advises the governor but issues no binding rulings",
+        "It is part of the federal court system under the US Supreme Court only for tax cases"
+      ],
+      "difficulty": "hard",
+      "explanation": "Below it sit the Court of Appeals and the superior courts (trial courts of general jurisdiction in each county), plus district and municipal courts. Because the state constitution can grant more rights than the federal one, the Washington Supreme Court's word on state law is final unless federal rights are involved.",
+      "memoryHook": "T-Rexy says: Nine justices, final word on Washington law.",
+      "tags": [
+        "supreme-court",
+        "judiciary",
+        "government"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of nine robed justices' chairs in a marble courtroom with tall columns, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The WA Supreme Court interprets state law finally.",
+        "title": "NINE JUSTICES, FINAL WORD"
+      }
+    },
+    {
+      "id": "WSH7_069",
+      "question": "Floating homes, ferries and freight all depend on Washington's public ports. What is a port district in Washington, and why is the Port of Seattle historically important?",
+      "correctAnswer": "A port district is a special-purpose local government, run by elected port commissioners, that operates harbors, marinas and airports - the Port of Seattle runs the seaport and Sea-Tac Airport",
+      "distractors": [
+        "A port district is a private shipping company with a state nickname",
+        "A port district is a federal agency office in each harbor town",
+        "A port district is a tribal enterprise zone only"
+      ],
+      "difficulty": "hard",
+      "explanation": "Washington invented the publicly owned port: voters created the Port of Seattle in 1911 to break private railroad control of the waterfront. Today more than 70 port districts operate across the state, from ocean harbors to inland river ports on the Columbia and Snake.",
+      "memoryHook": "T-Rexy says: Voters built public ports to take the waterfront back.",
+      "tags": [
+        "ports",
+        "local-government",
+        "government"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a public harbor with container cranes, ferries and an airport tower in the distance, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Port districts are elected local governments.",
+        "title": "THE PEOPLE'S WATERFRONT"
+      }
+    },
+    {
+      "id": "WSH7_070",
+      "question": "A voter in Washington receives a ballot entirely by mail, drops it in an official drop box, and can track it online. Which statement about Washington elections is correct?",
+      "correctAnswer": "Washington votes by mail statewide - every registered voter receives a ballot, and ballots postmarked or dropped by Election Day count",
+      "distractors": [
+        "Washington votes only in person at precincts on one day",
+        "Washington ballots are cast by county commissioners on voters' behalf",
+        "Washington allows voting only at the state capitol"
+      ],
+      "difficulty": "hard",
+      "explanation": "Washington completed its move to vote-by-mail in 2011, the third state to do so after Oregon and before Colorado. Same-day registration is available in person up to Election Day, and the Secretary of State administers the system with county auditors.",
+      "memoryHook": "T-Rexy says: Every ballot arrives by mail in Washington - drop box or mailbox does the rest.",
+      "tags": [
+        "vote-by-mail",
+        "elections",
+        "government"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a voter dropping a sealed ballot envelope into a secure outdoor drop box outside a library, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington votes by mail statewide.",
+        "title": "BALLOTS BY MAIL"
+      }
+    },
+    {
+      "id": "WSH7_071",
+      "question": "In February 1886, a mob in Seattle rounded up most of the city's Chinese residents and forced them toward a steamship to expel them, days after violence in other western cities. How should this event be understood today?",
+      "correctAnswer": "As a racist expulsion driven by economic scapegoating during a downturn - part of a wave that included the 1885 Tacoma expulsion, which drove out that city's entire Chinese community",
+      "distractors": [
+        "As a lawful deportation carried out by federal judges",
+        "As a celebration organized by the Chinese community itself",
+        "As a minor labor negotiation that ended peacefully with new contracts"
+      ],
+      "difficulty": "easy",
+      "explanation": "Chinese workers had built railroads and worked mines, laundries and canneries, yet the Chinese Exclusion Act of 1882 and local agitation blamed them for low wages. In Seattle in 1886, troops and a court order prevented a complete forced removal, but most Chinese residents left; Tacoma's 1885 expulsion removed its entire Chinese community. Both cities have since acknowledged this history publicly.",
+      "memoryHook": "T-Rexy says: 1886 Seattle and 1885 Tacoma: expulsions history must name honestly.",
+      "tags": [
+        "chinese-expulsion",
+        "1886",
+        "immigration"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a somber 1880s waterfront scene with a crowd and a steamship, handled respectfully without graphic detail, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The 1886 expulsion was racist scapegoating.",
+        "title": "A SHAMEFUL EXPULSION"
+      }
+    },
+    {
+      "id": "WSH7_072",
+      "question": "Japanese immigrants in Washington farmed the rich valleys of places like the White River and Bellevue, supplying much of the region's produce before World War II. What blocked many of them from owning the land they farmed?",
+      "correctAnswer": "Washington's alien land laws (notably 1921) barred immigrants ineligible for citizenship - a category federal law imposed on Asian immigrants - from owning land",
+      "distractors": [
+        "A state rule that only railroad companies could own farmland",
+        "A ban on growing vegetables in King County",
+        "A treaty requiring all farmland to be tribal land forever"
+      ],
+      "difficulty": "easy",
+      "explanation": "Issei (first-generation) parents often placed land in the names of their US-born Nisei children, who were citizens. The alien land laws, upheld in a 1923 Washington case, were part of a western-states campaign against Japanese farmers until courts and voters dismantled them after World War II.",
+      "memoryHook": "T-Rexy says: Barred from owning, Issei bought in their citizen children's names.",
+      "tags": [
+        "alien-land-laws",
+        "japanese-immigrants",
+        "immigration"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a Japanese American farm family working neat rows of vegetables in a river valley in the 1930s, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Alien land laws blocked Issei land ownership.",
+        "title": "FARMING WITHOUT OWNING"
+      }
+    },
+    {
+      "id": "WSH7_073",
+      "question": "Filipino workers became a backbone of the Alaska salmon cannery crews sailing each spring from Seattle, and of Washington farm labor. Which organization and leader from Washington are tied to organizing those cannery workers in the 1930s?",
+      "correctAnswer": "The Cannery Workers and Farm Laborers Union (CWFLU), Local 18257, chartered in Seattle in 1933 - its first president was Virgil Duyungan",
+      "distractors": [
+        "The Cannery Workers and Farm Laborers Union, Local 18257, chartered in Seattle in 1933 - its first president was Larry Itliong",
+        "The United Farm Workers, founded in Seattle in 1933 - its first president was Aurelio Simon",
+        "The Industrial Workers of the World cannery local in Tacoma in 1933 - its first president was Virgil Duyungan"
+      ],
+      "difficulty": "easy",
+      "explanation": "Filipino cannery workers (the Alaskeros) chartered the Cannery Workers and Farm Laborers Union, Local 18257, in Seattle on June 19, 1933 - the first Filipino-led union in the United States. Its first president was Virgil Duyungan, with Aurelio Simon as secretary; both were murdered on December 1, 1936. Their labor tradition later joined Mexican workers in the Delano grape strike of 1965, launching the United Farm Workers.",
+      "memoryHook": "T-Rexy says: Duyungan led Seattle's cannery union, Local 18257, from 1933.",
+      "tags": [
+        "filipino-workers",
+        "cannery-unions",
+        "labor"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of Filipino cannery workers boarding a ship in Seattle harbor in the 1930s with duffel bags, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Filipino cannery workers organized in Seattle.",
+        "title": "THE ALASKEROS ORGANIZE"
+      }
+    },
+    {
+      "id": "WSH7_074",
+      "question": "Scandinavian immigrants remade Seattle's Ballard neighborhood and Washington's fishing fleets, while Finns logged and mined in places like Roslyn and Carbonado. What drew so many immigrants to Washington between 1880 and 1920?",
+      "correctAnswer": "Jobs in timber, fishing, mining, railroads and farming - plus land - in a young state hungry for labor",
+      "distractors": [
+        "Free college education offered by the territory",
+        "A state law requiring immigration from Scandinavia",
+        "Gold guaranteed to every arriving family"
+      ],
+      "difficulty": "medium",
+      "explanation": "Norwegians, Swedes, Danes and Finns found familiar work in forests and on the water, and built institutions like Ballard's Nordic community. Across the state, immigrant neighborhoods, churches, newspapers and unions shaped cities from Aberdeen to Spokane.",
+      "memoryHook": "T-Rexy says: Timber, fish and land pulled the world to Washington.",
+      "tags": [
+        "scandinavian-immigrants",
+        "ballard",
+        "immigration"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a fishing boat crew mending nets at a Ballard dock with wooden houses on the hill behind, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Immigrants came for timber, fishing and land.",
+        "title": "DRAWN BY TIMBER AND SEA"
+      }
+    },
+    {
+      "id": "WSH7_075",
+      "question": "Members of the Industrial Workers of the World - the Wobblies - preached one big union for all workers and used free-speech fights and strikes across the Northwest. In November 1916, a boatload of Wobblies sailing to support a shingle weavers' strike met gunfire at a dock. Where, and what is it called?",
+      "correctAnswer": "Everett - the Everett Massacre of November 5, 1916, where deputies fired on the steamer Verona, killing at least five Wobblies and two deputies",
+      "distractors": [
+        "Seattle - the Verona incident ended with no shots fired",
+        "Spokane - the dock battle of 1916 ended in a negotiated parade",
+        "Tacoma - the Everett strike was settled by the governor that day"
+      ],
+      "difficulty": "medium",
+      "explanation": "Everett mill owners had beaten and deported union sympathizers during the shingle weavers' strike, and 300 Wobblies sailed from Seattle to rally. Sheriff's deputies met the Verona at the dock; the shooting remains Washington's deadliest labor conflict, and those charged were acquitted.",
+      "memoryHook": "T-Rexy says: Everett, 1916: a dock, a steamer, and labor's bloodiest day in Washington.",
+      "tags": [
+        "everett-massacre",
+        "1916",
+        "iww"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a 1916 steamship approaching a dock crowd in gray weather, somber and respectful mood, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Everett Massacre occurred in 1916.",
+        "title": "EVERETT, 1916"
+      }
+    },
+    {
+      "id": "WSH7_076",
+      "question": "In February 1919, Seattle shipyard workers struck over wages, and sympathy strikes shut down nearly the whole city for five days - often called the first general strike in US history. What was the Seattle General Strike's lasting significance?",
+      "correctAnswer": "It showed the power - and limits - of citywide labor solidarity after World War I, running essential services through strike committees even as it ended without its wage demands",
+      "distractors": [
+        "It permanently made Seattle a union-run city government",
+        "It was actually a lockout organized by shipyard owners",
+        "It lasted five months and won a 40-hour week immediately"
+      ],
+      "difficulty": "medium",
+      "explanation": "About 60,000 union members walked out; strike committees fed thousands and kept milk stations and hospitals running, astonishing observers with their orderliness. The strike's collapse amid Red Scare pressure foreshadowed the open-shop 1920s, but its model of solidarity is still studied.",
+      "memoryHook": "T-Rexy says: Five days, a whole city, run by its workers - then gone.",
+      "tags": [
+        "seattle-general-strike",
+        "1919",
+        "labor"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of quiet 1919 city streets with a community kitchen serving meals to striking workers' families, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The 1919 strike was a landmark general strike.",
+        "title": "THE CITY THAT STRUCK"
+      }
+    },
+    {
+      "id": "WSH7_077",
+      "question": "Mexican and Mexican American workers, and later guest workers under wartime and postwar programs, became essential to the Yakima Valley's hops, apples and asparagus harvests, and their organizing drives are part of Washington labor history. Which Yakima Valley institution preserves and teaches that regional history, including its agricultural and farm labor past?",
+      "correctAnswer": "The Yakima Valley Museum in Yakima, which preserves and exhibits the valley's agricultural, community and farm labor history",
+      "distractors": [
+        "The Yakima Valley Trolleys museum in Yakima, which preserves and teaches only electric streetcar and interurban railway history",
+        "The American Hop Museum in Toppenish, which preserves and teaches only hop-growing equipment and the brewing industry",
+        "The Northern Pacific Railway Museum in Toppenish, which preserves and teaches only railroad locomotives, depots and train history"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Yakima Valley Museum in Yakima collects, preserves and exhibits the history of the Yakima Valley, including its farms and orchards and the diverse workers whose labor shaped them. Mexican and Mexican American farm workers, whose organizing drives ran from Depression-era hops strikes in the valley to the United Farm Workers era, are part of that story - which makes Yakima Valley farm worker history core Washington history, not only a California story.",
+      "memoryHook": "T-Rexy says: The Yakima Valley Museum keeps the valley's farm labor story alive.",
+      "tags": [
+        "farm-workers",
+        "yakima-valley",
+        "labor"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a regional museum gallery with exhibits of Yakima Valley orchards, hop trellises, farm tools and historic photographs of farm workers on the walls, with visitors learning together, and a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Yakima Valley Museum preserves valley farm labor history.",
+        "title": "THE VALLEY'S STORY, PRESERVED"
+      }
+    },
+    {
+      "id": "WSH7_078",
+      "question": "A key reason Washington labor history features so many confrontations - Everett 1916, Centralia 1919, the 1934 waterfront strike - is the structure of its early economy. Which industries dominated that economy?",
+      "correctAnswer": "Extractive, seasonal industries - logging, sawmills, fishing, mining and shipping - with mobile workforces and powerful employer associations",
+      "distractors": [
+        "Software and aerospace, which dominated from 1900",
+        "Tourism and film production",
+        "Textile mills run mainly by child labor"
+      ],
+      "difficulty": "hard",
+      "explanation": "Migratory loggers and cannery hands lived in camps and bunkhouses, moved with the seasons and faced blacklists and company towns. Radical unions like the IWW organized precisely those unskilled, mobile workers whom craft unions ignored - setting up the era's clashes.",
+      "memoryHook": "T-Rexy says: Camps, seasons and blacklists bred Washington's labor wars.",
+      "tags": [
+        "extractive-industries",
+        "labor",
+        "economy"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a logging camp with bunkhouses and a steam donkey engine in a cleared forest, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Seasonal extractive work shaped labor conflict.",
+        "title": "CAMPS AND CONFLICT"
+      }
+    },
+    {
+      "id": "WSH7_079",
+      "question": "When the Northern Pacific finally linked St. Paul to Tacoma in 1883, and James J. Hill's Great Northern reached Seattle in 1893 without federal land grants, what did the railroads change most for Washington?",
+      "correctAnswer": "They connected Washington farms, forests and ports to national markets and triggered booms in immigration, town founding and exports - Hill's line even advertised for settlers to fill the land",
+      "distractors": [
+        "They ended shipping by sea from Puget Sound forever",
+        "They made Washington's population decline for a decade",
+        "They were built only for tourists visiting national parks"
+      ],
+      "difficulty": "hard",
+      "explanation": "Transcontinental lines turned wheat, lumber and salmon into export cargoes and made Seattle and Tacoma rivals for Asian trade. Hill's Great Northern, the only privately financed transcontinental, recruited immigrants across Europe to settle along its route.",
+      "memoryHook": "T-Rexy says: Steel rails wired Washington to the world.",
+      "tags": [
+        "railroads",
+        "great-northern",
+        "northern-pacific"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a steam locomotive crossing a high trestle over a forested gorge with a river below, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Railroads linked Washington to national markets.",
+        "title": "WIRED TO THE WORLD"
+      }
+    },
+    {
+      "id": "WSH7_080",
+      "question": "In 1897, a ship docked in Seattle carrying a ton of gold from the Yukon, and Seattle merchants moved fast. How did the Klondike Gold Rush transform Seattle?",
+      "correctAnswer": "Seattle sold itself as the gateway and outfitter for the Klondike, and the rush's population and money booms made it the dominant city of the Northwest",
+      "distractors": [
+        "Seattle was bypassed entirely in favor of Tacoma",
+        "The rush bankrupted Seattle within a year",
+        "Gold was discovered inside Seattle city limits"
+      ],
+      "difficulty": "hard",
+      "explanation": "Outfitters like Nordstrom's shoe store (founded 1901 from rush-era earnings) and the Alaska-Yukon-Pacific Exposition of 1909 grew from the boom. Seattle's publicity campaign beat rival ports, fixing its gateway-to-Alaska identity for a century.",
+      "memoryHook": "T-Rexy says: The gold was in the Yukon - the fortune was in outfitting.",
+      "tags": [
+        "klondike",
+        "seattle",
+        "gold-rush"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of crowds of stampeders loading supplies onto ships at a busy Seattle wharf in 1897 style, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Klondike rush made Seattle the gateway city.",
+        "title": "THE GATEWAY FORTUNE"
+      }
+    },
+    {
+      "id": "WSH7_081",
+      "question": "Frederick Weyerhaeuser's 1900 purchase of 900,000 acres of Washington timberland from the Northern Pacific, at about six dollars an acre, is often called the largest private land deal of its time. What industry did it anchor?",
+      "correctAnswer": "The industrial timber industry - corporate logging, sawmills and later tree farming that made Washington a top lumber state",
+      "distractors": [
+        "The whaling industry of the outer coast",
+        "The wheat export trade of the Palouse",
+        "The aircraft industry of the Puget Sound region"
+      ],
+      "difficulty": "easy",
+      "explanation": "Weyerhaeuser's purchase began the shift from independent gyppo loggers to vast corporate tree farms. Timber built towns like Aberdeen, Everett (the world's lumber capital in its boom) and Longview, and timber taxes and jobs dominated western Washington for generations.",
+      "memoryHook": "T-Rexy says: 900,000 acres at six dollars each changed Washington forests forever.",
+      "tags": [
+        "weyerhaeuser",
+        "timber",
+        "industry"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of an immense old-growth forest with a logging railroad and steam loader among giant fir trunks, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Weyerhaeuser anchored industrial timber.",
+        "title": "THE SIX-DOLLAR FOREST"
+      }
+    },
+    {
+      "id": "WSH7_082",
+      "question": "Fallers with crosscut saws (nicknamed misery whips), steam donkey engines and logging railroads took down Douglas-fir trees centuries old. What eventually forced the timber industry to change in the late 1900s?",
+      "correctAnswer": "Old-growth depletion, mechanization, market shifts and environmental protection - especially the northern spotted owl listing (1990) and the Northwest Forest Plan (1994)",
+      "distractors": [
+        "A state law banning all logging in 1950",
+        "The invention of plastic replacing all wood use",
+        "Earthquakes destroying every sawmill at once"
+      ],
+      "difficulty": "easy",
+      "explanation": "By the 1980s most accessible old growth was cut, mills automated, and the spotted owl's Endangered Species Act listing shut down federal timber sales. The 1994 Northwest Forest Plan cut federal harvests sharply, devastating mill towns while protecting remaining ancient forest - the timber wars era.",
+      "memoryHook": "T-Rexy says: Owls, automation and empty hillsides ended the old timber boom.",
+      "tags": [
+        "spotted-owl",
+        "timber",
+        "environment"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a spotted owl perched in ancient mossy forest with a distant closed sawmill in the valley below, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Spotted owl protection reshaped timber in 1990-1994.",
+        "title": "THE TIMBER WARS"
+      }
+    },
+    {
+      "id": "WSH7_083",
+      "question": "The Yakima Valley today produces most of the nation's hops and huge shares of its apples, cherries and wine grapes. What made that desert valley bloom?",
+      "correctAnswer": "Irrigation - federal Bureau of Reclamation projects from 1905 onward diverted Yakima River water onto hundreds of thousands of acres",
+      "distractors": [
+        "Natural rainfall averaging 40 inches a year",
+        "Glacier water piped from Mount Rainier by gravity alone",
+        "Underground lakes discovered under every farm in 1950"
+      ],
+      "difficulty": "easy",
+      "explanation": "With only about eight inches of rain a year, the valley depends on stored snowmelt and canals. Washington is the nation's top apple state, and its orchards and vineyards in the Columbia and Yakima valleys supply most US hops and a major wine industry.",
+      "memoryHook": "T-Rexy says: Eight inches of rain, first in apples - the difference is irrigation.",
+      "tags": [
+        "yakima-valley",
+        "irrigation",
+        "agriculture"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of lush orchards and hop trellises in a desert valley with irrigation canals and a snowcapped peak behind, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Irrigation made the Yakima Valley bloom.",
+        "title": "DESERT INTO ORCHARDS"
+      }
+    },
+    {
+      "id": "WSH7_084",
+      "question": "Washington wheat country tells two different stories: Palouse growers farm with rainfall alone, while Columbia Basin growers use irrigation. What is the Palouse method called, and why does it work there?",
+      "correctAnswer": "Dryland farming - it works because deep loess soil stores winter moisture that carries wheat through the dry summer",
+      "distractors": [
+        "Paddy farming - fields are flooded all season",
+        "Aquaponics - wheat grows in fish tanks",
+        "Terrace farming on mountain slopes above the clouds"
+      ],
+      "difficulty": "medium",
+      "explanation": "Palouse farmers summer-fallow some fields - resting them a year to bank moisture - and breed wheat varieties for low rainfall. The region's steep hills required special hillside combines that level themselves on slopes up to about 45 percent.",
+      "memoryHook": "T-Rexy says: Banking winter water in deep soil: that is dryland farming.",
+      "tags": [
+        "dryland-farming",
+        "palouse",
+        "agriculture"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a self-leveling combine harvesting wheat on a steep golden hillside at sunset, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Dryland farming banks soil moisture.",
+        "title": "BANKING THE RAIN"
+      }
+    },
+    {
+      "id": "WSH7_085",
+      "question": "Logging towns lived and died by a single mill, and company towns like Potlatch and McCleary controlled housing, stores and even churches. What happened to many such towns when their mill closed or old growth ran out?",
+      "correctAnswer": "They shrank sharply - losing jobs, population and tax base - and survivors had to reinvent themselves around new industries, commuting or tourism",
+      "distractors": [
+        "They all became suburbs of Seattle within a year",
+        "They were annexed by Canada under the mill treaties",
+        "They switched instantly to aircraft manufacturing"
+      ],
+      "difficulty": "medium",
+      "explanation": "Mill closures from the 1980s timber downturn emptied towns from Forks to Morton, a pattern repeated in coal and mining towns like Roslyn and Cle Elum. The experience drives modern debates about retraining, diversification and what a state owes single-industry communities.",
+      "memoryHook": "T-Rexy says: One mill, one payroll, one fragile town.",
+      "tags": [
+        "mill-towns",
+        "timber",
+        "economy"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a quiet mill town main street with a closed sawmill gate and a few open cafes, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Mill closures shrank single-industry towns.",
+        "title": "ONE MILL, ONE TOWN"
+      }
+    },
+    {
+      "id": "WSH7_086",
+      "question": "Salmon canneries once lined Puget Sound and the Columbia, employing Native, Chinese, Japanese, Filipino and European workers in a strict hierarchy of jobs. What does the cannery industry's history teach about Washington's economy?",
+      "correctAnswer": "It shows an economy built on a natural resource processed by immigrant labor - and how quickly that economy collapsed when salmon runs declined from overfishing, dams and habitat loss",
+      "distractors": [
+        "It shows canneries increased salmon runs every decade",
+        "It shows Washington never relied on natural resources",
+        "It shows salmon were imported from the Atlantic for canning"
+      ],
+      "difficulty": "medium",
+      "explanation": "At their peak, Columbia River canneries packed millions of cases, powered by the fish wheels and traps that were later banned (1934 in Washington). The cannery era's ruins, like those at Astoria and Friday Harbor, mark a warning about resource booms that eat their own foundation.",
+      "memoryHook": "T-Rexy says: Canneries canned the runs that fed them - until the runs thinned.",
+      "tags": [
+        "canneries",
+        "salmon",
+        "industry"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a historic waterfront cannery on pilings with fishing boats and gulls at low tide, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Canneries rose and fell with the salmon.",
+        "title": "CANNING THE RUNS"
+      }
+    },
+    {
+      "id": "WSH7_087",
+      "question": "During the Great Depression, unemployed men in Seattle built a shantytown of shacks on tideflats south of downtown, electing an unofficial mayor named Jesse Jackson. What were such camps called nationwide?",
+      "correctAnswer": "Hoovervilles - named bitterly for President Herbert Hoover, blamed for the Depression",
+      "distractors": [
+        "New Deal Towns, built by the federal government",
+        "Victory Villages, built for war workers",
+        "Bonus Camps, built only by veterans in Washington DC"
+      ],
+      "difficulty": "medium",
+      "explanation": "Seattle's Hooverville lasted from 1931 to 1941 on the present site of the port's container terminals. Across Washington, apple growers, loggers and the jobless faced collapsed prices, and the state's unemployment reached roughly one in four workers at the trough.",
+      "memoryHook": "T-Rexy says: Named for the president they blamed: Hooverville.",
+      "tags": [
+        "hooverville",
+        "great-depression",
+        "seattle"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a Depression era shantytown of scrap wood shacks with a water tower and port cranes behind, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Shantytowns were called Hoovervilles.",
+        "title": "HOOVERVILLE"
+      }
+    },
+    {
+      "id": "WSH7_088",
+      "question": "New Deal work programs put young Washington men to work planting trees, building trails and fighting fires in forests and parks, living in camps under military-style discipline for about 30 dollars a month. Which program was this?",
+      "correctAnswer": "The Civilian Conservation Corps (CCC)",
+      "distractors": [
+        "The Works Progress Chorus, a music program",
+        "The Civil Air Patrol cadet program",
+        "The Peace Corps, founded in 1961"
+      ],
+      "difficulty": "hard",
+      "explanation": "Tens of thousands of enrollees served in Washington CCC camps, building structures still standing in state parks like Deception Pass and Moran. Most of each paycheck went home to families, making the CCC relief for whole households, not just enrollees.",
+      "memoryHook": "T-Rexy says: Thirty dollars a month, forests transformed: the CCC.",
+      "tags": [
+        "ccc",
+        "new-deal",
+        "great-depression"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of young men planting pine seedlings on a hillside with a camp of tents and a flagpole below, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The CCC put young men to work outdoors.",
+        "title": "THE TREE ARMY"
+      }
+    },
+    {
+      "id": "WSH7_089",
+      "question": "Construction of the largest concrete structure in the world at its completion, on the Columbia River, began in 1933 and employed thousands through the Depression. Which dam is it, and what folk singer did its power agency hire in 1941 to write songs about it?",
+      "correctAnswer": "Grand Coulee Dam - Woody Guthrie wrote songs including Roll On, Columbia for the Bonneville Power Administration",
+      "distractors": [
+        "Bonneville Dam - Pete Seeger wrote its theme songs",
+        "Chief Joseph Dam - Bob Dylan was hired to promote it",
+        "The Dalles Dam - Johnny Cash recorded its album"
+      ],
+      "difficulty": "hard",
+      "explanation": "Grand Coulee (finished for power in 1941-1942) anchored federal Columbia development: cheap electricity, flood control and later irrigation. Guthrie's month of songwriting in 1941 produced 26 songs celebrating the river projects for a BPA film.",
+      "memoryHook": "T-Rexy says: Concrete, current and Guthrie songs: Grand Coulee had all three.",
+      "tags": [
+        "grand-coulee",
+        "new-deal",
+        "guthrie"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a massive concrete dam spanning a wide river with spillways and transmission towers on the cliffs, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Grand Coulee Dam rose during the Depression.",
+        "title": "ROLL ON, COLUMBIA"
+      }
+    },
+    {
+      "id": "WSH7_090",
+      "question": "In 1943, the federal government secretly built a small city at Hanford in the Columbia Basin desert to produce plutonium for the Manhattan Project, displacing farmers and the Wanapum people. What is Hanford's legacy today?",
+      "correctAnswer": "It produced plutonium for the Trinity test and the Nagasaki bomb - and left one of the largest nuclear cleanup challenges in the world, managed for decades at enormous cost",
+      "distractors": [
+        "It became Washington's largest tourist resort",
+        "It was abandoned in 1945 with no contamination",
+        "It now produces electricity at the B Reactor for the grid"
+      ],
+      "difficulty": "hard",
+      "explanation": "Hanford's B Reactor was the world's first full-scale plutonium production reactor. The site's 56 million gallons of tank waste and contaminated groundwater make cleanup, overseen with the Yakama Nation, Confederated Tribes of the Umatilla and the Wanapum as affected sovereigns and neighbors, a multi-generational obligation.",
+      "memoryHook": "T-Rexy says: Hanford won a war and left a cleanup for grandchildren.",
+      "tags": [
+        "hanford",
+        "manhattan-project",
+        "wwii"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a historic nuclear reactor building in desert landscape beside a wide river at dusk, somber mood, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Hanford made plutonium; cleanup continues.",
+        "title": "THE ATOMIC LEGACY"
+      }
+    },
+    {
+      "id": "WSH7_091",
+      "question": "After Pearl Harbor, President Franklin Roosevelt's Executive Order 9066 led to the forced removal of more than 12,000 Japanese Americans from western Washington. Where were many Puget Sound families first held, close to home?",
+      "correctAnswer": "At the Puyallup fairgrounds, renamed Camp Harmony - a temporary assembly center surrounded by barbed wire before transfer to camps like Minidoka in Idaho",
+      "distractors": [
+        "At Fort Lewis, as honored guests of the Army",
+        "At their own farms under a curfew only, never removed",
+        "At a resort on Bainbridge Island built for evacuees"
+      ],
+      "difficulty": "easy",
+      "explanation": "Bainbridge Island families were removed first, in March 1942; Seattle families passed through Puyallup's stalls and barracks. Despite the injustice, Nisei soldiers of the 442nd became among the most decorated Americans of the war, and Congress apologized and paid reparations under the Civil Liberties Act of 1988.",
+      "memoryHook": "T-Rexy says: Fairground stalls for citizens who had committed no crime: Camp Harmony.",
+      "tags": [
+        "japanese-incarceration",
+        "camp-harmony",
+        "wwii"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of rows of barracks and livestock stalls converted to housing behind a fence at a fairground, quiet respectful mood, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Puget Sound families were held at Camp Harmony.",
+        "title": "CAMP HARMONY"
+      }
+    },
+    {
+      "id": "WSH7_092",
+      "question": "Boeing's Seattle plants and the shipyards of Seattle, Tacoma, Bremerton and Vancouver (Washington) turned the state into an arsenal in World War II. Which aircraft and workforce change defined Boeing's war?",
+      "correctAnswer": "Boeing mass-produced B-17 Flying Fortress (and later B-29) bombers, employing tens of thousands - including women, the Rosie the Riveters, who reached about half of some plant workforces",
+      "distractors": [
+        "Boeing built only gliders and employed no women",
+        "Boeing moved all production to Kansas before the war",
+        "Boeing produced submarines in Everett as its main product"
+      ],
+      "difficulty": "easy",
+      "explanation": "Plant 2 on the Duwamish built a town-sized camouflage neighborhood on its roof to hide from expected air raids. War contracts ended the Depression in Puget Sound almost overnight, drawing migrants - including many Black southerners - who permanently diversified the region.",
+      "memoryHook": "T-Rexy says: Bombers built by Rosies ended the Depression in Seattle.",
+      "tags": [
+        "boeing",
+        "wwii",
+        "home-front"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of women workers riveting a large bomber wing inside a vast aircraft plant in the 1940s, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Boeing's wartime workforce transformed Seattle.",
+        "title": "ROSIES AND BOMBERS"
+      }
+    },
+    {
+      "id": "WSH7_093",
+      "question": "A Black shipyard worker arriving in Seattle or Vancouver, Washington in 1943 found booming wages - and segregated housing and union barriers. Which wartime change began opening those doors?",
+      "correctAnswer": "Federal fair employment pressure (Executive Order 8802 and the FEPC) plus wartime labor demand pushed shipyards and unions, unevenly, to hire and admit Black workers",
+      "distractors": [
+        "A Washington law in 1943 banning all unions in shipyards",
+        "The shipyards' decision to hire only local residents",
+        "A court ruling that ended all discrimination in 1942"
+      ],
+      "difficulty": "easy",
+      "explanation": "Executive Order 8802 (1941) banned defense-industry discrimination after A. Philip Randolph threatened a march on Washington. In Washington shipyards, separate auxiliary unions for Black Boeing workers (at the Aeronautical Mechanics union) showed progress was real but incomplete - a tension that fed the postwar civil rights movement in Seattle.",
+      "memoryHook": "T-Rexy says: War jobs cracked the color line - but did not break it.",
+      "tags": [
+        "fair-employment",
+        "wwii",
+        "civil-rights"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a diverse wartime shipyard crew launching a vessel with flags and a crowd on the ways, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Fair employment orders opened war jobs, unevenly.",
+        "title": "CRACKING THE COLOR LINE"
+      }
+    },
+    {
+      "id": "WSH7_094",
+      "question": "In 1962 Seattle hosted a World's Fair that left behind the Space Needle, the Monorail and the Seattle Center. What was the fair's name and theme?",
+      "correctAnswer": "Century 21 Exposition - a science and future-themed fair shaped by the Space Race",
+      "distractors": [
+        "The Alaska-Yukon-Pacific Exposition - repeated in 1962",
+        "Expo Cascadia - a fair about timber and salmon",
+        "The Columbia Exposition - celebrating dam building"
+      ],
+      "difficulty": "medium",
+      "explanation": "Century 21 drew nearly 10 million visitors and showcased science at the height of the Cold War space race, with the US Science Pavilion (now Pacific Science Center). Unlike most world's fairs, it turned a profit and remade Seattle's self-image from port town to future city.",
+      "memoryHook": "T-Rexy says: 1962: Seattle pointed itself at the future and built a needle to prove it.",
+      "tags": [
+        "worlds-fair",
+        "1962",
+        "space-needle"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a futuristic 1962 exposition skyline with a slender observation tower and a monorail train gliding past, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Century 21 was Seattle's 1962 World's Fair.",
+        "title": "CENTURY 21"
+      }
+    },
+    {
+      "id": "WSH7_095",
+      "question": "Boeing's postwar gamble on jet airliners produced the 707, then the 747, whose final assembly plant in Everett is the largest building by volume in the world. What does that Everett plant's scale symbolize for postwar Washington?",
+      "correctAnswer": "Aerospace became the state's economic engine - a single employer whose booms and busts (like the 1970 Boeing Bust) could shake the whole region",
+      "distractors": [
+        "Agriculture overtook aerospace as the state's top export in 1970",
+        "Aerospace employed almost no one outside Seattle city hall",
+        "The Everett plant was built to assemble fishing boats"
+      ],
+      "difficulty": "medium",
+      "explanation": "When Boeing employment collapsed from about 100,000 to under 40,000 locally in 1969-1971, a famous billboard asked the last person leaving Seattle to turn out the lights. The region learned to diversify - a lesson behind its later tech growth - while aerospace remains a pillar.",
+      "memoryHook": "T-Rexy says: When Boeing sneezed, Seattle caught pneumonia - until it diversified.",
+      "tags": [
+        "boeing",
+        "everett",
+        "747"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of an enormous aircraft factory with wide doors and a jumbo jet tail rising above the roofline, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Everett's plant symbolizes aerospace power.",
+        "title": "THE BIGGEST BUILDING"
+      }
+    },
+    {
+      "id": "WSH7_096",
+      "question": "A small company that moved from Albuquerque to Bellevue in 1979 and later built its campus in Redmond changed Washington's economy and identity. Which company, and what did it sell?",
+      "correctAnswer": "Microsoft - computer software, starting with languages and operating systems for personal computers",
+      "distractors": [
+        "Amazon - founded in Redmond in 1979 to sell books",
+        "Boeing - which moved to Bellevue to sell software in 1979",
+        "Starbucks - which sold computer software before coffee"
+      ],
+      "difficulty": "medium",
+      "explanation": "Founded by Bill Gates and Paul Allen, Microsoft rode the PC revolution with MS-DOS and Windows, making the Seattle area a global software capital. Its growth, and Amazon's founding in Bellevue in 1994 - in a garage there on July 5, 1994, before the company moved to Seattle's SODO neighborhood shortly after - shifted the region's center of gravity from factories to code.",
+      "memoryHook": "T-Rexy says: 1979: software moved in, and Washington changed for good.",
+      "tags": [
+        "microsoft",
+        "redmond",
+        "tech"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a leafy suburban office campus with modern low buildings and programmers walking between them, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Microsoft moved to Bellevue in 1979.",
+        "title": "SOFTWARE MOVES IN"
+      }
+    },
+    {
+      "id": "WSH7_097",
+      "question": "On May 18, 1980, a Washington volcano erupted with a force that flattened forests, choked rivers with debris and sent ash across the Northwest, killing 57 people. Which volcano, and what safety lesson followed?",
+      "correctAnswer": "Mount St. Helens - the eruption showed why volcano monitoring, hazard zones and evacuation warnings save lives, and the mountain is now among the most monitored in the world",
+      "distractors": [
+        "Mount Rainier - its 1980 eruption buried Tacoma",
+        "Mount Baker - its ash closed Seattle's airport for a year",
+        "Mount Adams - it erupted without any warning signs at all"
+      ],
+      "difficulty": "medium",
+      "explanation": "The blast, triggered when an earthquake shook loose the volcano's bulging north flank, was the deadliest and most destructive eruption in US history. Geologist David Johnston, killed at his observation post, had warned of the danger; the USGS volcano observatory named for him now watches the Cascades.",
+      "memoryHook": "T-Rexy says: May 18, 1980: the mountain that taught America volcano science.",
+      "tags": [
+        "mount-st-helens",
+        "1980",
+        "volcanoes"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a gray volcano with a vast crater and a recovering forest of young trees and wildflowers below, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Mount St. Helens erupted May 18, 1980.",
+        "title": "THE MOUNTAIN BLOWS"
+      }
+    },
+    {
+      "id": "WSH7_098",
+      "question": "A coffee shop that opened in 1971 at Pike Place Market selling beans and equipment - not brewed drinks - grew into a global symbol of Seattle. Which company is it, and what does its story show?",
+      "correctAnswer": "Starbucks - it shows how a Seattle retail experiment, later led by Howard Schultz's cafe concept, could become a worldwide brand built from a local market stall",
+      "distractors": [
+        "Dutch Bros - founded at Pike Place in 1971 to sell espresso drinks",
+        "Tully's - the 1971 bean shop that became the global chain",
+        "Peet's - a Seattle shop that never left Pike Place Market"
+      ],
+      "difficulty": "hard",
+      "explanation": "Named for the first mate in Moby-Dick, Starbucks began with three partners inspired by Alfred Peet's Berkeley roasting. Its expansion made Seattle synonymous with coffee culture, even as the city keeps a fierce independent cafe scene.",
+      "memoryHook": "T-Rexy says: From one bean stall in 1971 to a word the world knows.",
+      "tags": [
+        "starbucks",
+        "pike-place",
+        "business"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a small 1970s coffee bean shop in a public market with sacks of beans and a harbor view, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Starbucks began at Pike Place in 1971.",
+        "title": "FROM ONE STALL"
+      }
+    },
+    {
+      "id": "WSH7_099",
+      "question": "Modern Washington tribal nations operate governments, schools, health systems and enterprises from fisheries to resorts, and in 1988 a federal law opened another major industry. What did the Indian Gaming Regulatory Act allow?",
+      "correctAnswer": "Tribal governments could operate gaming on tribal lands under compacts negotiated with the state, funding government services and jobs",
+      "distractors": [
+        "Any private company could open casinos on reservations without tribal consent",
+        "The state took over all tribal enterprises in 1988",
+        "Gaming was banned on all tribal lands permanently"
+      ],
+      "difficulty": "hard",
+      "explanation": "Gaming revenue - Washington tribes operate more than two dozen casinos - funds health clinics, education, housing, natural resources and cultural programs, and makes tribes among the largest employers in many rural counties. Compacts with Washington State govern the scope of games and revenue sharing for state programs.",
+      "memoryHook": "T-Rexy says: Casino revenue, government purpose: self-determination funded.",
+      "tags": [
+        "indian-gaming",
+        "tribal-government",
+        "modern"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of a tribal government complex with a health clinic, school and community buildings in a river valley, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The 1988 Act enabled tribal gaming compacts.",
+        "title": "SELF-DETERMINATION FUNDED"
+      }
+    },
+    {
+      "id": "WSH7_100",
+      "question": "Salmon runs that once filled Washington rivers have fallen so far that many are listed under the Endangered Species Act, and orca whales that eat Chinook salmon are endangered too. Which combination do scientists and tribal and state governments identify as the core problems?",
+      "correctAnswer": "Habitat loss, dams blocking passage and warming water, harvest pressure and hatchery and ocean conditions - the mix often summed up as habitat, hydro, harvest and hatcheries",
+      "distractors": [
+        "Only natural ocean cycles, which no policy can affect",
+        "A single invasive fish that ate all the salmon in 1990",
+        "Overprotection of forests along every river in the state"
+      ],
+      "difficulty": "hard",
+      "explanation": "Recovery plans spend billions on culverts (ordered in the treaty culverts case), estuary restoration, dam operations and harvest limits, yet many runs keep declining as the climate warms. For tribes, salmon recovery is not an environmental extra - it is the survival of treaty rights themselves.",
+      "memoryHook": "T-Rexy says: Save the salmon and you save the treaties, the orcas and the table.",
+      "tags": [
+        "salmon-recovery",
+        "environment",
+        "modern"
+      ],
+      "imageUrl": "topic:washington-history",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Mature educational illustration of volunteers planting trees along a salmon stream while an orca surfaces in the bay beyond, with a small matured green-to-purple gradient dinosaur guide with orange eyes and white fangs standing calmly nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Salmon recovery tackles habitat, hydro, harvest, hatcheries.",
+        "title": "SAVING THE SALMON"
+      }
+    }
+  ]
+}

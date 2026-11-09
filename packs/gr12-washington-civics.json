@@ -1,0 +1,2717 @@
+{
+  "packId": "gr12-washington-civics",
+  "title": "Washington Civics & Government (12th Grade)",
+  "description": "Washington Civics & Government (12th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-08",
+  "tags": [
+    "washington",
+    "civics",
+    "grade-12"
+  ],
+  "questions": [
+    {
+      "id": "WCV12_001",
+      "question": "A city council votes to cancel the next election and keep its current members in office indefinitely. Which founding principle does this action attack most directly?",
+      "correctAnswer": "Popular sovereignty - final governing authority rests with the people",
+      "distractors": [
+        "Federalism - power is divided between national and state governments",
+        "Judicial review - courts may strike down unconstitutional laws",
+        "Free enterprise - markets should operate with little regulation"
+      ],
+      "difficulty": "easy",
+      "explanation": "Popular sovereignty means the people are the source of government power, exercised through elections and constitutions. A council that cancels elections keeps power the people never granted it permanently.",
+      "memoryHook": "T-Rexy says: If the people cannot choose, the people do not rule.",
+      "tags": [
+        "popular-sovereignty",
+        "foundations",
+        "consent"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of adult citizens placing ballots into a clear ballot box outside a neoclassical city hall at dawn. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Popular sovereignty: authority comes from the people.",
+        "title": "POWER FROM THE PEOPLE"
+      }
+    },
+    {
+      "id": "WCV12_002",
+      "question": "At a Fourth of July speech in Tacoma, a speaker argues that a king does not hand people their rights - people are born with them, and a government exists only to guard them. Which founding document gives that argument its famous list of rights?",
+      "correctAnswer": "The Declaration of Independence - life, liberty and the pursuit of happiness",
+      "distractors": [
+        "The United States Constitution - speech, religion and a fair trial",
+        "The Mayflower Compact - obedience, order and self-government",
+        "The English Petition of Right - no taxation without Parliament"
+      ],
+      "difficulty": "easy",
+      "explanation": "The speaker is echoing Thomas Jefferson's Declaration of Independence, adopted on July 4, 1776. It calls life, liberty and the pursuit of happiness unalienable rights and says governments are instituted to secure them, drawing their just powers from the consent of the governed.",
+      "memoryHook": "T-Rexy says: Born with rights - life, liberty and the pursuit of happiness.",
+      "tags": [
+        "declaration-of-independence",
+        "unalienable-rights",
+        "founding-documents"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an outdoor speaker addressing a Fourth of July crowd in Tacoma with a bay and mountain behind, bunting overhead and listeners holding small plain flags. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Declaration names life, liberty and the pursuit of happiness.",
+        "title": "BORN WITH RIGHTS"
+      }
+    },
+    {
+      "id": "WCV12_003",
+      "question": "Before stepping ashore in 1620, leaders aboard a ship signed an agreement to form a government together and to obey the laws they would make for the common good. Which founding-era idea does that agreement best illustrate?",
+      "correctAnswer": "The social contract - people consent to government in exchange for protection of their rights",
+      "distractors": [
+        "Divine right - a ruler holds power by birth and answers only to God",
+        "Mercantilism - a colony exists to supply wealth to the mother country",
+        "Hereditary succession - office passes automatically to the ruler's eldest child"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Mayflower Compact is an early American example of the social contract: people consent to create a government and follow its laws in exchange for order and protection of their rights. John Locke later gave that idea its classic form, arguing that a government that breaks the trust may be altered or replaced.",
+      "memoryHook": "T-Rexy says: They agreed to be governed - consent is the contract.",
+      "tags": [
+        "social-contract",
+        "consent",
+        "foundations"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of passengers in 1620 clothing signing a parchment together in the cramped cabin of a wooden sailing ship, a lantern swinging above the table. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Social contract: government runs on the consent of the governed.",
+        "title": "AN AGREEMENT BEFORE ASHORE"
+      }
+    },
+    {
+      "id": "WCV12_004",
+      "question": "A county sheriff is arrested for taking bribes, and a Supreme Court justice pays a parking fine instead of having it waived as a courtesy. An editorial praises both outcomes under one heading. Which principle is it praising?",
+      "correctAnswer": "The rule of law - no one, not even top officials, is above the law",
+      "distractors": [
+        "Separation of powers - each branch of government has a different job",
+        "Direct democracy - voters decide every government question themselves",
+        "Civilian control - elected officials command the armed forces"
+      ],
+      "difficulty": "easy",
+      "explanation": "Both officials were treated like anyone else, which is the rule of law in action: laws govern the society and apply equally to citizens and to the leaders who make and enforce them. The federal naturalization test states the same idea - everyone must follow the law, leaders included.",
+      "memoryHook": "T-Rexy says: A badge and a robe earn no exemption from the law.",
+      "tags": [
+        "rule-of-law",
+        "foundations",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a courthouse entrance where a uniformed sheriff and a robed justice both wait in the same public line at a payment window, morning light on the steps. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Rule of law means officials obey the law too.",
+        "title": "NO EXEMPTIONS AT THE TOP"
+      }
+    },
+    {
+      "id": "WCV12_005",
+      "question": "A city attorney stops two council plans - seizing a newspaper's presses and keeping the mayor in office past the term voters approved - by explaining that the council simply has no authority to do either. Which principle is the attorney applying?",
+      "correctAnswer": "Limited government - government holds only the powers the Constitution grants, and rights limit it further",
+      "distractors": [
+        "Home rule - a city council may do anything its charter does not mention",
+        "Majority rule - a council majority may set aside any limit it finds inconvenient",
+        "Parliamentary supremacy - the legislature's word is final on every question"
+      ],
+      "difficulty": "easy",
+      "explanation": "The attorney is applying limited government: a government holds only the powers granted to it, must act within its constitution or charter, and is further limited by protected rights such as freedom of the press. In the American system the Constitution both grants power and fences it in.",
+      "memoryHook": "T-Rexy says: No grant, no power - that is limited government.",
+      "tags": [
+        "limited-government",
+        "foundations",
+        "principles"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a city attorney standing between a council table and a printing press, one hand raised in a stop gesture, a charter book lying open nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Limited government: power is granted, bounded and rights-checked.",
+        "title": "NO GRANT, NO POWER"
+      }
+    },
+    {
+      "id": "WCV12_006",
+      "question": "On a museum tour, visitors stop at the opening paragraph of the Constitution, where the framers state why they are creating the government - to form a more perfect union, establish justice, insure domestic tranquility and secure the blessings of liberty. What is that paragraph called?",
+      "correctAnswer": "In the Preamble, the introduction to the US Constitution",
+      "distractors": [
+        "The First Amendment, which lists freedoms the government may not touch",
+        "The Necessary and Proper Clause, which lets Congress choose its means",
+        "The oath of office, which every federal official swears on taking power"
+      ],
+      "difficulty": "easy",
+      "explanation": "That opening paragraph is the Preamble, the Constitution's introduction. It names six purposes for the new government, including providing for the common defense and promoting the general welfare, but it grants no power by itself - the powers come from the articles that follow.",
+      "memoryHook": "T-Rexy says: First paragraph, six purposes - that is the Preamble.",
+      "tags": [
+        "preamble",
+        "constitution",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of museum visitors wearing headphones looking up at a large framed parchment page displayed behind glass in a quiet gallery. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The six goals of government are listed in the Preamble.",
+        "title": "THE OPENING PARAGRAPH"
+      }
+    },
+    {
+      "id": "WCV12_007",
+      "question": "An archivist sorts three folders in constitutional order. The first holds lawmaking, taxing and war-declaring powers; the second holds command of the armed forces and execution of the laws; the third holds deciding cases that arise under federal law. Which articles created the institutions in those folders, in order?",
+      "correctAnswer": "Article I (Congress), Article II (the President) and Article III (the courts)",
+      "distractors": [
+        "Article I (the courts), Article II (Congress) and Article III (the President)",
+        "Article V (Congress), Article VI (the President) and Article VII (the courts)",
+        "Article II (the states), Article IV (Congress) and Article I (the courts)"
+      ],
+      "difficulty": "easy",
+      "explanation": "The folders follow the Constitution's own order: Article I creates the legislative branch, Congress; Article II creates the executive branch, headed by the President; and Article III creates the judicial branch, headed by the Supreme Court. Articles IV through VII handle state relations, amendments, supremacy and ratification.",
+      "memoryHook": "T-Rexy says: Folder one makes laws, folder two enforces, folder three decides.",
+      "tags": [
+        "articles",
+        "branches",
+        "constitution"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an archivist placing three plain folders on shelves inside a marble records vault, a domed capitol visible through a tall window. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Articles I, II and III create Congress, the President and the courts.",
+        "title": "THREE FOLDERS IN ORDER"
+      }
+    },
+    {
+      "id": "WCV12_008",
+      "question": "A trucking company follows a new state equipment rule that directly contradicts a valid federal safety law for interstate carriers, arguing that the state rule is newer and therefore controls. How must a court resolve the conflict?",
+      "correctAnswer": "The Supremacy Clause - valid federal law overrides a conflicting state law",
+      "distractors": [
+        "The newer rule wins, so the state law controls until Congress updates its law",
+        "The company may pick whichever rule is cheaper for each shipment",
+        "Both rules fall, leaving interstate trucking unregulated until the states agree"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article VI contains the Supremacy Clause: the Constitution, valid federal laws and treaties are the supreme law of the land. When a state law genuinely conflicts with a valid federal law, the federal law prevails no matter which was passed later.",
+      "memoryHook": "T-Rexy says: Newer does not beat supreme - valid federal law wins a true clash.",
+      "tags": [
+        "supremacy-clause",
+        "article-vi",
+        "federalism"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two freight trucks stopped at a state border weigh station while an inspector compares two plain rule books under a highway gantry. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Supremacy Clause: valid federal law beats conflicting state law.",
+        "title": "NEWER DOES NOT WIN"
+      }
+    },
+    {
+      "id": "WCV12_009",
+      "question": "An advocacy campaign celebrates after the House votes 295 to 140 and the Senate votes 68 to 32 to send a proposed constitutional change to the states, but its director warns that the celebration is early. Which statement explains her warning?",
+      "correctAnswer": "Proposal is finished - the amendment still needs ratification by three-fourths of the states",
+      "distractors": [
+        "Ratification is finished - only the President's signature remains to make it official",
+        "Proposal is finished - a national referendum of all voters will now decide it",
+        "Nothing is finished - the change must be proposed again by a convention of governors"
+      ],
+      "difficulty": "medium",
+      "explanation": "The lopsided votes clear the first Article V hurdle: proposal by two-thirds of both houses of Congress. The amendment is not yet law - it still needs ratification by three-fourths of the states, acting through their legislatures or state conventions, and the President plays no part in either stage.",
+      "memoryHook": "T-Rexy says: Congress proposes by two-thirds; the states still decide by three-fourths.",
+      "tags": [
+        "article-v",
+        "amendment-process",
+        "constitution"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of legislators applauding in a large chamber while one leader holds up a cautioning hand toward a map of many state capitols on the far wall. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Amendments: proposed by two-thirds of Congress, ratified by three-fourths of the states.",
+        "title": "ONLY HALFWAY THERE"
+      }
+    },
+    {
+      "id": "WCV12_010",
+      "question": "A president nominates a judge, the Senate refuses to confirm the nominee, and the House refuses to fund a program the president wants. A commentator calls the week a breakdown of government. Which concept explains why the system deliberately allows each of those moves?",
+      "correctAnswer": "Checks and balances - each branch can limit the power of the others",
+      "distractors": [
+        "Federalism - the states may veto any action of the national government",
+        "Direct democracy - voters must approve nominations and budgets in referendums",
+        "Unanimous consent - no branch may act until the other two agree in advance"
+      ],
+      "difficulty": "easy",
+      "explanation": "The moves are checks and balances working as designed. The Constitution separates the branches, then gives each one tools to restrain the others - the Senate's confirmation power and the House's power of the purse are two of them - so that ambition in one place is met by resistance in another.",
+      "memoryHook": "T-Rexy says: Refusals can be the system working, not breaking.",
+      "tags": [
+        "checks-and-balances",
+        "separation-of-powers",
+        "structure"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of three large interlocking stone gears turning against one another above a capitol plaza, each gear slowing the next. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Checks and balances let each branch limit the others.",
+        "title": "FRICTION BY DESIGN"
+      }
+    },
+    {
+      "id": "WCV12_011",
+      "question": "A textbook divides the work of government this way: one body makes laws, a separate officer enforces them, and independent judges interpret them. Which principle is the textbook describing, and where did the framers get much of the idea?",
+      "correctAnswer": "Separation of powers - developed by Montesquieu and built into the first three articles",
+      "distractors": [
+        "Direct democracy - described by Rousseau and copied from Athens",
+        "Unitary government - developed by Hobbes and copied from England",
+        "Confederation - described by Locke and copied from the Iroquois alone"
+      ],
+      "difficulty": "medium",
+      "explanation": "Montesquieu argued that liberty survives when legislative, executive and judicial powers sit in different hands. The framers built that separation into Articles I, II and III, then added checks so the separated branches could still restrain one another.",
+      "memoryHook": "T-Rexy says: Three jobs, three separate pairs of hands.",
+      "tags": [
+        "separation-of-powers",
+        "montesquieu",
+        "structure"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of three separate worktables in one hall, one with scrolls, one with a seal and one with a gavel and scales. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Separation of powers: different branches make, enforce and interpret laws.",
+        "title": "THREE JOBS, THREE HANDS"
+      }
+    },
+    {
+      "id": "WCV12_012",
+      "question": "Only Congress may declare war and coin money, while states run elections and schools, and both levels may tax. Which system of government do these arrangements describe?",
+      "correctAnswer": "Federalism - power is divided between a national government and state governments",
+      "distractors": [
+        "A unitary system - one central government holds all power",
+        "A confederation - states hold all power and the center only advises",
+        "A parliamentary system - the legislature chooses the chief executive"
+      ],
+      "difficulty": "easy",
+      "explanation": "In the federal system created by the Constitution, power is divided between the national government and the states. The naturalization test describes the US system the same way: a federal democratic republic under the Constitution.",
+      "memoryHook": "T-Rexy says: Two levels, each with real power of its own.",
+      "tags": [
+        "federalism",
+        "uscis-civics",
+        "structure"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a two-story civic building with a national eagle emblem on the upper floor and a state star emblem on the lower floor, both floors lit. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Federalism divides power between national and state governments.",
+        "title": "TWO LEVELS OF POWER"
+      }
+    },
+    {
+      "id": "WCV12_013",
+      "question": "Congress declares war, coins money and regulates trade with foreign nations, and no state may sign a treaty. Which category of power do these examples belong to?",
+      "correctAnswer": "Delegated (enumerated) powers - powers the Constitution grants to the federal government",
+      "distractors": [
+        "Reserved powers - powers the Constitution keeps for the states",
+        "Concurrent powers - powers both levels exercise at the same time",
+        "Denied powers - powers the Constitution forbids to everyone"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article I and other parts of the Constitution delegate listed powers to the national government, including declaring war, coining money and conducting foreign relations. Powers not delegated are reserved to the states or the people.",
+      "memoryHook": "T-Rexy says: Delegated means handed over to the national government.",
+      "tags": [
+        "delegated-powers",
+        "federalism",
+        "constitution"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of state delegates handing a ring of large brass keys up the steps of a marble federal building. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Delegated powers are granted to the federal government by the Constitution.",
+        "title": "POWERS HANDED OVER"
+      }
+    },
+    {
+      "id": "WCV12_014",
+      "question": "Washington's legislature defines most theft and assault crimes, the state runs its own prisons, and state troopers enforce speed limits on state highways - none of which the Constitution assigns to the federal government. On what basis does the state do all of this?",
+      "correctAnswer": "Reserved powers - the Tenth Amendment keeps undelegated powers for the states or the people",
+      "distractors": [
+        "Delegated powers - Article I assigns state crimes and highways to the governor",
+        "Treaty powers - the state acts under its agreements with neighboring states",
+        "Implied powers - the Elastic Clause lets states claim any useful authority"
+      ],
+      "difficulty": "medium",
+      "explanation": "These are exercises of the state police power, held as reserved powers. The Tenth Amendment reserves to the states, or to the people, every power the Constitution does not delegate to the federal government or deny to the states - and ordinary criminal law and highway safety were never delegated away.",
+      "memoryHook": "T-Rexy says: Ordinary crimes and state roads were never handed over.",
+      "tags": [
+        "reserved-powers",
+        "tenth-amendment",
+        "federalism"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a state trooper beside a patrol car on a forested Washington highway at dusk, a county courthouse visible in the valley town below. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Reserved powers stay with the states under the Tenth Amendment.",
+        "title": "THE STATE POLICE POWER"
+      }
+    },
+    {
+      "id": "WCV12_015",
+      "question": "A bridge over the Columbia River is financed partly with federal borrowing and partly with bonds Washington issued itself, and that same week federal courts and Washington state courts both hear cases. Which category of power explains how both levels can borrow, build roads and run courts at the same time?",
+      "correctAnswer": "Concurrent powers - powers the federal and state governments may exercise at the same time",
+      "distractors": [
+        "Exclusive powers - borrowing and courts belong to one level of government only",
+        "Denied powers - neither level may borrow until the other gives permission",
+        "Reserved powers - borrowing and courts were left entirely to the states"
+      ],
+      "difficulty": "medium",
+      "explanation": "Borrowing money, building roads and establishing courts are concurrent powers, exercised by both levels simultaneously - as is the classic example, taxing. Coining money, by contrast, is exclusive to the federal government, which shows the line between shared and single-level powers.",
+      "memoryHook": "T-Rexy says: Two levels, same toolbox - borrow, build, judge, tax.",
+      "tags": [
+        "concurrent-powers",
+        "federalism",
+        "taxes"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a large bridge under construction over a wide river, work crews and cranes on both banks beneath two plain flags. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Concurrent powers, like taxing and borrowing, belong to both levels at once.",
+        "title": "ONE BRIDGE, TWO BUILDERS"
+      }
+    },
+    {
+      "id": "WCV12_016",
+      "question": "Congress creates a national air traffic control system even though the Constitution never mentions airplanes, arguing that safe interstate air travel is needed to regulate commerce and move military aircraft. Lawyers defending the system point to the same clause the Supreme Court upheld in McCulloch v. Maryland (1819). Which clause is it?",
+      "correctAnswer": "The Necessary and Proper Clause - Congress may choose means to carry out its listed powers",
+      "distractors": [
+        "The Tenth Amendment - it expands federal power whenever Congress finds a new technology",
+        "The Preamble - its promise of domestic tranquility grants any useful power",
+        "The Commerce Clause standing alone - it names every federal agency Congress may create"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Necessary and Proper, or Elastic, Clause lets Congress choose the means for carrying out its listed powers, which creates implied powers such as chartering a bank in McCulloch or running air traffic control today. In McCulloch the Court also barred Maryland from taxing the federal bank, since a state tax could destroy a federal instrument.",
+      "memoryHook": "T-Rexy says: New machines, old clause - the means stretch, the ends stay listed.",
+      "tags": [
+        "implied-powers",
+        "necessary-and-proper",
+        "mcculloch-v-maryland"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an air traffic control tower guiding passenger jets and a military transport across a busy sky at dawn. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Implied powers flow from the Necessary and Proper Clause.",
+        "title": "AIRPLANES THE FRAMERS NEVER SAW"
+      }
+    },
+    {
+      "id": "WCV12_017",
+      "question": "Merchants in 1786 complain that states are taxing each other's goods, Congress cannot pay its soldiers or make the states honor a treaty, and each state prints money of a different value. Delegates cite this chaos when calling a convention in Philadelphia. Which first plan of government produced the weak center they want to replace?",
+      "correctAnswer": "The Articles of Confederation - the national government was too weak to tax, enforce laws or keep order",
+      "distractors": [
+        "The Virginia Plan - it gave the national government too much taxing power",
+        "The New Jersey Plan - it created a president too strong to control",
+        "The Constitution of 1787 - it let Congress enforce every law directly"
+      ],
+      "difficulty": "medium",
+      "explanation": "The chaos describes life under the Articles of Confederation, the first plan of government after independence. It kept the states sovereign and gave Congress no power to tax, regulate trade among the states or enforce its decisions - weaknesses dramatized by Shays' Rebellion and answered by the Constitution of 1787.",
+      "memoryHook": "T-Rexy says: Thirteen moneys and no enforcement - the Articles could not hold.",
+      "tags": [
+        "articles-of-confederation",
+        "foundations",
+        "constitution"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of merchants in 1780s dress arguing at wagons stopped at a state border checkpoint, sacks of goods and different paper currencies on a table. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Articles left the national government too weak to act.",
+        "title": "THIRTEEN MONEYS, NO CENTER"
+      }
+    },
+    {
+      "id": "WCV12_018",
+      "question": "Which statement best explains why, in today's Congress, Wyoming and California each send two senators while California sends many more representatives than Wyoming does?",
+      "correctAnswer": "The Connecticut Compromise - the House by population and the Senate equal for every state",
+      "distractors": [
+        "The Missouri Compromise - states enter the Union in balanced pairs with matched delegations",
+        "The Three-Fifths Compromise - House seats were counted from a fraction of the population",
+        "The Great Awakening settlement - large and small colonies divided Congress by church membership"
+      ],
+      "difficulty": "medium",
+      "explanation": "That present-day pattern is the Connecticut Compromise of 1787 still at work. Locked between the Virginia Plan (representation by population) and the New Jersey Plan (equal votes per state), the convention built both into one Congress: a House apportioned by population and a Senate of two per state.",
+      "memoryHook": "T-Rexy says: Population in one chamber, equality in the other - Connecticut's deal lives on.",
+      "tags": [
+        "connecticut-compromise",
+        "convention",
+        "congress"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a modern capitol with two chambers side by side, one a vast curved hall of many desks and one a smaller hall of paired desks. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Connecticut Compromise: House by population, Senate equal per state.",
+        "title": "WHY THE CHAMBERS DIFFER"
+      }
+    },
+    {
+      "id": "WCV12_019",
+      "question": "A modern Supreme Court opinion cites an essay known as Federalist No. 51, on why ambition must counteract ambition, as a guide to the Constitution's original design. That essay belongs to which collection, and who produced it?",
+      "correctAnswer": "The Federalist Papers - Hamilton, Madison and Jay writing as Publius",
+      "distractors": [
+        "Common Sense - Thomas Paine's single pamphlet urging independence in 1776",
+        "The Anti-Federalist essays - Patrick Henry writing alone against ratification",
+        "The Virginia Statute letters - the House of Burgesses writing as a body in 1765"
+      ],
+      "difficulty": "medium",
+      "explanation": "Federalist No. 51 is one of the 85 Federalist Papers, written in 1787 and 1788 by Alexander Hamilton, James Madison and John Jay under the shared pen name Publius to persuade New York to ratify the Constitution. Courts and scholars still mine the essays for the framers' understanding of the document.",
+      "memoryHook": "T-Rexy says: Publius still gets cited - Hamilton, Madison and Jay.",
+      "tags": [
+        "federalist-papers",
+        "ratification",
+        "founding-documents"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a modern law library where a robed justice reads a bound volume of old essays at a long oak table, tall windows behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Federalist Papers argued for ratifying the Constitution.",
+        "title": "STILL CITED IN COURT"
+      }
+    },
+    {
+      "id": "WCV12_020",
+      "question": "The Constitution is already ratified when the first Congress sends twelve proposed amendments to the states in 1789, ten of which are approved by 1791. Which political debt were the Federalists paying with that move?",
+      "correctAnswer": "The Anti-Federalists - their demand led to the Bill of Rights, the first ten amendments",
+      "distractors": [
+        "A promise to the Loyalists - their seized property would be repaid in rights",
+        "A debt to the abolitionists - slavery would be phased out by amendment",
+        "A bargain with foreign creditors - trade rights would be written into the text"
+      ],
+      "difficulty": "hard",
+      "explanation": "The debt was owed to the Anti-Federalists, who had attacked the Constitution for creating a strong central government with no list of protected rights and had nearly blocked ratification. Federalists won ratification partly by promising amendments, and the ten ratified in 1791 became the Bill of Rights.",
+      "memoryHook": "T-Rexy says: Ratification was bought with a promise - the Bill of Rights was the payment.",
+      "tags": [
+        "anti-federalists",
+        "bill-of-rights",
+        "ratification"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of the first Congress in session in a modest hall, members debating over a stack of parchment pages while a clerk carries one page toward the door. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Anti-Federalist pressure produced the Bill of Rights.",
+        "title": "THE PROMISE THAT WAS PAID"
+      }
+    },
+    {
+      "id": "WCV12_021",
+      "question": "A city bans a peaceful march, closes a newspaper that criticized it, and forbids residents from petitioning the council. Which single amendment protects all three activities the city is attacking?",
+      "correctAnswer": "The First Amendment - it protects speech, the press, assembly and petition",
+      "distractors": [
+        "The Second Amendment - it protects the right to keep and bear arms",
+        "The Fourth Amendment - it protects against unreasonable searches",
+        "The Tenth Amendment - it reserves powers to the states"
+      ],
+      "difficulty": "easy",
+      "explanation": "The First Amendment protects five freedoms: religion, speech, the press, assembly and petition of the government. Marches, newspapers and petitions all fall inside that single amendment.",
+      "memoryHook": "T-Rexy says: One amendment, five freedoms - religion, speech, press, assembly, petition.",
+      "tags": [
+        "first-amendment",
+        "bill-of-rights",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of citizens marching peacefully with plain banners while a printing press works in a shop window nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The First Amendment protects speech, press, assembly and petition.",
+        "title": "FIVE FREEDOMS, ONE AMENDMENT"
+      }
+    },
+    {
+      "id": "WCV12_022",
+      "question": "A naturalization applicant is asked how many amendments the Constitution has and what the first ten are called. Which pair of answers is correct?",
+      "correctAnswer": "27 amendments in total, and the first ten are called the Bill of Rights",
+      "distractors": [
+        "21 amendments in total, and the first ten are called the Articles",
+        "33 amendments in total, and the first ten are called the Preamble",
+        "50 amendments in total, and the first ten are called the Federalist Papers"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Constitution has been amended 27 times. The first ten amendments, ratified together in 1791, are known as the Bill of Rights and mainly protect individual liberties against the federal government.",
+      "memoryHook": "T-Rexy says: 27 total - and the first ten travel as one famous bundle.",
+      "tags": [
+        "amendments",
+        "bill-of-rights",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a marble archive wall with twenty-seven sealed scroll slots, the first ten grouped under one brass frame. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "27 amendments; the first ten are the Bill of Rights.",
+        "title": "TWENTY-SEVEN AND THE FIRST TEN"
+      }
+    },
+    {
+      "id": "WCV12_023",
+      "question": "Police enter a home without a warrant, without consent and without any emergency, and seize papers to use at trial. Which amendment is the starting point for challenging the search?",
+      "correctAnswer": "The Fourth Amendment - it bars unreasonable searches and seizures and generally requires a warrant based on probable cause",
+      "distractors": [
+        "The First Amendment - it bars the government from seizing opinions",
+        "The Seventh Amendment - it guarantees a jury in civil cases",
+        "The Ninth Amendment - it reserves unlisted rights to the people"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Fourth Amendment protects people, houses, papers and effects against unreasonable searches and seizures. Evidence taken in serious violation of it can be excluded at trial under Mapp v. Ohio.",
+      "memoryHook": "T-Rexy says: No warrant, no probable cause, no search.",
+      "tags": [
+        "fourth-amendment",
+        "search-and-seizure",
+        "bill-of-rights"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a uniformed officer pausing at a closed front door while a judge reviews a warrant application at a desk. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Fourth Amendment guards against unreasonable searches and seizures.",
+        "title": "THE WARRANT GUARD"
+      }
+    },
+    {
+      "id": "WCV12_024",
+      "question": "A defendant refuses to testify against herself, objects to being tried a second time for the same offense after acquittal, and objects when the government takes her land for a highway without paying her. Which amendment covers all three complaints?",
+      "correctAnswer": "The Fifth Amendment - self-incrimination, double jeopardy and just compensation for taken property",
+      "distractors": [
+        "The Third Amendment - quartering soldiers in private homes",
+        "The Sixth Amendment - speedy trial and assistance of counsel",
+        "The Eighth Amendment - excessive bail and cruel punishments"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Fifth Amendment bundles several protections: no self-incrimination, no loss of life, liberty or property without due process, grand jury indictment for serious federal crimes, no double jeopardy, and just compensation when private property is taken for public use.",
+      "memoryHook": "T-Rexy says: The Fifth is a bundle - silence, fairness and payment for takings.",
+      "tags": [
+        "fifth-amendment",
+        "due-process",
+        "takings"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a courthouse scene with a silent witness, a balanced scale and a survey crew marking a highway line past a farmhouse. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Fifth covers self-incrimination, due process and takings.",
+        "title": "SILENCE, FAIRNESS AND PAYMENT"
+      }
+    },
+    {
+      "id": "WCV12_025",
+      "question": "A man who cannot afford a lawyer is tried for a felony and convicted after defending himself. Under Gideon v. Wainwright (1963), what went wrong?",
+      "correctAnswer": "The state denied his Sixth Amendment right to counsel - states must provide a lawyer to defendants who cannot afford one in criminal cases",
+      "distractors": [
+        "The state denied his Second Amendment right - defendants may be armed at trial",
+        "The state denied his Seventh Amendment right - felony trials require two juries",
+        "Nothing went wrong - counsel is guaranteed only in federal court"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Sixth Amendment guarantees the assistance of counsel in criminal prosecutions. Gideon held that this right is fundamental and applies to the states through the Fourteenth Amendment, so an indigent felony defendant must be given a lawyer.",
+      "memoryHook": "T-Rexy says: No money for a lawyer does not mean no lawyer.",
+      "tags": [
+        "sixth-amendment",
+        "gideon-v-wainwright",
+        "right-to-counsel"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a courtroom where a judge appoints a defense attorney to stand beside an accused man at the defense table. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Gideon: the Sixth Amendment requires counsel for those who cannot pay.",
+        "title": "A LAWYER FOR EVERY ACCUSED"
+      }
+    },
+    {
+      "id": "WCV12_026",
+      "question": "A judge sets bail at an amount wildly beyond what is needed to ensure a defendant returns, then orders a punishment designed to torture. Which amendment speaks to both abuses?",
+      "correctAnswer": "The Eighth Amendment - it bars excessive bail and cruel and unusual punishments",
+      "distractors": [
+        "The Fourth Amendment - it bars all bail in serious cases",
+        "The Ninth Amendment - it bars any punishment not listed in 1791",
+        "The Eleventh Amendment - it bars states from punishing their own citizens"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Eighth Amendment prohibits excessive bail, excessive fines and cruel and unusual punishments. Its language descends from the English Bill of Rights of 1689 and was carried into the federal Bill of Rights.",
+      "memoryHook": "T-Rexy says: Bail must fit the flight risk, and punishment must stay humane.",
+      "tags": [
+        "eighth-amendment",
+        "bail",
+        "bill-of-rights"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a judge weighing a small stack of coins on a scale beside an empty, barred cell door standing open. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Eighth Amendment bars excessive bail and cruel punishments.",
+        "title": "NO EXCESS, NO CRUELTY"
+      }
+    },
+    {
+      "id": "WCV12_027",
+      "question": "A state closes its public schools in one county rather than admit Black students, claiming the Bill of Rights limits only the federal government. Which amendment defeats the state's defense and powered Brown v. Board of Education (1954)?",
+      "correctAnswer": "The Fourteenth Amendment - its Equal Protection Clause binds the states",
+      "distractors": [
+        "The Tenth Amendment - it reserves education to the states without limit",
+        "The Eleventh Amendment - it shields states from rights claims",
+        "The Third Amendment - it protects homes used as classrooms"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Fourteenth Amendment, ratified in 1868, forbids states to deny any person equal protection of the laws. Brown relied on it to hold that segregated public schools are inherently unequal, and most Bill of Rights protections reach the states through its Due Process Clause.",
+      "memoryHook": "T-Rexy says: After 1868, the states answer to equal protection too.",
+      "tags": [
+        "fourteenth-amendment",
+        "equal-protection",
+        "brown-v-board"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of children of different backgrounds walking together up the steps of a brick public school in morning light. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Fourteenth Amendment applies equal protection against the states.",
+        "title": "EQUAL PROTECTION BINDS STATES"
+      }
+    },
+    {
+      "id": "WCV12_028",
+      "question": "Slavery is abolished, Black men gain the vote on paper, women gain the vote, poll taxes are banned in federal elections, and 18-year-olds gain the vote. Which list matches those five changes to their amendments, in order?",
+      "correctAnswer": "13th (slavery), 15th (race and voting), 19th (women), 24th (poll tax), 26th (voting age)",
+      "distractors": [
+        "12th (slavery), 14th (race and voting), 18th (women), 22nd (poll tax), 25th (voting age)",
+        "13th (slavery), 19th (race and voting), 15th (women), 26th (poll tax), 24th (voting age)",
+        "14th (slavery), 15th (race and voting), 19th (women), 23rd (poll tax), 27th (voting age)"
+      ],
+      "difficulty": "hard",
+      "explanation": "The 13th Amendment (1865) abolished slavery, the 15th (1870) barred denying the vote by race, the 19th (1920) barred denying it by sex, the 24th (1964) banned poll taxes in federal elections, and the 26th (1971) set the voting age at 18.",
+      "memoryHook": "T-Rexy says: 13, 15, 19, 24, 26 - the expanding electorate in five steps.",
+      "tags": [
+        "voting-amendments",
+        "suffrage",
+        "reconstruction"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of five bronze steps rising toward a ballot box, each step wider than the one before, voters of many eras climbing. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Voting expanded through the 13th, 15th, 19th, 24th and 26th Amendments.",
+        "title": "FIVE STEPS TO THE BALLOT"
+      }
+    },
+    {
+      "id": "WCV12_029",
+      "question": "Students wear black armbands to protest a war and are suspended even though the protest caused no disruption. Under Tinker v. Des Moines (1969), how should a court rule?",
+      "correctAnswer": "For the students - schools may limit speech only when it substantially disrupts school work or invades others' rights",
+      "distractors": [
+        "For the school - students surrender all speech rights at the schoolhouse gate",
+        "For the school - the First Amendment never applies to minors",
+        "For the students - schools may never regulate any student expression for any reason"
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinker held that students do not shed their constitutional rights at the schoolhouse gate. Silent, nondisruptive protest is protected; schools must show facts reasonably leading to substantial disruption to punish it.",
+      "memoryHook": "T-Rexy says: Rights walk through the schoolhouse gate with the students.",
+      "tags": [
+        "tinker-v-des-moines",
+        "student-speech",
+        "first-amendment"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of students walking calmly through a school entrance wearing plain dark armbands, classes changing around them. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Tinker protects nondisruptive student speech.",
+        "title": "RIGHTS AT THE GATE"
+      }
+    },
+    {
+      "id": "WCV12_030",
+      "question": "A theft suspect is handcuffed, driven to the station and recorded answering detectives' questions for forty minutes. The recording shows no one ever mentioned a right to remain silent or to a lawyer, and prosecutors want to play it at trial. The defense moves to suppress it, citing which case?",
+      "correctAnswer": "Miranda v. Arizona (1966)",
+      "distractors": [
+        "Mapp v. Ohio (1961)",
+        "Gideon v. Wainwright (1963)",
+        "Terry v. Ohio (1968)"
+      ],
+      "difficulty": "medium",
+      "explanation": "The defense is invoking Miranda v. Arizona (1966), which requires warnings before custodial interrogation so that the Fifth Amendment privilege against self-incrimination is real in the station house. Statements taken from a person in custody without the warnings generally cannot be used in the prosecution's main case.",
+      "memoryHook": "T-Rexy says: Handcuffs plus questions - warnings first, or the tape stays out.",
+      "tags": [
+        "miranda-v-arizona",
+        "fifth-amendment",
+        "criminal-procedure"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a small interview room seen over a detective's shoulder, a body camera on his chest and a suspect seated across a plain table. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Miranda warnings protect the right to silence during custodial questioning.",
+        "title": "THE TAPED INTERVIEW"
+      }
+    },
+    {
+      "id": "WCV12_031",
+      "question": "A naturalization applicant is asked what the economic system of the United States is and what its rule about government power is called when everyone, including leaders, must obey the law. Which pair is correct?",
+      "correctAnswer": "Capitalist (free market) economy - and the rule of law",
+      "distractors": [
+        "Command economy - and the rule of law",
+        "Capitalist (free market) economy - and the spoils system",
+        "Mixed feudal economy - and the divine right of kings"
+      ],
+      "difficulty": "easy",
+      "explanation": "The naturalization test teaches that the United States has a capitalist, free market economy, and that the rule of law means everyone - citizens and leaders alike - must follow the law.",
+      "memoryHook": "T-Rexy says: Free market economy, and no one above the law.",
+      "tags": [
+        "economic-system",
+        "rule-of-law",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an open-air farmers market with many competing stalls beneath a courthouse tower. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "US economy: capitalist free market. Everyone obeys the law.",
+        "title": "FREE MARKET, RULE OF LAW"
+      }
+    },
+    {
+      "id": "WCV12_032",
+      "question": "A quiz asks: how many US senators are there, how long is one Senate term, and how often is about a third of the Senate chosen?",
+      "correctAnswer": "100 senators; six-year terms; about a third elected every two years",
+      "distractors": [
+        "50 senators; four-year terms; half elected every two years",
+        "100 senators; two-year terms; all elected every two years",
+        "435 senators; six-year terms; about a third elected every four years"
+      ],
+      "difficulty": "easy",
+      "explanation": "Each state elects two senators, so the Senate has 100 members. Senators serve staggered six-year terms, with roughly one third of the seats up for election every two years, which keeps the Senate a continuing body.",
+      "memoryHook": "T-Rexy says: Two per state, six-year terms, a third at a time.",
+      "tags": [
+        "senate",
+        "terms",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a semicircular chamber with one hundred desks, a third of them freshly polished and empty. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Senate: 100 members, six-year staggered terms.",
+        "title": "ONE HUNDRED, SIX YEARS"
+      }
+    },
+    {
+      "id": "WCV12_033",
+      "question": "Washington's redistricting commission redraws the state's congressional district lines after each census, because the state's share of the 435 House seats can rise or fall - yet the commission has no power to change the two United States senators the state sends. Why the difference?",
+      "correctAnswer": "House seats are apportioned among the states by population; Senate seats are fixed at two per state",
+      "distractors": [
+        "House members face voters more often, so their number must be recalculated",
+        "The President reapportions senators, leaving only the House to the states",
+        "Senators are apportioned by land area, which the census does not measure"
+      ],
+      "difficulty": "medium",
+      "explanation": "The decennial census drives reapportionment of the House, whose seats are divided among the states by population, so a state that grows more slowly than others can lose a seat. Senate representation never moves with population - two per state was the equal-state half of the Connecticut Compromise.",
+      "memoryHook": "T-Rexy says: Districts get redrawn; the two senators stay put.",
+      "tags": [
+        "apportionment",
+        "census",
+        "house"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a redistricting commission seated around a large table studying an abstract map with colored regions and pins, a capitol dome outside the window. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "House seats follow population; Senate seats stay at two per state.",
+        "title": "REDRAWING LINES, NOT SENATORS"
+      }
+    },
+    {
+      "id": "WCV12_034",
+      "question": "A naturalization applicant is asked how many voting members the House of Representatives has and how long representatives serve. Which answer is correct?",
+      "correctAnswer": "435 voting members, each serving a two-year term",
+      "distractors": [
+        "100 voting members, each serving a six-year term",
+        "535 voting members, each serving a four-year term",
+        "50 voting members, each serving a one-year term"
+      ],
+      "difficulty": "easy",
+      "explanation": "The House has 435 voting members, a size set by law, and every representative serves a two-year term - the whole House is elected every two years, making it the chamber closest to the voters.",
+      "memoryHook": "T-Rexy says: 435 seats, two-year terms - the whole House, every cycle.",
+      "tags": [
+        "house",
+        "terms",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a wide chamber with rows of desks stretching back, a calendar with two pages pinned beside the door. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "House: 435 voting members, two-year terms.",
+        "title": "FOUR HUNDRED THIRTY-FIVE"
+      }
+    },
+    {
+      "id": "WCV12_035",
+      "question": "A president is elected in November, takes office the following January, and may be reelected only once. Which pair of rules produces that limit and schedule?",
+      "correctAnswer": "Four-year terms set by Article II, with the 22nd Amendment capping a president at two elected terms",
+      "distractors": [
+        "Six-year terms set by Article II, with the 12th Amendment capping a president at two terms",
+        "Four-year terms set by statute, with no constitutional limit on reelection",
+        "Life tenure set by Article II, ended only by impeachment"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article II sets a four-year presidential term. The 22nd Amendment, ratified in 1951 after Franklin Roosevelt's four elections, limits a president to two elected terms. Presidential elections fall in November and inauguration follows on January 20.",
+      "memoryHook": "T-Rexy says: Four years a term, two terms at most.",
+      "tags": [
+        "presidency",
+        "terms",
+        "twenty-second-amendment"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an inauguration platform in winter with two calendar pages and a folded flag in the foreground. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Presidents serve four-year terms, limited to two by the 22nd Amendment.",
+        "title": "FOUR YEARS, TWICE AT MOST"
+      }
+    },
+    {
+      "id": "WCV12_036",
+      "question": "The President dies in office with two years left in the term. A classmate asks who becomes President and whether anyone must approve the choice. Which answer is correct?",
+      "correctAnswer": "The Vice President becomes President automatically - no election or confirmation is needed",
+      "distractors": [
+        "The Secretary of State becomes President after a Senate vote",
+        "The Speaker becomes President only if Congress approves",
+        "The Chief Justice serves as acting President until a special election"
+      ],
+      "difficulty": "easy",
+      "explanation": "Under the 25th Amendment and the original succession rule, the Vice President becomes President when the office falls vacant - not merely an acting stand-in. Voters chose that successor when they elected the ticket.",
+      "memoryHook": "T-Rexy says: The Vice President steps up automatically - that is the job.",
+      "tags": [
+        "succession",
+        "vice-president",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an empty presidential desk chair with a second chair beside it, flags standing behind both. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Vice President becomes President if the office falls vacant.",
+        "title": "THE VICE PRESIDENT STEPS UP"
+      }
+    },
+    {
+      "id": "WCV12_037",
+      "question": "In one week, a president orders forces to respond to an attack, pardons a prisoner, and proposes legislation in an address to Congress. Which set of roles covers all three acts?",
+      "correctAnswer": "Commander in chief, chief executive (enforcing laws and granting pardons), and legislative leader",
+      "distractors": [
+        "Chief justice, chief diplomat, and head of the state governments",
+        "Head of the Senate, head of the courts, and commander of state militias",
+        "Party leader only - all three acts are campaign functions"
+      ],
+      "difficulty": "easy",
+      "explanation": "The President wears several hats: commander in chief of the armed forces, chief executive who faithfully executes the laws and may grant pardons, and a legislative leader who recommends measures to Congress in the State of the Union.",
+      "memoryHook": "T-Rexy says: One president, several hats - military, executive, legislative.",
+      "tags": [
+        "presidency",
+        "executive-roles",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a desk with a military cap, a fountain pen and a rolled address scroll arranged in a row, flags behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The President is commander in chief and chief executive.",
+        "title": "MANY HATS, ONE PRESIDENT"
+      }
+    },
+    {
+      "id": "WCV12_038",
+      "question": "A president calls together the heads of the executive departments - State, Treasury, Defense, Justice and the others - for advice on a crisis. What is this group, and how do its members get their jobs?",
+      "correctAnswer": "The Cabinet - appointed by the President and confirmed by the Senate",
+      "distractors": [
+        "The Joint Chiefs - elected by the armed services every four years",
+        "The federal bench - appointed by the Chief Justice",
+        "The Electoral College - chosen by state legislatures"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Cabinet consists of the heads of the executive departments. The President appoints them and the Senate confirms them; they run their departments and advise the President, and they serve at the President's pleasure.",
+      "memoryHook": "T-Rexy says: The Cabinet is the President's confirmed team of department heads.",
+      "tags": [
+        "cabinet",
+        "executive-branch",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a long oval table with department heads in discussion and the President listening at the head. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Cabinet members are appointed by the President and confirmed by the Senate.",
+        "title": "THE PRESIDENT'S TEAM"
+      }
+    },
+    {
+      "id": "WCV12_039",
+      "question": "After Congress refuses to fund a new program, a president signs an order creating the program anyway and directs the Treasury to pay for it out of general funds. A court blocks the spending. Which statement best explains the court's ruling?",
+      "correctAnswer": "Executive orders direct the executive branch under the Constitution or existing law; they cannot create new law or spend money Congress has not appropriated",
+      "distractors": [
+        "Executive orders become statutes once signed, so only a constitutional amendment can block one",
+        "A president may spend unappropriated money whenever Congress is out of session",
+        "Courts may never review an executive order, so the block must have come from the Senate"
+      ],
+      "difficulty": "medium",
+      "explanation": "An executive order is only a directive within the executive branch, valid when it rests on the Constitution or on a statute Congress has passed. It cannot create a new program of law by itself or spend money Congress has not appropriated - the power of the purse belongs to Congress - so the spending order exceeded the president's authority.",
+      "memoryHook": "T-Rexy says: No appropriation, no spending - an order cannot open the Treasury.",
+      "tags": [
+        "executive-orders",
+        "presidency",
+        "separation-of-powers"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a judge's gavel resting on a desk beside a funding document and a locked treasury door, a domed capitol in the distance. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Executive orders work under existing law; they are not new law.",
+        "title": "AN ORDER CANNOT OPEN THE TREASURY"
+      }
+    },
+    {
+      "id": "WCV12_040",
+      "question": "On a White House tour, a guide is asked what can happen to a bill after both chambers pass it in identical form and send it to the president - including the outcomes if the president simply does nothing. Which answer should the guide give?",
+      "correctAnswer": "The President can sign it, veto it, let it become law without signing while Congress is in session, or pocket-veto it if Congress adjourns in the window",
+      "distractors": [
+        "The president could have edited out the sections he disliked and signed the rest into law",
+        "The Chief Justice could have signed it whenever the president was traveling",
+        "The bill could have bypassed the president entirely and gone to the states for approval"
+      ],
+      "difficulty": "medium",
+      "explanation": "At presentment the president has four real paths: sign the bill, veto it, let it become law after ten days without a signature while Congress remains in session, or kill it by pocket veto - holding it unsigned when Congress adjourns within the ten-day window. There is no federal line-item veto; the Supreme Court struck that device down.",
+      "memoryHook": "T-Rexy says: Sign, veto, wait it into law, or pocket it - nothing is also a choice.",
+      "tags": [
+        "lawmaking",
+        "veto",
+        "presidency"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a tour group looking at a replica presidential desk in a museum hall, a calendar and a document resting on the desk. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A bill can be signed, vetoed, left unsigned into law, or pocket-vetoed.",
+        "title": "NOTHING IS ALSO A CHOICE"
+      }
+    },
+    {
+      "id": "WCV12_041",
+      "question": "A bill becomes law even though the president formally returned it with objections, and it carries no presidential signature and no court order made it law. Only one constitutional path explains the outcome. Which path is it?",
+      "correctAnswer": "Two-thirds of both the House and the Senate voted to override the veto",
+      "distractors": [
+        "The Supreme Court reversed the president's objections as unconstitutional",
+        "Three-fourths of the state legislatures voted the bill into law",
+        "The Vice President broke a tie in the Senate to enact the bill over the objection"
+      ],
+      "difficulty": "hard",
+      "explanation": "The path is a veto override: after a veto, the bill returns to Congress, and if two-thirds of the House and two-thirds of the Senate vote for it anyway, it becomes law word for word without the president's signature. The steep threshold is why overrides succeed only rarely.",
+      "memoryHook": "T-Rexy says: Returned with objections, enacted anyway - two-thirds did it.",
+      "tags": [
+        "veto-override",
+        "checks-and-balances",
+        "congress"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a packed legislative chamber with members rising to be counted, a returned bill with a red ribbon lying on the clerk's desk in the foreground. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Congress overrides a veto with two-thirds of both houses.",
+        "title": "ENACTED WITHOUT A SIGNATURE"
+      }
+    },
+    {
+      "id": "WCV12_042",
+      "question": "A president negotiates a nuclear arms treaty and nominates a judge to a federal appeals court, but neither can take effect until the Senate acts - the treaty needing a two-thirds vote and the judge a majority. Which constitutional power is the Senate exercising in both cases?",
+      "correctAnswer": "Advice and consent - the Senate must approve treaties and presidential appointments",
+      "distractors": [
+        "Impeachment - the Senate is deciding whether to remove both from office",
+        "Origination - treaties and nominations must both begin as Senate bills",
+        "Judicial review - the Senate is ruling both matters unconstitutional"
+      ],
+      "difficulty": "hard",
+      "explanation": "Both actions run through the Senate's advice and consent power in Article II. The president makes treaties and appointments, but treaties require approval by two-thirds of the senators present and major appointments, including judges and ambassadors, require Senate confirmation by majority vote.",
+      "memoryHook": "T-Rexy says: Negotiate and nominate up front; consent happens in the Senate.",
+      "tags": [
+        "advice-and-consent",
+        "senate",
+        "article-ii"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a Senate hearing room where a judicial nominee sits at a witness table while senators look on, a sealed treaty folder resting on the dais. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Treaties and appointments need the Senate's advice and consent.",
+        "title": "CONSENT FOR TREATY AND JUDGE"
+      }
+    },
+    {
+      "id": "WCV12_043",
+      "question": "After the House impeaches a president, supporters of removal argue that the Senate can finish the job the same way the House started it - by a simple majority. Which statement corrects them?",
+      "correctAnswer": "Impeachment - the House brings charges and two-thirds of the Senate convicts and removes",
+      "distractors": [
+        "A recall - voters sign petitions and a simple majority of voters removes the president",
+        "A censure - the House alone may expel the president on a two-thirds vote",
+        "An indictment - a grand jury brings the charges and the Chief Justice removes"
+      ],
+      "difficulty": "hard",
+      "explanation": "The two stages use different thresholds. The House impeaches - brings the charges - by majority vote, but the Senate then conducts the trial, with the Chief Justice presiding when the president is tried, and removal requires conviction by two-thirds of the Senate. A simple Senate majority is not enough.",
+      "memoryHook": "T-Rexy says: Majority to accuse, two-thirds to remove - the bar rises at trial.",
+      "tags": [
+        "impeachment",
+        "congress",
+        "checks-and-balances"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a solemn Senate chamber arranged as a courtroom, the Chief Justice presiding from the front while senators sit as jurors in rows. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "House impeaches; two-thirds of the Senate convicts and removes.",
+        "title": "THE BAR RISES AT TRIAL"
+      }
+    },
+    {
+      "id": "WCV12_044",
+      "question": "A new federal income tax proposal is filed in the House, passes there, and then the Senate rewrites its rates extensively before passing its own version. A senator explains that the Senate rewrite is allowed, but the original filing could not have started in the Senate. Which rule explains both halves of that statement?",
+      "correctAnswer": "The Origination Clause - bills for raising revenue must begin in the House of Representatives",
+      "distractors": [
+        "The Commerce Clause - all money measures begin with the President's budget office",
+        "The Presentment Clause - tax bills must begin in a conference committee",
+        "The Tenth Amendment - tax bills must begin in the state capitols"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Origination Clause in Article I requires bills for raising revenue to begin in the House, the chamber elected directly by the people every two years, while expressly allowing the Senate to propose amendments - which is why the Senate could rewrite the rates but could not have filed the tax bill first. Other kinds of bills may start in either chamber.",
+      "memoryHook": "T-Rexy says: Filed in the House, freely amended in the Senate - that is origination.",
+      "tags": [
+        "origination-clause",
+        "revenue",
+        "house"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a thick folder passing through an arched doorway from a large chamber toward a smaller chamber, a plain coin emblem on the folder cover. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Revenue bills must begin in the House.",
+        "title": "FILED HERE, AMENDED THERE"
+      }
+    },
+    {
+      "id": "WCV12_045",
+      "question": "A new bill is given a number, debated in committee, amended on the floor, and passed by one chamber, then repeated through the other chamber before going to the President. Why does the system force a bill through so many steps in both chambers?",
+      "correctAnswer": "Bicameral passage in identical form, plus presentment, slows lawmaking so majorities must build agreement in two differently chosen bodies",
+      "distractors": [
+        "The steps exist so the Supreme Court can edit bills before passage",
+        "The steps exist because the Senate may pass a different text and the President merges them",
+        "The steps are ceremonial - a bill becomes law whenever one chamber passes it"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Constitution requires both houses to pass the same text and present it to the President. Committees screen, floors debate and amend, and the two chambers - one by population with two-year terms, one equal per state with six-year terms - must agree before anything becomes law.",
+      "memoryHook": "T-Rexy says: Two chambers, one identical text, then the President.",
+      "tags": [
+        "lawmaking",
+        "bicameralism",
+        "congress"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a document traveling along a long table past committee chairs toward two chamber doors and a distant executive desk. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Both houses must pass the identical bill before presentment.",
+        "title": "TWO CHAMBERS, ONE TEXT"
+      }
+    },
+    {
+      "id": "WCV12_046",
+      "question": "A would-be justice of the peace, appointed by outgoing President John Adams in his final days in office, sues over a commission that was signed but never delivered, and the Supreme Court uses the small dispute to claim a very large power. Which case is this, and what power did it establish?",
+      "correctAnswer": "Marbury v. Madison (1803) - judicial review, the power to strike down laws that violate the Constitution",
+      "distractors": [
+        "McCulloch v. Maryland (1819) - the power of Congress to charter a bank",
+        "Gibbons v. Ogden (1824) - federal control of interstate commerce",
+        "Brown v. Board of Education (1954) - the end of school segregation"
+      ],
+      "difficulty": "hard",
+      "explanation": "In Marbury v. Madison, Chief Justice John Marshall held that a section of the Judiciary Act conflicted with the Constitution and was void. It is the foundational case for judicial review, the courts' power to declare acts of the other branches unconstitutional.",
+      "memoryHook": "T-Rexy says: A small commission case built the biggest judicial power.",
+      "tags": [
+        "marbury-v-madison",
+        "judicial-review",
+        "supreme-court"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a robed chief justice holding a small sealed commission beside a tall columned courthouse. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Marbury v. Madison established judicial review.",
+        "title": "SMALL CASE, BIG POWER"
+      }
+    },
+    {
+      "id": "WCV12_047",
+      "question": "A naturalization applicant is asked what the judicial branch does and which court is the highest in the country. Which answer is correct?",
+      "correctAnswer": "The judicial branch reviews and explains laws, resolves disputes and decides whether a law goes against the Constitution - and the Supreme Court is the highest court",
+      "distractors": [
+        "The judicial branch writes laws and commands the armed forces - and the district courts are the highest",
+        "The judicial branch enforces laws and runs elections - and the court of appeals is the highest",
+        "The judicial branch negotiates treaties and confirms judges - and state supreme courts are the highest"
+      ],
+      "difficulty": "easy",
+      "explanation": "The naturalization test sums up the judicial branch as reviewing laws, resolving disputes and deciding whether laws conflict with the Constitution. The Supreme Court sits at the top of the federal system, and its decisions are final on federal law.",
+      "memoryHook": "T-Rexy says: Courts review laws - and the Supreme Court has the last word.",
+      "tags": [
+        "judicial-branch",
+        "supreme-court",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of three courthouse buildings rising in tiers with the tallest columned building at the top under one flag. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Supreme Court is the highest court in the United States.",
+        "title": "THE LAST WORD ON LAW"
+      }
+    },
+    {
+      "id": "WCV12_048",
+      "question": "Federal judges hold their seats for life during good behavior, and their salaries cannot be cut while they serve. Why did the framers protect judges this way?",
+      "correctAnswer": "To insulate judges from political pressure so they can rule against powerful officials and popular majorities when the Constitution requires it",
+      "distractors": [
+        "To make judges more powerful than the elected branches in all matters",
+        "To save money by avoiding judicial elections",
+        "To let judges write laws without interference from Congress"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article III gives federal judges life tenure and salary protection so their decisions rest on law rather than on pleasing voters, presidents or legislators. The check on judges is impeachment, not retaliation at the next election or in the next budget.",
+      "memoryHook": "T-Rexy says: Life tenure buys independence, not power for its own sake.",
+      "tags": [
+        "judicial-independence",
+        "article-iii",
+        "federal-judiciary"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a judge's bench carved from a single oak beam with a gavel resting beside a closed law book. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Life tenure and protected salaries keep judges independent.",
+        "title": "INDEPENDENCE BY DESIGN"
+      }
+    },
+    {
+      "id": "WCV12_049",
+      "question": "A case begins in a federal district court, the loser appeals, and the Supreme Court eventually takes it. How did the case reach the top, and how many justices will decide it?",
+      "correctAnswer": "By appeal through the court of appeals and a grant of review - and nine justices sit on the Supreme Court",
+      "distractors": [
+        "By direct election of the case by voters - and seven justices sit on the Supreme Court",
+        "By appointment of the case by the President - and eleven justices sit on the Supreme Court",
+        "By order of the state governor - and the number of justices changes every year"
+      ],
+      "difficulty": "medium",
+      "explanation": "Federal cases usually start in a district court (the trial court), move to a court of appeals, and reach the Supreme Court only if the justices agree to hear them. The Court has nine justices - one chief justice and eight associates - a number set by Congress, not by the Constitution.",
+      "memoryHook": "T-Rexy says: District, appeals, then the top - and nine chairs at the bench.",
+      "tags": [
+        "federal-courts",
+        "appeals",
+        "supreme-court"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a staircase climbing past three courthouse doors to a bench with nine high-backed chairs. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Nine justices sit on the Supreme Court; Congress set the number.",
+        "title": "NINE CHAIRS AT THE TOP"
+      }
+    },
+    {
+      "id": "WCV12_050",
+      "question": "New York grants one company a monopoly on steamboat routes that cross into New Jersey, while a rival holds a federal license for the same waters. In Gibbons v. Ogden (1824), what did the Court hold?",
+      "correctAnswer": "Congress's commerce power covers navigation between states, so the federal license prevails over the state monopoly",
+      "distractors": [
+        "States may monopolize any trade that touches their own ports",
+        "Commerce means only the buying and selling of goods, never transportation",
+        "The federal government may license ships only on the open ocean"
+      ],
+      "difficulty": "hard",
+      "explanation": "Gibbons v. Ogden read the Commerce Clause broadly: commerce includes navigation, and Congress's power over commerce among the states overrides a conflicting state monopoly. The case anchored a wide federal role in the national economy.",
+      "memoryHook": "T-Rexy says: Commerce among the states belongs to Congress - boats included.",
+      "tags": [
+        "gibbons-v-ogden",
+        "commerce-clause",
+        "federalism"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two rival steamboats passing on a wide river between two state shorelines at sunrise. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Gibbons: federal commerce power covers interstate navigation.",
+        "title": "COMMERCE CROSSES THE RIVER"
+      }
+    },
+    {
+      "id": "WCV12_051",
+      "question": "A robbery suspect is tried in state court while a separate counterfeiting case is tried in federal court, and a classmate insists one of the trials must be in the wrong building. Why is he wrong?",
+      "correctAnswer": "The United States has a dual court system - federal courts and state courts each hear cases under their own jurisdiction",
+      "distractors": [
+        "All criminal cases must be tried in federal court by the Constitution",
+        "State courts exist only to hear appeals from federal courts",
+        "Federal courts hear only cases between foreign governments"
+      ],
+      "difficulty": "easy",
+      "explanation": "Federalism produces two court systems. Federal courts hear cases under federal law, the Constitution, treaties and disputes the Constitution assigns them; state courts hear the great majority of cases, including most crimes, contracts and family matters.",
+      "memoryHook": "T-Rexy says: Two systems of courts, each with its own cases.",
+      "tags": [
+        "dual-court-system",
+        "federalism",
+        "judiciary"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two courthouse buildings facing each other across a plaza, one with an eagle emblem and one with a star emblem. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "State and federal courts form a dual court system.",
+        "title": "TWO SYSTEMS OF COURTS"
+      }
+    },
+    {
+      "id": "WCV12_052",
+      "question": "A naturalization applicant is asked to name one power that belongs only to the federal government and one that belongs only to the states. Which pairing matches the test's expected answers?",
+      "correctAnswer": "Federal: print money (also declare war, create an army, make treaties). State: provide police and schools (also issue licenses and approve zoning)",
+      "distractors": [
+        "Federal: provide police and schools. State: print money and declare war",
+        "Federal: issue driver's licenses. State: create an army and make treaties",
+        "Federal: approve local zoning. State: coin money and set immigration law"
+      ],
+      "difficulty": "medium",
+      "explanation": "The civics test divides examples cleanly: the federal government prints money, declares war, creates an army and makes treaties. The states provide schooling and police protection, give licenses and approve zoning and land use.",
+      "memoryHook": "T-Rexy says: Money and war up top; schools and police at the state level.",
+      "tags": [
+        "federalism",
+        "state-powers",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a mint press and a flag on one side of a plaza facing a schoolhouse and a police station on the other. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Federal powers: money, war, army, treaties. State powers: schools, police, licenses.",
+        "title": "WHO DOES WHAT"
+      }
+    },
+    {
+      "id": "WCV12_053",
+      "question": "Two candidates finish a presidential election with the national popular vote nearly tied, yet one wins clearly. Which institution actually elects the President, and what number wins it?",
+      "correctAnswer": "The Electoral College - a candidate needs 270 of the 538 electoral votes",
+      "distractors": [
+        "The House of Representatives - a candidate needs 218 of 435 votes in every election",
+        "The Senate - a candidate needs 51 of 100 votes in every election",
+        "The Supreme Court - a candidate needs 5 of 9 votes in every election"
+      ],
+      "difficulty": "medium",
+      "explanation": "Presidents are chosen by electors: each state gets electors equal to its senators plus representatives, plus three for the District of Columbia under the 23rd Amendment, for 538 total. Winning at least 270 electoral votes wins the presidency, which is why the popular vote and the outcome can differ.",
+      "memoryHook": "T-Rexy says: 270 is the number that makes a president.",
+      "tags": [
+        "electoral-college",
+        "elections",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a large map of states with piles of gold tokens stacked beside each one, a finish line drawn across the middle. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "270 of 538 electoral votes elects the President.",
+        "title": "TWO HUNDRED SEVENTY WINS"
+      }
+    },
+    {
+      "id": "WCV12_054",
+      "question": "If no candidate wins a majority of electoral votes, a very different body chooses the President. Which body, and how does it vote?",
+      "correctAnswer": "The House of Representatives, voting by state delegation - each state casts one vote",
+      "distractors": [
+        "The Senate, voting by state delegation - each state casts one vote",
+        "The Supreme Court, voting by seniority - each justice casts one vote",
+        "The state governors, voting by region - each region casts one vote"
+      ],
+      "difficulty": "hard",
+      "explanation": "The 12th Amendment sends a deadlocked presidential election to the House, where each state delegation casts a single vote and a majority of states wins. The Senate separately chooses the Vice President in that situation, voting per senator.",
+      "memoryHook": "T-Rexy says: No electoral majority sends the choice to the House, one vote per state.",
+      "tags": [
+        "electoral-college",
+        "twelfth-amendment",
+        "contingent-election"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a chamber where legislators cluster in fifty small state groups, each group raising a single card. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The House picks the President by state delegation if electors deadlock.",
+        "title": "ONE VOTE PER STATE"
+      }
+    },
+    {
+      "id": "WCV12_055",
+      "question": "A political party writes a platform, recruits candidates, raises money and organizes volunteers, while a single-issue group only pressures whoever wins. What is the core difference between the two organizations?",
+      "correctAnswer": "Parties try to win elections and run the government; interest groups try to influence policy without running candidates of their own",
+      "distractors": [
+        "Parties exist only in election years; interest groups exist all the time",
+        "Parties are banned from policy debates; interest groups write the laws",
+        "Parties represent one issue; interest groups represent all issues"
+      ],
+      "difficulty": "medium",
+      "explanation": "Political parties are linkage institutions whose main job is winning office: they nominate candidates and organize government. Interest groups pursue policy goals by lobbying, research and public campaigns, but they do not nominate candidates under their own label.",
+      "memoryHook": "T-Rexy says: Parties run for power; groups push for policy.",
+      "tags": [
+        "political-parties",
+        "interest-groups",
+        "linkage-institutions"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a convention hall with candidate podiums on one side and a row of advocacy booths along the wall on the other. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Parties seek office; interest groups seek influence.",
+        "title": "OFFICE VERSUS INFLUENCE"
+      }
+    },
+    {
+      "id": "WCV12_056",
+      "question": "A naturalization applicant is asked to name the two major political parties in the United States today. Which answer is correct?",
+      "correctAnswer": "The Democratic Party and the Republican Party",
+      "distractors": [
+        "The Federalist Party and the Democratic-Republican Party",
+        "The Whig Party and the Know-Nothing Party",
+        "The Liberal Party and the Conservative Party"
+      ],
+      "difficulty": "easy",
+      "explanation": "The two major parties on the naturalization test are the Democratic and Republican parties. Single-member districts and plurality elections make it hard for third parties to win office, though third parties still shape debates and sometimes outcomes.",
+      "memoryHook": "T-Rexy says: Democrats and Republicans are the two major parties.",
+      "tags": [
+        "political-parties",
+        "uscis-civics",
+        "two-party-system"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two large convention halls facing each other across a wide plaza, crowds streaming into both. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The two major parties are Democratic and Republican.",
+        "title": "THE TWO MAJOR PARTIES"
+      }
+    },
+    {
+      "id": "WCV12_057",
+      "question": "A news outlet investigates a mayor's contracts, publishes what it finds, and public pressure forces an official inquiry. Which role of the media is on display?",
+      "correctAnswer": "The watchdog role - the press monitors government and exposes wrongdoing",
+      "distractors": [
+        "The gatekeeper role - the press decides which candidates may run",
+        "The scorekeeper role - the press counts the official votes",
+        "The agenda role - the press writes the city's budget"
+      ],
+      "difficulty": "easy",
+      "explanation": "A free press serves as a watchdog between citizens and government: it investigates, publicizes misconduct and forces officials to answer in public. That checking role is one reason the First Amendment protects the press.",
+      "memoryHook": "T-Rexy says: The press watches the powerful so citizens do not have to guess.",
+      "tags": [
+        "media",
+        "watchdog",
+        "first-amendment"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a reporter with a notebook and camera standing outside a city hall records office, sunlight through tall windows. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The watchdog press investigates and exposes wrongdoing.",
+        "title": "THE WATCHDOG PRESS"
+      }
+    },
+    {
+      "id": "WCV12_058",
+      "question": "Every issue a newsroom covers pushes some other issue off the front page, and the topics the media emphasize become the topics voters say matter most. Which media power explains that pattern?",
+      "correctAnswer": "Agenda-setting - heavy coverage tells the public which issues to think about",
+      "distractors": [
+        "Framing alone - word choice decides every voter's final choice",
+        "Censorship - the government approves the front page in advance",
+        "Equal time - every issue must receive identical coverage by law"
+      ],
+      "difficulty": "medium",
+      "explanation": "News organizations set the public agenda by choosing what to cover prominently and repeatedly. Voters tend to rank heavily covered issues as most important, which gives editors and producers real influence over political debate.",
+      "memoryHook": "T-Rexy says: Coverage decides what the country argues about.",
+      "tags": [
+        "media",
+        "agenda-setting",
+        "public-opinion"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a newsroom wall of glowing screens with one large story board in the center and smaller boards dimmed at the edges. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Agenda-setting: coverage signals which issues matter.",
+        "title": "WHAT GETS COVERED COUNTS"
+      }
+    },
+    {
+      "id": "WCV12_059",
+      "question": "A poll claims a challenger leads by 20 points, but the pollster only called landlines during weekday mornings and asked loaded questions. Why should a careful reader distrust the result?",
+      "correctAnswer": "The sample was not representative and the wording was biased - a scientific poll needs a random, representative sample and neutral questions",
+      "distractors": [
+        "All polls are illegal before an election, so the result cannot be real",
+        "Polls must survey every voter in the state to mean anything",
+        "A 20-point lead is mathematically impossible in any election"
+      ],
+      "difficulty": "medium",
+      "explanation": "Scientific polling depends on random sampling so every voter has a known chance of being chosen, a sample that mirrors the electorate, and neutrally worded questions. Skewed samples and push-poll wording produce numbers that describe the method, not the public.",
+      "memoryHook": "T-Rexy says: Bad samples and loaded words make bad numbers.",
+      "tags": [
+        "polling",
+        "public-opinion",
+        "media-literacy"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a researcher at a desk with a phone list crossed out and a balanced chart of many kinds of households beside it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Trust polls with random samples and neutral wording.",
+        "title": "RANDOM SAMPLE, NEUTRAL WORDS"
+      }
+    },
+    {
+      "id": "WCV12_060",
+      "question": "A baby is born in Seattle to parents visiting from another country, and a classmate insists the baby cannot be a US citizen. Under the Fourteenth Amendment, who is right?",
+      "correctAnswer": "The baby is a US citizen - the Amendment grants citizenship to all persons born or naturalized in the United States",
+      "distractors": [
+        "The classmate - citizenship passes only through citizen parents",
+        "The baby is a citizen only if Congress approves the birth",
+        "The baby becomes a citizen automatically at age 18"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Fourteenth Amendment's Citizenship Clause makes anyone born on US soil and subject to its jurisdiction a citizen, overturning the Dred Scott holding that Black Americans could not be citizens. Naturalization is the second path the clause names.",
+      "memoryHook": "T-Rexy says: Born here means citizen here - that is the clause.",
+      "tags": [
+        "citizenship",
+        "fourteenth-amendment",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a hospital window at dawn with a newborn nursery and a city skyline of cranes and bridges behind it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Birth on US soil confers citizenship under the 14th Amendment.",
+        "title": "BORN HERE, CITIZEN HERE"
+      }
+    },
+    {
+      "id": "WCV12_061",
+      "question": "An immigrant has been a lawful permanent resident for five years, reads and writes English, knows US civics, and has good moral character. What final steps turn a resident into a citizen?",
+      "correctAnswer": "Naturalization - applying, being interviewed and tested, and taking the Oath of Allegiance",
+      "distractors": [
+        "Registration - signing a voter roll at the county office",
+        "Sponsorship - being claimed by a citizen employer",
+        "Residency alone - the five years complete the process automatically"
+      ],
+      "difficulty": "medium",
+      "explanation": "Naturalization is the legal process by which an immigrant becomes a citizen: an application, biometrics, an interview with English and civics tests, and the Oath of Allegiance, in which the new citizen renounces foreign allegiances and swears to support the Constitution.",
+      "memoryHook": "T-Rexy says: Application, interview, civics test, then the oath.",
+      "tags": [
+        "naturalization",
+        "citizenship",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a row of new citizens standing with raised right hands in a courthouse hall, small flags on every chair. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Naturalization ends with the Oath of Allegiance.",
+        "title": "THE OATH COMPLETES IT"
+      }
+    },
+    {
+      "id": "WCV12_062",
+      "question": "A naturalization applicant is asked for one responsibility that belongs only to US citizens, as opposed to everyone living in the country. Which answer fits?",
+      "correctAnswer": "Serve on a jury and vote in federal elections - both are citizen-only",
+      "distractors": [
+        "Obey the law and pay taxes - both are citizen-only",
+        "Get a driver's license and own property - both are citizen-only",
+        "Attend school and hold a job - both are citizen-only"
+      ],
+      "difficulty": "easy",
+      "explanation": "Everyone in the United States must obey the law and pay taxes, citizen or not. Jury service and voting in federal elections are reserved to citizens, and the naturalization test lists them as the two citizen-only responsibilities.",
+      "memoryHook": "T-Rexy says: Obeying and paying are for everyone; juries and federal votes are for citizens.",
+      "tags": [
+        "citizenship",
+        "civic-responsibilities",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a jury box of citizens on one side of a courtroom and a voting booth line visible through the window. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Jury service and federal voting are citizen-only responsibilities.",
+        "title": "CITIZENS ONLY: JURIES AND VOTES"
+      }
+    },
+    {
+      "id": "WCV12_063",
+      "question": "A state tries to require voters to be 21, pay a poll tax, and pass a literacy test in federal elections. Which combination of constitutional change and law dismantled rules like these?",
+      "correctAnswer": "The 15th, 19th, 24th and 26th Amendments plus the Voting Rights Act of 1965 - barring denial of the vote by race and by sex, banning poll taxes in federal elections, lowering the voting age to 18, and banning literacy tests",
+      "distractors": [
+        "The 12th and 22nd Amendments plus the Federalist Papers",
+        "The 9th and 10th Amendments plus a presidential proclamation",
+        "The 2nd and 3rd Amendments plus the Judiciary Act of 1789"
+      ],
+      "difficulty": "hard",
+      "explanation": "Suffrage expanded by amendment - race (15th), sex (19th), poll taxes (24th), age 18 (26th) - and the Voting Rights Act of 1965 enforced the promise by suspending literacy tests and requiring federal review of election changes in covered jurisdictions.",
+      "memoryHook": "T-Rexy says: Amendments promised it; the Voting Rights Act enforced it.",
+      "tags": [
+        "voting-rights-act",
+        "suffrage",
+        "civil-rights"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of voters of many generations standing in one line outside a polling place at sunrise. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Voting Rights Act of 1965 banned literacy tests.",
+        "title": "PROMISE PLUS ENFORCEMENT"
+      }
+    },
+    {
+      "id": "WCV12_064",
+      "question": "A president directs the Federal Aviation Administration to rewrite safety rules, the Environmental Protection Agency to enforce clean-air law, and the Treasury to collect taxes. Which part of government is doing this daily governing?",
+      "correctAnswer": "The executive branch's departments and agencies - the federal bureaucracy that carries out the laws",
+      "distractors": [
+        "The federal judiciary - judges who write safety and tax rules",
+        "Congressional committees - members who collect taxes and inspect planes",
+        "State governments - governors who run federal programs directly"
+      ],
+      "difficulty": "easy",
+      "explanation": "Most federal law reaches daily life through the executive departments and agencies Congress creates and funds. Their rule-making must stay inside the statutes that authorize them, and both Congress (through oversight and funding) and the courts (through review) check them.",
+      "memoryHook": "T-Rexy says: Agencies turn statutes into daily rules - inside the law's limits.",
+      "tags": [
+        "bureaucracy",
+        "executive-branch",
+        "agencies"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a wide government building with many office windows lit, inspectors and clerks moving between desks and filing shelves. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Departments and agencies carry out the laws day to day.",
+        "title": "WHERE LAWS MEET DAILY LIFE"
+      }
+    },
+    {
+      "id": "WCV12_065",
+      "question": "Congress cuts an agency's budget to zero for one program and holds televised hearings into another agency's failures. Which congressional tool is at work in both cases?",
+      "correctAnswer": "Oversight - Congress checks the executive branch through funding, hearings and investigations",
+      "distractors": [
+        "Judicial review - Congress strikes down agency rules as a court",
+        "Pardon power - Congress forgives the agency's officials",
+        "Ratification - Congress approves the agency's treaties"
+      ],
+      "difficulty": "medium",
+      "explanation": "Congressional oversight - hearings, investigations, reporting requirements and the power of the purse - is how the legislative branch supervises the bureaucracy between elections. Refusing to fund a program is the bluntest version of the same tool.",
+      "memoryHook": "T-Rexy says: Hearings and the budget are Congress's leash on agencies.",
+      "tags": [
+        "oversight",
+        "congress",
+        "checks-and-balances"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a hearing room with legislators behind a long dais questioning seated agency officials, cameras along the wall. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Oversight: hearings, investigations and funding control.",
+        "title": "HEARINGS AND THE PURSE"
+      }
+    },
+    {
+      "id": "WCV12_066",
+      "question": "Two states argue over a river boundary, and the Constitution sends their dispute straight to one court rather than up through the trial courts. Which court, and why?",
+      "correctAnswer": "The Supreme Court, exercising original jurisdiction - cases involving states begin there",
+      "distractors": [
+        "A federal district court, exercising appellate jurisdiction over the states",
+        "The court of appeals, because state disputes are always appeals",
+        "An international court, because rivers are governed by treaty alone"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article III gives the Supreme Court original jurisdiction in cases affecting ambassadors and those in which a state is a party, so state-versus-state suits start and end there. Nearly everything else arrives by appeal, which is the Court's appellate jurisdiction.",
+      "memoryHook": "T-Rexy says: State against state goes straight to the top court.",
+      "tags": [
+        "original-jurisdiction",
+        "supreme-court",
+        "article-iii"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two state capitol domes on opposite banks of a wide river with a single marble courthouse on a bridge between them. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Supreme Court hears state-versus-state cases first.",
+        "title": "STRAIGHT TO THE TOP"
+      }
+    },
+    {
+      "id": "WCV12_067",
+      "question": "A governor commands the state National Guard during a flood, but the President later federalizes the same units for overseas duty. What does the switch illustrate?",
+      "correctAnswer": "Dual status under federalism - the Guard serves the governor in state service and the President when called into federal service",
+      "distractors": [
+        "A violation of the Third Amendment by both officials",
+        "The end of the state militia system under the 27th Amendment",
+        "A recall election triggered automatically by the deployment"
+      ],
+      "difficulty": "medium",
+      "explanation": "The National Guard is the modern form of the state militia the Constitution divides between state and federal control. Governors command it for state emergencies; the President may call it into federal service, and the chain of command follows the status.",
+      "memoryHook": "T-Rexy says: Same soldiers, two possible commanders - status decides.",
+      "tags": [
+        "national-guard",
+        "federalism",
+        "commander-in-chief"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of rescue boats and uniformed guard members helping residents during a flooded street, a state flag and a national flag on two poles. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Guard answers to the governor at home, the President when federalized.",
+        "title": "TWO COMMANDERS, ONE GUARD"
+      }
+    },
+    {
+      "id": "WCV12_068",
+      "question": "A citizen wants to influence a bill: she testifies at a hearing, joins a group that lobbies, writes her representative and campaigns in the primary. Which statement best describes what she is using?",
+      "correctAnswer": "Linkage institutions and participation channels - parties, groups, media and elections connect citizens to government between and during campaigns",
+      "distractors": [
+        "Reserved powers - citizens hold the Tenth Amendment powers personally",
+        "Judicial review - citizens may strike down bills they oppose",
+        "Executive privilege - citizens may attend all government meetings by right"
+      ],
+      "difficulty": "medium",
+      "explanation": "Political scientists call parties, interest groups, elections and the media linkage institutions because they connect people's preferences to government action. Participation runs wider than voting: testifying, lobbying, contacting officials and campaigning all push preferences into the system.",
+      "memoryHook": "T-Rexy says: Voting is one channel - hearings, groups and campaigns are others.",
+      "tags": [
+        "participation",
+        "linkage-institutions",
+        "civic-engagement"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a citizen speaking at a hearing microphone while neighbors with plain signs and clipboards wait their turn. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Citizens influence government through many channels beyond voting.",
+        "title": "MORE CHANNELS THAN VOTING"
+      }
+    },
+    {
+      "id": "WCV12_069",
+      "question": "An incumbent representative wins easily year after year: the district was drawn to favor her party, she raises far more money, and local coverage treats her as the default. Which set of advantages explains her streak?",
+      "correctAnswer": "Incumbency advantages - favorable district lines (gerrymandering), fundraising strength and name recognition",
+      "distractors": [
+        "Term limits - the Constitution bars challengers from running",
+        "The 17th Amendment - it assigns House seats by seniority",
+        "Closed primaries alone - only incumbents may enter them"
+      ],
+      "difficulty": "hard",
+      "explanation": "Incumbents start with name recognition, donor networks, staff and a record they can campaign on, and districts drawn by the party in power (gerrymandering) can lock in those advantages. The Constitution sets no House term limits, so the advantage compounds until voters or a primary end it.",
+      "memoryHook": "T-Rexy says: Recognition, money and drawn lines - the incumbent's three walls.",
+      "tags": [
+        "incumbency",
+        "gerrymandering",
+        "elections"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a map with one district outlined in a winding ribbon shape, a campaign office window full of posters beside it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Incumbency brings recognition, money and often favorable lines.",
+        "title": "THE INCUMBENT'S THREE WALLS"
+      }
+    },
+    {
+      "id": "WCV12_070",
+      "question": "A PAC pools contributions and gives them to candidates, a super PAC raises unlimited sums for independent ads, and a lobbyist meets a legislator to argue a bill. Which statement sorts the three correctly?",
+      "correctAnswer": "PACs donate limited amounts directly to candidates; super PACs spend independently and cannot coordinate with campaigns; lobbyists advocate directly to officials",
+      "distractors": [
+        "PACs and super PACs are the same thing and both coordinate with campaigns",
+        "Lobbyists donate unlimited sums; PACs may only run advertisements",
+        "Super PACs donate directly to candidates; PACs may only lobby"
+      ],
+      "difficulty": "hard",
+      "explanation": "After Citizens United and related rulings, independent-spending groups (super PACs) may raise and spend unlimited sums but cannot donate to or coordinate with candidates. Traditional PACs accept limited contributions and donate limited amounts directly, and lobbying is direct advocacy aimed at officials - a First Amendment petition activity.",
+      "memoryHook": "T-Rexy says: Limited direct gifts, unlimited independent ads, direct advocacy - three lanes.",
+      "tags": [
+        "campaign-finance",
+        "pacs",
+        "lobbying"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of three lanes on a civic plaza - one with small donation envelopes, one with a billboard crew, one with a meeting room door. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "PACs give limited direct donations; super PACs spend independently.",
+        "title": "THREE LANES OF INFLUENCE"
+      }
+    },
+    {
+      "id": "WCV12_071",
+      "question": "Washington entered the Union and adopted its state constitution in the same year, an event marked by the new state immediately writing a Declaration of Rights as the opening article of its charter. Which year was it?",
+      "correctAnswer": "1889 - Washington became the 42nd state and adopted the Washington Constitution",
+      "distractors": [
+        "1853 - Washington Territory was organized and the constitution was written then",
+        "1912 - statehood and the constitution both arrived with the direct-democracy amendments",
+        "1846 - the Oregon Treaty set the border and Washington adopted its constitution"
+      ],
+      "difficulty": "easy",
+      "explanation": "Washington achieved statehood on November 11, 1889, as the 42nd state, and voters ratified the Washington Constitution that same year. The territorial period came earlier, beginning in 1853; direct-democracy amendments arrived more than twenty years after statehood.",
+      "memoryHook": "T-Rexy says: Statehood and the state constitution share one year - 1889.",
+      "tags": [
+        "washington-constitution",
+        "statehood",
+        "wa-1889"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a crowd outside a new domed capitol in 1889 with construction scaffolding still on one wing and flags flying. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington statehood and its constitution both date to 1889.",
+        "title": "STATEHOOD AND CONSTITUTION, 1889"
+      }
+    },
+    {
+      "id": "WCV12_072",
+      "question": "A student opens the Washington Constitution to find the state's own bill of rights and is told to start at the very beginning of the document. Where are Washington's core individual rights listed?",
+      "correctAnswer": "Article I, the Declaration of Rights - the opening article of the Washington Constitution",
+      "distractors": [
+        "Article II - the legislative article lists all individual rights",
+        "The Preamble alone - Washington has no separate rights article",
+        "An appendix added in 1972 - the original document had no rights list"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I of the Washington Constitution is its Declaration of Rights, covering subjects such as free speech, religion, due process, jury trial, privacy and the right to bear arms. It stands first in the document, ahead of the articles that build the branches of state government.",
+      "memoryHook": "T-Rexy says: Washington puts its rights first - Article I, the Declaration of Rights.",
+      "tags": [
+        "washington-constitution",
+        "declaration-of-rights",
+        "article-i"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of the first page of a large state constitution opened on a reading desk, a bookmark at its opening article. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Article I is Washington's Declaration of Rights.",
+        "title": "RIGHTS COME FIRST"
+      }
+    },
+    {
+      "id": "WCV12_073",
+      "question": "Police in Washington search a home in a way lawyers argue violates privacy. The defense insists the state constitution can protect the resident even if the federal charter, as courts read it, would allow the search. Is that argument sound in Washington?",
+      "correctAnswer": "Yes - Washington courts read Article I independently, and its privacy protection is in places more protective than the federal Fourth Amendment",
+      "distractors": [
+        "No - a state constitution can never protect a right more than the US Constitution does",
+        "No - state constitutions apply only to taxes and elections",
+        "Yes, but only because Washington judges are elected rather than appointed"
+      ],
+      "difficulty": "hard",
+      "explanation": "State constitutions set a floor of their own, not a ceiling: the US Constitution guarantees a minimum of rights, and states may protect more. Washington courts have held that Article I, section 7, protecting private affairs from disturbance without authority of law, can be more protective than the Fourth Amendment.",
+      "memoryHook": "T-Rexy says: Federal rights are the floor - Washington may build higher.",
+      "tags": [
+        "washington-constitution",
+        "privacy",
+        "article-i"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a house at dusk with a glowing shield shape over its roof while a searchlight beam stops at the property line. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington's Article I can protect rights beyond the federal floor.",
+        "title": "THE FLOOR, NOT THE CEILING"
+      }
+    },
+    {
+      "id": "WCV12_074",
+      "question": "A reader flips between the US Constitution and the Washington Constitution and notices one is a slim framework while the other runs to many times its length, regulating subjects the federal charter never mentions. Which pairing is accurate?",
+      "correctAnswer": "The Washington Constitution is far longer and more detailed - it reaches subjects such as education, public lands and local government in specific terms",
+      "distractors": [
+        "The US Constitution is longer - it regulates schools and county governments in detail",
+        "Both documents are about the same length and cover the same subjects",
+        "The Washington Constitution is shorter - it copies the federal text word for word"
+      ],
+      "difficulty": "medium",
+      "explanation": "The US Constitution is a short framework of roughly seven to eight thousand words. The Washington Constitution is many times longer and far more detailed - it commands a thorough and uniform system of public schools as a paramount duty, governs state lands and debt, and has been amended more than a hundred times.",
+      "memoryHook": "T-Rexy says: A framework for the nation, a rulebook for the state.",
+      "tags": [
+        "washington-constitution",
+        "comparison",
+        "state-constitutions"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a slim parchment volume standing beside a very thick bound state code on a library shelf. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington's constitution is much longer and more detailed than the federal one.",
+        "title": "FRAMEWORK VERSUS RULEBOOK"
+      }
+    },
+    {
+      "id": "WCV12_075",
+      "question": "Frustrated with the legislature, Washington citizens draft a new law themselves, gather signatures, and put the measure on the ballot for voters to enact directly. Which tool of direct democracy are they using?",
+      "correctAnswer": "The initiative - citizens propose a law and voters enact or reject it at the ballot",
+      "distractors": [
+        "The referendum - the legislature sends its own act to the voters",
+        "The recall - voters remove an official before the term ends",
+        "The primary - voters choose a party's nominees"
+      ],
+      "difficulty": "easy",
+      "explanation": "The initiative lets citizens draft legislation, gather the required signatures, and place the measure before the voters (or first before the legislature, depending on the type). Washington voters gained the initiative by constitutional amendment in 1912.",
+      "memoryHook": "T-Rexy says: Initiative: citizens write it, voters decide it.",
+      "tags": [
+        "initiative",
+        "direct-democracy",
+        "washington-elections"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of citizens at a folding table collecting signatures on clipboards outside a public library. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The initiative lets citizens propose laws directly.",
+        "title": "CITIZENS PROPOSE THE LAW"
+      }
+    },
+    {
+      "id": "WCV12_076",
+      "question": "The Washington legislature passes a controversial law, and opponents quickly gather signatures to force the law onto the ballot so voters can approve or reject it before it settles in. Which tool are they using?",
+      "correctAnswer": "The popular referendum - citizens refer a just-passed legislative act to a vote of the people",
+      "distractors": [
+        "The initiative - citizens write an entirely new law from scratch",
+        "The recall - citizens remove the legislators who passed the law",
+        "The veto - the governor returns the law to the legislature"
+      ],
+      "difficulty": "medium",
+      "explanation": "The popular referendum lets voters challenge an act the legislature has just passed: gather enough valid signatures within the deadline and the act goes to the ballot, where voters approve or reject it. It is the people's veto over a legislative act, distinct from writing a new law by initiative.",
+      "memoryHook": "T-Rexy says: Referendum: the legislature wrote it, the people review it.",
+      "tags": [
+        "referendum",
+        "direct-democracy",
+        "washington-elections"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of voters reviewing a thick legislative document at a ballot drop box outside a county elections office. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A popular referendum sends a passed law to the voters.",
+        "title": "THE PEOPLE REVIEW THE LAW"
+      }
+    },
+    {
+      "id": "WCV12_077",
+      "question": "On a Washington ballot, voters find a measure the legislature itself voted to send to them for a final yes or no, with no citizen signature drive behind it. Which device put it there?",
+      "correctAnswer": "A legislative referendum - lawmakers referred their own measure to the voters",
+      "distractors": [
+        "A popular referendum - citizens petitioned against a passed law",
+        "An initiative - citizens drafted the measure by petition",
+        "A recall - voters are deciding whether to remove an official"
+      ],
+      "difficulty": "medium",
+      "explanation": "Washington knows two kinds of referendum. In a legislative referendum (or referendum bill), the legislature itself refers a measure - often a constitutional amendment or a bond proposal - to the voters for approval. In a popular referendum, citizens force the referral by petition.",
+      "memoryHook": "T-Rexy says: Same ballot line, two doors: lawmakers can refer measures too.",
+      "tags": [
+        "referendum",
+        "legislative-referendum",
+        "direct-democracy"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of legislators in a domed chamber handing a sealed measure down the steps to waiting voters. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A legislative referendum is referred by the legislature itself.",
+        "title": "LAWMAKERS ASK THE VOTERS"
+      }
+    },
+    {
+      "id": "WCV12_078",
+      "question": "Voters in a Washington city collect signatures demanding a special election on whether their mayor should be removed for misconduct, two years before the term expires. Which tool are they using, and what must they show?",
+      "correctAnswer": "The recall - voters may remove an elected official, and the charges must allege misfeasance, malfeasance or violation of the oath of office",
+      "distractors": [
+        "The initiative - voters may replace any official by passing a law",
+        "Impeachment - voters charge the official and the Senate tries the case",
+        "The referendum - voters may repeal the election result itself"
+      ],
+      "difficulty": "medium",
+      "explanation": "Washington's recall, adopted in 1912, lets voters remove elected officials mid-term, but it is not a no-confidence vote: the petition must charge misfeasance, malfeasance or an oath violation, and a court reviews whether the charges are legally sufficient before the election is held.",
+      "memoryHook": "T-Rexy says: Recall removes the official - but only for charged misconduct.",
+      "tags": [
+        "recall",
+        "direct-democracy",
+        "washington-elections"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of voters signing a petition at a city hall entrance while an official watches from an upper window. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Recall removes officials mid-term for charged misconduct.",
+        "title": "REMOVING AN OFFICIAL MID-TERM"
+      }
+    },
+    {
+      "id": "WCV12_079",
+      "question": "Washington's original 1889 constitution gave lawmaking entirely to the legislature. Within a generation, voters had amended it three times to claim direct lawmaking and removal powers for themselves. Which sequence is correct?",
+      "correctAnswer": "Initiative and referendum were added by amendment in 1912 (with the first initiative measures following), and recall in 1912 as well - all in the 1911-1912 reform wave, alongside the direct primary era changes",
+      "distractors": [
+        "All three tools stood in the original 1889 text unchanged",
+        "Initiative arrived in 1889, referendum in 1950 and recall in 2000",
+        "The tools were granted by Congress in the statehood act of 1889"
+      ],
+      "difficulty": "hard",
+      "explanation": "The 1889 constitution contained none of the three devices. Progressive-era voters amended it to add the initiative and referendum in 1912 and the recall in the same reform period (1911-1912) - the same wave that swept direct-democracy reforms across the American West.",
+      "memoryHook": "T-Rexy says: 1889 built the legislature; 1911-1912 handed voters their own tools.",
+      "tags": [
+        "direct-democracy",
+        "history",
+        "washington-constitution"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a 1912 street scene with citizens pinning reform notices on a board outside a county courthouse. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Initiative, referendum and recall came by amendment in 1911-1912.",
+        "title": "THE 1911-1912 REFORM WAVE"
+      }
+    },
+    {
+      "id": "WCV12_080",
+      "question": "Two signature drives run in Washington: one for an initiative and one for a popular referendum. A volunteer asks how the signature requirements compare and what they are based on. Which answer is safest and correct?",
+      "correctAnswer": "Both thresholds are set as a percentage of the votes cast for governor at the last gubernatorial election, and the popular referendum's percentage is lower than the initiative's",
+      "distractors": [
+        "Both require signatures from exactly half of all registered voters",
+        "The referendum requires more signatures than the initiative in every case",
+        "Neither tool requires signatures - filing a fee alone places a measure on the ballot"
+      ],
+      "difficulty": "hard",
+      "explanation": "Washington ties both signature thresholds to turnout in the governor's race: each is a set percentage of the votes cast for governor at the most recent gubernatorial election, and the popular referendum's percentage is lower than the initiative's - which fits its role as a quick check on a law just passed.",
+      "memoryHook": "T-Rexy says: Thresholds ride on the governor's race - and the referendum bar sits lower.",
+      "tags": [
+        "initiative",
+        "referendum",
+        "signature-thresholds"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two stacks of signed petition sheets on a table, one stack visibly taller than the other, beside a ballot box. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Both thresholds are percentages of the last governor's vote; the referendum's is lower.",
+        "title": "PERCENTAGES OF THE GOVERNOR'S RACE"
+      }
+    },
+    {
+      "id": "WCV12_081",
+      "question": "A civics class reads that the tribes within Washington's borders are not clubs, counties or federal agencies, and that the state cannot simply legislate over them. What status explains that limit?",
+      "correctAnswer": "Tribal sovereignty - federally recognized tribes are sovereign governments whose authority predates the United States",
+      "distractors": [
+        "Home rule - tribes govern only what a city charter allows",
+        "Special-district status - tribes operate as units of county government",
+        "Federal employment status - tribal councils are agencies of the state"
+      ],
+      "difficulty": "medium",
+      "explanation": "Federally recognized tribes are sovereign political communities: their governing authority is inherent and predates the US Constitution, and their relationship runs government-to-government with the United States. Washington contains 29 federally recognized tribes, each with its own government.",
+      "memoryHook": "T-Rexy says: Tribes are governments, not interest groups or agencies.",
+      "tags": [
+        "tribal-sovereignty",
+        "tribal-government",
+        "since-time-immemorial"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a tribal council building with a tribal flag flying beside a river at dawn, mountains behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Tribes are sovereign governments with inherent authority.",
+        "title": "SOVEREIGN SINCE TIME IMMEMORIAL"
+      }
+    },
+    {
+      "id": "WCV12_082",
+      "question": "A state agency plans a policy affecting treaty fishing and consults a tribal government as one government meeting another, not as a stakeholder to be notified afterward. Which principle and which Washington agreement frame that duty?",
+      "correctAnswer": "Government-to-government relations - formalized for Washington by the 1989 Centennial Accord between the state and the tribes",
+      "distractors": [
+        "The Origination Clause - revenue measures begin the consultation",
+        "The Centennial Accord of 1889 - signed at statehood by the territorial governor",
+        "Home rule - cities and tribes exchange services by charter"
+      ],
+      "difficulty": "hard",
+      "explanation": "In 1989 - the centennial of statehood - Washington and the federally recognized tribes signed the Centennial Accord, committing the state to government-to-government relations with each tribe. Consultation with tribal governments follows from their sovereign status, not from public-comment courtesy.",
+      "memoryHook": "T-Rexy says: 1989: one hundred years in, the state pledged government-to-government dealing.",
+      "tags": [
+        "centennial-accord",
+        "tribal-government",
+        "government-to-government"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of state and tribal leaders seated as equals at one long table with two flags standing side by side. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The 1989 Centennial Accord frames government-to-government relations.",
+        "title": "THE CENTENNIAL ACCORD, 1989"
+      }
+    },
+    {
+      "id": "WCV12_083",
+      "question": "In the 1850s, a territorial governor signed treaties in which tribes gave up vast lands but kept the right to fish at their usual and accustomed places. A century later, a federal judge enforced that promise. What did the Boldt decision (1974) hold?",
+      "correctAnswer": "The treaty language reserved real fishing rights - treaty tribes were entitled to up to half the harvestable fish, with the treaties read as the tribes would have understood them",
+      "distractors": [
+        "The treaties were ceremonial and reserved no enforceable rights",
+        "Fishing rights ended automatically at statehood in 1889",
+        "The state could regulate treaty fishing exactly like all other fishing with no treaty limit"
+      ],
+      "difficulty": "hard",
+      "explanation": "In United States v. Washington (1974), Judge George Boldt held that the Stevens treaties of 1854-1855 reserved the tribes' right to take fish at their usual and accustomed grounds, entitling treaty tribes to up to half of the harvestable catch. The US Supreme Court largely affirmed the ruling, and co-management of the fishery followed.",
+      "memoryHook": "T-Rexy says: Reserved rights are rights kept, not rights granted.",
+      "tags": [
+        "treaty-rights",
+        "boldt-decision",
+        "stevens-treaties"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of salmon leaping in a river below a bridge while tribal fishers and state biologists review charts on the bank. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Boldt (1974): treaties reserved up to half the harvestable fish.",
+        "title": "RIGHTS KEPT, NOT GRANTED"
+      }
+    },
+    {
+      "id": "WCV12_084",
+      "question": "A student asks why treaty promises made by the United States to tribes in the 1850s still bind Washington today, when the state did not sign them. Which answer is correct?",
+      "correctAnswer": "Treaties are part of the supreme law of the land under the US Constitution, and Washington entered the Union subject to them - a state cannot erase federal treaty obligations",
+      "distractors": [
+        "They bind only as a courtesy that each legislature may end at will",
+        "They expired when the territorial government became a state",
+        "They bind because the Washington Constitution copied them word for word"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article VI makes treaties made under US authority part of the supreme law of the land. The treaties with Washington tribes were federal agreements, so statehood did not cancel them; Washington's own enabling terms also disclaimed state control over tribal lands and recognized federal authority.",
+      "memoryHook": "T-Rexy says: A treaty outranks a state's wish to forget it - supremacy again.",
+      "tags": [
+        "treaties",
+        "supremacy-clause",
+        "tribal-government"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an old treaty document in a glass case beneath two flags, a modern salmon river visible through the window behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Federal treaties bind the states under the Supremacy Clause.",
+        "title": "TREATIES OUTRANK STATEHOOD"
+      }
+    },
+    {
+      "id": "WCV12_085",
+      "question": "Washington's legislature has two chambers elected from the same map: every district elects one senator and two representatives. How many legislative districts does Washington have?",
+      "correctAnswer": "49 legislative districts, each sending one senator and two representatives to Olympia",
+      "distractors": [
+        "10 legislative districts, matching the congressional map",
+        "39 legislative districts, one for every county",
+        "98 legislative districts, one for every representative"
+      ],
+      "difficulty": "easy",
+      "explanation": "Washington is divided into 49 legislative districts of roughly equal population, redrawn after each census by a bipartisan redistricting commission. Each district elects one of the 49 senators and two of the 98 representatives.",
+      "memoryHook": "T-Rexy says: 49 districts, three legislators each - one senator, two representatives.",
+      "tags": [
+        "washington-legislature",
+        "districts",
+        "redistricting"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a wall map of a state divided into forty-nine district shapes with three pins placed in each district. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington has 49 legislative districts.",
+        "title": "FORTY-NINE DISTRICTS"
+      }
+    },
+    {
+      "id": "WCV12_086",
+      "question": "A Washington state senator wins election and will not face the voters again for a full presidential term cycle, while her House seatmates return to the ballot every two years. Which numbers describe the two chambers?",
+      "correctAnswer": "49 senators serving four-year terms; 98 representatives serving two-year terms",
+      "distractors": [
+        "49 senators serving two-year terms; 98 representatives serving four-year terms",
+        "50 senators serving six-year terms; 100 representatives serving two-year terms",
+        "39 senators serving four-year terms; 78 representatives serving two-year terms"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Washington Senate has 49 members, one per district, serving staggered four-year terms. The state House of Representatives has 98 members, two per district, all elected every two years - the same two-per-district pattern repeated statewide.",
+      "memoryHook": "T-Rexy says: Senate: 49 and four years. House: 98 and two years.",
+      "tags": [
+        "washington-legislature",
+        "senate",
+        "house"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two chamber doors side by side, one with a four-page calendar and one with a two-page calendar pinned beside it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "WA Senate: 49 members, 4-year terms. WA House: 98 members, 2-year terms.",
+        "title": "FORTY-NINE AND NINETY-EIGHT"
+      }
+    },
+    {
+      "id": "WCV12_087",
+      "question": "A bill passes the Washington Senate and House and reaches the governor, who supports most of it but objects to specific spending lines in the budget bill. What can the Washington governor do that the US President cannot?",
+      "correctAnswer": "Exercise a partial (section) veto - Washington's governor may veto individual sections or items of a bill, especially in appropriations, while the rest becomes law",
+      "distractors": [
+        "Rewrite the bill's text and enact the rewritten version directly",
+        "Send the bill to the voters as a mandatory referendum",
+        "Order the state supreme court to review the bill before signing"
+      ],
+      "difficulty": "medium",
+      "explanation": "Washington's governor holds one of the nation's stronger veto pens: the state constitution allows vetoing a section or sections of a bill, and appropriation items, without killing the whole measure. The federal President must sign or veto a bill entire - the US Supreme Court struck down the federal line-item veto.",
+      "memoryHook": "T-Rexy says: Washington's governor can veto a section and sign the rest.",
+      "tags": [
+        "governor",
+        "veto",
+        "washington-legislature"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a governor's desk with a budget document, most pages signed and one page marked with a red veto stamp shape. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington's governor has a section veto the President lacks.",
+        "title": "THE SECTION VETO"
+      }
+    },
+    {
+      "id": "WCV12_088",
+      "question": "A naturalization applicant living in Washington is asked to name the capital of her state - the city where the legislature meets and the governor works. Which answer is correct?",
+      "correctAnswer": "Olympia",
+      "distractors": [
+        "Seattle",
+        "Spokane",
+        "Tacoma"
+      ],
+      "difficulty": "easy",
+      "explanation": "Olympia, at the south end of Puget Sound, has been Washington's capital since territorial days and is home to the state capitol campus, the legislature and the governor's office. Seattle is the state's largest city but not its capital.",
+      "memoryHook": "T-Rexy says: The capital is Olympia - the biggest city is not the capital.",
+      "tags": [
+        "capital",
+        "olympia",
+        "uscis-civics"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a domed capitol building above a harbor town with evergreen hills behind it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington's capital is Olympia.",
+        "title": "OLYMPIA IS THE CAPITAL"
+      }
+    },
+    {
+      "id": "WCV12_089",
+      "question": "A Washington voter marks separate ballot choices for governor, lieutenant governor, secretary of state, attorney general, treasurer, auditor, superintendent of public instruction, commissioner of public lands and insurance commissioner. What is this arrangement called, and why does it matter?",
+      "correctAnswer": "A plural executive - voters separately elect nine statewide executives, so the governor cannot appoint or remove most of them",
+      "distractors": [
+        "A unitary executive - the governor appoints every statewide officer",
+        "A cabinet system - the legislature elects all nine officers",
+        "A commission government - the nine officers share the governorship equally"
+      ],
+      "difficulty": "hard",
+      "explanation": "Unlike the federal executive, where the President appoints the Cabinet, Washington divides executive power among nine separately elected officials. Each answers to the voters directly, so a governor cannot fire an attorney general or treasurer who disagrees - the design trades unified control for independent accountability.",
+      "memoryHook": "T-Rexy says: Nine executives, nine separate elections - the governor hires none of them.",
+      "tags": [
+        "plural-executive",
+        "washington-executive",
+        "elections"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of nine office doors in a row along a capitol corridor, each with its own ballot box in front. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington has a plural executive of nine elected officials.",
+        "title": "NINE EXECUTIVES, NINE ELECTIONS"
+      }
+    },
+    {
+      "id": "WCV12_090",
+      "question": "Match the job to the office: the state's chief elections officer who also keeps state records; the state's chief legal officer who represents Washington in court; the elected head of the public school system. Which offices, in order?",
+      "correctAnswer": "Secretary of State; Attorney General; Superintendent of Public Instruction",
+      "distractors": [
+        "Treasurer; Auditor; Commissioner of Public Lands",
+        "Insurance Commissioner; Lieutenant Governor; Treasurer",
+        "Attorney General; Secretary of State; Governor"
+      ],
+      "difficulty": "hard",
+      "explanation": "Washington's separately elected executives divide the work: the Secretary of State is the chief elections officer and custodian of state records, the Attorney General is the state's chief legal officer, and the Superintendent of Public Instruction heads the state school system (OSPI). The Treasurer, Auditor, Commissioner of Public Lands and Insurance Commissioner are likewise elected on their own.",
+      "memoryHook": "T-Rexy says: Elections: Secretary of State. Law: Attorney General. Schools: the Superintendent.",
+      "tags": [
+        "plural-executive",
+        "row-officers",
+        "washington-executive"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of three office doors with an elections seal, a scales emblem and a schoolhouse emblem above them in a row. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Secretary of State runs elections; AG is chief legal officer; SPI heads schools.",
+        "title": "WHO RUNS WHAT"
+      }
+    },
+    {
+      "id": "WCV12_091",
+      "question": "Washington's governor is elected statewide, serves as the state's chief executive, commands the state National Guard, proposes a budget and signs or vetoes bills. How long is one term, and how many terms may a governor serve?",
+      "correctAnswer": "Four-year terms, with no constitutional limit on the number of terms",
+      "distractors": [
+        "Two-year terms, limited to two terms by the constitution",
+        "Six-year terms, limited to one term by the constitution",
+        "Four-year terms, limited to two terms by the 22nd Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "Washington governors serve four-year terms and the state constitution sets no term limit on the office - unlike the US President, capped at two elected terms by the 22nd Amendment. Washington voters have in fact returned governors for third terms.",
+      "memoryHook": "T-Rexy says: Four years a term - and no state cap on how many.",
+      "tags": [
+        "governor",
+        "terms",
+        "washington-executive"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a governor's office with a four-page calendar and a national guard flag beside the state flag. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "WA governors serve four-year terms with no term limit.",
+        "title": "FOUR YEARS, NO CAP"
+      }
+    },
+    {
+      "id": "WCV12_092",
+      "question": "One Washington executive is elected to manage millions of acres of state trust lands - forests, farmland and aquatic lands whose income supports public schools and other public institutions - and leads the agency that manages them. Which office is it?",
+      "correctAnswer": "The Commissioner of Public Lands, who heads the Department of Natural Resources",
+      "distractors": [
+        "The State Treasurer, who heads the Department of Revenue",
+        "The State Auditor, who heads the Department of Ecology",
+        "The Insurance Commissioner, who heads the Parks Commission"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Commissioner of Public Lands, one of Washington's nine elected executives, leads the Department of Natural Resources. The office manages state trust lands whose timber, leases and other income benefit public schools and universities - a duty written into the state constitution at statehood.",
+      "memoryHook": "T-Rexy says: Trust lands pay for schools - the Lands Commissioner manages them.",
+      "tags": [
+        "commissioner-of-public-lands",
+        "plural-executive",
+        "trust-lands"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a forested hillside and shoreline managed under a survey map, a schoolhouse visible in the valley below. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The Commissioner of Public Lands runs DNR and the trust lands.",
+        "title": "LANDS THAT FUND SCHOOLS"
+      }
+    },
+    {
+      "id": "WCV12_093",
+      "question": "A Washington supreme court justice finishes a campaign in which voters statewide chose among candidates without party labels on the ballot. How many justices sit on the state's highest court, and how long is a term?",
+      "correctAnswer": "Nine justices, elected statewide to six-year terms in nonpartisan elections",
+      "distractors": [
+        "Seven justices, appointed by the governor for life",
+        "Nine justices, appointed by the legislature to four-year terms",
+        "Five justices, elected by district to two-year terms"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Washington Supreme Court has nine justices, elected statewide in nonpartisan elections to staggered six-year terms - a sharp contrast with the US Supreme Court, whose nine members are appointed and serve for life. The court sits in Olympia and is the final word on Washington law.",
+      "memoryHook": "T-Rexy says: State justices: elected, six years. Federal justices: appointed, for life.",
+      "tags": [
+        "washington-courts",
+        "supreme-court",
+        "elections"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a bench with nine chairs in a temple-like courtroom, ballots being counted in an office below. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "WA Supreme Court: nine elected justices, six-year terms.",
+        "title": "ELECTED JUSTICES, SIX YEARS"
+      }
+    },
+    {
+      "id": "WCV12_094",
+      "question": "A felony trial, a major civil suit and a family-law case all begin in the same kind of Washington court, while a mid-sized appeal from that court goes one level up before reaching the state supreme court. Which structure is this?",
+      "correctAnswer": "Superior courts are the trial courts of general jurisdiction in every county; the Court of Appeals is the intermediate appellate court; the state supreme court sits at the top",
+      "distractors": [
+        "District courts try all felonies; municipal courts hear all appeals; the supreme court tries cases first",
+        "The Court of Appeals tries felonies; superior courts hear only appeals",
+        "All cases begin in the state supreme court and are assigned downward"
+      ],
+      "difficulty": "hard",
+      "explanation": "Washington's court ladder mirrors the federal one with elected judges: superior courts, present in all 39 counties, are the general trial courts for felonies and major civil cases; the Court of Appeals, in three divisions, reviews most appeals; and the Washington Supreme Court reviews last. Below superior court sit district and municipal courts of limited jurisdiction.",
+      "memoryHook": "T-Rexy says: Superior tries, Appeals reviews, Supreme decides last.",
+      "tags": [
+        "washington-courts",
+        "superior-courts",
+        "court-of-appeals"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of three courthouse levels stacked like steps - a county trial court, a regional appeals court and a domed supreme court. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Superior courts try cases; the Court of Appeals reviews them.",
+        "title": "TRY, REVIEW, DECIDE"
+      }
+    },
+    {
+      "id": "WCV12_095",
+      "question": "Washington's counties run elections, record property, maintain roads and provide sheriffs and courts across the whole state, including its largest county, King, and small rural counties. How many counties does Washington have?",
+      "correctAnswer": "39 counties",
+      "distractors": [
+        "29 counties",
+        "49 counties",
+        "58 counties"
+      ],
+      "difficulty": "easy",
+      "explanation": "Washington has 39 counties, from King County (Seattle) to small counties such as Garfield and Wahkiakum. Each county elects officials including commissioners or a council, a sheriff, a prosecutor and an assessor, and counties serve as the state's arm for elections, records and courts.",
+      "memoryHook": "T-Rexy says: 39 counties carry the state's daily work.",
+      "tags": [
+        "counties",
+        "local-government",
+        "washington"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a state map divided into thirty-nine county shapes with a courthouse marker in each one. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington has 39 counties.",
+        "title": "THIRTY-NINE COUNTIES"
+      }
+    },
+    {
+      "id": "WCV12_096",
+      "question": "A Washington family gets drinking water from a public utility district, fire protection from a fire district, schooling from a school district and port services from a port district - none of them run by the city or county. What are these governments?",
+      "correctAnswer": "Special purpose districts - single-function local governments created under state law to deliver one service",
+      "distractors": [
+        "Federal agencies assigned to the neighborhood",
+        "Private companies that voters may not tax or govern",
+        "Tribal governments serving their enrolled citizens"
+      ],
+      "difficulty": "hard",
+      "explanation": "Washington is covered by well over a thousand special purpose districts - school, fire, water, sewer, port, hospital and public utility districts among them. Each is a separate local government, usually with its own elected board and taxing or rate authority, created to deliver one service across whatever boundaries fit that service.",
+      "memoryHook": "T-Rexy says: One service, one district, one elected board.",
+      "tags": [
+        "special-districts",
+        "local-government",
+        "washington"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of overlapping translucent service maps over one neighborhood - water lines, fire zones, school boundaries and port docks. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Special purpose districts deliver single services locally.",
+        "title": "ONE SERVICE, ONE DISTRICT"
+      }
+    },
+    {
+      "id": "WCV12_097",
+      "question": "In Washington's primary, a voter sees candidates of several parties for one office on a single ballot, and the same two names - sometimes from the same party - appear again in November. Which system produces that result?",
+      "correctAnswer": "The Top 2 primary - the two candidates with the most primary votes advance to the general election regardless of party",
+      "distractors": [
+        "A closed party primary - each party advances its own nominee to November",
+        "A runoff system - the legislature picks the final two candidates",
+        "Proportional representation - parties advance in proportion to their vote"
+      ],
+      "difficulty": "hard",
+      "explanation": "Washington voters adopted the Top 2 primary by initiative in 2004, and the US Supreme Court upheld it. Every voter uses one ballot, candidates state a party preference, and the top two finishers meet in the general election - which can pair two candidates who prefer the same party. It does not apply to presidential races, which use a separate presidential primary.",
+      "memoryHook": "T-Rexy says: Top 2: the ballot does not ask your party - the top two advance.",
+      "tags": [
+        "top-2-primary",
+        "washington-elections",
+        "primaries"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a single primary ballot funnel shape narrowing many candidate portraits down to two finalists. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Top 2 primary: the two highest vote-getters advance, any party.",
+        "title": "THE TOP TWO ADVANCE"
+      }
+    },
+    {
+      "id": "WCV12_098",
+      "question": "A Washington voter's ballot arrives at her home weeks before an election; she marks it at her kitchen table and returns it through the mail or an official drop box by Election Day. Which system is she using?",
+      "correctAnswer": "Vote-by-mail - Washington conducts elections by mail, sending a ballot to every registered voter",
+      "distractors": [
+        "Precinct-only voting - ballots exist only inside a polling place",
+        "Caucus voting - neighbors gather to choose in public",
+        "Absentee-only voting - mail ballots require a documented excuse"
+      ],
+      "difficulty": "easy",
+      "explanation": "Washington runs its elections primarily by mail: every registered voter is mailed a ballot, and counties provide drop boxes and in-person voting centers as backups. No excuse is needed - mail voting is the default method, adopted statewide after counties had already moved most voting to the mail.",
+      "memoryHook": "T-Rexy says: The ballot comes to the voter - mail is the default.",
+      "tags": [
+        "vote-by-mail",
+        "washington-elections",
+        "voting"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a voter sealing a ballot envelope at a kitchen table with an official drop box visible down the street. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington votes by mail; every registered voter gets a ballot.",
+        "title": "THE BALLOT COMES TO YOU"
+      }
+    },
+    {
+      "id": "WCV12_099",
+      "question": "A new Washington resident realizes on Election Day itself that she never registered. A friend says it is too late - registration closed weeks ago. Who is right under current Washington law?",
+      "correctAnswer": "The friend is wrong - Washington allows same-day registration in person at a county voting center up to and including Election Day",
+      "distractors": [
+        "The friend is right - Washington registration closes 30 days before every election with no exceptions",
+        "The resident may vote only if a registered voter vouches for her in writing",
+        "The resident may register on Election Day only for presidential elections"
+      ],
+      "difficulty": "hard",
+      "explanation": "Washington modernized registration in steps: online and mail registration close about eight days before an election, but in-person registration at a county elections office or voting center stays open through Election Day itself. Same-day registration means moving or forgetting does not cost a qualified voter the ballot.",
+      "memoryHook": "T-Rexy says: Forgot to register? In person, through Election Day, still counts.",
+      "tags": [
+        "same-day-registration",
+        "washington-elections",
+        "voter-registration"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a young voter registering at a county voting center counter on election morning, ballot in hand. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Washington offers in-person registration through Election Day.",
+        "title": "REGISTER THROUGH ELECTION DAY"
+      }
+    },
+    {
+      "id": "WCV12_100",
+      "question": "A 16-year-old in Tacoma fills out a voter registration form at her licensing office even though she cannot vote yet, and her registration will activate when she turns 18. Which Washington program is she using?",
+      "correctAnswer": "The Future Voter program - 16- and 17-year-olds may pre-register and are automatically registered when they become eligible",
+      "distractors": [
+        "The youth ballot program - 16-year-olds vote in school elections only",
+        "The junior elector program - teens cast provisional ballots that are counted at 18",
+        "The early registration ban - the form will be discarded as invalid"
+      ],
+      "difficulty": "hard",
+      "explanation": "Washington's Future Voter program lets 16- and 17-year-olds pre-register - at licensing offices, by mail, online and in school programs - and the registration takes effect automatically when they turn 18, with a first ballot following at the next election. Pre-registration is meant to make registration a habit before the first eligible election.",
+      "memoryHook": "T-Rexy says: Sign up at 16, vote at 18 - the registration waits for you.",
+      "tags": [
+        "future-voter",
+        "pre-registration",
+        "washington-elections"
+      ],
+      "imageUrl": "topic:washington-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a teenager handing a registration form across a licensing counter while a calendar shows a birthday circled ahead. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Future Voter: pre-register at 16 or 17, active at 18.",
+        "title": "SIGN UP AT SIXTEEN"
+      }
+    }
+  ]
+}

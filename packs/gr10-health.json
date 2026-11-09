@@ -1,11 +1,11 @@
 {
   "packId": "gr10-health",
   "title": "Health (10th Grade)",
-  "description": "Health (10th Grade) practice - 135 questions",
+  "description": "Health (10th Grade) practice - 144 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 135,
+  "totalQuestions": 144,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2717,6 +2717,247 @@
         "scene": "Mature educational illustration of two young adults talking openly on a park bench, relaxed body language showing mutual respect and clear communication. No readable text, no words, no letters, no numbers anywhere in the image.",
         "tip": "Consent is freely given, specific, and revocable at any time.",
         "title": "FREE, SPECIFIC, REVOCABLE"
+      }
+    },
+    {
+      "id": "HEA10_136",
+      "question": "A person agrees to an activity while sober, then becomes heavily intoxicated and is drifting in and out of awareness. Why can the earlier agreement not be relied on?",
+      "correctAnswer": "Consent must be present and ongoing - a person who becomes incapacitated can no longer consent or withdraw consent, so the activity must stop",
+      "distractors": [
+        "The earlier agreement lasts for the rest of the evening once given",
+        "The earlier agreement lasts unless the person manages to say no again",
+        "The earlier agreement can be relied on if witnesses heard it given"
+      ],
+      "explanation": "Affirmative consent is not a one-time contract. Because an incapacitated person cannot monitor the situation, communicate, or withdraw agreement, earlier consent loses its force the moment capacity is lost - a principle Washington CSHE teaching applies to alcohol, drugs, sleep, and illness alike.",
+      "memoryHook": "T-Rexy says: Consent must be ongoing - incapacitation ends its force at once.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent",
+        "incapacitation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a school nurse talking calmly with two older students in a health office about looking out for one another, reassuring atmosphere. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "When a person becomes incapacitated, earlier agreement can no longer be relied on.",
+        "title": "CONSENT MUST BE ONGOING"
+      }
+    },
+    {
+      "id": "HEA10_137",
+      "question": "Washington law (RCW 28A.300.475) requires comprehensive sexual health education for grades 9-12 to include which two topics by name?",
+      "correctAnswer": "Affirmative consent and bystander training",
+      "distractors": [
+        "Affirmative consent and driver safety",
+        "Bystander training and first aid certification",
+        "Nutrition planning and bystander training"
+      ],
+      "explanation": "The Comprehensive Sexual Health Education law names affirmative consent and bystander training as required content within CSHE. Under RCW 28A.300.475(2)(c), CSHE as a whole must be provided at least twice in grades 6-8 and twice in grades 9-12 - that frequency applies to the program overall, not as a separate schedule for these two topics alone. The pairing is deliberate: students learn both how consent works and how to intervene when someone else's boundaries are at risk.",
+      "memoryHook": "T-Rexy says: Washington names two required topics: affirmative consent and bystander training.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent",
+        "bystander-intervention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an open curriculum binder and a teacher planning a lesson at a desk, blank pages and a school building visible through a window. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "RCW 28A.300.475 names affirmative consent and bystander training.",
+        "title": "TWO TOPICS NAMED IN LAW"
+      }
+    },
+    {
+      "id": "HEA10_138",
+      "question": "A student starts dating someone new and assumes the boundaries from a previous relationship carry over. What is wrong with that assumption?",
+      "correctAnswer": "Consent and boundaries are personal and specific - they must be communicated and agreed with this person, and cannot be imported from another relationship",
+      "distractors": [
+        "Nothing, as long as the previous relationship lasted a long time",
+        "The only problem is failing to tell the new partner about the old boundaries",
+        "Boundaries carry over, but only for the first few weeks of a new relationship"
+      ],
+      "explanation": "Every person's limits are their own: what a previous partner welcomed, a new partner may not, and the reverse is also true. Healthy relationships rebuild agreement through communication rather than assumption - which is also why a current partner's past activity with someone else is never consent to anything.",
+      "memoryHook": "T-Rexy says: Boundaries belong to the person - they never transfer from an ex.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent",
+        "boundaries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two young adults talking openly on a park bench, relaxed body language showing mutual respect and clear communication. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Consent and boundaries must be agreed with this person - never imported.",
+        "title": "BOUNDARIES DO NOT TRANSFER"
+      }
+    },
+    {
+      "id": "HEA10_139",
+      "question": "At a gathering, you notice one guest repeatedly ignoring another guest's clear attempts to end a conversation and move away. Which bystander action is direct and appropriate?",
+      "correctAnswer": "Check in with the uncomfortable guest directly - ask if they are okay and offer to walk with them to rejoin their friends",
+      "distractors": [
+        "Announce loudly to the whole room what you think the first guest is doing",
+        "Ignore it, because a conversation is never a bystander situation",
+        "Pull the first guest aside and threaten them so they back off"
+      ],
+      "explanation": "Direct intervention does not have to mean confrontation: addressing the person who needs help - checking in, offering an exit, staying with them - is a direct strategy that lowers risk for everyone. Bystander training reserves accusation and threats, which escalate situations, in favor of support for the person whose signals are being ignored.",
+      "memoryHook": "T-Rexy says: Direct can mean checking in with the person who needs the exit.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a group of older students chatting together in a bright school atrium, one student warmly welcoming a classmate into the group. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A direct bystander move: check in with the uncomfortable person and offer an exit.",
+        "title": "CHECK IN DIRECTLY"
+      }
+    },
+    {
+      "id": "HEA10_140",
+      "question": "You are the youngest person in a group where an older student is pressuring a peer, and stepping in directly feels unsafe. Which plan best fits bystander training?",
+      "correctAnswer": "Delegate promptly - get the host, a coach, or another trusted adult - and stay nearby to support the peer until help arrives",
+      "distractors": [
+        "Wait until the gathering ends and then text the peer to ask if it was serious",
+        "Step in directly anyway, because delegating does not count as intervening",
+        "Leave the gathering so you cannot be blamed for what happens"
+      ],
+      "explanation": "Delegating is a complete intervention, not a fallback for people who failed to act: the delegate brings authority the bystander may not have. Staying nearby matters too - it supports the peer in the moment and lets the bystander tell the adult exactly what was observed.",
+      "memoryHook": "T-Rexy says: Delegate promptly and stay nearby - that is full intervention.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an older student speaking seriously and privately with a coach at the edge of a school gym, calm and purposeful atmosphere. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "When direct action feels unsafe, delegate to an adult and stay to support.",
+        "title": "DELEGATE AND STAY"
+      }
+    },
+    {
+      "id": "HEA10_141",
+      "question": "Online, an anonymous account is urging students to share a classmate's private photo and to keep the sharing secret from adults. What is the best bystander plan?",
+      "correctAnswer": "Refuse to share, report the account and its posts to the platform, tell a trusted adult, and support the classmate - without downloading or forwarding the photo as 'evidence'",
+      "distractors": [
+        "Download the photo so you can prove what was being shared",
+        "Forward the posts to a large group chat so more students can condemn them",
+        "Stay silent, because anonymous accounts cannot be reported effectively"
+      ],
+      "explanation": "Secrecy demanded by the person doing harm is itself a warning sign. Platforms act on reports of non-consensual image sharing, and a trusted adult can involve the school - while every download or forward, whatever the motive, spreads the image further and can deepen the harm and the legal exposure.",
+      "memoryHook": "T-Rexy says: Report and tell an adult - never download or forward the photo.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention",
+        "online-safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a student showing a trusted adult a phone screen with blurred generic chat bubbles, serious conversation in a school office. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Report the account, tell a trusted adult, and never forward the photo.",
+        "title": "REPORT, NEVER FORWARD"
+      }
+    },
+    {
+      "id": "HEA10_142",
+      "question": "In a long-term relationship, one partner posts photos of the other and shares their private messages as jokes, despite being asked to stop. How should this pattern be judged?",
+      "correctAnswer": "Repeatedly ignoring a stated digital boundary is disrespectful and controlling - the length of the relationship does not reduce the need for consent online",
+      "distractors": [
+        "It is harmless, because the partner describes it as joking and says no harm was intended, even though the posts keep appearing after a clear request to stop",
+        "It is acceptable, because long-term partners give up separate digital privacy and are expected to let each other share their photos and private messages freely",
+        "It only matters if strangers, rather than friends and family, see the posts and messages, because a familiar audience cannot misuse or spread private material further"
+      ],
+      "explanation": "Digital boundaries work like any others: agreement is needed to post someone's photo or share their messages, and a request to stop must be honored. A pattern of 'jokes' that continues after a clear no is a recognized form of digital control, whatever the relationship's history.",
+      "memoryHook": "T-Rexy says: A clear no online binds partners too - 'joking' is no exception.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "digital-boundaries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two young adults sitting at a cafe table with phones face down, talking seriously and respectfully with each other. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Ignoring a partner's digital boundary after a clear no is controlling behavior.",
+        "title": "DIGITAL BOUNDARIES BIND"
+      }
+    },
+    {
+      "id": "HEA10_143",
+      "question": "A friend tells you a partner has been pressuring them and ignoring their boundaries, and asks you to keep it completely secret. What is the best balance of support and safety?",
+      "correctAnswer": "Listen and respect their choices about next steps, but be honest that if someone may be unsafe you will involve a trusted adult or counselor, and offer concrete help contacting support services",
+      "distractors": [
+        "Promise total secrecy no matter what happens later, even if the pressure escalates or your friend becomes unsafe, so that your friend keeps trusting and confiding in you",
+        "Tell several classmates what your friend shared, without their permission, so that the partner faces social pressure from the group to stop the behavior on their own",
+        "Insist that your friend report it that same day on your timetable, and withdraw your support and friendship if they are not ready to take that step yet"
+      ],
+      "explanation": "Supporting a friend means respecting their autonomy - they decide the pace of most next steps - while being honest about the one limit: safety. A supporter who names that limit in advance, and who offers practical help such as sitting with the friend while they call a counselor or a support service, protects both trust and safety.",
+      "memoryHook": "T-Rexy says: Respect their choices, be honest about safety, offer concrete help.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "helping-a-friend"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two older students talking quietly with a counselor in a welcoming office, the counselor listening with care and offering a tissue box on the desk. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Support autonomy, be honest about safety limits, and help contact services.",
+        "title": "SUPPORT WITH HONEST LIMITS"
+      }
+    },
+    {
+      "id": "HEA10_144",
+      "question": "Which description best captures a healthy relationship at any age?",
+      "correctAnswer": "Both people can say no, set and reset boundaries, disagree, and make their own decisions - and each person's limits are honored without punishment or pressure",
+      "distractors": [
+        "Partners merge their lives completely, share every account and password, and check with each other before making even small personal decisions on their own",
+        "Disagreement almost never happens because one partner usually defers to the other, keeps their own preferences quiet, and accepts the final decision without further discussion",
+        "Each partner keeps a careful score of favors, money and time given, repays every imbalance promptly, and treats the relationship as an exchange that must balance exactly"
+      ],
+      "explanation": "The through-line of Washington's healthy relationships teaching is autonomy inside connection: two whole people who communicate, keep their own friendships and decisions, and can change a boundary without being punished for it. Control, scorekeeping, and one-sided deference are warning signs, not closeness.",
+      "memoryHook": "T-Rexy says: Healthy means two whole people whose nos are honored.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "boundaries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two young adults walking side by side on a tree-lined path, relaxed conversation and comfortable body language. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A healthy relationship honors both people's boundaries without punishment.",
+        "title": "TWO WHOLE PEOPLE"
       }
     }
   ]

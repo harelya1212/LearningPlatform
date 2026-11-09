@@ -1,11 +1,11 @@
 {
   "packId": "gr9-health",
   "title": "Health (9th Grade)",
-  "description": "Health (9th Grade) practice - 135 questions",
+  "description": "Health (9th Grade) practice - 144 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 135,
+  "totalQuestions": 144,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2717,6 +2717,246 @@
         "scene": "Mature educational illustration of two students in a calm respectful conversation in a school common area, body language showing listening and clear communication. No readable text, no words, no letters, no numbers anywhere in the image.",
         "tip": "Consent must be freely given by someone able to decide.",
         "title": "THE MEANING OF CONSENT"
+      }
+    },
+    {
+      "id": "HEA9_136",
+      "question": "Affirmative consent must be freely given, specific, informed, and reversible. What does 'informed' add to that definition?",
+      "correctAnswer": "The person understands what they are agreeing to - what the activity is and its main risks and boundaries - before they agree",
+      "distractors": [
+        "The person knows the name of the activity, even if they do not understand what it involves, its risks, or its boundaries",
+        "The person agrees quickly, without needing to ask any questions",
+        "The person assumes the risks must be low because the other person did not mention any, so nothing more needs to be explained or understood"
+      ],
+      "explanation": "Each element of affirmative consent does different work: freely given rules out pressure, specific limits agreement to one activity, informed means the person actually understands what they are agreeing to, and reversible means they can withdraw it. An agreement made without understanding the activity is not informed consent.",
+      "memoryHook": "T-Rexy says: Informed means understanding what you are agreeing to - before you agree.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a high school health classroom with a teacher leading a respectful discussion circle of students, a blank presentation board behind them. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Informed consent means understanding the activity before agreeing to it.",
+        "title": "INFORMED MEANS UNDERSTANDING"
+      }
+    },
+    {
+      "id": "HEA9_137",
+      "question": "A private intimate image of a classmate is posted in a group chat without their consent. As a bystander, what should you do?",
+      "correctAnswer": "Do not forward, download, or show it to others; report it to the platform and a trusted adult, and let the classmate know you are on their side",
+      "distractors": [
+        "Forward it to a few trusted friends so they can help identify who posted it",
+        "Save a copy in case the classmate needs it as evidence later",
+        "Comment publicly naming who you think posted it, to shame them"
+      ],
+      "explanation": "Every forward or download spreads the image and deepens the harm, whatever the motive. Bystander training for online situations is to refuse to pass the image on, use the platform's reporting tools, involve a trusted adult who can act through the school, and support the classmate directly.",
+      "memoryHook": "T-Rexy says: Never forward it - report it and stand with the classmate.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention",
+        "online-safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a high school student sitting with a school counselor, a phone placed face down on the desk between them, calm and supportive conversation. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Do not forward a shared intimate image - report it and support the classmate.",
+        "title": "NEVER FORWARD IT"
+      }
+    },
+    {
+      "id": "HEA9_138",
+      "question": "Which set of words best completes the definition taught in Washington health classes? Affirmative consent is agreement that is _____.",
+      "correctAnswer": "Freely given, specific, informed, and reversible",
+      "distractors": [
+        "Assumed, permanent, general, and silent",
+        "Implied, transferable, automatic, and final",
+        "Expected, ongoing, unspoken, and unlimited"
+      ],
+      "explanation": "Those four qualities - freely given, specific, informed, and reversible - are the model taught in Washington health classes under the state learning standards and OSPI guidance for comprehensive sexual health education. The RCW itself, RCW 28A.300.475(11)(a), defines affirmative consent more briefly as a conscious and voluntary agreement: agreement must be free of pressure, limited to the specific activity, based on understanding, and open to being withdrawn at any time.",
+      "memoryHook": "T-Rexy says: Free, specific, informed, reversible - the four parts of real consent.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an open health textbook and notebook on a classroom desk with a teacher's hand pointing to a blank page, school supplies nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Affirmative consent is freely given, specific, informed, and reversible.",
+        "title": "FOUR PARTS OF CONSENT"
+      }
+    },
+    {
+      "id": "HEA9_139",
+      "question": "A student who has been drinking heavily is slurring words and can barely stay awake. Another student claims the first student 'agreed earlier in the evening.' What is correct?",
+      "correctAnswer": "A person who is incapacitated by alcohol cannot give valid consent, no matter what was said earlier - the priority is getting that person safe help",
+      "distractors": [
+        "Earlier agreement still counts, as long as it was given before drinking started",
+        "Agreement counts if friends who were present heard it",
+        "Only complete unconsciousness cancels an earlier agreement"
+      ],
+      "explanation": "Incapacitation - from alcohol, drugs, sleep, or illness - removes the ability to consent, and it also removes the ability to withdraw consent or ask for help. An earlier statement cannot substitute for present capacity, which is why bystanders focus on safety and medical help for an incapacitated person.",
+      "memoryHook": "T-Rexy says: Incapacitated means unable to consent - earlier words cannot change that.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent",
+        "incapacitation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a school counselor speaking seriously with two high school students in an office about looking out for friends, supportive and calm atmosphere. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A person incapacitated by alcohol cannot consent, whatever was said earlier.",
+        "title": "INCAPACITATED CANNOT CONSENT"
+      }
+    },
+    {
+      "id": "HEA9_140",
+      "question": "Bystander training teaches three main ways to intervene safely, often called the three Ds. What are they?",
+      "correctAnswer": "Direct (address it), Distract (interrupt it), and Delegate (get help from someone better placed to act)",
+      "distractors": [
+        "Deny (say it is not happening), Delay (wait a day), and Delete (erase any record)",
+        "Document (film everything), Distribute (post the footage), and Depart (leave quickly)",
+        "Debate (argue it out), Demand (order everyone to stop), and Discipline (punish the people involved)"
+      ],
+      "explanation": "The three Ds give a bystander a choice of tools for different risk levels: speak or act directly when it is safe, create a distraction that interrupts the moment, or delegate to an adult, host, or official. Having three options means 'it was not safe to step in directly' is never a reason to do nothing.",
+      "memoryHook": "T-Rexy says: Direct, Distract, Delegate - three safe ways to step in.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a health teacher presenting to a class of high school students seated in a semicircle, blank board behind the teacher, attentive students. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The three Ds: Direct, Distract, Delegate.",
+        "title": "THE THREE DS"
+      }
+    },
+    {
+      "id": "HEA9_141",
+      "question": "You notice a situation developing that may need intervention, but stepping in directly could put you at risk. What does good bystander decision-making look like?",
+      "correctAnswer": "You still act, but choose a safer route - create a distraction or delegate to an adult, a host, or another person in authority rather than walking away",
+      "distractors": [
+        "You walk away, because an unsafe direct intervention is the only kind that counts",
+        "You wait until you are completely certain harm will occur before doing anything",
+        "You send a friend in directly instead, so the risk falls on them"
+      ],
+      "explanation": "Bystander training separates noticing from choosing how to act: the decision step weighs personal safety and picks the strategy that fits. Delegating and distracting are full interventions, not lesser ones, and uncertainty is not a reason to delay - a delegate can assess the situation with more authority.",
+      "memoryHook": "T-Rexy says: If direct is unsafe, distract or delegate - but do not walk away.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a high school student speaking privately and seriously with a trusted teacher in a school hallway, relieved and supported expression. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Choose the safest effective strategy: distract or delegate when direct is risky.",
+        "title": "CHOOSE THE SAFE ROUTE IN"
+      }
+    },
+    {
+      "id": "HEA9_142",
+      "question": "A dating partner demands your location sharing and your passwords as 'proof of trust.' How should that request be understood?",
+      "correctAnswer": "Healthy partners respect a no to digital monitoring - demanding passwords or constant location access is a controlling behavior, not a sign of trust",
+      "distractors": [
+        "It is a normal milestone that every serious relationship reaches",
+        "It is reasonable, as long as both partners hand over their passwords",
+        "It only becomes a problem if the partner actually reads the messages"
+      ],
+      "explanation": "Trust in a healthy relationship is shown by respecting privacy, not by surrendering it. Constant location tracking and password demands are recognized warning signs of digital control, and a partner is entitled to refuse them without that refusal being treated as evidence of wrongdoing.",
+      "memoryHook": "T-Rexy says: Trust respects privacy - monitoring demands are control, not love.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "digital-boundaries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two high school students sitting apart on a park bench, each with their own phone put away, talking face to face in a relaxed way. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Demanding passwords or constant location sharing is control, not trust.",
+        "title": "TRUST RESPECTS PRIVACY"
+      }
+    },
+    {
+      "id": "HEA9_143",
+      "question": "Which statement about intimate images and consent is correct?",
+      "correctAnswer": "No one should pressure another person to create or send an intimate image, agreeing to send one image never permits sharing it onward, and forwarding it without permission is a serious violation",
+      "distractors": [
+        "An image sent voluntarily can be shared with close friends as long as it is not posted publicly, because private sharing among friends is not treated as onward sharing",
+        "Pressure is acceptable between dating partners who have been together a long time, because a long and trusting relationship itself counts as agreement to create and send images when asked",
+        "Forwarding an image is only a violation if the person in it finds out and objects afterward, because unseen sharing causes no harm and needs no permission in advance"
+      ],
+      "explanation": "Consent to create or send an image is consent for that one recipient only - it is not consent to forward, post, or show the image to anyone else. Pressure to produce images is itself a form of coercion, and sharing intimate images of a minor can also be illegal, even for another minor.",
+      "memoryHook": "T-Rexy says: Sending to one person is never permission to share onward.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "digital-boundaries",
+        "consent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a high school student turning a phone face down on a table while friends look on seriously, a counselor approaching supportively in a school common area. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "An image sent to one person may never be forwarded without permission.",
+        "title": "SENT IS NOT SHAREABLE"
+      }
+    },
+    {
+      "id": "HEA9_144",
+      "question": "A friend's partner reads all their messages, decides who they can see, and the friend says they are afraid to end the relationship. What is the most helpful response?",
+      "correctAnswer": "Believe and listen without blaming, do not confront the partner yourself, and help your friend connect with a counselor, a trusted adult, or support services",
+      "distractors": [
+        "Tell your friend to end the relationship immediately and stop speaking to them until they do",
+        "Confront the partner directly and warn them to back off",
+        "Keep the secret completely, because telling anyone would betray your friend's trust"
+      ],
+      "explanation": "Controlling behavior plus fear of leaving is a serious pattern. The helpful bystander role is support, not rescue: believe the friend, avoid blaming them for staying, never confront the controlling partner, and make it easier to reach professional help - counselors and support services know how to plan for safety.",
+      "memoryHook": "T-Rexy says: Believe, listen, never confront - and connect your friend to help.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "helping-a-friend"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two high school friends sitting together in a quiet school library corner, one listening attentively while the other talks, supportive atmosphere. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Support a friend in a controlling relationship and connect them to professional help.",
+        "title": "SUPPORT, DO NOT RESCUE"
       }
     }
   ]

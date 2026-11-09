@@ -1,11 +1,11 @@
 {
   "packId": "gr8-health",
   "title": "Health (8th Grade)",
-  "description": "Health (8th Grade) practice - 118 questions",
+  "description": "Health (8th Grade) practice - 127 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 118,
+  "totalQuestions": 127,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2318,6 +2318,244 @@
       ],
       "difficulty": "hard",
       "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA8_119",
+      "question": "Washington health classes teach affirmative consent. What does affirmative consent mean?",
+      "correctAnswer": "A clear, freely given yes to a specific activity - agreement that is active and obvious, not guessed or assumed",
+      "distractors": [
+        "Staying quiet and not pushing the other person away, which is treated as agreement even though nothing clear was said or confirmed out loud",
+        "Having agreed to something similar on another day, which is treated as covering the same activity again today without anyone needing to ask or check again",
+        "Being in a dating relationship with the other person, which is treated as standing agreement for activities the couple has done or discussed before"
+      ],
+      "explanation": "Washington's Comprehensive Sexual Health Education law (RCW 28A.300.475) requires affirmative consent to be taught in grades 6-8 and 9-12. Affirmative consent is an active, clear yes: it must be given freely, it covers only the activity agreed to, and it can be taken back at any time.",
+      "memoryHook": "T-Rexy says: Affirmative consent is a clear, freely given yes - never a guess.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a middle school health teacher leading a calm discussion circle of students in a classroom, students listening and taking turns speaking, a blank presentation board behind them. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Affirmative consent is a clear, freely given yes to a specific activity.",
+        "title": "A CLEAR, FREELY GIVEN YES"
+      }
+    },
+    {
+      "id": "HEA8_120",
+      "question": "A teen says, 'My partner never actually said no, so I had consent.' Why is that reasoning wrong?",
+      "correctAnswer": "Silence is not consent - without a clear yes there is no consent, and being in a relationship does not change that",
+      "distractors": [
+        "It is wrong only if the partner complains about it later",
+        "A spoken no is required, but freezing or pulling away still counts as a yes",
+        "Dating partners need consent only the very first time"
+      ],
+      "explanation": "Consent cannot be assumed from silence, freezing, or a lack of resistance. It also cannot be assumed from a relationship or from prior activity: each person must actively agree, and a partner who is unsure or quiet has not consented.",
+      "memoryHook": "T-Rexy says: Silence is not a yes - and neither is a relationship.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of two middle school students talking calmly face to face in a school common area, relaxed body language showing listening and clear communication. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Silence, freezing, or a relationship never counts as consent.",
+        "title": "SILENCE IS NOT CONSENT"
+      }
+    },
+    {
+      "id": "HEA8_121",
+      "question": "Which example correctly shows that consent is specific and can be withdrawn?",
+      "correctAnswer": "A student agrees to hold hands, later says 'stop, I changed my mind,' and the other student stops right away and respects it",
+      "distractors": [
+        "A student agrees to hold hands, so the other student assumes every other kind of contact is agreed to as well",
+        "A student changes their mind, but the other student continues because the activity had already started",
+        "A student agreed yesterday, so the other student treats that agreement as still in force today"
+      ],
+      "explanation": "Consent is specific: agreeing to one activity is not agreeing to others. It is also reversible: a person can withdraw agreement at any point, for any reason, and the activity must stop. Yesterday's agreement does not carry over to today.",
+      "memoryHook": "T-Rexy says: Consent covers one activity - and a changed mind stops it at once.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of two middle school friends sitting on a bench outside school talking openly, one listening respectfully while the other speaks. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Consent is specific to one activity and can be withdrawn at any time.",
+        "title": "SPECIFIC - AND REVERSIBLE"
+      }
+    },
+    {
+      "id": "HEA8_122",
+      "question": "At school, you see a student pressuring another student, who looks uncomfortable and is trying to walk away. Which response is a safe 'distract' strategy?",
+      "correctAnswer": "Step in with a neutral interruption - ask for directions, say a teacher is looking for them, or invite the uncomfortable student to join your group",
+      "distractors": [
+        "Physically push the pressuring student away and dare them to argue",
+        "Film the scene so you can post it and embarrass the pressuring student",
+        "Wait quietly, because stepping in always makes things worse"
+      ],
+      "explanation": "Bystander training teaches distraction as a low-risk way to break up a pressuring moment without confrontation: a neutral interruption gives the uncomfortable student an easy exit. Direct and delegate strategies are the other options when distraction is not enough.",
+      "memoryHook": "T-Rexy says: A neutral interruption can give someone a safe way out.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a friendly group of middle school students in a school hallway inviting a classmate to walk with them, welcoming and relaxed atmosphere. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Distract: a neutral interruption gives the uncomfortable student an exit.",
+        "title": "DISTRACT TO HELP"
+      }
+    },
+    {
+      "id": "HEA8_123",
+      "question": "In a group chat, classmates keep pressuring a student to share a private photo and mock the student for hesitating. What is the strongest bystander response?",
+      "correctAnswer": "Do not join in or forward anything, privately support the targeted student, and report the chat to a trusted adult or the platform",
+      "distractors": [
+        "Add a laughing reaction so you do not stand out from the group",
+        "Tell the targeted student to just send the photo so the teasing stops",
+        "Screenshot the pressure and share it widely to expose the classmates"
+      ],
+      "explanation": "Online pressure is a bystander situation too. Joining in - even with reactions - adds to the pressure, and sharing screenshots spreads the harm. Supporting the targeted student privately and delegating to a trusted adult or the platform stops the pressure without putting anyone at further risk.",
+      "memoryHook": "T-Rexy says: Online, support the target and report - never join the pressure.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention",
+        "online-safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a middle school student showing a phone with blurred generic chat bubbles to a school counselor in an office, the counselor listening supportively. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Support the targeted student and report online pressure to an adult or the platform.",
+        "title": "BYSTANDER ONLINE"
+      }
+    },
+    {
+      "id": "HEA8_124",
+      "question": "What is the first step of bystander intervention, as taught in Washington health classes?",
+      "correctAnswer": "Notice the situation and recognize that someone may need help or may not have clearly consented",
+      "distractors": [
+        "Wait to see whether the situation sorts itself out on its own",
+        "Decide immediately who is to blame for what is happening",
+        "Confront the people involved before understanding what is going on"
+      ],
+      "explanation": "Intervention follows a sequence: recognize what is happening, decide that help is needed and which strategy fits, then act in the safest effective way - directly, by distracting, or by delegating to someone better placed to help. Nothing can happen until the bystander first notices and recognizes the problem.",
+      "memoryHook": "T-Rexy says: First notice and recognize - then decide and act safely.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a health classroom lesson with a teacher at a blank board and students in a semicircle, attentive and engaged expressions. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Bystander intervention starts with noticing and recognizing the situation.",
+        "title": "RECOGNIZE, DECIDE, ACT"
+      }
+    },
+    {
+      "id": "HEA8_125",
+      "question": "A student has clearly told a dating partner to stop reading their messages, but the partner keeps doing it and threatens to share private screenshots if the student ends the relationship. What is the best plan?",
+      "correctAnswer": "Tell a trusted adult or school counselor and get support - repeated ignoring of a clear no, combined with threats, is not a healthy relationship",
+      "distractors": [
+        "Give in and hand over the phone, to keep the peace in the relationship",
+        "Start reading the partner's messages in return, so things are equal",
+        "Handle it completely alone and confront the partner in private"
+      ],
+      "explanation": "A boundary that is stated clearly and then repeatedly ignored - especially with threats attached - is a pattern of control, not a misunderstanding. Trusted adults and counselors can help the student plan next steps safely, and the student does not have to manage the situation alone.",
+      "memoryHook": "T-Rexy says: A clear no that is ignored, plus threats, means get an adult involved.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "boundaries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of a middle school student talking privately with a school counselor in a calm office, the counselor taking notes and listening with care. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Repeatedly ignored boundaries plus threats: tell a trusted adult or counselor.",
+        "title": "GET SUPPORT, NOT SILENCE"
+      }
+    },
+    {
+      "id": "HEA8_126",
+      "question": "What does respecting a personal boundary look like in a friendship?",
+      "correctAnswer": "Hearing 'no' or 'stop,' accepting it the first time without arguing, sulking, or trying to change the person's mind",
+      "distractors": [
+        "Accepting the no only after the friend explains and justifies it",
+        "Asking again every few minutes until the friend gives in",
+        "Pretending to accept it, then doing it anyway as a joke"
+      ],
+      "explanation": "Respecting a boundary means the first no is the final answer: no debate, no guilt tactics, and no wearing the person down. Friends are entitled to set limits about touch, photos, personal items, and time, and those limits do not need a justification.",
+      "memoryHook": "T-Rexy says: In a respectful friendship, the first no is the final answer.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "boundaries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of two middle school friends walking and talking together outside school, comfortable body language and easy smiles. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Respecting a boundary means accepting the first no without argument.",
+        "title": "THE FIRST NO COUNTS"
+      }
+    },
+    {
+      "id": "HEA8_127",
+      "question": "Before posting a photo that includes a classmate, what should you do?",
+      "correctAnswer": "Ask that classmate first, post it only if they clearly agree, and take it down promptly if they later ask you to",
+      "distractors": [
+        "Post it if you think you look good in the photo",
+        "Post it if other classmates have already posted similar photos",
+        "Tag the classmate so they can untag themselves afterward"
+      ],
+      "explanation": "Consent applies online as well as in person: a photo of someone is theirs to agree to as well. Agreement to be photographed is not the same as agreement to be posted, and a person can withdraw permission later - in which case the respectful action is to remove the photo.",
+      "memoryHook": "T-Rexy says: Ask before you post - and take it down when asked.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "digital-boundaries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration of two middle school students looking at a phone together outdoors, one asking a question and the other nodding in agreement, friendly atmosphere. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Posting a photo of someone needs their clear agreement first.",
+        "title": "ASK BEFORE YOU POST"
+      }
     }
   ]
 }
