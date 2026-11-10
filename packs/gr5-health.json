@@ -1,11 +1,11 @@
 {
  "packId": "gr5-health",
  "title": "Health (5th Grade)",
- "description": "Health (5th Grade) practice - 112 questions",
+ "description": "Health (5th Grade) practice - 121 questions",
  "version": "1.0",
  "language": "en",
  "passingScore": 60,
- "totalQuestions": 112,
+ "totalQuestions": 130,
  "addedAt": "2026-11-05",
  "tags": [
   "health",
@@ -2248,6 +2248,486 @@
    "difficulty": "easy",
    "dynamic": false,
    "source": "original"
+  },
+  {
+   "id": "HEA5_113",
+   "question": "In Nevada, schools teach personal safety in health class. What is the main reason for these lessons?",
+   "correctAnswer": "So every child knows how to recognize danger and get help from a responsible adult",
+   "distractors": [
+    "So children can handle every dangerous situation completely on their own",
+    "So children learn to keep safety problems private",
+    "So adults no longer need to watch out for children's safety"
+   ],
+   "difficulty": "easy",
+   "explanation": "Nevada law (NRS 389.064) requires personal-safety instruction as part of a health course of study. The lessons teach children to recognize hazards - including danger from unsafe people - and to report threats of harm to a responsible adult.",
+   "memoryHook": "T-Rexy says: Safety lessons have one goal: spot danger early and get a grown-up's help!",
+   "tags": [
+    "safety",
+    "nevada-law"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A health teacher at the front of a bright elementary classroom with a safety poster of abstract shapes on the wall, pupils listening at their desks. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Safety lessons have one goal: spot danger early and get a grown-up's help!",
+    "title": "WHY SAFETY LESSONS"
+   }
+  },
+  {
+   "id": "HEA5_114",
+   "question": "You are shopping with your family and realize you are lost in a big store. What is the safest thing to do?",
+   "correctAnswer": "Stay where you are or go to a store worker at a register and tell them you are lost, so they can find your adult",
+   "distractors": [
+    "Leave the store and walk to the parking lot to look for your family's car",
+    "Hide so nobody can see you until your family walks past",
+    "Follow any friendly shopper who offers to take you outside"
+   ],
+   "difficulty": "easy",
+   "explanation": "Nevada's personal-safety standards include what to do when a child becomes lost or separated. Staying in a safe public place and asking a worker - someone in uniform or at a register - for help keeps you where your adult can find you.",
+   "memoryHook": "T-Rexy says: Lost? Stay put, find a worker, and let help come to you!",
+   "tags": [
+    "safety",
+    "lost"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A child standing calmly beside a checkout counter speaking with a store worker in uniform, bright supermarket aisles behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Lost? Stay put, find a worker, and let help come to you!",
+    "title": "LOST IN THE STORE"
+   }
+  },
+  {
+   "id": "HEA5_115",
+   "question": "A person you have never met stops near the park and offers you a ride home, saying your parent sent them. What should you do?",
+   "correctAnswer": "Do not get in - move away, stay with other people, and tell a responsible adult right away",
+   "distractors": [
+    "Get in, because the person knew your parent's name",
+    "Ask the person to drive slowly so you can jump out",
+    "Go with them only if they seem friendly and smile a lot"
+   ],
+   "difficulty": "medium",
+   "explanation": "An unsafe person can be a stranger: no adult your family truly sent will mind if you check first. Refuse, create distance, and report the approach to a responsible adult - Nevada's safety lessons name danger from unsafe persons you do not know.",
+   "memoryHook": "T-Rexy says: A surprise pickup is a red flag - check first, always!",
+   "tags": [
+    "safety",
+    "strangers"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A child stepping back toward a group of families on a park path while a car waits at the curb with its door closed, trees and a playground behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: A surprise pickup is a red flag - check first, always!",
+    "title": "THE SURPRISE PICKUP"
+   }
+  },
+  {
+   "id": "HEA5_116",
+   "question": "During a game, a babysitter keeps tickling you after you say stop, and laughs that you are being too serious. What is happening, and what can you do?",
+   "correctAnswer": "Your stop was not respected - you can move away, say no clearly, and tell a parent or another responsible adult",
+   "distractors": [
+    "Tickling is always safe, so you should just laugh along",
+    "You must be wrong about feeling uncomfortable",
+    "You should tickle the babysitter back until they stop"
+   ],
+   "difficulty": "medium",
+   "explanation": "Unsafe behavior can come from a person you know, not only strangers. When someone ignores a clear stop about your body, that is a boundary being broken - moving away and telling a responsible adult is exactly what Nevada's personal-safety instruction teaches.",
+   "memoryHook": "T-Rexy says: Stop means stop - even from someone you know!",
+   "tags": [
+    "safety",
+    "boundaries",
+    "known-person"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A child holding up a hand in a clear stop gesture and stepping toward an open doorway where a parent is arriving home, living room setting. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Stop means stop - even from someone you know!",
+    "title": "STOP MEANS STOP"
+   }
+  },
+  {
+   "id": "HEA5_117",
+   "question": "You are at a neighbor's house and something there makes you feel unsafe. You said you want to leave, but the adult says you must stay and keep it between you two. What is the best action?",
+   "correctAnswer": "Leave to a safe place if you can, and tell your parent or another responsible adult as soon as possible - an adult who demands secrecy about safety is a warning sign",
+   "distractors": [
+    "Stay, because children must always obey every adult in their house",
+    "Keep the secret, since the adult asked you to",
+    "Wait a few weeks to see if it happens again before telling anyone"
+   ],
+   "difficulty": "hard",
+   "explanation": "Demanding secrecy about something unsafe is itself a danger sign. Nevada's personal-safety standards teach children to get to safety and report threats of harm to a responsible adult - no adult's instruction to hide a safety problem overrides that.",
+   "memoryHook": "T-Rexy says: Secrecy plus unsafe is a double red flag - get out and tell!",
+   "tags": [
+    "safety",
+    "reporting",
+    "known-person"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A child walking out of a front door toward their own home across the street where a parent waits on the porch, late afternoon light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Secrecy plus unsafe is a double red flag - get out and tell!",
+    "title": "GET OUT AND TELL"
+   }
+  },
+  {
+   "id": "HEA5_118",
+   "question": "Someone you met in an online game, who says they are your age, asks for a photo of you and your home address so they can 'visit'. What should you do?",
+   "correctAnswer": "Do not send anything - end the chat and tell a parent or another responsible adult, because you cannot know who is really typing",
+   "distractors": [
+    "Send the photo but not the address, as a fair compromise",
+    "Ask them to send their address first, then decide",
+    "Share your location only if they promise to keep it secret"
+   ],
+   "difficulty": "medium",
+   "explanation": "Online, an unsafe person can pretend to be a child. Asking for photos or a home address is a recognized danger sign, and the safe response is to stop contact and report it to a responsible adult right away.",
+   "memoryHook": "T-Rexy says: You cannot see who is typing - so never send photos or addresses!",
+   "tags": [
+    "safety",
+    "online"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A child closing a laptop at a kitchen table and turning to speak with a parent standing nearby, a game controller resting unused beside the laptop. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: You cannot see who is typing - so never send photos or addresses!",
+    "title": "WHO IS REALLY TYPING"
+   }
+  },
+  {
+   "id": "HEA5_119",
+   "question": "You told one trusted adult about unsafe behavior, but that adult was busy and did not really listen. What should you do next?",
+   "correctAnswer": "Keep telling - go to another trusted adult, like a teacher, school counselor, or family member, until someone listens and helps",
+   "distractors": [
+    "Give up, because telling once is all you are supposed to do",
+    "Decide the problem must not be important after all",
+    "Try to fix the problem by yourself instead"
+   ],
+   "difficulty": "medium",
+   "explanation": "Reporting works when you keep going: if one adult does not respond, tell another. Nevada's personal-safety instruction names reporting threats of harm to a responsible adult - and a child's job is to keep telling until an adult acts.",
+   "memoryHook": "T-Rexy says: One adult did not listen? Tell the next one - keep telling!",
+   "tags": [
+    "safety",
+    "reporting"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A child speaking with a school counselor in a warm office, a teacher waiting kindly in the doorway behind them. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: One adult did not listen? Tell the next one - keep telling!",
+    "title": "KEEP TELLING"
+   }
+  },
+  {
+   "id": "HEA5_120",
+   "question": "After a child reports unsafe behavior, what should happen - and what do helpers want the child to know?",
+   "correctAnswer": "Adults should act to protect the child and get support - reporting brings help, and the child is never in trouble for telling",
+   "distractors": [
+    "The child will be punished for causing problems",
+    "Nothing changes, because reports are kept secret from everyone",
+    "The child must prove everything alone before anyone may help"
+   ],
+   "difficulty": "easy",
+   "explanation": "Victim assistance is part of the safety system: counselors, trusted adults and protective services exist to help a child who reports. Telling brings protection and support - it never makes the reporting child the one in trouble.",
+   "memoryHook": "T-Rexy says: Telling brings help, never punishment - helpers are on your side!",
+   "tags": [
+    "safety",
+    "victim-assistance"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A school counselor and a parent sitting supportively on either side of a child on a bench outside a school office, calm and reassuring. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Telling brings help, never punishment - helpers are on your side!",
+    "title": "TELLING BRINGS HELP"
+   }
+  },
+  {
+   "id": "HEA5_121",
+   "question": "Before taking a photo of a classmate and sharing it with the class group chat, what does consent ask you to do?",
+   "correctAnswer": "Ask your classmate first, and share the photo only if they clearly agree - and remove it if they later ask you to",
+   "distractors": [
+    "Share it quickly before they can object",
+    "Share it if everyone else in the chat already has it",
+    "Ask a different classmate for permission instead"
+   ],
+   "difficulty": "hard",
+   "explanation": "Consent applies to everyday respect, not only emergencies: a person's image belongs to them, permission can be refused, and a yes can be withdrawn. Asking first and honoring the answer is the boundary Nevada's safety lessons build on.",
+   "memoryHook": "T-Rexy says: Their photo, their choice - ask before you share!",
+   "tags": [
+    "safety",
+    "consent",
+    "online"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A pupil holding a tablet camera lowered at their side, asking a classmate a question in a school hallway while the classmate smiles and nods. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Their photo, their choice - ask before you share!",
+    "title": "ASK BEFORE YOU SHARE"
+   }
+  },
+  {
+   "id": "HEA5_122",
+   "question": "Some adults try to trick kids by offering gifts, rides or treats to get them to go somewhere or keep a secret. What is the safest thing to do?",
+   "correctAnswer": "Say no, walk away, and tell a trusted adult right away",
+   "distractors": [
+    "Accept the gift if the person seems friendly",
+    "Go along, but only for a short time",
+    "Keep it secret so you do not hurt their feelings"
+   ],
+   "difficulty": "easy",
+   "explanation": "Tricking a child with gifts or rides is a warning sign of trafficking and abuse - adults who are safe do not ask children to keep secrets or go places alone with them. Walking away and telling a trusted adult is always the right move, and it is never the child's fault.",
+   "memoryHook": "T-Rexy says: Gifts with secrets are a trap - walk away and tell.",
+   "tags": [
+    "health",
+    "safety",
+    "trafficking-prevention"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A child walking toward a school entrance where a teacher waits, bright daylight, safe mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Gifts with secrets are a trap - walk away and tell.",
+    "title": "GIFTS WITH SECRETS"
+   }
+  },
+  {
+   "id": "HEA5_123",
+   "question": "During an online game, another player starts asking where you live and wants you to send a picture of yourself. What is the safe response?",
+   "correctAnswer": "Never send it - close the chat and tell a trusted adult",
+   "distractors": [
+    "Send the photo but not the address",
+    "Send it if they sent you a photo first",
+    "Ask them to promise to keep it secret, then send it"
+   ],
+   "difficulty": "easy",
+   "explanation": "Strangers online who ask children for photos or addresses may be traffickers building trust to lure a child. The safe answer is always no: stop, close the chat, and tell a trusted adult - even if the person seemed kind.",
+   "memoryHook": "T-Rexy says: Online strangers asking for photos: stop and tell.",
+   "tags": [
+    "health",
+    "safety",
+    "trafficking-prevention"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A tablet on a desk with a blank chat screen, a parent's hand resting supportively beside it. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Online strangers asking for photos: stop and tell.",
+    "title": "ONLINE STRANGERS"
+   }
+  },
+  {
+   "id": "HEA5_124",
+   "question": "What does the word trafficking mean when adults talk about keeping kids safe?",
+   "correctAnswer": "Tricking, forcing or pressuring someone - even a child - into doing work or things they do not want to do, so someone else gains from it",
+   "distractors": [
+    "Directing cars at a busy intersection",
+    "A traffic jam on the highway",
+    "Trading toys with a friend"
+   ],
+   "difficulty": "easy",
+   "explanation": "Human trafficking means a person is tricked, threatened or forced into labor or harmful acts for someone else's benefit. It can happen in any town, it often starts with gifts, promises or online messages, and it is never the victim's fault.",
+   "memoryHook": "T-Rexy says: Trafficking is tricking and forcing - never the victim's fault.",
+   "tags": [
+    "health",
+    "safety",
+    "trafficking-prevention"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A caring school counselor's office with a warm lamp and comfortable chairs, calm and safe. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Trafficking is tricking and forcing - never the victim's fault.",
+    "title": "WHAT TRAFFICKING MEANS"
+   }
+  },
+  {
+   "id": "HEA5_125",
+   "question": "Someone you know - not a stranger - keeps asking you to keep your meetings secret and gives you presents. Why is this a warning sign?",
+   "correctAnswer": "Safe adults do not build secret, gift-giving relationships with children - secrecy and gifts are tools traffickers use to gain control",
+   "distractors": [
+    "It is only a warning sign if the person is a stranger",
+    "Presents always mean the person is dangerous",
+    "Secrets between adults and kids are fine if the gifts are small"
+   ],
+   "difficulty": "medium",
+   "explanation": "Most harm to children comes from people the child knows. Secret meetings and special gifts are classic grooming steps: they make a child feel chosen and then trapped. Telling a trusted adult breaks the secrecy that protects the behavior.",
+   "memoryHook": "T-Rexy says: Known or stranger, secrets plus gifts mean tell.",
+   "tags": [
+    "health",
+    "safety",
+    "trafficking-prevention"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A child talking with a trusted teacher beside a classroom door, open and well-lit setting. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Known or stranger, secrets plus gifts mean tell.",
+    "title": "SECRECY IS THE WARNING"
+   }
+  },
+  {
+   "id": "HEA5_126",
+   "question": "A new 'friend' online says you are special, listens to all your problems, and now wants to meet in person. What is happening most likely?",
+   "correctAnswer": "This is a grooming pattern - the person is building trust to lure you, and you should tell a trusted adult and never meet",
+   "distractors": [
+    "You have found a true best friend",
+    "Meeting is fine if it is in a public park",
+    "It is safe if they say they are your age"
+   ],
+   "difficulty": "medium",
+   "explanation": "Traffickers pose as peers or caring friends online, shower a child with attention, and then push for a meeting or photos. A trusted adult needs to know right away; no online friend should ever ask a child to meet in secret.",
+   "memoryHook": "T-Rexy says: Too-perfect online friends are a lure - tell an adult.",
+   "tags": [
+    "health",
+    "safety",
+    "trafficking-prevention"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A phone lying face-down on a family kitchen table, warm home light, safe mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Too-perfect online friends are a lure - tell an adult.",
+    "title": "THE ONLINE LURE"
+   }
+  },
+  {
+   "id": "HEA5_127",
+   "question": "If a kid has been tricked or forced by a trafficker, whose fault is it?",
+   "correctAnswer": "Never the kid's fault - the trafficker is always to blame, and telling brings help, not punishment",
+   "distractors": [
+    "The kid's fault for trusting the person",
+    "The parents' fault alone",
+    "Everyone shares the blame equally"
+   ],
+   "difficulty": "medium",
+   "explanation": "Arkansas law (section 6-16-157) requires schools to teach exactly this: victims are never to blame. Children who tell get protection and help. Shame is the trafficker's tool; speaking up is how it loses power.",
+   "memoryHook": "T-Rexy says: Victim is never to blame - telling brings help.",
+   "tags": [
+    "health",
+    "safety",
+    "trafficking-prevention"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A supportive circle of caring adults and a school counselor in a bright office, reassuring mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Victim is never to blame - telling brings help.",
+    "title": "NEVER THE VICTIM'S FAULT"
+   }
+  },
+  {
+   "id": "HEA5_128",
+   "question": "Which of these is a trafficking danger sign a 5th grader should report to a trusted adult?",
+   "correctAnswer": "An older teen or adult offers you money, a phone or a place to stay if you will 'help with errands' and not tell anyone",
+   "distractors": [
+    "A teacher schedules a parent meeting",
+    "A coach posts the practice schedule",
+    "A librarian recommends a book series"
+   ],
+   "difficulty": "hard",
+   "explanation": "Offers of money, phones, shelter or jobs - paired with secrecy - are recruitment tools, even when aimed at older kids and teens. Any of them should be reported, whether they happen to you or to a friend.",
+   "memoryHook": "T-Rexy says: Money, phones and secrecy offered together: report it.",
+   "tags": [
+    "health",
+    "safety",
+    "trafficking-prevention"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A school hallway with a trusted adult's open office door and welcoming light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Money, phones and secrecy offered together: report it.",
+    "title": "KNOW THE DANGER SIGNS"
+   }
+  },
+  {
+   "id": "HEA5_129",
+   "question": "Your friend tells you an adult online is sending her gifts and asking her not to tell her parents. What is the best way to help?",
+   "correctAnswer": "Tell a trusted adult yourself - helping a friend means breaking the secret, even if she asked you not to",
+   "distractors": [
+    "Promise to keep her secret no matter what",
+    "Wait and see if it gets worse",
+    "Message the adult and tell him to stop"
+   ],
+   "difficulty": "hard",
+   "explanation": "Secrets that protect an adult's access to a child must be broken. Telling a trusted adult is not betraying a friend - it is the strongest protection a friend can give, and adults can then involve people whose job is stopping trafficking.",
+   "memoryHook": "T-Rexy says: Break the secret to protect your friend.",
+   "tags": [
+    "health",
+    "safety",
+    "trafficking-prevention"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Two friends walking together toward a trusted school counselor's office, supportive mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Break the secret to protect your friend.",
+    "title": "PROTECT YOUR FRIEND"
+   }
+  },
+  {
+   "id": "HEA5_130",
+   "question": "Why do Arkansas schools teach students about trafficking at every grade level?",
+   "correctAnswer": "State law (section 6-16-157) requires a sequential K-12 program on detecting, preventing and getting help for child abuse and human trafficking, because traffickers target children and prevention works",
+   "distractors": [
+    "Because trafficking only happens in other countries",
+    "Because students asked for extra homework",
+    "Because it is part of the driving test"
+   ],
+   "difficulty": "hard",
+   "explanation": "Arkansas Code section 6-16-157 orders the state to build K-12 materials on the detection, intervention, prevention and treatment of child sexual abuse and human trafficking, and every district must teach a prevention program. Traffickers target minors - including through phones - so the lessons grow with the student.",
+   "memoryHook": "T-Rexy says: Arkansas teaches it K-12 because prevention works.",
+   "tags": [
+    "health",
+    "safety",
+    "trafficking-prevention"
+   ],
+   "imageUrl": "topic:health",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A classroom wall with blank poster frames and a caring teacher, warm school light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Arkansas teaches it K-12 because prevention works.",
+    "title": "WHY SCHOOLS TEACH THIS"
+   }
   }
  ]
 }
