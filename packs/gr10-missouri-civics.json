@@ -1,0 +1,2021 @@
+{
+  "packId": "gr10-missouri-civics",
+  "title": "Missouri Civics (American Government)",
+  "description": "Missouri Civics (American Government) (10th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-09",
+  "tags": [
+    "missouri",
+    "civics",
+    "grade-10"
+  ],
+  "questions": [
+    {
+      "id": "MOC10_001",
+      "question": "At a town meeting in Hannibal, voters remove their mayor in a recall-style election after a spending scandal, and a student asks why the mayor cannot simply refuse to leave. Which founding idea explains it?",
+      "correctAnswer": "Popular sovereignty: governing power belongs to the people, who lend it to officials through elections",
+      "distractors": [
+        "Rule by divine right: officials keep power permanently once chosen",
+        "Judicial supremacy: courts decide which officials may stay in office",
+        "Unitary authority: a state office may override a local election result"
+      ],
+      "difficulty": "easy",
+      "explanation": "Popular sovereignty means the people are the source of all governing authority. Officials hold delegated power, and elections are how citizens grant, renew, or withdraw it.",
+      "memoryHook": "T-Rexy says: The people own the power; officials only borrow it.",
+      "tags": [
+        "popular-sovereignty",
+        "foundations"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_002",
+      "question": "A sitting governor is issued a speeding ticket by a state trooper, pays the fine, and no one in the capitol suggests the ticket should be erased. Which principle is on display?",
+      "correctAnswer": "The rule of law: no one, including top officials, is above the law",
+      "distractors": [
+        "The spoils system: officials trade favors for support",
+        "Nullification: a state may erase any penalty it dislikes",
+        "Executive privilege: officials are immune from ordinary laws"
+      ],
+      "difficulty": "medium",
+      "explanation": "The rule of law means laws apply equally to everyone, including the people who make and enforce them. An official who obeys an ordinary penalty shows the principle in action.",
+      "memoryHook": "T-Rexy says: Even the governor stops at the same red light.",
+      "tags": [
+        "rule-of-law",
+        "foundations"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_003",
+      "question": "A Jefferson City reading group studies a thinker who argued that people are born with rights no ruler gives them, and that governments exist by the consent of the governed. Which thinker is it?",
+      "correctAnswer": "John Locke",
+      "distractors": [
+        "Thomas Hobbes, who argued people need an absolute ruler for safety",
+        "Baron de Montesquieu, who wrote mainly about separating powers",
+        "Jean-Jacques Rousseau, who wrote a century after the founding era"
+      ],
+      "difficulty": "easy",
+      "explanation": "Locke's Two Treatises argued for natural rights to life, liberty, and property, government by consent, and a right to replace a government that destroys those rights - ideas the Declaration of Independence echoes.",
+      "memoryHook": "T-Rexy says: Locke: rights are born with you, not granted to you.",
+      "tags": [
+        "natural-rights",
+        "foundations"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_004",
+      "question": "A state senator complains that the governor vetoed her bill and a court later struck down a similar law, calling both events unfair roadblocks. A civics teacher replies that the roadblocks are the design. Which pair of ideas is she defending?",
+      "correctAnswer": "Separation of powers and checks and balances",
+      "distractors": [
+        "Federalism and reserved powers",
+        "Popular sovereignty and direct democracy",
+        "Judicial review and the supremacy clause"
+      ],
+      "difficulty": "medium",
+      "explanation": "Montesquieu's separation of powers divides government into legislative, executive, and judicial branches, and checks and balances let each branch limit the others - a veto and a court ruling are the system working as designed.",
+      "memoryHook": "T-Rexy says: Three branches, each holding a brake on the others.",
+      "tags": [
+        "separation-of-powers",
+        "foundations"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_005",
+      "question": "A student underlines the phrase 'Life, Liberty and the pursuit of Happiness' and asks which document she is reading and what kind of rights it names.",
+      "correctAnswer": "The Declaration of Independence, naming unalienable rights",
+      "distractors": [
+        "The Articles of Confederation, naming powers of the states",
+        "The Bill of Rights, naming rights of the accused",
+        "The Federalist Papers, naming arguments for ratification"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Declaration of Independence (1776) calls life, liberty, and the pursuit of happiness unalienable rights - rights that cannot be taken away or surrendered - adapting Locke's life, liberty, and property.",
+      "memoryHook": "T-Rexy says: Unalienable: rights no one can sign away for you.",
+      "tags": [
+        "declaration",
+        "foundations"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_006",
+      "question": "Under the Articles of Confederation, Congress could not tax, could not regulate trade between the states, and needed nine of thirteen states to pass major laws. What did these weaknesses convince many leaders to do?",
+      "correctAnswer": "Replace the Articles with a stronger Constitution at the Philadelphia Convention of 1787",
+      "distractors": [
+        "Give the Confederation Congress an army to collect state debts by force",
+        "Return to British rule under a negotiated charter",
+        "Split the union into three regional confederacies"
+      ],
+      "difficulty": "medium",
+      "explanation": "Shays' Rebellion and the paralysis of the Confederation Congress convinced leaders to meet in Philadelphia in 1787; instead of merely revising the Articles, they wrote a new Constitution with taxing and commerce powers.",
+      "memoryHook": "T-Rexy says: A government that cannot tax cannot last.",
+      "tags": [
+        "articles-of-confederation",
+        "foundations"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_007",
+      "question": "Which phrase opens the Constitution and announces that the people, not the states or a king, are establishing it?",
+      "correctAnswer": "'We the People of the United States'",
+      "distractors": [
+        "'We the States of the Confederacy'",
+        "'In Congress, July 4, 1776'",
+        "'When in the Course of human events'"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Preamble begins 'We the People of the United States,' grounding the Constitution's authority in popular sovereignty rather than in a compact among state governments alone.",
+      "memoryHook": "T-Rexy says: The Constitution starts with its owners: We the People.",
+      "tags": [
+        "constitution",
+        "foundations"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_008",
+      "question": "A Missouri driver gets a state-issued license, votes in a federal election run by county officials, and drives on an interstate highway built with federal money. Which system does this everyday mix illustrate?",
+      "correctAnswer": "Federalism: power divided and shared between national and state governments",
+      "distractors": [
+        "A unitary system: all authority flows from one central government",
+        "A confederation: states cooperate but the center only advises",
+        "Separation of powers: the three branches dividing one government's work"
+      ],
+      "difficulty": "hard",
+      "explanation": "Federalism divides power between the national government and the states, so licensing, election administration, and highway funding overlap in daily life. Separation of powers, by contrast, divides work among branches of the same government.",
+      "memoryHook": "T-Rexy says: Two levels of government, one driver's whole day.",
+      "tags": [
+        "federalism",
+        "foundations"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_009",
+      "question": "A state creates a new licensing system for a profession Congress has never regulated. A challenger argues only the federal government may license workers. Which provision most directly supports the state?",
+      "correctAnswer": "The Tenth Amendment: powers not delegated to the United States, nor prohibited to the states, are reserved to the states or the people",
+      "distractors": [
+        "The supremacy clause, which makes federal law the highest law of the land",
+        "The commerce clause, which gives Congress power over interstate trade",
+        "The necessary and proper clause, which lets Congress choose means to its ends"
+      ],
+      "difficulty": "hard",
+      "explanation": "Licensing professions is a classic reserved power. The Tenth Amendment confirms that powers the Constitution neither grants the federal government nor denies the states remain with the states or the people.",
+      "memoryHook": "T-Rexy says: Not granted, not forbidden: reserved.",
+      "tags": [
+        "tenth-amendment",
+        "federalism"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_010",
+      "question": "A student peacefully criticizes a new school policy in the student newspaper, and the principal asks whether the Constitution protects that. Which amendment is the starting point?",
+      "correctAnswer": "The First Amendment, protecting freedom of speech and of the press",
+      "distractors": [
+        "The Second Amendment, protecting the right to keep and bear arms",
+        "The Fourth Amendment, protecting against unreasonable searches",
+        "The Seventh Amendment, protecting jury trials in civil cases"
+      ],
+      "difficulty": "easy",
+      "explanation": "The First Amendment protects speech, press, religion, assembly, and petition. Peaceful criticism of government policy in a newspaper sits at the core of speech and press protection.",
+      "memoryHook": "T-Rexy says: Speech, press, religion, assembly, petition: the First holds five.",
+      "tags": [
+        "first-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_011",
+      "question": "A city denies a permit for a peaceful march because officials dislike the marchers' message, while granting permits to groups they agree with. Which doctrine does this violate?",
+      "correctAnswer": "Viewpoint discrimination: government may not regulate speech because it favors or disfavors the speaker's viewpoint",
+      "distractors": [
+        "The establishment clause, which bars government from setting up a religion",
+        "Prior restraint doctrine only, which applies to newspapers before publication",
+        "The right to a speedy trial, which the permit delay infringes"
+      ],
+      "difficulty": "medium",
+      "explanation": "Content rules for public forums are suspect, and viewpoint discrimination - treating speech differently because of its message - is the most clearly forbidden form. A permit granted or denied by agreement with the message is unconstitutional.",
+      "memoryHook": "T-Rexy says: The permit cannot depend on the message.",
+      "tags": [
+        "first-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_012",
+      "question": "Police, without a warrant or any emergency, enter a home and search every room looking for evidence of a minor offense committed elsewhere. The homeowner sues. Which analysis is correct?",
+      "correctAnswer": "The search violates the Fourth Amendment: a home search generally requires a warrant based on probable cause issued by a judge",
+      "distractors": [
+        "The search is allowed because the Fourth Amendment only covers arrests, not searches",
+        "The search is allowed because minor offenses carry a home-entry exception",
+        "The search violates the Third Amendment, which governs all entries into homes"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Fourth Amendment bars unreasonable searches and requires warrants supported by probable cause, particularly describing the place and items. The home receives the strongest protection, and no emergency or exception is present here.",
+      "memoryHook": "T-Rexy says: A home search starts with a judge's warrant.",
+      "tags": [
+        "fourth-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_013",
+      "question": "A defendant in a criminal trial refuses to testify, and the prosecutor asks the jury to treat the silence as proof of guilt. What does the Fifth Amendment say about this?",
+      "correctAnswer": "The defendant has the right to remain silent, and the silence may not be used as evidence of guilt",
+      "distractors": [
+        "The defendant must testify once the prosecution rests its case",
+        "Silence is allowed only if the defendant first signs a waiver of trial rights",
+        "The right to silence applies to witnesses but never to defendants"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Fifth Amendment protects against self-incrimination: no person shall be compelled in a criminal case to be a witness against himself, and courts instruct juries not to draw guilt from silence.",
+      "memoryHook": "T-Rexy says: Silence cannot be turned into evidence.",
+      "tags": [
+        "fifth-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_014",
+      "question": "A man accused of a felony cannot afford a lawyer, and the county tells him to defend himself because public defenders are busy. Under Gideon v. Wainwright, what must happen?",
+      "correctAnswer": "The state must provide him a defense attorney free of charge",
+      "distractors": [
+        "He must represent himself; counsel is guaranteed only in federal court",
+        "His trial is postponed until he can save enough to hire counsel",
+        "He may borrow a law student instead, which satisfies the Constitution"
+      ],
+      "difficulty": "medium",
+      "explanation": "Gideon v. Wainwright (1963) held the Sixth Amendment right to counsel is a fundamental right applied to the states, so an indigent felony defendant must be provided an attorney.",
+      "memoryHook": "T-Rexy says: No money for a lawyer does not mean no lawyer.",
+      "tags": [
+        "sixth-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_015",
+      "question": "A state passes a law denying one group of residents a basic civil protection that everyone else enjoys, offering no legitimate reason. Which clause is the natural home for the challenge?",
+      "correctAnswer": "The equal protection clause of the Fourteenth Amendment",
+      "distractors": [
+        "The due process clause of the Fifth Amendment, which binds the states",
+        "The privileges and immunities clause of Article IV, which covers voting",
+        "The guarantees clause, which promises each state a republican government"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Fourteenth Amendment binds the states and forbids denying any person within a state's jurisdiction the equal protection of the laws. The Fifth Amendment's due process clause binds the federal government, not the states.",
+      "memoryHook": "T-Rexy says: Equal protection is the Fourteenth's promise against states.",
+      "tags": [
+        "fourteenth-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_016",
+      "question": "A Missouri history class is studying how the Civil War era changed the Constitution itself. Slavery had existed in the state since its founding - which amendment finally abolished it throughout the United States?",
+      "correctAnswer": "The Thirteenth Amendment",
+      "distractors": [
+        "The Twelfth Amendment",
+        "The Fourteenth Amendment",
+        "The Fifteenth Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Thirteenth Amendment (1865) abolished slavery and involuntary servitude except as punishment for a crime. The Fourteenth addressed citizenship and rights; the Fifteenth addressed voting regardless of race.",
+      "memoryHook": "T-Rexy says: Thirteen freed: the Thirteenth ended slavery.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_017",
+      "question": "A woman born in St. Louis to immigrant parents is told she cannot be a citizen because her parents were not citizens. Which amendment settles the question in her favor?",
+      "correctAnswer": "The Fourteenth Amendment: all persons born in the United States are citizens",
+      "distractors": [
+        "The Fifteenth Amendment, which lists citizenship qualifications",
+        "The Nineteenth Amendment, which grants citizenship to women",
+        "The Twenty-sixth Amendment, which sets the citizenship age"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Fourteenth Amendment's citizenship clause makes all persons born or naturalized in the United States, and subject to its jurisdiction, citizens of the United States and of their state.",
+      "memoryHook": "T-Rexy says: Born here means citizen here.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_018",
+      "question": "In 1920 a grandmother voted for the first time in a national election; in 1971 her grandson voted at age 19. Which amendments made each vote possible?",
+      "correctAnswer": "The Nineteenth Amendment (women's suffrage, 1920) and the Twenty-sixth Amendment (voting age 18, 1971)",
+      "distractors": [
+        "The Fifteenth Amendment in both cases",
+        "The Seventeenth Amendment (1913) and the Twenty-fourth Amendment (1964)",
+        "The Twenty-third Amendment (1961) and the Fifteenth Amendment (1870)"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Nineteenth Amendment barred denying the vote on account of sex; the Twenty-sixth lowered the voting age to 18 in all elections, a direct response to young soldiers drafted for Vietnam who could not vote.",
+      "memoryHook": "T-Rexy says: Nineteen for her vote; twenty-six for his at eighteen.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_019",
+      "question": "A student asks why the First Amendment, written against Congress, limits her state legislature too. Which doctrine and amendment supply the answer?",
+      "correctAnswer": "Selective incorporation: the Fourteenth Amendment's due process clause applies most Bill of Rights protections against the states",
+      "distractors": [
+        "The supremacy clause, which directly extends every amendment to state law",
+        "The Ninth Amendment, which reserves all unlisted rights against the states",
+        "Original jurisdiction: the Supreme Court hears all state rights cases first"
+      ],
+      "difficulty": "hard",
+      "explanation": "Through selective incorporation, the Supreme Court has applied most Bill of Rights guarantees to the states via the Fourteenth Amendment's due process clause, case by case, beginning with free speech in Gitlow v. New York (1925).",
+      "memoryHook": "T-Rexy says: The Fourteenth carries the Bill of Rights to the states.",
+      "tags": [
+        "incorporation",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_020",
+      "question": "Why were the first ten amendments added to the Constitution in 1791?",
+      "correctAnswer": "Anti-Federalists demanded explicit protections of individual rights as the price of ratifying the Constitution",
+      "distractors": [
+        "The British government required them before recognizing independence",
+        "George Washington ordered them added by executive proclamation",
+        "They were copied from the Articles of Confederation's rights list"
+      ],
+      "difficulty": "easy",
+      "explanation": "Federalists promised a bill of rights to win over skeptics who feared a strong central government. James Madison shepherded twelve proposed amendments through Congress; ten were ratified in 1791.",
+      "memoryHook": "T-Rexy says: Ten amendments bought the trust ratification needed.",
+      "tags": [
+        "bill-of-rights",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_021",
+      "question": "A defendant facing a minor first offense is ordered to pay a fine of ten million dollars, set mainly to make an example of him. Which amendment gives him his argument?",
+      "correctAnswer": "The Eighth Amendment, which prohibits excessive fines and excessive bail",
+      "distractors": [
+        "The Second Amendment, which protects arms against seizure as fines",
+        "The Seventh Amendment, which caps all civil penalties",
+        "The Tenth Amendment, which reserves fine-setting to juries"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Eighth Amendment bars excessive bail, excessive fines, and cruel and unusual punishments. A fine grossly out of proportion to a minor offense is the amendment's classic target.",
+      "memoryHook": "T-Rexy says: The punishment must fit, in dollars too.",
+      "tags": [
+        "second-eighth",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_022",
+      "question": "A lawyer argues that because a claimed right is not listed anywhere in the Constitution, the people cannot possess it. Which amendment was written to defeat exactly that argument?",
+      "correctAnswer": "The Ninth Amendment: enumerating certain rights shall not be construed to deny others retained by the people",
+      "distractors": [
+        "The Tenth Amendment, which reserves all unlisted rights to state legislatures",
+        "The First Amendment, whose penumbras create all unlisted rights",
+        "The Privileges or Immunities Clause of Article I"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Ninth Amendment answers the fear that listing some rights would imply the people surrendered the rest: the enumeration of certain rights cannot be used to deny or disparage others retained by the people.",
+      "memoryHook": "T-Rexy says: The list is a floor, not a ceiling.",
+      "tags": [
+        "ninth-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_023",
+      "question": "Before the government may take a person's property for a highway, it must give notice, a hearing, and fair payment. Which two Fifth Amendment ideas are at work?",
+      "correctAnswer": "Due process and just compensation for takings",
+      "distractors": [
+        "Double jeopardy and self-incrimination",
+        "Grand jury indictment and eminent domain pricing by juries",
+        "Speedy trial and confrontation of witnesses"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Fifth Amendment requires due process before depriving a person of life, liberty, or property, and its takings clause requires just compensation when private property is taken for public use.",
+      "memoryHook": "T-Rexy says: Notice, a hearing, and fair pay before the bulldozers.",
+      "tags": [
+        "due-process",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_024",
+      "question": "A man is acquitted of robbery by a jury. A year later, prosecutors recharge him with the same robbery on the same facts, hoping a new jury will convict. What stops them?",
+      "correctAnswer": "The Fifth Amendment's double jeopardy clause: no person shall be twice put in jeopardy for the same offense",
+      "distractors": [
+        "The statute of limitations, which expires one year after any acquittal",
+        "The Sixth Amendment's speedy trial clause, which bars all retrials",
+        "Res judicata, a rule found only in state constitutions"
+      ],
+      "difficulty": "medium",
+      "explanation": "Once acquitted, a defendant cannot be retried for the same offense by the same sovereign. The double jeopardy clause also bars multiple punishments for the same offense.",
+      "memoryHook": "T-Rexy says: Acquitted once means finished, for that offense.",
+      "tags": [
+        "double-jeopardy",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_025",
+      "question": "A public school begins each day with a teacher-led prayer from one faith, and students of other faiths are told they may stand in the hall. Under modern Supreme Court doctrine, what is the problem?",
+      "correctAnswer": "It violates the establishment clause: a public school may not sponsor or endorse religious exercise",
+      "distractors": [
+        "It violates the free exercise clause only, which bars all prayer near schools",
+        "It is allowed because students may leave the room during the prayer",
+        "It violates the Third Amendment's ban on quartering chaplains in schools"
+      ],
+      "difficulty": "hard",
+      "explanation": "School-sponsored prayer, from Engel v. Vitale (1962) through later cases, violates the establishment clause because a public institution may not endorse or coerce religious practice; opting out does not cure school sponsorship.",
+      "memoryHook": "T-Rexy says: The school may not sponsor the prayer.",
+      "tags": [
+        "establishment",
+        "rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_026",
+      "question": "How many U.S. senators does each state elect, and how long is a senator's term?",
+      "correctAnswer": "Two senators per state, serving six-year terms",
+      "distractors": [
+        "One senator per state, serving four-year terms",
+        "Two senators per state, serving two-year terms",
+        "Senators are chosen by state legislatures for life terms"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Seventeenth Amendment made senators directly elected, but the structure comes from Article I: two per state for six-year terms, with one-third of the Senate elected every two years.",
+      "memoryHook": "T-Rexy says: Two per state, six years each.",
+      "tags": [
+        "congress",
+        "legislative"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_027",
+      "question": "Missouri has eight members in the U.S. House of Representatives. What decides how many House seats a state gets?",
+      "correctAnswer": "Its population, counted in the census taken every ten years",
+      "distractors": [
+        "Its land area measured in square miles",
+        "The number of counties the state contains",
+        "Equal seats for every state, like the Senate"
+      ],
+      "difficulty": "easy",
+      "explanation": "House seats are apportioned by population under Article I, using the decennial census; after each census, seats are reapportioned and states redraw district maps.",
+      "memoryHook": "T-Rexy says: House seats follow the census count of people.",
+      "tags": [
+        "congress",
+        "legislative"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_028",
+      "question": "A bill passes both houses of Congress, but the President vetoes it. The bill's supporters still hope to make it law. What exactly must happen?",
+      "correctAnswer": "Each house must pass it again by a two-thirds vote, overriding the veto",
+      "distractors": [
+        "The Supreme Court must approve the bill by a majority vote",
+        "A simple majority in the Senate alone can override a veto",
+        "The bill becomes law automatically after ten days despite the veto"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article I lets Congress override a presidential veto with two-thirds of both the House and the Senate. The ten-day rule makes a bill law without a signature only when Congress stays in session and the President does not veto.",
+      "memoryHook": "T-Rexy says: Two-thirds of both houses beat one veto.",
+      "tags": [
+        "congress",
+        "legislative"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_029",
+      "question": "All bills for raising revenue must begin in one specific chamber. Which one, and what is the idea behind it?",
+      "correctAnswer": "The House of Representatives, the chamber closest to the people",
+      "distractors": [
+        "The Senate, because it represents the states equally",
+        "Either chamber, since the rule was repealed in 1913",
+        "The Treasury Department, which drafts all tax bills"
+      ],
+      "difficulty": "medium",
+      "explanation": "The origination clause of Article I requires revenue bills to start in the House - the chamber elected every two years and apportioned by population - though the Senate may amend them.",
+      "memoryHook": "T-Rexy says: Tax bills start with the people's house.",
+      "tags": [
+        "congress",
+        "legislative"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_030",
+      "question": "A president is accused of accepting bribes in office. Lay out the constitutional sequence for removing him.",
+      "correctAnswer": "The House impeaches by majority vote; the Senate tries the case and convicts by two-thirds, and the Chief Justice presides",
+      "distractors": [
+        "The Senate impeaches by two-thirds; the House convicts by majority",
+        "The Supreme Court removes the president after a criminal conviction",
+        "The cabinet removes the president by a three-fourths vote under Article II"
+      ],
+      "difficulty": "hard",
+      "explanation": "Impeachment is a two-step process: the House brings charges (impeaches) by majority, then the Senate holds the trial. Conviction and removal require two-thirds of the Senate, and when the president is tried, the Chief Justice presides.",
+      "memoryHook": "T-Rexy says: House accuses, Senate decides, two-thirds removes.",
+      "tags": [
+        "congress",
+        "legislative"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_031",
+      "question": "Which power does the Constitution give Congress that lets it punish counterfeiting, build post offices, and declare war?",
+      "correctAnswer": "The enumerated powers listed in Article I, Section 8",
+      "distractors": [
+        "The reserved powers of the Tenth Amendment",
+        "The police powers inherited from the states",
+        "The prerogative powers of the commander in chief"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article I, Section 8 lists Congress's enumerated powers - taxing, borrowing, regulating commerce, coining money, declaring war, and more - the core job description of the legislative branch.",
+      "memoryHook": "T-Rexy says: Section 8 is Congress's job list.",
+      "tags": [
+        "congress",
+        "legislative"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_032",
+      "question": "Congress passes a law creating a national database for a purpose not listed in its enumerated powers, arguing the database helps it regulate interstate commerce effectively. Which clause is its best defense?",
+      "correctAnswer": "The necessary and proper clause, letting Congress choose means to carry out its enumerated powers",
+      "distractors": [
+        "The supremacy clause, which validates any law Congress passes",
+        "The general welfare clause of the Preamble, a standalone power",
+        "The commerce clause alone, since databases are articles of commerce"
+      ],
+      "difficulty": "hard",
+      "explanation": "McCulloch v. Maryland (1819) read the necessary and proper clause broadly: if the end is legitimate and within the Constitution, means that are appropriate and not prohibited are constitutional.",
+      "memoryHook": "T-Rexy says: Elastic clause: right end, reasonable means.",
+      "tags": [
+        "congress",
+        "legislative"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_033",
+      "question": "The Senate refuses to confirm a president's nominee for Secretary of State. Which constitutional idea gives the Senate this blocking power?",
+      "correctAnswer": "Advice and consent: the Senate must approve presidential appointments to major offices",
+      "distractors": [
+        "The appointments veto, found in the Tenth Amendment",
+        "Senatorial courtesy, a constitutional rule for cabinet posts",
+        "The recess appointment clause, which the Senate may suspend"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article II makes presidential appointments to ambassadors, judges, and principal officers subject to the Senate's advice and consent - a deliberate check on executive patronage.",
+      "memoryHook": "T-Rexy says: The Senate holds a key to the cabinet door.",
+      "tags": [
+        "congress",
+        "legislative"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_034",
+      "question": "What is the maximum number of years a person may serve as President of the United States?",
+      "correctAnswer": "Ten years: two elected four-year terms, plus up to two years succeeding another president",
+      "distractors": [
+        "Eight years exactly, with no exceptions of any kind",
+        "Twelve years, following Franklin Roosevelt's precedent",
+        "There is no limit written in the Constitution"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Twenty-second Amendment limits election to two terms; a vice president who succeeds and serves two years or less of another's term may still be elected twice, making ten years the ceiling.",
+      "memoryHook": "T-Rexy says: Two terms, and at most two extra years.",
+      "tags": [
+        "president",
+        "executive"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_035",
+      "question": "As commander in chief, the President leads the armed forces - but which branch alone can declare war?",
+      "correctAnswer": "Congress",
+      "distractors": [
+        "The President, by executive order",
+        "The Joint Chiefs of Staff",
+        "The Supreme Court, in wartime sessions"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I gives Congress the power to declare war, while Article II makes the President commander in chief - a deliberate split between deciding on war and conducting it.",
+      "memoryHook": "T-Rexy says: Congress declares; the President commands.",
+      "tags": [
+        "president",
+        "executive"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_036",
+      "question": "A president signs a treaty with another nation, but it never takes effect because the Senate refuses its consent. How many senators must agree for a treaty to be ratified?",
+      "correctAnswer": "Two-thirds of the senators present",
+      "distractors": [
+        "A simple majority of the full Senate",
+        "Three-fourths of the Senate and the House together",
+        "Treaties need no Senate action once signed"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article II requires the advice and consent of two-thirds of the senators present for treaty ratification - a supermajority reflecting how binding treaties are as the law of the land.",
+      "memoryHook": "T-Rexy says: Treaties need two-thirds of the Senate.",
+      "tags": [
+        "president",
+        "executive"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_037",
+      "question": "A president directs a federal agency to change how it enforces a law, using a written order that needs no vote in Congress. What is this instrument, and what limits it?",
+      "correctAnswer": "An executive order: it has the force of law but cannot override statutes or the Constitution, and a later president may revoke it",
+      "distractors": [
+        "A pocket veto: it permanently amends the statute it touches",
+        "A signing statement: it deletes parts of laws the president dislikes",
+        "An executive agreement: it binds all future presidents like a treaty"
+      ],
+      "difficulty": "medium",
+      "explanation": "Executive orders direct the executive branch under the President's constitutional and statutory authority. They cannot contradict acts of Congress, courts may strike them down, and successors may revoke them.",
+      "memoryHook": "T-Rexy says: Powerful, but borrowed from law - and revocable.",
+      "tags": [
+        "president",
+        "executive"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_038",
+      "question": "A president who has lost reelection issues a pardon on his final day to a former aide convicted of a federal crime. The new president objects. What is the legal result?",
+      "correctAnswer": "The pardon stands: the pardon power for federal offenses is plenary and cannot be undone by a successor",
+      "distractors": [
+        "The pardon is void because it was issued after the election",
+        "The pardon needs Senate confirmation within thirty days",
+        "The pardon covers the aide's state convictions as well"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article II gives the President power to grant reprieves and pardons for offenses against the United States, except in impeachment cases. A valid federal pardon is final; it does not reach state crimes.",
+      "memoryHook": "T-Rexy says: A federal pardon, once granted, is final.",
+      "tags": [
+        "president",
+        "executive"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_039",
+      "question": "If both the President and Vice President die or cannot serve, who is next in the line of succession?",
+      "correctAnswer": "The Speaker of the House of Representatives",
+      "distractors": [
+        "The Secretary of State",
+        "The President pro tempore of the Senate",
+        "The Chief Justice of the United States"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Presidential Succession Act of 1947 places the Speaker of the House after the Vice President, followed by the President pro tempore of the Senate and then cabinet secretaries beginning with State.",
+      "memoryHook": "T-Rexy says: After the VP comes the Speaker.",
+      "tags": [
+        "president",
+        "executive"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_040",
+      "question": "A candidate wins the national popular vote by three million ballots but loses the presidency. How is that outcome possible, and which body formally elects the president?",
+      "correctAnswer": "The Electoral College: electors chosen state by state cast the votes that formally elect the president, and most states award all their electors to the statewide winner",
+      "distractors": [
+        "The House of Representatives votes by state delegation in every election",
+        "The result is impossible; the popular vote winner always takes office",
+        "The Senate certifies the popular vote winner after a recount"
+      ],
+      "difficulty": "hard",
+      "explanation": "Presidents are chosen by 538 electors, apportioned by each state's House seats plus two senators. Winner-take-all rules in most states can make the electoral winner different from the popular-vote winner, as in 2000 and 2016.",
+      "memoryHook": "T-Rexy says: 538 electors, not the raw vote, pick the president.",
+      "tags": [
+        "electoral-college",
+        "executive"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_041",
+      "question": "A federal judge, appointed for life, issues a ruling the President strongly dislikes. The President asks what can be done to remove her. What is the correct answer?",
+      "correctAnswer": "Nothing by the President: federal judges serve during good behavior and can be removed only by impeachment and conviction",
+      "distractors": [
+        "The President may dismiss any federal judge by executive order",
+        "The judge's term expires at the next presidential election",
+        "The Senate may remove her by a majority recall vote"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article III judges hold office during good behavior - effectively for life - precisely so they can rule against powerful officials without fearing for their jobs. Removal requires impeachment by the House and conviction by the Senate.",
+      "memoryHook": "T-Rexy says: Life tenure protects unpopular rulings.",
+      "tags": [
+        "judiciary",
+        "courts"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_042",
+      "question": "How many justices sit on the U.S. Supreme Court, and who leads the Court?",
+      "correctAnswer": "Nine justices, led by the Chief Justice",
+      "distractors": [
+        "Seven justices, led by the senior associate justice",
+        "Eleven justices, led by a rotating president of the court",
+        "Thirteen justices, one for each judicial circuit"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Court has had nine justices since 1869 - a number set by Congress, not the Constitution - with the Chief Justice presiding over the Court and over presidential impeachment trials in the Senate.",
+      "memoryHook": "T-Rexy says: Nine seats, one Chief at the head.",
+      "tags": [
+        "judiciary",
+        "courts"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_043",
+      "question": "A state law conflicts with a federal statute, and the case reaches the Supreme Court, which strikes the state law down. Which two tools is the Court using?",
+      "correctAnswer": "The supremacy clause and judicial review",
+      "distractors": [
+        "The commerce clause and the elastic clause",
+        "Habeas corpus and bills of attainder",
+        "Advice and consent and the veto power"
+      ],
+      "difficulty": "medium",
+      "explanation": "The supremacy clause makes the Constitution and federal law supreme over conflicting state law, and judicial review - established in Marbury v. Madison (1803) - lets courts declare laws unconstitutional.",
+      "memoryHook": "T-Rexy says: Supremacy sets the rank; review enforces it.",
+      "tags": [
+        "judiciary",
+        "courts"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_044",
+      "question": "In Marbury v. Madison, the Court claimed the power to strike down an act of Congress while ruling against the very man asking for its help. Why do historians call this a masterstroke?",
+      "correctAnswer": "Chief Justice Marshall avoided a confrontation the Court would lose, yet established judicial review as precedent for all future cases",
+      "distractors": [
+        "The ruling made the Court's budget independent of Congress for the first time",
+        "The ruling gave the Court power to appoint its own members thereafter",
+        "The ruling ended the practice of presidential judicial appointments"
+      ],
+      "difficulty": "hard",
+      "explanation": "Marshall held that Marbury deserved his commission but that the Judiciary Act's grant of original jurisdiction was unconstitutional - so the Court gained the power to void laws while denying itself a case it could not enforce against President Jefferson.",
+      "memoryHook": "T-Rexy says: It claimed the biggest power by deciding the smallest point.",
+      "tags": [
+        "judiciary",
+        "courts"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_045",
+      "question": "A case begins in a federal district court in Kansas City and the loser appeals. Describe the normal path upward.",
+      "correctAnswer": "Appeal to a federal court of appeals (circuit court), then a request for the Supreme Court to hear the case by writ of certiorari",
+      "distractors": [
+        "Direct appeal to the Supreme Court, which must hear every federal case",
+        "Appeal to the state supreme court, then to the governor",
+        "A new trial before a different district judge, then Congress reviews it"
+      ],
+      "difficulty": "medium",
+      "explanation": "District courts are the trial level; courts of appeals review their decisions; the Supreme Court takes cases mainly by granting certiorari, which requires four justices to vote to hear the case - the rule of four.",
+      "memoryHook": "T-Rexy says: Trial, circuit, then four votes for cert.",
+      "tags": [
+        "judiciary",
+        "courts"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_046",
+      "question": "The Missouri Civics Education Initiative requires graduating students to pass a 100-question test modeled on which federal examination?",
+      "correctAnswer": "The USCIS naturalization civics test given to applicants for U.S. citizenship",
+      "distractors": [
+        "The federal civil service examination for postal workers",
+        "The Armed Forces Qualification Test",
+        "The bar examination's constitutional law section"
+      ],
+      "difficulty": "easy",
+      "explanation": "Section 170.345 RSMo requires students entering grade 9 after July 1, 2017 to pass a 100-question examination similar to the one the U.S. Citizenship and Immigration Services gives naturalization applicants.",
+      "memoryHook": "T-Rexy says: Same style of test new citizens take.",
+      "tags": [
+        "citizenship",
+        "civics-exam"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_047",
+      "question": "On the civics test: what is the supreme law of the land?",
+      "correctAnswer": "The Constitution",
+      "distractors": [
+        "The Declaration of Independence",
+        "The Articles of Confederation",
+        "The Federalist Papers"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Constitution is the supreme law of the land under its own supremacy clause - every other law, federal or state, must yield when it conflicts with the Constitution.",
+      "memoryHook": "T-Rexy says: Nothing outranks the Constitution.",
+      "tags": [
+        "citizenship",
+        "civics-exam"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_048",
+      "question": "On the civics test: the idea of self-government appears in the first three words of the Constitution. What are those words, and what do they establish?",
+      "correctAnswer": "'We the People' - the government gets its power from the people, not from a king or a legislature",
+      "distractors": [
+        "'We the States' - the union is only a treaty among sovereign states",
+        "'In Order To' - the document is a list of instructions to Congress",
+        "'Provide for the' - the government's first duty is military defense"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Preamble's first three words announce popular sovereignty: the Constitution's authority flows from the people themselves, the founding break with rule by monarchs or by state governments alone.",
+      "memoryHook": "T-Rexy says: Three words that hand power to the people.",
+      "tags": [
+        "citizenship",
+        "civics-exam"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_049",
+      "question": "Beyond voting, which pair of actions are recognized civic duties or responsibilities of U.S. citizens?",
+      "correctAnswer": "Serving on a jury when called and obeying the laws; responsibilities include staying informed and participating in the democratic process",
+      "distractors": [
+        "Owning property and joining a political party",
+        "Serving in the military for two years and paying a poll tax",
+        "Running for office once and registering all household members"
+      ],
+      "difficulty": "medium",
+      "explanation": "Citizens must serve on juries when summoned and obey the law - legal duties - while staying informed, voting, and joining community life are responsibilities of good citizenship taught on the USCIS test.",
+      "memoryHook": "T-Rexy says: Jury duty is a duty; staying informed is a responsibility.",
+      "tags": [
+        "elections",
+        "participation"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_050",
+      "question": "The Constitution has been amended only 27 times in over 230 years. Which description of the amendment process explains both its rarity and its legitimacy?",
+      "correctAnswer": "An amendment must be proposed by two-thirds of Congress (or a convention) and ratified by three-fourths of the states, so only changes with broad national consensus succeed",
+      "distractors": [
+        "Amendments require a unanimous vote of the state governors",
+        "The President may amend the Constitution subject to Senate approval",
+        "Amendments pass by simple majorities but courts routinely void them"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article V's double supermajority - two-thirds to propose, three-fourths of states to ratify - filters out narrow or temporary majorities, which is why amendments are rare and carry unusual authority.",
+      "memoryHook": "T-Rexy says: Two gauntlets: two-thirds, then three-fourths.",
+      "tags": [
+        "amendment-process",
+        "foundations"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_051",
+      "question": "Congress taxes imports, Missouri taxes retail sales, and both tax incomes. A student calls this a mistake in the Constitution. What is the correct term for such overlapping powers?",
+      "correctAnswer": "Concurrent powers: powers shared by the federal and state governments, such as taxing and building roads",
+      "distractors": [
+        "Implied powers, which belong to Congress alone",
+        "Reserved powers, which the states hold exclusively",
+        "Denied powers, which neither level may use concurrently"
+      ],
+      "difficulty": "medium",
+      "explanation": "Concurrent powers are exercised by both levels at once - taxation, road building, and running courts. Implied powers belong to the federal side; reserved powers are the states' alone.",
+      "memoryHook": "T-Rexy says: Taxing is a power both levels hold at once.",
+      "tags": [
+        "federalism",
+        "powers"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_052",
+      "question": "A Missouri law licenses a business in terms that flatly contradict a valid federal regulation of the same activity. The business asks which rule it must obey.",
+      "correctAnswer": "The federal regulation: under the supremacy clause, valid federal law preempts conflicting state law",
+      "distractors": [
+        "The Missouri law, because licensing is always a reserved power",
+        "Whichever rule was enacted most recently controls",
+        "The business may choose the rule that costs it less"
+      ],
+      "difficulty": "hard",
+      "explanation": "Even in areas states normally regulate, a genuine conflict with valid federal law is resolved by the supremacy clause: the state law is preempted to the extent of the conflict.",
+      "memoryHook": "T-Rexy says: When valid federal and state law collide, federal wins.",
+      "tags": [
+        "federalism",
+        "powers"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_053",
+      "question": "On the civics test: what does the U.S. government do in a free enterprise system?",
+      "correctAnswer": "It protects property rights, enforces contracts, and sets rules against fraud and monopoly while leaving most decisions to buyers and sellers",
+      "distractors": [
+        "It sets the price of every good sold in the country",
+        "It assigns each worker a job and each firm a quota",
+        "It owns the major industries and banks"
+      ],
+      "difficulty": "easy",
+      "explanation": "The American system is a mixed form of free enterprise: markets make most decisions, but government enforces contracts and property rights and polices fraud, safety, and competition.",
+      "memoryHook": "T-Rexy says: Markets decide; government guards the rules.",
+      "tags": [
+        "economy",
+        "government-role"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_054",
+      "question": "On the civics test: why does the U.S. flag have thirteen stripes and fifty stars?",
+      "correctAnswer": "Thirteen stripes for the original thirteen colonies; fifty stars for the fifty states",
+      "distractors": [
+        "Thirteen stripes for the first thirteen presidents; fifty stars for the fifty capitals",
+        "Thirteen stripes for the Bill of Rights plus amendments; fifty stars for the fifty amendments proposed",
+        "Thirteen stripes for the signers' states; fifty stars for the fifty federal districts"
+      ],
+      "difficulty": "medium",
+      "explanation": "The flag's stripes memorialize the original thirteen colonies that declared independence, and each star represents a current state - the fiftieth added for Hawaii in 1960.",
+      "memoryHook": "T-Rexy says: Stripes remember the start; stars count the union now.",
+      "tags": [
+        "flag-mlk",
+        "civics-exam"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_055",
+      "question": "A new citizen is asked on the test when the Declaration of Independence was adopted and when Constitution Day is observed. What are the correct dates?",
+      "correctAnswer": "The Declaration was adopted July 4, 1776; Constitution Day is September 17, the anniversary of the Constitution's signing in 1787",
+      "distractors": [
+        "The Declaration was adopted September 17, 1787; Constitution Day is July 4",
+        "Both are observed on July 4, when the Constitution was signed",
+        "The Declaration was adopted in 1781; Constitution Day is the first Monday in September"
+      ],
+      "difficulty": "medium",
+      "explanation": "Independence Day, July 4, marks the Declaration's adoption in 1776; Constitution Day, September 17, marks the day the delegates signed the Constitution in Philadelphia in 1787.",
+      "memoryHook": "T-Rexy says: July 4 for independence; September 17 for the signing.",
+      "tags": [
+        "holidays-history",
+        "civics-exam"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_056",
+      "question": "On the civics test: name one problem that led to the Civil War, and the president who led the Union through it.",
+      "correctAnswer": "Slavery (also states' rights and economic differences); Abraham Lincoln",
+      "distractors": [
+        "Taxation without representation; George Washington",
+        "Disputes over the Louisiana Purchase; Thomas Jefferson",
+        "The embargo on British goods; James Madison"
+      ],
+      "difficulty": "medium",
+      "explanation": "The USCIS test accepts slavery, economic differences, and states' rights as causes of the Civil War, and Lincoln - the sixteenth president - preserved the Union and issued the Emancipation Proclamation.",
+      "memoryHook": "T-Rexy says: Slavery split the Union; Lincoln held it together.",
+      "tags": [
+        "civil-war",
+        "history"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_057",
+      "question": "What did the Emancipation Proclamation of 1863 actually do, and what did it not do?",
+      "correctAnswer": "It freed enslaved people in the states in rebellion, but it did not end slavery nationwide - the Thirteenth Amendment did that",
+      "distractors": [
+        "It freed every enslaved person in America on the day it was issued",
+        "It granted citizenship and voting rights to freed people immediately",
+        "It abolished slavery in the border states including Missouri at once"
+      ],
+      "difficulty": "hard",
+      "explanation": "Lincoln's proclamation was a war measure aimed at the rebellious states; loyal border states like Missouri were exempt. Slavery ended everywhere only with the Thirteenth Amendment in 1865 - Missouri abolished it by its own ordinance on January 11, 1865, weeks before.",
+      "memoryHook": "T-Rexy says: A war measure first; the amendment finished it.",
+      "tags": [
+        "emancipation",
+        "history"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_058",
+      "question": "A Missouri voter wants to vote in a general election for President. By when must she act, under the rules the civics test teaches?",
+      "correctAnswer": "She must be registered to vote before Election Day, and the election is held in November of even-numbered years - presidential elections every four years",
+      "distractors": [
+        "Registration happens automatically at the polling place with no deadline anywhere",
+        "Presidential elections are held every two years in November",
+        "Only property owners may register under federal law"
+      ],
+      "difficulty": "easy",
+      "explanation": "Federal elections fall on the Tuesday after the first Monday in November of even years; voters must register in advance under their state's deadline - in Missouri, by the fourth Wednesday before the election.",
+      "memoryHook": "T-Rexy says: Register first, then vote in November.",
+      "tags": [
+        "voting",
+        "elections"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_059",
+      "question": "What are the two major political parties in the United States today, and what is the main job of a political party?",
+      "correctAnswer": "The Democratic and Republican parties; a party's job is to nominate candidates, win elections, and organize government around shared principles",
+      "distractors": [
+        "The Federalist and Anti-Federalist parties; their job is to ratify amendments",
+        "The Whig and Democratic parties; their job is to run the Electoral College",
+        "Parties exist mainly to count ballots and certify results"
+      ],
+      "difficulty": "medium",
+      "explanation": "Parties recruit and nominate candidates, campaign, and give voters a recognizable program; election officials, not parties, count ballots and certify results.",
+      "memoryHook": "T-Rexy says: Parties nominate and campaign; officials count.",
+      "tags": [
+        "parties",
+        "elections"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_060",
+      "question": "A trade association hires professionals to persuade legislators, runs issue ads, and endorses candidates, but it never places its own name on the ballot. How does this differ from a political party?",
+      "correctAnswer": "An interest group seeks to influence policy without seeking to govern; a party's defining goal is winning office and governing",
+      "distractors": [
+        "There is no difference; lobbying groups are parties under another name",
+        "Interest groups may pass laws when Congress is in recess",
+        "Parties may not lobby, while interest groups may nominate candidates"
+      ],
+      "difficulty": "hard",
+      "explanation": "Parties aim to control government by winning elections. Interest groups - unions, business associations, advocacy groups - press whichever officials hold power on the issues they care about.",
+      "memoryHook": "T-Rexy says: Parties run for the chair; groups lobby whoever sits in it.",
+      "tags": [
+        "interest-groups",
+        "elections"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_061",
+      "question": "On the civics test: when is the last day to file a federal income tax return in a typical year?",
+      "correctAnswer": "April 15",
+      "distractors": [
+        "January 31",
+        "December 31",
+        "The last Friday in April"
+      ],
+      "difficulty": "easy",
+      "explanation": "Federal income tax returns are due April 15 each year (shifted only when the date lands on a weekend or a District of Columbia holiday).",
+      "memoryHook": "T-Rexy says: Tax day: April 15.",
+      "tags": [
+        "taxes",
+        "civics-exam"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_062",
+      "question": "A young man turns 18 and receives a notice that he must register with the Selective Service System. Which statement is correct?",
+      "correctAnswer": "Registration is required by law for nearly all men ages 18 to 25, though the draft itself has not been used since 1973",
+      "distractors": [
+        "Registration automatically enlists him in the Army for two years",
+        "Only men who plan to attend college must register",
+        "The requirement ended permanently when the Vietnam War ended"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Military Selective Service Act requires registration within 30 days of turning 18. Registration is not enlistment; no one has been drafted since 1973, but the system is maintained by law.",
+      "memoryHook": "T-Rexy says: Registering is not enlisting.",
+      "tags": [
+        "military",
+        "civics-exam"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_063",
+      "question": "A public high school suspends students for wearing black armbands to protest a war, though the protest caused no disruption. Under Tinker v. Des Moines, what happens on review?",
+      "correctAnswer": "The suspension is unconstitutional: students do not shed their First Amendment rights at the schoolhouse gate, and silent protest is protected absent substantial disruption",
+      "distractors": [
+        "The school wins because minors have no speech rights on campus",
+        "The students win only if a majority of classmates joined the protest",
+        "The case is dismissed because the First Amendment covers speech only about elections"
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinker (1969) protects student expression unless the school can show facts that reasonably lead to substantial disruption of school work or invasion of others' rights - neither was present for silent armbands.",
+      "memoryHook": "T-Rexy says: Rights do not stop at the schoolhouse gate.",
+      "tags": [
+        "rights-cases",
+        "courts"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_064",
+      "question": "Police obtain a murder confession after two days of questioning a suspect who repeatedly asked for a lawyer and was refused one. Under Miranda v. Arizona, what is the likely fate of the confession?",
+      "correctAnswer": "It is excluded: statements from custodial interrogation are inadmissible unless the suspect was warned of the rights to silence and counsel and waived them",
+      "distractors": [
+        "It is admitted because confessions are never excluded once given voluntarily in tone",
+        "It is admitted if a judge finds the police acted in good faith",
+        "It is excluded only if the suspect can prove physical abuse occurred"
+      ],
+      "difficulty": "hard",
+      "explanation": "Miranda (1966) requires the familiar warnings before custodial interrogation; ignoring a clear request for counsel makes the resulting statements inadmissible in the prosecution's case.",
+      "memoryHook": "T-Rexy says: No warnings, ignored lawyer request: no confession.",
+      "tags": [
+        "rights-cases",
+        "courts"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_065",
+      "question": "In one sentence each, what do the three branches of the federal government do?",
+      "correctAnswer": "The legislative branch makes the laws, the executive branch carries them out, and the judicial branch interprets them",
+      "distractors": [
+        "The legislative branch enforces laws, the executive interprets them, the judicial makes them",
+        "All three branches share one job: administering the states",
+        "The judicial branch makes laws the other two must obey"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article I vests legislative power in Congress, Article II vests executive power in the President, and Article III vests judicial power in the courts - the Constitution's basic division of labor.",
+      "memoryHook": "T-Rexy says: Make, execute, interpret.",
+      "tags": [
+        "branches",
+        "foundations"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_066",
+      "question": "On the civics test: what is an amendment?",
+      "correctAnswer": "A change or addition to the Constitution",
+      "distractors": [
+        "A law passed by a state legislature",
+        "A rule issued by the Supreme Court",
+        "A speech given at a national convention"
+      ],
+      "difficulty": "easy",
+      "explanation": "Amendments alter or add to the constitutional text itself, which is why Article V surrounds them with supermajorities; ordinary statutes and court rules sit below the Constitution.",
+      "memoryHook": "T-Rexy says: An amendment rewrites the rulebook itself.",
+      "tags": [
+        "capitol-basics",
+        "civics-exam"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_067",
+      "question": "Which pair correctly matches a cabinet department with its core mission?",
+      "correctAnswer": "The Department of Agriculture supports farmers and food programs; the Department of Transportation oversees highways, rail, and aviation",
+      "distractors": [
+        "The Department of the Treasury commands the armed forces; the Department of Defense prints currency",
+        "The State Department runs the national parks; the Interior Department conducts diplomacy",
+        "The Justice Department is headed by a Chief Justice who also sits on the Court"
+      ],
+      "difficulty": "medium",
+      "explanation": "Cabinet departments divide the executive workload: Agriculture for farm and food policy, Transportation for the nation's movement systems, State for diplomacy, Treasury for finance, Interior for federal lands, Justice - headed by the Attorney General - for law enforcement.",
+      "memoryHook": "T-Rexy says: Each department owns its mission area.",
+      "tags": [
+        "cabinet",
+        "executive"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_068",
+      "question": "Congress forbids racial discrimination by privately owned motels and restaurants near interstate highways. A challenger says Congress may regulate only state governments. Which precedent answers him?",
+      "correctAnswer": "Heart of Atlanta Motel v. United States (1964): the commerce clause lets Congress regulate private businesses whose activities substantially affect interstate commerce",
+      "distractors": [
+        "Gibbons v. Ogden, which limited commerce power to navigation only",
+        "The Slaughter-House Cases, which voided the Civil Rights Act of 1964",
+        "United States v. Lopez, which struck down the Civil Rights Act"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Court upheld the Civil Rights Act of 1964 under the commerce clause: discrimination by businesses serving interstate travelers burdens interstate commerce. Lopez (1995) later trimmed the clause's edges without disturbing that holding.",
+      "memoryHook": "T-Rexy says: Commerce power reached the motel's front desk.",
+      "tags": [
+        "commerce-clause",
+        "powers"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_069",
+      "question": "Which list contains only powers or duties that belong to state governments rather than the federal government?",
+      "correctAnswer": "Issuing driver's licenses, running public schools, and conducting elections",
+      "distractors": [
+        "Printing money, declaring war, and conducting foreign policy",
+        "Regulating interstate commerce and naturalizing citizens",
+        "Maintaining a navy and negotiating treaties"
+      ],
+      "difficulty": "medium",
+      "explanation": "States run the machinery of daily civic life - schools, licenses, police, and elections (including for federal office) - while money, war, treaties, and immigration are federal.",
+      "memoryHook": "T-Rexy says: States license drivers and run the schools.",
+      "tags": [
+        "state-vs-federal",
+        "federalism"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_070",
+      "question": "On the civics test: what did Martin Luther King Jr. do?",
+      "correctAnswer": "He fought for civil rights for all Americans through nonviolent protest",
+      "distractors": [
+        "He wrote the Civil Rights Act as a senator from Georgia",
+        "He served as the first Black Supreme Court justice",
+        "He led the Union Army's march through the South"
+      ],
+      "difficulty": "easy",
+      "explanation": "King led the civil rights movement's nonviolent campaigns - Montgomery, Birmingham, the March on Washington - pressing the nation to honor its promises of equality; Thurgood Marshall, not King, was the first Black justice.",
+      "memoryHook": "T-Rexy says: King marched peacefully for equal rights.",
+      "tags": [
+        "mlk-rights",
+        "history"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_071",
+      "question": "How many constitutions has Missouri had, and which one governs the state today?",
+      "correctAnswer": "Four constitutions - 1820, 1865, 1875, and the current Constitution of 1945",
+      "distractors": [
+        "Two constitutions - the territorial charter and the Constitution of 1875",
+        "One constitution, adopted at statehood in 1821 and never replaced",
+        "Six constitutions, the latest adopted in 1968"
+      ],
+      "difficulty": "easy",
+      "explanation": "Missouri voters adopted constitutions in 1820 (statehood), 1865 (Civil War era), 1875, and 1945. The 1945 constitution, written by a convention in Jefferson City, still governs Missouri, though it has been amended many times.",
+      "memoryHook": "T-Rexy says: Four constitutions; 1945 is the one in force.",
+      "tags": [
+        "missouri",
+        "mo-constitution"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_072",
+      "question": "Missouri entered the Union in 1821 as part of which famous national bargain, and what did the bargain arrange?",
+      "correctAnswer": "The Missouri Compromise: Missouri entered as a slave state while Maine entered as a free state, keeping the Senate balanced",
+      "distractors": [
+        "The Compromise of 1850, which admitted Missouri and California together",
+        "The Northwest Ordinance, which made Missouri a free state",
+        "The Kansas-Nebraska Act, which let Missouri choose its status by vote"
+      ],
+      "difficulty": "medium",
+      "explanation": "Congress deadlocked over Missouri's 1819 application; the 1820 compromise admitted Maine free and Missouri slave, and banned slavery in the Louisiana Purchase lands north of 36 degrees 30 minutes. Missouri's statehood was proclaimed in 1821.",
+      "memoryHook": "T-Rexy says: Missouri in as slave, Maine in as free.",
+      "tags": [
+        "missouri",
+        "mo-constitution"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_073",
+      "question": "Missouri's 1865 constitution is remembered by a nickname tied to its loyalty oath. What was the oath, and what did the document do?",
+      "correctAnswer": "The Drake Constitution required a sweeping 'ironclad' loyalty oath from voters, ministers, teachers, and lawyers, and it abolished slavery in Missouri",
+      "distractors": [
+        "It required an oath to support the Confederacy and expelled Union officials",
+        "It required no oath at all, which is why critics called it toothless",
+        "Its oath applied only to the governor and lasted a single year"
+      ],
+      "difficulty": "hard",
+      "explanation": "The 1865 convention, led by Charles Drake, abolished slavery in Missouri on January 11, 1865 - before the Thirteenth Amendment - and imposed a test oath so broad that the U.S. Supreme Court struck parts of it down in Cummings v. Missouri (1867).",
+      "memoryHook": "T-Rexy says: Drake's oath reached pulpits and classrooms.",
+      "tags": [
+        "missouri",
+        "mo-constitution"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_074",
+      "question": "Which feature of Missouri government today traces directly to a constitutional convention that met in 1943-44 and produced the 1945 constitution?",
+      "correctAnswer": "A reorganized executive branch and modern court system under a constitution designed to be amended by the people, including through the initiative",
+      "distractors": [
+        "The abolition of the governorship in favor of a ruling council",
+        "The move of the capital from Jefferson City to St. Louis",
+        "The creation of a unicameral legislature modeled on Nebraska's"
+      ],
+      "difficulty": "medium",
+      "explanation": "The 1945 constitution streamlined departments, modernized the judiciary, kept the initiative and referendum the 1875 document had lacked, and remains Missouri's framework - amended often, but never replaced since.",
+      "memoryHook": "T-Rexy says: 1945 modernized the machine, and it still runs.",
+      "tags": [
+        "missouri",
+        "mo-constitution"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_075",
+      "question": "What is the opening article of rights in the Missouri Constitution called?",
+      "correctAnswer": "The Declaration of Rights - Article I of the Missouri Constitution",
+      "distractors": [
+        "The Missouri Bill of Attainder, printed as Article IX",
+        "The Preamble of Rights, which has no article number",
+        "Missouri has no rights article; it borrows the federal Bill of Rights"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article I of the Missouri Constitution is its Declaration of Rights, guaranteeing, among other things, free speech, religious freedom, due process, and trial by jury - in several places in language broader than the federal text.",
+      "memoryHook": "T-Rexy says: Article I is Missouri's own bill of rights.",
+      "tags": [
+        "missouri",
+        "mo-rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_076",
+      "question": "Missouri's Declaration of Rights says that all power is 'vested in and derived from the people' and that Missouri's government exists for the people's good. How does this compare with the federal Bill of Rights?",
+      "correctAnswer": "Missouri's declaration speaks in the people's own voice and can protect rights more broadly than the federal floor; the federal Bill of Rights mainly lists limits on government",
+      "distractors": [
+        "The two are word-for-word identical, by a clause in the U.S. Constitution",
+        "Missouri's declaration is weaker because state rights cannot exceed federal ones",
+        "The Declaration of Rights applies only to state employees"
+      ],
+      "difficulty": "medium",
+      "explanation": "State constitutions may grant more protection than the U.S. Constitution's floor, never less. Missouri's Article I opens with popular sovereignty itself and includes rights with no exact federal twin, such as an express right to bargain collectively.",
+      "memoryHook": "T-Rexy says: States may raise the floor, never lower it.",
+      "tags": [
+        "missouri",
+        "mo-rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_077",
+      "question": "A Missouri employee claims a right to organize and bargain collectively through representatives. Beyond the federal constitution, where does Missouri law expressly protect that?",
+      "correctAnswer": "In the Missouri Declaration of Rights itself - Article I, Section 29 of the Missouri Constitution",
+      "distractors": [
+        "Nowhere; Missouri's constitution forbids collective bargaining clauses",
+        "Only in a 1945 executive order that expired in 1950",
+        "In the Missouri Compromise, which regulated labor in new states"
+      ],
+      "difficulty": "hard",
+      "explanation": "Missouri is one of a handful of states whose constitution expressly provides that employees shall have the right to organize and bargain collectively - a clause added to Article I by the Constitution of 1945.",
+      "memoryHook": "T-Rexy says: Bargaining rights are written into Article I.",
+      "tags": [
+        "missouri",
+        "mo-rights"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_078",
+      "question": "Missouri's legislature is called the General Assembly. How many members sit in each chamber?",
+      "correctAnswer": "A Senate of 34 members and a House of Representatives of 163 members",
+      "distractors": [
+        "A Senate of 50 and a House of 100, matching the state's counties",
+        "A single chamber of 197 members elected statewide",
+        "A Senate of 40 and a House of 120, set by the 1875 constitution"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Missouri Senate has 34 members elected from districts for four-year terms; the House has 163 members for two-year terms - among the larger state houses in the nation.",
+      "memoryHook": "T-Rexy says: 34 senators, 163 representatives.",
+      "tags": [
+        "missouri",
+        "general-assembly"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_079",
+      "question": "A Missouri representative serves a two-year term. What is the term of a Missouri state senator, and what limit applies to both?",
+      "correctAnswer": "Four-year Senate terms; term limits cap service at eight years in each chamber",
+      "distractors": [
+        "Six-year Senate terms, matching the U.S. Senate, with no limits",
+        "Two-year Senate terms identical to the House, capped at ten years total",
+        "Four-year Senate terms with a lifetime ban after one term"
+      ],
+      "difficulty": "medium",
+      "explanation": "Missouri voters adopted term limits in 1992: no one may serve more than eight years in the House or eight in the Senate - sixteen years total if they serve in both.",
+      "memoryHook": "T-Rexy says: Four-year senators; eight years per chamber, max.",
+      "tags": [
+        "missouri",
+        "general-assembly"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_080",
+      "question": "Trace a Missouri bill's path after both chambers pass it in identical form.",
+      "correctAnswer": "It goes to the governor, who may sign it, veto it, or let it become law without a signature; a veto can be overridden by two-thirds of both chambers",
+      "distractors": [
+        "It goes to the Secretary of State, whose signature alone makes it law",
+        "It must be ratified by a majority of county commissions",
+        "It takes effect only after approval in a statewide referendum"
+      ],
+      "difficulty": "medium",
+      "explanation": "Missouri's process mirrors the federal one: presentment to the governor, signature, veto, or passage of time, with a two-thirds override in each house. Missouri's governor may also veto individual lines of spending bills.",
+      "memoryHook": "T-Rexy says: The governor's desk is the last stop - unless overridden.",
+      "tags": [
+        "missouri",
+        "general-assembly"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_081",
+      "question": "Missouri's governor returns a budget bill with three individual spending items struck out but the rest signed. Is this allowed, and what may the General Assembly do?",
+      "correctAnswer": "Yes - Missouri's governor has a line-item veto over appropriations; the Assembly may override each item by two-thirds of both chambers",
+      "distractors": [
+        "No - Missouri governors must sign or veto each bill as a whole",
+        "Yes, but overrides need only a majority vote of the House alone",
+        "No, because budget bills are exempt from all vetoes in Missouri"
+      ],
+      "difficulty": "hard",
+      "explanation": "Like most governors (and unlike the U.S. President), Missouri's governor may veto separate items of appropriation bills. Each overridden item needs two-thirds in both the House and Senate.",
+      "memoryHook": "T-Rexy says: Line by line on budgets; two-thirds restores.",
+      "tags": [
+        "missouri",
+        "general-assembly"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_082",
+      "question": "When does the Missouri General Assembly's regular session run, and when does it handle vetoes?",
+      "correctAnswer": "It convenes in January and adjourns in May; vetoed bills are taken up at a separate veto session in September",
+      "distractors": [
+        "It sits year-round except August, like Congress",
+        "It meets only in odd-numbered years for sixty days",
+        "It convenes in September and adjourns by Christmas Eve"
+      ],
+      "difficulty": "medium",
+      "explanation": "Missouri's constitution sets a part-time citizen legislature: regular session from January to mid-May, and a September veto session limited to bills the governor rejected.",
+      "memoryHook": "T-Rexy says: January to May, then vetoes in September.",
+      "tags": [
+        "missouri",
+        "general-assembly"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_083",
+      "question": "How long is the term of Missouri's governor, and how many consecutive terms may a governor serve?",
+      "correctAnswer": "Four-year terms, limited to two terms in the office",
+      "distractors": [
+        "Two-year terms with no limit on reelection",
+        "A single six-year term, with no reelection allowed",
+        "Four-year terms with a limit of three terms"
+      ],
+      "difficulty": "easy",
+      "explanation": "Missouri's governor serves four years and, under the state constitution, may be elected to no more than two terms - among the stricter executive limits in the states.",
+      "memoryHook": "T-Rexy says: Four years, twice at most.",
+      "tags": [
+        "missouri",
+        "governor"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_084",
+      "question": "Unlike the federal system, Missouri voters separately elect several executive officials besides the governor. Which set is elected statewide in Missouri?",
+      "correctAnswer": "The lieutenant governor, secretary of state, state auditor, state treasurer, and attorney general are each elected by the voters",
+      "distractors": [
+        "Only the governor is elected; all other officers are appointed by the Senate",
+        "The attorney general alone is elected; the rest are civil servants",
+        "All department heads are elected, including the adjutant general"
+      ],
+      "difficulty": "medium",
+      "explanation": "Missouri has a plural executive: voters pick the governor, lieutenant governor, secretary of state, auditor, treasurer, and attorney general independently - which means they can be of different parties and agendas.",
+      "memoryHook": "T-Rexy says: Six executives, six separate elections.",
+      "tags": [
+        "missouri",
+        "governor"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_085",
+      "question": "The Missouri state auditor discovers that a state agency misreported its spending. Why does this office matter to democratic accountability in a way an appointed auditor would not?",
+      "correctAnswer": "The auditor is independently elected, so the watchdog over the executive branch does not owe the job to the governor being watched",
+      "distractors": [
+        "The auditor can veto any agency regulation he dislikes",
+        "The auditor commands the state highway patrol's budget directly",
+        "An elected auditor's reports are legally binding court judgments"
+      ],
+      "difficulty": "hard",
+      "explanation": "Missouri's auditor is the state's independent watchdog - auditing agencies, counties, and courts - and election, not appointment, keeps the office answerable to voters rather than to the officials it examines.",
+      "memoryHook": "T-Rexy says: The watchdog is elected so it can bite the hand in office.",
+      "tags": [
+        "missouri",
+        "governor"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_086",
+      "question": "Which duties belong to Missouri's secretary of state?",
+      "correctAnswer": "Administering elections, registering businesses, and keeping the state's official records and archives",
+      "distractors": [
+        "Commanding the Missouri National Guard in peacetime",
+        "Writing the state budget and collecting all taxes",
+        "Presiding over the Missouri Senate as its president"
+      ],
+      "difficulty": "medium",
+      "explanation": "The secretary of state is Missouri's chief elections official and business registrar, and custodian of the state archives. The lieutenant governor, not the secretary of state, presides over the Senate.",
+      "memoryHook": "T-Rexy says: Elections, business filings, and the archives.",
+      "tags": [
+        "missouri",
+        "governor"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_087",
+      "question": "Missouri is famous in American law for the 'Missouri Plan.' What does the plan do?",
+      "correctAnswer": "It selects appellate judges through a nonpartisan commission that screens applicants, after which the governor appoints from the commission's short list and voters later vote on retention",
+      "distractors": [
+        "It elects all judges in partisan primaries like other state officers",
+        "It lets the governor appoint any judge directly with no screening",
+        "It fills judgeships by seniority from the state bar's membership"
+      ],
+      "difficulty": "easy",
+      "explanation": "Adopted in 1940 after disgust with machine politics in St. Louis and Kansas City courts, the Nonpartisan Court Plan mixes merit screening, gubernatorial appointment, and retention elections - and has been copied by many states.",
+      "memoryHook": "T-Rexy says: Merit screen, governor picks, voters retain.",
+      "tags": [
+        "missouri",
+        "judiciary",
+        "missouri-plan"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_088",
+      "question": "A Missouri appellate judge appointed under the Missouri Plan reaches the end of her first term. How does she keep her seat?",
+      "correctAnswer": "She faces a retention election: voters answer yes or no on keeping her in office, with no opponent on the ballot",
+      "distractors": [
+        "She must win a partisan general election against challengers",
+        "The governor automatically reappoints her for life",
+        "The General Assembly votes on renewing her commission"
+      ],
+      "difficulty": "medium",
+      "explanation": "Retention elections are the Plan's democratic check: after at least a year in office, the judge's name goes on the ballot alone, and a majority 'yes' keeps her for a full term - twelve years on the appellate courts.",
+      "memoryHook": "T-Rexy says: No opponent - just yes or no.",
+      "tags": [
+        "missouri",
+        "judiciary",
+        "missouri-plan"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_089",
+      "question": "Which courts does the Missouri Plan cover, and which Missouri judges are still chosen by partisan election?",
+      "correctAnswer": "The Plan covers the Supreme Court of Missouri, the Court of Appeals, and trial courts in the largest metro circuits; most rural circuit judges are still elected in partisan elections",
+      "distractors": [
+        "The Plan covers every court in Missouri including municipal courts",
+        "The Plan covers only traffic courts in St. Louis and Kansas City",
+        "No Missouri judges are elected; the Plan covers all of them by appointment"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Nonpartisan Court Plan applies to the appellate courts and to circuit courts in St. Louis, Kansas City (Jackson County), St. Louis County, and a few other circuits that adopted it; judges elsewhere still run in partisan elections.",
+      "memoryHook": "T-Rexy says: Metro and appellate judges: the Plan. Rural judges: elections.",
+      "tags": [
+        "missouri",
+        "judiciary",
+        "missouri-plan"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_090",
+      "question": "What is Missouri's highest court, how many judges sit on it, and where does it sit?",
+      "correctAnswer": "The Supreme Court of Missouri - seven judges, sitting in Jefferson City",
+      "distractors": [
+        "The Missouri Court of Last Resort - nine judges, sitting in St. Louis",
+        "The General Court of Missouri - five judges, sitting in Kansas City",
+        "The Missouri High Court - seven judges, sitting in Columbia"
+      ],
+      "difficulty": "medium",
+      "explanation": "Missouri's court of last resort is its Supreme Court, with seven judges selected under the Missouri Plan and serving twelve-year terms, housed in the Supreme Court Building across from the Capitol in Jefferson City.",
+      "memoryHook": "T-Rexy says: Seven judges at the top, in Jefferson City.",
+      "tags": [
+        "missouri",
+        "judiciary"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_091",
+      "question": "Missouri voters can place a proposed law on the ballot themselves by collecting signatures. What is this process called?",
+      "correctAnswer": "The initiative: citizens propose a statute or constitutional amendment and voters decide it directly",
+      "distractors": [
+        "The referendum: the legislature refers its own bill to the voters",
+        "The recall: voters remove an official before the term ends",
+        "The filibuster: citizens delay a bill past the session's end"
+      ],
+      "difficulty": "easy",
+      "explanation": "Missouri has allowed the initiative since 1908. Petitioners gather signatures equal to set percentages of the last gubernatorial vote - 5 percent for a statute, 8 percent for a constitutional amendment - across two-thirds of the congressional districts.",
+      "memoryHook": "T-Rexy says: Citizens write it, sign for it, vote on it.",
+      "tags": [
+        "missouri",
+        "direct-democracy"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_092",
+      "question": "Within the set time after the General Assembly passes a controversial law, opponents gather enough signatures to hold the law and send it to voters. Which tool are they using?",
+      "correctAnswer": "The referendum: a popular vote, forced by petition, that can repeal a newly passed law",
+      "distractors": [
+        "The initiative, which writes an entirely new constitution",
+        "Impeachment, which removes the bill's sponsors from office",
+        "A veto session, which the public may call by petition"
+      ],
+      "difficulty": "medium",
+      "explanation": "Missouri's referendum lets voters veto fresh legislation: signatures from 5 percent of voters in each of two-thirds of the districts, filed within 90 days of adjournment, suspend the law until the people approve or reject it.",
+      "memoryHook": "T-Rexy says: A people's veto on a new law.",
+      "tags": [
+        "missouri",
+        "direct-democracy"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_093",
+      "question": "Can Missouri voters recall their governor mid-term, as voters in California or Colorado can?",
+      "correctAnswer": "No - Missouri's constitution provides recall only for certain local officials; there is no recall of state officials in Missouri",
+      "distractors": [
+        "Yes - 25 percent of the last vote in signatures removes any state officer",
+        "Yes, but only the General Assembly may file the recall petition",
+        "No statewide recall exists anywhere in the United States"
+      ],
+      "difficulty": "hard",
+      "explanation": "Missouri voters hold the initiative and the referendum, but the recall stops at the local level: the constitution and statutes allow recalling some municipal and school officials, while state officers can be removed only by impeachment or election.",
+      "memoryHook": "T-Rexy says: Initiative and referendum yes; state recall no.",
+      "tags": [
+        "missouri",
+        "direct-democracy"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_094",
+      "question": "A Missouri initiative passes with 53 percent of the vote, changing a state statute. The next year, legislators dislike it. What can they do, and how is a constitutional amendment initiative different?",
+      "correctAnswer": "The General Assembly may amend or repeal a statutory initiative by ordinary legislation; an initiative written into the constitution can be changed only by another vote of the people",
+      "distractors": [
+        "Neither kind can ever be changed once passed by voters",
+        "Both kinds require a two-thirds legislative vote plus the governor's signature to change",
+        "Statutory initiatives are permanent, while constitutional ones expire in ten years"
+      ],
+      "difficulty": "hard",
+      "explanation": "Because a statutory initiative is just a statute, the legislature may later alter it - a recurring Missouri controversy. Constitutional initiatives lock their text into the constitution, beyond legislative reach.",
+      "memoryHook": "T-Rexy says: Statutes can be revisited; constitutional text cannot.",
+      "tags": [
+        "missouri",
+        "direct-democracy"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_095",
+      "question": "Missouri is divided into how many counties, and what is unusual about St. Louis?",
+      "correctAnswer": "114 counties, plus the independent City of St. Louis, which is a city not inside any county",
+      "distractors": [
+        "102 counties, with St. Louis as the largest of them",
+        "120 counties, and St. Louis County contains the city",
+        "98 counties, after the 1945 constitution merged the smallest ones"
+      ],
+      "difficulty": "easy",
+      "explanation": "Missouri has 114 counties, and the City of St. Louis separated from St. Louis County in 1876, functioning as its own county-equivalent - one of the few independent cities in the nation.",
+      "memoryHook": "T-Rexy says: 114 counties plus one independent city.",
+      "tags": [
+        "missouri",
+        "local-government"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_096",
+      "question": "A rural Missouri county must run courts, roads, elections, and records with no mayor or city council. What body typically governs it?",
+      "correctAnswer": "An elected county commission, usually three commissioners, working with other elected officers like the sheriff, clerk, and assessor",
+      "distractors": [
+        "A single county judge appointed by the governor for life",
+        "The nearest city's council, which governs surrounding counties",
+        "A township board chosen by the state auditor each year"
+      ],
+      "difficulty": "medium",
+      "explanation": "Most Missouri counties are run by a three-member elected commission - a presiding commissioner and two associate commissioners - alongside separately elected row officers. Larger counties may adopt charters with county executives.",
+      "memoryHook": "T-Rexy says: Three commissioners run most counties.",
+      "tags": [
+        "missouri",
+        "local-government"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_097",
+      "question": "St. Louis and Kansas City both operate under home-rule charters. What does 'home rule' mean for a Missouri city?",
+      "correctAnswer": "Voters of the city adopt their own charter and may govern local affairs in their own way, so long as they do not conflict with the state constitution and laws",
+      "distractors": [
+        "The city is exempt from all state laws within its borders",
+        "The governor appoints the mayor but the city controls its budget",
+        "The city may secede from its county by a majority vote each decade"
+      ],
+      "difficulty": "hard",
+      "explanation": "Missouri's constitution lets larger cities frame their own charters: they choose their form of government and manage municipal affairs, though state law still prevails on statewide concerns and in any conflict.",
+      "memoryHook": "T-Rexy says: Your own charter, under state law's roof.",
+      "tags": [
+        "missouri",
+        "local-government"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_098",
+      "question": "Missouri's nickname is the 'Show-Me State.' What attitude does the nickname claim for Missourians?",
+      "correctAnswer": "Healthy skepticism: Missourians want to be shown evidence rather than told",
+      "distractors": [
+        "A love of theater and public exhibitions",
+        "The state's duty to display its records to federal inspectors",
+        "A reference to the many caves open for tours"
+      ],
+      "difficulty": "easy",
+      "explanation": "The phrase is tied to an 1899 speech by Congressman Willard Duncan Vandiver - 'I am from Missouri, and you have got to show me' - and it captures the state's plain-spoken, evidence-first self-image.",
+      "memoryHook": "T-Rexy says: 'You have got to show me.'",
+      "tags": [
+        "missouri",
+        "mo-facts"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_099",
+      "question": "Since 2004, Missouri law has required a decision point about the state constitution itself: what must Missouri voters be asked every twenty years, and when did they last answer?",
+      "correctAnswer": "Whether to call a constitutional convention; voters were asked in 2022 and said no, as they have every time since adopting the 1945 constitution",
+      "distractors": [
+        "Whether to move the capital; last asked in 2002",
+        "Whether to keep the Missouri Plan; last asked in 2012 and approved",
+        "Whether to rewrite the Declaration of Rights; last asked in 2020"
+      ],
+      "difficulty": "medium",
+      "explanation": "The 1945 constitution requires an automatic convention question every twenty years. Missouri voters rejected calls in 1962, 1982, 2002, and most recently in 2022, keeping the 1945 framework.",
+      "memoryHook": "T-Rexy says: Every twenty years: a new convention? Missouri keeps saying no.",
+      "tags": [
+        "missouri",
+        "mo-facts",
+        "constitution-day"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "MOC10_100",
+      "question": "A Missouri voter arrives on Election Day without an acceptable photo ID but is a registered voter. Under Missouri's current law, what happens?",
+      "correctAnswer": "She may cast a provisional ballot, which counts if her signature matches the signature on file or she returns with valid ID by the deadline",
+      "distractors": [
+        "She is turned away with no way to vote in that election",
+        "She votes a regular ballot after swearing an affidavit alone",
+        "She must obtain a court order before the polls close to vote"
+      ],
+      "difficulty": "hard",
+      "explanation": "Missouri's photo ID law (2022) requires government-issued photo identification, but a registered voter without it may vote provisionally; the ballot is counted when election judges verify the signature against the voter file or the voter cures it in time.",
+      "memoryHook": "T-Rexy says: No photo ID does not mean no vote - it means a provisional one.",
+      "tags": [
+        "missouri",
+        "mo-voting"
+      ],
+      "imageUrl": "topic:civics",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

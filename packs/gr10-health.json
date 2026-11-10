@@ -1,11 +1,11 @@
 {
   "packId": "gr10-health",
   "title": "Health (10th Grade)",
-  "description": "Health (10th Grade) practice - 144 questions",
+  "description": "Health (10th Grade) practice - 156 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 144,
+  "totalQuestions": 156,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2958,6 +2958,330 @@
         "scene": "Mature educational illustration of two young adults walking side by side on a tree-lined path, relaxed conversation and comfortable body language. No readable text, no words, no letters, no numbers anywhere in the image.",
         "tip": "A healthy relationship honors both people's boundaries without punishment.",
         "title": "TWO WHOLE PEOPLE"
+      }
+    },
+    {
+      "id": "HEA10_145",
+      "question": "Research on shaken baby syndrome shows that shaking most often happens in which situation?",
+      "correctAnswer": "A caregiver who is exhausted, stressed, or unsupported reaches a breaking point when a baby cries inconsolably for a long time - inconsolable crying is the most common trigger",
+      "distractors": [
+        "During planned activities, when a caregiver decides in advance to discipline a baby for crying",
+        "Mostly in hospitals, when trained medical staff handle infants roughly during check-ups",
+        "When babies are unusually quiet, which frustrates caregivers who expect more interaction"
+      ],
+      "explanation": "Shaken baby syndrome is usually an impulsive reaction, not a planned act: the strongest known trigger is prolonged, inconsolable crying, especially when the caregiver is sleep-deprived, stressed, alone without support, or dealing with other pressures such as money worries or substance use. Recognizing those risk factors and stressors in advance - in yourself or in another caregiver - is a core part of the prevention instruction Wisconsin requires in one of grades 10 to 12 (ss.121.02(1)(L)6 and 253.15(5)).",
+      "memoryHook": "T-Rexy says: inconsolable crying plus an exhausted caregiver is the danger zone - plan for it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "risk-factors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration: a tired young parent sitting on the edge of a couch at night with head in hands while a baby rests safely in a crib in the same room, a supportive grandparent arriving at the doorway with a bag, suggesting relief and support. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Exhaustion, stress, and nonstop crying together are the classic risk situation.",
+        "title": "KNOW THE RISK MOMENT"
+      }
+    },
+    {
+      "id": "HEA10_146",
+      "question": "Before a babysitting job caring for an infant, which plan best follows shaken baby prevention guidance?",
+      "correctAnswer": "Prepare a crying plan in advance: check basic needs first (feeding, diaper, burping, temperature), use gentle soothing (rocking, quiet talking, a walk), and if frustration rises, place the baby safely in the crib, take a short break, and phone the parents or another trusted adult",
+      "distractors": [
+        "Decide that if the baby cries for more than a few minutes, a firm shake will reset the crying and settle the baby",
+        "Plan to keep the baby awake the whole time with constant bouncing and tossing games so the baby is too tired to cry later",
+        "Avoid picking the baby up at all, since holding a crying baby is what leads to shaking injuries"
+      ],
+      "explanation": "Prevention works best as a plan made before frustration hits. Wisconsin's statutory content list (s.253.15(2)) names exactly this: appropriate ways to manage crying, fussing, and other causes that can lead a person to shake or throw an infant, and ways to reduce the risks. A written or rehearsed crying plan - needs check, soothing steps, a safe place to put the baby down, and a person to call - protects both the baby and the caregiver, and asking for relief is a strength, not a failure.",
+      "memoryHook": "T-Rexy says: make the crying plan before the crying starts - needs, soothe, safe place, phone call.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "caregiving"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration: a teenage babysitter in a living room calmly rocking a baby in a chair, a notepad with a simple checklist shape (no readable writing) and a phone on the side table, a crib visible nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A crying plan made in advance keeps both baby and caregiver safe.",
+        "title": "MAKE A CRYING PLAN"
+      }
+    },
+    {
+      "id": "HEA10_147",
+      "question": "Why do health and law treat shaking a baby as such a serious act, beyond the moment itself?",
+      "correctAnswer": "Because it is a form of child abuse that can leave a child with permanent brain injury or kill them - and a caregiver who shakes a baby faces serious criminal consequences, on top of harm that can never be undone",
+      "distractors": [
+        "Because babies who are shaken usually recover fully, but hospitals must document every incident for insurance reasons",
+        "Because the main risk is a fine for the caregiver, while the baby is very unlikely to be seriously hurt",
+        "Because shaking is only a concern for newborns in their first week, and older infants are strong enough that it cannot injure them"
+      ],
+      "explanation": "An infant's brain is fragile and the neck muscles are weak, so shaking tears blood vessels and brain tissue. Survivors can face lifelong blindness, cerebral palsy, seizures, and intellectual disability, and many shaken babies die. Shaking or throwing a child is child abuse under the law, with severe criminal penalties - but no legal outcome can reverse the injury. That combination of lifelong harm to the child and life-changing legal consequences for the caregiver is why Wisconsin law requires this instruction twice: once in grades 5 to 8 and again in grades 10 to 12.",
+      "memoryHook": "T-Rexy says: shaking is abuse with lifelong costs - for the baby and for the person who does it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "consequences"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Serious mature educational illustration: a high school health teacher leading a solemn classroom discussion, students listening attentively, a blank presentation screen behind the teacher, respectful and somber mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Shaking a baby is child abuse - the harm and the legal consequences last a lifetime.",
+        "title": "HARM THAT CANNOT BE UNDONE"
+      }
+    },
+    {
+      "id": "HEA10_148",
+      "question": "Which list names the main types of adoption taught in adoption awareness instruction?",
+      "correctAnswer": "Infant (domestic) adoption, adoption from foster care, international adoption, and kinship or stepparent adoption",
+      "distractors": [
+        "Temporary foster placement, emergency shelter care, respite care, and juvenile detention placement",
+        "Guardianship only, with no other legal way for a child to join a family permanently",
+        "Babysitting arrangements, mentoring programs, school exchange programs, and summer hosting"
+      ],
+      "explanation": "Adoption is a legal process that permanently places a child with adoptive parents. Its main forms differ by where the child comes from and the family's existing relationship to the child: a newborn or infant placed domestically, a child adopted out of the foster care system, a child adopted from another country, or a child adopted by a relative or a stepparent. Louisiana law (RS 17:263) requires high school students to learn about the types of adoption as part of adoption awareness instruction.",
+      "memoryHook": "T-Rexy says: four roads to a permanent family - infant, foster care, international, and kinship or stepparent!",
+      "imageUrl": "topic:health",
+      "tags": [
+        "louisiana-law",
+        "adoption-awareness",
+        "types-of-adoption"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Warm symbolic educational illustration: four different family groups of varied ages and backgrounds standing together on a sunny path in front of a welcoming home, children holding adults' hands, hopeful and calm mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "The main types are infant, foster-care, international, and kinship or stepparent adoption.",
+        "title": "FOUR PATHS TO ADOPTION"
+      }
+    },
+    {
+      "id": "HEA10_149",
+      "question": "What is the key difference between adoption from foster care and infant adoption?",
+      "correctAnswer": "Foster care adoption gives a permanent home to a child already in the state foster care system whose birth parents' rights have been ended by a court, while infant adoption is usually a voluntary placement of a newborn arranged before or shortly after birth",
+      "distractors": [
+        "Foster care adoption is always temporary, while infant adoption is the only kind that a court can make permanent",
+        "Infant adoption involves children who are waiting in state custody, while foster care adoption involves only newborns",
+        "There is no real difference - the two terms describe exactly the same process with the same steps and timelines"
+      ],
+      "explanation": "Children in foster care are in state custody, often because of abuse or neglect, and adoption becomes an option only after a court has terminated the birth parents' rights and reunification is no longer possible; many waiting children are older, part of a sibling group, or have special needs. Infant adoption, by contrast, usually begins with a birth parent voluntarily making an adoption plan during pregnancy or soon after delivery, with placement arranged through an agency or an attorney.",
+      "memoryHook": "T-Rexy says: foster adoption starts with a child already waiting in state care - infant adoption starts with a voluntary plan for a newborn!",
+      "imageUrl": "topic:health",
+      "tags": [
+        "louisiana-law",
+        "adoption-awareness",
+        "foster-care"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Warm educational illustration: a caseworker carrying a folder walking beside an older child and a foster family outside a family services office, supportive and hopeful mood, a second small scene of a nursery window kept generic in the background. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Foster adoption = a waiting child in state care; infant adoption = a voluntary newborn placement.",
+        "title": "TWO DIFFERENT STARTING POINTS"
+      }
+    },
+    {
+      "id": "HEA10_150",
+      "question": "What do kinship adoption and stepparent adoption have in common?",
+      "correctAnswer": "In both, the child is adopted by someone who already has a family connection to the child - a relative such as a grandparent or aunt in kinship adoption, or the spouse of a parent in stepparent adoption",
+      "distractors": [
+        "In both, the adoptive parents must live in a different country from the child until the adoption is final",
+        "In both, the child must first spend at least two years in a stranger foster home before any relative may adopt",
+        "In both, no court is ever involved, because family members can transfer parental rights with a handshake agreement"
+      ],
+      "explanation": "Kinship (relative) adoption and stepparent adoption are called intrafamily adoptions because the adopters are already part of the child's family. Keeping a child with relatives can preserve family bonds, culture, and a sense of identity when birth parents cannot provide care. These adoptions still go through a court, and requirements such as a home study and background checks still apply, although some steps may be simplified compared with an unrelated adoption.",
+      "memoryHook": "T-Rexy says: kinship and stepparent adoption keep a child inside the family they already know!",
+      "imageUrl": "topic:health",
+      "tags": [
+        "louisiana-law",
+        "adoption-awareness",
+        "kinship-adoption"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Warm educational illustration: a grandmother, an aunt, and a child cooking together in a bright home kitchen while a stepparent sets the table nearby, relaxed multi-generational family mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Kinship and stepparent adoptions are intrafamily - the adopters already belong to the child's family.",
+        "title": "ADOPTED BY FAMILY"
+      }
+    },
+    {
+      "id": "HEA10_151",
+      "question": "What extra legal layer does international adoption add compared with a domestic adoption?",
+      "correctAnswer": "The family must satisfy the laws of both the child's country of origin and the United States, including U.S. immigration rules that allow the child to enter and live in the country",
+      "distractors": [
+        "No extra layer - a family can bring a child home from another country with only a passport and a plane ticket",
+        "The child must give up any chance of U.S. citizenship permanently as a condition of the adoption",
+        "Only the other country's laws apply, so U.S. courts and agencies play no role at any point"
+      ],
+      "explanation": "In an international (intercountry) adoption, two legal systems are involved: the child's birth country decides whether the child may be adopted and leave, and the United States requires its own approvals, including a home study, federal review of the family's eligibility, and an immigrant visa for the child. International treaties such as the Hague Adoption Convention add safeguards meant to prevent child trafficking and to make sure adoptions are ethical and in the child's best interest.",
+      "memoryHook": "T-Rexy says: international adoption means two countries' rules - plus U.S. immigration approval!",
+      "imageUrl": "topic:health",
+      "tags": [
+        "louisiana-law",
+        "adoption-awareness",
+        "international-adoption"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Symbolic educational illustration: a family with a young child walking through a bright airport arrivals hall carrying a small suitcase, a globe shape on a blank wall panel in the background, welcoming mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "International adoption must satisfy two countries' laws plus U.S. immigration rules.",
+        "title": "ADOPTION ACROSS BORDERS"
+      }
+    },
+    {
+      "id": "HEA10_152",
+      "question": "What is a home study in the adoption process?",
+      "correctAnswer": "A structured assessment of the prospective parents and their home - interviews, home visits, background and child-abuse registry checks, health and financial review, references, and required training - used to judge readiness to adopt",
+      "distractors": [
+        "A homework assignment the adopted child completes during the first school term in the new home",
+        "A simple house-cleaning inspection that checks only whether the home is tidy on the day of the visit",
+        "An optional meet-and-greet dinner that families may skip if an agency worker already knows them socially"
+      ],
+      "explanation": "The home study is completed before a child is placed and must be finished before an adoption can move forward. In Louisiana, the study includes consultation visits and interviews with everyone living in the home, state and national criminal background checks, and a review of the family's motivation, health, income, and living environment; for foster and adoptive certification through the state, required training is part of the process. The written study is reviewed by the agency and the court as evidence that the placement will be safe and stable.",
+      "memoryHook": "T-Rexy says: a home study checks the people and the home - interviews, visits, background checks, and training!",
+      "imageUrl": "topic:health",
+      "tags": [
+        "louisiana-law",
+        "adoption-awareness",
+        "adoption-process"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Warm educational illustration: a caseworker with a folder talking with a couple at their living room table while looking around a safe, ordinary home, a crib and a bookshelf in the background, calm professional mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A home study assesses readiness: interviews, home visits, background checks, and training.",
+        "title": "THE HOME STUDY"
+      }
+    },
+    {
+      "id": "HEA10_153",
+      "question": "How does an adoption become legally complete?",
+      "correctAnswer": "After placement and a supervised period in the home, a judge reviews the case and issues a final adoption decree in court; from that point the child is legally the child of the adoptive parents, with the same rights as a child born to them",
+      "distractors": [
+        "Automatically on the day the child first spends a night in the adoptive home, with no court involvement at any stage",
+        "When the agency sends the family a congratulatory letter, which carries the same legal force as a court order",
+        "Only when the adopted child turns 18 and signs paperwork confirming the adoption as an adult"
+      ],
+      "explanation": "Finalization is the court step that ends the adoption process. Before it, the child lives in the home for a supervised period (for a Louisiana foster care adoption, at least six months) while a caseworker visits and reports on how the placement is going; an adoption petition is then filed, and a judge grants the final decree if the adoption serves the child's best interest. After finalization, a new birth certificate can be issued naming the adoptive parents, and the legal parent-child relationship is permanent.",
+      "memoryHook": "T-Rexy says: an adoption is complete when a judge signs the final decree - permanent in law, not just in the home!",
+      "imageUrl": "topic:health",
+      "tags": [
+        "louisiana-law",
+        "adoption-awareness",
+        "adoption-process"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Dignified educational illustration: a family with a child standing on courthouse steps beside a caseworker holding a folder, columns and a flag in the background, hopeful and formal mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Finalization = a judge's final decree after placement and supervision.",
+        "title": "FINAL IN COURT"
+      }
+    },
+    {
+      "id": "HEA10_154",
+      "question": "Which resources help people learn about, pursue, or get support for adoption?",
+      "correctAnswer": "Public help through the state child welfare agency (in Louisiana, the Department of Children and Family Services, which handles foster care adoption), licensed private adoption agencies, adoption attorneys, and support services such as post-adoption support groups and adoption subsidies for children adopted from foster care",
+      "distractors": [
+        "Only private agencies that charge large fees - public agencies are legally barred from any role in adoption",
+        "Social media groups alone, because licensed agencies and state offices are not permitted to give adoption information",
+        "Hospitals only - once a family leaves the hospital, no organization anywhere provides adoption information or support"
+      ],
+      "explanation": "Adoption resources come in public and private forms. Louisiana's Department of Children and Family Services (DCFS) recruits and certifies foster and adoptive families, matches waiting children, and administers adoption assistance (subsidies) that help families meet the needs of children adopted from foster care, which typically costs little or nothing compared with private infant adoption. Licensed private agencies and adoption attorneys handle many infant and international placements, and counselors, support groups, and pregnancy resource services provide information and support to expectant parents considering an adoption plan - a resources topic Louisiana's adoption awareness law (RS 17:263) names for classroom instruction.",
+      "memoryHook": "T-Rexy says: start public with DCFS for foster adoption, or licensed private agencies and attorneys for other paths - support exists on every route!",
+      "imageUrl": "topic:health",
+      "tags": [
+        "louisiana-law",
+        "adoption-awareness",
+        "resources"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Warm educational illustration: a helpful caseworker at a family services office desk handing a plain folder to a young couple, a support group circle of chairs visible through a doorway in the background, welcoming mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Public: DCFS and subsidies. Private: licensed agencies and attorneys. Plus support groups.",
+        "title": "WHERE HELP LIVES"
+      }
+    },
+    {
+      "id": "HEA10_155",
+      "question": "What benefits of adoption are documented for children, families, and society?",
+      "correctAnswer": "Children gain a permanent, legally secure family and stability when their birth parents cannot care for them; adoptive families gain the chance to parent; and society benefits when children waiting in foster care move into permanent homes instead of growing up in temporary care",
+      "distractors": [
+        "The only documented benefit is financial - adoptive parents are guaranteed a profit from adopting a child",
+        "Adoption has no measurable effect on a child's stability, because legal permanence does not change a child's living situation",
+        "Children in foster care are better off staying in temporary placements indefinitely, so permanency is not considered a benefit"
+      ],
+      "explanation": "Permanency is the central benefit researchers and child welfare agencies point to: a child who is adopted has legal security, a stable home, and lifelong family membership, instead of repeated moves between temporary foster placements. Adoption also lets people who cannot have children biologically - or who choose to parent a waiting child - build a family, and it reduces the number of children who age out of foster care without a permanent family, an outcome linked to higher risks of homelessness and unemployment. Louisiana's adoption awareness law (RS 17:263) lists the benefits of adoption among the topics students should learn.",
+      "memoryHook": "T-Rexy says: adoption's core benefit is permanency - a stable, legal, lifelong family for a child who needs one!",
+      "imageUrl": "topic:health",
+      "tags": [
+        "louisiana-law",
+        "adoption-awareness",
+        "benefits"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Warm symbolic educational illustration: a family reading together on a couch in a sunlit living room, a child leaning comfortably against an adoptive parent, houseplants and framed blank shapes on the wall, secure and content mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Permanency and stability for the child - and fewer children aging out of foster care.",
+        "title": "PERMANENCY PAYS OFF"
+      }
+    },
+    {
+      "id": "HEA10_156",
+      "question": "Under Louisiana's Safe Haven Law, what may a parent who cannot care for a newborn do?",
+      "correctAnswer": "Safely hand the infant (up to 60 days old) to an employee at a designated Safe Haven site - such as a hospital, a staffed fire station, or a staffed law enforcement station - or call 911, remaining anonymous and without fear of prosecution, so the baby gets immediate care and can be placed for adoption",
+      "distractors": [
+        "Leave the baby unattended on any doorstep or in any public place, which the law treats exactly the same as a Safe Haven handover",
+        "Wait until the baby is six months old, because Safe Haven sites are forbidden to accept any infant younger than that",
+        "Give the baby to any stranger who offers to take the child, since the law protects every informal handover equally"
+      ],
+      "explanation": "Louisiana's Safe Haven Law (Children's Code Articles 1149-1160) exists to prevent unsafe abandonment. A parent may leave an unharmed infant no more than 60 days old with an employee of a designated emergency care facility - a licensed hospital, certain clinics during operating hours, a manned fire station, or a manned law enforcement station - or in an authorized newborn safety device, and a parent who cannot travel may call 911 so responders come to them. Relinquishment done this way is not a crime and can be anonymous; the infant receives medical care, the Department of Children and Family Services takes custody, and the child can move toward a permanent adoptive home.",
+      "memoryHook": "T-Rexy says: Safe Haven means hand the baby to a person at a safe site - up to 60 days, anonymous, no prosecution!",
+      "imageUrl": "topic:health",
+      "tags": [
+        "louisiana-law",
+        "adoption-awareness",
+        "safe-haven"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Warm supportive educational illustration: a nurse at a hospital entrance gently receiving a swaddled newborn from a young parent, a fire station visible across the street, calm and safe early-morning mood, nursery kept generic. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Safe Haven: up to 60 days old, handed to staff at a designated site, anonymous and protected.",
+        "title": "A SAFE HANDOVER"
       }
     }
   ]

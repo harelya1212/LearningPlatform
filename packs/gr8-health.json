@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 127,
+  "totalQuestions": 130,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2555,6 +2555,87 @@
         "scene": "Educational illustration of two middle school students looking at a phone together outdoors, one asking a question and the other nodding in agreement, friendly atmosphere. No readable text, no words, no letters, no numbers anywhere in the image.",
         "tip": "Posting a photo of someone needs their clear agreement first.",
         "title": "ASK BEFORE YOU POST"
+      }
+    },
+    {
+      "id": "HEA8_128",
+      "question": "What is shaken baby syndrome?",
+      "correctAnswer": "A serious brain injury that happens when someone forcibly shakes an infant or young child, so the baby's brain moves back and forth inside the skull",
+      "distractors": [
+        "A mild illness babies get from being held by too many different people",
+        "A rash that appears when a baby cries for a long time",
+        "A normal stage of development that helps a baby's neck muscles grow stronger"
+      ],
+      "explanation": "Shaken baby syndrome (also called abusive head trauma) is a severe, preventable brain injury caused by shaking or throwing an infant or young child. A baby's neck muscles are weak and the head is large compared with the body, so shaking makes the brain strike the inside of the skull. Wisconsin law (s.253.15) requires schools to teach students in one of grades 5 to 8 how to identify and prevent it.",
+      "memoryHook": "T-Rexy says: shaking a baby injures the brain - it is never a way to stop crying.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "child-safety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration for a middle school health class: a calm caregiver gently holding a baby upright against a shoulder in a bright, peaceful nursery, a crib with a soft blanket nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Shaken baby syndrome is a brain injury caused by forcibly shaking an infant.",
+        "title": "WHAT SHAKEN BABY SYNDROME IS"
+      }
+    },
+    {
+      "id": "HEA8_129",
+      "question": "Which of these can be a result of shaking a baby, even once and even for just a few seconds?",
+      "correctAnswer": "Permanent brain damage, blindness, developmental disabilities, or death",
+      "distractors": [
+        "The baby falls asleep faster and sleeps more deeply that night",
+        "The baby's neck and back muscles become stronger",
+        "Temporary fussiness that always goes away with no lasting harm"
+      ],
+      "explanation": "The effects of shaking are grave and often permanent: bleeding in the brain and eyes, blindness, learning and developmental disabilities, seizures, and death. Many babies who survive being shaken need medical care and support for the rest of their lives. There is no safe amount of shaking - a few seconds of frustration can cause lifelong harm, which is why Wisconsin's shaken baby instruction (s.253.15(2)) stresses the effects of shaking or throwing an infant.",
+      "memoryHook": "T-Rexy says: a few seconds of shaking can harm a baby for a lifetime.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "prevention"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Solemn educational illustration: a doctor in a hospital corridor speaking gently with a worried family, soft muted colors, a baby resting safely in a clear hospital bassinet in the background. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Shaking a baby can cause brain damage, blindness, disability, or death.",
+        "title": "THE HARM CAN LAST A LIFETIME"
+      }
+    },
+    {
+      "id": "HEA8_130",
+      "question": "You are helping care for a baby who will not stop crying. You have tried feeding and a diaper change, and you can feel yourself getting frustrated and angry. What is the safest thing to do?",
+      "correctAnswer": "Put the baby down on their back in a safe place like a crib, step away for a few minutes to calm down, and call a trusted adult for help if the crying continues",
+      "distractors": [
+        "Shake the baby gently just once so the crying stops",
+        "Keep holding the baby and bouncing harder and faster until they settle",
+        "Toss the baby up in the air playfully to distract them from crying"
+      ],
+      "explanation": "Crying - including crying that seems to have no reason - is the most common trigger for shaking, and the safe response is built into Wisconsin's required instruction (s.253.15(2)): it is always okay to put the baby down in a safe place and walk away for a short break. Check the baby's needs (hunger, diaper, temperature, tiredness), try soothing, and if your frustration is rising, step away, breathe, and get a trusted adult to take over. A baby must never be shaken, for any reason, no matter how frustrating the crying is.",
+      "memoryHook": "T-Rexy says: crying is okay, shaking is never okay - put the baby down safely and step away.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "coping-strategies"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Educational illustration: a young teen caregiver placing a baby gently on its back in a safe crib, then stepping back and taking a deep breath, a phone on a nearby table suggesting a call to a trusted adult, calm warm light. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "If frustration rises, put the baby down safely, step away, and call a trusted adult.",
+        "title": "PUT THE BABY DOWN SAFELY"
       }
     }
   ]

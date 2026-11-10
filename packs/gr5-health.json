@@ -1,2013 +1,2253 @@
 {
-  "packId": "gr5-health",
-  "title": "Health (5th Grade)",
-  "description": "Health (5th Grade) practice - 100 questions",
-  "version": "1.0",
-  "language": "en",
-  "passingScore": 60,
-  "totalQuestions": 100,
-  "addedAt": "2026-11-05",
-  "tags": [
-    "health",
-    "5th"
-  ],
-  "questions": [
-    {
-      "id": "HEA5_001",
-      "question": "Which food group do apples, bananas, and oranges belong to?",
-      "correctAnswer": "Fruits",
-      "distractors": [
-        "Vegetables",
-        "Grains",
-        "Dairy"
-      ],
-      "explanation": "Fruits grow on plants and trees, and they are full of vitamins and fiber that help your body stay healthy.",
-      "memoryHook": "T-Rexy says: fruits are nature's sweet snacks!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "food-groups"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_002",
-      "question": "Which food group do carrots, broccoli, and spinach belong to?",
-      "correctAnswer": "Vegetables",
-      "distractors": [
-        "Fruits",
-        "Protein",
-        "Dairy"
-      ],
-      "explanation": "Vegetables grow in gardens and fields. They give your body vitamins, minerals, and fiber.",
-      "memoryHook": "T-Rexy says: veggies grow in the garden - eat your greens!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "food-groups"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_003",
-      "question": "Which food group do bread, rice, and pasta belong to?",
-      "correctAnswer": "Grains",
-      "distractors": [
-        "Fruits",
-        "Vegetables",
-        "Protein"
-      ],
-      "explanation": "Grains come from plants like wheat and rice. They give your body energy to run, play, and learn.",
-      "memoryHook": "T-Rexy says: grains give you energy to run and play!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "food-groups"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_004",
-      "question": "Which food group do milk, cheese, and yogurt belong to?",
-      "correctAnswer": "Dairy",
-      "distractors": [
-        "Protein",
-        "Grains",
-        "Fruits"
-      ],
-      "explanation": "Dairy foods come from milk. They are rich in calcium, which builds strong bones and teeth.",
-      "memoryHook": "T-Rexy says: dairy builds strong bones!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "food-groups"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_005",
-      "question": "Which food group do chicken, beans, and eggs belong to?",
-      "correctAnswer": "Protein",
-      "distractors": [
-        "Grains",
-        "Fruits",
-        "Dairy"
-      ],
-      "explanation": "Protein foods help your body build and repair muscles. Chicken, beans, and eggs are all good sources.",
-      "memoryHook": "T-Rexy says: protein builds strong muscles!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "food-groups"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_006",
-      "question": "What does protein help your body do?",
-      "correctAnswer": "Build and repair muscles",
-      "distractors": [
-        "Make your bones soft",
-        "Help you see in the dark",
-        "Make you sleepy"
-      ],
-      "explanation": "Protein builds muscles and repairs body tissues.",
-      "memoryHook": "T-Rexy says: protein is the builder for muscles!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "protein"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_007",
-      "question": "Why is calcium important for kids?",
-      "correctAnswer": "It builds strong bones and teeth",
-      "distractors": [
-        "It helps you run faster",
-        "It makes your hair grow longer",
-        "It helps you stay awake"
-      ],
-      "explanation": "Calcium from milk and other foods makes bones and teeth strong.",
-      "memoryHook": "T-Rexy says: calcium is the bone builder!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "calcium"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_008",
-      "question": "Which of these is the healthiest drink?",
-      "correctAnswer": "Water",
-      "distractors": [
-        "Soda",
-        "Energy drinks",
-        "Sweet juice drinks"
-      ],
-      "explanation": "Water hydrates your body without sugar.",
-      "memoryHook": "T-Rexy says: water is the best drink of all!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "drinks"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_009",
-      "question": "Why is eating a variety of foods important?",
-      "correctAnswer": "Different foods give your body different nutrients",
-      "distractors": [
-        "It makes meals more fun only",
-        "It helps you eat faster",
-        "It makes food cheaper"
-      ],
-      "explanation": "Your body needs many nutrients, and no single food has them all.",
-      "memoryHook": "T-Rexy says: eat a rainbow - every color brings different nutrients!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "variety"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_010",
-      "question": "What is a whole grain?",
-      "correctAnswer": "A grain that keeps all its parts, like whole wheat bread",
-      "distractors": [
-        "A grain with no flavor",
-        "A grain that is white",
-        "A grain that is cooked"
-      ],
-      "explanation": "Whole grains keep the bran, germ, and endosperm, with fiber and nutrients.",
-      "memoryHook": "T-Rexy says: whole grains keep all their good parts!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "grains"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_011",
-      "question": "Which snack is healthiest?",
-      "correctAnswer": "An apple with peanut butter",
-      "distractors": [
-        "A bag of chips",
-        "A candy bar",
-        "A sugary donut"
-      ],
-      "explanation": "An apple with peanut butter gives fiber, vitamins, and protein.",
-      "memoryHook": "T-Rexy says: apple plus peanut butter is a super snack!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "snacks"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_012",
-      "question": "What does fiber do for your body?",
-      "correctAnswer": "It helps digestion and keeps you feeling full",
-      "distractors": [
-        "It makes your bones soft",
-        "It gives you energy right away",
-        "It makes you thirsty"
-      ],
-      "explanation": "Fiber from fruits, vegetables, and whole grains helps your digestion.",
-      "memoryHook": "T-Rexy says: fiber keeps your tummy happy!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "fiber"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_013",
-      "question": "Why should you limit sugary drinks?",
-      "correctAnswer": "They have lots of sugar and can harm your teeth and health",
-      "distractors": [
-        "They make you too strong",
-        "They cost too much money",
-        "They are hard to find"
-      ],
-      "explanation": "Sugary drinks add sugar without nutrients and can cause cavities.",
-      "memoryHook": "T-Rexy says: sugary drinks are a cavity trap!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "sugar"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_014",
-      "question": "How many servings of fruits and vegetables should kids aim for each day?",
-      "correctAnswer": "Five servings",
-      "distractors": [
-        "One serving",
-        "Ten servings",
-        "Zero servings"
-      ],
-      "explanation": "Health experts suggest about five servings of fruits and vegetables a day.",
-      "memoryHook": "T-Rexy says: five a day keeps you strong and healthy!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "servings"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_015",
-      "question": "What vitamin helps your body fight sickness?",
-      "correctAnswer": "Vitamin C",
-      "distractors": [
-        "Vitamin B",
-        "Vitamin D only",
-        "Vitamin K only"
-      ],
-      "explanation": "Vitamin C, found in oranges and peppers, supports the immune system.",
-      "memoryHook": "T-Rexy says: vitamin C is your germ-fighting helper!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "vitamins"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_016",
-      "question": "Which food is a good source of vitamin C?",
-      "correctAnswer": "Oranges",
-      "distractors": [
-        "White bread",
-        "Potato chips",
-        "Candy"
-      ],
-      "explanation": "Oranges, strawberries, and peppers are packed with vitamin C, which helps your immune system fight germs.",
-      "memoryHook": "T-Rexy says: oranges are vitamin C champions!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "vitamins"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_017",
-      "question": "Why is breakfast called the most important meal of the day?",
-      "correctAnswer": "It gives you energy after sleeping all night",
-      "distractors": [
-        "It is the biggest meal",
-        "It has the most sugar",
-        "It is eaten at school"
-      ],
-      "explanation": "Breakfast refuels your body after the night and helps you focus.",
-      "memoryHook": "T-Rexy says: breakfast fuels your morning brain!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "meals"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_018",
-      "question": "What is a balanced meal?",
-      "correctAnswer": "A meal with foods from different food groups",
-      "distractors": [
-        "A meal with only one food",
-        "A meal with lots of dessert",
-        "A meal eaten quickly"
-      ],
-      "explanation": "A balanced meal includes grains, protein, fruits, vegetables, and dairy.",
-      "memoryHook": "T-Rexy says: a balanced plate has a little of everything!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "balanced-meals"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_019",
-      "question": "Which of these has the most added sugar?",
-      "correctAnswer": "A can of soda",
-      "distractors": [
-        "A glass of water",
-        "An apple",
-        "A carrot"
-      ],
-      "explanation": "One can of soda can hold about 10 teaspoons of added sugar, far more than an apple or a carrot, which have only natural sugars.",
-      "memoryHook": "T-Rexy says: soda is sugar water in a can!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "sugar"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_020",
-      "question": "Why is it important to drink water during exercise?",
-      "correctAnswer": "To replace the water your body loses in sweat",
-      "distractors": [
-        "To make you run faster",
-        "To cool your shoes",
-        "To help you jump higher"
-      ],
-      "explanation": "Sweating loses water, and drinking replaces it so you do not get dehydrated.",
-      "memoryHook": "T-Rexy says: sweat out water, drink it back in!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "nutrition",
-        "hydration"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_021",
-      "question": "What does your heart do?",
-      "correctAnswer": "It pumps blood around your body",
-      "distractors": [
-        "It helps you breathe",
-        "It digests your food",
-        "It helps you think"
-      ],
-      "explanation": "The heart is a muscle that pumps blood to every part of your body.",
-      "memoryHook": "T-Rexy says: your heart is a pump that never rests!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "heart"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_022",
-      "question": "What do your lungs do?",
-      "correctAnswer": "They help you breathe in oxygen and breathe out carbon dioxide",
-      "distractors": [
-        "They pump blood",
-        "They digest food",
-        "They help you see"
-      ],
-      "explanation": "Lungs take in oxygen from the air and send it into your blood.",
-      "memoryHook": "T-Rexy says: your lungs are breathing balloons!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "lungs"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_023",
-      "question": "What does your brain do?",
-      "correctAnswer": "It controls your body and helps you think and learn",
-      "distractors": [
-        "It pumps blood",
-        "It digests food",
-        "It helps you run"
-      ],
-      "explanation": "The brain is the control center for thinking, feeling, and moving.",
-      "memoryHook": "T-Rexy says: your brain is the boss of your whole body!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "brain"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_024",
-      "question": "What do your bones do?",
-      "correctAnswer": "They support your body and protect your organs",
-      "distractors": [
-        "They pump blood",
-        "They help you breathe",
-        "They digest food"
-      ],
-      "explanation": "Bones give your body shape and protect organs like the brain and heart.",
-      "memoryHook": "T-Rexy says: bones are your body's strong frame!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "bones"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_025",
-      "question": "What do muscles do?",
-      "correctAnswer": "They help your body move",
-      "distractors": [
-        "They pump blood only",
-        "They help you think",
-        "They carry oxygen"
-      ],
-      "explanation": "Muscles pull on bones to make your body move.",
-      "memoryHook": "T-Rexy says: muscles pull your bones to move you!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "muscles"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_026",
-      "question": "How many bones does an adult have?",
-      "correctAnswer": "206",
-      "distractors": [
-        "106",
-        "306",
-        "50"
-      ],
-      "explanation": "An adult has 206 bones. Kids have more, and some fuse as they grow.",
-      "memoryHook": "T-Rexy says: 206 bones hold you up!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "bones"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_027",
-      "question": "What does your stomach do?",
-      "correctAnswer": "It breaks down food with acids and churning",
-      "distractors": [
-        "It pumps blood",
-        "It helps you breathe",
-        "It makes you think"
-      ],
-      "explanation": "The stomach mixes food with acids to start digestion.",
-      "memoryHook": "T-Rexy says: your stomach is a food-mixing machine!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "digestion"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_028",
-      "question": "What is the job of your skin?",
-      "correctAnswer": "It protects your body and helps you feel things",
-      "distractors": [
-        "It pumps blood",
-        "It digests food",
-        "It helps you breathe underwater"
-      ],
-      "explanation": "Skin covers and protects you and senses touch, heat, and cold.",
-      "memoryHook": "T-Rexy says: skin is your body's shield!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "skin"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_029",
-      "question": "What do red blood cells do?",
-      "correctAnswer": "They carry oxygen around your body",
-      "distractors": [
-        "They fight germs",
-        "They help you think",
-        "They make your bones strong"
-      ],
-      "explanation": "Red blood cells pick up oxygen in the lungs and deliver it to cells.",
-      "memoryHook": "T-Rexy says: red blood cells are oxygen delivery trucks!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "blood"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_030",
-      "question": "What do white blood cells do?",
-      "correctAnswer": "They fight germs and sickness",
-      "distractors": [
-        "They carry oxygen",
-        "They pump blood",
-        "They help you see"
-      ],
-      "explanation": "White blood cells attack germs that make you sick.",
-      "memoryHook": "T-Rexy says: white blood cells are your germ fighters!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "blood"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_031",
-      "question": "What is your pulse?",
-      "correctAnswer": "The beating of your heart that you can feel in your wrist or neck",
-      "distractors": [
-        "How fast you breathe",
-        "How tall you are",
-        "How strong your muscles are"
-      ],
-      "explanation": "Each heartbeat sends a pulse of blood through your arteries.",
-      "memoryHook": "T-Rexy says: your pulse is your heartbeat you can feel!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "heart"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_032",
-      "question": "Why does your heart beat faster when you exercise?",
-      "correctAnswer": "Your muscles need more oxygen, so your heart pumps faster",
-      "distractors": [
-        "Your heart gets tired",
-        "Your body gets cold",
-        "Your lungs stop working"
-      ],
-      "explanation": "Exercise needs more oxygen, so the heart works harder to deliver it.",
-      "memoryHook": "T-Rexy says: exercise makes your heart pump faster to feed your muscles!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "heart"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_033",
-      "question": "What is the largest organ in your body?",
-      "correctAnswer": "Your skin",
-      "distractors": [
-        "Your heart",
-        "Your liver",
-        "Your brain"
-      ],
-      "explanation": "Skin is the largest organ, covering your whole body.",
-      "memoryHook": "T-Rexy says: skin is your biggest organ!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "skin"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_034",
-      "question": "What does the spine do?",
-      "correctAnswer": "It supports your body and protects the nerves inside",
-      "distractors": [
-        "It pumps blood",
-        "It helps you breathe",
-        "It digests food"
-      ],
-      "explanation": "The spine is a column of bones that holds you up and guards the spinal cord.",
-      "memoryHook": "T-Rexy says: your spine is your body's strong pole!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "bones"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_035",
-      "question": "How does your body get energy from food?",
-      "correctAnswer": "Digestion breaks food down and cells use the nutrients for energy",
-      "distractors": [
-        "Food turns directly into muscle",
-        "Your stomach burns food like a fire",
-        "Energy comes only from water"
-      ],
-      "explanation": "Digestion turns food into nutrients your cells use for energy.",
-      "memoryHook": "T-Rexy says: food becomes fuel after digestion!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "body",
-        "digestion"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_036",
-      "question": "Why should you wash your hands before eating?",
-      "correctAnswer": "To remove germs that could make you sick",
-      "distractors": [
-        "To make your hands smell nice",
-        "To cool your hands down",
-        "To make food taste better"
-      ],
-      "explanation": "Handwashing removes germs before they can get into your body.",
-      "memoryHook": "T-Rexy says: wash away the germs before you eat!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "hygiene",
-        "handwashing"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_037",
-      "question": "How long should you scrub your hands with soap?",
-      "correctAnswer": "About 20 seconds",
-      "distractors": [
-        "About 2 seconds",
-        "About 2 minutes",
-        "About 1 second"
-      ],
-      "explanation": "Scrubbing for 20 seconds, about the time to sing 'Happy Birthday' twice, removes germs.",
-      "memoryHook": "T-Rexy says: scrub for 20 seconds - sing Happy Birthday twice!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "hygiene",
-        "handwashing"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_038",
-      "question": "How often should you brush your teeth?",
-      "correctAnswer": "Twice a day",
-      "distractors": [
-        "Once a week",
-        "Once a month",
-        "Only when they hurt"
-      ],
-      "explanation": "Brushing twice a day removes plaque and helps prevent cavities.",
-      "memoryHook": "T-Rexy says: brush twice a day for a bright smile!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "hygiene",
-        "dental"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_039",
-      "question": "Why should you floss your teeth?",
-      "correctAnswer": "To clean between teeth where a brush cannot reach",
-      "distractors": [
-        "To make teeth whiter only",
-        "To make your breath smell nice only",
-        "To straighten your teeth"
-      ],
-      "explanation": "Floss removes food and plaque from between teeth.",
-      "memoryHook": "T-Rexy says: floss reaches where the brush cannot!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "hygiene",
-        "dental"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_040",
-      "question": "What should you do when you cough or sneeze?",
-      "correctAnswer": "Cover your mouth with your elbow or a tissue",
-      "distractors": [
-        "Cough into your hands",
-        "Cough into the air",
-        "Hold your breath"
-      ],
-      "explanation": "Covering your cough stops germs from spreading to others.",
-      "memoryHook": "T-Rexy says: cough into your elbow, not your hands!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "hygiene",
-        "germs"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_041",
-      "question": "How many hours of sleep do kids aged 9 to 12 need each night?",
-      "correctAnswer": "9 to 12 hours",
-      "distractors": [
-        "5 to 6 hours",
-        "6 to 7 hours",
-        "14 to 16 hours"
-      ],
-      "explanation": "Kids need 9 to 12 hours of sleep to grow and learn well.",
-      "memoryHook": "T-Rexy says: 9 to 12 hours of sleep helps you grow and learn!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "hygiene",
-        "sleep"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_042",
-      "question": "Why is sleep important?",
-      "correctAnswer": "It helps your body grow and your brain learn and remember",
-      "distractors": [
-        "It makes you taller overnight",
-        "It stops you from dreaming",
-        "It makes you hungry"
-      ],
-      "explanation": "During sleep, your body grows and your brain stores what you learned.",
-      "memoryHook": "T-Rexy says: sleep is when your brain files away the day!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "hygiene",
-        "sleep"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_043",
-      "question": "What should you do before bed to sleep well?",
-      "correctAnswer": "Turn off screens and relax",
-      "distractors": [
-        "Drink a sugary soda",
-        "Play a loud video game",
-        "Eat a big meal"
-      ],
-      "explanation": "Screens and sugar make it harder to fall asleep.",
-      "memoryHook": "T-Rexy says: screens off, calm on - good sleep follows!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "hygiene",
-        "sleep"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_044",
-      "question": "Why should you wear sunscreen?",
-      "correctAnswer": "To protect your skin from harmful sun rays",
-      "distractors": [
-        "To look tanned",
-        "To stay warm",
-        "To keep bugs away"
-      ],
-      "explanation": "Sunscreen blocks UV rays that can burn and damage skin.",
-      "memoryHook": "T-Rexy says: sunscreen is a shield against sunburn!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety",
-        "sun-safety"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_045",
-      "question": "What should you wear to protect your head when riding a bike?",
-      "correctAnswer": "A helmet",
-      "distractors": [
-        "A hat",
-        "Sunglasses",
-        "A hood"
-      ],
-      "explanation": "A helmet protects your brain if you fall.",
-      "memoryHook": "T-Rexy says: a helmet protects your brain - always wear one!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_046",
-      "question": "Why is it important to look both ways before crossing the street?",
-      "correctAnswer": "To check for cars coming from either direction",
-      "distractors": [
-        "To wave at drivers",
-        "To find your friends",
-        "To see the traffic light only"
-      ],
-      "explanation": "Cars can come from either direction, and looking both ways - then looking left again - makes sure the road is clear before you step off the curb.",
-      "memoryHook": "T-Rexy says: look left, look right, then cross!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_047",
-      "question": "What should you do if a stranger offers you a ride?",
-      "correctAnswer": "Say no and tell a trusted adult",
-      "distractors": [
-        "Get in the car",
-        "Follow the stranger",
-        "Take the candy and run"
-      ],
-      "explanation": "Never go with a stranger; tell a parent, teacher, or other trusted adult.",
-      "memoryHook": "T-Rexy says: strangers offering rides mean say no and tell an adult!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_048",
-      "question": "Why should you never share a toothbrush?",
-      "correctAnswer": "Germs can spread from one person's mouth to another",
-      "distractors": [
-        "It wears out the brush",
-        "It makes teeth yellow",
-        "It is against the rules only"
-      ],
-      "explanation": "Sharing a toothbrush can spread germs and sickness.",
-      "memoryHook": "T-Rexy says: your toothbrush is yours alone - germs hitchhike!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "hygiene",
-        "germs"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_049",
-      "question": "How often should you visit the dentist?",
-      "correctAnswer": "About twice a year",
-      "distractors": [
-        "Once every five years",
-        "Only when a tooth hurts",
-        "Never"
-      ],
-      "explanation": "Regular checkups catch problems early.",
-      "memoryHook": "T-Rexy says: twice a year keeps your smile in check!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "hygiene",
-        "dental"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_050",
-      "question": "What is the best way to stay healthy when someone near you is sick?",
-      "correctAnswer": "Wash your hands often and avoid touching your face",
-      "distractors": [
-        "Share their food",
-        "Sleep in their bed",
-        "Use their towel"
-      ],
-      "explanation": "Germs get in through your eyes, nose, and mouth. Clean hands and keeping hands away from your face block their way in.",
-      "memoryHook": "T-Rexy says: wash hands, hands off your face!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "hygiene",
-        "germs"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_051",
-      "question": "How much physical activity should kids get each day?",
-      "correctAnswer": "At least 60 minutes",
-      "distractors": [
-        "At least 10 minutes",
-        "At least 5 minutes",
-        "No activity is needed"
-      ],
-      "explanation": "Health experts say kids need at least 60 minutes of activity daily.",
-      "memoryHook": "T-Rexy says: 60 minutes of play every day keeps you strong!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "activity"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_052",
-      "question": "What is a good warm-up before exercise?",
-      "correctAnswer": "Light movement like walking or gentle stretching",
-      "distractors": [
-        "Sprinting as fast as you can",
-        "Sitting still",
-        "Lifting heavy weights"
-      ],
-      "explanation": "Warming up prepares muscles and helps prevent injury.",
-      "memoryHook": "T-Rexy says: warm up gently before you play hard!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "warm-up"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_053",
-      "question": "Why is stretching good for you?",
-      "correctAnswer": "It keeps muscles flexible and helps prevent injury",
-      "distractors": [
-        "It makes you taller",
-        "It replaces exercise",
-        "It makes you stronger instantly"
-      ],
-      "explanation": "Stretching keeps muscles loose and flexible.",
-      "memoryHook": "T-Rexy says: stretching keeps muscles bendy and safe!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "stretching"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_054",
-      "question": "What does the word 'aerobic' exercise mean?",
-      "correctAnswer": "Exercise that gets your heart pumping, like running or swimming",
-      "distractors": [
-        "Exercise done while sitting",
-        "Exercise with heavy weights only",
-        "Exercise done in water only"
-      ],
-      "explanation": "Aerobic exercise raises your heart rate and breathing.",
-      "memoryHook": "T-Rexy says: aerobic means heart-pumping movement!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "aerobic"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_055",
-      "question": "Which activity is best for building strong bones?",
-      "correctAnswer": "Jumping, running, and other weight-bearing activities",
-      "distractors": [
-        "Swimming only",
-        "Watching TV",
-        "Sitting and reading"
-      ],
-      "explanation": "Activities where your feet hit the ground strengthen bones.",
-      "memoryHook": "T-Rexy says: jumping and running build strong bones!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "bones"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_056",
-      "question": "Why should you cool down after exercise?",
-      "correctAnswer": "To let your heart rate slow down gradually",
-      "distractors": [
-        "To make muscles bigger instantly",
-        "To stop sweating right away",
-        "To eat faster"
-      ],
-      "explanation": "Cooling down helps your body return to normal safely.",
-      "memoryHook": "T-Rexy says: cool down slowly - let your heart settle!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "cool-down"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_057",
-      "question": "What should you do if a muscle hurts during exercise?",
-      "correctAnswer": "Stop and rest, and tell an adult if it keeps hurting",
-      "distractors": [
-        "Keep going as hard as you can",
-        "Ignore it completely",
-        "Stretch it hard"
-      ],
-      "explanation": "Pain is a signal to stop and rest.",
-      "memoryHook": "T-Rexy says: pain means stop and rest - listen to your body!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "safety"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_058",
-      "question": "How does exercise help your brain?",
-      "correctAnswer": "It improves focus, memory, and mood",
-      "distractors": [
-        "It makes you sleepy",
-        "It makes you forget things",
-        "It does not affect the brain"
-      ],
-      "explanation": "Activity sends more oxygen to the brain and improves learning.",
-      "memoryHook": "T-Rexy says: moving your body sharpens your brain!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "brain"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_059",
-      "question": "Which of these is a team sport?",
-      "correctAnswer": "Soccer",
-      "distractors": [
-        "Running alone",
-        "Swimming laps alone",
-        "Jumping rope alone"
-      ],
-      "explanation": "Soccer is played by a team working together.",
-      "memoryHook": "T-Rexy says: soccer is a team game!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "sports"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_060",
-      "question": "What is good sportsmanship?",
-      "correctAnswer": "Playing fair, respecting others, and handling winning and losing well",
-      "distractors": [
-        "Winning at any cost",
-        "Cheating to win",
-        "Refusing to play with others"
-      ],
-      "explanation": "Good sportsmanship means fair play and respect.",
-      "memoryHook": "T-Rexy says: play fair and respect everyone - that is sportsmanship!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "sportsmanship"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_061",
-      "question": "Why is it important to drink water before, during, and after exercise?",
-      "correctAnswer": "To stay hydrated and keep your body working well",
-      "distractors": [
-        "To make you run faster",
-        "To fill your stomach",
-        "To cool your shoes"
-      ],
-      "explanation": "Drink before you play so you start hydrated, sip during play to replace sweat, and drink after to help your body recover.",
-      "memoryHook": "T-Rexy says: drink water before, during, and after play!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "hydration"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_062",
-      "question": "What is the best way to get stronger?",
-      "correctAnswer": "Regular exercise with rest days in between",
-      "distractors": [
-        "Exercising as hard as possible every day",
-        "Lifting the heaviest weight once",
-        "Only eating protein"
-      ],
-      "explanation": "Muscles grow stronger with regular work plus rest.",
-      "memoryHook": "T-Rexy says: work out regularly and rest - muscles grow stronger!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "strength"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_063",
-      "question": "How can walking to school help your health?",
-      "correctAnswer": "It adds physical activity to your day",
-      "distractors": [
-        "It makes you late",
-        "It makes you tired for class",
-        "It does not help at all"
-      ],
-      "explanation": "Walking makes your heart and legs work, and every step counts toward the 60 minutes of activity kids need each day.",
-      "memoryHook": "T-Rexy says: walking to school is free exercise!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "daily-activity"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_064",
-      "question": "What is flexibility?",
-      "correctAnswer": "How well your muscles and joints can bend and stretch",
-      "distractors": [
-        "How fast you can run",
-        "How much weight you can lift",
-        "How long you can hold your breath"
-      ],
-      "explanation": "Flexibility is the range of motion in your joints.",
-      "memoryHook": "T-Rexy says: flexibility is how bendy you are!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "flexibility"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_065",
-      "question": "Why do you need rest days after hard exercise?",
-      "correctAnswer": "Muscles need time to recover and grow stronger",
-      "distractors": [
-        "Exercise is bad for you",
-        "Rest makes you weaker",
-        "You should never rest"
-      ],
-      "explanation": "Rest lets muscles repair and get stronger.",
-      "memoryHook": "T-Rexy says: rest days let muscles rebuild stronger!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "exercise",
-        "recovery"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_066",
-      "question": "What is a healthy way to handle feeling angry?",
-      "correctAnswer": "Take deep breaths and talk about it calmly",
-      "distractors": [
-        "Hit something",
-        "Yell at everyone",
-        "Keep it bottled up forever"
-      ],
-      "explanation": "Deep breaths and calm words help anger pass safely.",
-      "memoryHook": "T-Rexy says: breathe deep, talk calm - anger passes!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "anger"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_067",
-      "question": "What should you do if you feel sad for a long time?",
-      "correctAnswer": "Talk to a trusted adult, like a parent or teacher",
-      "distractors": [
-        "Keep it secret from everyone",
-        "Stop eating and sleeping",
-        "Pretend it will go away on its own"
-      ],
-      "explanation": "Trusted adults can help when sadness lasts a long time.",
-      "memoryHook": "T-Rexy says: sad for a long time means tell a trusted adult!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "sadness"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_068",
-      "question": "What is empathy?",
-      "correctAnswer": "Understanding how someone else feels",
-      "distractors": [
-        "Feeling sorry for yourself",
-        "Ignoring other people's feelings",
-        "Being good at math"
-      ],
-      "explanation": "Empathy means putting yourself in someone else's shoes.",
-      "memoryHook": "T-Rexy says: empathy is feeling with someone else!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "empathy"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_069",
-      "question": "What is a good way to make a new friend?",
-      "correctAnswer": "Be kind, listen, and include them",
-      "distractors": [
-        "Ignore them",
-        "Tease them",
-        "Take their things"
-      ],
-      "explanation": "Kindness and inclusion build friendships.",
-      "memoryHook": "T-Rexy says: kindness and listening make friends!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "friendship"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_070",
-      "question": "What should you do if you see someone being bullied?",
-      "correctAnswer": "Tell a trusted adult and support the person being bullied",
-      "distractors": [
-        "Join in the bullying",
-        "Laugh and walk away",
-        "Ignore it completely"
-      ],
-      "explanation": "Telling an adult and being kind to the victim helps stop bullying.",
-      "memoryHook": "T-Rexy says: see bullying? Tell an adult and be kind!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "bullying"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_071",
-      "question": "What is bullying?",
-      "correctAnswer": "Repeated unkind behavior meant to hurt or scare someone",
-      "distractors": [
-        "A one-time argument",
-        "A friendly joke",
-        "Playing a game together"
-      ],
-      "explanation": "Bullying is repeated, on purpose, and unfair.",
-      "memoryHook": "T-Rexy says: bullying is repeated meanness on purpose!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "bullying"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_072",
-      "question": "What is a good way to calm down when you feel worried?",
-      "correctAnswer": "Take slow, deep breaths",
-      "distractors": [
-        "Run away from the problem",
-        "Panic and scream",
-        "Stay up all night"
-      ],
-      "explanation": "Slow breathing calms your body and mind.",
-      "memoryHook": "T-Rexy says: slow breaths calm worried minds!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "worry"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_073",
-      "question": "Why is it important to talk about your feelings?",
-      "correctAnswer": "Talking helps you understand feelings and get support",
-      "distractors": [
-        "Feelings are not important",
-        "Talking makes feelings worse",
-        "Feelings should always be hidden"
-      ],
-      "explanation": "Sharing feelings helps you cope and lets others help.",
-      "memoryHook": "T-Rexy says: talking about feelings helps you feel better!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "talking"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_074",
-      "question": "What does it mean to be resilient?",
-      "correctAnswer": "To bounce back after a hard time",
-      "distractors": [
-        "To never feel sad",
-        "To always win",
-        "To avoid all problems"
-      ],
-      "explanation": "Resilience means recovering and trying again after setbacks.",
-      "memoryHook": "T-Rexy says: resilience is bouncing back after a tough time!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "resilience"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_075",
-      "question": "What is a growth mindset?",
-      "correctAnswer": "Believing you can improve by practicing and learning",
-      "distractors": [
-        "Believing you are born smart or not",
-        "Believing practice does not help",
-        "Believing mistakes are failures"
-      ],
-      "explanation": "A growth mindset says effort and learning make you better.",
-      "memoryHook": "T-Rexy says: practice grows your brain - growth mindset!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "growth-mindset"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_076",
-      "question": "What should you do if a friend tells you a secret that someone is getting hurt?",
-      "correctAnswer": "Tell a trusted adult right away",
-      "distractors": [
-        "Keep it secret no matter what",
-        "Tell other kids as gossip",
-        "Ignore it"
-      ],
-      "explanation": "Safety comes first: an adult needs to know if someone is hurt.",
-      "memoryHook": "T-Rexy says: if someone is hurt, tell an adult - secrets cannot hide danger!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "safety"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_077",
-      "question": "Why is it important to spend time with friends and family?",
-      "correctAnswer": "Close relationships support your happiness and health",
-      "distractors": [
-        "It wastes time",
-        "It makes you tired",
-        "Friends are not important"
-      ],
-      "explanation": "Good relationships help you feel loved and supported.",
-      "memoryHook": "T-Rexy says: friends and family keep your heart happy!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "relationships"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_078",
-      "question": "What is a good way to handle a disagreement with a friend?",
-      "correctAnswer": "Listen, talk calmly, and try to understand each other",
-      "distractors": [
-        "Shout until you win",
-        "Stop talking forever",
-        "Tell everyone their secrets"
-      ],
-      "explanation": "Calm listening and talking solve disagreements.",
-      "memoryHook": "T-Rexy says: listen first, talk calmly, solve it together!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "conflict"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_079",
-      "question": "What can you do to feel better after a bad day?",
-      "correctAnswer": "Do something you enjoy, like reading or playing outside",
-      "distractors": [
-        "Stay angry all night",
-        "Break something",
-        "Skip dinner and sleep"
-      ],
-      "explanation": "Healthy activities help bad feelings pass.",
-      "memoryHook": "T-Rexy says: a favorite activity can turn a bad day around!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "coping"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_080",
-      "question": "What is self-confidence?",
-      "correctAnswer": "Believing in yourself and your abilities",
-      "distractors": [
-        "Thinking you are better than everyone",
-        "Never making mistakes",
-        "Being loud all the time"
-      ],
-      "explanation": "Self-confidence means trusting yourself to try and learn.",
-      "memoryHook": "T-Rexy says: confidence is trusting yourself to try!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "feelings",
-        "confidence"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_081",
-      "question": "What should you do first if someone is bleeding from a small cut?",
-      "correctAnswer": "Press a clean cloth on it and wash it with soap and water",
-      "distractors": [
-        "Put dirt on it",
-        "Ignore it",
-        "Run away"
-      ],
-      "explanation": "Pressing slows the bleeding, and washing with soap and water removes dirt and germs. Cover it with a bandage to keep it clean.",
-      "memoryHook": "T-Rexy says: clean it, press it, cover it!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "first-aid",
-        "cuts"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_082",
-      "question": "What should you do if someone has a nosebleed?",
-      "correctAnswer": "Lean forward and pinch the soft part of the nose",
-      "distractors": [
-        "Lean back and tilt your head up",
-        "Blow your nose hard",
-        "Lie flat on your back"
-      ],
-      "explanation": "Leaning forward and pinching helps the bleeding stop.",
-      "memoryHook": "T-Rexy says: lean forward and pinch gently for a nosebleed!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "first-aid",
-        "nosebleed"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_083",
-      "question": "What should you do if you get a small burn?",
-      "correctAnswer": "Cool it with running water",
-      "distractors": [
-        "Put butter on it",
-        "Cover it with ice directly",
-        "Rub it hard"
-      ],
-      "explanation": "Cool running water lowers the skin's temperature and eases pain. Never use ice or butter - they can hurt the skin more.",
-      "memoryHook": "T-Rexy says: cool water soothes a small burn!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "first-aid",
-        "burns"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_084",
-      "question": "When should you call 911?",
-      "correctAnswer": "In an emergency, like a serious injury or someone who cannot breathe",
-      "distractors": [
-        "When you are bored",
-        "When you lose your homework",
-        "When you want a ride"
-      ],
-      "explanation": "911 is for real emergencies only.",
-      "memoryHook": "T-Rexy says: 911 is for real emergencies!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "first-aid",
-        "emergency"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_085",
-      "question": "What should you do if you find medicine on the ground?",
-      "correctAnswer": "Leave it alone and tell an adult",
-      "distractors": [
-        "Taste it to see what it is",
-        "Give it to a friend",
-        "Take it home"
-      ],
-      "explanation": "Medicine can be dangerous; only adults should handle it.",
-      "memoryHook": "T-Rexy says: unknown medicine means tell an adult - never taste it!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety",
-        "medicine"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_086",
-      "question": "Why should you only take medicine from a trusted adult?",
-      "correctAnswer": "Medicine can be harmful if you take the wrong kind or amount",
-      "distractors": [
-        "Adults like to be in charge",
-        "Medicine tastes bad",
-        "Medicine is expensive"
-      ],
-      "explanation": "The wrong medicine or dose can make you very sick.",
-      "memoryHook": "T-Rexy says: medicine is only safe when an adult gives the right dose!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety",
-        "medicine"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_087",
-      "question": "What should you do if you smell smoke or see a fire?",
-      "correctAnswer": "Get out quickly and tell an adult or call 911",
-      "distractors": [
-        "Hide under a bed",
-        "Try to put out a big fire yourself",
-        "Open all the windows"
-      ],
-      "explanation": "Get out fast and get help; never hide.",
-      "memoryHook": "T-Rexy says: fire means get out fast and get help!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety",
-        "fire"
-      ],
-      "difficulty": "easy",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_088",
-      "question": "What is the stop, drop, and roll technique for?",
-      "correctAnswer": "If your clothes catch fire",
-      "distractors": [
-        "If you fall down",
-        "If you get a nosebleed",
-        "If you are choking"
-      ],
-      "explanation": "Stop, drop, and roll smothers flames on clothing.",
-      "memoryHook": "T-Rexy says: stop, drop, and roll puts out flames on clothes!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety",
-        "fire"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_089",
-      "question": "Why should you never play with matches or lighters?",
-      "correctAnswer": "They can start a fire that hurts people",
-      "distractors": [
-        "They are expensive",
-        "They make a mess",
-        "They are boring"
-      ],
-      "explanation": "Matches and lighters can start dangerous fires.",
-      "memoryHook": "T-Rexy says: matches and lighters are tools for adults only!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety",
-        "fire"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_090",
-      "question": "What is tobacco?",
-      "correctAnswer": "A plant used to make cigarettes, which harms the lungs",
-      "distractors": [
-        "A kind of food",
-        "A medicine",
-        "A type of candy"
-      ],
-      "explanation": "Tobacco smoke damages lungs and causes disease.",
-      "memoryHook": "T-Rexy says: tobacco smoke harms your lungs!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "substances",
-        "tobacco"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_091",
-      "question": "What does alcohol do to a child's body?",
-      "correctAnswer": "It can harm the growing brain and body",
-      "distractors": [
-        "It makes kids stronger",
-        "It helps kids learn",
-        "It has no effect"
-      ],
-      "explanation": "Alcohol is harmful for kids and can damage the brain.",
-      "memoryHook": "T-Rexy says: alcohol harms growing brains and bodies!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "substances",
-        "alcohol"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_092",
-      "question": "What should you do if someone offers you a cigarette or alcohol?",
-      "correctAnswer": "Say no and tell a trusted adult",
-      "distractors": [
-        "Try it once to see",
-        "Take it to be polite",
-        "Give it to a friend"
-      ],
-      "explanation": "Cigarettes and alcohol can harm a growing body. Saying no and telling an adult keeps you safe from pressure to try them.",
-      "memoryHook": "T-Rexy says: just say no and tell an adult!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "substances",
-        "saying-no"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_093",
-      "question": "What is peer pressure?",
-      "correctAnswer": "When others try to get you to do something you do not want to do",
-      "distractors": [
-        "When friends help you study",
-        "When a teacher gives homework",
-        "When you play a team sport"
-      ],
-      "explanation": "Peer pressure pushes you toward choices that may be unsafe.",
-      "memoryHook": "T-Rexy says: peer pressure is others pushing you to do things!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "substances",
-        "peer-pressure"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_094",
-      "question": "Why is it important to know what is in your food and drinks?",
-      "correctAnswer": "So you can avoid things that are unsafe or unhealthy",
-      "distractors": [
-        "So you can eat faster",
-        "So you can share with friends",
-        "So you can cook better"
-      ],
-      "explanation": "Knowing ingredients helps you make safe choices.",
-      "memoryHook": "T-Rexy says: know what is in it before you eat or drink it!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety",
-        "food-safety"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_095",
-      "question": "What should you do if you feel sick at school?",
-      "correctAnswer": "Tell your teacher right away",
-      "distractors": [
-        "Hide it and keep working",
-        "Go home alone without telling anyone",
-        "Take medicine from a friend"
-      ],
-      "explanation": "Your teacher can take you to the nurse and call your parent. Hiding it can let a small problem get worse.",
-      "memoryHook": "T-Rexy says: feeling sick means tell your teacher right away!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety",
-        "illness"
-      ],
-      "difficulty": "medium",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_096",
-      "question": "What is a first aid kit?",
-      "correctAnswer": "A box with supplies like bandages for treating small injuries",
-      "distractors": [
-        "A box of toys",
-        "A box of snacks",
-        "A box of school supplies"
-      ],
-      "explanation": "A first aid kit holds bandages, antiseptic, and other basics.",
-      "memoryHook": "T-Rexy says: a first aid kit is the helper box for small injuries!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "first-aid",
-        "kit"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_097",
-      "question": "What should you do if a classmate falls and cannot get up?",
-      "correctAnswer": "Stay calm, get an adult, and do not move them if they are badly hurt",
-      "distractors": [
-        "Drag them to the nurse",
-        "Laugh at them",
-        "Leave them alone"
-      ],
-      "explanation": "Get an adult fast and avoid moving someone who may be hurt.",
-      "memoryHook": "T-Rexy says: stay calm, get an adult, do not move them!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "first-aid",
-        "injuries"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_098",
-      "question": "Why should you wear a seatbelt in a car?",
-      "correctAnswer": "It keeps you safe if the car stops suddenly or crashes",
-      "distractors": [
-        "It is comfortable",
-        "It helps you see better",
-        "It makes the car go faster"
-      ],
-      "explanation": "Seatbelts hold you in place and prevent serious injury.",
-      "memoryHook": "T-Rexy says: buckle up - a seatbelt saves lives!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety",
-        "seatbelt"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_099",
-      "question": "What does SPF on sunscreen mean?",
-      "correctAnswer": "It shows how much protection the sunscreen gives from sunburn",
-      "distractors": [
-        "It is the brand name",
-        "It is the flavor",
-        "It is the size of the bottle"
-      ],
-      "explanation": "Higher SPF means more protection from UV rays.",
-      "memoryHook": "T-Rexy says: SPF is the sun protection number!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety",
-        "sun-safety"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    },
-    {
-      "id": "HEA5_100",
-      "question": "What is the most important thing to remember about safety?",
-      "correctAnswer": "Tell a trusted adult when something feels wrong or unsafe",
-      "distractors": [
-        "Always handle problems alone",
-        "Never ask for help",
-        "Safety is only for little kids"
-      ],
-      "explanation": "Parents, teachers, and other trusted adults know how to help in danger. Telling them quickly is the safest first step.",
-      "memoryHook": "T-Rexy says: when something feels unsafe, tell a trusted adult!",
-      "imageUrl": "topic:health",
-      "tags": [
-        "safety",
-        "general"
-      ],
-      "difficulty": "hard",
-      "dynamic": false,
-      "source": "original"
-    }
-  ]
+ "packId": "gr5-health",
+ "title": "Health (5th Grade)",
+ "description": "Health (5th Grade) practice - 112 questions",
+ "version": "1.0",
+ "language": "en",
+ "passingScore": 60,
+ "totalQuestions": 112,
+ "addedAt": "2026-11-05",
+ "tags": [
+  "health",
+  "5th"
+ ],
+ "questions": [
+  {
+   "id": "HEA5_001",
+   "question": "Which food group do apples, bananas, and oranges belong to?",
+   "correctAnswer": "Fruits",
+   "distractors": [
+    "Vegetables",
+    "Grains",
+    "Dairy"
+   ],
+   "explanation": "Fruits grow on plants and trees, and they are full of vitamins and fiber that help your body stay healthy.",
+   "memoryHook": "T-Rexy says: fruits are nature's sweet snacks!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "food-groups"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_002",
+   "question": "Which food group do carrots, broccoli, and spinach belong to?",
+   "correctAnswer": "Vegetables",
+   "distractors": [
+    "Fruits",
+    "Protein",
+    "Dairy"
+   ],
+   "explanation": "Vegetables grow in gardens and fields. They give your body vitamins, minerals, and fiber.",
+   "memoryHook": "T-Rexy says: veggies grow in the garden - eat your greens!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "food-groups"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_003",
+   "question": "Which food group do bread, rice, and pasta belong to?",
+   "correctAnswer": "Grains",
+   "distractors": [
+    "Fruits",
+    "Vegetables",
+    "Protein"
+   ],
+   "explanation": "Grains come from plants like wheat and rice. They give your body energy to run, play, and learn.",
+   "memoryHook": "T-Rexy says: grains give you energy to run and play!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "food-groups"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_004",
+   "question": "Which food group do milk, cheese, and yogurt belong to?",
+   "correctAnswer": "Dairy",
+   "distractors": [
+    "Protein",
+    "Grains",
+    "Fruits"
+   ],
+   "explanation": "Dairy foods come from milk. They are rich in calcium, which builds strong bones and teeth.",
+   "memoryHook": "T-Rexy says: dairy builds strong bones!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "food-groups"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_005",
+   "question": "Which food group do chicken, beans, and eggs belong to?",
+   "correctAnswer": "Protein",
+   "distractors": [
+    "Grains",
+    "Fruits",
+    "Dairy"
+   ],
+   "explanation": "Protein foods help your body build and repair muscles. Chicken, beans, and eggs are all good sources.",
+   "memoryHook": "T-Rexy says: protein builds strong muscles!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "food-groups"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_006",
+   "question": "What does protein help your body do?",
+   "correctAnswer": "Build and repair muscles",
+   "distractors": [
+    "Make your bones soft",
+    "Help you see in the dark",
+    "Make you sleepy"
+   ],
+   "explanation": "Protein builds muscles and repairs body tissues.",
+   "memoryHook": "T-Rexy says: protein is the builder for muscles!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "protein"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_007",
+   "question": "Why is calcium important for kids?",
+   "correctAnswer": "It builds strong bones and teeth",
+   "distractors": [
+    "It helps you run faster",
+    "It makes your hair grow longer",
+    "It helps you stay awake"
+   ],
+   "explanation": "Calcium from milk and other foods makes bones and teeth strong.",
+   "memoryHook": "T-Rexy says: calcium is the bone builder!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "calcium"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_008",
+   "question": "Which of these is the healthiest drink?",
+   "correctAnswer": "Water",
+   "distractors": [
+    "Soda",
+    "Energy drinks",
+    "Sweet juice drinks"
+   ],
+   "explanation": "Water hydrates your body without sugar.",
+   "memoryHook": "T-Rexy says: water is the best drink of all!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "drinks"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_009",
+   "question": "Why is eating a variety of foods important?",
+   "correctAnswer": "Different foods give your body different nutrients",
+   "distractors": [
+    "It makes meals more fun only",
+    "It helps you eat faster",
+    "It makes food cheaper"
+   ],
+   "explanation": "Your body needs many nutrients, and no single food has them all.",
+   "memoryHook": "T-Rexy says: eat a rainbow - every color brings different nutrients!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "variety"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_010",
+   "question": "What is a whole grain?",
+   "correctAnswer": "A grain that keeps all its parts, like whole wheat bread",
+   "distractors": [
+    "A grain with no flavor",
+    "A grain that is white",
+    "A grain that is cooked"
+   ],
+   "explanation": "Whole grains keep the bran, germ, and endosperm, with fiber and nutrients.",
+   "memoryHook": "T-Rexy says: whole grains keep all their good parts!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "grains"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_011",
+   "question": "Which snack is healthiest?",
+   "correctAnswer": "An apple with peanut butter",
+   "distractors": [
+    "A bag of chips",
+    "A candy bar",
+    "A sugary donut"
+   ],
+   "explanation": "An apple with peanut butter gives fiber, vitamins, and protein.",
+   "memoryHook": "T-Rexy says: apple plus peanut butter is a super snack!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "snacks"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_012",
+   "question": "What does fiber do for your body?",
+   "correctAnswer": "It helps digestion and keeps you feeling full",
+   "distractors": [
+    "It makes your bones soft",
+    "It gives you energy right away",
+    "It makes you thirsty"
+   ],
+   "explanation": "Fiber from fruits, vegetables, and whole grains helps your digestion.",
+   "memoryHook": "T-Rexy says: fiber keeps your tummy happy!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "fiber"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_013",
+   "question": "Why should you limit sugary drinks?",
+   "correctAnswer": "They have lots of sugar and can harm your teeth and health",
+   "distractors": [
+    "They make you too strong",
+    "They cost too much money",
+    "They are hard to find"
+   ],
+   "explanation": "Sugary drinks add sugar without nutrients and can cause cavities.",
+   "memoryHook": "T-Rexy says: sugary drinks are a cavity trap!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "sugar"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_014",
+   "question": "How many servings of fruits and vegetables should kids aim for each day?",
+   "correctAnswer": "Five servings",
+   "distractors": [
+    "One serving",
+    "Ten servings",
+    "Zero servings"
+   ],
+   "explanation": "Health experts suggest about five servings of fruits and vegetables a day.",
+   "memoryHook": "T-Rexy says: five a day keeps you strong and healthy!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "servings"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_015",
+   "question": "What vitamin helps your body fight sickness?",
+   "correctAnswer": "Vitamin C",
+   "distractors": [
+    "Vitamin B",
+    "Vitamin D only",
+    "Vitamin K only"
+   ],
+   "explanation": "Vitamin C, found in oranges and peppers, supports the immune system.",
+   "memoryHook": "T-Rexy says: vitamin C is your germ-fighting helper!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "vitamins"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_016",
+   "question": "Which food is a good source of vitamin C?",
+   "correctAnswer": "Oranges",
+   "distractors": [
+    "White bread",
+    "Potato chips",
+    "Candy"
+   ],
+   "explanation": "Oranges, strawberries, and peppers are packed with vitamin C, which helps your immune system fight germs.",
+   "memoryHook": "T-Rexy says: oranges are vitamin C champions!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "vitamins"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_017",
+   "question": "Why is breakfast called the most important meal of the day?",
+   "correctAnswer": "It gives you energy after sleeping all night",
+   "distractors": [
+    "It is the biggest meal",
+    "It has the most sugar",
+    "It is eaten at school"
+   ],
+   "explanation": "Breakfast refuels your body after the night and helps you focus.",
+   "memoryHook": "T-Rexy says: breakfast fuels your morning brain!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "meals"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_018",
+   "question": "What is a balanced meal?",
+   "correctAnswer": "A meal with foods from different food groups",
+   "distractors": [
+    "A meal with only one food",
+    "A meal with lots of dessert",
+    "A meal eaten quickly"
+   ],
+   "explanation": "A balanced meal includes grains, protein, fruits, vegetables, and dairy.",
+   "memoryHook": "T-Rexy says: a balanced plate has a little of everything!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "balanced-meals"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_019",
+   "question": "Which of these has the most added sugar?",
+   "correctAnswer": "A can of soda",
+   "distractors": [
+    "A glass of water",
+    "An apple",
+    "A carrot"
+   ],
+   "explanation": "One can of soda can hold about 10 teaspoons of added sugar, far more than an apple or a carrot, which have only natural sugars.",
+   "memoryHook": "T-Rexy says: soda is sugar water in a can!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "sugar"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_020",
+   "question": "Why is it important to drink water during exercise?",
+   "correctAnswer": "To replace the water your body loses in sweat",
+   "distractors": [
+    "To make you run faster",
+    "To cool your shoes",
+    "To help you jump higher"
+   ],
+   "explanation": "Sweating loses water, and drinking replaces it so you do not get dehydrated.",
+   "memoryHook": "T-Rexy says: sweat out water, drink it back in!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "nutrition",
+    "hydration"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_021",
+   "question": "What does your heart do?",
+   "correctAnswer": "It pumps blood around your body",
+   "distractors": [
+    "It helps you breathe",
+    "It digests your food",
+    "It helps you think"
+   ],
+   "explanation": "The heart is a muscle that pumps blood to every part of your body.",
+   "memoryHook": "T-Rexy says: your heart is a pump that never rests!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "heart"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_022",
+   "question": "What do your lungs do?",
+   "correctAnswer": "They help you breathe in oxygen and breathe out carbon dioxide",
+   "distractors": [
+    "They pump blood",
+    "They digest food",
+    "They help you see"
+   ],
+   "explanation": "Lungs take in oxygen from the air and send it into your blood.",
+   "memoryHook": "T-Rexy says: your lungs are breathing balloons!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "lungs"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_023",
+   "question": "What does your brain do?",
+   "correctAnswer": "It controls your body and helps you think and learn",
+   "distractors": [
+    "It pumps blood",
+    "It digests food",
+    "It helps you run"
+   ],
+   "explanation": "The brain is the control center for thinking, feeling, and moving.",
+   "memoryHook": "T-Rexy says: your brain is the boss of your whole body!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "brain"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_024",
+   "question": "What do your bones do?",
+   "correctAnswer": "They support your body and protect your organs",
+   "distractors": [
+    "They pump blood",
+    "They help you breathe",
+    "They digest food"
+   ],
+   "explanation": "Bones give your body shape and protect organs like the brain and heart.",
+   "memoryHook": "T-Rexy says: bones are your body's strong frame!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "bones"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_025",
+   "question": "What do muscles do?",
+   "correctAnswer": "They help your body move",
+   "distractors": [
+    "They pump blood only",
+    "They help you think",
+    "They carry oxygen"
+   ],
+   "explanation": "Muscles pull on bones to make your body move.",
+   "memoryHook": "T-Rexy says: muscles pull your bones to move you!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "muscles"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_026",
+   "question": "How many bones does an adult have?",
+   "correctAnswer": "206",
+   "distractors": [
+    "106",
+    "306",
+    "50"
+   ],
+   "explanation": "An adult has 206 bones. Kids have more, and some fuse as they grow.",
+   "memoryHook": "T-Rexy says: 206 bones hold you up!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "bones"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_027",
+   "question": "What does your stomach do?",
+   "correctAnswer": "It breaks down food with acids and churning",
+   "distractors": [
+    "It pumps blood",
+    "It helps you breathe",
+    "It makes you think"
+   ],
+   "explanation": "The stomach mixes food with acids to start digestion.",
+   "memoryHook": "T-Rexy says: your stomach is a food-mixing machine!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "digestion"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_028",
+   "question": "What is the job of your skin?",
+   "correctAnswer": "It protects your body and helps you feel things",
+   "distractors": [
+    "It pumps blood",
+    "It digests food",
+    "It helps you breathe underwater"
+   ],
+   "explanation": "Skin covers and protects you and senses touch, heat, and cold.",
+   "memoryHook": "T-Rexy says: skin is your body's shield!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "skin"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_029",
+   "question": "What do red blood cells do?",
+   "correctAnswer": "They carry oxygen around your body",
+   "distractors": [
+    "They fight germs",
+    "They help you think",
+    "They make your bones strong"
+   ],
+   "explanation": "Red blood cells pick up oxygen in the lungs and deliver it to cells.",
+   "memoryHook": "T-Rexy says: red blood cells are oxygen delivery trucks!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "blood"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_030",
+   "question": "What do white blood cells do?",
+   "correctAnswer": "They fight germs and sickness",
+   "distractors": [
+    "They carry oxygen",
+    "They pump blood",
+    "They help you see"
+   ],
+   "explanation": "White blood cells attack germs that make you sick.",
+   "memoryHook": "T-Rexy says: white blood cells are your germ fighters!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "blood"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_031",
+   "question": "What is your pulse?",
+   "correctAnswer": "The beating of your heart that you can feel in your wrist or neck",
+   "distractors": [
+    "How fast you breathe",
+    "How tall you are",
+    "How strong your muscles are"
+   ],
+   "explanation": "Each heartbeat sends a pulse of blood through your arteries.",
+   "memoryHook": "T-Rexy says: your pulse is your heartbeat you can feel!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "heart"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_032",
+   "question": "Why does your heart beat faster when you exercise?",
+   "correctAnswer": "Your muscles need more oxygen, so your heart pumps faster",
+   "distractors": [
+    "Your heart gets tired",
+    "Your body gets cold",
+    "Your lungs stop working"
+   ],
+   "explanation": "Exercise needs more oxygen, so the heart works harder to deliver it.",
+   "memoryHook": "T-Rexy says: exercise makes your heart pump faster to feed your muscles!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "heart"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_033",
+   "question": "What is the largest organ in your body?",
+   "correctAnswer": "Your skin",
+   "distractors": [
+    "Your heart",
+    "Your liver",
+    "Your brain"
+   ],
+   "explanation": "Skin is the largest organ, covering your whole body.",
+   "memoryHook": "T-Rexy says: skin is your biggest organ!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "skin"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_034",
+   "question": "What does the spine do?",
+   "correctAnswer": "It supports your body and protects the nerves inside",
+   "distractors": [
+    "It pumps blood",
+    "It helps you breathe",
+    "It digests food"
+   ],
+   "explanation": "The spine is a column of bones that holds you up and guards the spinal cord.",
+   "memoryHook": "T-Rexy says: your spine is your body's strong pole!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "bones"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_035",
+   "question": "How does your body get energy from food?",
+   "correctAnswer": "Digestion breaks food down and cells use the nutrients for energy",
+   "distractors": [
+    "Food turns directly into muscle",
+    "Your stomach burns food like a fire",
+    "Energy comes only from water"
+   ],
+   "explanation": "Digestion turns food into nutrients your cells use for energy.",
+   "memoryHook": "T-Rexy says: food becomes fuel after digestion!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "body",
+    "digestion"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_036",
+   "question": "Why should you wash your hands before eating?",
+   "correctAnswer": "To remove germs that could make you sick",
+   "distractors": [
+    "To make your hands smell nice",
+    "To cool your hands down",
+    "To make food taste better"
+   ],
+   "explanation": "Handwashing removes germs before they can get into your body.",
+   "memoryHook": "T-Rexy says: wash away the germs before you eat!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "hygiene",
+    "handwashing"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_037",
+   "question": "How long should you scrub your hands with soap?",
+   "correctAnswer": "About 20 seconds",
+   "distractors": [
+    "About 2 seconds",
+    "About 2 minutes",
+    "About 1 second"
+   ],
+   "explanation": "Scrubbing for 20 seconds, about the time to sing 'Happy Birthday' twice, removes germs.",
+   "memoryHook": "T-Rexy says: scrub for 20 seconds - sing Happy Birthday twice!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "hygiene",
+    "handwashing"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_038",
+   "question": "How often should you brush your teeth?",
+   "correctAnswer": "Twice a day",
+   "distractors": [
+    "Once a week",
+    "Once a month",
+    "Only when they hurt"
+   ],
+   "explanation": "Brushing twice a day removes plaque and helps prevent cavities.",
+   "memoryHook": "T-Rexy says: brush twice a day for a bright smile!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "hygiene",
+    "dental"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_039",
+   "question": "Why should you floss your teeth?",
+   "correctAnswer": "To clean between teeth where a brush cannot reach",
+   "distractors": [
+    "To make teeth whiter only",
+    "To make your breath smell nice only",
+    "To straighten your teeth"
+   ],
+   "explanation": "Floss removes food and plaque from between teeth.",
+   "memoryHook": "T-Rexy says: floss reaches where the brush cannot!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "hygiene",
+    "dental"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_040",
+   "question": "What should you do when you cough or sneeze?",
+   "correctAnswer": "Cover your mouth with your elbow or a tissue",
+   "distractors": [
+    "Cough into your hands",
+    "Cough into the air",
+    "Hold your breath"
+   ],
+   "explanation": "Covering your cough stops germs from spreading to others.",
+   "memoryHook": "T-Rexy says: cough into your elbow, not your hands!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "hygiene",
+    "germs"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_041",
+   "question": "How many hours of sleep do kids aged 9 to 12 need each night?",
+   "correctAnswer": "9 to 12 hours",
+   "distractors": [
+    "5 to 6 hours",
+    "6 to 7 hours",
+    "14 to 16 hours"
+   ],
+   "explanation": "Kids need 9 to 12 hours of sleep to grow and learn well.",
+   "memoryHook": "T-Rexy says: 9 to 12 hours of sleep helps you grow and learn!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "hygiene",
+    "sleep"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_042",
+   "question": "Why is sleep important?",
+   "correctAnswer": "It helps your body grow and your brain learn and remember",
+   "distractors": [
+    "It makes you taller overnight",
+    "It stops you from dreaming",
+    "It makes you hungry"
+   ],
+   "explanation": "During sleep, your body grows and your brain stores what you learned.",
+   "memoryHook": "T-Rexy says: sleep is when your brain files away the day!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "hygiene",
+    "sleep"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_043",
+   "question": "What should you do before bed to sleep well?",
+   "correctAnswer": "Turn off screens and relax",
+   "distractors": [
+    "Drink a sugary soda",
+    "Play a loud video game",
+    "Eat a big meal"
+   ],
+   "explanation": "Screens and sugar make it harder to fall asleep.",
+   "memoryHook": "T-Rexy says: screens off, calm on - good sleep follows!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "hygiene",
+    "sleep"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_044",
+   "question": "Why should you wear sunscreen?",
+   "correctAnswer": "To protect your skin from harmful sun rays",
+   "distractors": [
+    "To look tanned",
+    "To stay warm",
+    "To keep bugs away"
+   ],
+   "explanation": "Sunscreen blocks UV rays that can burn and damage skin.",
+   "memoryHook": "T-Rexy says: sunscreen is a shield against sunburn!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "sun-safety"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_045",
+   "question": "What should you wear to protect your head when riding a bike?",
+   "correctAnswer": "A helmet",
+   "distractors": [
+    "A hat",
+    "Sunglasses",
+    "A hood"
+   ],
+   "explanation": "A helmet protects your brain if you fall.",
+   "memoryHook": "T-Rexy says: a helmet protects your brain - always wear one!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_046",
+   "question": "Why is it important to look both ways before crossing the street?",
+   "correctAnswer": "To check for cars coming from either direction",
+   "distractors": [
+    "To wave at drivers",
+    "To find your friends",
+    "To see the traffic light only"
+   ],
+   "explanation": "Cars can come from either direction, and looking both ways - then looking left again - makes sure the road is clear before you step off the curb.",
+   "memoryHook": "T-Rexy says: look left, look right, then cross!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_047",
+   "question": "What should you do if a stranger offers you a ride?",
+   "correctAnswer": "Say no and tell a trusted adult",
+   "distractors": [
+    "Get in the car",
+    "Follow the stranger",
+    "Take the candy and run"
+   ],
+   "explanation": "Never go with a stranger; tell a parent, teacher, or other trusted adult.",
+   "memoryHook": "T-Rexy says: strangers offering rides mean say no and tell an adult!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_048",
+   "question": "Why should you never share a toothbrush?",
+   "correctAnswer": "Germs can spread from one person's mouth to another",
+   "distractors": [
+    "It wears out the brush",
+    "It makes teeth yellow",
+    "It is against the rules only"
+   ],
+   "explanation": "Sharing a toothbrush can spread germs and sickness.",
+   "memoryHook": "T-Rexy says: your toothbrush is yours alone - germs hitchhike!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "hygiene",
+    "germs"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_049",
+   "question": "How often should you visit the dentist?",
+   "correctAnswer": "About twice a year",
+   "distractors": [
+    "Once every five years",
+    "Only when a tooth hurts",
+    "Never"
+   ],
+   "explanation": "Regular checkups catch problems early.",
+   "memoryHook": "T-Rexy says: twice a year keeps your smile in check!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "hygiene",
+    "dental"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_050",
+   "question": "What is the best way to stay healthy when someone near you is sick?",
+   "correctAnswer": "Wash your hands often and avoid touching your face",
+   "distractors": [
+    "Share their food",
+    "Sleep in their bed",
+    "Use their towel"
+   ],
+   "explanation": "Germs get in through your eyes, nose, and mouth. Clean hands and keeping hands away from your face block their way in.",
+   "memoryHook": "T-Rexy says: wash hands, hands off your face!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "hygiene",
+    "germs"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_051",
+   "question": "How much physical activity should kids get each day?",
+   "correctAnswer": "At least 60 minutes",
+   "distractors": [
+    "At least 10 minutes",
+    "At least 5 minutes",
+    "No activity is needed"
+   ],
+   "explanation": "Health experts say kids need at least 60 minutes of activity daily.",
+   "memoryHook": "T-Rexy says: 60 minutes of play every day keeps you strong!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "activity"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_052",
+   "question": "What is a good warm-up before exercise?",
+   "correctAnswer": "Light movement like walking or gentle stretching",
+   "distractors": [
+    "Sprinting as fast as you can",
+    "Sitting still",
+    "Lifting heavy weights"
+   ],
+   "explanation": "Warming up prepares muscles and helps prevent injury.",
+   "memoryHook": "T-Rexy says: warm up gently before you play hard!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "warm-up"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_053",
+   "question": "Why is stretching good for you?",
+   "correctAnswer": "It keeps muscles flexible and helps prevent injury",
+   "distractors": [
+    "It makes you taller",
+    "It replaces exercise",
+    "It makes you stronger instantly"
+   ],
+   "explanation": "Stretching keeps muscles loose and flexible.",
+   "memoryHook": "T-Rexy says: stretching keeps muscles bendy and safe!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "stretching"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_054",
+   "question": "What does the word 'aerobic' exercise mean?",
+   "correctAnswer": "Exercise that gets your heart pumping, like running or swimming",
+   "distractors": [
+    "Exercise done while sitting",
+    "Exercise with heavy weights only",
+    "Exercise done in water only"
+   ],
+   "explanation": "Aerobic exercise raises your heart rate and breathing.",
+   "memoryHook": "T-Rexy says: aerobic means heart-pumping movement!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "aerobic"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_055",
+   "question": "Which activity is best for building strong bones?",
+   "correctAnswer": "Jumping, running, and other weight-bearing activities",
+   "distractors": [
+    "Swimming only",
+    "Watching TV",
+    "Sitting and reading"
+   ],
+   "explanation": "Activities where your feet hit the ground strengthen bones.",
+   "memoryHook": "T-Rexy says: jumping and running build strong bones!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "bones"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_056",
+   "question": "Why should you cool down after exercise?",
+   "correctAnswer": "To let your heart rate slow down gradually",
+   "distractors": [
+    "To make muscles bigger instantly",
+    "To stop sweating right away",
+    "To eat faster"
+   ],
+   "explanation": "Cooling down helps your body return to normal safely.",
+   "memoryHook": "T-Rexy says: cool down slowly - let your heart settle!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "cool-down"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_057",
+   "question": "What should you do if a muscle hurts during exercise?",
+   "correctAnswer": "Stop and rest, and tell an adult if it keeps hurting",
+   "distractors": [
+    "Keep going as hard as you can",
+    "Ignore it completely",
+    "Stretch it hard"
+   ],
+   "explanation": "Pain is a signal to stop and rest.",
+   "memoryHook": "T-Rexy says: pain means stop and rest - listen to your body!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "safety"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_058",
+   "question": "How does exercise help your brain?",
+   "correctAnswer": "It improves focus, memory, and mood",
+   "distractors": [
+    "It makes you sleepy",
+    "It makes you forget things",
+    "It does not affect the brain"
+   ],
+   "explanation": "Activity sends more oxygen to the brain and improves learning.",
+   "memoryHook": "T-Rexy says: moving your body sharpens your brain!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "brain"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_059",
+   "question": "Which of these is a team sport?",
+   "correctAnswer": "Soccer",
+   "distractors": [
+    "Running alone",
+    "Swimming laps alone",
+    "Jumping rope alone"
+   ],
+   "explanation": "Soccer is played by a team working together.",
+   "memoryHook": "T-Rexy says: soccer is a team game!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "sports"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_060",
+   "question": "What is good sportsmanship?",
+   "correctAnswer": "Playing fair, respecting others, and handling winning and losing well",
+   "distractors": [
+    "Winning at any cost",
+    "Cheating to win",
+    "Refusing to play with others"
+   ],
+   "explanation": "Good sportsmanship means fair play and respect.",
+   "memoryHook": "T-Rexy says: play fair and respect everyone - that is sportsmanship!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "sportsmanship"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_061",
+   "question": "Why is it important to drink water before, during, and after exercise?",
+   "correctAnswer": "To stay hydrated and keep your body working well",
+   "distractors": [
+    "To make you run faster",
+    "To fill your stomach",
+    "To cool your shoes"
+   ],
+   "explanation": "Drink before you play so you start hydrated, sip during play to replace sweat, and drink after to help your body recover.",
+   "memoryHook": "T-Rexy says: drink water before, during, and after play!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "hydration"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_062",
+   "question": "What is the best way to get stronger?",
+   "correctAnswer": "Regular exercise with rest days in between",
+   "distractors": [
+    "Exercising as hard as possible every day",
+    "Lifting the heaviest weight once",
+    "Only eating protein"
+   ],
+   "explanation": "Muscles grow stronger with regular work plus rest.",
+   "memoryHook": "T-Rexy says: work out regularly and rest - muscles grow stronger!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "strength"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_063",
+   "question": "How can walking to school help your health?",
+   "correctAnswer": "It adds physical activity to your day",
+   "distractors": [
+    "It makes you late",
+    "It makes you tired for class",
+    "It does not help at all"
+   ],
+   "explanation": "Walking makes your heart and legs work, and every step counts toward the 60 minutes of activity kids need each day.",
+   "memoryHook": "T-Rexy says: walking to school is free exercise!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "daily-activity"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_064",
+   "question": "What is flexibility?",
+   "correctAnswer": "How well your muscles and joints can bend and stretch",
+   "distractors": [
+    "How fast you can run",
+    "How much weight you can lift",
+    "How long you can hold your breath"
+   ],
+   "explanation": "Flexibility is the range of motion in your joints.",
+   "memoryHook": "T-Rexy says: flexibility is how bendy you are!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "flexibility"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_065",
+   "question": "Why do you need rest days after hard exercise?",
+   "correctAnswer": "Muscles need time to recover and grow stronger",
+   "distractors": [
+    "Exercise is bad for you",
+    "Rest makes you weaker",
+    "You should never rest"
+   ],
+   "explanation": "Rest lets muscles repair and get stronger.",
+   "memoryHook": "T-Rexy says: rest days let muscles rebuild stronger!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "exercise",
+    "recovery"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_066",
+   "question": "What is a healthy way to handle feeling angry?",
+   "correctAnswer": "Take deep breaths and talk about it calmly",
+   "distractors": [
+    "Hit something",
+    "Yell at everyone",
+    "Keep it bottled up forever"
+   ],
+   "explanation": "Deep breaths and calm words help anger pass safely.",
+   "memoryHook": "T-Rexy says: breathe deep, talk calm - anger passes!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "anger"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_067",
+   "question": "What should you do if you feel sad for a long time?",
+   "correctAnswer": "Talk to a trusted adult, like a parent or teacher",
+   "distractors": [
+    "Keep it secret from everyone",
+    "Stop eating and sleeping",
+    "Pretend it will go away on its own"
+   ],
+   "explanation": "Trusted adults can help when sadness lasts a long time.",
+   "memoryHook": "T-Rexy says: sad for a long time means tell a trusted adult!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "sadness"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_068",
+   "question": "What is empathy?",
+   "correctAnswer": "Understanding how someone else feels",
+   "distractors": [
+    "Feeling sorry for yourself",
+    "Ignoring other people's feelings",
+    "Being good at math"
+   ],
+   "explanation": "Empathy means putting yourself in someone else's shoes.",
+   "memoryHook": "T-Rexy says: empathy is feeling with someone else!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "empathy"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_069",
+   "question": "What is a good way to make a new friend?",
+   "correctAnswer": "Be kind, listen, and include them",
+   "distractors": [
+    "Ignore them",
+    "Tease them",
+    "Take their things"
+   ],
+   "explanation": "Kindness and inclusion build friendships.",
+   "memoryHook": "T-Rexy says: kindness and listening make friends!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "friendship"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_070",
+   "question": "What should you do if you see someone being bullied?",
+   "correctAnswer": "Tell a trusted adult and support the person being bullied",
+   "distractors": [
+    "Join in the bullying",
+    "Laugh and walk away",
+    "Ignore it completely"
+   ],
+   "explanation": "Telling an adult and being kind to the victim helps stop bullying.",
+   "memoryHook": "T-Rexy says: see bullying? Tell an adult and be kind!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "bullying"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_071",
+   "question": "What is bullying?",
+   "correctAnswer": "Repeated unkind behavior meant to hurt or scare someone",
+   "distractors": [
+    "A one-time argument",
+    "A friendly joke",
+    "Playing a game together"
+   ],
+   "explanation": "Bullying is repeated, on purpose, and unfair.",
+   "memoryHook": "T-Rexy says: bullying is repeated meanness on purpose!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "bullying"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_072",
+   "question": "What is a good way to calm down when you feel worried?",
+   "correctAnswer": "Take slow, deep breaths",
+   "distractors": [
+    "Run away from the problem",
+    "Panic and scream",
+    "Stay up all night"
+   ],
+   "explanation": "Slow breathing calms your body and mind.",
+   "memoryHook": "T-Rexy says: slow breaths calm worried minds!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "worry"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_073",
+   "question": "Why is it important to talk about your feelings?",
+   "correctAnswer": "Talking helps you understand feelings and get support",
+   "distractors": [
+    "Feelings are not important",
+    "Talking makes feelings worse",
+    "Feelings should always be hidden"
+   ],
+   "explanation": "Sharing feelings helps you cope and lets others help.",
+   "memoryHook": "T-Rexy says: talking about feelings helps you feel better!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "talking"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_074",
+   "question": "What does it mean to be resilient?",
+   "correctAnswer": "To bounce back after a hard time",
+   "distractors": [
+    "To never feel sad",
+    "To always win",
+    "To avoid all problems"
+   ],
+   "explanation": "Resilience means recovering and trying again after setbacks.",
+   "memoryHook": "T-Rexy says: resilience is bouncing back after a tough time!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "resilience"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_075",
+   "question": "What is a growth mindset?",
+   "correctAnswer": "Believing you can improve by practicing and learning",
+   "distractors": [
+    "Believing you are born smart or not",
+    "Believing practice does not help",
+    "Believing mistakes are failures"
+   ],
+   "explanation": "A growth mindset says effort and learning make you better.",
+   "memoryHook": "T-Rexy says: practice grows your brain - growth mindset!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "growth-mindset"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_076",
+   "question": "What should you do if a friend tells you a secret that someone is getting hurt?",
+   "correctAnswer": "Tell a trusted adult right away",
+   "distractors": [
+    "Keep it secret no matter what",
+    "Tell other kids as gossip",
+    "Ignore it"
+   ],
+   "explanation": "Safety comes first: an adult needs to know if someone is hurt.",
+   "memoryHook": "T-Rexy says: if someone is hurt, tell an adult - secrets cannot hide danger!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "safety"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_077",
+   "question": "Why is it important to spend time with friends and family?",
+   "correctAnswer": "Close relationships support your happiness and health",
+   "distractors": [
+    "It wastes time",
+    "It makes you tired",
+    "Friends are not important"
+   ],
+   "explanation": "Good relationships help you feel loved and supported.",
+   "memoryHook": "T-Rexy says: friends and family keep your heart happy!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "relationships"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_078",
+   "question": "What is a good way to handle a disagreement with a friend?",
+   "correctAnswer": "Listen, talk calmly, and try to understand each other",
+   "distractors": [
+    "Shout until you win",
+    "Stop talking forever",
+    "Tell everyone their secrets"
+   ],
+   "explanation": "Calm listening and talking solve disagreements.",
+   "memoryHook": "T-Rexy says: listen first, talk calmly, solve it together!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "conflict"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_079",
+   "question": "What can you do to feel better after a bad day?",
+   "correctAnswer": "Do something you enjoy, like reading or playing outside",
+   "distractors": [
+    "Stay angry all night",
+    "Break something",
+    "Skip dinner and sleep"
+   ],
+   "explanation": "Healthy activities help bad feelings pass.",
+   "memoryHook": "T-Rexy says: a favorite activity can turn a bad day around!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "coping"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_080",
+   "question": "What is self-confidence?",
+   "correctAnswer": "Believing in yourself and your abilities",
+   "distractors": [
+    "Thinking you are better than everyone",
+    "Never making mistakes",
+    "Being loud all the time"
+   ],
+   "explanation": "Self-confidence means trusting yourself to try and learn.",
+   "memoryHook": "T-Rexy says: confidence is trusting yourself to try!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "feelings",
+    "confidence"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_081",
+   "question": "What should you do first if someone is bleeding from a small cut?",
+   "correctAnswer": "Press a clean cloth on it and wash it with soap and water",
+   "distractors": [
+    "Put dirt on it",
+    "Ignore it",
+    "Run away"
+   ],
+   "explanation": "Pressing slows the bleeding, and washing with soap and water removes dirt and germs. Cover it with a bandage to keep it clean.",
+   "memoryHook": "T-Rexy says: clean it, press it, cover it!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "first-aid",
+    "cuts"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_082",
+   "question": "What should you do if someone has a nosebleed?",
+   "correctAnswer": "Lean forward and pinch the soft part of the nose",
+   "distractors": [
+    "Lean back and tilt your head up",
+    "Blow your nose hard",
+    "Lie flat on your back"
+   ],
+   "explanation": "Leaning forward and pinching helps the bleeding stop.",
+   "memoryHook": "T-Rexy says: lean forward and pinch gently for a nosebleed!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "first-aid",
+    "nosebleed"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_083",
+   "question": "What should you do if you get a small burn?",
+   "correctAnswer": "Cool it with running water",
+   "distractors": [
+    "Put butter on it",
+    "Cover it with ice directly",
+    "Rub it hard"
+   ],
+   "explanation": "Cool running water lowers the skin's temperature and eases pain. Never use ice or butter - they can hurt the skin more.",
+   "memoryHook": "T-Rexy says: cool water soothes a small burn!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "first-aid",
+    "burns"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_084",
+   "question": "When should you call 911?",
+   "correctAnswer": "In an emergency, like a serious injury or someone who cannot breathe",
+   "distractors": [
+    "When you are bored",
+    "When you lose your homework",
+    "When you want a ride"
+   ],
+   "explanation": "911 is for real emergencies only.",
+   "memoryHook": "T-Rexy says: 911 is for real emergencies!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "first-aid",
+    "emergency"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_085",
+   "question": "What should you do if you find medicine on the ground?",
+   "correctAnswer": "Leave it alone and tell an adult",
+   "distractors": [
+    "Taste it to see what it is",
+    "Give it to a friend",
+    "Take it home"
+   ],
+   "explanation": "Medicine can be dangerous; only adults should handle it.",
+   "memoryHook": "T-Rexy says: unknown medicine means tell an adult - never taste it!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "medicine"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_086",
+   "question": "Why should you only take medicine from a trusted adult?",
+   "correctAnswer": "Medicine can be harmful if you take the wrong kind or amount",
+   "distractors": [
+    "Adults like to be in charge",
+    "Medicine tastes bad",
+    "Medicine is expensive"
+   ],
+   "explanation": "The wrong medicine or dose can make you very sick.",
+   "memoryHook": "T-Rexy says: medicine is only safe when an adult gives the right dose!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "medicine"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_087",
+   "question": "What should you do if you smell smoke or see a fire?",
+   "correctAnswer": "Get out quickly and tell an adult or call 911",
+   "distractors": [
+    "Hide under a bed",
+    "Try to put out a big fire yourself",
+    "Open all the windows"
+   ],
+   "explanation": "Get out fast and get help; never hide.",
+   "memoryHook": "T-Rexy says: fire means get out fast and get help!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "fire"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_088",
+   "question": "What is the stop, drop, and roll technique for?",
+   "correctAnswer": "If your clothes catch fire",
+   "distractors": [
+    "If you fall down",
+    "If you get a nosebleed",
+    "If you are choking"
+   ],
+   "explanation": "Stop, drop, and roll smothers flames on clothing.",
+   "memoryHook": "T-Rexy says: stop, drop, and roll puts out flames on clothes!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "fire"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_089",
+   "question": "Why should you never play with matches or lighters?",
+   "correctAnswer": "They can start a fire that hurts people",
+   "distractors": [
+    "They are expensive",
+    "They make a mess",
+    "They are boring"
+   ],
+   "explanation": "Matches and lighters can start dangerous fires.",
+   "memoryHook": "T-Rexy says: matches and lighters are tools for adults only!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "fire"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_090",
+   "question": "What is tobacco?",
+   "correctAnswer": "A plant used to make cigarettes, which harms the lungs",
+   "distractors": [
+    "A kind of food",
+    "A medicine",
+    "A type of candy"
+   ],
+   "explanation": "Tobacco smoke damages lungs and causes disease.",
+   "memoryHook": "T-Rexy says: tobacco smoke harms your lungs!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "substances",
+    "tobacco"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_091",
+   "question": "What does alcohol do to a child's body?",
+   "correctAnswer": "It can harm the growing brain and body",
+   "distractors": [
+    "It makes kids stronger",
+    "It helps kids learn",
+    "It has no effect"
+   ],
+   "explanation": "Alcohol is harmful for kids and can damage the brain.",
+   "memoryHook": "T-Rexy says: alcohol harms growing brains and bodies!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "substances",
+    "alcohol"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_092",
+   "question": "What should you do if someone offers you a cigarette or alcohol?",
+   "correctAnswer": "Say no and tell a trusted adult",
+   "distractors": [
+    "Try it once to see",
+    "Take it to be polite",
+    "Give it to a friend"
+   ],
+   "explanation": "Cigarettes and alcohol can harm a growing body. Saying no and telling an adult keeps you safe from pressure to try them.",
+   "memoryHook": "T-Rexy says: just say no and tell an adult!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "substances",
+    "saying-no"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_093",
+   "question": "What is peer pressure?",
+   "correctAnswer": "When others try to get you to do something you do not want to do",
+   "distractors": [
+    "When friends help you study",
+    "When a teacher gives homework",
+    "When you play a team sport"
+   ],
+   "explanation": "Peer pressure pushes you toward choices that may be unsafe.",
+   "memoryHook": "T-Rexy says: peer pressure is others pushing you to do things!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "substances",
+    "peer-pressure"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_094",
+   "question": "Why is it important to know what is in your food and drinks?",
+   "correctAnswer": "So you can avoid things that are unsafe or unhealthy",
+   "distractors": [
+    "So you can eat faster",
+    "So you can share with friends",
+    "So you can cook better"
+   ],
+   "explanation": "Knowing ingredients helps you make safe choices.",
+   "memoryHook": "T-Rexy says: know what is in it before you eat or drink it!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "food-safety"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_095",
+   "question": "What should you do if you feel sick at school?",
+   "correctAnswer": "Tell your teacher right away",
+   "distractors": [
+    "Hide it and keep working",
+    "Go home alone without telling anyone",
+    "Take medicine from a friend"
+   ],
+   "explanation": "Your teacher can take you to the nurse and call your parent. Hiding it can let a small problem get worse.",
+   "memoryHook": "T-Rexy says: feeling sick means tell your teacher right away!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "illness"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_096",
+   "question": "What is a first aid kit?",
+   "correctAnswer": "A box with supplies like bandages for treating small injuries",
+   "distractors": [
+    "A box of toys",
+    "A box of snacks",
+    "A box of school supplies"
+   ],
+   "explanation": "A first aid kit holds bandages, antiseptic, and other basics.",
+   "memoryHook": "T-Rexy says: a first aid kit is the helper box for small injuries!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "first-aid",
+    "kit"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_097",
+   "question": "What should you do if a classmate falls and cannot get up?",
+   "correctAnswer": "Stay calm, get an adult, and do not move them if they are badly hurt",
+   "distractors": [
+    "Drag them to the nurse",
+    "Laugh at them",
+    "Leave them alone"
+   ],
+   "explanation": "Get an adult fast and avoid moving someone who may be hurt.",
+   "memoryHook": "T-Rexy says: stay calm, get an adult, do not move them!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "first-aid",
+    "injuries"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_098",
+   "question": "Why should you wear a seatbelt in a car?",
+   "correctAnswer": "It keeps you safe if the car stops suddenly or crashes",
+   "distractors": [
+    "It is comfortable",
+    "It helps you see better",
+    "It makes the car go faster"
+   ],
+   "explanation": "Seatbelts hold you in place and prevent serious injury.",
+   "memoryHook": "T-Rexy says: buckle up - a seatbelt saves lives!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "seatbelt"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_099",
+   "question": "What does SPF on sunscreen mean?",
+   "correctAnswer": "It shows how much protection the sunscreen gives from sunburn",
+   "distractors": [
+    "It is the brand name",
+    "It is the flavor",
+    "It is the size of the bottle"
+   ],
+   "explanation": "Higher SPF means more protection from UV rays.",
+   "memoryHook": "T-Rexy says: SPF is the sun protection number!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "sun-safety"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_100",
+   "question": "What is the most important thing to remember about safety?",
+   "correctAnswer": "Tell a trusted adult when something feels wrong or unsafe",
+   "distractors": [
+    "Always handle problems alone",
+    "Never ask for help",
+    "Safety is only for little kids"
+   ],
+   "explanation": "Parents, teachers, and other trusted adults know how to help in danger. Telling them quickly is the safest first step.",
+   "memoryHook": "T-Rexy says: when something feels unsafe, tell a trusted adult!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "general"
+   ],
+   "difficulty": "hard",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_101",
+   "question": "What does consent mean when it comes to your body and personal space?",
+   "correctAnswer": "Asking permission first and getting a clear yes - and respecting the answer",
+   "distractors": [
+    "Doing something as long as no one finds out",
+    "Assuming it is okay if the other person does not say anything",
+    "Asking once and then doing it anyway, even if the answer is no"
+   ],
+   "explanation": "Consent means asking permission and listening to the answer. A clear yes means it is okay, and a no - or no answer at all - means it is not. Maryland law requires schools to teach the meaning of consent and respect for personal boundaries (Education Article section 7-445).",
+   "memoryHook": "T-Rexy says: consent means ask first, and a clear yes is the only yes!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "consent"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_102",
+   "question": "If someone said yes to a hug or a game, can they change their mind later?",
+   "correctAnswer": "Yes - a person can change their mind at any time, and everyone must respect that right away",
+   "distractors": [
+    "No - once someone says yes, they can never change their mind",
+    "Only if a teacher says they can",
+    "Only at the end of the day"
+   ],
+   "explanation": "Consent can be taken back at any time. If someone changes their mind, the kind and respectful thing to do is to stop right away - no arguing and no trying to change their mind back.",
+   "memoryHook": "T-Rexy says: a yes can become a no at any time - and no always wins!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "consent"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_103",
+   "question": "What is a personal boundary?",
+   "correctAnswer": "A limit that protects your body, your space, and your feelings - and other people must respect it",
+   "distractors": [
+    "A fence around a playground",
+    "A rule that only teachers have to follow",
+    "A line you may cross whenever you want"
+   ],
+   "explanation": "Personal boundaries are the limits each person sets for their own body, space, and feelings. Everyone has them, everyone deserves to have theirs respected, and respecting other people's boundaries is part of being kind and safe.",
+   "memoryHook": "T-Rexy says: boundaries are invisible lines that keep everyone respected!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "boundaries"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_104",
+   "question": "Which parts of your body are private body parts?",
+   "correctAnswer": "The parts covered by a swimsuit - they belong to you, and only a doctor or caregiver helping you stay healthy may touch them",
+   "distractors": [
+    "Your hands and feet are private, so nobody is ever allowed to see them or hold your hand",
+    "Your hair and ears are private, so nobody is ever allowed to touch your hair or look at your ears",
+    "No parts of the body are private, so anyone can touch any part of your body whenever they want"
+   ],
+   "explanation": "The parts of your body covered by a swimsuit are private. They belong to you alone. A doctor or a caregiver helping you stay healthy or clean is the exception - and even then, you can always tell a trusted adult if anything feels confusing or wrong. No one should ask to see them, either.",
+   "memoryHook": "T-Rexy says: the swimsuit rule - those parts are private and belong to you!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "body-safety"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_105",
+   "question": "What makes a touch an unsafe touch?",
+   "correctAnswer": "A touch that involves private body parts, hurts you, or makes you feel uncomfortable, scared, or confused",
+   "distractors": [
+    "A high five from a friend",
+    "A handshake when you meet someone",
+    "A hug you asked for and wanted"
+   ],
+   "explanation": "Safe touches feel good and are welcome, like a high five or a hug you wanted. Unsafe touches involve private body parts or make you feel uncomfortable, scared, or confused - and you never have to accept them.",
+   "memoryHook": "T-Rexy says: if a touch feels wrong or uncomfortable, it is not okay - trust that feeling!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "body-safety"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_106",
+   "question": "What is the difference between an unsafe secret and a safe surprise?",
+   "correctAnswer": "An unsafe secret is about touch or makes you feel bad and must never be kept, while a safe surprise is a happy thing shared soon",
+   "distractors": [
+    "There is no difference - all secrets must always be kept, even secrets that make you feel bad or worried",
+    "A safe surprise is a secret that you must keep hidden forever and never tell anyone about at all",
+    "An unsafe secret is only about birthday gifts, so secrets about touch never need to be told to anyone"
+   ],
+   "explanation": "Safe surprises are happy and shared soon. Unsafe secrets are about touch, or make you feel worried, scared, or uncomfortable - and those secrets should never be kept. Always tell a trusted adult about an unsafe secret, even if someone told you not to. A birthday gift is a good example of a safe surprise.",
+   "memoryHook": "T-Rexy says: surprises are happy and shared soon - unsafe secrets are never kept!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "secrets"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_107",
+   "question": "What are the three safety steps if someone touches you in a way that feels wrong?",
+   "correctAnswer": "Say no in a firm voice, get away to a safe place, and tell a trusted adult - and keep telling until someone helps",
+   "distractors": [
+    "Stay quiet and hope it stops",
+    "Keep it secret so no one gets in trouble",
+    "Wait a long time to see if it happens again"
+   ],
+   "explanation": "Use the three safety steps: say no, get away, and tell. Go to a safe place and tell a trusted adult what happened. If the first adult does not help, keep telling other trusted adults until someone does. Maryland law requires this safety teaching in school (Education Article section 7-439).",
+   "memoryHook": "T-Rexy says: say no, get away, and tell - and keep telling until you are helped!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "body-safety"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_108",
+   "question": "If someone hurts a child or touches a child in an unsafe way, whose fault is it?",
+   "correctAnswer": "Never the child's fault - it is always the fault of the person who did it",
+   "distractors": [
+    "The child's fault for not stopping it",
+    "Both people's fault equally",
+    "No one's fault at all"
+   ],
+   "explanation": "Abuse is never, ever the child's fault. It does not matter what the child said, did, or wore. The person who chose to hurt or touch a child in an unsafe way is the only one at fault, and telling a trusted adult is always the right thing to do.",
+   "memoryHook": "T-Rexy says: if someone hurts a child, it is never the child's fault - not ever!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "abuse-prevention"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_109",
+   "question": "What is a safe boundary to keep when you are online?",
+   "correctAnswer": "Do not share personal photos or personal information, and tell a trusted adult right away about any message that feels uncomfortable",
+   "distractors": [
+    "Share your photos with anyone who asks nicely",
+    "Keep uncomfortable messages secret from adults",
+    "Share your home address so new friends can visit"
+   ],
+   "explanation": "Boundaries protect you online too. Never share personal photos, your full name, your address, or your school with people online, and if a message makes you feel uncomfortable or asks you to keep secrets, show it to a trusted adult right away.",
+   "memoryHook": "T-Rexy says: online boundaries count too - no personal photos, and tell an adult about uncomfortable messages!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "online-safety"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_110",
+   "question": "An adult gives a child special gifts and extra attention, asks the child to keep their time together a secret, and slowly tests the child's boundaries. Why is this pattern a warning sign?",
+   "correctAnswer": "It can be grooming - a way someone slowly makes unsafe behavior seem normal - and the child should tell a trusted adult right away",
+   "distractors": [
+    "It just means the adult is extra friendly, so the child should keep the secrets to be polite",
+    "It is only a problem if the adult has already touched the child in an unsafe way",
+    "It means the child did something wrong and should try to handle it alone"
+   ],
+   "explanation": "Grooming is when someone slowly builds trust and tests boundaries - with special attention, gifts, and secrets - so unsafe behavior starts to feel normal. Recognizing the pattern early helps keep children safe: tell a trusted adult right away. Connecticut law (CGS 17a-101q) requires schools to teach students to recognize grooming and other warning signs.",
+   "memoryHook": "T-Rexy says: special gifts plus secrets plus testing boundaries is a warning pattern - spot it and tell!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "grooming"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_111",
+   "question": "Your friend tells you that someone has been making them feel uncomfortable and asks you to keep it a secret. What is the best way to help your friend?",
+   "correctAnswer": "Support your friend, and tell a trusted adult right away - a friend never keeps a secret that could keep someone unsafe",
+   "distractors": [
+    "Promise to keep the secret, because good friends never tell what a friend asked them to hide",
+    "Try to handle it alone by confronting the person yourself",
+    "Wait and do nothing unless your friend brings it up again"
+   ],
+   "explanation": "A bystander is someone who sees or hears that something is wrong and chooses to help. Believe and support your friend, and tell a trusted adult right away - even if your friend asked you to keep it secret. Unsafe secrets are never kept, and telling an adult is how friends protect each other. Connecticut's statewide safety program teaches students to help as bystanders (CGS 17a-101q).",
+   "memoryHook": "T-Rexy says: a good friend never keeps an unsafe secret - support your friend and tell a trusted adult!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "bystander"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_112",
+   "question": "A child tells a trusted adult about unsafe behavior, but worries that telling was wrong because someone might get in trouble. What should the child remember?",
+   "correctAnswer": "Telling is always the right and brave thing to do - it is never the child's fault, and if one adult does not help, keep telling other trusted adults until someone does",
+   "distractors": [
+    "Telling was a mistake if it gets someone in trouble, so the child should take it back",
+    "The child should feel ashamed, because speaking up causes problems for everyone",
+    "One try is enough - if the first adult does not help, the child should stop telling"
+   ],
+   "explanation": "Telling is never wrong. A child who speaks up is brave, and unsafe behavior is never the child's fault - not ever. If the first adult does not listen or help, keep telling other trusted adults until someone does help. Connecticut law (CGS 17a-101q) requires schools to teach that disclosure - telling a trusted adult - is how children get help and stay safe.",
+   "memoryHook": "T-Rexy says: telling is brave and always right - and keep telling until someone helps!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "disclosure"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  }
+ ]
 }

@@ -1,0 +1,1959 @@
+{
+  "packId": "gr12-alabama-civics",
+  "title": "Alabama Civics (United States Government) (12th Grade)",
+  "description": "Alabama Civics (United States Government) (12th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-09",
+  "tags": [
+    "alabama",
+    "civics",
+    "grade-12"
+  ],
+  "questions": [
+    {
+      "id": "ALC12_001",
+      "question": "A town's mayor loses a recall vote and argues she should stay because she understands the budget best. Which founding principle answers her?",
+      "correctAnswer": "Popular sovereignty - final authority rests with the people, who lend power to officials through elections",
+      "distractors": [
+        "Rule of law - an official may remain while a budget dispute is unresolved",
+        "Federalism - local offices are filled by state appointment rather than election",
+        "Judicial review - only a court, never voters, can remove an officeholder"
+      ],
+      "difficulty": "easy",
+      "explanation": "Popular sovereignty means the people are the source of government power. Elections, including recall elections, are how citizens grant power and withdraw it; an official's expertise never outranks the voters' consent.",
+      "memoryHook": "T-Rexy says: The people lend power at elections - and they can call the loan back.",
+      "tags": [
+        "popular-sovereignty",
+        "foundations"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_002",
+      "question": "According to the Declaration of Independence, governments get their just powers from what source?",
+      "correctAnswer": "The consent of the governed",
+      "distractors": [
+        "The hereditary authority of kings",
+        "Approval by the British Parliament",
+        "Rulings of the Supreme Court"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Declaration, following Locke, argues that legitimate power comes only from the people being governed. That consent principle is its justification both for forming a government and for replacing one that destroys people's rights.",
+      "memoryHook": "T-Rexy says: Just powers start with the people's yes - that is consent of the governed.",
+      "tags": [
+        "declaration",
+        "consent"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_003",
+      "question": "A dispute reaches a courtroom, where a judge must decide what a statute means in a real case. Which branch is doing its core job?",
+      "correctAnswer": "The judicial branch, which interprets laws and resolves disputes under them",
+      "distractors": [
+        "The legislative branch, which writes laws for future cases",
+        "The executive branch, which enforces laws through agencies",
+        "The state governments, which reserve all court powers to themselves"
+      ],
+      "difficulty": "easy",
+      "explanation": "Separation of powers assigns each branch a distinct job: legislatures make laws, executives enforce them, and courts interpret them in actual disputes. Dividing the work keeps any single branch from controlling the whole system.",
+      "memoryHook": "T-Rexy says: Make, enforce, interpret - three jobs deliberately given to three branches.",
+      "tags": [
+        "separation-of-powers"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_004",
+      "question": "A president vetoes a tax bill. Both houses of Congress pass it again, this time with two-thirds voting yes in each chamber, and it becomes law. What does the sequence show?",
+      "correctAnswer": "Checks and balances - each branch can limit the other, and the Constitution builds in the reply",
+      "distractors": [
+        "Federalism - power shifting from the national government to the states",
+        "An amendment - Congress rewriting the Constitution by statute",
+        "A breakdown of separation of powers that courts must reverse"
+      ],
+      "difficulty": "easy",
+      "explanation": "The veto is the president's check on Congress, and the two-thirds override is Congress's check in return. Neither branch gets the last word automatically; the Constitution designs the contest on purpose.",
+      "memoryHook": "T-Rexy says: Veto, then two-thirds - the branches pull back on each other by design.",
+      "tags": [
+        "checks-and-balances"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_005",
+      "question": "Issuing driver licenses, running public schools, and commanding the national military sit at different levels of American government mainly because of:",
+      "correctAnswer": "Federalism - the Constitution divides power between the national government and the states",
+      "distractors": [
+        "Direct democracy - voters personally assign each task at town meetings",
+        "A unitary system - one central authority delegates every task downward",
+        "The party system - each political party administers one level of government"
+      ],
+      "difficulty": "easy",
+      "explanation": "Under federalism the national government holds delegated powers such as national defense, while powers not delegated - licensing drivers and running schools among them - are reserved to the states or the people by the Tenth Amendment.",
+      "memoryHook": "T-Rexy says: Two levels with two job lists - that division is federalism.",
+      "tags": [
+        "federalism"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_006",
+      "question": "A sitting governor is indicted and must answer the charges in an ordinary courtroom, with no special tribunal created for her. Which principle is on display?",
+      "correctAnswer": "The rule of law - the law applies to officials and private citizens alike",
+      "distractors": [
+        "Popular sovereignty - voters must decide the verdict themselves",
+        "Executive immunity - officeholders cannot be tried while serving",
+        "Federalism - a state may exempt its own governor from prosecution"
+      ],
+      "difficulty": "easy",
+      "explanation": "The rule of law means no one stands above the legal process. Holding high office changes an official's duties, not her obligation to obey the same laws and face the same courts as everyone else.",
+      "memoryHook": "T-Rexy says: The law stands over every office - that is the rule of law.",
+      "tags": [
+        "rule-of-law"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_007",
+      "question": "A federal agency claims a sweeping new power that appears in no statute and nowhere in the Constitution, defending it only as good policy. The strongest constitutional objection is:",
+      "correctAnswer": "The national government holds only delegated powers, so a new power must trace to an actual grant of authority",
+      "distractors": [
+        "Agencies may assume any power a majority of the public supports",
+        "The Preamble's goals clause grants whatever power promotes the general welfare",
+        "Only the states can object, and only through a constitutional convention"
+      ],
+      "difficulty": "medium",
+      "explanation": "Limited government is the other side of delegated power: federal authority must be traced to the Constitution or to a law passed under it. A worthy goal does not manufacture power that was never granted.",
+      "memoryHook": "T-Rexy says: No grant, no power - good intentions do not amend the Constitution.",
+      "tags": [
+        "limited-government"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_008",
+      "question": "In a state of ten million people, citizens do not vote on each proposed law; they elect lawmakers who debate and enact laws for them. The Framers would call this arrangement:",
+      "correctAnswer": "A republic - the people govern indirectly through accountable representatives",
+      "distractors": [
+        "A direct democracy, because elections are held regularly",
+        "An oligarchy, because a small group writes the laws",
+        "A confederation, because authority flows upward from towns"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Constitution guarantees each state a republican form of government. Representation solves the scale problem: millions cannot assemble on every measure, so they choose lawmakers who answer to them at the next election.",
+      "memoryHook": "T-Rexy says: Too many people to vote on everything - so the people elect lawmakers instead.",
+      "tags": [
+        "republic"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_009",
+      "question": "A speaker argues: rights exist before any government does; people create governments solely to secure those rights; and a government that habitually destroys them forfeits its claim to obedience. Whose theory is she channeling, and where does it appear in American founding documents?",
+      "correctAnswer": "John Locke's social contract theory, echoed in the Declaration of Independence",
+      "distractors": [
+        "Thomas Hobbes's theory, echoed in the Articles of Confederation",
+        "Montesquieu's theory, echoed in the Federalist No. 10",
+        "Rousseau's theory, echoed in the Bill of Rights preamble"
+      ],
+      "difficulty": "hard",
+      "explanation": "Locke held that natural rights precede government, that government rests on a contract to protect them, and that breach of that trust justifies replacing it. Jefferson's Declaration follows that structure almost paragraph by paragraph.",
+      "memoryHook": "T-Rexy says: Locke's recipe: rights first, government second, replacement if it betrays both.",
+      "tags": [
+        "locke",
+        "social-contract"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_010",
+      "question": "Under the Articles of Confederation, Congress could declare war but had to ask the states for money and soldiers, and it had no power to tax. This design mainly failed because:",
+      "correctAnswer": "The central government was too weak to fund itself or enforce its decisions",
+      "distractors": [
+        "The president under the Articles held near-dictatorial power",
+        "The Supreme Court under the Articles overruled the states constantly",
+        "States were forbidden to keep their own governments at all"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Articles created a league of sovereign states with a Congress that depended on state goodwill for revenue and troops. Shays' Rebellion and unpaid debts convinced many leaders that the union needed a government able to tax and act directly.",
+      "memoryHook": "T-Rexy says: A government that must beg for money cannot govern - the Articles proved it.",
+      "tags": [
+        "articles-of-confederation"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_011",
+      "question": "At the 1787 Convention, large states backed the Virginia Plan and small states the New Jersey Plan. The Connecticut Compromise settled the fight by:",
+      "correctAnswer": "Creating a bicameral Congress - proportional representation in the House, equal representation in the Senate",
+      "distractors": [
+        "Letting each state send one delegate with one vote to a single chamber",
+        "Basing both chambers strictly on state population",
+        "Giving the presidency the power to set each state's representation"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Great Compromise blended both plans: the House rewards population, the Senate protects state equality. That dual structure still shapes every law Congress passes today.",
+      "memoryHook": "T-Rexy says: Population in one chamber, equality in the other - Connecticut split the difference.",
+      "tags": [
+        "constitutional-convention",
+        "compromises"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_012",
+      "question": "A student claims the Three-Fifths Compromise was a northern victory because it limited southern power. The more accurate evaluation is:",
+      "correctAnswer": "It boosted southern representation in the House and Electoral College for decades by counting three-fifths of the enslaved population, even though enslaved people could not vote",
+      "distractors": [
+        "It freed three-fifths of enslaved people in states that ratified it",
+        "It had no effect on representation because the Senate remained equal",
+        "It applied only to taxation and never to seats in Congress"
+      ],
+      "difficulty": "hard",
+      "explanation": "Representation and direct taxes were both tied to the three-fifths count, but the political effect ran one way: slave states gained extra House seats and electoral votes from people denied every right, strengthening pro-slavery influence until the Thirteenth and Fourteenth Amendments undid the formula.",
+      "memoryHook": "T-Rexy says: Counting people who could not vote padded the power of those who enslaved them.",
+      "tags": [
+        "three-fifths",
+        "compromises"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_013",
+      "question": "A proposed constitutional amendment has passed both houses of Congress by two-thirds. What must happen before it becomes part of the Constitution?",
+      "correctAnswer": "Ratification by three-fourths of the states",
+      "distractors": [
+        "The president's signature",
+        "Approval by a national popular vote",
+        "A ruling from the Supreme Court that it is valid"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article V sets two stages: proposal, usually by two-thirds of Congress, and ratification by three-fourths of the states, through legislatures or conventions as Congress directs. The president has no formal role in the process.",
+      "memoryHook": "T-Rexy says: Two-thirds propose, three-fourths ratify - the president stays out of Article V.",
+      "tags": [
+        "amendment-process"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_014",
+      "question": "A state sets labeling rules for a product that directly conflict with a valid federal labeling law covering the same product. A judge deciding which rule controls should apply:",
+      "correctAnswer": "The Supremacy Clause - a valid federal law prevails over a conflicting state law",
+      "distractors": [
+        "The Tenth Amendment - state law always defeats federal law within the state",
+        "The Full Faith and Credit Clause - the earlier law wins",
+        "The Commerce Clause alone, which voids both laws"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article VI makes the Constitution and laws made under it the supreme law of the land. When a genuine conflict exists, the state rule must yield; judges in every state are bound by that instruction.",
+      "memoryHook": "T-Rexy says: When valid federal and state rules collide, the federal rule stands on top.",
+      "tags": [
+        "supremacy-clause"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_015",
+      "question": "Maryland slaps a tax on the Baltimore branch of a bank Congress chartered, and the cashier who issued untaxed notes is prosecuted. In McCulloch v. Maryland (1819), the bank charter itself survived Maryland's attack primarily because:",
+      "correctAnswer": "The Necessary and Proper Clause lets Congress choose means reasonably adapted to its enumerated powers, such as taxing and borrowing",
+      "distractors": [
+        "The Commerce Clause mentions banks by implication in its text",
+        "States had surrendered all financial authority in the Constitution",
+        "The president ordered the bank, and executive orders need no basis"
+      ],
+      "difficulty": "hard",
+      "explanation": "Chief Justice Marshall read the Necessary and Proper Clause as granting discretion over means: if the end is legitimate and within the Constitution, means that are appropriate and not prohibited are constitutional. The same case barred Maryland from taxing the bank.",
+      "memoryHook": "T-Rexy says: Pick the means that fit the granted end - that is McCulloch's lesson.",
+      "tags": [
+        "necessary-and-proper",
+        "mcculloch"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_016",
+      "question": "Coining money, declaring war, and establishing post offices appear word-for-word in Article I as powers of:",
+      "correctAnswer": "Congress - they are enumerated powers granted to the national legislature",
+      "distractors": [
+        "The president - they are listed among executive powers in Article II",
+        "The states - they are reserved powers listed in the Tenth Amendment",
+        "The courts - they are examples of judicial power in Article III"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I, Section 8 lists Congress's enumerated powers one by one. Powers on that list belong to the federal legislature expressly, unlike reserved powers, which are simply left to the states by not being granted away.",
+      "memoryHook": "T-Rexy says: If Article I lists it, Congress holds it - that is an enumerated power.",
+      "tags": [
+        "enumerated-powers"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_017",
+      "question": "A ferry operator holds a state-granted monopoly for steamboat routes between New York and New Jersey, while a rival holds a federal coasting license for the same waters. Under Gibbons v. Ogden (1824), the outcome and reasoning were:",
+      "correctAnswer": "The federal license prevailed, because commerce includes navigation and Congress's power over interstate commerce reaches it",
+      "distractors": [
+        "The state monopoly prevailed, because ferries are a purely local concern",
+        "Both licenses were void, because steamboats were unmentioned in 1787",
+        "The case was dismissed, because courts cannot hear licensing disputes"
+      ],
+      "difficulty": "hard",
+      "explanation": "Marshall defined commerce broadly as intercourse, including navigation, and held that a valid federal license overrides a conflicting state monopoly. The decision became the foundation for the modern reach of the Commerce Clause.",
+      "memoryHook": "T-Rexy says: Commerce means more than buying and selling - Gibbons put boats inside it.",
+      "tags": [
+        "commerce-clause",
+        "gibbons"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_018",
+      "question": "A couple marries in one state, then moves across the country. The legal reason their marriage record and a court judgment from the first state are generally honored in the new state is:",
+      "correctAnswer": "The Full Faith and Credit Clause, which requires states to recognize other states' public acts, records, and judicial proceedings",
+      "distractors": [
+        "The Privileges and Immunities Clause, which exports all laws between states",
+        "The Supremacy Clause, which makes state records federal documents",
+        "The Guarantee Clause, which promises identical laws in every state"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article IV's Full Faith and Credit Clause keeps the union workable: marriages, judgments, and official records do not evaporate at a state line. Congress may set the manner of proving them and their effect.",
+      "memoryHook": "T-Rexy says: Records cross state lines with you - full faith and credit carries them.",
+      "tags": [
+        "full-faith-and-credit"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_019",
+      "question": "Two lawmakers are compared: one faces voters every two years from a district drawn by population; the other serves six years representing an entire state. They are, respectively:",
+      "correctAnswer": "A U.S. Representative and a U.S. Senator",
+      "distractors": [
+        "A U.S. Senator and a U.S. Representative",
+        "A state senator and a U.S. Representative",
+        "A U.S. Representative and a governor"
+      ],
+      "difficulty": "medium",
+      "explanation": "House members serve two-year terms from districts apportioned by population, keeping them close to constituents. Senators serve staggered six-year terms representing whole states, a design meant to add stability and a broader view.",
+      "memoryHook": "T-Rexy says: Two years and a district, or six years and a state - House versus Senate.",
+      "tags": [
+        "house-senate"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_020",
+      "question": "Wyoming and California, vastly different in population, each elect exactly two members of which body?",
+      "correctAnswer": "The United States Senate",
+      "distractors": [
+        "The United States House of Representatives",
+        "The Electoral College",
+        "The federal circuit courts"
+      ],
+      "difficulty": "easy",
+      "explanation": "Senate equality was the small states' prize in the Connecticut Compromise and is the one feature Article V shields from ordinary amendment. The House, by contrast, is reapportioned after each census by population.",
+      "memoryHook": "T-Rexy says: Two per state, no exceptions - that is the Senate's equal footing.",
+      "tags": [
+        "senate-equality"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_021",
+      "question": "A bill raising taxes is introduced first in the Senate, and a House member objects on constitutional grounds. The objection is sound because:",
+      "correctAnswer": "The Origination Clause requires all bills for raising revenue to begin in the House of Representatives",
+      "distractors": [
+        "Tax bills must begin in the executive branch under Article II",
+        "The Senate is forbidden to debate any bill involving money",
+        "Revenue bills require a three-fourths vote in both chambers"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article I, Section 7 gives the House - the chamber closest to the people and most frequently elected - the first move on taxation. The Senate may still amend revenue bills, as it may amend other House bills.",
+      "memoryHook": "T-Rexy says: Taxes start where elections come fastest - the House goes first.",
+      "tags": [
+        "revenue-bills"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_022",
+      "question": "A bill passes the House 290-145 and the Senate 71-29. The president vetoes it. Supporters want to enact it anyway. What exactly must happen?",
+      "correctAnswer": "Both houses must repass it by two-thirds of the members present, and it then becomes law without the president's signature",
+      "distractors": [
+        "The House alone must repass it by three-fourths, which ends the matter",
+        "The Supreme Court must declare the veto unreasonable within ten days",
+        "Supporters must wait for the next president to sign it"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I, Section 7 sets the override at two-thirds of each house, counted among members present with a quorum. The given margins exceed two-thirds, so an override vote would succeed if the margins hold.",
+      "memoryHook": "T-Rexy says: A veto is a strong check, not a wall - two-thirds in both houses climbs it.",
+      "tags": [
+        "veto-override"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_023",
+      "question": "During a presidential impeachment, who presides over the Senate trial, and what vote convicts?",
+      "correctAnswer": "The Chief Justice presides, and conviction requires two-thirds of the senators present",
+      "distractors": [
+        "The vice president presides, and conviction requires a simple majority",
+        "The president pro tempore presides, and conviction requires three-fourths",
+        "The Speaker of the House presides, and conviction requires two-thirds of the House"
+      ],
+      "difficulty": "hard",
+      "explanation": "Because the vice president would succeed an impeached president, the Constitution substitutes the Chief Justice as presiding officer for presidential trials. The House impeaches by majority; the Senate convicts only by two-thirds - which is why no president has ever been removed this way.",
+      "memoryHook": "T-Rexy says: The Chief Justice takes the chair so the successor never judges his own inheritance.",
+      "tags": [
+        "impeachment"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_024",
+      "question": "After each census, House seats are reapportioned among the states, yet the total stays 435. A fast-growing state gains two seats. The necessary consequence is:",
+      "correctAnswer": "One or more slower-growing states lose the same number of seats, because the House size is fixed by law",
+      "distractors": [
+        "The House automatically expands to keep every state whole",
+        "The Senate must add seats to balance the change",
+        "The gaining state also gains two electoral votes per seat beyond its senators"
+      ],
+      "difficulty": "hard",
+      "explanation": "Congress fixed the House at 435 seats by statute in the early twentieth century, so reapportionment is zero-sum among states. Electoral votes shift with it, since each state's electors equal its House seats plus its two senators.",
+      "memoryHook": "T-Rexy says: A fixed pie of 435 - one state's gain is another state's slice.",
+      "tags": [
+        "reapportionment"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_025",
+      "question": "The House and Senate pass versions of an agriculture bill with different funding lines, and the House declares its version 'close enough' and sends it to the president. The constitutional defect is:",
+      "correctAnswer": "A bill must pass both houses in identical form before presentment to the president",
+      "distractors": [
+        "Bills may differ as long as both chambers passed something on the topic",
+        "The president may merge the two versions by executive order",
+        "Only tax bills require identical text in both chambers"
+      ],
+      "difficulty": "hard",
+      "explanation": "Bicameralism and presentment require one single text approved by both chambers. Differences go to a conference committee, and both houses must adopt the reconciled version before the president can sign or veto it.",
+      "memoryHook": "T-Rexy says: One bill, one text, two chambers - then, and only then, the president.",
+      "tags": [
+        "bills-identical"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_026",
+      "question": "A popular 33-year-old governor is a natural-born citizen born in Ohio, though she has lived in Canada for the last ten years. Can she be elected president in this year's election?",
+      "correctAnswer": "No - a president must be at least 35 years old and a resident within the United States for 14 years",
+      "distractors": [
+        "Yes - governorship waives the constitutional qualifications",
+        "Yes - the only requirement is natural-born citizenship",
+        "No - presidents must have been born in the state they represent"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article II sets three qualifications: natural-born citizenship, age 35, and 14 years' residency within the United States. The candidate fails the age test today and may also fall short on residency counting, so she must wait.",
+      "memoryHook": "T-Rexy says: Thirty-five, natural-born, fourteen years resident - all three, no waivers.",
+      "tags": [
+        "presidential-qualifications"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_027",
+      "question": "A president orders U.S. forces into a new deployment overseas. A member of Congress objects that only Congress may commit the nation to war. The constitutional tension is between:",
+      "correctAnswer": "The president's role as commander in chief and Congress's exclusive power to declare war",
+      "distractors": [
+        "The Senate's treaty power and the House's power of the purse only",
+        "The courts' war powers and the states' militia authority",
+        "The vice president's succession role and the cabinet's advice role"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article II makes the civilian president commander in chief, ensuring military subordination to elected leadership, while Article I gives Congress the declare-war power and military funding. Modern conflicts are fought in the overlap, policed politically through appropriations.",
+      "memoryHook": "T-Rexy says: One branch commands the forces; the other declares the war and holds the purse.",
+      "tags": [
+        "commander-in-chief"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_028",
+      "question": "A candidate wins the national popular vote but loses the presidency. The mechanism that makes this possible is:",
+      "correctAnswer": "The Electoral College - presidents are chosen by electors, and 270 of 538 electoral votes are required to win",
+      "distractors": [
+        "A rule awarding the presidency to the winner of the most states",
+        "A runoff conducted by the House of Representatives every cycle",
+        "Certification of results by the Supreme Court"
+      ],
+      "difficulty": "easy",
+      "explanation": "Each state's electors equal its congressional delegation, and most states award all their electors to the statewide winner. A candidate can therefore pile up popular votes in some states yet fall short of 270 electoral votes.",
+      "memoryHook": "T-Rexy says: Count electors, not just ballots - 270 is the number that crowns a president.",
+      "tags": [
+        "electoral-college"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_029",
+      "question": "A president pardons a former official convicted of a federal crime, but a friend asks for a pardon from a state conviction and in an impeachment case. The president's power reaches:",
+      "correctAnswer": "Only the federal conviction - pardons cover federal offenses, never state crimes or impeachment",
+      "distractors": [
+        "All three, because the pardon power is unlimited in every forum",
+        "The state conviction too, under the Supremacy Clause",
+        "Impeachment cases, because removal is a criminal penalty"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article II grants pardons for offenses against the United States, with the single express exception of impeachment. State crimes belong to governors' clemency powers under state constitutions.",
+      "memoryHook": "T-Rexy says: Federal crimes only - impeachment is carved out in the text itself.",
+      "tags": [
+        "pardon-power"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_030",
+      "question": "A president negotiates a treaty with several nations. Before the United States is bound, the Constitution requires:",
+      "correctAnswer": "Advice and consent of the Senate by two-thirds of the senators present",
+      "distractors": [
+        "A majority vote of the House of Representatives",
+        "Approval by three-fourths of the state legislatures",
+        "A signature ceremony and deposit with the Supreme Court"
+      ],
+      "difficulty": "hard",
+      "explanation": "Treaties are made by the president but only with Senate supermajority consent, a check designed to require broad agreement before the nation commits itself internationally. Ordinary statutes, by contrast, pass both houses by majority.",
+      "memoryHook": "T-Rexy says: The president negotiates, but two-thirds of the Senate must agree to bind the nation.",
+      "tags": [
+        "treaties"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_031",
+      "question": "A president undergoes surgery and, before anesthesia, signs a written declaration that the vice president shall serve as acting president until the president signs a second declaration resuming power. Which provision supplies this procedure, and what is its key feature?",
+      "correctAnswer": "Section 3 of the Twenty-Fifth Amendment - a voluntary, temporary transfer initiated by the president's own written declaration",
+      "distractors": [
+        "Section 4 of the Twenty-Fifth Amendment - a transfer declared by the cabinet against the president's will",
+        "The Twelfth Amendment - an election contingency procedure",
+        "Article II's inability clause alone, which has no written procedure"
+      ],
+      "difficulty": "hard",
+      "explanation": "Section 3 lets a president hand power to the vice president temporarily and reclaim it the same written way - used for medical procedures. Section 4 is the involuntary route, requiring the vice president and a majority of the cabinet, and is a far heavier constitutional event.",
+      "memoryHook": "T-Rexy says: Section 3 is the president's own handoff; Section 4 is the one done to him.",
+      "tags": [
+        "twenty-fifth-amendment"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_032",
+      "question": "An agency director, eager to launch a program Congress never funded, plans to spend fees the agency collected on its own. The constitutional obstacle is:",
+      "correctAnswer": "The Appropriations Clause - money leaves the Treasury only under an appropriation made by law",
+      "distractors": [
+        "The Origination Clause - only the president may authorize agency spending",
+        "The Tenth Amendment - agencies may spend only state funds",
+        "The Takings Clause - collected fees are the agency's property"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I, Section 9 gives Congress control of the purse: no appropriation, no spending, however worthy the program and however much money an agency holds. This is Congress's most practical check on the executive.",
+      "memoryHook": "T-Rexy says: No appropriation, no spending - the purse strings belong to Congress.",
+      "tags": [
+        "appropriations"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_033",
+      "question": "Article II obliges the president to 'take Care that the Laws be faithfully executed.' In plain terms, this clause means the president must:",
+      "correctAnswer": "Enforce the laws Congress passes, using the executive departments and agencies",
+      "distractors": [
+        "Rewrite laws that the president considers unwise",
+        "Personally prosecute every federal criminal case",
+        "Approve each state law before it takes effect"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Take Care Clause is both a duty and a limit: the president runs the enforcement machinery but remains bound to the laws as written. Disagreement with a statute authorizes a veto before passage, not non-enforcement afterward.",
+      "memoryHook": "T-Rexy says: Execute the laws as written - the job is enforcement, not revision.",
+      "tags": [
+        "faithful-execution"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_034",
+      "question": "A president nominates a federal judge. The nomination stalls because several senators of the president's own party signal they will vote no. This stall is possible because:",
+      "correctAnswer": "Judicial appointments require Senate confirmation by majority vote, and the Senate may refuse for any reason",
+      "distractors": [
+        "Judges take office automatically unless the House votes them down",
+        "The Chief Justice must approve every nominee to a lower court",
+        "A nomination expires unless confirmed within ten days"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Appointments Clause splits the task: the president nominates, the Senate confirms. Nothing obliges the Senate to vote yes - or even to vote - and nominees have failed through outright rejection or inaction throughout American history.",
+      "memoryHook": "T-Rexy says: Nominated by one, confirmed by the many - the Senate can simply say no.",
+      "tags": [
+        "appointments"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_035",
+      "question": "In Marbury v. Madison (1803), the Court struck down part of a federal statute for the first time. The power Marshall claimed for the judiciary was:",
+      "correctAnswer": "Judicial review - courts may refuse to enforce a law that conflicts with the Constitution",
+      "distractors": [
+        "Line-item review - courts may rewrite statutes section by section",
+        "Judicial supremacy over state legislatures in all policy matters",
+        "A power granted expressly in Article III's text, word for word"
+      ],
+      "difficulty": "hard",
+      "explanation": "Marshall reasoned that a written constitution would be pointless if an ordinary statute could override it, and that deciding what the law is in a case is the essence of the judicial job. Article III never names the power; the case established it in practice.",
+      "memoryHook": "T-Rexy says: If a statute collides with the Constitution, the Constitution wins - Marbury said courts must say so.",
+      "tags": [
+        "marbury",
+        "judicial-review"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_036",
+      "question": "A case begins in a federal district court, the loser appeals, and the case ends at the highest level. The three tiers, in order, are:",
+      "correctAnswer": "District courts, circuit courts of appeals, and the Supreme Court",
+      "distractors": [
+        "Circuit courts of appeals, district courts, and the Supreme Court",
+        "District courts, state supreme courts, and the Supreme Court",
+        "Magistrate courts, district courts, and Congress"
+      ],
+      "difficulty": "easy",
+      "explanation": "Federal cases are tried in district courts, reviewed by regional circuit courts of appeals, and may reach the Supreme Court, which selects most of its docket. The vast majority of cases end at the first or second tier.",
+      "memoryHook": "T-Rexy says: Trial, appeal, final word - district, circuit, Supreme.",
+      "tags": [
+        "federal-courts"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_037",
+      "question": "Federal judges are hard to remove, and their salaries cannot be cut while they serve. The constitutional purpose of these protections is:",
+      "correctAnswer": "Judicial independence - judges can rule against powerful officials without fearing for their jobs or pay",
+      "distractors": [
+        "Judicial efficiency - lifetime tenure speeds up the docket",
+        "Tradition carried over from English common law with no modern purpose",
+        "Keeping judges from ever being criticized by the press"
+      ],
+      "difficulty": "medium",
+      "explanation": "Life tenure during good behavior and salary protection insulate judges from political retaliation. The Framers traded accountability for independence, keeping removal possible only through impeachment.",
+      "memoryHook": "T-Rexy says: Protect the judge's chair and paycheck, and the ruling can follow the law alone.",
+      "tags": [
+        "judicial-tenure"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_038",
+      "question": "A young judge personally believes a twenty-year-old precedent in her circuit was wrongly reasoned, yet she follows it in the case before her. The doctrine she is honoring is:",
+      "correctAnswer": "Stare decisis - courts generally stand by prior decisions so the law stays stable and predictable",
+      "distractors": [
+        "Judicial restraint - judges may never decide constitutional questions",
+        "Originalism - only the 1787 meaning of a text may be applied",
+        "Deference - lower courts must obey the executive branch"
+      ],
+      "difficulty": "hard",
+      "explanation": "Stare decisis - 'to stand by things decided' - lets people plan around settled law and treats like cases alike. Courts do sometimes overrule precedent, but they demand special justification beyond simple disagreement.",
+      "memoryHook": "T-Rexy says: Yesterday's ruling steadies today's - that is stare decisis at work.",
+      "tags": [
+        "precedent",
+        "stare-decisis"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_039",
+      "question": "A dispute between two states over a river boundary reaches the Supreme Court without going through any lower court. This is proper because:",
+      "correctAnswer": "The Court has original jurisdiction in cases involving states as parties, so such cases start there",
+      "distractors": [
+        "The Court may seize any case it finds interesting from any court",
+        "River disputes are assigned to the Court by the Commerce Clause",
+        "State disputes skip trial because states enjoy sovereign immunity"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article III gives the Supreme Court original jurisdiction over cases affecting ambassadors and those in which a state is a party; nearly everything else arrives on appeal. A special master usually gathers facts in state-versus-state cases.",
+      "memoryHook": "T-Rexy says: Some cases start at the top - state against state is one of them.",
+      "tags": [
+        "supreme-court-jurisdiction"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_040",
+      "question": "A student lists five freedoms posted on a classroom wall: speech, religion, press, assembly, and petition. Which amendment protects all five?",
+      "correctAnswer": "The First Amendment",
+      "distractors": [
+        "The Second Amendment",
+        "The Fourth Amendment",
+        "The Tenth Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "The First Amendment bundles the five expressive and religious freedoms that let citizens criticize and influence government. It restricts Congress - and, through the Fourteenth Amendment, state and local governments as well.",
+      "memoryHook": "T-Rexy says: Five freedoms, one amendment - the First carries them all.",
+      "tags": [
+        "first-amendment"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_041",
+      "question": "Police want to search a home for evidence. The Fourth Amendment generally requires them first to obtain:",
+      "correctAnswer": "A warrant based on probable cause, particularly describing the place to be searched and the things to be seized",
+      "distractors": [
+        "Permission from the mayor of the city where the home sits",
+        "A grand jury indictment naming the homeowner",
+        "Nothing at all, if the officers act in good faith"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Warrant Clause demands probable cause, an oath, and particularity - the warrant must say where officers may look and what they may take. Exceptions exist for emergencies and arrests, but the home receives the amendment's strongest protection.",
+      "memoryHook": "T-Rexy says: Probable cause, in writing, with particulars - that is the warrant recipe.",
+      "tags": [
+        "fourth-amendment",
+        "warrants"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_042",
+      "question": "A city condemns a strip of a family's farm to widen a road. The family does not dispute the road's purpose but demands payment. Their claim rests on:",
+      "correctAnswer": "The Takings Clause of the Fifth Amendment - private property may be taken for public use only with just compensation",
+      "distractors": [
+        "The Due Process Clause of the Fifth Amendment, understood as a right to a hearing before any government action",
+        "The First Amendment's right to petition for redress",
+        "The Ninth Amendment's protection of unlisted rights"
+      ],
+      "difficulty": "medium",
+      "explanation": "Eminent domain lets government take property for public use, but the Fifth Amendment conditions the power on just compensation, usually the property's fair market value. The clause applies to the states through the Fourteenth Amendment.",
+      "memoryHook": "T-Rexy says: The government may take the land, but it must pay a just price for it.",
+      "tags": [
+        "fifth-amendment",
+        "takings"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_043",
+      "question": "An indigent defendant in a 1963 Florida felony case asked the court to appoint him a lawyer, was refused, defended himself, and was convicted. In Gideon v. Wainwright, the Supreme Court held:",
+      "correctAnswer": "The Sixth Amendment right to counsel is fundamental and obligatory on the states, so an indigent felony defendant must be provided an attorney",
+      "distractors": [
+        "Defendants must hire their own lawyers, but trials must be delayed until they can",
+        "Appointed counsel is required only in federal court and capital cases",
+        "The conviction stood, because Florida offered a law library instead"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Court unanimously held that a fair trial is impossible for a poor defendant facing felony charges without counsel, incorporating the Sixth Amendment right against the states. The ruling reshaped public-defender systems nationwide.",
+      "memoryHook": "T-Rexy says: No lawyer, no fair trial - Gideon made counsel a right, not a luxury.",
+      "tags": [
+        "gideon",
+        "sixth-amendment"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_044",
+      "question": "For most of American history the Bill of Rights limited only the federal government. The doctrine that applied most of its protections against state governments too is:",
+      "correctAnswer": "Selective incorporation through the Fourteenth Amendment's Due Process Clause",
+      "distractors": [
+        "Reverse incorporation through the Fifth Amendment",
+        "The Privileges or Immunities Clause as read in the Slaughter-House Cases",
+        "Congressional enforcement under the Commerce Clause"
+      ],
+      "difficulty": "hard",
+      "explanation": "Beginning in the twentieth century, the Court held that rights fundamental to ordered liberty are absorbed into the Fourteenth Amendment's due process guarantee and therefore bind the states. The process was right-by-right - selective - rather than all at once.",
+      "memoryHook": "T-Rexy says: The Fourteenth carried the Bill of Rights to the states, one right at a time.",
+      "tags": [
+        "incorporation"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_045",
+      "question": "A judge sets bail at ten million dollars for a shoplifting defendant with deep community ties and no flight risk. The bail is vulnerable under:",
+      "correctAnswer": "The Eighth Amendment, which forbids excessive bail",
+      "distractors": [
+        "The Sixth Amendment, which guarantees a speedy trial",
+        "The Fourth Amendment, which limits unreasonable searches",
+        "The Fifth Amendment, which bars double jeopardy"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Eighth Amendment bars excessive bail, cruel and unusual punishments, and excessive fines. Bail's legitimate purpose is ensuring appearance at trial, so an amount wildly beyond that purpose fails the test.",
+      "memoryHook": "T-Rexy says: Bail must fit its purpose - the Eighth Amendment bans the excessive kind.",
+      "tags": [
+        "eighth-amendment"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_046",
+      "question": "A public school opens each day with a teacher-led prayer written by the state. Under Engel v. Vitale (1962), the practice is unconstitutional because:",
+      "correctAnswer": "The Establishment Clause forbids government from composing and sponsoring religious observance in public schools",
+      "distractors": [
+        "The Free Exercise Clause requires prayers to be led by students only",
+        "The First Amendment bars any mention of religion in public buildings",
+        "Education is a federal power, so states may not touch school rituals"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Court held that a state-composed, school-sponsored prayer is government religious activity, not private devotion. Students remain free to pray voluntarily; what the Establishment Clause forbids is the state organizing the observance.",
+      "memoryHook": "T-Rexy says: Students may pray; the state may not write the prayer - Engel drew that line.",
+      "tags": [
+        "establishment-clause"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_047",
+      "question": "Detectives question a handcuffed suspect in a station room for two hours without telling him he may stay silent or have a lawyer. His confession is challenged under Miranda v. Arizona (1966). The correct rule is:",
+      "correctAnswer": "Statements from custodial interrogation are inadmissible unless the suspect was warned of the rights to silence and counsel and waived them",
+      "distractors": [
+        "Confessions are admissible whenever detectives act politely",
+        "Warnings are required only for suspects charged with felonies above a set value",
+        "The suspect must be warned, but his answers may still be used to impeach others"
+      ],
+      "difficulty": "hard",
+      "explanation": "Miranda requires warnings before custodial interrogation because the setting is inherently coercive. The case itself arose from Arizona: Ernesto Miranda's conviction was overturned, though he was convicted again at retrial on other evidence.",
+      "memoryHook": "T-Rexy says: Custody plus questions means warnings first - Miranda made the sequence law.",
+      "tags": [
+        "miranda"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_048",
+      "question": "Officers seize a suspect's phone incident to arrest and scroll through months of messages at the station without a warrant. Under Riley v. California (2014), the search is:",
+      "correctAnswer": "Unlawful - police generally need a warrant to search digital information on a cell phone seized during an arrest",
+      "distractors": [
+        "Lawful - anything on a person at arrest may be searched without a warrant",
+        "Lawful if the phone was unlocked when seized",
+        "Unlawful only if the messages belong to someone else"
+      ],
+      "difficulty": "hard",
+      "explanation": "A unanimous Court refused to extend the search-incident-to-arrest rule to phones, because digital devices hold 'the privacies of life' far beyond physical pockets. The officer-safety and evidence-destruction rationales did not fit data that officers can secure while seeking a warrant.",
+      "memoryHook": "T-Rexy says: A phone is not a cigarette pack - Riley requires a warrant for its data.",
+      "tags": [
+        "third-fourth-search",
+        "digital"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_049",
+      "question": "Ratified in 1865, the Thirteenth Amendment directly accomplished which change?",
+      "correctAnswer": "It abolished slavery and involuntary servitude throughout the United States, except as punishment for a crime",
+      "distractors": [
+        "It granted citizenship to all persons born in the United States",
+        "It prohibited denying the vote based on race",
+        "It gave Congress power to levy an income tax"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Thirteenth Amendment ended legal slavery nationwide rather than only in rebellious states, which is all the Emancipation Proclamation had reached. Its punishment exception remains part of its text and a subject of modern debate.",
+      "memoryHook": "T-Rexy says: 1865: slavery abolished in the text itself, not just by proclamation.",
+      "tags": [
+        "thirteenth-amendment"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_050",
+      "question": "A newsreel from November 1920 shows women in Montgomery and across the country casting presidential ballots legally for the first time in a national election. The change had been locked in three months earlier by:",
+      "correctAnswer": "The Nineteenth Amendment, which bars denying the vote on account of sex",
+      "distractors": [
+        "The Fourteenth Amendment's Equal Protection Clause",
+        "The Fifteenth Amendment's ban on racial voting barriers",
+        "The Twenty-Sixth Amendment's voting age rule"
+      ],
+      "difficulty": "easy",
+      "explanation": "Ratified in August 1920 after decades of suffrage organizing - in Alabama, suffragists organized statewide even though Alabama's legislature initially rejected ratification; Tennessee supplied the deciding thirty-sixth state. The amendment's text tracks the Fifteenth Amendment's form.",
+      "memoryHook": "T-Rexy says: 1920: sex could no longer bar the ballot - the Nineteenth did it.",
+      "tags": [
+        "nineteenth-amendment"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_051",
+      "question": "An 18-year-old soldier in 1971 could be drafted and sent to war but, in many states, could not vote in the election choosing the leaders who sent him. The amendment that resolved the contradiction was:",
+      "correctAnswer": "The Twenty-Sixth Amendment, setting 18 as the voting age floor nationwide",
+      "distractors": [
+        "The Twenty-Fourth Amendment, banning poll taxes in federal elections",
+        "The Twenty-Third Amendment, granting electors to Washington, D.C.",
+        "The Fifteenth Amendment, read together with the draft laws"
+      ],
+      "difficulty": "medium",
+      "explanation": "Ratified faster than any other amendment - in about three months in 1971 - the Twenty-Sixth Amendment barred denying citizens 18 or older the vote on account of age. 'Old enough to fight, old enough to vote' was its rallying argument.",
+      "memoryHook": "T-Rexy says: Old enough to be drafted meant old enough to vote - the Twenty-Sixth settled it.",
+      "tags": [
+        "twenty-sixth-amendment"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_052",
+      "question": "By 1900, southern states had combined poll taxes, literacy tests, and grandfather clauses to strip the vote from nearly all Black citizens despite the Fifteenth Amendment. The mechanism that finally broke this system in 1965 was:",
+      "correctAnswer": "The Voting Rights Act - federal law banning literacy tests and requiring covered jurisdictions to pre-clear voting changes with federal authorities",
+      "distractors": [
+        "A new constitutional amendment repeating the Fifteenth Amendment's text",
+        "State supreme courts striking down their own states' constitutions",
+        "The Twenty-Fourth Amendment alone, which ended every barrier at once"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Fifteenth Amendment's text had been evaded for ninety years by facially neutral devices. The Voting Rights Act attacked the machinery itself: suspending tests, sending federal examiners, and freezing changes in covered places - including Alabama - until Washington approved them.",
+      "memoryHook": "T-Rexy says: The amendment promised; the 1965 Act finally enforced - machinery, not just words.",
+      "tags": [
+        "fifteenth-voting-rights"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_053",
+      "question": "A voter in a 1964 federal primary is turned away for failing to pay a one-dollar poll tax. The constitutional provision that makes the tax unusable in federal elections is:",
+      "correctAnswer": "The Twenty-Fourth Amendment, which bars poll taxes in elections for federal office",
+      "distractors": [
+        "The Fifteenth Amendment, which lists taxes among banned qualifications",
+        "The Equal Protection Clause as originally adopted in 1868",
+        "The Nineteenth Amendment's guarantee of the franchise"
+      ],
+      "difficulty": "medium",
+      "explanation": "Ratified in January 1964, the Twenty-Fourth Amendment removed the poll tax from federal elections; two years later the Supreme Court struck state poll taxes too, under equal protection. Alabama was among the states that had used the tax since its 1901 constitution.",
+      "memoryHook": "T-Rexy says: A price tag on the ballot - the Twenty-Fourth tore it off federal elections.",
+      "tags": [
+        "twenty-fourth-poll-tax"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_054",
+      "question": "Two graduate students from abroad, lawfully living in Tuscaloosa while they finish their degrees, have a baby at a local hospital. A clerk asks whether the newborn counts as an American citizen. Under the Fourteenth Amendment, the child is:",
+      "correctAnswer": "A citizen of the United States by birth, under the Citizenship Clause",
+      "distractors": [
+        "A citizen only if Congress passes a private law for the child",
+        "Not a citizen until naturalized at age 18",
+        "A citizen of the parents' country only, with no U.S. status"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Fourteenth Amendment grants citizenship to all persons born or naturalized in the United States and subject to its jurisdiction, a rule the Supreme Court confirmed for children of noncitizen residents in United States v. Wong Kim Ark (1898).",
+      "memoryHook": "T-Rexy says: Born on U.S. soil, a U.S. citizen - the Citizenship Clause says so.",
+      "tags": [
+        "citizenship-clause"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_055",
+      "question": "A state law gives a tax benefit to two identical businesses on opposite sides of a county line, and the losing business sues claiming the line has no rational basis at all. The court's equal protection analysis will ask:",
+      "correctAnswer": "Whether the classification is rationally related to a legitimate government interest - the default test when no suspect class or fundamental right is involved",
+      "distractors": [
+        "Whether the law is the least restrictive means of a compelling interest",
+        "Whether the county line was drawn in the state's original constitution",
+        "Whether both businesses are citizens under the Fourteenth Amendment"
+      ],
+      "difficulty": "hard",
+      "explanation": "Equal protection review is tiered: ordinary economic classifications get rational-basis review, which the challenger usually loses, while classifications based on race or burdening fundamental rights trigger strict scrutiny. Identifying the right tier is the decisive first move.",
+      "memoryHook": "T-Rexy says: Ordinary economic lines get rational-basis review - tier first, outcome follows.",
+      "tags": [
+        "equal-protection"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_056",
+      "question": "A state legislature, frustrated with federal immigration policy, votes to create its own category of state citizenship with its own passport. The effort fails because:",
+      "correctAnswer": "Citizenship and naturalization are exclusively federal - the Constitution gives Congress a uniform rule of naturalization, and states cannot create U.S. citizenship",
+      "distractors": [
+        "States may create citizenship but not passports",
+        "The effort fails only because three-fourths of states did not ratify it",
+        "Citizenship is set by the United Nations charter, not by any U.S. body"
+      ],
+      "difficulty": "medium",
+      "explanation": "Congress holds the power to establish a uniform rule of naturalization, and the Fourteenth Amendment nationalized citizenship's definition. States confer state residency and state-level rights, but a parallel state citizenship would fracture the single national status the Civil War amendments built.",
+      "memoryHook": "T-Rexy says: One national citizenship - states hand out residency, not passports.",
+      "tags": [
+        "citizenship-exclusive"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_057",
+      "question": "Serving on a jury when summoned, paying taxes, and obeying the law are best classified as what kind of civic obligations?",
+      "correctAnswer": "Duties of citizenship - actions the law requires, unlike volunteering or voting, which are responsibilities citizens should do",
+      "distractors": [
+        "Responsibilities only, because no penalty attaches to any of them",
+        "Privileges that government grants and may withdraw at will",
+        "Customs enforced by tradition rather than by law"
+      ],
+      "difficulty": "easy",
+      "explanation": "Civics courses distinguish duties, which are legally mandatory - jury service, taxes, draft registration, obeying laws - from responsibilities like voting and staying informed, which are voluntary but essential to self-government.",
+      "memoryHook": "T-Rexy says: Duties are must-do by law; responsibilities are should-do by conscience.",
+      "tags": [
+        "duties-responsibilities"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_058",
+      "question": "Shortly after turning 18, a young man receives a notice that he must register with the Selective Service System. Registering is:",
+      "correctAnswer": "A legal duty for nearly all men ages 18-25 residing in the United States, even though no draft is currently active",
+      "distractors": [
+        "Voluntary, and only for those planning military careers",
+        "Required only after Congress declares war",
+        "A state duty administered by county sheriffs"
+      ],
+      "difficulty": "medium",
+      "explanation": "Registration keeps a standby roster in case Congress restores conscription; the duty exists in peacetime and non-registration can affect federal benefits and employment. The last actual draft calls ended in 1973.",
+      "memoryHook": "T-Rexy says: Registering is the duty; the draft itself has slept since 1973.",
+      "tags": [
+        "selective-service"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_059",
+      "question": "Two organizations nominate candidates, run campaigns, publish platforms, and try to win control of Congress. These organizations are:",
+      "correctAnswer": "Political parties - linkage institutions that connect voters to government by organizing elections around shared programs",
+      "distractors": [
+        "Interest groups, because they seek to influence public policy",
+        "Political action committees, because they raise campaign funds",
+        "Government agencies, because they administer elections"
+      ],
+      "difficulty": "easy",
+      "explanation": "Parties differ from interest groups in aim: parties seek to win office and govern, while interest groups seek to influence whoever governs. Parties recruit candidates, simplify choices for voters, and organize legislatures once elected.",
+      "memoryHook": "T-Rexy says: Parties run to win office; interest groups push whoever holds it.",
+      "tags": [
+        "political-parties"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_060",
+      "question": "A city mayor orders a newspaper's presses stopped the night before an exposé on his contracts is to run. A court blocks the order within hours. The doctrine protecting the newspaper is the ban on:",
+      "correctAnswer": "Prior restraint - government censorship that stops publication in advance, presumptively unconstitutional since Near v. Minnesota",
+      "distractors": [
+        "Defamation - false statements of fact about a person",
+        "Obscenity - material meeting the Miller test's three parts",
+        "Symbolic speech - conduct conveying a message"
+      ],
+      "difficulty": "medium",
+      "explanation": "Prior restraint is the heaviest burden on press freedom: the government must justify stopping the presses beforehand, and it almost never can. Publishing first and suing over genuine falsehoods afterward is the constitutional sequence the doctrine enforces.",
+      "memoryHook": "T-Rexy says: Publish first; censorship beforehand almost never survives - that is prior restraint.",
+      "tags": [
+        "free-press"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_061",
+      "question": "A trade association flies fifty members to Washington to testify at hearings, meet committee staff, and file detailed comments on a proposed rule. A critic calls this 'buying the law.' The constitutionally precise response is:",
+      "correctAnswer": "Lobbying is protected petitioning under the First Amendment; influence through testimony and argument is lawful participation, distinct from bribery or buying votes",
+      "distractors": [
+        "Lobbying is unprotected because the First Amendment covers only speech by individuals",
+        "The association must register its members as federal employees to testify",
+        "Only elected officials may comment on proposed rules"
+      ],
+      "difficulty": "hard",
+      "explanation": "The right to petition the government for redress of grievances covers organized lobbying; disclosure laws regulate it, but access itself is a founding-era participation channel. Campaign money and gifts have their own rules - testimony and analysis are speech and petition in classic form.",
+      "memoryHook": "T-Rexy says: Testifying is petitioning - the First Amendment protects the knock on the door.",
+      "tags": [
+        "interest-groups-petition"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_062",
+      "question": "Turnout researchers find a city where most residents vote in presidential years but skip the meetings, primaries, and local elections where land-use and school decisions are actually made. The researchers' standard conclusion is:",
+      "correctAnswer": "Participation only at the top of the ballot leaves the decisions closest to daily life to the few who show up",
+      "distractors": [
+        "Low local turnout proves local offices have no real power",
+        "Presidential turnout fully substitutes for local engagement",
+        "Local elections are legally advisory, so skipping them is rational"
+      ],
+      "difficulty": "medium",
+      "explanation": "Local bodies control zoning, schools, policing, and services, and their elections draw a fraction of presidential turnout. The gap means small, organized groups can dominate outcomes that affect residents every day.",
+      "memoryHook": "T-Rexy says: The closest government is chosen by the fewest voters - showing up locally counts most.",
+      "tags": [
+        "civic-participation"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_063",
+      "question": "Congress wants safer highways and offers states extra highway funds on condition they set a drinking age of 21. States may refuse the money and keep age 19. This arrangement, upheld in South Dakota v. Dole, is:",
+      "correctAnswer": "Conditional federal spending - a lawful use of the spending power, so long as conditions are clear, related, and not coercive",
+      "distractors": [
+        "A direct federal drinking-age law, because Congress regulates alcohol",
+        "Unconstitutional commandeering of state legislatures",
+        "A treaty obligation enforced through the states"
+      ],
+      "difficulty": "medium",
+      "explanation": "The spending power lets Congress buy state cooperation it could not directly command, within limits: conditions must serve the general welfare, be unambiguous, relate to the program, and stop short of coercion. South Dakota lost 5 percent of highway funds under the law the Court upheld.",
+      "memoryHook": "T-Rexy says: Washington may pay for cooperation it cannot order - Dole priced the limit.",
+      "tags": [
+        "federalism-spending"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_064",
+      "question": "A new federal statute orders state police officers to conduct federal background checks and orders state legislatures to enact a specified gun law. Under Printz v. United States and the anti-commandeering doctrine, the statute is:",
+      "correctAnswer": "Unconstitutional in both commands - Congress may regulate individuals directly but may not conscript state officers or legislatures into federal service",
+      "distractors": [
+        "Valid, because the Supremacy Clause makes state officials federal agents",
+        "Valid only for the police command, because officers are not lawmakers",
+        "Unconstitutional only because it lacks a spending condition"
+      ],
+      "difficulty": "hard",
+      "explanation": "Printz struck down interim Brady Act provisions requiring state officers to run checks, holding that commandeering blurs political accountability and breaks the federal design. Congress's alternatives are direct federal enforcement or conditional funding.",
+      "memoryHook": "T-Rexy says: Congress must do its own work or pay for help - it cannot draft state officials.",
+      "tags": [
+        "anti-commandeering"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_065",
+      "question": "The Constitution opens with the words 'We the People of the United States.' Placing those words first announces that:",
+      "correctAnswer": "The Constitution's authority comes from the people themselves, not from the states as sovereign parties or from a king",
+      "distractors": [
+        "The document was written by a popular vote of all citizens in 1787",
+        "The federal government may do anything the people approve in polls",
+        "State constitutions derive their force from this sentence alone"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Preamble declares the source of authority - popular sovereignty - and lists the union's purposes: justice, domestic tranquility, common defense, general welfare, and liberty. It grants no power by itself, but courts and citizens read the rest of the document in its light.",
+      "memoryHook": "T-Rexy says: Authority first, purposes second - the Preamble names the people as the source.",
+      "tags": [
+        "preamble"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_066",
+      "question": "Madison, writing as Publius in 1787, concedes that factions cannot be abolished without abolishing liberty itself. His structural remedy in Federalist No. 10 is to:",
+      "correctAnswer": "Extend the republic's size and diversity, so no single faction can easily form an oppressive majority",
+      "distractors": [
+        "Eliminate factions by restricting liberty of speech and association",
+        "Give the Senate power to ban factional organizations",
+        "Keep republics small, so citizens share one common interest"
+      ],
+      "difficulty": "medium",
+      "explanation": "Madison treats factions as inseparable from liberty itself, so the cure must target effects, not causes. A large, diverse republic multiplies interests, making a majority faction harder to assemble and easier to check.",
+      "memoryHook": "T-Rexy says: More interests, less danger - Madison's big-republic answer to factions.",
+      "tags": [
+        "federalist-10",
+        "factions"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_067",
+      "question": "A president issues an executive order directing agencies how to carry out a statute Congress passed. The order's legal strength comes from:",
+      "correctAnswer": "The statute itself or the president's own constitutional authority - an order cannot create law beyond those sources",
+      "distractors": [
+        "The order alone, which has the same force as a constitutional amendment",
+        "Senate ratification, which all executive orders receive",
+        "Custom, because orders have been used since Washington's time"
+      ],
+      "difficulty": "medium",
+      "explanation": "Executive orders direct the executive branch using authority granted by Congress or Article II. A court measures an order against those sources - strongest when Congress authorized the action, weakest when the president acts against Congress's expressed will.",
+      "memoryHook": "T-Rexy says: An order borrows its power - from a statute or from Article II, never from thin air.",
+      "tags": [
+        "executive-orders"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_068",
+      "question": "The heads of the fifteen executive departments - State, Treasury, Defense, and the rest - together form the body traditionally called:",
+      "correctAnswer": "The Cabinet - the president's senior department heads, serving at the president's pleasure after Senate confirmation",
+      "distractors": [
+        "The Executive Council, a body that can overrule the president",
+        "The Senior Civil Service, chosen by competitive examination alone",
+        "The Joint Chiefs, who advise on all domestic policy"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Cabinet is a creature of practice, not a constitutional body with its own powers; the Constitution mentions only that the president may require written opinions from department heads. Members are nominated by the president and confirmed by the Senate.",
+      "memoryHook": "T-Rexy says: Fifteen departments, one advisory table - the Cabinet advises, the president decides.",
+      "tags": [
+        "cabinet"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_069",
+      "question": "A state, tired of career politicians, adds term limits for its members of Congress to its own constitution. Under U.S. Term Limits v. Thornton (1995), the limits are:",
+      "correctAnswer": "Invalid - states may not add qualifications for federal office beyond those fixed in the Constitution",
+      "distractors": [
+        "Valid - the Tenth Amendment reserves election rules entirely to states",
+        "Valid only if approved by Congress in a statute",
+        "Invalid only because they applied to the Senate and not the House"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Court held that the Constitution's qualifications for Congress are exclusive; allowing each state to add its own would patchwork a national legislature. States remain free to term-limit their own state offices - as Alabama may do for state posts - but not federal ones.",
+      "memoryHook": "T-Rexy says: Federal qualifications are a closed list - states cannot pencil in extras.",
+      "tags": [
+        "term-limits-thornton"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_070",
+      "question": "Article V offers a second route to propose amendments that has never been used to completion. It is:",
+      "correctAnswer": "A convention for proposing amendments, called by Congress when two-thirds of the state legislatures apply for one",
+      "distractors": [
+        "A national referendum requested by one-half of the states",
+        "A Supreme Court proposal forwarded to the states for ratification",
+        "A presidential proposal requiring three-fourths of governors to agree"
+      ],
+      "difficulty": "medium",
+      "explanation": "Every adopted amendment so far was proposed by two-thirds of Congress; the convention route exists as a state-driven alternative and a pressure device - the drive for direct election of senators pushed Congress to propose the Seventeenth Amendment before a convention could be called. Ratification still requires three-fourths of the states by either route.",
+      "memoryHook": "T-Rexy says: The convention door exists and has never been walked through - its shadow still moves Congress.",
+      "tags": [
+        "article-v-convention"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_071",
+      "question": "Alabama still governs itself under a constitution whose original version was adopted in which year?",
+      "correctAnswer": "1901 - the Constitution of Alabama of 1901, as amended and recompiled in 2022",
+      "distractors": [
+        "1865 - a Reconstruction constitution never replaced since",
+        "1819 - the original statehood constitution, unchanged in structure",
+        "1965 - a civil-rights-era constitution adopted after federal court orders"
+      ],
+      "difficulty": "easy",
+      "explanation": "Alabama adopted its sixth constitution in 1901. Although hundreds of amendments and a 2022 recompilation have reshaped the document, it remains - in law and in the 2024 state standards' own wording - the Constitution of 1901.",
+      "memoryHook": "T-Rexy says: 1901 is still the foundation year - amendments and recompilation built on it.",
+      "tags": [
+        "alabama-constitution",
+        "1901"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_072",
+      "question": "A classmate says Alabama got a brand-new constitution in 2022. The accurate correction is:",
+      "correctAnswer": "2022 was a recompilation, not a new constitution - voters approved reorganizing the 1901 constitution, removing repealed and racist provisions and arranging local amendments by county, without adopting a new frame of government",
+      "distractors": [
+        "2022 replaced the 1901 constitution with a shorter document written by a convention",
+        "2022 was the year the 1901 constitution was first ratified",
+        "2022 changed nothing at all - the vote was purely symbolic"
+      ],
+      "difficulty": "medium",
+      "explanation": "The recompilation, authorized by an amendment and ratified in November 2022, let editors codify the sprawling text: dead provisions and racist language came out, and the hundreds of county-specific amendments were organized by county. The underlying 1901 frame - including its centralized structure - continued.",
+      "memoryHook": "T-Rexy says: Same frame, cleaned and reorganized - a recompilation edits, it does not refound.",
+      "tags": [
+        "recompilation-2022"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_073",
+      "question": "Under Dillon's Rule, a local government possesses only:",
+      "correctAnswer": "The powers expressly granted to it by the state, those necessarily implied from them, and those essential to its declared purposes - with doubts resolved against the locality",
+      "distractors": [
+        "Any power the national government has not claimed for itself",
+        "All powers a majority of its residents vote to give it",
+        "The same sovereign powers a state holds under the Tenth Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "Judge John Dillon's rule treats local governments as creatures of the state: they hold no inherent sovereignty, and courts read their grants narrowly. It is the opposite presumption from the one courts apply to Congress's enumerated powers plus implied means in one key respect - ambiguity cuts against the locality.",
+      "memoryHook": "T-Rexy says: Creatures of the state, powers by permission - Dillon's Rule in one line.",
+      "tags": [
+        "dillons-rule",
+        "standard-13c"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_074",
+      "question": "An Alabama county commission wants to enact a local ordinance on a topic the legislature has never addressed. The commission's core problem is:",
+      "correctAnswer": "Alabama counties have no general home rule - a county may act only where the constitution or a statute authorizes it, so it usually must seek authority from the legislature",
+      "distractors": [
+        "Counties may legislate freely until the governor vetoes the ordinance",
+        "A county ordinance is valid if the county's voters approve it in any election",
+        "The county must first obtain a ruling from the Alabama Supreme Court"
+      ],
+      "difficulty": "medium",
+      "explanation": "Unlike states with county home-rule charters, Alabama's 1901 framework keeps counties on a short legislative leash. County commissions administer state-assigned functions, and new local powers typically arrive as statewide statutes or county-specific constitutional amendments.",
+      "memoryHook": "T-Rexy says: No home rule means Montgomery holds the leash - counties ask, the legislature grants.",
+      "tags": [
+        "home-rule",
+        "counties",
+        "standard-13c"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_075",
+      "question": "Standard 13c asks how Dillon's Rule and the 1901 constitution's home-rule provisions affect local funding in Alabama. The best-supported analysis is:",
+      "correctAnswer": "Because counties lack home rule, many local taxes and funding measures cannot be adopted locally at all - they require legislative action, often including a constitutional amendment approved by voters, which slows and centralizes local funding decisions",
+      "distractors": [
+        "Local funding is unaffected, because counties may levy any tax their commissions choose",
+        "Dillon's Rule guarantees each county a fixed share of state income-tax revenue",
+        "Home rule in the 1901 constitution lets every county set its own tax code without state involvement"
+      ],
+      "difficulty": "hard",
+      "explanation": "Centralization is the 1901 constitution's signature effect: earmarked revenues, legislative control of local taxation, and amendment-by-amendment local finance. A county that wants a new local tax commonly needs the legislature to propose an amendment and the voters - sometimes statewide - to approve it.",
+      "memoryHook": "T-Rexy says: When the money power sits in Montgomery, local budgets wait on the capital.",
+      "tags": [
+        "dillons-rule",
+        "local-funding",
+        "standard-13c"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_076",
+      "question": "Alabama's constitution became famous as one of the longest in the world largely because it accumulated:",
+      "correctAnswer": "Hundreds of amendments, many of them local amendments applying to a single county or city because local matters could not be settled locally",
+      "distractors": [
+        "A complete reprinting of every Alabama statute since 1819",
+        "Translations into dozens of languages as official parallel texts",
+        "The full text of the United States Constitution repeated for each county"
+      ],
+      "difficulty": "medium",
+      "explanation": "Because the 1901 constitution centralizes power, routine local questions - a county tax, a local office's pay - historically required amending the state constitution itself. The 2022 recompilation organized these local amendments by county but did not remove the underlying habit.",
+      "memoryHook": "T-Rexy says: When local problems need constitutional amendments, the constitution grows very long.",
+      "tags": [
+        "local-amendments"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_077",
+      "question": "The Alabama Legislature consists of a Senate and a House of Representatives. Their sizes are:",
+      "correctAnswer": "35 senators and 105 representatives",
+      "distractors": [
+        "50 senators and 100 representatives",
+        "35 senators and 67 representatives",
+        "41 senators and 124 representatives"
+      ],
+      "difficulty": "easy",
+      "explanation": "Alabama's Senate has 35 members elected from single-member districts and its House has 105. Both chambers meet in the State House in Montgomery, across from the Capitol where the governor's offices sit.",
+      "memoryHook": "T-Rexy says: Thirty-five and one hundred five - Alabama's two chamber numbers.",
+      "tags": [
+        "legislature",
+        "structure"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_078",
+      "question": "Alabama's capital city, where the legislature meets and the governor's office sits, is:",
+      "correctAnswer": "Montgomery",
+      "distractors": [
+        "Birmingham",
+        "Huntsville",
+        "Mobile"
+      ],
+      "difficulty": "easy",
+      "explanation": "Montgomery has been Alabama's capital since 1847, after earlier capitals at Cahawba, Tuscaloosa, and Huntsville. The dynamic-answers data for this course likewise resolves Alabama's capital to Montgomery.",
+      "memoryHook": "T-Rexy says: Montgomery - the capital on the Alabama River since 1847.",
+      "tags": [
+        "capital",
+        "montgomery"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_079",
+      "question": "An Alabama bill passes both houses. The governor vetoes it. Compared with the U.S. Constitution's two-thirds override, Alabama's override rule is notable because:",
+      "correctAnswer": "The Alabama Legislature can override by a majority of the elected members of each house - an easier threshold than Congress's two-thirds",
+      "distractors": [
+        "Alabama requires a three-fourths vote of both houses to override",
+        "Alabama governors cannot be overridden at all",
+        "An Alabama veto can be overridden by the Senate acting alone"
+      ],
+      "difficulty": "medium",
+      "explanation": "Alabama's constitution sets the override at a majority of all elected members of each house, not two-thirds. Alabama governors also hold an executive-amendment tool - returning a bill with a suggested amendment - that has no exact presidential counterpart.",
+      "memoryHook": "T-Rexy says: A bare majority beats an Alabama veto - Congress needs two-thirds.",
+      "tags": [
+        "legislature",
+        "lawmaking"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_080",
+      "question": "Alabama's governor serves a four-year term and faces which term limit?",
+      "correctAnswer": "No governor may serve more than two consecutive terms",
+      "distractors": [
+        "There is no limit on consecutive terms for Alabama's governor",
+        "A governor is limited to a single four-year term",
+        "A governor may serve three consecutive terms, then one more after a break"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Alabama constitution limits the governor to two consecutive four-year terms, though a former governor may run again after another governor's term intervenes. The limit mirrors the two-term pattern many states apply to their chief executives.",
+      "memoryHook": "T-Rexy says: Two in a row, then step aside - that is Alabama's gubernatorial limit.",
+      "tags": [
+        "governor",
+        "terms"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_081",
+      "question": "In Alabama, the attorney general, secretary of state, state treasurer, and state auditor are each elected by the voters separately from the governor. The consequence for state government is:",
+      "correctAnswer": "A plural executive - the governor shares executive authority with independently elected officials who answer to voters, not to the governor",
+      "distractors": [
+        "A unitary executive in which all officials serve at the governor's pleasure",
+        "A council system in which those officials together outvote the governor",
+        "Those offices are ceremonial, with all real power held by agency staff"
+      ],
+      "difficulty": "medium",
+      "explanation": "Because voters elect them independently, Alabama's constitutional officers control their own offices and can check - or publicly clash with - a governor of even their own party. The design dilutes the governor's formal control compared with the federal model.",
+      "memoryHook": "T-Rexy says: Voters hire the executive team separately, so the governor cannot fire the team.",
+      "tags": [
+        "plural-executive"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_082",
+      "question": "A civics student assumes Alabama's lieutenant governor works like the U.S. vice president before 1804 and mostly waits. The more precise account of the office's working power is:",
+      "correctAnswer": "The lieutenant governor is separately elected and serves as president of the Alabama Senate, with real influence over the Senate's business and succession to the governorship if it falls vacant",
+      "distractors": [
+        "The lieutenant governor is appointed by the governor and chairs the House",
+        "The office exists only to break ties in the Alabama House of Representatives",
+        "The lieutenant governor leads the Alabama National Guard in peacetime"
+      ],
+      "difficulty": "hard",
+      "explanation": "Alabama elects its lieutenant governor on a separate ballot - the governor and lieutenant governor can even be of different parties - and the office presides over the Senate. It is a genuinely independent power base in Alabama politics, not a standby post.",
+      "memoryHook": "T-Rexy says: Separately elected and presiding over the Senate - Alabama's second office has its own power.",
+      "tags": [
+        "lieutenant-governor"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_083",
+      "question": "A civil case is appealed after final judgment in an Alabama circuit court, and a criminal appeal is filed in a different case the same week. The appeals go to:",
+      "correctAnswer": "The Court of Civil Appeals for the civil case and the Court of Criminal Appeals for the criminal case - Alabama runs two separate intermediate appellate courts",
+      "distractors": [
+        "Both to a single Court of Appeals with civil and criminal divisions",
+        "Both directly to the Supreme Court of Alabama in every instance",
+        "Civil appeals to the Court of Criminal Appeals and criminal ones to the Court of Civil Appeals"
+      ],
+      "difficulty": "medium",
+      "explanation": "Alabama is unusual in splitting its intermediate appellate work between a Court of Civil Appeals and a Court of Criminal Appeals, each with five judges. The Supreme Court of Alabama can review decisions of both.",
+      "memoryHook": "T-Rexy says: Two doors at the middle level - civil left, criminal right.",
+      "tags": [
+        "judiciary",
+        "structure"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_084",
+      "question": "The Supreme Court of Alabama has how many members, and how do they reach the bench?",
+      "correctAnswer": "Nine justices, elected by the voters in statewide partisan elections to six-year terms",
+      "distractors": [
+        "Seven justices, appointed by the governor for life",
+        "Nine justices, appointed by the legislature to four-year terms",
+        "Five justices, chosen by the state's circuit judges"
+      ],
+      "difficulty": "easy",
+      "explanation": "Alabama elects its appellate judges, including a chief justice and eight associate justices of its supreme court, in partisan elections - a system that makes judicial campaigns a regular feature of Alabama politics and a recurring subject of reform debate.",
+      "memoryHook": "T-Rexy says: Nine elected justices - Alabama votes for its highest court.",
+      "tags": [
+        "supreme-court-alabama"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_085",
+      "question": "In Alabama's court system, the trial courts of general jurisdiction - where felonies and major civil cases are tried - are called:",
+      "correctAnswer": "Circuit courts",
+      "distractors": [
+        "District courts",
+        "Probate courts",
+        "Municipal courts"
+      ],
+      "difficulty": "easy",
+      "explanation": "Circuit courts sit atop Alabama's trial level, organized into judicial circuits across the state. Below them, district courts handle misdemeanors, small claims, and preliminary matters, while probate and municipal courts handle their specialized dockets.",
+      "memoryHook": "T-Rexy says: Circuit courts are Alabama's main trial arena - felonies and big civil cases land there.",
+      "tags": [
+        "trial-courts"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_086",
+      "question": "A reform commission debates switching Alabama from partisan judicial elections to a merit-selection plan in which a commission screens nominees and voters later decide whether to retain each judge. The strongest argument rooted in Alabama's current system is:",
+      "correctAnswer": "Elected judges must campaign and raise money - often from lawyers and interests who appear before them - which creates a standing public concern about impartiality that merit selection is designed to reduce",
+      "distractors": [
+        "Judicial elections are unconstitutional under the U.S. Constitution, so change is mandatory",
+        "Alabama judges currently serve for life, making any election reform pointless",
+        "Merit selection would transfer judge-picking to the federal Senate"
+      ],
+      "difficulty": "hard",
+      "explanation": "Alabama's partisan judicial races have produced some of the most expensive court campaigns in the country, and litigants' contributions are the core of the impartiality critique. Defenders of elections answer that voting gives the public direct accountability - the commission debate weighs those two values.",
+      "memoryHook": "T-Rexy says: Campaign cash from future litigants is the pressure point in elected-judge systems.",
+      "tags": [
+        "judicial-elections"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_087",
+      "question": "Alabama officials demanded that the NAACP turn over its Alabama membership lists, and fined the organization when it refused, effectively driving it from the state. In NAACP v. Alabama ex rel. Patterson (1958), the Supreme Court held:",
+      "correctAnswer": "Forced disclosure violated the members' freedom of association under the First and Fourteenth Amendments, because exposure would expose members to hostility and deter them from joining",
+      "distractors": [
+        "The state could compel the lists, because associations have no constitutional rights",
+        "The NAACP lost, because membership lists are public records by definition",
+        "The case concerned tax law only, and the lists were handed over"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Court's first great freedom-of-association holding grew directly out of Alabama's campaign against the NAACP during the civil rights era. It is a standard-6e Alabama landmark: an Alabama dispute that set national doctrine.",
+      "memoryHook": "T-Rexy says: Alabama demanded the lists; the Constitution protected the names - association became a named right.",
+      "tags": [
+        "landmark-cases",
+        "naacp",
+        "standard-6e"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_088",
+      "question": "A Montgomery, Alabama police commissioner sued the New York Times over an advertisement describing civil rights protests, claiming its minor errors libeled him. New York Times v. Sullivan (1964) transformed libel law by holding:",
+      "correctAnswer": "A public official cannot win damages for a defamatory falsehood about official conduct without proving actual malice - knowledge of falsity or reckless disregard for the truth",
+      "distractors": [
+        "Newspapers may never be sued by public officials for any statement",
+        "Officials need only show the report contained any factual error at all",
+        "Libel of officials is governed entirely by state law with no federal limit"
+      ],
+      "difficulty": "hard",
+      "explanation": "Sullivan grew out of the Alabama courts' half-million-dollar verdict against the Times and remains the landmark of 6e: an Alabama case that nationalized press protection. The actual-malice standard still governs suits by public officials and, by extension, public figures.",
+      "memoryHook": "T-Rexy says: Born in a Montgomery courtroom, actual malice became America's libel shield.",
+      "tags": [
+        "landmark-cases",
+        "sullivan",
+        "standard-6e"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_089",
+      "question": "Alabama had not reapportioned its legislature since 1901, so a vote in a small rural county carried many times the weight of a vote in Jefferson County. Voters sued, and in Reynolds v. Sims (1964) the Supreme Court held:",
+      "correctAnswer": "State legislative districts must be apportioned on the basis of population - one person, one vote - because legislators represent people, not land",
+      "distractors": [
+        "States may weigh votes by county, following the U.S. Senate model",
+        "Reapportionment is a political question courts may never touch",
+        "Alabama's districts were acceptable because the 1901 census was the last valid one"
+      ],
+      "difficulty": "hard",
+      "explanation": "Reynolds v. Sims is Alabama's contribution to the reapportionment revolution that followed Baker v. Carr; its companion reasoning rejected the 'federal analogy' for state senates. The case also explains its own irony: the challenge was to inequality created by a legislature that had ignored the 1901 constitution's own reapportionment command for six decades.",
+      "memoryHook": "T-Rexy says: People, not trees or acres, elect legislators - Sims said it in an Alabama case.",
+      "tags": [
+        "landmark-cases",
+        "reynolds",
+        "standard-6e"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_090",
+      "question": "Alabama's legislature redrew the city boundaries of Tuskegee from a square into a 28-sided figure that removed nearly all Black residents from the city while removing no white residents. In Gomillion v. Lightfoot (1960), the Court held:",
+      "correctAnswer": "The boundary law could be challenged under the Fifteenth Amendment as a racial device to deny Black citizens the municipal vote",
+      "distractors": [
+        "City boundaries are always immune from constitutional challenge",
+        "The figure was acceptable because the city kept the same total population",
+        "Only Congress, never courts, could question a municipal boundary"
+      ],
+      "difficulty": "medium",
+      "explanation": "Gomillion taught that the right to vote cannot be defeated by redrawing the polity itself. The case - named for Tuskegee educator Charles Gomillion and the city's mayor - is a standard-6e landmark on racial gerrymandering's municipal form.",
+      "memoryHook": "T-Rexy says: Move the line to erase the voters, and the Fifteenth Amendment still applies.",
+      "tags": [
+        "landmark-cases",
+        "gomillion",
+        "standard-6e"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_091",
+      "question": "After Rosa Parks's arrest, Montgomery's Black community boycotted city buses for over a year. The legal blow that finally desegregated the buses was:",
+      "correctAnswer": "Browder v. Gayle (1956) - a federal court held bus segregation unconstitutional, and the Supreme Court affirmed, ending segregated seating on Montgomery's buses",
+      "distractors": [
+        "A city council ordinance repealing segregation after the boycott's first month",
+        "Brown v. Board of Education itself, which directly governed public transportation",
+        "A ruling of the Alabama Supreme Court striking down the bus law"
+      ],
+      "difficulty": "medium",
+      "explanation": "Aurelia Browder and other Montgomery women were the named plaintiffs in the case that legally ended the boycott in victory, decided under the Fourteenth Amendment's equal protection guarantee. The boycott supplied the pressure; Browder supplied the judgment - together they are Alabama's 6e civil-rights pairing.",
+      "memoryHook": "T-Rexy says: The boycott pressured, Browder decided - Montgomery's buses fell in federal court.",
+      "tags": [
+        "landmark-cases",
+        "browder",
+        "standard-6e"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_092",
+      "question": "An Alabama county needs a new courthouse and a local tax to pay for it, but the county commission cannot simply vote the tax into being. The reason, in the 1901 constitution's design, is:",
+      "correctAnswer": "Counties are administrative arms of the state with taxing power only as the constitution and statutes grant it, so major local funding steps typically require legislative action - and often a constitutional amendment put to voters",
+      "distractors": [
+        "Counties may tax anything except property, so a sales tax alone would do",
+        "The governor must personally approve every county tax in writing",
+        "County taxes are set annually by the Alabama Supreme Court"
+      ],
+      "difficulty": "medium",
+      "explanation": "The funding bottleneck is Dillon's Rule applied to revenue: no inherent county taxing power exists to invoke. This is why Alabama ballots are crowded with local amendments and why the 2022 recompilation organized them county by county.",
+      "memoryHook": "T-Rexy says: No inherent taxing power - the county's road to revenue runs through Montgomery.",
+      "tags": [
+        "county-government"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_093",
+      "question": "Standard 13a asks students to compare state and local governments in Alabama. The comparison that best fits Alabama's structure is:",
+      "correctAnswer": "Municipalities exercise powers granted through state law and, for some cities, special statutory schemes, while counties operate with still less independent authority - so both levels are legally subordinate to the state, though cities generally hold broader ordinance power than counties",
+      "distractors": [
+        "Counties and cities are sovereign like states, each with its own constitution",
+        "Counties hold broader home-rule power than cities in Alabama law",
+        "Local governments in Alabama derive their authority from the federal government"
+      ],
+      "difficulty": "hard",
+      "explanation": "Alabama inverts the expectation many students bring from home-rule states: the state is the source of all local power, and cities typically receive wider statutory grants than counties. That is exactly the contrast standard 13a's comparison is built to surface, and it sets up 13c's Dillon's Rule analysis.",
+      "memoryHook": "T-Rexy says: Both levels borrow power from the state - cities usually borrow more than counties.",
+      "tags": [
+        "municipal-government",
+        "standard-13a"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_094",
+      "question": "Tribal sovereignty, the subject of standard 14, means that a federally recognized tribe such as the Poarch Band of Creek Indians:",
+      "correctAnswer": "Is a self-governing political community whose authority predates the United States, with its own government, laws, and courts on its own lands - not a private organization or a county agency",
+      "distractors": [
+        "Is a nonprofit corporation chartered by the state of Alabama",
+        "Is a department within Alabama's state government",
+        "Holds land only as a tenant of the surrounding county"
+      ],
+      "difficulty": "easy",
+      "explanation": "Tribal sovereignty is inherent and retained, not granted by a state charter: the U.S. Constitution's Indian Commerce Clause and treaty practice place tribal relations primarily with the federal government. Alabama's standards ask students to study that sovereignty with Alabama's tribes in focus.",
+      "memoryHook": "T-Rexy says: Sovereignty retained, not granted - tribes govern as peoples, not as clubs.",
+      "tags": [
+        "tribal-sovereignty",
+        "standard-14"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_095",
+      "question": "Which tribe is Alabama's only federally recognized tribal nation?",
+      "correctAnswer": "The Poarch Band of Creek Indians, headquartered near Atmore in southwest Alabama",
+      "distractors": [
+        "The Cherokee Nation, headquartered in Alabama's northeast",
+        "The Choctaw Tribe of Alabama, recognized by Congress in 1901",
+        "The Creek Confederacy Council, recognized as a single state agency"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Poarch Band of Creek Indians descends from Creek communities that remained in the Atmore area after Removal and gained federal recognition in the 1980s. Other Alabama communities - such as the MOWA Band of Choctaw Indians - hold state recognition, which is a different legal status from federal recognition.",
+      "memoryHook": "T-Rexy says: One federally recognized nation in Alabama: the Poarch Band of Creek Indians.",
+      "tags": [
+        "poarch-band",
+        "standard-14"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_096",
+      "question": "A student asks who governs daily life on Poarch Band trust land - the Escambia County sheriff's office or someone else. The accurate civics answer is:",
+      "correctAnswer": "The Poarch Band's own tribal government - its elected tribal council, tribal police, and tribal court exercise governmental authority there, within the federal framework governing tribal jurisdiction",
+      "distractors": [
+        "The county commission governs, because trust land is ordinary county land",
+        "The Bureau of Indian Affairs directly administers all local services",
+        "No government has jurisdiction, which is why the land is held in trust"
+      ],
+      "difficulty": "medium",
+      "explanation": "Federal recognition means a working government: the Poarch Band elects a tribal council led by a chairperson, operates courts and police, and runs health and social services for its citizens. Jurisdiction in Indian country is layered - tribal, federal, and in some matters state - but the first answer is tribal self-government.",
+      "memoryHook": "T-Rexy says: An elected council, its own police and court - that is a government at work.",
+      "tags": [
+        "poarch-band",
+        "tribal-government",
+        "standard-14"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_097",
+      "question": "Two Alabama Native communities are compared: one is federally recognized, the other is recognized only by the state of Alabama. The legal difference that matters most for sovereignty is:",
+      "correctAnswer": "Only federal recognition carries the government-to-government relationship with the United States, federal trust responsibilities, and the full framework of tribal jurisdiction and federal Indian programs; state recognition alone does not create those federal rights",
+      "distractors": [
+        "State recognition and federal recognition are legally identical in every respect",
+        "State-recognized tribes may sign treaties with the United States",
+        "Federally recognized tribes lose their sovereignty in exchange for recognition"
+      ],
+      "difficulty": "hard",
+      "explanation": "Alabama has a state process that has recognized several tribes and bands, and that recognition matters for state purposes. But sovereignty doctrine, trust land, and federal services flow from the federal relationship - the distinction standard 14 expects students to keep straight.",
+      "memoryHook": "T-Rexy says: State recognition is an honor with state effects; federal recognition carries the sovereign relationship.",
+      "tags": [
+        "tribal-recognition",
+        "standard-14"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_098",
+      "question": "To complete Alabama's required government course, a student must also pass the Alabama Civics Exam. That exam is:",
+      "correctAnswer": "At least 60 correct answers out of the 100 questions of the USCIS civics test, in multiple-choice form, with retakes allowed until the student passes",
+      "distractors": [
+        "A 50-question exam on the Alabama constitution written by the legislature",
+        "An oral examination administered by the county probate judge",
+        "The AP U.S. Government exam, scored on its five-point scale"
+      ],
+      "difficulty": "medium",
+      "explanation": "Act 2017-173 built the exam into the government course itself: the federal USCIS set, a 60-of-100 passing bar, documentation on the transcript, and a good-cause administrative waiver in the stated cases. Its content is federal - which is why this course's Alabama layer is carried by the standards, not by the exam.",
+      "memoryHook": "T-Rexy says: Sixty of the federal 100 to pass - the state exam tests the nation's civics, inside the state course.",
+      "tags": [
+        "civics-exam"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_099",
+      "question": "A student writes: 'Alabama government is just the federal government in miniature.' The single correction that fixes the most errors in that sentence is:",
+      "correctAnswer": "Alabama concentrates far more power at the state level over its local governments than the federal system does over states - the 1901 constitution makes the state nearly unitary toward counties and cities, while the U.S. Constitution leaves states sovereign in their reserved sphere",
+      "distractors": [
+        "Alabama's governor has exactly the same formal powers as the president, including treaty-making",
+        "Alabama's legislature is unicameral, unlike Congress",
+        "Alabama judges are appointed for life like federal judges"
+      ],
+      "difficulty": "medium",
+      "explanation": "The comparison is standard 13a's heart: federalism divides sovereignty between nation and states, but inside Alabama the 1901 design subordinates localities almost completely. Same three-branch silhouette, very different distribution of power underneath.",
+      "memoryHook": "T-Rexy says: Three branches look alike; the power map underneath Alabama is far more centralized.",
+      "tags": [
+        "federalism-alabama",
+        "comparison"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ALC12_100",
+      "question": "Alabama's voice in Congress today consists of how many voting members, divided how between the two chambers?",
+      "correctAnswer": "Seven U.S. Representatives and two U.S. Senators - nine voting members in all",
+      "distractors": [
+        "Nine U.S. Representatives and two U.S. Senators - eleven voting members in all",
+        "Five U.S. Representatives and two U.S. Senators - seven voting members in all",
+        "Seven U.S. Representatives and three U.S. Senators - ten voting members in all"
+      ],
+      "difficulty": "medium",
+      "explanation": "Alabama elects seven representatives apportioned by population and, like every state, two senators regardless of population. Its district map was litigated into the 2020s - in Allen v. Milligan (2023) the Supreme Court upheld a ruling that Alabama's map likely violated the Voting Rights Act, leading to a redrawn map with a second district where Black voters can elect a candidate of their choice.",
+      "memoryHook": "T-Rexy says: Seven voices in the House, two in the Senate - population counts in one chamber only.",
+      "tags": [
+        "congressional-delegation"
+      ],
+      "imageUrl": "topic:alabama-civics",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

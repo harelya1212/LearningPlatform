@@ -1,0 +1,1982 @@
+{
+  "packId": "gr12-colorado-civics",
+  "title": "Colorado Civics & Government (12th Grade)",
+  "description": "Colorado Civics & Government (12th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-09",
+  "tags": [
+    "colorado",
+    "civics",
+    "grade-12"
+  ],
+  "questions": [
+    {
+      "id": "COC12_001",
+      "question": "A city council member loses a recall election and argues she should keep her seat because she knows the budget better than the voters do. Which founding principle answers her claim?",
+      "correctAnswer": "Popular sovereignty - governing authority belongs to the people, who delegate it through elections",
+      "distractors": [
+        "Rule of law - officials may stay in office while any budget question is unresolved",
+        "Federalism - local offices are filled by state appointment, not by voters",
+        "Judicial review - only a court can remove an elected official from office"
+      ],
+      "difficulty": "easy",
+      "explanation": "Popular sovereignty means the people are the source of all government power. Officials hold delegated power only, and elections - including recall elections - are how the people grant, renew, or withdraw it; expertise never outranks consent.",
+      "memoryHook": "T-Rexy says: The people lend power to officials; they can always call the loan back at an election.",
+      "tags": [
+        "popular-sovereignty",
+        "foundations"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_002",
+      "question": "The Declaration of Independence states that governments derive 'their just powers' from which source?",
+      "correctAnswer": "The consent of the governed",
+      "distractors": [
+        "The authority of the British Crown",
+        "The approval of state legislatures",
+        "The decisions of the Supreme Court"
+      ],
+      "difficulty": "easy",
+      "explanation": "Jefferson's argument, drawn from Locke, is that legitimate power comes only from the people being governed. The Declaration lists this consent principle as the justification for creating - and, when necessary, replacing - a government.",
+      "memoryHook": "T-Rexy says: Just powers come from the people saying yes - that is consent of the governed.",
+      "tags": [
+        "declaration",
+        "consent"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_003",
+      "question": "Under the principle of separation of powers, the job of interpreting laws and resolving disputes under them belongs to which branch?",
+      "correctAnswer": "The judicial branch",
+      "distractors": [
+        "The legislative branch",
+        "The executive branch",
+        "State governors acting together"
+      ],
+      "difficulty": "easy",
+      "explanation": "Separation of powers divides government work so no single group controls it all: legislatures make laws, executives enforce them, and courts interpret them in real cases. The arrangement is meant to keep any one branch from becoming dominant.",
+      "memoryHook": "T-Rexy says: Make, enforce, interpret - three jobs, three branches, on purpose.",
+      "tags": [
+        "separation-of-powers",
+        "structure"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_004",
+      "question": "A president vetoes a bill, and Congress then passes the same bill again with two-thirds of both houses. This sequence is a textbook example of:",
+      "correctAnswer": "Checks and balances between the executive and legislative branches",
+      "distractors": [
+        "Federalism dividing power between levels of government",
+        "An amendment changing the text of the Constitution",
+        "A violation of the separation of powers"
+      ],
+      "difficulty": "easy",
+      "explanation": "Checks and balances let each branch limit the others. The veto is the president's check on Congress, and the two-thirds override is Congress's check back - the Constitution builds the tug-of-war in deliberately.",
+      "memoryHook": "T-Rexy says: Veto, then override - each branch pulls back on the other by design.",
+      "tags": [
+        "checks-and-balances"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_005",
+      "question": "Driver licensing, state elections, and the national military are handled by different levels of government in the United States mainly because of which constitutional arrangement?",
+      "correctAnswer": "Federalism - power is divided between the national government and the states",
+      "distractors": [
+        "Direct democracy - voters decide every government task themselves",
+        "A unitary system - one central authority assigns all tasks",
+        "The party system - each party controls a level of government"
+      ],
+      "difficulty": "easy",
+      "explanation": "Federalism splits authority: the Constitution grants the national government delegated powers like national defense, while the Tenth Amendment reserves undelegated powers - licensing drivers among them - to the states or the people.",
+      "memoryHook": "T-Rexy says: Two levels, two job lists - that split is federalism at work.",
+      "tags": [
+        "federalism"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_006",
+      "question": "A governor is charged with a crime and must stand trial in the same court system as any other resident. Which principle does this illustrate?",
+      "correctAnswer": "The rule of law - no person, including government officials, is above the law",
+      "distractors": [
+        "Popular sovereignty - voters decide the verdict in criminal cases",
+        "Separation of powers - executives are immune while in office",
+        "Federalism - states may ignore charges against their own officials"
+      ],
+      "difficulty": "easy",
+      "explanation": "The rule of law means laws apply equally to rulers and ruled. An official who breaks the law faces the same legal process as anyone else; holding office is not a shield against prosecution.",
+      "memoryHook": "T-Rexy says: The law stands above every office - that is the rule of law.",
+      "tags": [
+        "rule-of-law"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_007",
+      "question": "A federal agency announces a brand-new power for itself that appears nowhere in the Constitution or in any statute Congress passed. The strongest constitutional objection is that:",
+      "correctAnswer": "The federal government is one of limited, delegated powers and may act only under authority actually granted to it",
+      "distractors": [
+        "Agencies may create new powers whenever a policy seems useful",
+        "New powers are valid if a majority of voters approve of the goal",
+        "The objection fails because the Preamble grants unlimited power"
+      ],
+      "difficulty": "medium",
+      "explanation": "Limited government is the flip side of delegated power: the national government holds only the powers the Constitution and laws made under it confer. A worthy goal does not manufacture authority - the power must trace to a grant.",
+      "memoryHook": "T-Rexy says: No grant, no power - good intentions do not amend the Constitution.",
+      "tags": [
+        "limited-government"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_008",
+      "question": "Voters in a large state choose representatives who then debate and pass laws in a legislature, rather than all citizens voting on every law themselves. This system is best described as:",
+      "correctAnswer": "A republic - citizens govern indirectly through elected representatives",
+      "distractors": [
+        "A direct democracy in which every law is voted on by all citizens",
+        "An oligarchy ruled by an unelected council",
+        "A confederation of independent city governments"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Constitution guarantees every state a republican form of government. Scale is the reason: millions of people cannot assemble to vote on each measure, so they elect representatives who are accountable to them at the next election.",
+      "memoryHook": "T-Rexy says: Too many citizens to vote on everything - so the people vote for lawmakers instead.",
+      "tags": [
+        "republic",
+        "representation"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_009",
+      "question": "A theorist argues: people are born with rights no ruler grants them; they form governments only to protect those rights; and a government that systematically destroys them may be replaced. This reasoning - central to the Declaration - comes chiefly from:",
+      "correctAnswer": "John Locke's social contract theory of natural rights and government by consent",
+      "distractors": [
+        "Thomas Hobbes's argument that subjects surrender all rights permanently to a sovereign",
+        "Baron de Montesquieu's theory of separating governmental powers",
+        "Jean-Jacques Rousseau's claim that property rights are created by the state"
+      ],
+      "difficulty": "hard",
+      "explanation": "Locke held that life, liberty, and property are natural rights, that government rests on a contract with the governed, and that breach of that contract justifies revolution. Montesquieu supplied the separation-of-powers idea - a different contribution; Hobbes denied any right of revolution.",
+      "memoryHook": "T-Rexy says: Locke: rights first, government second, consent holding the two together.",
+      "tags": [
+        "social-contract",
+        "locke"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_010",
+      "question": "During the ratification fight of 1787-88, the Federalists won a crucial concession from skeptics by promising that the new government would promptly add:",
+      "correctAnswer": "A bill of rights listing protected individual liberties",
+      "distractors": [
+        "A clause allowing states to nullify federal laws",
+        "Term limits for members of Congress",
+        "Direct election of the president by popular vote"
+      ],
+      "difficulty": "hard",
+      "explanation": "Anti-Federalists feared the proposed Constitution lacked explicit protection for individual rights. The Federalists' promise to add a bill of rights in the first Congress - delivered as the first ten amendments in 1791 - secured ratification in key states like Massachusetts, Virginia, and New York.",
+      "memoryHook": "T-Rexy says: The Bill of Rights began as a ratification promise made to win over the skeptics.",
+      "tags": [
+        "ratification",
+        "federalist-antifederalist"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_011",
+      "question": "The Preamble's opening words, 'We the People of the United States,' announce that the Constitution's authority comes from:",
+      "correctAnswer": "The people themselves, rather than from the states as separate sovereigns or from a king",
+      "distractors": [
+        "The individual state governments acting as independent nations",
+        "The Continental Congress as a permanent ruling body",
+        "The president as head of the new government"
+      ],
+      "difficulty": "easy",
+      "explanation": "Earlier, the Articles of Confederation had been a compact among states. The Preamble's wording signals a shift: the Constitution claims authority directly from the people, which is why its promises and limits bind every level of government.",
+      "memoryHook": "T-Rexy says: Three words changed the source: We the People, not We the States.",
+      "tags": [
+        "preamble"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_012",
+      "question": "Under Article V, an amendment to the U.S. Constitution is most commonly proposed by:",
+      "correctAnswer": "A two-thirds vote of both houses of Congress",
+      "distractors": [
+        "A majority vote of the Supreme Court",
+        "A proclamation of the president",
+        "A petition signed by one million voters"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article V gives two proposal routes - two-thirds of Congress, or a convention called by two-thirds of the states - and every adopted amendment so far has come through Congress. Proposal is only step one; ratification by the states must follow.",
+      "memoryHook": "T-Rexy says: Congress proposes with two-thirds; the states still have to say yes.",
+      "tags": [
+        "amendment-process",
+        "article-v"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_013",
+      "question": "Colorado sets labeling rules for a product, but a valid federal statute imposes a different, incompatible rule for the same product, and a manufacturer sues to learn which rule it must obey. Under the Supremacy Clause, a court will hold that:",
+      "correctAnswer": "The federal law prevails and the conflicting state law is set aside",
+      "distractors": [
+        "The state law prevails inside that state's borders",
+        "Both laws apply, and citizens may choose which to follow",
+        "The conflict is settled by whichever law was passed first"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article VI makes the Constitution, federal laws, and treaties 'the supreme Law of the Land,' binding state judges regardless of state law. The rule only protects federal actions that are themselves constitutional - an unconstitutional federal law has no supremacy to claim.",
+      "memoryHook": "T-Rexy says: When a valid federal law and a state law collide, the federal one wins.",
+      "tags": [
+        "supremacy-clause"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_014",
+      "question": "The Tenth Amendment protects federalism by providing that powers not delegated to the United States, nor prohibited to the states, are:",
+      "correctAnswer": "Reserved to the states respectively, or to the people",
+      "distractors": [
+        "Transferred to the president",
+        "Assigned to the federal courts",
+        "Held by Congress to distribute later"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Tenth Amendment is the Constitution's closing reminder that the federal government is a government of listed powers. Education, local policing, and professional licensing sit with the states largely because they were never delegated away.",
+      "memoryHook": "T-Rexy says: What was never handed over stays home - reserved to the states or the people.",
+      "tags": [
+        "tenth-amendment",
+        "reserved-powers"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_015",
+      "question": "After Congress proposes a constitutional amendment by the required two-thirds vote, the amendment becomes part of the Constitution when it is ratified by:",
+      "correctAnswer": "Three-fourths of the states, through their legislatures or state conventions as Congress directs",
+      "distractors": [
+        "A national popular vote with a simple majority",
+        "The signatures of all fifty governors",
+        "Approval of the Supreme Court"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article V's ratification step requires three-fourths of the states - 38 today. Congress chooses whether state legislatures or special state conventions vote; conventions have been used only once, for the Twenty-first Amendment repealing Prohibition.",
+      "memoryHook": "T-Rexy says: Propose with two-thirds, ratify with three-fourths - deliberately hard on purpose.",
+      "tags": [
+        "amendment-process",
+        "ratification"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_016",
+      "question": "Congress charters a federal infrastructure bank to help carry out its taxing, borrowing, and commerce powers, and opponents object that the word 'bank' appears nowhere in the Constitution. As in McCulloch v. Maryland (1819), supporters will rest their defense on:",
+      "correctAnswer": "The Necessary and Proper Clause - Congress may choose means reasonably related to its enumerated powers",
+      "distractors": [
+        "The Supremacy Clause, which lets Congress override any state objection",
+        "The Tenth Amendment, which reserves banking to Congress",
+        "The General Welfare Clause acting as a free-standing power to legislate"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I ends by empowering Congress to make laws 'necessary and proper' for carrying out its listed powers, such as taxing, borrowing, and regulating commerce. Chief Justice Marshall's opinion read 'necessary' as 'useful or conducive to,' not 'absolutely indispensable.'",
+      "memoryHook": "T-Rexy says: The bank is a tool; the taxing and borrowing powers are the job the tool serves.",
+      "tags": [
+        "necessary-and-proper"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_017",
+      "question": "Which of the following is an enumerated power of Congress under Article I, Section 8?",
+      "correctAnswer": "To coin money and regulate its value",
+      "distractors": [
+        "To charter local school districts",
+        "To issue state driver licenses",
+        "To set rules for intrastate retail sales only"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I, Section 8 lists Congress's powers: taxing, borrowing, coining money, regulating interstate and foreign commerce, declaring war, and more. School governance and licensing were never delegated, so they remain with the states under the Tenth Amendment.",
+      "memoryHook": "T-Rexy says: If it is on the Section 8 list, Congress may act; if not, look to the states.",
+      "tags": [
+        "enumerated-powers"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_018",
+      "question": "Over two centuries the presidency's practical power has grown far beyond the 1789 text - through executive agreements, party leadership, and mass-media appeals - without any amendment describing these tools. Scholars classify this kind of growth as:",
+      "correctAnswer": "Informal constitutional change through practice, interpretation, and political development",
+      "distractors": [
+        "Formal amendment under Article V",
+        "Nullification of the original Constitution",
+        "Evidence that the written Constitution no longer binds officials"
+      ],
+      "difficulty": "hard",
+      "explanation": "The written text changes only through Article V, but constitutional practice also evolves informally: court interpretation, congressional statutes building out powers, and customs like the two-term tradition (later formalized by the Twenty-second Amendment). The text still binds - it is applied to new circumstances.",
+      "memoryHook": "T-Rexy says: The text is fixed; practice grows around it - that gap is informal change.",
+      "tags": [
+        "informal-change",
+        "interpretation"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_019",
+      "question": "A couple legally married in one state moves to another, and a driver licensed in a first state is honored while visiting a second. Both results rest primarily on which provision?",
+      "correctAnswer": "The Full Faith and Credit Clause - states must respect the public acts, records, and judicial proceedings of other states",
+      "distractors": [
+        "The Privileges and Immunities Clause of the Fourteenth Amendment",
+        "The Commerce Clause's ban on state trade barriers",
+        "The Guarantee Clause promising a republican form of government"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article IV, Section 1 requires each state to give full faith and credit to sister states' acts, records, and court judgments, so legal status does not evaporate at a state line. Congress may set the manner of proof and effect - which is how national recognition rules get fine-tuned.",
+      "memoryHook": "T-Rexy says: Your legal papers travel with you - full faith and credit packs their bags.",
+      "tags": [
+        "full-faith-and-credit"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_020",
+      "question": "Congress passes a law setting standards for goods manufactured in one state and sold in many others. The principal constitutional basis for reaching this economic activity is:",
+      "correctAnswer": "The Commerce Clause - Congress may regulate commerce among the several states",
+      "distractors": [
+        "The Tenth Amendment's reservation of manufacturing to Congress",
+        "The president's power as commander in chief",
+        "The states' police powers delegated upward to Congress"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Commerce Clause has been read since Gibbons v. Ogden (1824) to reach economic activity that substantially affects interstate markets, not just goods physically crossing a border at the moment of regulation. purely local, non-economic activity sits closer to the clause's judicially enforced limits.",
+      "memoryHook": "T-Rexy says: Made in one state, sold in many - interstate effects bring the Commerce Clause in.",
+      "tags": [
+        "commerce-clause"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_021",
+      "question": "Members of the U.S. House of Representatives are chosen for terms of how many years, with each state's number of seats based on what?",
+      "correctAnswer": "Two-year terms; seats apportioned among the states by population",
+      "distractors": [
+        "Six-year terms; two seats per state regardless of population",
+        "Four-year terms; seats divided equally among the states",
+        "Two-year terms; seats assigned by the Senate"
+      ],
+      "difficulty": "easy",
+      "explanation": "The House was designed as the chamber closest to the people: short two-year terms and seats apportioned by population, recalculated after each census. The Senate is the chamber with equal state representation and six-year terms - the Great Compromise joined both designs.",
+      "memoryHook": "T-Rexy says: House: two years and counted by people. Senate: six years and counted by states.",
+      "tags": [
+        "house",
+        "representation"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_022",
+      "question": "Each state, whatever its population, elects exactly how many U.S. senators, and for what term?",
+      "correctAnswer": "Two senators, each serving a six-year term",
+      "distractors": [
+        "One senator serving a four-year term",
+        "Two senators, each serving a two-year term",
+        "Senators in proportion to population, serving six-year terms"
+      ],
+      "difficulty": "easy",
+      "explanation": "Equal Senate representation was the small states' condition at the Constitutional Convention and is so entrenched that no state can be deprived of it without its own consent. Staggered terms mean only about one-third of the Senate is elected every two years, adding continuity.",
+      "memoryHook": "T-Rexy says: Two per state, six years each, one-third at a time - stability by design.",
+      "tags": [
+        "senate",
+        "structure"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_023",
+      "question": "The Constitution requires that bills for raising revenue - tax bills - must originate in which chamber, and why?",
+      "correctAnswer": "The House of Representatives, because it is the chamber most directly and frequently accountable to the people",
+      "distractors": [
+        "The Senate, because it represents the states as equals",
+        "Either chamber, with no constitutional preference",
+        "The executive branch, because the president collects the revenue"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article I, Section 7 is called the Origination Clause. Taxation was the grievance that sparked the Revolution - 'no taxation without representation' - so the power to start tax bills sits with the chamber elected most often by the people. The Senate may still amend such bills.",
+      "memoryHook": "T-Rexy says: Tax bills start where elections come fastest - the people's House.",
+      "tags": [
+        "revenue-bills",
+        "house"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_024",
+      "question": "The president vetoes a bill expanding veterans' health benefits on the final day before a recess. Its sponsors vow to enact it over his objection when Congress returns. The Constitution lets them succeed only if:",
+      "correctAnswer": "Two-thirds of both the House and the Senate must vote to override the veto",
+      "distractors": [
+        "A simple majority of the Senate alone must vote again",
+        "The Supreme Court must declare the veto unreasonable",
+        "The bill automatically becomes law after ten days"
+      ],
+      "difficulty": "medium",
+      "explanation": "The override fraction matches the gravity of the act: Congress must assemble a supermajority in both chambers to enact a law over the president's objection. Successful overrides are rare, which is why the veto threat shapes bills long before any vote.",
+      "memoryHook": "T-Rexy says: Beating a veto takes two-thirds twice - House and Senate alike.",
+      "tags": [
+        "veto",
+        "lawmaking"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_025",
+      "question": "In a presidential impeachment, the House of Representatives and the Senate play different roles. Which pairing is correct?",
+      "correctAnswer": "The House brings the charges by majority vote; the Senate conducts the trial and convicts only by two-thirds",
+      "distractors": [
+        "The Senate brings the charges; the House conducts the trial",
+        "The House tries the case; the Supreme Court votes on removal",
+        "Both houses jointly charge and convict by simple majority"
+      ],
+      "difficulty": "medium",
+      "explanation": "Impeachment mirrors a criminal process split for safety: accusation (impeachment) by the people's chamber acting like a grand jury, then trial in the Senate, where conviction and removal require two-thirds. The severity of removal - undoing a national election - explains the supermajority.",
+      "memoryHook": "T-Rexy says: House accuses, Senate judges, two-thirds removes - the split is the safeguard.",
+      "tags": [
+        "impeachment"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_026",
+      "question": "After each decennial census, some states gain House seats and others lose them, even though the House stays at 435 members. This process is called:",
+      "correctAnswer": "Reapportionment - redistributing the fixed number of House seats among states according to population shifts",
+      "distractors": [
+        "Gerrymandering - drawing district lines for partisan advantage",
+        "Redistricting - redrawing the Senate's state boundaries",
+        "Ratification - approving new states into the Union"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I ties representation to an 'actual Enumeration' every ten years. Reapportionment moves seats among states; redistricting - drawing district lines inside a state - is a separate, later step, and gerrymandering is the abuse of that step, not the process itself.",
+      "memoryHook": "T-Rexy says: Census counts, seats shift, total stays 435 - that is reapportionment.",
+      "tags": [
+        "census",
+        "apportionment"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_027",
+      "question": "The House passes a bill 300-100 and the Senate passes a slightly different version 70-30. A House leader claims the bill is ready for the president. Why is she wrong?",
+      "correctAnswer": "Both houses must pass the identical text before a bill can be presented to the president",
+      "distractors": [
+        "Bills require a three-fourths vote in at least one chamber",
+        "The Senate version always controls when the two differ",
+        "The president may merge the two versions by executive order"
+      ],
+      "difficulty": "hard",
+      "explanation": "Bicameralism plus presentment means one single, agreed text must clear both chambers before the president may sign or veto it. Conference committees exist precisely to reconcile differing versions into identical language that both houses then approve again.",
+      "memoryHook": "T-Rexy says: One bill, one text, two chambers - then, and only then, the president.",
+      "tags": [
+        "presentment",
+        "lawmaking"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_028",
+      "question": "Congress, angered by a critic's pamphlet, passes a law declaring the author guilty of sedition and imprisoning him without trial, and makes the punishment apply to pamphlets printed last year. The law is unconstitutional on two independent grounds because it is both:",
+      "correctAnswer": "A bill of attainder and an ex post facto law, both banned by Article I, Section 9",
+      "distractors": [
+        "A violation of the Origination Clause and the Commerce Clause",
+        "An establishment of religion and a denial of free speech only",
+        "Perfectly valid, since Congress's powers include defining crimes"
+      ],
+      "difficulty": "hard",
+      "explanation": "A bill of attainder legislatively convicts a named person without a judicial trial; an ex post facto law retroactively criminalizes past conduct. Article I, Section 9 forbids both - the founders had watched Parliament use exactly these tools against colonists and political enemies.",
+      "memoryHook": "T-Rexy says: No legislative guilty verdicts, no retroactive crimes - Section 9 bans both tricks.",
+      "tags": [
+        "prohibited-powers"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_029",
+      "question": "The Constitution sets three qualifications for the presidency. A candidate must be a natural-born citizen, a resident of the United States for at least fourteen years, and at least what age?",
+      "correctAnswer": "Thirty-five years old",
+      "distractors": [
+        "Twenty-five years old",
+        "Thirty years old",
+        "Forty years old"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article II's thresholds exceed those for Congress (25 for the House, 30 for the Senate), reflecting the presidency's singular responsibility. The natural-born citizen rule - unique to this office - was meant to guard the commander in chief against foreign allegiance.",
+      "memoryHook": "T-Rexy says: Thirty-five, natural-born, fourteen years home - the presidency's entry bar.",
+      "tags": [
+        "president",
+        "qualifications"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_030",
+      "question": "The president's title of commander in chief of the armed forces primarily establishes which democratic safeguard?",
+      "correctAnswer": "Civilian control of the military - the armed forces answer to an elected civilian leader",
+      "distractors": [
+        "The president's power to declare war without Congress",
+        "Military officers' immunity from civilian courts",
+        "The right of generals to veto defense legislation"
+      ],
+      "difficulty": "easy",
+      "explanation": "The framers feared standing armies and military rule, so they placed a civilian - accountable to voters - atop the chain of command, while leaving Congress the powers to declare war, fund the military, and set its rules. Civilian supremacy is shared control, not presidential war-making alone.",
+      "memoryHook": "T-Rexy says: A civilian at the top of the chain of command - that is the safeguard.",
+      "tags": [
+        "commander-in-chief",
+        "civilian-control"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_031",
+      "question": "A presidential candidate must win how many of the 538 electoral votes to secure the presidency in the Electoral College?",
+      "correctAnswer": "270 electoral votes - a majority of the total",
+      "distractors": [
+        "A plurality - simply more than any other candidate",
+        "All votes of the candidate's home region",
+        "538 votes only if no candidate wins the popular vote"
+      ],
+      "difficulty": "medium",
+      "explanation": "Each state's electors equal its House seats plus its two senators, and the District of Columbia receives three under the Twenty-third Amendment: 435 + 100 + 3 = 538, making 270 the majority. If no candidate reaches it, the House chooses the president, voting by state delegation.",
+      "memoryHook": "T-Rexy says: Five hundred thirty-eight total, two hundred seventy to win - majority, not plurality.",
+      "tags": [
+        "electoral-college"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_032",
+      "question": "Which statement accurately describes the limits of the presidential pardon power?",
+      "correctAnswer": "It reaches only federal offenses, and it cannot be used in cases of impeachment",
+      "distractors": [
+        "It can erase state criminal convictions as well as federal ones",
+        "It requires the consent of two-thirds of the Senate",
+        "It may be overturned by a majority vote of the House"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article II grants pardons 'for Offences against the United States' - federal crimes only; state convictions answer to governors. The impeachment exception preserves Congress's one removal tool from presidential rescue, a limit written in after fears a president might shield co-conspirators.",
+      "memoryHook": "T-Rexy says: Federal crimes yes, state crimes no, impeachment never - those are the fences.",
+      "tags": [
+        "pardon-power"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_033",
+      "question": "A president negotiates a treaty with a foreign nation. Before the United States is bound, the Constitution requires:",
+      "correctAnswer": "The advice and consent of the Senate, with two-thirds of senators present concurring",
+      "distractors": [
+        "Approval by a majority of the House of Representatives",
+        "Ratification by three-fourths of the state legislatures",
+        "A ruling from the Supreme Court that the treaty is wise"
+      ],
+      "difficulty": "medium",
+      "explanation": "Treaties are supreme law once made, so Article II demands a legislative supermajority at the consent stage - a weightier check than ordinary statutes receive. Presidents sometimes use executive agreements instead, but those lack a treaty's formal status and durability.",
+      "memoryHook": "T-Rexy says: A treaty binds the nation, so two-thirds of the Senate must agree first.",
+      "tags": [
+        "treaties",
+        "senate"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_034",
+      "question": "A president undergoes surgery and will be unconscious for several hours. Using the Twenty-fifth Amendment, the president signs a written declaration of inability. What is the legal result during those hours?",
+      "correctAnswer": "The vice president serves as acting president, and the president resumes power by declaring recovery",
+      "distractors": [
+        "The vice president permanently becomes president",
+        "The secretary of state assumes the presidency",
+        "Congress must elect a temporary president by majority vote"
+      ],
+      "difficulty": "hard",
+      "explanation": "Section 3 of the Twenty-fifth Amendment (1967) covers voluntary, temporary inability - used during presidential medical procedures since 1985. Section 4 covers the harder case: the vice president and a cabinet majority declare inability over the president's objection, with Congress as final referee.",
+      "memoryHook": "T-Rexy says: Unconscious for hours, not out of office - acting president is the key phrase.",
+      "tags": [
+        "twenty-fifth-amendment"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_035",
+      "question": "A president, frustrated that Congress refused to fund a program, orders an agency to spend treasury money on it anyway, arguing the program is vital. The order collides with which constitutional rule?",
+      "correctAnswer": "Congress alone controls appropriations - no money may be drawn from the treasury except by law",
+      "distractors": [
+        "The president's pardon power extends to budget disputes",
+        "The Necessary and Proper Clause authorizes emergency presidential spending",
+        "The Tenth Amendment reserves spending decisions to the executive"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article I, Section 9 - 'No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law' - is the legislature's deepest check on the executive. Executive orders direct how granted authority is used; they cannot create funding Congress withheld.",
+      "memoryHook": "T-Rexy says: The power of the purse belongs to Congress - a vital program still needs an appropriation.",
+      "tags": [
+        "appropriations",
+        "executive-limits"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_036",
+      "question": "Article II charges the president to 'take Care that the Laws be faithfully executed.' This clause makes the president primarily responsible for:",
+      "correctAnswer": "Enforcing and carrying out the laws Congress enacts",
+      "distractors": [
+        "Writing the laws that Congress votes on",
+        "Interpreting laws in court cases",
+        "Amending laws that prove unpopular"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Take Care Clause defines the core executive job: faithful administration of existing law through departments and agencies. It is a duty, not a license - it obliges the president to execute even laws he opposed, rather than to suspend or rewrite them.",
+      "memoryHook": "T-Rexy says: Congress writes the laws; the president's sworn job is to carry them out faithfully.",
+      "tags": [
+        "president",
+        "duties"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_037",
+      "question": "Federal judges, ambassadors, and cabinet secretaries reach their offices through which shared constitutional process?",
+      "correctAnswer": "Nomination by the president with the advice and consent of the Senate",
+      "distractors": [
+        "Election by the voters of their home states",
+        "Appointment by the chief justice, confirmed by the House",
+        "Selection by congressional committees without presidential involvement"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article II splits appointment power deliberately: the president chooses, the Senate screens. The arrangement forces negotiation between branches and gives an elected body a veto over the people who will run the executive branch and staff the courts for life.",
+      "memoryHook": "T-Rexy says: The president picks, the Senate screens - neither appoints alone.",
+      "tags": [
+        "appointments"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_038",
+      "question": "In Marbury v. Madison (1803), Chief Justice John Marshall's opinion established the Supreme Court's power to:",
+      "correctAnswer": "Declare an act of Congress unconstitutional - the power of judicial review",
+      "distractors": [
+        "Impeach and remove a sitting president",
+        "Veto bills before they reach the president",
+        "Appoint its own members without Senate confirmation"
+      ],
+      "difficulty": "medium",
+      "explanation": "Marshall reasoned that a written constitution superior to ordinary law would be meaningless if courts enforced statutes that contradict it. Judicial review is nowhere spelled out in the text; the decision inferred it - and no Congress since has dislodged the claim.",
+      "memoryHook": "T-Rexy says: Marbury turned the Constitution into enforceable law: courts may say no to Congress.",
+      "tags": [
+        "judicial-review",
+        "marbury"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_039",
+      "question": "Federal judges hold office 'during good Behaviour' - effectively for life - and their salaries cannot be reduced while they serve. These two protections exist mainly to:",
+      "correctAnswer": "Insulate judges from political pressure so they can rule against powerful officials when the law requires it",
+      "distractors": [
+        "Reward judges with status after long legal careers",
+        "Guarantee that judicial decisions are never appealed",
+        "Keep courts staffed by a single political party"
+      ],
+      "difficulty": "medium",
+      "explanation": "Hamilton argued in Federalist No. 78 that life tenure and salary protection give the 'least dangerous branch' the firmness to check the elected branches. A judge who fears losing her job or pay after an unpopular ruling is not independent in any meaningful sense.",
+      "memoryHook": "T-Rexy says: Life tenure plus protected pay equals rulings without fear - independence by insulation.",
+      "tags": [
+        "judicial-independence"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_040",
+      "question": "When the president of the United States is tried in the Senate, the Constitution assigns the presiding role to:",
+      "correctAnswer": "The chief justice of the United States",
+      "distractors": [
+        "The vice president, as president of the Senate",
+        "The Senate majority leader",
+        "The president pro tempore of the Senate"
+      ],
+      "difficulty": "medium",
+      "explanation": "The vice president normally presides over the Senate - but in a presidential trial he would judge a case whose outcome could make him president. Article I removes that conflict by substituting the chief justice, placing the nation's top jurist over its gravest political trial.",
+      "memoryHook": "T-Rexy says: The VP cannot judge a trial that could hand him the presidency - the chief justice presides.",
+      "tags": [
+        "impeachment-trial",
+        "chief-justice"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_041",
+      "question": "Two states sue each other over the water of an interstate river, and the case begins directly in the U.S. Supreme Court rather than in a lower court. This is possible because the Court has:",
+      "correctAnswer": "Original jurisdiction over cases in which a state is a party",
+      "distractors": [
+        "Appellate jurisdiction over all state court decisions",
+        "Exclusive jurisdiction over all water disputes nationwide",
+        "Authority granted by the two states' governors for this case only"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article III gives the Supreme Court original jurisdiction - trial-level, case-starting authority - over cases involving ambassadors and those where a state is a party; everything else reaches it on appeal. State-versus-state suits need a neutral national forum, which is why they start at the top.",
+      "memoryHook": "T-Rexy says: State against state starts at the Supreme Court - original jurisdiction, no lower stop.",
+      "tags": [
+        "jurisdiction"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_042",
+      "question": "A lower federal court faces a question the Supreme Court decided twenty years ago on nearly identical facts. The doctrine of stare decisis most directly pressures the court to:",
+      "correctAnswer": "Follow the earlier decision, treating precedent as the default rule for stability and predictability",
+      "distractors": [
+        "Ignore the earlier decision because it is more than a decade old",
+        "Ask Congress to vote on which outcome it prefers",
+        "Decide by public opinion polling in its district"
+      ],
+      "difficulty": "hard",
+      "explanation": "Stare decisis - 'to stand by things decided' - lets people plan their lives around settled law and treats like cases alike. The Supreme Court itself can overrule precedent, but lower courts may not disregard it merely because they would have decided the original case differently.",
+      "memoryHook": "T-Rexy says: Precedent is the default: stand by what was decided unless the top court moves it.",
+      "tags": [
+        "precedent",
+        "stare-decisis"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_043",
+      "question": "A defendant loses a criminal trial in a federal district court and claims a constitutional error. Following the standard structure of the federal judiciary, the appeal goes next to:",
+      "correctAnswer": "A U.S. court of appeals for the regional circuit, with Supreme Court review possible afterward",
+      "distractors": [
+        "Directly and automatically to the U.S. Supreme Court for a full retrial",
+        "The state supreme court of the state where the trial occurred",
+        "A new district court in a neighboring state"
+      ],
+      "difficulty": "medium",
+      "explanation": "The federal system has three tiers: district courts try cases, the courts of appeals review them for legal error, and the Supreme Court selects a small share of appeals for final review. Appeals correct mistakes of law - they are not second trials with new witnesses.",
+      "memoryHook": "T-Rexy says: Trial, circuit appeal, possible Supreme Court review - three tiers, in that order.",
+      "tags": [
+        "court-system"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_044",
+      "question": "A president issues an order, a business sues, and a federal judge blocks the order nationwide while the case proceeds, later ruling it exceeded the president's statutory authority. This episode shows the judiciary checking the executive through:",
+      "correctAnswer": "Enforcing legal limits on executive action in a real case brought by an injured party",
+      "distractors": [
+        "The courts' power to impeach executive officials",
+        "Judicial authority to write substitute regulations for agencies",
+        "The chief justice's role as commander of federal law enforcement"
+      ],
+      "difficulty": "hard",
+      "explanation": "Courts act only through cases, but within them they can halt unlawful executive action before it takes full effect - an injunction - and finally void it. The check is real but reactive: judges cannot roam government striking down policies no one has challenged in court.",
+      "memoryHook": "T-Rexy says: Judges cannot patrol government; they rule when a case arrives - and can stop the order cold.",
+      "tags": [
+        "judicial-checks"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_045",
+      "question": "A critic argues federal judges are dangerously unaccountable because they are appointed for life and never face voters. A defender's strongest structural answer is that this design is balanced by:",
+      "correctAnswer": "Appointment through two elected branches - presidential nomination and Senate confirmation - plus impeachment as a removal path",
+      "distractors": [
+        "Annual performance elections held in each circuit",
+        "The president's power to dismiss judges at will",
+        "Congress's authority to reverse any judgment by majority vote"
+      ],
+      "difficulty": "hard",
+      "explanation": "Life tenure trades direct accountability for independence, and the Constitution pays for it on the front end: two elected institutions must agree on every federal judge, and misconduct can still be punished through impeachment. The bargain is deliberate, not an oversight.",
+      "memoryHook": "T-Rexy says: Accountability is front-loaded: elected branches choose, and impeachment remains in reserve.",
+      "tags": [
+        "judicial-appointment"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_046",
+      "question": "A civics poster is titled 'The Five Freedoms of the First Amendment.' Which version of the poster has every item right?",
+      "correctAnswer": "Speech, press, religion, assembly, and petitioning the government",
+      "distractors": [
+        "Speech, bearing arms, jury trials, and freedom from searches",
+        "Press, voting at eighteen, due process, and equal protection",
+        "Religion, property ownership, citizenship, and travel"
+      ],
+      "difficulty": "easy",
+      "explanation": "The First Amendment (1791) protects five linked freedoms that let citizens form and voice opinions: religion (two clauses), speech, press, assembly, and petition. Arms, searches, and jury rights live in the Second, Fourth, and Sixth Amendments respectively - each amendment has its own territory.",
+      "memoryHook": "T-Rexy says: Five freedoms in the First: religion, speech, press, assembly, petition.",
+      "tags": [
+        "first-amendment"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_047",
+      "question": "Police, acting on a verified tip and surveillance showing an ongoing drug operation inside a house, want to search it. Under the Fourth Amendment, the standard step before entering is to:",
+      "correctAnswer": "Obtain a warrant from a judge by showing probable cause that evidence of a crime will be found there",
+      "distractors": [
+        "Get the mayor's verbal permission to enter",
+        "Announce the search in a local newspaper first",
+        "Win approval from two-thirds of the city council"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Fourth Amendment bans unreasonable searches and requires warrants issued 'upon probable cause' that describe the place and items sought. A neutral judge - not the investigating officers - decides whether the evidence justifies crossing a home's threshold; exceptions exist, but the warrant is the rule.",
+      "memoryHook": "T-Rexy says: Probable cause, neutral judge, written warrant - the Fourth Amendment's doorway key.",
+      "tags": [
+        "fourth-amendment"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_048",
+      "question": "A city widens a road and takes a strip of a family's land for the project. The Fifth Amendment's Takings Clause requires the city to:",
+      "correctAnswer": "Pay the family just compensation for the property taken for public use",
+      "distractors": [
+        "Return the land within one year of the project",
+        "Obtain the family's unanimous consent before proceeding",
+        "Take the land free of charge because roads are public goods"
+      ],
+      "difficulty": "medium",
+      "explanation": "Eminent domain lets government take private property for public use, but the Fifth Amendment conditions the power on 'just compensation' - roughly fair market value. The clause balances public projects against the rule that one owner should not bear a cost the whole public benefits from.",
+      "memoryHook": "T-Rexy says: The public may take the land, but the public pays the price - just compensation.",
+      "tags": [
+        "fifth-amendment",
+        "takings"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_049",
+      "question": "In Gideon v. Wainwright (1963), the Supreme Court held that a poor defendant charged with a felony in state court must be provided:",
+      "correctAnswer": "A lawyer at government expense, because the Sixth Amendment right to counsel is fundamental",
+      "distractors": [
+        "A jury drawn from the defendant's own neighborhood only",
+        "Bail set at no more than the defendant can afford",
+        "A trial within thirty days of arrest"
+      ],
+      "difficulty": "medium",
+      "explanation": "Clarence Gideon, tried without a lawyer in Florida, petitioned in pencil from prison. A unanimous Court held counsel essential to a fair trial and binding on the states through the Fourteenth Amendment - the case created the modern public defender obligation.",
+      "memoryHook": "T-Rexy says: No money for a lawyer? Gideon says the state provides one - counsel is fundamental.",
+      "tags": [
+        "sixth-amendment",
+        "gideon"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_050",
+      "question": "The Bill of Rights originally limited only the federal government, yet today a city council is bound by the First Amendment. The constitutional bridge that carried most Bill of Rights protections to state and local governments is:",
+      "correctAnswer": "The Fourteenth Amendment's Due Process Clause, through Supreme Court decisions selectively incorporating each right",
+      "distractors": [
+        "The Tenth Amendment's reservation of rights to the states",
+        "The Supremacy Clause acting on its own",
+        "Article V conventions held in each state"
+      ],
+      "difficulty": "hard",
+      "explanation": "In Barron v. Baltimore (1833) the Court confined the Bill of Rights to the federal government. After 1868, the Court used the Fourteenth Amendment's promise that no state may deprive persons of liberty without due process to apply nearly every Bill of Rights guarantee against the states, right by right, case by case.",
+      "memoryHook": "T-Rexy says: One clause carried the Bill of Rights downhill to every statehouse and city hall.",
+      "tags": [
+        "incorporation",
+        "fourteenth-amendment"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_051",
+      "question": "The Eighth Amendment protects accused and convicted persons by prohibiting:",
+      "correctAnswer": "Excessive bail, excessive fines, and cruel and unusual punishments",
+      "distractors": [
+        "All punishments that a defendant considers unfair",
+        "Trials that last longer than one year",
+        "Imprisonment for any crime committed before age eighteen"
+      ],
+      "difficulty": "easy",
+      "explanation": "Borrowed almost verbatim from the English Bill of Rights of 1689, the Eighth Amendment limits government's power over people in its custody. Bail must fit the purpose of ensuring appearance - not serve as punishment before conviction - and punishments must not be grossly disproportionate or barbaric.",
+      "memoryHook": "T-Rexy says: Bail fair, fines fair, punishments humane - the Eighth draws all three lines.",
+      "tags": [
+        "eighth-amendment"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_052",
+      "question": "A public school district ends its practice of opening each day with a teacher-led prayer from one faith. A parent sues, claiming the change violates her family's free exercise of religion. The district's strongest defense is that:",
+      "correctAnswer": "The Establishment Clause bars public schools from sponsoring religious practice, while families remain free to pray privately",
+      "distractors": [
+        "The First Amendment protects schools from all religious discussion",
+        "Students surrender all religious rights at the schoolhouse door",
+        "The Tenth Amendment lets districts ban private student prayer"
+      ],
+      "difficulty": "medium",
+      "explanation": "The First Amendment's two religion clauses pull in opposite directions: government may not establish religion, and it may not prohibit its free exercise. School-sponsored prayer is government religious action, so ending it follows the Establishment Clause - while genuinely private student prayer stays protected by the other clause.",
+      "memoryHook": "T-Rexy says: Two clauses, two directions: no state-run prayer, no ban on private prayer.",
+      "tags": [
+        "religion-clauses"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_053",
+      "question": "Before questioning a suspect held in police custody, officers must give the Miranda warnings - the right to remain silent and to an attorney. These warnings protect rights found in which amendments?",
+      "correctAnswer": "The Fifth Amendment (against self-incrimination) and the Sixth Amendment (right to counsel)",
+      "distractors": [
+        "The First Amendment (speech) and the Fourth Amendment (searches)",
+        "The Second Amendment and the Eighth Amendment",
+        "The Ninth Amendment and the Tenth Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "Miranda v. Arizona (1966) reasoned that custodial interrogation pressures suspects to surrender two trial rights early: the Fifth Amendment privilege against compelled self-incrimination and the Sixth Amendment right to counsel. Statements taken without the warnings (and a valid waiver) generally cannot be used in the prosecution's case.",
+      "memoryHook": "T-Rexy says: Silent and lawyered-up: Miranda guards the Fifth and Sixth before trial starts.",
+      "tags": [
+        "miranda"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_054",
+      "question": "Officers without a warrant, an emergency, or consent force entry into a home at night to look for evidence of a minor offense, arguing the search was quick. A court reviewing the entry will most likely hold that:",
+      "correctAnswer": "The search was unconstitutional - the home receives the Fourth Amendment's strongest protection, and warrantless home entry is presumptively unreasonable",
+      "distractors": [
+        "The search was valid because it was completed quickly",
+        "The entry was valid because the offense, though minor, was a crime",
+        "The Fourth Amendment protects only against searches of businesses"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Supreme Court calls the home 'first among equals' in Fourth Amendment law: the amendment's core was the sanctity of the dwelling against general warrants and forced entry. Recognized exceptions - true emergencies, hot pursuit, consent - must be proven; speed of the intrusion is legally irrelevant.",
+      "memoryHook": "T-Rexy says: The threshold of a home is the Fourth Amendment's brightest line.",
+      "tags": [
+        "fourth-amendment",
+        "home"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_055",
+      "question": "The Ninth Amendment was added because the framers of the Bill of Rights feared that listing some rights might imply:",
+      "correctAnswer": "That any rights not listed were surrendered - the amendment clarifies that unlisted rights are retained by the people",
+      "distractors": [
+        "That the listed rights could never be enforced",
+        "That states could cancel the listed rights at will",
+        "That only property owners held any rights"
+      ],
+      "difficulty": "easy",
+      "explanation": "Anti-Federalists and Federalists alike worried enumeration could be turned against liberty: if a right was forgotten, would government claim it never existed? The Ninth Amendment answers that the list is a floor, not a ceiling, on the people's retained rights.",
+      "memoryHook": "T-Rexy says: The list is a floor, not a ceiling - unlisted does not mean unheld.",
+      "tags": [
+        "ninth-amendment"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_056",
+      "question": "The Thirteenth Amendment (1865) changed the Constitution by:",
+      "correctAnswer": "Abolishing slavery and involuntary servitude throughout the United States, except as punishment for a crime",
+      "distractors": [
+        "Granting women the right to vote in federal elections",
+        "Defining citizenship for all persons born in the United States",
+        "Prohibiting the manufacture and sale of alcohol"
+      ],
+      "difficulty": "easy",
+      "explanation": "Ratified months after the Civil War ended, the Thirteenth Amendment wrote emancipation into the Constitution itself, beyond the reach of any statute or state law. Unlike most amendments, it also binds private conduct directly, and it gives Congress express power to enforce abolition by legislation.",
+      "memoryHook": "T-Rexy says: 1865: slavery ends in the text itself, not just by proclamation.",
+      "tags": [
+        "thirteenth-amendment"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_057",
+      "question": "The Nineteenth Amendment, ratified in 1920, expanded the electorate by providing that the right to vote may not be denied or abridged on account of:",
+      "correctAnswer": "Sex - women could no longer be barred from voting for being women",
+      "distractors": [
+        "Race or previous condition of servitude",
+        "Failure to pay a poll tax",
+        "Age for citizens eighteen and older"
+      ],
+      "difficulty": "easy",
+      "explanation": "The suffrage movement's seventy-year campaign ended when Tennessee became the thirty-sixth state to ratify in August 1920. The amendment's language copies the Fifteenth Amendment's structure - a floor every state must meet, though state rules on registration and residency still apply.",
+      "memoryHook": "T-Rexy says: 1920: sex removed as a voting barrier - the Fifteenth Amendment's pattern, extended.",
+      "tags": [
+        "nineteenth-amendment",
+        "suffrage"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_058",
+      "question": "During the Vietnam War, eighteen-year-olds could be drafted but in most states could not vote until twenty-one. The constitutional fix that ended this mismatch was:",
+      "correctAnswer": "The Twenty-sixth Amendment (1971), setting eighteen as the minimum voting age nationwide",
+      "distractors": [
+        "A Supreme Court ruling that the draft itself was unconstitutional",
+        "An executive order lowering the voting age by emergency power",
+        "The Nineteenth Amendment's equal-suffrage language"
+      ],
+      "difficulty": "medium",
+      "explanation": "Congress first tried lowering the voting age by statute; the Supreme Court upheld it only for federal elections, threatening states with dual election systems. The Twenty-sixth Amendment solved the problem uniformly and was ratified faster than any other amendment - about three months.",
+      "memoryHook": "T-Rexy says: Old enough to be drafted, old enough to vote - the Twenty-sixth made it uniform.",
+      "tags": [
+        "twenty-sixth-amendment",
+        "suffrage"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_059",
+      "question": "The Fifteenth Amendment (1870) banned denying the vote based on race, yet Black citizens across the South were still blocked for nearly a century by literacy tests and poll taxes. The historical lesson most directly drawn from that gap is that:",
+      "correctAnswer": "A constitutional right on paper may fail without enforcement legislation and institutions willing to apply it",
+      "distractors": [
+        "The amendment was repealed by later state constitutions",
+        "Voting rights were fully secured immediately in 1870",
+        "The Supreme Court lacked jurisdiction over all election cases"
+      ],
+      "difficulty": "hard",
+      "explanation": "States evaded the Fifteenth Amendment with facially neutral devices aimed at Black voters. Real enforcement arrived only with the Twenty-fourth Amendment (poll taxes in federal elections), court rulings, and the Voting Rights Act of 1965 - proof that text, enforcement machinery, and political will must coincide.",
+      "memoryHook": "T-Rexy says: A right unenforced is a promise unkept - 1870's text waited until 1965 for teeth.",
+      "tags": [
+        "fifteenth-amendment",
+        "voting-rights"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_060",
+      "question": "The Twenty-fourth Amendment (1964) struck at a classic barrier to voting by prohibiting:",
+      "correctAnswer": "Poll taxes in federal elections - charging citizens a fee as a condition of voting for federal office",
+      "distractors": [
+        "Voter registration requirements of any kind",
+        "Literacy tests in state school board elections",
+        "Primaries conducted by political parties"
+      ],
+      "difficulty": "medium",
+      "explanation": "Poll taxes priced poor citizens - disproportionately Black citizens in the South - out of the electorate. The amendment reached only federal elections; the Supreme Court extended the ban to state elections two years later in Harper v. Virginia, reasoning that wealth is unrelated to voter qualification.",
+      "memoryHook": "T-Rexy says: A fee at the ballot box is a fence around it - the Twenty-fourth tore the federal half down.",
+      "tags": [
+        "twenty-fourth-amendment",
+        "poll-tax"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_061",
+      "question": "A county clerk refuses to record U.S. citizenship for a baby born in a Denver hospital to immigrant parents who are lawfully present, arguing that citizenship follows the parents' nationality. Under the Citizenship Clause, as read in United States v. Wong Kim Ark (1898), the clerk is wrong because the child is:",
+      "correctAnswer": "A citizen of the United States by birth, because birth on U.S. soil to persons subject to its jurisdiction confers citizenship",
+      "distractors": [
+        "A citizen only if Congress passes a private law for the family",
+        "Not a citizen until choosing citizenship at age eighteen",
+        "A citizen of the parents' country only, with no U.S. status"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Citizenship Clause (1868) constitutionalized birthright citizenship and overturned Dred Scott's holding that Black Americans could never be citizens. The Supreme Court confirmed in United States v. Wong Kim Ark (1898) that the clause covers children born here to lawfully present foreign parents.",
+      "memoryHook": "T-Rexy says: Born here, citizen here - the clause reversed Dred Scott in a single sentence.",
+      "tags": [
+        "fourteenth-amendment",
+        "citizenship"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_062",
+      "question": "A state law gives a tax benefit to businesses owned by residents of one county but denies it to identical businesses in the next county, with no stated justification. A challenger would build the case on which clause, and what must the state supply?",
+      "correctAnswer": "The Equal Protection Clause - the state must show its classification rests on a legitimate, non-arbitrary basis",
+      "distractors": [
+        "The Due Process Clause - the state must hold a trial before taxing",
+        "The Commerce Clause - the state must prove the tax helps trade",
+        "The Takings Clause - the state must pay each denied business"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Fourteenth Amendment commands that no state 'deny to any person within its jurisdiction the equal protection of the laws.' Courts sort classifications by how suspect they are: race triggers strict scrutiny, while ordinary economic lines must at least be rationally related to a legitimate government interest - unexplained favoritism struggles even there.",
+      "memoryHook": "T-Rexy says: Same situation, same law - if the state sorts people, it must explain the sorting.",
+      "tags": [
+        "equal-protection"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_063",
+      "question": "A state legislature, frustrated with federal immigration backlogs, enacts its own statute granting U.S. citizenship to long-term state residents. The law is void chiefly because:",
+      "correctAnswer": "Naturalization is an exclusively federal power - the Constitution requires a uniform rule set by Congress",
+      "distractors": [
+        "Citizenship questions belong to the state supreme courts",
+        "The Tenth Amendment reserves naturalization to the counties",
+        "Only the Senate may admit new citizens, one person at a time"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article I empowers Congress 'to establish an uniform Rule of Naturalization.' Uniformity was the point: under the Articles of Confederation, differing state rules made a person's status change at every border. States regulate many incidents of residence, but they cannot mint citizens.",
+      "memoryHook": "T-Rexy says: One nation, one citizenship rule - states cannot print their own.",
+      "tags": [
+        "naturalization",
+        "federal-power"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_064",
+      "question": "A teacher sorts civic actions into two columns: things the law can compel a citizen to do, and things expected of good citizens but never forced. Which sorting is correct?",
+      "correctAnswer": "Duty: serving on a jury when summoned. Responsibility: voting in elections",
+      "distractors": [
+        "Duty: voting in elections. Responsibility: serving on a jury when summoned",
+        "Duty: joining a political party. Responsibility: paying taxes",
+        "Duty: attending town meetings. Responsibility: obeying traffic laws"
+      ],
+      "difficulty": "medium",
+      "explanation": "Duties are enforceable: obey the law, pay taxes, register for selective service, and appear for jury service - refusal carries legal penalties. Responsibilities like voting, staying informed, and community service are expected of good citizens but cannot be compelled; the distinction keeps civic virtue from becoming coercion.",
+      "memoryHook": "T-Rexy says: Duties can be enforced; responsibilities can only be encouraged - juries are the first kind, voting the second.",
+      "tags": [
+        "civic-duty",
+        "responsibilities"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_065",
+      "question": "An eighteen-year-old man receives notice that he must register with the Selective Service System. Registering is best classified as:",
+      "correctAnswer": "A legal duty of citizenship - failure to register carries federal penalties",
+      "distractors": [
+        "A voluntary civic responsibility like voting",
+        "Enlistment in the armed forces effective immediately",
+        "A state requirement administered by county clerks"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Military Selective Service Act requires registration within thirty days of the eighteenth birthday. Registration is not induction - no draft has operated since 1973 - but it keeps a standby roster, and non-registration can bring fines, prosecution, and loss of federal benefits.",
+      "memoryHook": "T-Rexy says: Registering is not enlisting; it is a standing legal duty with real penalties.",
+      "tags": [
+        "selective-service"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_066",
+      "question": "What is the primary function that distinguishes political parties from other organizations in American civic life?",
+      "correctAnswer": "Nominating candidates and organizing to win elections and control government",
+      "distractors": [
+        "Lobbying officeholders on a single issue for private clients",
+        "Administering elections and counting the ballots",
+        "Providing nonpartisan voter information guides"
+      ],
+      "difficulty": "medium",
+      "explanation": "Parties exist to capture governing power: they recruit and nominate candidates, build platforms, and mobilize voters. Interest groups pressure whoever governs; election officials administer the process; parties alone run slates of candidates under a shared label.",
+      "memoryHook": "T-Rexy says: Parties run candidates to govern; groups pressure whoever wins.",
+      "tags": [
+        "political-parties"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_067",
+      "question": "A newspaper obtains documents showing a mayor steered contracts to a relative's company. The mayor asks a court to block publication in advance, citing embarrassment to the city. Under the doctrine of Near v. Minnesota (1931), the court will almost certainly:",
+      "correctAnswer": "Refuse the block - prior restraint on publication is presumptively unconstitutional, and the press's watchdog role is central to the First Amendment",
+      "distractors": [
+        "Grant the block because government may preview critical stories",
+        "Allow publication only if the mayor's office approves the wording",
+        "Delay publication until after the next election to avoid influencing voters"
+      ],
+      "difficulty": "hard",
+      "explanation": "Prior restraint - government censorship before publication - is the First Amendment's gravest suspect; the Pentagon Papers case applied the same presumption against the federal government. Embarrassment and political damage are precisely the harms the watchdog press exists to inflict, so they cannot justify suppression.",
+      "memoryHook": "T-Rexy says: Censor first, argue later is backwards - publication comes first under Near.",
+      "tags": [
+        "press",
+        "watchdog"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_068",
+      "question": "Angry about a federal statute, citizens collect twenty million signatures demanding the law be repealed by an immediate national popular vote. The effort cannot succeed as designed because:",
+      "correctAnswer": "The U.S. Constitution provides no national initiative or referendum - federal law changes only through Congress or constitutional amendment",
+      "distractors": [
+        "The petition needed fifty million signatures to take effect",
+        "National referendums require the chief justice's permission",
+        "The president may call a referendum only during a declared war"
+      ],
+      "difficulty": "hard",
+      "explanation": "Direct-democracy devices flourish in state constitutions - Colorado's included - but the federal system is purely representative: lawmaking runs through Congress and the president, and constitutional change through Article V. A giant petition is protected political speech and powerful pressure, but it repeals nothing by itself.",
+      "memoryHook": "T-Rexy says: Twenty million signatures persuade Congress; they cannot replace it.",
+      "tags": [
+        "direct-democracy",
+        "federal-limits"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_069",
+      "question": "Two organizations work on the same policy fight: one endorses a slate of candidates, raises money for their campaigns, and drafts the platform they run on; the other hires lobbyists, files court briefs, and publishes research aimed at whoever wins. The first group is a political party and the second is best called:",
+      "correctAnswer": "An interest group - it seeks to influence policy without itself running candidates for office",
+      "distractors": [
+        "A federal agency exercising delegated authority",
+        "A political action committee of the legislature",
+        "A third political party operating under a different label"
+      ],
+      "difficulty": "hard",
+      "explanation": "The line between parties and interest groups is the ballot: parties nominate and run candidates under their own name; interest groups - unions, industry associations, advocacy nonprofits - influence officeholders from outside, across party lines when useful. Both are protected by the First Amendment's speech, assembly, and petition clauses.",
+      "memoryHook": "T-Rexy says: Parties seek the seats; interest groups seek the ear of whoever sits.",
+      "tags": [
+        "interest-groups",
+        "parties"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_070",
+      "question": "Political scientists note that voting is the most common form of political participation in the United States, yet they still urge attention to citizens who almost never vote. The structural concern is that:",
+      "correctAnswer": "Government tends to respond most to the people who participate, so persistent nonvoters' interests can be systematically underrepresented",
+      "distractors": [
+        "Nonvoters lose their citizenship after two missed elections",
+        "Elections are invalid unless turnout exceeds fifty percent",
+        "Voting is legally mandatory for all citizens over twenty-one"
+      ],
+      "difficulty": "medium",
+      "explanation": "No turnout threshold validates an American election, and nonvoting costs no rights. The concern is subtler: officials rationally court likely voters - older, wealthier, more educated on average - so chronic abstention quietly skews whose problems get solved.",
+      "memoryHook": "T-Rexy says: No one loses rights for staying home - but staying home still tilts who gets heard.",
+      "tags": [
+        "participation",
+        "voting"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_071",
+      "question": "Colorado entered the Union on August 1, 1876 - one hundred years after American independence - which explains which state nickname?",
+      "correctAnswer": "The Centennial State",
+      "distractors": [
+        "The Mile High State",
+        "The Natural State",
+        "The Sunshine State"
+      ],
+      "difficulty": "easy",
+      "explanation": "President Ulysses S. Grant's proclamation admitted Colorado as the thirty-eighth state in the centennial year of 1876. The nickname records the coincidence; 'Mile High' describes Denver's elevation, a separate claim to fame.",
+      "memoryHook": "T-Rexy says: Admitted in the nation's 100th year - Colorado is the Centennial State.",
+      "tags": [
+        "statehood",
+        "1876"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_072",
+      "question": "The seat of Colorado's state government - home to the General Assembly, the governor's office, and the Colorado Supreme Court - is which city?",
+      "correctAnswer": "Denver",
+      "distractors": [
+        "Colorado Springs",
+        "Boulder",
+        "Aspen"
+      ],
+      "difficulty": "easy",
+      "explanation": "Denver has been the permanent capital since voters chose it in an 1881 statewide election, after the territorial capital moved among Colorado City, Golden, and Denver. The gold-domed capitol sits at exactly 5,280 feet - one mile - above sea level on its thirteenth step marker.",
+      "memoryHook": "T-Rexy says: Denver governs and Denver measures a mile high - capital since the 1881 vote.",
+      "tags": [
+        "capital",
+        "denver"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_073",
+      "question": "A student taking Colorado's graduation civics course is asked where the state's own bill of rights appears in the Colorado Constitution. The correct answer is:",
+      "correctAnswer": "Article II of the Colorado Constitution",
+      "distractors": [
+        "Article V of the Colorado Constitution",
+        "The preamble to the Colorado Constitution",
+        "Article X, the taxation article"
+      ],
+      "difficulty": "easy",
+      "explanation": "Section 22-1-104(1)(b) of Colorado law expressly requires the civics course to teach 'the state bill of rights in article II of the state constitution.' Article II - titled simply 'Bill of Rights' - opens with inalienable rights and runs through due process and other guarantees, paralleling the federal Bill of Rights the same course covers.",
+      "memoryHook": "T-Rexy says: Article II - Colorado keeps its bill of rights up front, like the federal first ten in spirit.",
+      "tags": [
+        "article-ii",
+        "colorado-bill-of-rights"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_074",
+      "question": "Colorado law requires the graduation civics course to teach how the Colorado Constitution 'establishes the state government and its relationship to local governments.' Which statement best captures that structure?",
+      "correctAnswer": "The constitution creates a governor, a bicameral General Assembly, and a state judiciary, while counties and municipalities exercise local authority under powers the state framework grants or reserves to them",
+      "distractors": [
+        "Local governments are sovereign nations in a compact with the state",
+        "The constitution creates only a governor; the legislature and courts are federal creations",
+        "Colorado has no local governments below the state level"
+      ],
+      "difficulty": "medium",
+      "explanation": "Adopted in 1876, the Colorado Constitution mirrors the federal three-branch design at state scale and then does work the U.S. Constitution does not: it organizes counties, enables home-rule cities, and distributes authority downward. That state-to-local blueprint is exactly the content section 22-1-104 names.",
+      "memoryHook": "T-Rexy says: Three state branches on top, counties and cities organized beneath - one constitutional blueprint.",
+      "tags": [
+        "colorado-constitution",
+        "structure"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_075",
+      "question": "Section 3 of Article II declares that all persons have 'certain natural, essential and inalienable rights' - among them enjoying and defending life and liberty, acquiring and protecting property, and seeking and obtaining safety and happiness. Compared with the U.S. Declaration of Independence, this language is notable because Colorado:",
+      "correctAnswer": "Wrote the natural-rights philosophy directly into its enforceable constitution, rather than leaving it in a founding declaration",
+      "distractors": [
+        "Copied the federal Bill of Rights word for word with no additions",
+        "Grants these rights only to persons born in Colorado",
+        "Makes the listed rights immune to court enforcement"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Declaration of Independence states a philosophy but is not itself enforceable law. Colorado's framers placed similar rights language in Article II, Section 3 of an operative constitution - text citizens can actually invoke in Colorado courts. The list is expressly non-exhaustive: 'among which may be reckoned' signals more rights than the ones named.",
+      "memoryHook": "T-Rexy says: Philosophy in the Declaration, enforceable text in Article II - Colorado wrote it into law.",
+      "tags": [
+        "article-ii",
+        "inalienable-rights"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_076",
+      "question": "A Colorado city adopts its own charter and then sets its own rules for electing its council and structuring its departments, even though general state law arranges those matters differently for most towns. The city is exercising:",
+      "correctAnswer": "Home-rule authority under Article XX of the Colorado Constitution, which lets qualifying municipalities govern local and municipal matters through their own charters",
+      "distractors": [
+        "Federal preemption over state municipal law",
+        "The initiative power reserved to state voters",
+        "Authority borrowed from the neighboring county government"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article XX, adopted after Denver's turn-of-the-century fight for self-government, lets municipalities frame charters and control matters of local concern - in genuine conflicts over purely local affairs, a home-rule charter can prevail over a general state statute. Matters of statewide concern remain the General Assembly's. The line between the two categories fills Colorado casebooks.",
+      "memoryHook": "T-Rexy says: Home rule: the city's own charter runs local affairs - Article XX is the key.",
+      "tags": [
+        "home-rule",
+        "local-government"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_077",
+      "question": "A search practice by Colorado police would be allowed under the U.S. Supreme Court's reading of the Fourth Amendment, but a defendant argues Article II of the Colorado Constitution forbids it. The Colorado Supreme Court may lawfully:",
+      "correctAnswer": "Rule for the defendant - Colorado courts may interpret Article II to protect individual rights beyond the federal floor",
+      "distractors": [
+        "Never rule for the defendant - state constitutions may not exceed federal protections",
+        "Only ask the U.S. Supreme Court to change its Fourth Amendment ruling",
+        "Apply Article II solely to disputes between private businesses"
+      ],
+      "difficulty": "hard",
+      "explanation": "The federal Bill of Rights sets a floor, not a ceiling, for liberty. State courts routinely rest decisions on their own constitutions - Michigan v. Long requires them to say so plainly - and Colorado's Article II, Section 7 (searches and seizures) has at times been read more protectively than its federal twin. The state may never go below the federal floor, only above it.",
+      "memoryHook": "T-Rexy says: Federal rights are the floor; Article II can build a higher ceiling of protection.",
+      "tags": [
+        "article-ii",
+        "independent-interpretation"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_078",
+      "question": "Colorado's legislature, the General Assembly, consists of:",
+      "correctAnswer": "A 35-member Senate and a 65-member House of Representatives - 100 legislators in all",
+      "distractors": [
+        "A 65-member Senate and a 35-member House of Representatives",
+        "A single unicameral chamber of 100 members",
+        "A 30-member Senate and a 70-member House of Representatives"
+      ],
+      "difficulty": "easy",
+      "explanation": "The numbers reward a second look: the smaller chamber (Senate, 35) holds the longer four-year terms, while the larger House (65) faces voters every two years - the same large-frequent / small-stable pattern as Congress. The General Assembly convenes each January in Denver for a 120-day regular session.",
+      "memoryHook": "T-Rexy says: Thirty-five senators plus sixty-five representatives make Colorado's hundred.",
+      "tags": [
+        "general-assembly",
+        "structure"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_079",
+      "question": "A popular Colorado state representative is finishing her eighth consecutive year in the House, and a popular senator his eighth consecutive year in the Senate. Under Colorado's constitutional term limits, both must:",
+      "correctAnswer": "Leave their current chamber - state legislators are limited to eight consecutive years in each chamber",
+      "distractors": [
+        "Retire permanently from all public office",
+        "Switch immediately to the other chamber at the next election or resign",
+        "Serve until age seventy, when limits begin"
+      ],
+      "difficulty": "medium",
+      "explanation": "Voters added term limits to the Colorado Constitution in 1990: four consecutive two-year House terms or two consecutive four-year Senate terms. The clock is per-chamber and consecutive - a termed-out House member may run for the Senate at the next election, and a break in service resets eligibility.",
+      "memoryHook": "T-Rexy says: Eight straight years per chamber, then out - Colorado's 1990 voter-imposed limit.",
+      "tags": [
+        "term-limits",
+        "general-assembly"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_080",
+      "question": "A bill has passed the Colorado House and Senate. The governor vetoes it while the General Assembly is still in session. The bill can still become Colorado law if:",
+      "correctAnswer": "Two-thirds of the members of each house vote to override the veto",
+      "distractors": [
+        "A majority of Colorado voters sign a petition within thirty days",
+        "The Colorado Supreme Court finds the veto unreasonable",
+        "The lieutenant governor signs the bill in the governor's place"
+      ],
+      "difficulty": "medium",
+      "explanation": "Colorado's override rule mirrors the federal one: two-thirds of each chamber, counted against the membership. One Colorado difference is timing - bills the governor neither signs nor vetoes within ten days during session (thirty days after adjournment) become law without a signature.",
+      "memoryHook": "T-Rexy says: Colorado copies the federal recipe: two-thirds of both houses beats a veto.",
+      "tags": [
+        "lawmaking",
+        "governor-veto"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_081",
+      "question": "Colorado's governor is elected statewide to a term of how long, and what is the consecutive-term limit?",
+      "correctAnswer": "Four-year terms, limited to two consecutive terms",
+      "distractors": [
+        "Two-year terms, with no term limit",
+        "Four-year terms, limited to one term only",
+        "Six-year terms, limited to two consecutive terms"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article IV of the Colorado Constitution sets four-year terms for the governor and the other elected executive officers, and a constitutional limit bars a third consecutive term - a governor who sits out a term may run again. The same ballot elects the lieutenant governor jointly with the governor.",
+      "memoryHook": "T-Rexy says: Four years at a time, two in a row at most - then at least one term on the bench.",
+      "tags": [
+        "governor",
+        "terms"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_082",
+      "question": "The General Assembly sends the governor a long appropriations bill funding dozens of agencies. The governor approves the bill overall but strikes out funding for two individual programs. This power, which U.S. presidents do not possess, is:",
+      "correctAnswer": "The line-item veto - Colorado's governor may disapprove individual items in appropriation bills",
+      "distractors": [
+        "A pocket veto exercised after adjournment",
+        "An amendatory veto rewriting the bill's text",
+        "Judicial review performed by the executive branch"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article IV of the Colorado Constitution grants the governor the item veto over appropriations, letting the governor excise single spending lines while signing the rest. The U.S. Supreme Court struck down a federal line-item veto statute in Clinton v. City of New York (1998) - one reason the power exists in Denver but not Washington.",
+      "memoryHook": "T-Rexy says: Colorado's governor can cross out single spending lines; the president cannot.",
+      "tags": [
+        "governor",
+        "line-item-veto"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_083",
+      "question": "A Colorado voter asks who runs the state's elections and who serves as the state's chief legal officer. The correct pairing is:",
+      "correctAnswer": "The secretary of state administers elections; the attorney general is the state's chief legal officer and lawyer",
+      "distractors": [
+        "The treasurer administers elections; the secretary of state is chief legal officer",
+        "The attorney general administers elections; the governor is chief legal officer",
+        "The lieutenant governor performs both roles"
+      ],
+      "difficulty": "medium",
+      "explanation": "Colorado elects its executive branch in pieces rather than as one team: governor and lieutenant governor jointly, plus a separately elected secretary of state (elections and business filings), attorney general (the state's lawyer and consumer-protection chief), and treasurer (custodian of state funds) - each on four-year terms. Divided executive elections mean these officers can come from different parties.",
+      "memoryHook": "T-Rexy says: Elections: secretary of state. State's lawyer: attorney general. Both elected, both four-year terms.",
+      "tags": [
+        "executive-branch",
+        "elected-officials"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_084",
+      "question": "A vacancy opens on the Colorado Supreme Court. Under Colorado's merit-selection system, the vacancy is filled by:",
+      "correctAnswer": "The governor choosing from a short list of nominees screened by a judicial nominating commission; the justice later faces retention elections",
+      "distractors": [
+        "A partisan election between candidates nominated by the political parties",
+        "Appointment by the chief justice with confirmation by the Senate",
+        "Promotion of the longest-serving district judge in the state"
+      ],
+      "difficulty": "hard",
+      "explanation": "Colorado adopted merit selection by constitutional amendment in 1966, replacing contested judicial elections: bipartisan nominating commissions vet applicants, the governor appoints from the commission's list (two or three names for appellate courts), and the appointed justice serves a provisional two years before voters decide retention. The design trades campaign politics for screening plus a periodic public verdict.",
+      "memoryHook": "T-Rexy says: Commission screens, governor picks, voters later judge - merit selection's three steps.",
+      "tags": [
+        "judiciary",
+        "merit-selection"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_085",
+      "question": "A Colorado Supreme Court justice reaches the end of a term after writing several controversial opinions. On the November ballot, voters will not see opposing candidates for her seat. Instead they will see:",
+      "correctAnswer": "A retention question - 'Shall Justice ___ be retained in office?' - requiring a majority of yes votes for her to serve another ten-year term",
+      "distractors": [
+        "A recall petition signature count certified by the secretary of state",
+        "A runoff between the justice and the attorney general",
+        "Nothing - Colorado justices are appointed for life once selected"
+      ],
+      "difficulty": "hard",
+      "explanation": "Retention elections are the accountability half of merit selection: no opponent, no campaign against a rival - just an up-or-down judgment on the incumbent, informed by published judicial performance evaluations. State supreme court justices serve ten-year terms after their initial provisional two years; a 'no' majority creates a vacancy the merit process fills again.",
+      "memoryHook": "T-Rexy says: No rival on the ballot, just yes or no - retention is a verdict, not a contest.",
+      "tags": [
+        "judiciary",
+        "retention-elections"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_086",
+      "question": "In December 2023, the Colorado Supreme Court ruled 4-3 that a former president who had engaged in insurrection was disqualified from Colorado's presidential primary ballot under Section 3 of the Fourteenth Amendment. Within months, the episode ended when:",
+      "correctAnswer": "The U.S. Supreme Court reversed, holding that states may not enforce Section 3 against candidates for federal office - that power rests with Congress",
+      "distractors": [
+        "The Colorado court voluntarily withdrew its ruling after a recount",
+        "Colorado voters repealed Section 3 by initiative",
+        "The General Assembly removed the justices who joined the ruling"
+      ],
+      "difficulty": "hard",
+      "explanation": "Anderson v. Griswold was the first ruling in American history to bar a presidential candidate under the insurrection clause. The U.S. Supreme Court's unanimous per curiam reversal in Trump v. Anderson (March 2024) held that the Fourteenth Amendment assigns enforcement against federal officeholders to Congress under Section 5 - leaving state disqualification power intact only for state offices.",
+      "memoryHook": "T-Rexy says: Colorado's court barred; the U.S. court reversed: Section 3 enforcement over federal candidates belongs to Congress.",
+      "tags": [
+        "colorado-supreme-court",
+        "anderson"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_087",
+      "question": "In 1992 Colorado voters adopted Amendment 2, which barred cities from protecting gay and lesbian residents against discrimination. The amendment's fate teaches which lesson about direct democracy in Colorado?",
+      "correctAnswer": "Even a voter-approved constitutional amendment must obey the U.S. Constitution - the U.S. Supreme Court struck Amendment 2 down in Romer v. Evans (1996)",
+      "distractors": [
+        "Voter-approved amendments outrank the federal Constitution",
+        "The amendment survived because courts cannot review ballot measures",
+        "The General Assembly repealed it the following session"
+      ],
+      "difficulty": "medium",
+      "explanation": "Colorado's own courts first enjoined Amendment 2, and the U.S. Supreme Court then invalidated it under the Equal Protection Clause, finding it rested on animus rather than any legitimate state interest. The case is the civics course's built-in proof that initiative power, however direct, stops at the federal constitutional floor.",
+      "memoryHook": "T-Rexy says: The people can amend almost anything in Colorado - except past the U.S. Constitution.",
+      "tags": [
+        "amendment-2",
+        "romer"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_088",
+      "question": "Under Colorado's initiative process, a group of ordinary citizens who want a new state law can:",
+      "correctAnswer": "Draft the law themselves, gather the required petition signatures, and place it directly before the voters at an election",
+      "distractors": [
+        "Ask the governor to enact it by executive order after a petition",
+        "File it with the Colorado Supreme Court for approval",
+        "Persuade any single state senator to declare it law"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article V, Section 1 of the Colorado Constitution reserves the initiative power to the people - legislation without the legislature. Proponents clear a title-setting process, gather signatures equal to five percent of the votes cast for secretary of state at the last general election, and the measure goes on the ballot.",
+      "memoryHook": "T-Rexy says: Citizens draft it, sign for it, vote on it - the legislature is optional in an initiative.",
+      "tags": [
+        "initiative",
+        "direct-democracy"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_089",
+      "question": "Proponents qualify a statutory initiative for the Colorado ballot with signatures equal to five percent of the votes cast for secretary of state at the previous general election. If it passes with a simple majority, an important limit on the General Assembly is that it:",
+      "correctAnswer": "May later amend or repeal the voter-passed statute by ordinary legislation, unlike a constitutional amendment, which only voters can change",
+      "distractors": [
+        "May never touch the measure in any way",
+        "Must wait fifty years before considering the subject",
+        "Can repeal it only by a unanimous vote of both houses"
+      ],
+      "difficulty": "medium",
+      "explanation": "Initiated statutes sit on the same legal shelf as legislative statutes - majority-approved, majority-amendable. Initiated constitutional amendments are the entrenched kind: the legislature cannot revise a word, which is exactly why Colorado's constitution has grown so long and detailed since 1876.",
+      "memoryHook": "T-Rexy says: A statute voters pass, lawmakers can amend; a constitutional amendment, only voters can.",
+      "tags": [
+        "initiative",
+        "signatures"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_090",
+      "question": "Since voters adopted Amendment 71 in 2016, a new amendment to the Colorado Constitution faces two hurdles that initiated statutes do not. Those hurdles are:",
+      "correctAnswer": "Petition signatures must include at least two percent of registered voters from each of Colorado's 35 state senate districts, and the amendment needs fifty-five percent of the vote - not a simple majority - to pass",
+      "distractors": [
+        "Signatures from all sixty-four counties and a two-thirds vote to pass",
+        "Approval by the governor and by the Colorado Supreme Court",
+        "A five-year waiting period and ratification by the General Assembly"
+      ],
+      "difficulty": "hard",
+      "explanation": "Amendment 71 - nicknamed 'Raise the Bar' - reacted to how easily the constitution had been amended compared with statutes. The geographic-signature rule forces statewide breadth for a campaign, and the fifty-five percent threshold applies to new constitutional amendments (measures referred by the legislature, and amendments that only repeal, are treated differently).",
+      "memoryHook": "T-Rexy says: Broader signatures, bigger majority: fifty-five percent and all thirty-five districts.",
+      "tags": [
+        "amendment-71",
+        "constitutional-amendments"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_091",
+      "question": "The General Assembly passes a controversial new law in May. Colorado citizens who oppose it can invoke the referendum power by:",
+      "correctAnswer": "Filing a petition within ninety days after the legislature adjourns, signed by five percent of the votes cast for secretary of state, to suspend the law until voters decide it at an election",
+      "distractors": [
+        "Asking the governor to hold a special election on the law",
+        "Suing the General Assembly in small claims court",
+        "Waiting for the next census and voting the sponsors out"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article V reserves the referendum alongside the initiative - the people's veto over fresh legislation. Two categories escape it: laws the legislature deems necessary for the immediate preservation of the public peace, health, or safety, and appropriation bills for the ordinary support of government. Everything else can be sent to the voters.",
+      "memoryHook": "T-Rexy says: Ninety days, five percent, law on hold - the referendum is the people's veto.",
+      "tags": [
+        "referendum"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_092",
+      "question": "A ballot question reaches Colorado voters after the General Assembly itself voted to send a proposed constitutional change to the people, with no citizen petition involved. A classmate calls it an initiative. The precise correction is:",
+      "correctAnswer": "It is a referred measure, not an initiative - the legislature referred it; initiatives originate with citizen petitions",
+      "distractors": [
+        "It is an initiative because all ballot questions are initiatives",
+        "It is a referendum because the legislature acted within ninety days",
+        "It is a recall of the General Assembly as a body"
+      ],
+      "difficulty": "hard",
+      "explanation": "Colorado ballots carry three distinct species of question: initiatives (citizen-drafted and citizen-petitioned), referred measures (placed on the ballot by the General Assembly, which must refer all constitutional amendments it proposes), and referendums (citizen petitions against a new law). Knowing who sent the question - voters or legislature - identifies which one it is.",
+      "memoryHook": "T-Rexy says: Ask who sent it to the ballot: citizens petitioning means initiative, legislature sending means referral.",
+      "tags": [
+        "referred-measure",
+        "initiative"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_093",
+      "question": "The recall power in Colorado allows voters to:",
+      "correctAnswer": "Remove an elected official from office before the term ends, by petition followed by a special election",
+      "distractors": [
+        "Force the governor to veto a bill the voters dislike",
+        "Appeal a court ruling to a statewide jury",
+        "Shorten the terms of all officials in an election year"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article XXI of the Colorado Constitution extends direct democracy from laws to officeholders: if enough voters sign, the official must face the electorate mid-term. The ballot asks first whether to recall, then who should succeed if the recall succeeds.",
+      "memoryHook": "T-Rexy says: Recall is the mid-term election voters can schedule themselves.",
+      "tags": [
+        "recall"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_094",
+      "question": "To force a recall election against a Colorado state official, petitions must carry signatures equal to at least what share of the votes cast for that office at the last election - and 2013 showed the power is real when:",
+      "correctAnswer": "Twenty-five percent; that year voters recalled two state senators, including the Senate president, over new gun laws - the first successful legislative recalls in state history",
+      "distractors": [
+        "Five percent; that year voters recalled the governor for the first time",
+        "Fifty percent; that year the entire General Assembly faced recall",
+        "Ten percent; that year voters recalled a Colorado Supreme Court justice"
+      ],
+      "difficulty": "medium",
+      "explanation": "The twenty-five percent threshold is deliberately steep - recalls are for genuine revolts, not rematches. In September 2013, Senate President John Morse of Colorado Springs and Senator Angela Giron of Pueblo were both removed after supporting post-Aurora and Sandy Hook gun legislation, proving Article XXI is a working tool, not a museum piece.",
+      "memoryHook": "T-Rexy says: One voter in four from the last election signs - and in 2013, two senators went home early.",
+      "tags": [
+        "recall",
+        "threshold"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_095",
+      "question": "Colorado's Taxpayer's Bill of Rights - TABOR, added to the state constitution by voters in 1992 - is famous for requiring governments in Colorado to get what before raising taxes?",
+      "correctAnswer": "Approval from the voters themselves at an election",
+      "distractors": [
+        "Permission from the governor's budget office",
+        "A ruling from the Colorado Supreme Court",
+        "Consent of the U.S. Treasury Department"
+      ],
+      "difficulty": "easy",
+      "explanation": "TABOR (Article X, Section 20) is the most consequential amendment in modern Colorado government: new taxes, tax-rate increases, and most debt require a public vote. Supporters prize the direct control; critics note it is why Colorado's constitution, not its legislature, hosts so much fiscal policy.",
+      "memoryHook": "T-Rexy says: In Colorado, tax hikes go to the ballot first - TABOR wrote the voters into the budget.",
+      "tags": [
+        "tabor"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_096",
+      "question": "In a strong economy, Colorado state revenue grows faster than TABOR's limit - generally the prior year's revenue adjusted for inflation plus population growth. Under TABOR, the state must generally:",
+      "correctAnswer": "Refund the excess revenue to taxpayers (or obtain voter approval to keep and spend it), rather than simply retaining the surplus",
+      "distractors": [
+        "Deposit all excess revenue in a permanent trust the voters may never touch",
+        "Transfer the excess to the federal government",
+        "Use the excess only to retire the governor's office expenses"
+      ],
+      "difficulty": "hard",
+      "explanation": "The refund mechanism is TABOR's engine: growth beyond inflation-plus-population does not belong to the state unless voters say so - in the 2005 Referendum C, voters did approve a five-year timeout from the cap. Surpluses within the limit are ordinary revenue; the rule bites only at the ceiling.",
+      "memoryHook": "T-Rexy says: Grow past inflation plus population and the extra goes back - unless voters vote to keep it.",
+      "tags": [
+        "tabor",
+        "revenue-limits"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_097",
+      "question": "Colorado's path to legal marijuana was built entirely through the initiative process. Which pairing is correct?",
+      "correctAnswer": "Amendment 20 (2000) legalized medical marijuana; Amendment 64 (2012) legalized recreational use and possession for adults twenty-one and older",
+      "distractors": [
+        "Amendment 64 (2000) legalized medical use; Amendment 20 (2012) legalized recreational use",
+        "Both changes were ordinary statutes passed by the General Assembly in 2014",
+        "Marijuana was legalized by a Colorado Supreme Court ruling in 2012"
+      ],
+      "difficulty": "medium",
+      "explanation": "Both measures amended Article XVIII of the state constitution by citizen initiative - medical first, then, in 2012, personal use for adults, making Colorado (with Washington, the same night) the first state to legalize recreational marijuana. The sequence is the standard classroom exhibit of initiatives building policy step by step.",
+      "memoryHook": "T-Rexy says: 2000 medical, 2012 recreational - two initiatives, twelve years apart.",
+      "tags": [
+        "marijuana-amendments"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_098",
+      "question": "Colorado's government-to-government relationship in state civics centers on the state's two federally recognized tribal nations headquartered within its borders. They are:",
+      "correctAnswer": "The Southern Ute Indian Tribe and the Ute Mountain Ute Tribe",
+      "distractors": [
+        "The Northern Arapaho Tribe and the Eastern Shoshone Tribe",
+        "The Navajo Nation and the Jicarilla Apache Nation",
+        "The Cheyenne and Arapaho Tribes of Oklahoma"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Southern Ute Indian Tribe (headquartered at Ignacio) and the Ute Mountain Ute Tribe (headquartered at Towaoc) hold reservations in southwestern Colorado. The 2022 Colorado Academic Standards and section 22-1-104's civics course expect students to study exactly this relationship; tribes like the Navajo Nation border Colorado but are headquartered in other states.",
+      "memoryHook": "T-Rexy says: Two tribal nations headquartered in Colorado: Southern Ute and Ute Mountain Ute.",
+      "tags": [
+        "tribal-governments",
+        "ute"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_099",
+      "question": "A Colorado state trooper wants to enforce a state regulation against a tribal citizen for conduct entirely on the Southern Ute Reservation. The tribal government objects that the state lacks authority there. The objection rests on the principle that:",
+      "correctAnswer": "Tribes are sovereign governments whose authority over their territory and citizens predates the United States; state power on reservations is limited, and the relationship runs government-to-government",
+      "distractors": [
+        "Reservations are counties of the state and must follow all state directives",
+        "Tribal governments are private associations with no governmental status",
+        "The state may act freely because the reservation lies within state borders"
+      ],
+      "difficulty": "hard",
+      "explanation": "Tribal sovereignty is inherent - retained, not granted by Washington - and the U.S. Supreme Court has treated tribes as distinct political communities since the 1830s. Colorado works with the Southern Ute and Ute Mountain Ute through the Colorado Commission of Indian Affairs and formal agreements, precisely because ordinary state jurisdiction does not simply extend onto the reservation.",
+      "memoryHook": "T-Rexy says: Sovereignty came first: the state's power stops where tribal self-government governs.",
+      "tags": [
+        "tribal-sovereignty",
+        "jurisdiction"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "COC12_100",
+      "question": "Both Colorado Ute tribes operate casinos on their reservations. The legal arrangement that makes this possible is best described as:",
+      "correctAnswer": "Tribal-state gaming compacts negotiated under the federal Indian Gaming Regulatory Act - agreements between sovereigns, not state licenses granted to businesses",
+      "distractors": [
+        "Ordinary state casino licenses issued by the Colorado Division of Gaming",
+        "A TABOR amendment authorizing tribal casinos by popular vote",
+        "County zoning variances for reservation entertainment venues"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Indian Gaming Regulatory Act (1988), passed after the Supreme Court's Cabazon decision affirmed tribal gaming rights, requires tribes and states to negotiate compacts for casino-style gaming in good faith. Colorado's compacts with the Southern Ute and Ute Mountain Ute tribes are government-to-government agreements - the compact form itself is a lesson in tribal sovereignty.",
+      "memoryHook": "T-Rexy says: A compact between sovereigns, not a license from the state - that is how tribal gaming is built.",
+      "tags": [
+        "tribal-governments",
+        "gaming-compacts"
+      ],
+      "imageUrl": "topic:colorado-civics",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

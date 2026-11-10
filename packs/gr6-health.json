@@ -1,11 +1,11 @@
 {
   "packId": "gr6-health",
   "title": "Health (6th Grade)",
-  "description": "Health (6th Grade) practice - 100 questions",
+  "description": "Health (6th Grade) practice - 109 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 100,
+  "totalQuestions": 109,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2010,6 +2010,186 @@
         "emotions"
       ],
       "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_101",
+      "question": "What does sexual abuse mean, in words a sixth grader can use?",
+      "correctAnswer": "Any sexual touching or sexual behavior toward a child by an adult or older person - it is always wrong and always the adult's fault",
+      "distractors": [
+        "A disagreement between two students that gets too loud",
+        "Being teased about your appearance more than once",
+        "Losing a game because another player broke a rule"
+      ],
+      "explanation": "Sexual abuse is when an adult or older person involves a child in sexual touching, pictures, or behavior. Children cannot agree to it, and it is never the child's fault. Missouri law (section 170.045) requires schools to teach students to recognize it.",
+      "memoryHook": "T-Rexy says: Abuse is the adult's fault - never the child's.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "personal-safety",
+        "sexual-abuse-prevention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_102",
+      "question": "An adult a student knows starts giving special gifts, asking to keep secrets from parents, and trying to be alone with the student. What are these behaviors called, and why do they matter?",
+      "correctAnswer": "Grooming: an abuser slowly builds trust and secrecy to make abuse easier - the pattern itself is a warning sign to report",
+      "distractors": [
+        "Mentoring: extra kindness that should never be questioned",
+        "Favoritism: unfair, but not something to tell anyone about",
+        "Friendship: adults and students can be close friends with secrets"
+      ],
+      "explanation": "Grooming is how many abusers prepare: special attention, gifts, secrets, and isolation. Noticing the pattern early - before any touching - and telling a trusted adult is one of the strongest protections a student has.",
+      "memoryHook": "T-Rexy says: Secrets plus special gifts plus alone time: that pattern is a warning.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "personal-safety",
+        "grooming"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_103",
+      "question": "Which parts of the body are private, using the rule taught in safety lessons?",
+      "correctAnswer": "The parts covered by a swimsuit are private - no one should touch or ask to see them except for real health or hygiene reasons with a safe adult",
+      "distractors": [
+        "Only the parts you cannot see in a mirror",
+        "Your hands and feet, because they touch other people",
+        "No parts are private once you turn twelve"
+      ],
+      "explanation": "The swimsuit rule is the simple test: those parts belong to you alone. A doctor may need to check them for health reasons, with a parent or trusted adult present - that is care, not abuse, and you can still ask questions about it.",
+      "memoryHook": "T-Rexy says: The swimsuit rule marks what is private.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "personal-safety",
+        "body-safety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_104",
+      "question": "Someone a sixth grader met in an online game asks for a photo and says, 'Do not tell your parents - this is just between us.' What is the safest response?",
+      "correctAnswer": "Stop, do not send anything, save the messages, and tell a trusted adult right away",
+      "distractors": [
+        "Send a photo but ask the person to promise to delete it",
+        "Keep chatting but refuse the photo, to be polite",
+        "Block the person quietly and never mention it to anyone"
+      ],
+      "explanation": "Requests for photos plus secrecy are grooming online. The safe move is to stop, keep the evidence, and tell a trusted adult; Missouri's training requirement covers online predation because abuse often starts on a screen, not in person.",
+      "memoryHook": "T-Rexy says: Photo plus secrecy online means stop and tell.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "personal-safety",
+        "online-safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_105",
+      "question": "If someone touches you in a way that is not okay, what are the safety steps in order?",
+      "correctAnswer": "Say no or get away if you can, then tell a trusted adult - and keep telling until someone believes you and helps",
+      "distractors": [
+        "Stay quiet so you do not get the person in trouble",
+        "Tell only a friend your own age, and let them handle it",
+        "Wait a few weeks to see if it happens again before telling"
+      ],
+      "explanation": "Missouri law requires schools to teach exactly this: how to report abuse. Tell a parent, teacher, counselor, or another trusted adult. If the first adult does not act, tell another - reporting again is not making trouble, it is how help arrives.",
+      "memoryHook": "T-Rexy says: Tell, and keep telling until you are believed.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "personal-safety",
+        "reporting"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_106",
+      "question": "A friend whispers that an adult has been touching her in ways that scare her, then begs you to promise never to tell anyone. What should you do?",
+      "correctAnswer": "Tell a trusted adult yourself - a safety secret is one promise you must break, because getting help matters more",
+      "distractors": [
+        "Keep the promise; breaking it would end the friendship",
+        "Confront the adult directly and warn him to stop",
+        "Wait until your friend feels ready to tell someone herself"
+      ],
+      "explanation": "Some secrets are unsafe to keep. Telling a trusted adult is not betrayal - it is how a victim gets assistance and intervention, which Missouri's law names as a core skill. The adult you tell can involve counselors and child-protection professionals.",
+      "memoryHook": "T-Rexy says: A safety secret is a promise you break to help.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "personal-safety",
+        "helping-others"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_107",
+      "question": "Which list gives real resources a Missouri student can use to get help about abuse, even without naming the abuser first?",
+      "correctAnswer": "A school counselor or nurse, a trusted teacher, the Children's Division hotline (1-800-392-3738), or a call or text to 988 for crisis support",
+      "distractors": [
+        "Only a lawyer the family hires privately",
+        "A social media post asking strangers for advice",
+        "There are no resources until a police report is filed"
+      ],
+      "explanation": "Help has many doors: school counselors and nurses, trusted teachers, Missouri's Children's Division child abuse hotline at 1-800-392-3738, and the 988 crisis line. A student can start with any of them - asking for help is not the same as filing a formal report.",
+      "memoryHook": "T-Rexy says: Many doors to help: counselor, hotline, 988.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "personal-safety",
+        "resources"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_108",
+      "question": "A classmate says a student who was abused 'should have just pushed him away and run, so it is partly her fault.' Why is that wrong?",
+      "correctAnswer": "Abuse is never the victim's fault: freezing or being unable to resist is a normal fear response, and the responsibility belongs entirely to the abuser",
+      "distractors": [
+        "It is wrong only because students should not discuss the topic at all",
+        "It is wrong because victims are always physically stronger than abusers",
+        "It is partly right, but the subject is too awkward to debate"
+      ],
+      "explanation": "Trauma-informed teaching is explicit on this point: children cannot consent, fear can freeze a person in place, and none of that shifts blame. The actions a victim can take - telling, seeking help, getting counseling - are about recovery, never about fault.",
+      "memoryHook": "T-Rexy says: Freezing is fear, not fault.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "personal-safety",
+        "victim-support"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA6_109",
+      "question": "An older student keeps hugging a sixth grader who has said she does not like it, laughing that 'it is just a joke.' What does consent say about this?",
+      "correctAnswer": "Touching without permission is not okay even as a joke: consent can be refused or taken back at any time, and 'stop' must be respected the first time",
+      "distractors": [
+        "It is fine because hugging is not dangerous",
+        "She must say no three times before it counts",
+        "Only adults can set boundaries about touching"
+      ],
+      "explanation": "Consent is permission that must be freely given and can be withdrawn. Missouri's health framework joins this block to the pack's existing consent lessons: your body belongs to you, jokes do not override a no, and bystanders can speak up too.",
+      "memoryHook": "T-Rexy says: A no counts the first time - jokes do not override it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "personal-safety",
+        "consent"
+      ],
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     }

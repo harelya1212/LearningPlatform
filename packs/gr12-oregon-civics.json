@@ -1,0 +1,2017 @@
+{
+  "packId": "gr12-oregon-civics",
+  "title": "Oregon Civics (12th Grade)",
+  "description": "Oregon Civics (12th Grade) practice - 100 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-09",
+  "tags": [
+    "oregon",
+    "civics",
+    "grade-12"
+  ],
+  "questions": [
+    {
+      "id": "ORC12_001",
+      "question": "A town's residents sign a petition, hold a vote, and replace their entire city council after a budget scandal. A civics teacher says the episode shows where governing authority ultimately rests. What is she pointing to?",
+      "correctAnswer": "The people themselves, who hold ultimate authority and lend power to government through elections",
+      "distractors": [
+        "A hereditary ruling family whose authority passes from one generation to the next",
+        "Federal judges, because they serve the longest terms of any officials",
+        "City staff, because they run daily operations after the council leaves"
+      ],
+      "difficulty": "easy",
+      "explanation": "Popular sovereignty means the people are the source of all government power. Elections, petitions, and recall votes are the tools by which citizens grant power to officials and withdraw it when officials lose public trust.",
+      "memoryHook": "T-Rexy says: Authority starts with voters, not with the officeholders they hire.",
+      "tags": [
+        "popular-sovereignty",
+        "foundations"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_002",
+      "question": "A student reads that certain rights exist before any government is created and cannot rightfully be taken away by a legislature. Which thinker's idea about natural rights is she describing, and which document echoed it most famously?",
+      "correctAnswer": "John Locke's natural rights, echoed in the Declaration of Independence's 'unalienable Rights'",
+      "distractors": [
+        "Thomas Hobbes's divine right of kings, echoed in the Articles of Confederation",
+        "Baron de Montesquieu's separation of powers, echoed in the Mayflower Compact",
+        "Jean-Jacques Rousseau's general will, echoed in the English Bill of Rights"
+      ],
+      "difficulty": "easy",
+      "explanation": "Locke argued that life, liberty, and property are natural rights government exists to protect. Jefferson adapted the idea in 1776, writing that all men are endowed with unalienable rights including life, liberty, and the pursuit of happiness.",
+      "memoryHook": "T-Rexy says: Locke lit the idea; the Declaration carried it across the Atlantic.",
+      "tags": [
+        "natural-rights",
+        "foundations"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_003",
+      "question": "Two neighbors disagree about why anyone should obey a stop sign on an empty road. One says drivers follow laws because they have agreed, in exchange for protection of their rights, to accept rules made by a government they help choose. Which theory is he using?",
+      "correctAnswer": "The social contract - people consent to be governed in return for protection of their rights",
+      "distractors": [
+        "The divine right theory - rulers receive authority directly from God",
+        "The force theory - the strongest group in a society imposes its will on everyone else",
+        "The evolutionary theory - government grows naturally out of the family unit alone"
+      ],
+      "difficulty": "easy",
+      "explanation": "Under social contract theory, developed by thinkers like Locke and Rousseau, free people agree to form a government and obey its laws in exchange for protection of their natural rights. If government breaks the bargain, the people's consent can be withdrawn.",
+      "memoryHook": "T-Rexy says: A contract is a two-way promise: obedience traded for protected rights.",
+      "tags": [
+        "social-contract",
+        "foundations"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_004",
+      "question": "A museum visitor asks why the Declaration of Independence spends so many lines listing complaints against King George III instead of simply announcing independence in one sentence. What was the list's purpose?",
+      "correctAnswer": "To justify the break to the world by showing the king had repeatedly violated the colonists' rights",
+      "distractors": [
+        "To ask Parliament to lower taxes while keeping the colonies inside the empire",
+        "To propose a new plan of union for the thirteen colonies under British supervision",
+        "To name the first officers of the Continental Army and set their ranks"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Declaration's grievances were evidence in an argument: because the king had committed repeated injuries aimed at establishing tyranny, the social contract was broken and the colonies were justified in dissolving their political ties. The list made the case to 'a candid world.'",
+      "memoryHook": "T-Rexy says: The grievance list is the evidence; independence is the verdict.",
+      "tags": [
+        "declaration-of-independence",
+        "founding-documents"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_005",
+      "question": "A mayor is caught speeding and pays the same fine as any other driver, after a judge rejects her lawyer's argument that elected officials are above traffic laws. Which principle did the judge defend?",
+      "correctAnswer": "Rule of law - no person, including government officials, is above the law",
+      "distractors": [
+        "Federalism - states may ignore national rules they dislike",
+        "Judicial review - courts may rewrite laws they consider unwise",
+        "Popular sovereignty - voters may excuse officials they personally like"
+      ],
+      "difficulty": "easy",
+      "explanation": "The rule of law means government and its officials are subject to the same laws as everyone else. It blocks arbitrary rule: authority must be exercised according to established law, not personal status or preference.",
+      "memoryHook": "T-Rexy says: The law sits above every chair in the room, even the mayor's.",
+      "tags": [
+        "rule-of-law",
+        "foundations"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_006",
+      "question": "A city council votes to ban all criticism of its members at public meetings, and a court strikes the rule down. The court explains that the council's power stops where a protected right begins. Which pair of ideas does the ruling combine?",
+      "correctAnswer": "Limited government and individual rights - government may act only within constitutional boundaries",
+      "distractors": [
+        "Unitary government and collective rights - central authority overrides local speech",
+        "Direct democracy and majority rights - the majority may silence any minority speaker",
+        "Separation of powers and patronage - each branch may punish critics of the others"
+      ],
+      "difficulty": "medium",
+      "explanation": "Limited government means officials may exercise only the powers granted to them, and the Constitution's rights protections mark boundaries government cannot cross. A rule punishing criticism crosses the First Amendment boundary, so it falls.",
+      "memoryHook": "T-Rexy says: Government power is a fenced yard; rights are the fence.",
+      "tags": [
+        "limited-government",
+        "foundations"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_007",
+      "question": "A flowchart shows three boxes: one writes a tax bill, one collects the tax, and one settles a dispute about how the tax applies. Which thinker is most associated with dividing government work this way, and why?",
+      "correctAnswer": "Montesquieu, who argued liberty survives when legislative, executive, and judicial powers are held by separate hands",
+      "distractors": [
+        "Locke, who argued all three powers should be merged in a single elected assembly",
+        "Hobbes, who argued an absolute ruler should hold every power without exception",
+        "Machiavelli, who argued courts should command armies to keep order"
+      ],
+      "difficulty": "easy",
+      "explanation": "In The Spirit of the Laws (1748), Montesquieu warned that liberty dies when the same hands make, enforce, and judge the laws. The Framers built his remedy into the Constitution's three separate branches.",
+      "memoryHook": "T-Rexy says: Three separate keys open three separate doors - that is the point.",
+      "tags": [
+        "separation-of-powers",
+        "foundations"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_008",
+      "question": "Congress passes a bill over a presidential veto, the President then directs agencies not to enforce parts of it, and a court orders enforcement to proceed. Which system is producing this tug-of-war?",
+      "correctAnswer": "Checks and balances - each branch holds tools to limit the other branches",
+      "distractors": [
+        "Federalism - power divided between national and state governments",
+        "Confederation - states retain final authority over national acts",
+        "Parliamentary supremacy - the legislature's word is final and unreviewable"
+      ],
+      "difficulty": "medium",
+      "explanation": "Checks and balances give each branch defensive tools: Congress can override a veto by two-thirds of both houses, the executive controls enforcement, and courts can order officials to follow the law. The friction is deliberate, designed to prevent any branch from dominating.",
+      "memoryHook": "T-Rexy says: Each branch holds a rope on the others - nobody pulls free.",
+      "tags": [
+        "checks-and-balances",
+        "foundations"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_009",
+      "question": "A student lists who issues her driver's license, who prints the money she pays for it, and who sets the speed limit on her street. She finds three different levels of government involved. Which constitutional system is she mapping?",
+      "correctAnswer": "Federalism - power divided and shared between a national government and state governments",
+      "distractors": [
+        "A unitary system - all authority flows from one central government",
+        "A confederation - states act as fully independent countries",
+        "An oligarchy - a small council controls every level of government"
+      ],
+      "difficulty": "easy",
+      "explanation": "Federalism divides power between the national government and the states, with local governments created by the states. Currency is a national power, licensing and traffic law are state powers, and each level acts directly on citizens.",
+      "memoryHook": "T-Rexy says: Two gears turning one machine: national and state, side by side.",
+      "tags": [
+        "federalism",
+        "foundations"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_010",
+      "question": "A county of two million people cannot gather everyone in one hall, so voters choose representatives who deliberate and vote on laws in their name, and who can be voted out at the next election. Which founding idea describes this arrangement?",
+      "correctAnswer": "Republicanism - citizens govern through elected representatives accountable to them",
+      "distractors": [
+        "Direct democracy - every citizen votes personally on every law",
+        "Monarchy - a single hereditary ruler governs for life",
+        "Plutocracy - offices are reserved for the wealthiest citizens"
+      ],
+      "difficulty": "medium",
+      "explanation": "A republic handles scale by representation: citizens elect officials to make laws on their behalf and hold them accountable at elections. It differs from direct democracy, where citizens vote on each measure themselves - though states like Oregon add direct-democracy tools on top of a republican frame.",
+      "memoryHook": "T-Rexy says: Too many voices for one room, so voters send voices they can replace.",
+      "tags": [
+        "republicanism",
+        "foundations"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_011",
+      "question": "A librarian shelving a civics text points out that the Constitution's main body is organized into seven numbered parts, each covering a different subject such as Congress, the presidency, and the courts. What are those seven parts called?",
+      "correctAnswer": "Articles - the Constitution has seven Articles laying out the structure of government",
+      "distractors": [
+        "Amendments - the Constitution has seven Amendments creating the branches",
+        "Clauses - the Constitution has seven Clauses listing citizens' duties",
+        "Sections of the Preamble - the Constitution has seven goals of government"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Constitution's body consists of seven Articles: Article I creates Congress, Article II the presidency, Article III the courts, and Articles IV-VII handle state relations, amendments, supremacy, and ratification. Changes added later are the 27 amendments.",
+      "memoryHook": "T-Rexy says: Seven Articles build the house; amendments renovate it.",
+      "tags": [
+        "constitution-structure",
+        "constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_012",
+      "question": "A state passes a law taxing federal military paychecks in a way the Constitution forbids, and a judge voids the state law even though it was popular locally. Which clause gives the judge that authority?",
+      "correctAnswer": "The Supremacy Clause - the Constitution and federal law are the supreme law of the land",
+      "distractors": [
+        "The Commerce Clause - Congress may regulate trade among the states",
+        "The Full Faith and Credit Clause - states honor other states' records",
+        "The Privileges and Immunities Clause - citizens keep rights when traveling"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article VI makes the Constitution, federal laws, and treaties the supreme law of the land, and state judges must follow them over conflicting state law. Popularity cannot save a state law that collides with the Constitution.",
+      "memoryHook": "T-Rexy says: When laws collide, the Constitution is the higher shelf.",
+      "tags": [
+        "supremacy-clause",
+        "constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_013",
+      "question": "A proposed constitutional amendment clears Congress and is sent to the states. A student claims it needs approval from a simple majority of states to take effect. What does Article V actually require?",
+      "correctAnswer": "Ratification by three-fourths of the states (38 of the 50 today)",
+      "distractors": [
+        "Ratification by two-thirds of the states (34 of the 50 today)",
+        "Ratification by all of the states without exception",
+        "Ratification by a national popular vote winning a simple majority"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article V sets two high bars: proposal by two-thirds of both houses of Congress (or a convention Congress calls on two-thirds of state applications), then ratification by three-fourths of the states - 38 of 50 today. The difficulty is intentional, keeping the Constitution stable.",
+      "memoryHook": "T-Rexy says: Two-thirds to propose, three-fourths to finish - both bars are high.",
+      "tags": [
+        "amendment-process",
+        "constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_014",
+      "question": "Article V offers two ways to ratify an amendment: by state legislatures, or by conventions in the states. Only one amendment in American history has ever used the convention route - the amendment that ended Prohibition. Which route was that, and which amendment used it?",
+      "correctAnswer": "Ratification by conventions in the states, used only for the Twenty-first Amendment",
+      "distractors": [
+        "Ratification by state legislatures, used for every amendment including the Twenty-first",
+        "Ratification by a national referendum, used only for the Twenty-first Amendment",
+        "Ratification by the Supreme Court, used only for the Twenty-first Amendment"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Twenty-first Amendment (1933), which repealed the Eighteenth, is the only amendment ratified by state conventions instead of state legislatures. Congress chose conventions so the question went to specially elected delegates rather than sitting legislators.",
+      "memoryHook": "T-Rexy says: One amendment took the convention road - the one that ended Prohibition.",
+      "tags": [
+        "amendment-process",
+        "constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_015",
+      "question": "Congress creates a national bank, and a state argues Congress has no such power because banking is never mentioned in the Constitution. In McCulloch v. Maryland (1819), how did the Supreme Court answer?",
+      "correctAnswer": "Congress may use means not forbidden by the Constitution to carry out its listed powers, under the Necessary and Proper Clause",
+      "distractors": [
+        "Congress may act only on powers named word for word in the Constitution",
+        "States may tax any federal institution operating inside their borders",
+        "Implied powers exist, but only for state governments, never for Congress"
+      ],
+      "difficulty": "hard",
+      "explanation": "Chief Justice Marshall held that a government entrusted with great powers - taxing, borrowing, regulating commerce - must be able to choose workable means to execute them. The Necessary and Proper Clause confirms those implied powers, and Maryland's tax on the bank was struck down as a threat to federal supremacy.",
+      "memoryHook": "T-Rexy says: Listed ends carry implied means - a bank can serve the taxing power.",
+      "tags": [
+        "necessary-and-proper",
+        "constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_016",
+      "question": "A governor argues that running public schools belongs to her state because education is not delegated to the federal government anywhere in the Constitution. Which amendment backs her claim?",
+      "correctAnswer": "The Tenth Amendment - powers not delegated to the United States are reserved to the states or the people",
+      "distractors": [
+        "The First Amendment - Congress shall make no law respecting education",
+        "The Fifth Amendment - no state shall deprive schools of due process",
+        "The Ninth Amendment - unlisted rights are retained by the people"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Tenth Amendment (1791) reserves to the states or the people all powers the Constitution neither delegates to the federal government nor denies to the states. Education is the classic reserved power, which is why states and local districts run the schools.",
+      "memoryHook": "T-Rexy says: Whatever the Constitution does not hand up stays down with states and people.",
+      "tags": [
+        "tenth-amendment",
+        "constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_017",
+      "question": "A couple marries in Oregon, then moves to Ohio, where a clerk claims their marriage certificate is meaningless paper because it was issued by another state. Which constitutional rule proves the clerk wrong?",
+      "correctAnswer": "The Full Faith and Credit Clause - each state must honor the public acts, records, and judicial proceedings of the other states",
+      "distractors": [
+        "The Supremacy Clause - federal law overrides the Ohio clerk's office rules",
+        "The Establishment Clause - government may not favor one state's ceremonies",
+        "The Contract Clause - states may not impair the obligation of contracts"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article IV, Section 1 requires every state to give full faith and credit to the acts, records, and court proceedings of every other state. Marriage certificates, driver's licenses, and court judgments therefore travel with citizens across state lines.",
+      "memoryHook": "T-Rexy says: Your papers stay valid when you cross a state line.",
+      "tags": [
+        "full-faith-and-credit",
+        "constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_018",
+      "question": "A man charged with robbery in Idaho flees to Montana, whose governor refuses to send him back, claiming Montana disapproves of Idaho's sentencing laws. Under the Constitution, what should happen?",
+      "correctAnswer": "Montana must extradite him - a state must return a person charged with a crime to the state where the crime was committed when that state demands it",
+      "distractors": [
+        "Montana may refuse, because each state's sentencing policy is its own business",
+        "The Supreme Court must first approve the transfer by a two-thirds vote",
+        "Idaho must try him in absentia and send Montana the verdict for enforcement"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article IV's Extradition Clause requires a state, on demand of the executive authority of the state from which a suspect fled, to deliver that person up for trial. One state's disagreement with another's laws is not a constitutional ground for refusal.",
+      "memoryHook": "T-Rexy says: Fleeing across a border moves the trial's location problem, not the trial.",
+      "tags": [
+        "extradition-interstate",
+        "constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_019",
+      "question": "A teacher asks why the first ten amendments were added to the Constitution so soon after ratification, when the original document already described a working government. What was their main purpose?",
+      "correctAnswer": "To protect individual liberties by placing specific limits on what the federal government may do",
+      "distractors": [
+        "To give the federal government new powers it had lacked under the Articles",
+        "To set the number of representatives each state sends to Congress",
+        "To abolish state governments and replace them with federal districts"
+      ],
+      "difficulty": "medium",
+      "explanation": "Anti-Federalists feared the new national government and demanded explicit protections as the price of ratification. The Bill of Rights (1791) answers by listing freedoms - speech, religion, due process, and more - that the federal government may not violate.",
+      "memoryHook": "T-Rexy says: The Bill of Rights is a shield list, added because people demanded one.",
+      "tags": [
+        "bill-of-rights",
+        "constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_020",
+      "question": "For most of the nation's first century, the Bill of Rights restricted only the federal government. A student asks how most of its protections came to bind state governments too. Which mechanism did the Supreme Court use?",
+      "correctAnswer": "Selective incorporation - applying Bill of Rights protections to the states case by case through the Fourteenth Amendment's Due Process Clause",
+      "distractors": [
+        "Total incorporation by statute - Congress passed a law in 1868 applying every protection at once",
+        "The Tenth Amendment - states voluntarily adopted the federal list word for word",
+        "Executive order - presidents directed state courts to follow the Bill of Rights"
+      ],
+      "difficulty": "hard",
+      "explanation": "In Barron v. Baltimore (1833) the Court held the Bill of Rights limited only the federal government. After the Fourteenth Amendment (1868), the Court gradually incorporated most protections against the states one case at a time - speech in Gitlow (1925), counsel in Gideon (1963), and so on.",
+      "memoryHook": "T-Rexy says: The Fourteenth Amendment became the bridge carrying rights to the states.",
+      "tags": [
+        "incorporation",
+        "constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_021",
+      "question": "A 30-year-old hospital nurse, a U.S. citizen for twelve years and a resident of her state, wants to run for the U.S. House of Representatives. Does she meet the constitutional qualifications?",
+      "correctAnswer": "Yes - House members must be at least 25, citizens for at least 7 years, and residents of the state they represent",
+      "distractors": [
+        "No - House members must be at least 30 and citizens for at least 9 years",
+        "No - House members must own property in the district they represent",
+        "Yes, but only if she has previously served in her state legislature"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I sets three House qualifications: at least 25 years old, a U.S. citizen for at least 7 years, and an inhabitant of the state represented when elected. The nurse clears all three with room to spare.",
+      "memoryHook": "T-Rexy says: House door opens at 25 and 7 - Senate door waits for 30 and 9.",
+      "tags": [
+        "house-of-representatives",
+        "legislative-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_022",
+      "question": "Wyoming and California, states of vastly different populations, each send the same number of senators to Washington. A student calls this unfair; a teacher calls it deliberate. Which compromise and principle explain the design?",
+      "correctAnswer": "The Connecticut Compromise - equal state representation in the Senate balances proportional representation in the House",
+      "distractors": [
+        "The Three-Fifths Compromise - representation counted enslaved persons partially",
+        "The Missouri Compromise - Senate seats rotate between free and slave states",
+        "The Electoral Compromise - senators are chosen by state legislatures in pairs"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Great (Connecticut) Compromise of 1787 joined the Virginia Plan's proportional House with the New Jersey Plan's equal Senate. Small states accepted the Constitution partly because the Senate guarantees every state two seats and an equal voice.",
+      "memoryHook": "T-Rexy says: Big state, small state - two Senate chairs each, by design.",
+      "tags": [
+        "senate",
+        "legislative-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_023",
+      "question": "After each census, some states gain House seats and others lose them, while the Senate never changes size. What process moves the seats, and what data drives it?",
+      "correctAnswer": "Reapportionment - the 435 House seats are redistributed among the states based on each state's population in the decennial census",
+      "distractors": [
+        "Redistricting - state legislatures redraw Senate seats based on county lines",
+        "Gerrymandering - courts assign extra seats to states with close elections",
+        "Reapportionment - seats are assigned by each state's land area from the census"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I requires a census every ten years, and the House's 435 seats are reapportioned among states by population afterward. States then redraw district lines (redistricting) for the seats they hold; Senate membership stays at two per state regardless of population.",
+      "memoryHook": "T-Rexy says: Every ten years the census recounts people, and House seats follow people.",
+      "tags": [
+        "census-apportionment",
+        "legislative-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_024",
+      "question": "A bill passes the House in one form and the Senate in a noticeably different form. Supporters in both chambers want it to become law quickly. What must happen before it can go to the President?",
+      "correctAnswer": "Both chambers must agree on one identical text, usually worked out by a conference committee whose report both chambers then approve",
+      "distractors": [
+        "The Senate version automatically wins because the Senate is the upper house",
+        "The President chooses which version to sign, and the other is discarded",
+        "The bill returns to its author, who picks the final wording alone"
+      ],
+      "difficulty": "medium",
+      "explanation": "A bill can be presented to the President only after both houses pass the same text. When versions differ, a conference committee of House and Senate members negotiates a compromise, and both chambers must approve that report without changes.",
+      "memoryHook": "T-Rexy says: Two drafts go into the conference room; one identical text comes out.",
+      "tags": [
+        "bill-process",
+        "legislative-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_025",
+      "question": "A president vetoes a popular infrastructure bill. In the House, 290 of 435 members vote to override; in the Senate, 66 of 100 do. What is the bill's fate?",
+      "correctAnswer": "The veto stands - an override needs two-thirds of both houses, and 66 Senate votes fall one short of the 67 required",
+      "distractors": [
+        "The bill becomes law - the House's two-thirds vote alone is enough to override",
+        "The bill becomes law - a combined majority across both chambers overrides",
+        "The bill goes to the Supreme Court, which decides whether the veto was wise"
+      ],
+      "difficulty": "hard",
+      "explanation": "Overriding a veto requires two-thirds of the members present in each chamber separately. Two-thirds of 100 senators is 67, so 66 votes lose by one - a deliberately high bar that makes most vetoes final.",
+      "memoryHook": "T-Rexy says: Sixty-six is a crowd, but the override bar sits at sixty-seven.",
+      "tags": [
+        "veto-override",
+        "legislative-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_026",
+      "question": "A federal judge is accused of taking bribes. The House votes by simple majority to charge her, and the case moves across the Capitol. Who tries the case, what vote convicts, and who presides if the accused were the President instead?",
+      "correctAnswer": "The Senate tries the case and convicts by two-thirds; for a president, the Chief Justice presides over the trial",
+      "distractors": [
+        "The Supreme Court tries the case and convicts by a majority of justices",
+        "The Senate tries the case and convicts by simple majority; the Vice President presides for a president",
+        "A joint session of Congress tries the case and convicts by three-fourths"
+      ],
+      "difficulty": "hard",
+      "explanation": "Impeachment splits the job: the House impeaches by majority vote, and the Senate conducts the trial, convicting only on two-thirds. When the President is tried, the Chief Justice presides - a safeguard because the Vice President, who normally presides over the Senate, would inherit the office.",
+      "memoryHook": "T-Rexy says: The House charges, the Senate tries, and two-thirds removes.",
+      "tags": [
+        "impeachment",
+        "legislative-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_027",
+      "question": "A senator wants to introduce a bill raising the federal income tax. A parliamentarian stops her and sends the idea across the Capitol first. Why?",
+      "correctAnswer": "The Origination Clause requires bills for raising revenue to begin in the House of Representatives",
+      "distractors": [
+        "Tax bills must begin in the Senate because senators serve longer terms",
+        "Tax bills must be written by the Treasury Department before Congress sees them",
+        "Tax bills must begin as ballot measures voted on by the public"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I, Section 7 provides that all bills for raising revenue originate in the House - the chamber closest to the people and facing election every two years. The Senate may still amend such bills, as it may amend other House bills.",
+      "memoryHook": "T-Rexy says: Money bills start in the people's house, the one facing voters every two years.",
+      "tags": [
+        "revenue-bills",
+        "legislative-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_028",
+      "question": "A president nominates an ambassador and negotiates a treaty with a foreign nation. Both actions stall until one specific body acts. Which body, and what vote does the treaty need?",
+      "correctAnswer": "The Senate - treaties require approval by two-thirds of the senators present",
+      "distractors": [
+        "The House - treaties require approval by two-thirds of representatives",
+        "The Supreme Court - treaties require approval by a majority of justices",
+        "The cabinet - treaties require approval by a majority of department heads"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Senate's advice-and-consent role covers both appointments and treaties. Ambassadors and judges are confirmed by majority vote, but treaties face the higher bar of two-thirds of senators present - which is why presidents sometimes use executive agreements instead.",
+      "memoryHook": "T-Rexy says: One chamber holds both the confirmation key and the treaty key: the Senate.",
+      "tags": [
+        "advice-and-consent",
+        "legislative-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_029",
+      "question": "Congress sets national rules for trucking companies whose routes cross many state lines, but a state claims the same power over a farmer who grows feed only for his own animals and never sells anything across a border. Which case most directly supports Congress reaching even the farmer's activity?",
+      "correctAnswer": "Wickard v. Filburn (1942) - Congress may regulate local activity that, in the aggregate, substantially affects interstate commerce",
+      "distractors": [
+        "Marbury v. Madison (1803) - courts may strike down laws that conflict with the Constitution",
+        "Gibbons v. Ogden (1824) - it concerned only steamboats and has no bearing on farming at all",
+        "United States v. Lopez (1995) - Congress's commerce power has no enforceable limits"
+      ],
+      "difficulty": "hard",
+      "explanation": "In Wickard, the Court upheld wheat quotas against a farmer growing for his own use because thousands of such farmers together substantially affect the national wheat market. The aggregation principle marks the modern high-water line of the Commerce Clause, later trimmed at the edges by cases like Lopez.",
+      "memoryHook": "T-Rexy says: One farmer's wheat is small; a million farmers' wheat moves a market.",
+      "tags": [
+        "commerce-clause",
+        "legislative-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_030",
+      "question": "A House committee investigating a failed weapons program subpoenas the Defense Secretary to testify and produce documents, over the Secretary's objection that Congress has no right to supervise the executive branch. On what ground does the committee stand?",
+      "correctAnswer": "Congress's implied oversight power - legislating responsibly requires investigating how laws are carried out and how funds are spent",
+      "distractors": [
+        "The Speech or Debate Clause - members of Congress may compel any testimony they wish",
+        "The Tenth Amendment - investigatory power is reserved to Congress alone",
+        "The President's pardon power - Congress borrows it when investigating"
+      ],
+      "difficulty": "hard",
+      "explanation": "Oversight is implied by the legislative power itself: Congress cannot write sound laws or appropriate money wisely without checking how programs work. Hearings, subpoenas, and audits are its tools, and the Supreme Court has upheld compulsory testimony in aid of legislation since McGrain v. Daugherty (1927).",
+      "memoryHook": "T-Rexy says: The power to write the check includes the power to ask where it went.",
+      "tags": [
+        "congressional-oversight",
+        "legislative-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_031",
+      "question": "A popular 32-year-old governor, born in Canada to American parents and a U.S. citizen from birth, announces a run for president. A legal analyst says one fact alone disqualifies her. Which one?",
+      "correctAnswer": "Her age - a president must be at least 35 years old",
+      "distractors": [
+        "Her birthplace - a president must be born on U.S. soil specifically",
+        "Her citizenship path - a president must be naturalized before age 18",
+        "Her office - governors are barred from running for president"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article II requires the President to be a natural-born citizen, at least 35 years old, and a resident of the United States for at least 14 years. Birth to American parents abroad can satisfy natural-born citizenship, but nothing substitutes for the age floor of 35.",
+      "memoryHook": "T-Rexy says: Thirty-five is a hard floor - popularity cannot lower it.",
+      "tags": [
+        "presidency-qualifications",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_032",
+      "question": "On election night, a candidate wins the national popular vote by three million ballots but reaches only 260 electoral votes, while her opponent reaches 278. Who becomes president, and what number decides it?",
+      "correctAnswer": "Her opponent - a candidate must win a majority of electoral votes, 270 of 538",
+      "distractors": [
+        "She does - the national popular vote winner always becomes president",
+        "Neither - the House of Representatives re-runs the election in December",
+        "Her opponent only if the Supreme Court certifies the popular vote gap"
+      ],
+      "difficulty": "easy",
+      "explanation": "Presidents are chosen by the Electoral College: each state's electors equal its congressional delegation, totaling 538, so 270 wins. A candidate can therefore win the presidency while losing the popular vote, as has happened five times in American history.",
+      "memoryHook": "T-Rexy says: The scoreboard that counts reads 270, not the national vote total.",
+      "tags": [
+        "electoral-college",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_033",
+      "question": "A well-liked president wins a second term easily, and supporters launch a campaign for a third. A historian explains that a constitutional amendment now blocks what Franklin D. Roosevelt did four times. What exactly does that amendment allow and forbid?",
+      "correctAnswer": "The Twenty-second Amendment allows at most two elected terms (or one elected term after serving more than two years of another's term) and forbids a third election",
+      "distractors": [
+        "The Twenty-second Amendment allows unlimited terms if each win is by a landslide",
+        "The Twenty-second Amendment forbids serving two consecutive terms but allows alternating forever",
+        "The Twenty-second Amendment allows three terms when Congress approves by two-thirds"
+      ],
+      "difficulty": "medium",
+      "explanation": "Ratified in 1951 after Roosevelt's four elections, the Twenty-second Amendment caps elected service at two terms. A vice president who serves two years or less of a predecessor's term may still be elected twice, allowing a theoretical maximum of just under ten years.",
+      "memoryHook": "T-Rexy says: Four Roosevelt elections wrote the rule that now stops at two.",
+      "tags": [
+        "twenty-second-amendment",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_034",
+      "question": "A president orders airstrikes against a foreign militia and keeps forces deployed for five months without asking Congress for anything, arguing the Commander in Chief title settles the matter. Which constitutional and statutory points cut against that claim?",
+      "correctAnswer": "Congress holds the power to declare war and fund the military, and the War Powers Resolution requires the president to consult Congress and withdraw forces within 60 to 90 days without authorization",
+      "distractors": [
+        "The President may fight any war of any length, because the Commander in Chief Clause has no limits",
+        "The Supreme Court must pre-approve any use of force lasting over 30 days",
+        "Governors may veto federal military deployments inside their states"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Constitution splits war authority: Congress declares war, raises and funds armies, while the President commands the forces Congress provides. The War Powers Resolution of 1973, passed over a veto, adds reporting deadlines and a 60-day clock (plus 30 for withdrawal) absent congressional authorization - though presidents of both parties have contested its reach.",
+      "memoryHook": "T-Rexy says: Congress holds the purse and the declaration; the President holds the command.",
+      "tags": [
+        "war-powers",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_035",
+      "question": "A president issues an executive order creating a program Congress has repeatedly refused to fund, and a court strikes the order down. What limit on executive orders does the ruling illustrate?",
+      "correctAnswer": "An executive order may only carry out the Constitution or laws Congress has passed - it cannot create new law or spend money Congress has withheld",
+      "distractors": [
+        "An executive order outranks any statute Congress has passed on the same subject",
+        "An executive order cannot be reviewed by any court for any reason",
+        "An executive order becomes permanent law after 90 days unless vetoed"
+      ],
+      "difficulty": "medium",
+      "explanation": "Executive orders are directives for managing the executive branch, valid only when grounded in constitutional authority or a statute. They cannot appropriate funds - the Constitution gives that power to Congress - and courts can invalidate orders that overreach, as in Youngstown Sheet & Tube (1952).",
+      "memoryHook": "T-Rexy says: An order is a steering wheel, not a new engine - Congress builds the engine.",
+      "tags": [
+        "executive-orders",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_036",
+      "question": "A president pardons a former official convicted in federal court of fraud, wiping away the remaining prison sentence. A state prosecutor then asks whether the pardon also erases the official's separate state conviction. What is the correct answer?",
+      "correctAnswer": "No - the presidential pardon reaches only federal offenses, never state convictions",
+      "distractors": [
+        "Yes - a presidential pardon erases all convictions at every level of government",
+        "Yes, if the governor of that state co-signs the pardon within 30 days",
+        "No - pardons apply only to military offenses, never to civilian federal ones"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article II grants the President power to pardon offenses against the United States - federal crimes. State convictions belong to a separate sovereign; only a state's own governor or pardon board can forgive them. The federal pardon also cannot stop an impeachment.",
+      "memoryHook": "T-Rexy says: One key opens federal locks only; state locks need the governor's key.",
+      "tags": [
+        "pardon-power",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_037",
+      "question": "A president signs a major arms treaty abroad and announces it is now binding on the United States. A senator objects that one step remains. Which step, and why does it matter?",
+      "correctAnswer": "Senate approval by two-thirds of senators present - a treaty binds the nation only after the Senate consents",
+      "distractors": [
+        "House approval by simple majority - revenue chambers must bless every agreement",
+        "Approval by a majority of state governors - foreign policy is a state power",
+        "A Supreme Court ruling within one year confirming the treaty's fairness"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article II gives the President power to make treaties 'by and with the Advice and Consent of the Senate,' requiring two-thirds of senators present to concur. Until then, a signed treaty is a proposal, not binding law - the Senate's rejection of the Treaty of Versailles in 1919 is the famous example.",
+      "memoryHook": "T-Rexy says: A signature abroad starts the treaty; two-thirds at home finishes it.",
+      "tags": [
+        "treaties-appointments",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_038",
+      "question": "The President is shot and survives but is unconscious for weeks. The Vice President and a majority of the cabinet conclude the President cannot discharge the office's duties, but the President's staff insists nothing can be done. Which amendment supplies the procedure, and how does it work?",
+      "correctAnswer": "The Twenty-fifth Amendment - the Vice President and a majority of the cabinet may declare the President unable, making the Vice President acting president, subject to a congressional decision if the President disputes it",
+      "distractors": [
+        "The Twentieth Amendment - Congress simply elects a replacement president by majority vote",
+        "The Twelfth Amendment - the House chooses an acting president from the top three candidates",
+        "No amendment covers it - the office stays vacant until the next election"
+      ],
+      "difficulty": "hard",
+      "explanation": "Section 4 of the Twenty-fifth Amendment (1967) lets the Vice President and a majority of the cabinet transmit a declaration of inability, whereupon the Vice President acts as president. If the President declares himself able and the cabinet disagrees, Congress decides, needing two-thirds of both houses to keep the Vice President acting.",
+      "memoryHook": "T-Rexy says: An empty chair, a written declaration, and a clock - Section 4 plans for all three.",
+      "tags": [
+        "succession",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_039",
+      "question": "A new president names a Secretary of Agriculture who must be confirmed before taking office. A student asks who runs departments like Agriculture between elections and why voters never see these officials on a ballot. What is the answer?",
+      "correctAnswer": "Cabinet secretaries are appointed by the President with Senate confirmation; they administer the departments and advise the President rather than standing for election",
+      "distractors": [
+        "Cabinet secretaries are elected nationally every four years on the same ballot as the President",
+        "Cabinet secretaries are chosen by the House of Representatives from its own members",
+        "Cabinet secretaries inherit their posts from the previous administration automatically"
+      ],
+      "difficulty": "easy",
+      "explanation": "The cabinet's fifteen department heads are nominated by the President and confirmed by the Senate. They owe their jobs to the President, can be dismissed by the President, and translate the President's priorities into administration - an appointed, not elected, layer of government.",
+      "memoryHook": "T-Rexy says: Voters elect the President; the President staffs the departments.",
+      "tags": [
+        "cabinet",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_040",
+      "question": "Congress passes a bill and adjourns for the year eight days later. The President neither signs nor returns the bill. Ten days pass. What has happened to the bill, and what is this outcome called?",
+      "correctAnswer": "The bill dies by pocket veto - when Congress has adjourned, the President's inaction for ten days (Sundays excepted) kills the bill without a veto Congress can override",
+      "distractors": [
+        "The bill becomes law - presidential silence after adjournment means consent",
+        "The bill returns automatically to the next Congress for a fresh vote",
+        "The bill goes to the states, which may enact it by ratification"
+      ],
+      "difficulty": "hard",
+      "explanation": "Normally a bill becomes law if the President neither signs nor vetoes it within ten days while Congress is in session. But if adjournment prevents its return, inaction produces a pocket veto - final, because there is no sitting Congress to receive a veto message or vote an override.",
+      "memoryHook": "T-Rexy says: A bill left in the coat pocket as the chamber empties - silence becomes final.",
+      "tags": [
+        "pocket-veto",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_041",
+      "question": "In 1803, a would-be officeholder sued after his commission was not delivered, and the Supreme Court used the minor dispute to claim a major power. Which case, and which power?",
+      "correctAnswer": "Marbury v. Madison - the power of judicial review, to strike down laws that conflict with the Constitution",
+      "distractors": [
+        "McCulloch v. Maryland - the power to charter a national bank free of state taxes",
+        "Gibbons v. Ogden - the power to license steamboats on interstate rivers",
+        "Dred Scott v. Sandford - the power to define citizenship for the whole nation"
+      ],
+      "difficulty": "easy",
+      "explanation": "Chief Justice Marshall's opinion in Marbury v. Madison established that a law repugnant to the Constitution is void and that it is the judiciary's job to say what the law is. The Court claimed the power while denying Marbury his commission, avoiding a direct clash with the Jefferson administration.",
+      "memoryHook": "T-Rexy says: A small commission case carried a giant power: judicial review.",
+      "tags": [
+        "judicial-review",
+        "judicial-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_042",
+      "question": "A federal judge issues an unpopular ruling, and angry voters demand she be removed at the next election. A lawyer explains they have no such vote to cast. Why not?",
+      "correctAnswer": "Federal judges are appointed and serve during good behavior - effectively for life - so they can decide cases without fearing electoral retaliation",
+      "distractors": [
+        "Federal judges serve two-year terms and this judge simply was not on the ballot yet",
+        "Federal judges may be removed only by a national popular recall vote",
+        "Federal judges are elected, but only by members of the legal profession"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article III judges hold office during good behavior, which in practice means until death, retirement, or impeachment. The design insulates courts from political pressure, trading electoral accountability for independence - the opposite choice from Oregon's elected state judges.",
+      "memoryHook": "T-Rexy says: Life tenure is a wall between the judge and the crowd's mood.",
+      "tags": [
+        "judicial-tenure",
+        "judicial-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_043",
+      "question": "A foreign ambassador is sued, and the case begins directly in the Supreme Court instead of climbing the appeals ladder. A second case, a routine federal tax dispute between two citizens, starts in a district court. What explains the different starting points?",
+      "correctAnswer": "The Supreme Court has original jurisdiction over cases involving ambassadors and states as parties; most other federal cases start in trial courts and reach the Court only on appeal",
+      "distractors": [
+        "The Supreme Court chooses any case it likes as a first stop, with no rules",
+        "Ambassadors may demand trial before the Senate instead of any court",
+        "Tax disputes are state cases and can never enter a federal courtroom"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article III gives the Supreme Court original jurisdiction in cases affecting ambassadors and those in which a state is a party - a tiny docket. Everything else federal begins in district courts, can be appealed to the circuit courts, and reaches the Supreme Court only if the justices grant review.",
+      "memoryHook": "T-Rexy says: A tiny front door for ambassadors and states; a long staircase for everyone else.",
+      "tags": [
+        "court-jurisdiction",
+        "judicial-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_044",
+      "question": "A lower-court judge personally believes a binding Supreme Court decision from twenty years ago was wrong, yet she rules exactly as it requires. Which doctrine is she following, and what is its purpose?",
+      "correctAnswer": "Stare decisis - courts follow precedent so the law stays stable and predictable, even when a judge might decide the original case differently",
+      "distractors": [
+        "Judicial activism - judges should reshape law to match their own best judgment",
+        "Original jurisdiction - trial courts must copy the Supreme Court's handwriting",
+        "Habeas corpus - a prisoner may demand the reasons for detention in writing"
+      ],
+      "difficulty": "medium",
+      "explanation": "Stare decisis, 'to stand by things decided,' binds lower courts to higher courts' rulings and inclines the Supreme Court to respect its own precedents. It can be overcome - Brown v. Board overturned Plessy - but stability is the default because people order their lives around settled law.",
+      "memoryHook": "T-Rexy says: Yesterday's ruling is today's floor: judges build on it, not under it.",
+      "tags": [
+        "precedent",
+        "judicial-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_045",
+      "question": "Two justices read the same constitutional clause. One asks what its words meant to the generation that ratified them and rules narrowly on that basis; the other asks how the clause's principle should apply to technology the ratifiers never imagined. Which pairing names their approaches?",
+      "correctAnswer": "Originalism (or textualism) for the first justice, and a living-constitution approach for the second",
+      "distractors": [
+        "Judicial review for the first justice, and stare decisis for the second",
+        "Federalism for the first justice, and incorporation for the second",
+        "Strict scrutiny for the first justice, and rational basis for the second"
+      ],
+      "difficulty": "hard",
+      "explanation": "Originalists anchor meaning in the text's public meaning at ratification, valuing constraint and predictability; living-constitution judges treat broad principles - liberty, equality, privacy - as meant to govern new circumstances. The debate is over how to read the document, and both sides claim fidelity to it.",
+      "memoryHook": "T-Rexy says: Same text, two lenses: one fixed on 1791, one focused on today.",
+      "tags": [
+        "judicial-philosophy",
+        "judicial-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_046",
+      "question": "When the Senate sits as a court of impeachment for a president, an unusual figure takes the presiding officer's chair instead of the Vice President. Who is it, and what conflict does the arrangement avoid?",
+      "correctAnswer": "The Chief Justice presides - avoiding the conflict of the Vice President judging a trial whose outcome would make that same Vice President president",
+      "distractors": [
+        "The Secretary of State presides - avoiding any role for the judicial branch",
+        "The Speaker of the House presides - keeping the trial inside the legislature entirely",
+        "The Senate's majority leader presides - the Vice President is barred from all Senate trials"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article I requires the Chief Justice to preside when the President is tried. The Vice President normally presides over the Senate, but in a presidential impeachment the Vice President is the direct beneficiary of conviction - a textbook conflict of interest the Framers removed in advance.",
+      "memoryHook": "T-Rexy says: The one officer with something to gain from the verdict never holds its gavel.",
+      "tags": [
+        "impeachment-trial",
+        "judicial-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_047",
+      "question": "A taxpayer sues to stop a federal program she dislikes, though it has cost her nothing personally and harmed her in no way different from millions of other taxpayers. The court dismisses the case without reaching the merits. Which requirement defeated her, and why does it exist?",
+      "correctAnswer": "Standing - a plaintiff must show a concrete, personal injury, so courts decide real disputes rather than general political grievances",
+      "distractors": [
+        "The political question doctrine - courts may never review spending programs at all",
+        "Sovereign immunity - the government can never be sued by its own citizens",
+        "Ripeness in reverse - the case was dismissed for arriving a generation too late"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article III limits federal courts to cases and controversies, and standing doctrine requires an injury-in-fact that is concrete, traceable to the defendant, and redressable by the court. Generalized taxpayer grievances fail that test (Frothingham v. Mellon), keeping courts out of abstract policy fights.",
+      "memoryHook": "T-Rexy says: No personal injury, no courtroom door - courts settle disputes, not disagreements.",
+      "tags": [
+        "standing",
+        "judicial-branch"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_048",
+      "question": "A student journalist, a pastor, a picketer, and a voter signing a petition are all exercising freedoms listed in the same amendment. Which amendment protects all four activities?",
+      "correctAnswer": "The First Amendment - speech, religion, the press, assembly, and petition",
+      "distractors": [
+        "The Second Amendment - arms, militia service, and quartering protections",
+        "The Fourth Amendment - searches, seizures, and warrants",
+        "The Seventh Amendment - civil jury trials and common-law suits"
+      ],
+      "difficulty": "easy",
+      "explanation": "The First Amendment (1791) bundles five freedoms: religion (establishment and free exercise), speech, press, assembly, and petition for redress of grievances. The journalist uses press, the pastor religion, the picketer speech and assembly, and the signer petition.",
+      "memoryHook": "T-Rexy says: Five freedoms share one amendment - count them: religion, speech, press, assembly, petition.",
+      "tags": [
+        "first-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_049",
+      "question": "A public school opens its gym after hours to community groups. It lets a chess club and a veterans' group meet, but refuses a student Bible-study club solely because of its religious viewpoint. Which clause does the refusal most likely violate, and which clause does the school wrongly think requires it?",
+      "correctAnswer": "It violates the Free Exercise Clause (and free speech principles); the school wrongly invokes the Establishment Clause, which does not require viewpoint discrimination against religion in an open forum",
+      "distractors": [
+        "It violates the Establishment Clause; the school wrongly invokes the Free Exercise Clause",
+        "It violates the Due Process Clause; the school wrongly invokes the Commerce Clause",
+        "It violates nothing - schools may exclude any religious group from any facility at any time"
+      ],
+      "difficulty": "hard",
+      "explanation": "The First Amendment's two religion clauses work in tension: government may not establish religion, but it also may not prohibit its free exercise or single religious speech out for worse treatment. When a school opens a forum to community groups, excluding one for its religious viewpoint is discrimination the Court has repeatedly struck down.",
+      "memoryHook": "T-Rexy says: Two clauses, one amendment: no state church, and no penalty for faith.",
+      "tags": [
+        "religion-clauses",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_050",
+      "question": "Police who suspect a man of theft knock with a warrant describing his garage and the stolen tools they expect to find there. A neighbor asks what makes this search lawful when a general rummage through the whole house would not be. What is the answer?",
+      "correctAnswer": "The Fourth Amendment requires warrants based on probable cause that particularly describe the place to be searched and the things to be seized",
+      "distractors": [
+        "The Third Amendment requires soldiers to approve any search of a home",
+        "The Sixth Amendment requires a jury to authorize every search in advance",
+        "The Eighth Amendment requires searches to be conducted only in daylight"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Fourth Amendment's Warrant Clause demands probable cause, an oath, and particularity - the warrant must name the place and the items. General warrants were a hated colonial abuse, and the amendment was written to forbid them outright.",
+      "memoryHook": "T-Rexy says: A lawful warrant names the place and the things - a map, not a blank check.",
+      "tags": [
+        "fourth-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_051",
+      "question": "At trial, a defendant refuses to testify, and the prosecutor urges the jury to treat the silence as proof of guilt. The judge instructs the jury to ignore the silence entirely. Which protection is the judge enforcing, and where else does the same amendment appear in a famous police warning?",
+      "correctAnswer": "The Fifth Amendment's protection against self-incrimination - the same right behind the Miranda warning's 'right to remain silent'",
+      "distractors": [
+        "The Fourth Amendment's warrant protection - the same right behind search warnings",
+        "The Sixth Amendment's confrontation protection - the same right behind witness warnings",
+        "The Eighth Amendment's bail protection - the same right behind arrest warnings"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Fifth Amendment provides that no person 'shall be compelled in any criminal case to be a witness against himself,' and Griffin v. California bars prosecutors from commenting on a defendant's silence. Miranda v. Arizona (1966) extended the same protection to police interrogation, requiring the familiar warnings.",
+      "memoryHook": "T-Rexy says: Silence at the station and silence at trial grow from the same amendment: the Fifth.",
+      "tags": [
+        "fifth-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_052",
+      "question": "A city condemns a family's sound, unblighted home - not for a road or school, but to transfer the land to a developer promising more tax revenue - and offers a check for the home's market price. In Kelo v. City of New London (2005), how did the Court rule on the two constitutional questions raised?",
+      "correctAnswer": "The taking satisfied 'public use' because economic development is a public purpose, and the market-price payment satisfied the Fifth Amendment's 'just compensation' requirement",
+      "distractors": [
+        "The taking failed 'public use' because private developers can never benefit from eminent domain",
+        "The taking was valid but compensation was unconstitutional because the family deserved triple the price",
+        "The Court held cities may take homes without any compensation when taxes will rise"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Fifth Amendment allows takings only for public use and with just compensation. Kelo read 'public use' broadly as public purpose, letting economic development qualify; many states, reacting to the decision, then tightened their own laws - an example of federal floors and state ceilings in rights protection.",
+      "memoryHook": "T-Rexy says: The city may take for a public purpose, but it must pay for what it takes.",
+      "tags": [
+        "eminent-domain",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_053",
+      "question": "An unemployed drifter is tried for felony theft in Florida without a lawyer because he cannot afford one, is convicted, and appeals from prison with a handwritten petition. Which case and right vindicate him?",
+      "correctAnswer": "Gideon v. Wainwright (1963) - the Sixth Amendment right to counsel requires states to provide an attorney to defendants who cannot afford one in felony cases",
+      "distractors": [
+        "Miranda v. Arizona (1966) - police must warn suspects of the right to remain silent",
+        "Mapp v. Ohio (1961) - illegally seized evidence is excluded from state trials",
+        "Escobedo v. Illinois (1964) - suspects may consult a lawyer during interrogation"
+      ],
+      "difficulty": "medium",
+      "explanation": "Clarence Gideon's handwritten petition produced a unanimous ruling: the Sixth Amendment's counsel guarantee is fundamental and binds the states through the Fourteenth Amendment. Felony defendants who cannot afford counsel must be provided one - later extended to cases carrying possible imprisonment.",
+      "memoryHook": "T-Rexy says: A pencil-written petition from a cell rewrote the right to a lawyer.",
+      "tags": [
+        "sixth-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_054",
+      "question": "A judge sets bail at five million dollars for a teenager accused of shoplifting a jacket, and after conviction orders a punishment designed to humiliate him publicly for weeks. Which amendment addresses both the bail and the punishment?",
+      "correctAnswer": "The Eighth Amendment - it forbids excessive bail and cruel and unusual punishments",
+      "distractors": [
+        "The Fifth Amendment - it forbids double jeopardy and self-incrimination",
+        "The Seventh Amendment - it preserves jury trials in civil suits",
+        "The Tenth Amendment - it reserves punishments to the states"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Eighth Amendment (1791) contains three limits: no excessive bail, no excessive fines, and no cruel and unusual punishments. A multimillion-dollar bail for shoplifting fails the first test, and a deliberately humiliating punishment fails the third.",
+      "memoryHook": "T-Rexy says: Excess is the key word twice over: bail, fines, and punishment all have ceilings.",
+      "tags": [
+        "eighth-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_055",
+      "question": "A state law allows 18-year-old women but not 18-year-old men to buy a certain product, defending the difference as harmless tradition. A court reviews the classification under the Fourteenth Amendment. What standard frames the analysis?",
+      "correctAnswer": "Equal protection analysis - government classifications must serve a legitimate (and for sex-based lines, an important) governmental objective and be appropriately related to it",
+      "distractors": [
+        "The Establishment Clause - government may not endorse one sex's traditions",
+        "The Contract Clause - old commercial customs are frozen against change",
+        "The Guarantee Clause - every state must keep a republican form of purchasing law"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Equal Protection Clause of the Fourteenth Amendment requires that people similarly situated be treated alike unless government can justify the difference. Sex-based classifications receive intermediate scrutiny: they must serve important governmental objectives and be substantially related to achieving them - mere tradition does not qualify.",
+      "memoryHook": "T-Rexy says: Alike cases must be treated alike unless the state can justify the line.",
+      "tags": [
+        "equal-protection",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_056",
+      "question": "A registrar in the early 1960s charges citizens a tax before letting them register to vote. The practice is then abolished in two stages a few years apart. Which amendment banned poll taxes in federal elections, and which court decision ended them in state elections?",
+      "correctAnswer": "The Twenty-fourth Amendment (1964) banned poll taxes in federal elections, and Harper v. Virginia (1966) struck them down in state elections under the Fourteenth Amendment's Equal Protection Clause",
+      "distractors": [
+        "The Fifteenth Amendment banned poll taxes in federal elections, and the Voting Rights Act of 1965 ended them in state elections by statute alone",
+        "The Nineteenth Amendment banned poll taxes for women, and the Twenty-sixth Amendment later extended the ban to all voters",
+        "The Twenty-third Amendment banned poll taxes in the District of Columbia, and Congress then taxed the states that kept them"
+      ],
+      "difficulty": "hard",
+      "explanation": "Poll taxes fell in stages: the Twenty-fourth Amendment (1964) abolished them in federal elections and primaries, and Harper v. Virginia State Board of Elections (1966) struck them in state elections under the Equal Protection Clause, holding that wealth is not a legitimate measure of voter qualification.",
+      "memoryHook": "T-Rexy says: Federal elections first in 1964, state elections two years later - the tax fell in two blows.",
+      "tags": [
+        "voting-amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_057",
+      "question": "In 1971, an 18-year-old soldier returning from Vietnam points out that he can be drafted but cannot vote for the officials who sent him. Within months, his complaint is answered in the Constitution itself. Which amendment answered it?",
+      "correctAnswer": "The Twenty-sixth Amendment - the voting age in federal and state elections may not be set above 18",
+      "distractors": [
+        "The Nineteenth Amendment - voting rights may not be denied on account of sex",
+        "The Fifteenth Amendment - voting rights may not be denied on account of race",
+        "The Twenty-third Amendment - District of Columbia residents may vote for president"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Twenty-sixth Amendment, ratified in just over three months in 1971 - the fastest ratification in history - set 18 as the floor for voting age nationwide. The slogan 'old enough to fight, old enough to vote' had been building since World War II.",
+      "memoryHook": "T-Rexy says: Drafted at 18 but voteless at 18 - the Twenty-sixth fixed the mismatch.",
+      "tags": [
+        "voting-amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_058",
+      "question": "In May, members of one party in a state choose between two of their own candidates; in November, the winner faces the other party's choice and an independent. A student confuses the two contests. How do they differ?",
+      "correctAnswer": "The May contest is a primary election - it selects a party's nominee; the November contest is the general election, which selects the officeholder",
+      "distractors": [
+        "The May contest is a caucus - it binds electors; the November contest is a referendum on laws",
+        "The May contest is the general election; the November contest is a runoff used only after ties",
+        "The May contest is a recall; the November contest is an impeachment vote"
+      ],
+      "difficulty": "medium",
+      "explanation": "Primaries narrow each party's field to one nominee; the general election then pits nominees (and qualifying independents) against each other for the office itself. Most states run primaries in spring or summer and the general election on the Tuesday after the first Monday in November.",
+      "memoryHook": "T-Rexy says: Primaries pick the nominees; the general election picks the winners.",
+      "tags": [
+        "parties-elections",
+        "elections"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_059",
+      "question": "A corporation wants to spend its own money on advertisements praising a candidate, without coordinating with the campaign. Congress once banned such spending near elections. What did the Supreme Court hold in Citizens United v. FEC (2010)?",
+      "correctAnswer": "Independent expenditures by corporations and unions are protected speech and cannot be banned, though direct contributions to candidates may still be limited",
+      "distractors": [
+        "All campaign finance limits are unconstitutional, including limits on direct contributions",
+        "Corporations have no speech rights, so the ban was upheld in full",
+        "Independent spending may be banned, but direct contributions may not be limited"
+      ],
+      "difficulty": "hard",
+      "explanation": "Citizens United held that the government may not suppress political speech because the speaker is a corporation, striking down the ban on independent expenditures while leaving direct-contribution limits and disclosure rules standing. The decision reshaped modern campaign finance and enabled super PACs, which may raise unlimited sums for independent spending only.",
+      "memoryHook": "T-Rexy says: Money given to a campaign can be capped; independent speech about it cannot be banned.",
+      "tags": [
+        "campaign-finance",
+        "elections"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_060",
+      "question": "Two organizations work to shape policy. One wants to place its own members in Congress and runs candidates under its label; the other never runs anyone but lobbies Congress, funds research, and mobilizes letter-writing campaigns. Which is which?",
+      "correctAnswer": "The first is a political party - its goal is winning elections and governing; the second is an interest group - its goal is influencing policy without holding office",
+      "distractors": [
+        "The first is an interest group; the second is a political party, because parties never run candidates",
+        "Both are political action committees, which exist only to donate to campaigns",
+        "Both are lobbies, a category that includes every organization in politics"
+      ],
+      "difficulty": "medium",
+      "explanation": "Parties and interest groups differ by ambition: parties seek office itself, nominating and electing candidates; interest groups seek favorable policy from whoever holds office, using lobbying, litigation, research, and grassroots pressure. A PAC is a group's fundraising arm for contributions, a narrower tool than either.",
+      "memoryHook": "T-Rexy says: Parties chase the chair; interest groups chase the decision made in it.",
+      "tags": [
+        "interest-groups",
+        "elections"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_061",
+      "question": "A newspaper investigation reveals a senator's hidden bank accounts, leading to hearings and a resignation. Political scientists assign the press a name for this role. Which role is it?",
+      "correctAnswer": "The watchdog role - the media monitors officials and exposes wrongdoing so voters can hold leaders accountable",
+      "distractors": [
+        "The linkage role - the media formally connects parties to their nominees",
+        "The agenda-exemption role - the media is legally barred from covering scandals",
+        "The gatekeeper-of-office role - editors approve officials before elections"
+      ],
+      "difficulty": "easy",
+      "explanation": "Beyond informing citizens, the press acts as a watchdog over government - the function the First Amendment's press freedom was designed to protect. Watergate reporting is the classic example of exposure producing accountability that elections alone had not.",
+      "memoryHook": "T-Rexy says: A free press keeps one eye open so voters do not have to keep both open.",
+      "tags": [
+        "media",
+        "elections"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_062",
+      "question": "A man receives a summons, reports to a courthouse, and spends two days helping decide a stranger's trial. A classmate says this is merely a nice thing to do if he feels like it. Why is the classmate wrong?",
+      "correctAnswer": "Jury service is a duty of citizenship, legally required when summoned - unlike voluntary responsibilities such as voting in a primary or joining a campaign",
+      "distractors": [
+        "Jury service is a responsibility that citizens may skip without consequence whenever busy",
+        "Jury service is limited to lawyers and government employees by the Sixth Amendment",
+        "Jury service ended when professional jurors were created in the 1970s"
+      ],
+      "difficulty": "easy",
+      "explanation": "Civics distinguishes duties - obeying the law, paying taxes, serving on a jury when called, registering for selective service - which the law can compel, from responsibilities like voting and staying informed, which are voluntary but vital. Skipping a jury summons can bring fines or contempt charges.",
+      "memoryHook": "T-Rexy says: A summons is not an invitation - duties carry legal weight, responsibilities carry civic weight.",
+      "tags": [
+        "civic-duty",
+        "elections"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_063",
+      "question": "An applicant for U.S. citizenship has lived in the country as a permanent resident for six years, speaks and reads English, has a clean record, and passes a civics test on American government and history. An officer asks what she must still do at the ceremony to complete the process. What is it?",
+      "correctAnswer": "Take the Oath of Allegiance, renouncing prior allegiances and swearing to support and defend the Constitution",
+      "distractors": [
+        "Win election to a local office within one year of approval",
+        "Serve two years in the armed forces as a probationary citizen",
+        "Pay a citizenship tax equal to one year of federal income tax"
+      ],
+      "difficulty": "medium",
+      "explanation": "Naturalization follows a statutory path: permanent residence (usually five years, three if married to a citizen), good moral character, English and civics testing, and finally the Oath of Allegiance. The oath is the legal moment citizenship begins, which is why ceremonies are held in courtrooms and stadiums alike.",
+      "memoryHook": "T-Rexy says: The last step is spoken: an oath that makes the citizen.",
+      "tags": [
+        "naturalization",
+        "elections"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_064",
+      "question": "A state legislature raises the minimum age for a driver's license, sets the curriculum for its public schools, and charters a new city - all in one session. A member asks why none of these bills needed Congress's permission. What is the constitutional answer?",
+      "correctAnswer": "These are reserved state powers under the Tenth Amendment - education, licensing, and local government are not delegated to the federal government",
+      "distractors": [
+        "These are concurrent powers that Congress chose to lend to the states for one year",
+        "These are delegated powers listed for the states in Article I, Section 8",
+        "These actions are legal only because the President issued a waiver for the session"
+      ],
+      "difficulty": "medium",
+      "explanation": "Reserved powers are those the Constitution neither grants the national government nor denies the states. Running schools, licensing drivers and professions, and creating local governments are textbook examples - the daily substance of state government in the federal system.",
+      "memoryHook": "T-Rexy says: The powers Washington was never handed are the states' daily work.",
+      "tags": [
+        "reserved-powers",
+        "federalism"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_065",
+      "question": "Students wear black armbands to protest a war, and a school suspends them despite the protest causing no disruption. Years later, another case protects burning a flag in political protest. Which principle unites Tinker v. Des Moines (1969) and Texas v. Johnson (1989)?",
+      "correctAnswer": "Symbolic speech is protected by the First Amendment - government may not punish expression because it dislikes the message, and schools need evidence of substantial disruption to restrict student speech",
+      "distractors": [
+        "Students and protesters have no speech rights until they reach voting age",
+        "Symbolic acts are conduct, not speech, so the First Amendment never applies to them",
+        "Government may ban any symbol it finds offensive, provided a majority agrees"
+      ],
+      "difficulty": "hard",
+      "explanation": "Tinker held that students do not shed their constitutional rights at the schoolhouse gate, and schools must show substantial disruption to limit expression. Texas v. Johnson held flag burning to be expressive conduct protected against punishment aimed at its message. Together they mark the First Amendment's suspicion of viewpoint-based bans.",
+      "memoryHook": "T-Rexy says: Armbands and flags speak without words - the First Amendment listens anyway.",
+      "tags": [
+        "symbolic-speech",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_066",
+      "question": "Before a state agency revokes a man's professional license, it mails him the charges, gives him a hearing date, and lets him present witnesses. A second man complains the licensing law itself is irrational no matter how fair the hearing was. Which two kinds of due process are the two men invoking?",
+      "correctAnswer": "The first is procedural due process - fair notice and a hearing before government acts; the second is substantive due process - the claim that the law itself violates protected liberty",
+      "distractors": [
+        "Both are procedural due process, because every fairness claim is about procedure",
+        "The first is substantive and the second procedural - the labels are interchangeable",
+        "Neither is due process; both claims arise under the Eighth Amendment"
+      ],
+      "difficulty": "hard",
+      "explanation": "Due process has two faces in the Fifth and Fourteenth Amendments. Procedural due process governs how government acts - notice, hearing, a neutral decision-maker. Substantive due process asks whether government may act at all in areas of protected liberty, however carefully it proceeds.",
+      "memoryHook": "T-Rexy says: One asks 'was I heard fairly?' The other asks 'may the state do this at all?'",
+      "tags": [
+        "due-process",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_067",
+      "question": "A history teacher underlines a sentence: neither slavery nor involuntary servitude, except as punishment for a crime, shall exist within the United States. Which amendment is she teaching, and what war's outcome made it possible?",
+      "correctAnswer": "The Thirteenth Amendment (1865), made possible by the Union victory in the Civil War",
+      "distractors": [
+        "The Fourteenth Amendment (1868), made possible by the end of World War I",
+        "The Twelfth Amendment (1804), made possible by the War of 1812",
+        "The Fifteenth Amendment (1870), made possible by the Spanish-American War"
+      ],
+      "difficulty": "easy",
+      "explanation": "Ratified in December 1865, months after Appomattox, the Thirteenth Amendment abolished slavery throughout the United States - the first of the three Reconstruction Amendments. Unlike most amendments, it binds private actors as well as governments.",
+      "memoryHook": "T-Rexy says: 1865: the first Reconstruction amendment erased slavery from the Constitution's shadow.",
+      "tags": [
+        "thirteenth-amendment",
+        "rights"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_068",
+      "question": "Congress passes a detailed national law regulating the labels on packaged foods and states that the law occupies the entire field. A state then passes a stricter labeling rule for the same packages, and manufacturers sue. Under the Supremacy Clause, what is the likely result and doctrine?",
+      "correctAnswer": "The state rule is preempted - when Congress intends federal law to occupy a field, conflicting or additional state rules in that field must give way",
+      "distractors": [
+        "The state rule wins - states always prevail on consumer protection within their borders",
+        "Both rules apply fully - manufacturers must obey whichever rule each inspector prefers that day",
+        "The case is dismissed - courts never compare state and federal rules on the same subject"
+      ],
+      "difficulty": "hard",
+      "explanation": "Preemption is the Supremacy Clause at work: express preemption when Congress says so, field preemption when federal regulation is so comprehensive it leaves no room for states, and conflict preemption when obeying both is impossible or the state law obstructs federal purposes.",
+      "memoryHook": "T-Rexy says: When Congress fills the whole field, there is no empty corner left for a state rule.",
+      "tags": [
+        "preemption",
+        "federalism"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_069",
+      "question": "Congress wants a national drinking age of 21 but cannot simply order states to set one. Instead it withholds a small share of highway funds from states that keep a lower age, and every state eventually complies. Which device is Congress using, and what makes it constitutional?",
+      "correctAnswer": "Conditional federal grants - Congress may attach reasonable conditions to federal money, letting states choose between the funds and the policy, as upheld in South Dakota v. Dole (1987)",
+      "distractors": [
+        "Direct preemption - Congress may set state drinking ages under the Commerce Clause alone",
+        "Unfunded mandates - Congress may order states to legislate without offering funds",
+        "The Guarantee Clause - Congress may replace state liquor laws to protect republics"
+      ],
+      "difficulty": "hard",
+      "explanation": "Conditional spending is federalism's bargaining table: Congress offers money with strings, and states remain free to refuse - though few do. In Dole, the Court upheld withholding 5 percent of highway funds over the drinking age, while warning that conditions must be related to the program and cannot become coercion.",
+      "memoryHook": "T-Rexy says: Washington rarely orders the states - it offers money with a string tied to it.",
+      "tags": [
+        "conditional-grants",
+        "federalism"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_070",
+      "question": "A civics chart divides powers into three columns: powers listed for the national government, powers both levels share, and powers kept by the states. A student must place 'coin money,' 'collect taxes,' and 'run elections.' Which placement is correct?",
+      "correctAnswer": "Coin money is delegated to the national government; collecting taxes is concurrent (shared); running elections is a state power",
+      "distractors": [
+        "Coin money is a state power; collecting taxes is delegated only; running elections is concurrent",
+        "All three are delegated to the national government under the Commerce Clause",
+        "All three are reserved to the states under the Tenth Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "Delegated (enumerated) powers include coining money, declaring war, and regulating interstate commerce. Concurrent powers - taxing, borrowing, building roads, establishing courts - are shared. Reserved powers such as administering elections, education, and licensing rest with the states.",
+      "memoryHook": "T-Rexy says: Three columns: coin up top in Washington's, taxes in both, elections at home.",
+      "tags": [
+        "enumerated-powers",
+        "constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_071",
+      "question": "A class planning a field trip to watch Oregon's legislature in session must drive to the city where the State Capitol stands and where state government has sat since the territorial era ended. Which city is it?",
+      "correctAnswer": "Salem - Oregon's capital and seat of state government",
+      "distractors": [
+        "Portland - Oregon's largest city and its capital",
+        "Eugene - home of the state capitol since 1859",
+        "Bend - chosen as capital when Oregon became a state"
+      ],
+      "difficulty": "easy",
+      "explanation": "Salem has been Oregon's seat of government since the 1850s and remained the capital when Oregon entered the Union on February 14, 1859. Portland is the state's largest city but has never been the capital - a common confusion the question targets.",
+      "memoryHook": "T-Rexy says: Largest is Portland; the capital is Salem - keep the two separate.",
+      "tags": [
+        "oregon-capital",
+        "oregon-government"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_072",
+      "question": "Oregon voters approved a constitution in 1857, two years before Congress admitted the state. A student asks why the document matters to a civics course today. What is the best answer?",
+      "correctAnswer": "It is still Oregon's governing constitution - amended many times by the voters, but the same 1857 framework structures Oregon government today",
+      "distractors": [
+        "It was replaced in 1902 by the current constitution written by the Legislative Assembly",
+        "It expired when Oregon adopted vote-by-mail in the 1990s",
+        "It matters only as a museum piece, because Oregon is governed directly by the U.S. Constitution alone"
+      ],
+      "difficulty": "easy",
+      "explanation": "Oregonians ratified their constitution in 1857, and statehood followed in 1859. Rather than replacing the document, Oregon voters have amended it hundreds of times - often through the initiative - making it both one of the older and one of the most frequently amended state constitutions.",
+      "memoryHook": "T-Rexy says: 1857 paper, still working: amended by voters ever since, never replaced.",
+      "tags": [
+        "oregon-constitution",
+        "oregon-constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_073",
+      "question": "A Salem reporter writes that one chamber of Oregon's Legislative Assembly is twice the size of the other, and its members face the voters twice as often. Which chamber is she describing, and what are the exact numbers?",
+      "correctAnswer": "The Oregon House of Representatives - 60 members elected to two-year terms (the Senate has 30 members serving four-year terms)",
+      "distractors": [
+        "The Oregon Senate - 60 members elected to two-year terms (the House has 45 members serving four-year terms)",
+        "The Oregon House - 50 members elected to four-year terms (the Senate has 25 members serving two-year terms)",
+        "The Oregon Senate - 30 members elected to two-year terms (the House has 60 members serving six-year terms)"
+      ],
+      "difficulty": "medium",
+      "explanation": "Oregon's Legislative Assembly is bicameral: a 60-member House elected every two years and a 30-member Senate elected to staggered four-year terms. The 2-to-1 chamber ratio and the House's shorter terms mirror the federal design in miniature.",
+      "memoryHook": "T-Rexy says: Sixty in the House every two years; thirty in the Senate for four.",
+      "tags": [
+        "legislative-assembly",
+        "oregon-government"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_074",
+      "question": "An Oregon governor wins a second consecutive term and supporters immediately ask about a third run in the next election. What does Oregon law say about her options?",
+      "correctAnswer": "She may not run for a third consecutive term - Oregon limits a governor to two consecutive four-year terms, though she could run again after a break in service",
+      "distractors": [
+        "She may run for unlimited consecutive terms - Oregon has no gubernatorial term limit",
+        "She is limited to a single four-year term and can never serve again",
+        "She may serve three consecutive terms because Oregon copied the federal limit"
+      ],
+      "difficulty": "medium",
+      "explanation": "Oregon's constitution caps the governor at two consecutive four-year terms (eight years in twelve). The limit is on consecutive service, not lifetime service - a former governor may return after someone else has held the office.",
+      "memoryHook": "T-Rexy says: Two terms in a row is the cap; the door reopens after a break.",
+      "tags": [
+        "oregon-governor",
+        "oregon-government"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_075",
+      "question": "An Oregon voter studies her ballot and finds separate races for governor, secretary of state, state treasurer, attorney general, and commissioner of labor and industries - none of them running as the governor's running mates. Which feature of Oregon government is she seeing?",
+      "correctAnswer": "A plural executive - Oregon voters elect several executive officers independently, so the governor does not appoint or control them",
+      "distractors": [
+        "A unitary executive - all Oregon executive officers serve at the governor's pleasure",
+        "A parliamentary system - the Legislative Assembly elects all executive officers",
+        "A council system - executive officers are chosen by the Oregon Supreme Court"
+      ],
+      "difficulty": "medium",
+      "explanation": "Like many states, Oregon divides executive power among independently elected officials. The secretary of state (elections and audits), treasurer, attorney general, and labor commissioner each answer to the voters, not to the governor - limiting any governor's control of the executive branch.",
+      "memoryHook": "T-Rexy says: Five separate keys to five separate offices - voters hand out each one.",
+      "tags": [
+        "plural-executive",
+        "oregon-government"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_076",
+      "question": "Oregon's governor resigns mid-term with no lieutenant governor anywhere in the state constitution. A staffer checks the order of succession and finds the office passes first to an official better known for running elections and auditing state agencies. Who is it?",
+      "correctAnswer": "The Secretary of State - Oregon has no lieutenant governor, and the secretary of state is first in line to succeed the governor",
+      "distractors": [
+        "The President of the Senate - Oregon's succession begins in the legislature",
+        "The State Treasurer - Oregon's succession follows control of state funds",
+        "The Attorney General - Oregon's succession follows the state's chief legal officer"
+      ],
+      "difficulty": "hard",
+      "explanation": "Oregon is one of a handful of states with no lieutenant governor. By constitution, the secretary of state - the state's chief elections and audit officer - succeeds first if the governorship falls vacant, followed by the state treasurer.",
+      "memoryHook": "T-Rexy says: No lieutenant governor: the elections chief stands first in line.",
+      "tags": [
+        "secretary-of-state",
+        "oregon-government"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_077",
+      "question": "A defendant loses in an Oregon circuit court, appeals to an intermediate court, and petitions the state's highest court, whose seven justices Oregonians elect statewide. Which sequence names her path and her final stop?",
+      "correctAnswer": "Circuit Court, then the Oregon Court of Appeals, then the Oregon Supreme Court - the state's court of last resort",
+      "distractors": [
+        "Justice Court, then the Oregon Tax Court, then the Ninth Circuit in San Francisco",
+        "Circuit Court, then the Oregon Senate, then the U.S. Supreme Court directly",
+        "Municipal Court, then the Court of Appeals, then the governor's pardon board"
+      ],
+      "difficulty": "medium",
+      "explanation": "Oregon's trial courts of general jurisdiction are its circuit courts; most appeals go to the Court of Appeals, and the seven-member Oregon Supreme Court is the final word on Oregon law. Unlike federal judges, Oregon's appellate judges are chosen by statewide election to six-year terms.",
+      "memoryHook": "T-Rexy says: Circuit, Appeals, Supreme - and Oregon voters, not a governor, pick the top court's justices.",
+      "tags": [
+        "oregon-courts",
+        "oregon-government"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_078",
+      "question": "Oregon citizens draft a new statute setting recycling standards and want to place it on the ballot themselves rather than persuade the Legislative Assembly. What share of the votes cast for governor in the last election must their petition signatures equal?",
+      "correctAnswer": "6 percent - the signature threshold for a statutory initiative in Oregon",
+      "distractors": [
+        "4 percent - the threshold for any citizen measure in Oregon",
+        "8 percent - the threshold for statutes and constitutional amendments alike",
+        "10 percent - the threshold Oregon sets for all ballot measures"
+      ],
+      "difficulty": "medium",
+      "explanation": "Oregon measures signature requirements against the total votes cast for governor at the last election. A statutory initiative needs signatures equal to 6 percent of that vote; a constitutional amendment initiative needs 8 percent, and a referendum petition needs 4 percent.",
+      "memoryHook": "T-Rexy says: Six for a statute, eight for the constitution, four for a referendum.",
+      "tags": [
+        "initiative",
+        "oregon-direct-democracy"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_079",
+      "question": "A different Oregon group wants to amend the state constitution itself through the initiative, adding a new section to the Oregon Bill of Rights. How does their signature target compare with a statutory initiative, and why?",
+      "correctAnswer": "Higher - 8 percent of the votes cast for governor, because constitutional amendments are meant to be harder to make than ordinary statutes",
+      "distractors": [
+        "Lower - 4 percent of the votes cast for governor, because constitutional rights need fast action",
+        "Identical - 6 percent, because Oregon uses one threshold for every measure",
+        "Higher - 15 percent, matching Oregon's recall threshold"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article IV of the Oregon Constitution reserves the initiative power to the people and grades its difficulty: 6 percent of the gubernatorial vote for a statute, 8 percent for a constitutional amendment. The steeper climb for constitutional change mirrors Article V's harder federal path.",
+      "memoryHook": "T-Rexy says: Amending the constitution costs two points more: eight, not six.",
+      "tags": [
+        "initiative",
+        "oregon-direct-democracy"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_080",
+      "question": "The Legislative Assembly passes an unpopular new fee in June and adjourns. Opponents want the voters themselves to approve or reject the law before it settles in. Which Oregon tool fits, what share of signatures does it need, and how fast must they gather them?",
+      "correctAnswer": "The referendum - signatures equal to 4 percent of the votes cast for governor, filed within 90 days after the legislative session adjourns",
+      "distractors": [
+        "The initiative - signatures equal to 8 percent, filed within two years of passage",
+        "The recall - signatures equal to 15 percent, filed within 90 days of the session",
+        "The referral - signatures equal to 6 percent, filed before the governor signs the bill"
+      ],
+      "difficulty": "hard",
+      "explanation": "The referendum lets voters veto an act of the Legislative Assembly. Opponents have 90 days after adjournment to file petitions bearing signatures equal to 4 percent of the votes cast for governor; if they qualify, the law is suspended and the voters decide it at the next election.",
+      "memoryHook": "T-Rexy says: Four percent in ninety days: the people's veto runs on a short clock.",
+      "tags": [
+        "referendum",
+        "oregon-direct-democracy"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_081",
+      "question": "A measure appears on Oregon ballots not because citizens petitioned, but because the Legislative Assembly voted to ask the voters to decide it themselves - as it must do for any constitutional amendment it proposes. Which process produced this measure?",
+      "correctAnswer": "A legislative referral - lawmakers refer a measure to the voters, whose approval is required for constitutional amendments",
+      "distractors": [
+        "An initiative - citizens wrote the measure and gathered signatures for it",
+        "A recall - voters are being asked to remove an official before the term ends",
+        "A referendum - citizens petitioned to veto a law the Assembly already passed"
+      ],
+      "difficulty": "easy",
+      "explanation": "Oregon lawmakers routinely refer measures to the ballot, and the state constitution requires voter approval for constitutional amendments the Assembly proposes. Referral differs from the initiative (citizen-petitioned) and the referendum (citizen veto of an enacted law).",
+      "memoryHook": "T-Rexy says: Sometimes the legislature itself hands the question to the voters: a referral.",
+      "tags": [
+        "legislative-referral",
+        "oregon-direct-democracy"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_082",
+      "question": "An Oregon county commissioner, eight months into her term, faces a recall drive. Organizers must gather signatures equal to what share of the votes cast for governor in her district, and after an official has served how long can a recall petition first be filed?",
+      "correctAnswer": "15 percent of the votes cast for governor in the district, and a recall cannot be filed until the official has served six months of the term",
+      "distractors": [
+        "6 percent of the votes cast for governor, and a recall may be filed on the first day of the term",
+        "25 percent of registered voters, and a recall may be filed after one full year in office",
+        "4 percent of the votes cast for governor, and there is no waiting period at all"
+      ],
+      "difficulty": "hard",
+      "explanation": "Oregon's recall is deliberately demanding: petitions need signatures equal to 15 percent of the votes cast for governor within the official's electoral district, organizers then have 90 days to gather them, and the official must have served at least six months before a petition can be filed. Oregon voters have used it against officials from school boards to the legislature.",
+      "memoryHook": "T-Rexy says: Fifteen percent, six months in - recall is Oregon's emergency brake, not a toy.",
+      "tags": [
+        "recall",
+        "oregon-direct-democracy"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_083",
+      "question": "Historians credit one state with pioneering the package of initiative, referendum, and recall in the early 1900s - a package nicknamed after the state itself and copied across the West. Which state, and what is the nickname?",
+      "correctAnswer": "Oregon - the 'Oregon System,' adopted when voters amended the state constitution in 1902",
+      "distractors": [
+        "California - the 'California Plan,' adopted by its legislature in 1911",
+        "Arizona - the 'Arizona Method,' written into its first constitution in 1912",
+        "Washington - the 'Puget System,' approved by Congress in 1903"
+      ],
+      "difficulty": "easy",
+      "explanation": "In 1902 Oregon voters amended their constitution to reserve the initiative and referendum, adding the recall in 1908. The bundle became famous nationwide as the Oregon System, the flagship achievement of the Progressive Era's direct-democracy movement and a model other states copied.",
+      "memoryHook": "T-Rexy says: The Oregon System: voters seized the pen in 1902 and never gave it back.",
+      "tags": [
+        "oregon-system",
+        "oregon-direct-democracy"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_084",
+      "question": "Election officials from other states travel to Oregon to study an election model the state's voters adopted by citizen initiative in 1998 and first used for a full federal election in 2000 - making Oregon the first state in the nation to run every election this way. Which model are they studying?",
+      "correctAnswer": "Vote-by-mail - Oregon was the first state to conduct all its elections entirely by mail",
+      "distractors": [
+        "Same-day registration - Oregon lets any resident register at the polls on election day",
+        "A top-two primary - Oregon sends the two highest finishers to November regardless of party",
+        "Compulsory voting - Oregon fines every registered voter who skips an election"
+      ],
+      "difficulty": "easy",
+      "explanation": "Oregon voters approved vote-by-mail in 1998 and first used it for a full federal election in 2000, making Oregon the first state to run all elections by mail. Ballots must be received or postmarked by election day, and drop boxes across every county offer an in-person return option.",
+      "memoryHook": "T-Rexy says: In Oregon, the ballot comes to the voter - mailbox first, polling place never.",
+      "tags": [
+        "vote-by-mail",
+        "oregon-elections"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_085",
+      "question": "An Oregon teenager renews her license at the DMV and weeks later finds she has been registered to vote without ever filling out a registration form - she was given the chance to opt out by mail instead. Which Oregon-first system registered her?",
+      "correctAnswer": "Motor Voter automatic registration - Oregon's 2015 law (effective 2016) made it the first state to register eligible voters automatically through DMV transactions unless they opt out",
+      "distractors": [
+        "The Oregon System - the 1902 direct-democracy package included automatic registration",
+        "The National Voter Registration Act - the 1993 federal law made Oregon register voters at the DMV counter by form",
+        "Vote-by-mail - receiving a ballot automatically enrolls the recipient as a voter"
+      ],
+      "difficulty": "medium",
+      "explanation": "Oregon extended its election-innovation tradition in 2015 with the nation's first automatic voter registration law: eligible citizens interacting with the DMV are registered by default and may opt out afterward. Several states have since copied the model, as they once copied the Oregon System.",
+      "memoryHook": "T-Rexy says: First with mail ballots, first with automatic registration - the DMV does the paperwork.",
+      "tags": [
+        "motor-voter",
+        "oregon-elections"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_086",
+      "question": "A civics standard asks Oregon students to study the government-to-government relationship between the state and the federally recognized tribal governments within Oregon's borders. Exactly how many such tribal governments are there?",
+      "correctAnswer": "Nine federally recognized tribal governments",
+      "distractors": [
+        "Five federally recognized tribal governments",
+        "Twelve federally recognized tribal governments",
+        "Twenty-seven federally recognized tribal governments"
+      ],
+      "difficulty": "easy",
+      "explanation": "Oregon is home to nine federally recognized tribes: the Burns Paiute Tribe; the Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians; the Confederated Tribes of the Grand Ronde Community; the Confederated Tribes of Siletz Indians; the Confederated Tribes of the Umatilla Indian Reservation; the Confederated Tribes of Warm Springs; the Coquille Indian Tribe; the Cow Creek Band of Umpqua Tribe of Indians; and the Klamath Tribes. Standard HS.C.PI.4 makes their relationship with Oregon required course content.",
+      "memoryHook": "T-Rexy says: Nine tribal governments, nine partners - count them and remember the number.",
+      "tags": [
+        "tribal-governments",
+        "oregon-tribal"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_087",
+      "question": "A student assumes tribal governments are a kind of county created by the State of Oregon and answerable to the governor. A tribal leader corrects her: tribal sovereignty did not come from Oregon at all. What is the correct account?",
+      "correctAnswer": "Tribal nations are sovereign political entities whose self-government predates the United States; their status is recognized by the U.S. Constitution, treaties, and federal law - not granted by any state",
+      "distractors": [
+        "Tribal governments are federal agencies, created by Congress to administer reservations",
+        "Tribal governments are private cultural associations with no governmental authority",
+        "Tribal governments hold whatever powers each state legislature chooses to lend them"
+      ],
+      "difficulty": "medium",
+      "explanation": "Tribal sovereignty is inherent: Native nations governed themselves long before the United States existed, and treaties between tribes and the federal government presuppose nations capable of making them. Oregon deals with the nine tribal governments as governments - the meaning of 'government-to-government' in HS.C.PI.4.",
+      "memoryHook": "T-Rexy says: Sovereignty older than the state itself - recognized, never granted, by Oregon.",
+      "tags": [
+        "tribal-sovereignty",
+        "oregon-tribal"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_088",
+      "question": "In the 1850s, tribes across Oregon signed treaties with the United States ceding vast homelands. A lawyer explains that those documents still matter in court today because of what the tribes kept, not only what they gave up. What did the treaties reserve?",
+      "correctAnswer": "Reserved rights - by ceding land, tribes retained the rights they did not give up, such as fishing, hunting, and gathering at usual and accustomed places, along with their self-government",
+      "distractors": [
+        "Nothing - the treaties were symbolic ceremonies with no legal force after 1900",
+        "State voting rights - the treaties promised tribes seats in the Legislative Assembly",
+        "Tax exemptions for all tribal members in every transaction forever"
+      ],
+      "difficulty": "medium",
+      "explanation": "Under the reserved-rights doctrine, a treaty is not a grant of rights to a tribe but a grant from the tribe: everything not ceded - including off-reservation fishing and gathering rights and self-government - remains with the tribe. Courts still enforce those nineteenth-century promises in the Pacific Northwest today.",
+      "memoryHook": "T-Rexy says: A treaty is a tribe's grant to the United States, not the other way around.",
+      "tags": [
+        "treaties",
+        "oregon-tribal"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_089",
+      "question": "A teacher planning a unit opens the state's Tribal History/Shared History curriculum, a set of lessons Oregon built for grades 4, 8, and 10 and wove into subjects from history to health. Who authored the framework's nine Essential Understandings, and under which 2017 law?",
+      "correctAnswer": "Oregon's nine federally recognized tribes themselves authored the Essential Understandings, under Senate Bill 13 (2017), which directed the Oregon Department of Education to build the curriculum in partnership with them",
+      "distractors": [
+        "The Oregon Department of Education wrote them alone, under the 2021 civics law",
+        "The U.S. Bureau of Indian Affairs wrote them, under the Indian Education Act",
+        "A national textbook publisher wrote them, under a state procurement contract"
+      ],
+      "difficulty": "hard",
+      "explanation": "Senate Bill 13 (2017) required ODE to develop a historically accurate, culturally relevant curriculum on the Native American experience in Oregon - in partnership with the tribes, who authored the nine Essential Understandings, from 'Since Time Immemorial' to 'Sovereignty' to 'Treaties with the United States.' The arrangement models the government-to-government relationship the civics standard teaches.",
+      "memoryHook": "T-Rexy says: The tribes wrote the understandings; the state built lessons around their words.",
+      "tags": [
+        "tribal-history-shared-history",
+        "oregon-tribal"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_090",
+      "question": "State agency staff preparing a new water policy that affects the Columbia River are told they cannot simply notify the tribes afterward - consultation must happen first, as a matter of Oregon law. Which framework creates that duty, and when did Oregon establish it?",
+      "correctAnswer": "Oregon's government-to-government framework, codified after Senate Bill 770 (2001), which directs state agencies to consult and cooperate with the nine tribal governments on policies that affect them",
+      "distractors": [
+        "The Oregon System of 1902, which required tribal approval of all water policy",
+        "A 1998 ballot measure that gave tribes veto power over state agency rules",
+        "The vote-by-mail law, which requires tribal notice before any agency action"
+      ],
+      "difficulty": "hard",
+      "explanation": "Executive orders in the 1990s began Oregon's formal government-to-government practice, and SB 770 (2001), now ORS 182.162-168, codified it: agencies must designate contacts, train staff, and consult tribal governments on matters of mutual concern, with an annual summit between the governor and tribal leaders. Consultation is a legal duty, not a courtesy.",
+      "memoryHook": "T-Rexy says: Consult first, decide second - SB 770 turned respect into a procedure.",
+      "tags": [
+        "government-to-government",
+        "oregon-tribal"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_091",
+      "question": "A student reading Oregon's original 1857 constitution finds a clause barring free Black people who were not already residents from coming to Oregon, holding property, or making contracts - in the only constitution of any state admitted to the Union to contain such a racial exclusion clause. Under which Oregon standard is this document studied, and alongside what?",
+      "correctAnswer": "HS.C.DP.15 - it is studied for the exclusionary language and intent of the Oregon and U.S. Constitutions, and for the provisions and processes that later expanded and protected civil rights",
+      "distractors": [
+        "HS.C.PI.4 - it is studied as part of the government-to-government relationship with tribal governments",
+        "HS.C.IR.8 - it is studied only as an example of efficient government structure",
+        "No standard - Oregon removed the clause, so the original text is no longer taught"
+      ],
+      "difficulty": "medium",
+      "explanation": "The 1857 constitution combined a ban on slavery with a Black exclusion clause voters approved by a wide margin - Oregon was admitted in 1859 as a free state that tried to be an all-white one. HS.C.DP.15 requires students to evaluate that exclusionary language against the rights-expanding amendments that followed, rather than pretend the clause never existed.",
+      "memoryHook": "T-Rexy says: A free state that tried to exclude: the clause is taught, not hidden.",
+      "tags": [
+        "exclusion-clause",
+        "oregon-constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_092",
+      "question": "Oregon's exclusion clause outlived its enforcement era by decades, remaining printed in the state constitution long after the Fourteenth Amendment made it unenforceable. In what year did Oregon voters finally delete the language from their constitution?",
+      "correctAnswer": "1926 - voters repealed the Black exclusion clause, nearly seventy years after adopting it",
+      "distractors": [
+        "1868 - the clause was automatically deleted when the Fourteenth Amendment was ratified",
+        "1951 - voters removed it as part of the postwar constitutional cleanup",
+        "2000 - voters removed the last exclusionary language at the turn of the century"
+      ],
+      "difficulty": "hard",
+      "explanation": "The clause was a dead letter after the Fourteenth Amendment (1868) and the end of Oregon's exclusion laws, but dead letters stay in constitutions until voters remove them. Oregon voters repealed the Black exclusion clause in 1926; other discriminatory language, aimed at Chinese residents, was likewise repealed by later voter action - a standing lesson in how amendment processes repair constitutions.",
+      "memoryHook": "T-Rexy says: Unenforceable from 1868, unrepealed until 1926 - removal takes a vote.",
+      "tags": [
+        "exclusion-repeal",
+        "oregon-constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_093",
+      "question": "An Oregon court protects a form of expression even though lawyers concede the U.S. Supreme Court might allow it to be regulated under the First Amendment. The court answers that it does not need federal permission. On what basis?",
+      "correctAnswer": "The Oregon Constitution's own free-expression clause, Article I, section 8, which Oregon courts interpret independently and have read to give speech protection broader than the federal floor",
+      "distractors": [
+        "The Tenth Amendment, which lets any state court ignore Supreme Court rulings it dislikes",
+        "The Oregon System, which lets voters override federal court decisions by initiative",
+        "Article IV's Full Faith and Credit Clause, which imports other states' speech rulings"
+      ],
+      "difficulty": "hard",
+      "explanation": "State constitutions set floors of their own: a state may protect more liberty than the U.S. Constitution requires, though never less. Oregon courts famously read Article I, section 8's free-expression guarantee independently - in cases such as State v. Henry (1987) - producing protections broader than the federal First Amendment floor.",
+      "memoryHook": "T-Rexy says: Federal rights are a floor, not a ceiling - Oregon's own clause can rise higher.",
+      "tags": [
+        "oregon-free-speech",
+        "oregon-constitution"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_094",
+      "question": "Portland voters adopt a city charter letting their council design its own form of government and legislate on local matters, without asking Salem for a charter. A newcomer asks which Oregon reform lets a city govern itself this way. What is it?",
+      "correctAnswer": "Municipal home rule - Oregon's 1906 constitutional amendment lets cities adopt their own charters and manage local affairs, within state and federal limits",
+      "distractors": [
+        "The initiative - city voters may legislate directly on any local topic at any time",
+        "The referendum - cities may veto any state law by local vote",
+        "County home rule only - Oregon cities remain creatures of the legislature entirely"
+      ],
+      "difficulty": "medium",
+      "explanation": "Oregon was a national leader in home rule: amendments adopted in 1906 let incorporated cities write their own charters and exercise power over municipal affairs. Home rule is another Progressive Era Oregon reform, sitting beside the initiative, referendum, and recall in the state's direct-democracy inheritance.",
+      "memoryHook": "T-Rexy says: 1906 gave cities their own charters - Salem's permission slip no longer required.",
+      "tags": [
+        "home-rule",
+        "oregon-government"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_095",
+      "question": "Weeks before an election, every Oregon household receives a thick state booklet containing candidate statements, the full text and official explanations of ballot measures, and arguments for and against them bought by any citizen for a modest fee. What is this uniquely Oregon institution?",
+      "correctAnswer": "The Oregon Voters' Pamphlet - published by the Secretary of State since the early 1900s so voters can study measures at home before voting",
+      "distractors": [
+        "The Federal Register - the national government's daily record of agency rules",
+        "The Legislative Assembly's journal - the official record of floor debates",
+        "The Oregon Blue Book - the state's almanac of government agencies and officials"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Voters' Pamphlet began in 1903, a direct companion to the new initiative system: if the people were to legislate, they needed the text, the fiscal estimates, and arguments on every side delivered to their homes. It remains the model of voter information in initiative states - and pairs naturally with vote-by-mail a century later.",
+      "memoryHook": "T-Rexy says: The pamphlet is the initiative's instruction manual, mailed to every home.",
+      "tags": [
+        "voters-pamphlet",
+        "oregon-elections"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_096",
+      "question": "An Oregon high school counselor explains that a student's half-credit of civics cannot be folded into a U.S. history survey course, however good the history teacher is. Which Oregon rule is she applying?",
+      "correctAnswer": "Senate Bill 513 (2021) - Oregon's standalone Civics credit must be a course addressing only the Civics standards; it may not be blended with other standards",
+      "distractors": [
+        "The Oregon System - voters reserved all course design to ballot measures",
+        "Senate Bill 13 - Oregon's Tribal History law forbids combining any two subjects",
+        "The Twenty-sixth Amendment - civics must be taught in a student's final semester"
+      ],
+      "difficulty": "easy",
+      "explanation": "SB 513 (2021) added a standalone 0.5-credit Civics requirement inside Oregon's 3.0 social-science credits, for students first enrolled in grade 9 in 2022-23. The Oregon Department of Education's guidance is explicit: the course must address only the Civics standards and may not blend them with history, geography, or economics - which is why this pack exists as its own test.",
+      "memoryHook": "T-Rexy says: Civics stands alone in Oregon: half a credit, no blending allowed.",
+      "tags": [
+        "civics-course",
+        "oregon-civics-course"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_097",
+      "question": "After the 2020 census, Oregon gained something in Washington, D.C., that it had not gained in four decades, while its Senate delegation stayed exactly the same size. What changed, and what does the change illustrate?",
+      "correctAnswer": "Oregon gained a sixth seat in the U.S. House of Representatives (six representatives, two senators) - House seats follow population through reapportionment, while Senate seats never change",
+      "distractors": [
+        "Oregon gained a third senator, because Senate seats follow population growth",
+        "Oregon gained a sixth electoral vote, but its House delegation stayed at five",
+        "Oregon lost a House seat, illustrating that western states shrink after every census"
+      ],
+      "difficulty": "easy",
+      "explanation": "Oregon held five House seats from the 1980s until the 2020 census, whose growth figures earned the state a sixth district for the elections of the 2020s. Its Senate delegation stayed at two, as every state's does - the Connecticut Compromise playing out in Oregon's own numbers: eight members of Congress, six by population and two by statehood.",
+      "memoryHook": "T-Rexy says: Census growth bought Oregon a sixth House seat; the Senate still reads two.",
+      "tags": [
+        "oregon-representation",
+        "oregon-government"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_098",
+      "question": "Standard HS.C.IR.8 asks Oregon students to debate the central ideas of the government of the United States and of Oregon side by side. A student's chart lists three branches, a bill of rights, and an elected chief executive on both sides - then adds one row where Oregon differs sharply from the federal design. Which row is it?",
+      "correctAnswer": "Direct democracy: Oregon voters legislate through the initiative, veto laws by referendum, and remove officials by recall - powers the federal Constitution gives citizens of the United States nowhere",
+      "distractors": [
+        "Term limits: only Oregon limits its chief executive to two consecutive terms",
+        "A written constitution: Oregon has one, while the United States does not",
+        "A senate: Oregon's constitution gives its legislature two chambers, while the federal Constitution gives Congress only one"
+      ],
+      "difficulty": "medium",
+      "explanation": "The shared architecture is real - three branches, rights charters, separated powers - which is exactly why the differences teach so much. The federal system reserves lawmaking to representatives; Oregon layers the Oregon System on top of representation, letting voters make, veto, and repeal law and remove officers directly.",
+      "memoryHook": "T-Rexy says: Same skeleton, extra muscle: Oregon bolted direct democracy onto a republican frame.",
+      "tags": [
+        "oregon-us-comparison",
+        "oregon-government"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_099",
+      "question": "A federal judge in Oregon serves for life, while an Oregon state judge sitting in the next courtroom must face the voters in a nonpartisan election every six years - and if a state judgeship falls vacant mid-term, the governor's appointee must still win an election to keep the seat. Which value does Oregon's system prioritize that the federal system deliberately trades away?",
+      "correctAnswer": "Direct democratic accountability of judges - Oregon accepts election pressure on judges as the price of keeping them answerable to the people, while Article III trades accountability for independence",
+      "distractors": [
+        "Judicial supremacy - Oregon judges may overrule the voters at any time",
+        "Efficiency - elections are faster than appointments for filling court seats",
+        "Federalism in reverse - Oregon copies its judicial selection from Article III exactly"
+      ],
+      "difficulty": "hard",
+      "explanation": "The contrast is a designed experiment inside one state: federal judges in Oregon are insulated for life under Article III, while Oregon's own judges - including its Supreme Court - are elected statewide to six-year terms, with gubernatorial appointees serving only until the next election. Each system buys one value (accountability or independence) by spending the other.",
+      "memoryHook": "T-Rexy says: Life tenure on one floor, six-year elections on the next - same building, opposite bets.",
+      "tags": [
+        "oregon-judicial-elections",
+        "oregon-government"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ORC12_100",
+      "question": "An Oregon tribe wishes to operate a casino on its reservation. Under the federal Indian Gaming Regulatory Act, the casino's Class III gaming cannot simply open - it requires a negotiated agreement with the state. What is that agreement called, and what does negotiating one demonstrate?",
+      "correctAnswer": "A tribal-state compact - negotiating one demonstrates the government-to-government relationship in action, with the sovereign tribe and the State of Oregon bargaining as governments, not as a business and its regulator",
+      "distractors": [
+        "A home-rule charter - it shows cities and tribes share the same legal status in Oregon",
+        "A legislative referral - it shows the Legislative Assembly votes on every tribal enterprise",
+        "A treaty amendment - each casino reopens the tribe's nineteenth-century treaty for revision"
+      ],
+      "difficulty": "medium",
+      "explanation": "IGRA (1988) requires a tribal-state compact for casino-style gaming, negotiated between the governor and the tribe and approved federally. Oregon's compacts with its tribal governments - covering revenue sharing for community benefit and regulatory terms - are the modern, practical face of HS.C.PI.4's government-to-government standard.",
+      "memoryHook": "T-Rexy says: A compact is sovereignty at a negotiating table: two governments, one agreement.",
+      "tags": [
+        "tribal-gaming-compacts",
+        "oregon-tribal"
+      ],
+      "imageUrl": "topic:oregon-civics",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}
