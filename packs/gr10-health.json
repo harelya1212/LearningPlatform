@@ -1,11 +1,11 @@
 {
   "packId": "gr10-health",
   "title": "Health (10th Grade)",
-  "description": "Health (10th Grade) practice - 156 questions",
+  "description": "Health (10th Grade) practice - 164 questions, including Idaho-mandated adoption and Safe Haven content (Idaho Code 33-342; Safe Haven Act, Title 39, Chapter 82)",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 156,
+  "totalQuestions": 164,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -3283,6 +3283,222 @@
         "tip": "Safe Haven: up to 60 days old, handed to staff at a designated site, anonymous and protected.",
         "title": "A SAFE HANDOVER"
       }
+    },
+    {
+      "id": "HEA10_157",
+      "question": "Idaho policy on sex education instruction (Idaho Code 33-342) requires that, when such instruction is given, it must include information about:",
+      "correctAnswer": "Available adoption resources and current adoption practices",
+      "distractors": [
+        "Only abstinence slogans",
+        "Adoption agencies' advertising",
+        "Foster-care payment rates"
+      ],
+      "difficulty": "easy",
+      "explanation": "Section 33-342's condition is factual: any sex education a district provides must present adoption as an option, with current practices and where Idaho resources are found.",
+      "memoryHook": "T-Rexy says: Adoption information is required content.",
+      "tags": [
+        "idaho-extend",
+        "adoption"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif door, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Adoption information is required content.",
+        "title": "ADOPTION"
+      },
+      "_motif": "door"
+    },
+    {
+      "id": "HEA10_158",
+      "question": "Idaho's Safe Haven Act (Idaho Code Title 39, Chapter 82) exists for one situation: it lets a parent who cannot care for a newborn:",
+      "correctAnswer": "Surrender the infant safely and legally at a designated safe haven instead of abandoning the baby",
+      "distractors": [
+        "Leave a baby anywhere without consequence",
+        "Surrender a child of any age at any business",
+        "End parental rights by written note alone"
+      ],
+      "difficulty": "medium",
+      "explanation": "Safe haven laws trade anonymity and immunity for safety: the point is that a newborn ends up in medical hands, not in danger.",
+      "memoryHook": "T-Rexy says: Safe surrender instead of abandonment.",
+      "tags": [
+        "idaho-extend",
+        "safe-haven"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif door, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Safe surrender instead of abandonment.",
+        "title": "SAFE HAVEN"
+      },
+      "_motif": "door"
+    },
+    {
+      "id": "HEA10_159",
+      "question": "Under Idaho's Safe Haven Act, an infant may be surrendered if the child is no more than:",
+      "correctAnswer": "30 days old",
+      "distractors": [
+        "6 months old",
+        "1 year old",
+        "3 years old"
+      ],
+      "difficulty": "medium",
+      "explanation": "Idaho sets the window at 30 days: the act covers newborns only, surrendered unharmed within the first month of life.",
+      "memoryHook": "T-Rexy says: Thirty days is Idaho's window.",
+      "tags": [
+        "idaho-extend",
+        "safe-haven"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif shield, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Thirty days is Idaho's window.",
+        "title": "SAFE HAVEN"
+      },
+      "_motif": "shield"
+    },
+    {
+      "id": "HEA10_160",
+      "question": "In Idaho, designated safe haven locations - the places staffed to receive a surrendered infant - include:",
+      "correctAnswer": "Hospitals, law enforcement agencies, and fire stations / EMS providers",
+      "distractors": [
+        "Any retail store",
+        "Schools",
+        "Post offices"
+      ],
+      "difficulty": "medium",
+      "explanation": "Safe havens are places with trained personnel on hand who can take custody and get the infant immediate medical care; the Idaho act names hospitals and emergency-service sites.",
+      "memoryHook": "T-Rexy says: Havens are staffed emergency sites.",
+      "tags": [
+        "idaho-extend",
+        "safe-haven"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif door, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Havens are staffed emergency sites.",
+        "title": "SAFE HAVEN"
+      },
+      "_motif": "door"
+    },
+    {
+      "id": "HEA10_161",
+      "question": "A parent who surrenders an unharmed infant at an Idaho safe haven within the statutory window is protected by the Act in which way?",
+      "correctAnswer": "The surrender is confidential and the parent is shielded from prosecution for the surrender itself",
+      "distractors": [
+        "The parent is paid a state reward",
+        "The parent automatically regains custody later",
+        "The surrender is published in the newspaper"
+      ],
+      "difficulty": "medium",
+      "explanation": "Confidentiality and immunity for the act of safe surrender are the Act's core incentives; a baby who has been harmed is outside the Act's protection.",
+      "memoryHook": "T-Rexy says: Confidential and protected - if unharmed.",
+      "tags": [
+        "idaho-extend",
+        "safe-haven"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif shield, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Confidential and protected - if unharmed.",
+        "title": "SAFE HAVEN"
+      },
+      "_motif": "shield"
+    },
+    {
+      "id": "HEA10_162",
+      "question": "What happens immediately after an infant is surrendered at an Idaho safe haven?",
+      "correctAnswer": "Personnel take custody, arrange a medical examination and care, and notify child-protection authorities so the baby enters the child-welfare system",
+      "distractors": [
+        "The baby is adopted on the spot by staff",
+        "The baby is returned to the parent after 24 hours",
+        "The baby stays at the station until claimed"
+      ],
+      "difficulty": "hard",
+      "explanation": "The receiving site provides immediate care and hands the case to health and welfare authorities; any adoption comes later, through the courts, after legal procedures protect everyone's rights.",
+      "memoryHook": "T-Rexy says: First care and custody, then the courts.",
+      "tags": [
+        "idaho-extend",
+        "safe-haven"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif heart, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: First care and custody, then the courts.",
+        "title": "SAFE HAVEN"
+      },
+      "_motif": "heart"
+    },
+    {
+      "id": "HEA10_163",
+      "question": "Adoption, as Idaho teaches it under Section 33-342, is best defined as:",
+      "correctAnswer": "The legal process by which parental rights and responsibilities are transferred to adoptive parents, who become the child's legal parents",
+      "distractors": [
+        "Informal long-term babysitting",
+        "A temporary foster-care placement",
+        "A hospital's custody of a newborn"
+      ],
+      "difficulty": "hard",
+      "explanation": "Adoption is permanent and court-ordered: it creates a new legal parent-child relationship, unlike foster care, which is temporary and does not transfer parental rights.",
+      "memoryHook": "T-Rexy says: Adoption is a permanent legal transfer.",
+      "tags": [
+        "idaho-extend",
+        "adoption"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif circles, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Adoption is a permanent legal transfer.",
+        "title": "ADOPTION"
+      },
+      "_motif": "circles"
+    },
+    {
+      "id": "HEA10_164",
+      "question": "Idaho's Safe Haven Act and its adoption education rule share one underlying policy goal. That goal is:",
+      "correctAnswer": "That every newborn ends up in safe, lawful care - with parents equipped to choose a safe option rather than an unsafe abandonment",
+      "distractors": [
+        "Reducing the number of hospitals in Idaho",
+        "Discouraging all adoption",
+        "Replacing foster care"
+      ],
+      "difficulty": "hard",
+      "explanation": "Both provisions aim at the same outcome from different sides: information about adoption beforehand (33-342), and a safe, legal last-resort surrender afterward (Title 39, Ch. 82).",
+      "memoryHook": "T-Rexy says: Safe options, known in advance.",
+      "tags": [
+        "idaho-extend",
+        "adoption"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif shield, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Safe options, known in advance.",
+        "title": "ADOPTION"
+      },
+      "_motif": "shield"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "packId": "gr8-health",
   "title": "Health (8th Grade)",
-  "description": "Health (8th Grade) practice - 127 questions",
+  "description": "Health (8th Grade) practice - 142 questions, including Idaho-mandated fetal development content (Idaho Code 33-1637)",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 130,
+  "totalQuestions": 142,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2637,6 +2637,330 @@
         "tip": "If frustration rises, put the baby down safely, step away, and call a trusted adult.",
         "title": "PUT THE BABY DOWN SAFELY"
       }
+    },
+    {
+      "id": "HEA8_131",
+      "question": "Human development begins at fertilization. Fertilization - the joining of a sperm cell and an egg cell - normally takes place in which structure?",
+      "correctAnswer": "The fallopian tube",
+      "distractors": [
+        "The uterus",
+        "The ovary",
+        "The cervix"
+      ],
+      "difficulty": "easy",
+      "explanation": "The egg is fertilized in the fallopian tube; the resulting zygote then travels to the uterus over several days, dividing as it goes.",
+      "memoryHook": "T-Rexy says: It starts in the tube.",
+      "tags": [
+        "idaho-extend",
+        "fetal"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif wave, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: It starts in the tube.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "wave"
+    },
+    {
+      "id": "HEA8_132",
+      "question": "The single cell formed by fertilization is called a zygote. Its next major step, about a week after fertilization, is implantation - which means it:",
+      "correctAnswer": "Attaches to the lining of the uterus",
+      "distractors": [
+        "Leaves the mother's body",
+        "Becomes a fetus immediately",
+        "Forms the placenta by itself"
+      ],
+      "difficulty": "easy",
+      "explanation": "After several days of cell division the developing cluster (a blastocyst) implants in the uterine lining, where it receives nourishment and the placenta begins to form.",
+      "memoryHook": "T-Rexy says: Implantation anchors development.",
+      "tags": [
+        "idaho-extend",
+        "fetal"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif circles, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Implantation anchors development.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "circles"
+    },
+    {
+      "id": "HEA8_133",
+      "question": "From about week 3 through week 8 after fertilization, the developing human is called an embryo. This embryonic period is especially important because during it:",
+      "correctAnswer": "The foundations of all major organ systems form",
+      "distractors": [
+        "The baby doubles in size every week",
+        "The lungs begin breathing air",
+        "Hair and nails first appear"
+      ],
+      "difficulty": "easy",
+      "explanation": "Organogenesis happens in the embryonic period - heart, brain, spinal cord, limbs, and other systems are laid down, which is why early weeks are a sensitive window of development.",
+      "memoryHook": "T-Rexy says: Weeks three to eight build the systems.",
+      "tags": [
+        "idaho-extend",
+        "fetal"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif circles, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Weeks three to eight build the systems.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "circles"
+    },
+    {
+      "id": "HEA8_134",
+      "question": "Using ultrasound imaging, a developing baby's heartbeat can usually first be detected at about which stage of pregnancy?",
+      "correctAnswer": "Around week 6",
+      "distractors": [
+        "Around week 2",
+        "Around week 20",
+        "Only at birth"
+      ],
+      "difficulty": "medium",
+      "explanation": "The heart begins beating in the fifth week, and transvaginal ultrasound can typically detect the heartbeat around week 6 - one reason ultrasound is used to confirm and date a pregnancy.",
+      "memoryHook": "T-Rexy says: Heartbeat shows near week six.",
+      "tags": [
+        "idaho-extend",
+        "fetal"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif heart, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Heartbeat shows near week six.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "heart"
+    },
+    {
+      "id": "HEA8_135",
+      "question": "At the end of the eighth week after fertilization, the embryo takes the name used for the rest of pregnancy. From week 9 until birth, the developing baby is called a:",
+      "correctAnswer": "Fetus",
+      "distractors": [
+        "Zygote",
+        "Blastocyst",
+        "Embryo"
+      ],
+      "difficulty": "medium",
+      "explanation": "Developmental names mark stages: zygote (fertilization), embryo (weeks 3-8, organs forming), fetus (week 9 to birth, growth and maturation).",
+      "memoryHook": "T-Rexy says: Week nine: the name is fetus.",
+      "tags": [
+        "idaho-extend",
+        "fetal"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif circles, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Week nine: the name is fetus.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "circles"
+    },
+    {
+      "id": "HEA8_136",
+      "question": "Pregnancy is divided into three trimesters. By the end of the FIRST trimester (about week 12), which statement is accurate?",
+      "correctAnswer": "All major organs have formed, and the rest of pregnancy is mainly growth and maturation",
+      "distractors": [
+        "The baby can survive outside the uterus",
+        "The baby weighs about three pounds",
+        "Fingernails and toenails are fully grown"
+      ],
+      "difficulty": "medium",
+      "explanation": "The first trimester completes the body plan; the second and third trimesters are devoted to growth, organ maturation, and weight gain.",
+      "memoryHook": "T-Rexy says: Formed by twelve weeks; then growth.",
+      "tags": [
+        "idaho-extend",
+        "fetal"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif wave, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Formed by twelve weeks; then growth.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "wave"
+    },
+    {
+      "id": "HEA8_137",
+      "question": "The placenta is an organ that develops during pregnancy and is delivered after the baby. Its job is to:",
+      "correctAnswer": "Transfer oxygen and nutrients from the mother's blood to the baby and carry wastes away",
+      "distractors": [
+        "Produce the mother's hormones only",
+        "Store the baby's food after birth",
+        "Protect the baby from all infections completely"
+      ],
+      "difficulty": "medium",
+      "explanation": "Mother's and baby's blood do not mix directly; across the placenta, oxygen and nutrients pass to the baby while carbon dioxide and wastes pass back for the mother to clear.",
+      "memoryHook": "T-Rexy says: The placenta is the supply line.",
+      "tags": [
+        "idaho-extend",
+        "fetal"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif wave, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: The placenta is the supply line.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "wave"
+    },
+    {
+      "id": "HEA8_138",
+      "question": "During the second trimester, most mothers first feel the baby move - a milestone called quickening. Quickening is usually first felt around:",
+      "correctAnswer": "Weeks 16 to 20",
+      "distractors": [
+        "Weeks 4 to 6",
+        "Weeks 30 to 34",
+        "Only during labor"
+      ],
+      "difficulty": "hard",
+      "explanation": "First movements are usually noticed between weeks 16 and 20 (earlier in later pregnancies); in the same trimester the baby's hearing develops and the heartbeat can be heard with a stethoscope.",
+      "memoryHook": "T-Rexy says: Movement is felt mid-pregnancy.",
+      "tags": [
+        "idaho-extend",
+        "fetal"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif heart, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Movement is felt mid-pregnancy.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "heart"
+    },
+    {
+      "id": "HEA8_139",
+      "question": "Doctors use the term 'viability' for the stage at which a baby born early has a meaningful chance of surviving outside the uterus with intensive medical care. In current practice, viability is usually placed at about:",
+      "correctAnswer": "23 to 24 weeks",
+      "distractors": [
+        "12 weeks",
+        "16 weeks",
+        "Only at 40 weeks"
+      ],
+      "difficulty": "hard",
+      "explanation": "Survival before about 22 weeks is extremely rare and rises steeply from 23-24 weeks as the lungs and brain develop; viability is a medical threshold, distinct from full term.",
+      "memoryHook": "T-Rexy says: Viability sits near twenty-four weeks.",
+      "tags": [
+        "idaho-extend",
+        "fetal"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif shield, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Viability sits near twenty-four weeks.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "shield"
+    },
+    {
+      "id": "HEA8_140",
+      "question": "The third trimester (weeks 28 to birth) is dominated by which developmental work?",
+      "correctAnswer": "Rapid brain growth, lung maturation, and steady weight gain",
+      "distractors": [
+        "Formation of the basic organ systems",
+        "Implantation in the uterus",
+        "The first heartbeat"
+      ],
+      "difficulty": "hard",
+      "explanation": "Late pregnancy finishes what the embryonic period started: the brain grows fastest, the lungs produce surfactant so they can inflate, and the baby gains most of its birth weight.",
+      "memoryHook": "T-Rexy says: The last trimester finishes and fattens.",
+      "tags": [
+        "idaho-extend",
+        "fetal"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif circles, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: The last trimester finishes and fattens.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "circles"
+    },
+    {
+      "id": "HEA8_141",
+      "question": "A pregnancy measured from the first day of the mother's last menstrual period lasts, on average, about:",
+      "correctAnswer": "40 weeks",
+      "distractors": [
+        "28 weeks",
+        "36 weeks exactly for everyone",
+        "52 weeks"
+      ],
+      "difficulty": "easy",
+      "explanation": "The standard 40-week count runs from the last menstrual period, so fertilization occurs around week 2 of that count; births from 39 to 40 weeks are considered full term.",
+      "memoryHook": "T-Rexy says: Forty weeks is the average count.",
+      "tags": [
+        "idaho-extend",
+        "fetal"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif wave, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: Forty weeks is the average count.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "wave"
+    },
+    {
+      "id": "HEA8_142",
+      "question": "Idaho law (Idaho Code 33-1637) requires human growth and development instruction in grades 5-12 to include specific visual material. The required material is:",
+      "correctAnswer": "A high-definition ultrasound video (at least 3 minutes) of fetal development, plus a computer-generated animation of fertilization and every stage of development to birth",
+      "distractors": [
+        "A live classroom demonstration",
+        "A documentary about hospital births only",
+        "Slides of adult human anatomy"
+      ],
+      "difficulty": "easy",
+      "explanation": "Section 33-1637 (2025) names the presentation expressly: an ultrasound video of at least 3 minutes and an animation covering fertilization through birth, included in every class discussing human biology, contraception, or STDs/STIs.",
+      "memoryHook": "T-Rexy says: The statute names a video and an animation.",
+      "tags": [
+        "idaho-extend",
+        "statute"
+      ],
+      "imageUrl": "topic:idaho-health-extend",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "PIL symbolic (deterministic): motif shield, no readable text, no numbers, no dino - sensitive topic.",
+        "tip": "T-Rexy says: The statute names a video and an animation.",
+        "title": "FETAL DEVELOPMENT"
+      },
+      "_motif": "shield"
     }
   ]
 }

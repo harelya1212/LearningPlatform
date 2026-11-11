@@ -1,0 +1,2617 @@
+{
+ "packId": "gr12-idaho-civics",
+ "title": "Idaho Civics & Government (12th Grade)",
+ "description": "Idaho Civics & Government (12th Grade) practice - 100 questions",
+ "version": "1.0",
+ "language": "en",
+ "passingScore": 60,
+ "totalQuestions": 100,
+ "addedAt": "2026-11-10",
+ "tags": [
+  "civics",
+  "idaho",
+  "grade-12"
+ ],
+ "questions": [
+  {
+   "id": "IDC12_001",
+   "question": "A Boise teacher asks her class what the Constitution's opening phrase 'We the People' was meant to replace as the source of authority. Under the theory those words announce, legitimate government power ultimately rests with:",
+   "correctAnswer": "The governed - the people, who delegate power through the Constitution",
+   "distractors": [
+    "The king, ruling by divine right",
+    "The army, which enforces the laws",
+    "The wealthiest landowners"
+   ],
+   "difficulty": "easy",
+   "explanation": "Popular sovereignty means authority originates with the people; governments hold only the power the people grant, a break from the divine-right theory the Revolution rejected.",
+   "memoryHook": "T-Rexy says: Power starts with the people.",
+   "tags": [
+    "federal",
+    "founding"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "An old parchment document resting on a wooden desk beside a brass lamp, warm window light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Power starts with the people.",
+    "title": "WE THE PEOPLE"
+   }
+  },
+  {
+   "id": "IDC12_002",
+   "question": "At a Meridian town hall, a resident says the city council works for the voters, not the other way around. The principle she is describing - that government authority flows upward from ordinary citizens - is called:",
+   "correctAnswer": "Popular sovereignty",
+   "distractors": [
+    "Judicial review",
+    "Federalism",
+    "Separation of powers"
+   ],
+   "difficulty": "easy",
+   "explanation": "Popular sovereignty places the people as the source of all governmental power; officials are their agents, removable through elections and bound by constitutions the people ordain.",
+   "memoryHook": "T-Rexy says: The people are the boss.",
+   "tags": [
+    "federal",
+    "founding"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Citizens speaking with officials across a table at a small town hall meeting, friendly mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: The people are the boss.",
+    "title": "POPULAR SOVEREIGNTY"
+   }
+  },
+  {
+   "id": "IDC12_003",
+   "question": "Under the Articles of Confederation, Congress needed money to pay war debts but could only ask the states to contribute voluntarily. The structural weakness this exposed was that Congress had no power to:",
+   "correctAnswer": "Levy taxes directly on the people",
+   "distractors": [
+    "Declare war",
+    "Make treaties with foreign nations",
+    "Establish a postal service"
+   ],
+   "difficulty": "easy",
+   "explanation": "The Articles gave Congress war, treaty, and postal powers, but taxation stayed with the states, whose requisitions often went unpaid - the flaw that drove calls for a stronger union.",
+   "memoryHook": "T-Rexy says: No tax power crippled the Articles.",
+   "tags": [
+    "federal",
+    "founding"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A nearly empty treasury chest in a colonial-era meeting room, candles burning low. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: No tax power crippled the Articles.",
+    "title": "ARTICLES OF CONFEDERATION"
+   }
+  },
+  {
+   "id": "IDC12_004",
+   "question": "In 1786, indebted Massachusetts farmers shut down courthouses to stop farm foreclosures. National leaders read this uprising - Shays' Rebellion - mainly as proof that:",
+   "correctAnswer": "The Confederation government was too weak to keep order and protect property",
+   "distractors": [
+    "The state militias were too strong",
+    "Taxes under the Articles were too high",
+    "The new nation needed a king"
+   ],
+   "difficulty": "medium",
+   "explanation": "Shays' Rebellion showed the Confederation could neither raise forces reliably nor calm domestic unrest, strengthening the movement that produced the Philadelphia Convention of 1787.",
+   "memoryHook": "T-Rexy says: Shays showed the cracks.",
+   "tags": [
+    "federal",
+    "founding"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Colonial-era farmers gathered outside a stone courthouse on a cold morning, somber mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Shays showed the cracks.",
+    "title": "SHAYS REBELLION"
+   }
+  },
+  {
+   "id": "IDC12_005",
+   "question": "When delegates gathered in Philadelphia in the summer of 1787, the task Congress had actually charged them with was to:",
+   "correctAnswer": "Revise the Articles of Confederation",
+   "distractors": [
+    "Write a declaration of independence",
+    "Elect the first President",
+    "Draw the boundaries of the western states"
+   ],
+   "difficulty": "medium",
+   "explanation": "The delegates were called to amend the Articles; once assembled they concluded revision was not enough and drafted an entirely new Constitution instead.",
+   "memoryHook": "T-Rexy says: Called to revise, they rewrote.",
+   "tags": [
+    "federal",
+    "founding"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Men in 1700s dress debating around a long green table in a brick assembly room. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Called to revise, they rewrote.",
+    "title": "PHILADELPHIA 1787"
+   }
+  },
+  {
+   "id": "IDC12_006",
+   "question": "At the convention, Idaho-sized small states backed the New Jersey Plan while large states backed the Virginia Plan. The core dispute between the two plans was whether representation in Congress should be:",
+   "correctAnswer": "Equal for every state, or proportional to population",
+   "distractors": [
+    "Chosen by lot, or elected",
+    "Limited to landowners, or open to all men",
+    "Rotating among the states yearly"
+   ],
+   "difficulty": "medium",
+   "explanation": "Virginia wanted seats by population in both houses; New Jersey insisted on state equality. The Connecticut Compromise split the question - proportional House, equal Senate.",
+   "memoryHook": "T-Rexy says: Equal or by population - that was the fight.",
+   "tags": [
+    "federal",
+    "founding"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Two groups of delegates facing each other across a convention table, maps spread between them, no labels. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Equal or by population - that was the fight.",
+    "title": "TWO PLANS"
+   }
+  },
+  {
+   "id": "IDC12_007",
+   "question": "The Three-Fifths Compromise counted three-fifths of a state's enslaved population when apportioning seats and direct taxes. Its immediate purpose inside the convention was to settle how enslaved people would figure in:",
+   "correctAnswer": "Representation in the House (and the electoral votes tied to it)",
+   "distractors": [
+    "The membership of the Senate",
+    "Eligibility for the presidency",
+    "The size of the federal judiciary"
+   ],
+   "difficulty": "medium",
+   "explanation": "Southern states wanted enslaved people counted fully for seats but not for taxes; Northern states the reverse. The 3/5 formula was the bargain struck - a moral failure that nonetheless shaped House power for decades.",
+   "memoryHook": "T-Rexy says: Three-fifths bought agreement, at a price.",
+   "tags": [
+    "federal",
+    "founding"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Delegates studying a large tally sheet by candlelight at a convention table, faces grave, sheet blank. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Three-fifths bought agreement, at a price.",
+    "title": "THREE-FIFTHS COMPROMISE"
+   }
+  },
+  {
+   "id": "IDC12_008",
+   "question": "Eighty-five essays urging New York to ratify the Constitution appeared in newspapers under the single pen name 'Publius.' The essayists behind that name - Hamilton, Madison, and Jay - produced the work known today as:",
+   "correctAnswer": "The Federalist Papers",
+   "distractors": [
+    "The Anti-Federalist Papers",
+    "Common Sense",
+    "The Kentucky Resolutions"
+   ],
+   "difficulty": "hard",
+   "explanation": "The Federalist Papers (1787-88) remain the most influential contemporary explanation of the Constitution's design, written to win ratification in New York.",
+   "memoryHook": "T-Rexy says: Publius argued for ratification.",
+   "tags": [
+    "federal",
+    "founding"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A stack of freshly printed newspapers beside an 18th century press, ink pots nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Publius argued for ratification.",
+    "title": "THE FEDERALIST PAPERS"
+   }
+  },
+  {
+   "id": "IDC12_009",
+   "question": "Opponents of ratification in 1788 kept returning to one omission in the proposed Constitution. The Anti-Federalists' central demand - later answered by the first ten amendments - was for:",
+   "correctAnswer": "An explicit bill of rights limiting the new federal government",
+   "distractors": [
+    "A one-house legislature",
+    "A president elected by state legislatures",
+    "A ban on standing armies in peacetime"
+   ],
+   "difficulty": "hard",
+   "explanation": "Anti-Federalists feared a distant national government; their pressure produced the promise of a bill of rights, added in 1791 as the first ten amendments.",
+   "memoryHook": "T-Rexy says: No rights list, no deal.",
+   "tags": [
+    "federal",
+    "founding"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A speaker addressing a crowd from statehouse steps in colonial dress, listeners debating. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: No rights list, no deal.",
+    "title": "ANTI-FEDERALIST DEMAND"
+   }
+  },
+  {
+   "id": "IDC12_010",
+   "question": "A civics diagram of the Constitution shows Article I building a legislature, Article II an executive, and Article III a judiciary. Assigning the great powers of government to three distinct branches in this way is the structural principle called:",
+   "correctAnswer": "Separation of powers",
+   "distractors": [
+    "Federalism",
+    "Popular sovereignty",
+    "Judicial review"
+   ],
+   "difficulty": "hard",
+   "explanation": "Separation of powers divides lawmaking, execution, and judging among different hands so that no single body holds the whole machinery of government; federalism, by contrast, divides power between levels.",
+   "memoryHook": "T-Rexy says: Three branches, three jobs.",
+   "tags": [
+    "federal",
+    "branches"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Three stone columns of different styles supporting one shared roof beam, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Three branches, three jobs.",
+    "title": "THREE BRANCHES"
+   }
+  },
+  {
+   "id": "IDC12_011",
+   "question": "Congress passes a bill over a Boise veterans' group's objections, and the President returns it unsigned with his objections written out. The President's action is the veto - which branch-checking tool, usable only against the legislative branch?",
+   "correctAnswer": "A check the executive holds over Congress",
+   "distractors": [
+    "A check the judiciary holds over Congress",
+    "A check Congress holds over itself",
+    "A power reserved to the states"
+   ],
+   "difficulty": "easy",
+   "explanation": "Checks and balances arm each branch against the others: the veto checks Congress, and Congress can answer with a two-thirds override in both houses.",
+   "memoryHook": "T-Rexy says: The veto checks Congress.",
+   "tags": [
+    "federal",
+    "branches"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A large document on a desk with a fountain pen set down beside it unsigned, capitol dome through the window. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: The veto checks Congress.",
+    "title": "CHECKS AND BALANCES"
+   }
+  },
+  {
+   "id": "IDC12_012",
+   "question": "In 1803 the Supreme Court faced a dispute over last-minute judicial commissions signed by the outgoing President. Its ruling in Marbury v. Madison mattered most because the Court claimed the authority to:",
+   "correctAnswer": "Refuse to enforce a law it found repugnant to the Constitution - judicial review",
+   "distractors": [
+    "Appoint federal judges itself",
+    "Overrule presidential vetoes",
+    "Set the size of its own membership"
+   ],
+   "difficulty": "easy",
+   "explanation": "Marbury grounded judicial review: a law conflicting with the Constitution is void, and it is the courts' province to say what the law is. The Court used the power sparingly for decades afterward.",
+   "memoryHook": "T-Rexy says: Marbury claimed judicial review.",
+   "tags": [
+    "federal",
+    "judiciary"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A judge in early 1800s dress reading a commission paper at a high wooden bench. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Marbury claimed judicial review.",
+    "title": "MARBURY V MADISON"
+   }
+  },
+  {
+   "id": "IDC12_013",
+   "question": "A Twin Falls class traces a proposed amendment's road through Article V. Congress proposes it, and then the amendment joins the Constitution only when it is ratified by:",
+   "correctAnswer": "Three-fourths of the states",
+   "distractors": [
+    "A majority of the states",
+    "Two-thirds of the states",
+    "All of the states without exception"
+   ],
+   "difficulty": "easy",
+   "explanation": "Article V demands supermajorities at both ends: two-thirds of Congress (or a convention) to propose, three-fourths of the states - 38 of 50 - to ratify.",
+   "memoryHook": "T-Rexy says: Propose by two-thirds, ratify by three-fourths.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Hands placing a sealed envelope into a large wooden ballot-style box in a statehouse hall. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Propose by two-thirds, ratify by three-fourths.",
+    "title": "SEALED ENVELOPE INTO A BOX"
+   }
+  },
+  {
+   "id": "IDC12_014",
+   "question": "An Idaho Falls newspaper prints a harsh editorial accusing the governor of corruption, and no official may lawfully shut the paper down for it. The protection at work is the First Amendment's guarantee of:",
+   "correctAnswer": "Freedom of the press",
+   "distractors": [
+    "Freedom from unreasonable searches",
+    "The right to a jury trial",
+    "The right to bear arms"
+   ],
+   "difficulty": "medium",
+   "explanation": "The First Amendment bars government from abridging press freedom; officials who dislike coverage must answer it with argument, not suppression - libel, proved in court, is a separate matter.",
+   "memoryHook": "T-Rexy says: The press prints, officials respond.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A morning newspaper being read at a diner counter, coffee beside it, headline area blank. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: The press prints, officials respond.",
+    "title": "FREEDOM OF THE PRESS"
+   }
+  },
+  {
+   "id": "IDC12_015",
+   "question": "Two clauses of the First Amendment pull in opposite directions in school-prayer disputes. The clause that stops a public school from sponsoring an official prayer is the Establishment Clause; the clause that protects a student's own private prayer is the:",
+   "correctAnswer": "Free Exercise Clause",
+   "distractors": [
+    "Supremacy Clause",
+    "Commerce Clause",
+    "Due Process Clause"
+   ],
+   "difficulty": "medium",
+   "explanation": "Establishment forbids government sponsorship of religion; Free Exercise protects private religious practice. The same amendment supplies both sides of the school-prayer cases.",
+   "memoryHook": "T-Rexy says: One clause stops sponsorship, one protects practice.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A balance scale with a schoolhouse on one side and a small chapel on the other, level in soft light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: One clause stops sponsorship, one protects practice.",
+    "title": "TWO RELIGION CLAUSES"
+   }
+  },
+  {
+   "id": "IDC12_016",
+   "question": "A rancher outside Salmon keeps rifles for hunting and for defending his ranch. When a proposed federal rule is challenged as infringing the right 'to keep and bear Arms,' the amendment the challenge rests on is:",
+   "correctAnswer": "The Second Amendment",
+   "distractors": [
+    "The Third Amendment",
+    "The Fourth Amendment",
+    "The Ninth Amendment"
+   ],
+   "difficulty": "medium",
+   "explanation": "The Second Amendment protects an individual right to possess firearms for traditionally lawful purposes, as the Supreme Court read it in District of Columbia v. Heller (2008).",
+   "memoryHook": "T-Rexy says: Second Amendment: keep and bear arms.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A hunting rifle resting safely in a wooden rack inside a ranch cabin, morning light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Second Amendment: keep and bear arms.",
+    "title": "SECOND AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_017",
+   "question": "Detectives in Boise believe stolen goods are hidden in a suspect's garage, but no judge has been consulted. Under the Fourth Amendment they generally must first obtain:",
+   "correctAnswer": "A warrant, on probable cause, particularly describing the place to be searched and the things to be seized",
+   "distractors": [
+    "A warrant signed by the police chief",
+    "Permission from the suspect's landlord",
+    "A city council resolution"
+   ],
+   "difficulty": "medium",
+   "explanation": "The Fourth Amendment conditions searches on warrants issued by a neutral judge, supported by probable cause and particular description; exceptions exist, but the warrant is the rule.",
+   "memoryHook": "T-Rexy says: No warrant, no search - that is the rule.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A judge's desk with a gavel and an unsigned document beside it, courthouse window behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: No warrant, no search - that is the rule.",
+    "title": "FOURTH AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_018",
+   "question": "A highway widening near Twin Falls will take a strip of a farmer's field. The Fifth Amendment allows the taking for this public use only if the government pays the farmer:",
+   "correctAnswer": "Just compensation",
+   "distractors": [
+    "One dollar as a token payment",
+    "Compensation only if the farmer is a veteran",
+    "Nothing - road projects are exempt"
+   ],
+   "difficulty": "hard",
+   "explanation": "The Takings Clause permits eminent domain for public use with just compensation - the owner must be made whole, usually at fair market value, even though the sale cannot be refused.",
+   "memoryHook": "T-Rexy says: Public use requires just compensation.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Survey stakes and ribbon marking a strip across the edge of a green farm field beside a highway. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Public use requires just compensation.",
+    "title": "JUST COMPENSATION"
+   }
+  },
+  {
+   "id": "IDC12_019",
+   "question": "At trial, a Pocatello defendant insists on facing the witnesses against her and questioning them herself through her lawyer. The Sixth Amendment right she is invoking is the right to:",
+   "correctAnswer": "Confront and cross-examine adverse witnesses",
+   "distractors": [
+    "A trial delayed as long as she wishes",
+    "Choose the judge who hears her case",
+    "Exclude all hearsay from history"
+   ],
+   "difficulty": "hard",
+   "explanation": "The Confrontation Clause guarantees the accused the chance to test accusers face to face; the same amendment adds speedy trial, impartial jury, notice of charges, and counsel.",
+   "memoryHook": "T-Rexy says: Face your accusers.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "An empty witness chair in a courtroom with a defendant's table facing it. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Face your accusers.",
+    "title": "CONFRONTATION"
+   }
+  },
+  {
+   "id": "IDC12_020",
+   "question": "A jury fines a first-time offender ten million dollars for a minor paperwork offense, and sets bail on a minor charge at fifty million. The Eighth Amendment objection that fits BOTH punishments is the ban on:",
+   "correctAnswer": "Excessive bail and excessive fines, and cruel and unusual punishments",
+   "distractors": [
+    "Double jeopardy",
+    "Self-incrimination",
+    "Unreasonable searches"
+   ],
+   "difficulty": "hard",
+   "explanation": "The Eighth Amendment limits the financial and physical penalties government may impose: bail and fines must not be excessive, and punishments must not be cruel and unusual.",
+   "memoryHook": "T-Rexy says: Eighth Amendment: penalties have limits.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A courtroom scale weighed down absurdly on one side by an oversized money bag, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Eighth Amendment: penalties have limits.",
+    "title": "EIGHTH AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_021",
+   "question": "A lawyer argues that Americans hold a right to travel between states even though no clause lists it in so many words. She rests the argument on the amendment that says listing certain rights must not be read to deny others retained by the people - the:",
+   "correctAnswer": "Ninth Amendment",
+   "distractors": [
+    "Seventh Amendment",
+    "Eleventh Amendment",
+    "Twelfth Amendment"
+   ],
+   "difficulty": "easy",
+   "explanation": "The Ninth Amendment answers the fear that a written list would shrink liberty: the people's rights are broader than the enumeration, and unlisted rights are retained, not surrendered.",
+   "memoryHook": "T-Rexy says: Unlisted rights are still rights.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "An open book with several blank pages following the written ones, on a library table. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Unlisted rights are still rights.",
+    "title": "NINTH AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_022",
+   "question": "Idaho, not Washington, sets the rules for getting an Idaho driver's license and runs Idaho's public schools. Powers like these sit with the states because the Tenth Amendment reserves to the states or the people all powers:",
+   "correctAnswer": "Not delegated to the federal government nor prohibited to the states",
+   "distractors": [
+    "Granted to the President",
+    "Listed in the Bill of Rights",
+    "Exercised by the courts"
+   ],
+   "difficulty": "easy",
+   "explanation": "The Tenth Amendment states the federalism default; licensing, schools, and most day-to-day governance are reserved state powers, which is exactly why state civics has its own content.",
+   "memoryHook": "T-Rexy says: Reserved powers run daily life.",
+   "tags": [
+    "federal",
+    "federalism"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A state capitol dome in the foreground with a distant national capitol small behind it, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Reserved powers run daily life.",
+    "title": "TENTH AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_023",
+   "question": "It took a constitutional amendment - not merely a wartime proclamation - to end slavery permanently in every state, including on Idaho's future soil. That amendment, ratified in December 1865, was the:",
+   "correctAnswer": "Thirteenth Amendment",
+   "distractors": [
+    "Twelfth Amendment",
+    "Fourteenth Amendment",
+    "Sixteenth Amendment"
+   ],
+   "difficulty": "easy",
+   "explanation": "The Emancipation Proclamation freed enslaved people only in rebellious states as a war measure; the Thirteenth Amendment abolished slavery and involuntary servitude throughout the Union, except as criminal punishment.",
+   "memoryHook": "T-Rexy says: Thirteen ended slavery everywhere.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Broken iron shackles resting on a plain wooden surface in quiet light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Thirteen ended slavery everywhere.",
+    "title": "THIRTEENTH AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_024",
+   "question": "A child born in a Boise hospital to parents who are citizens of another country is nevertheless a United States citizen from birth. The first sentence of the Fourteenth Amendment guarantees this through its:",
+   "correctAnswer": "Citizenship Clause",
+   "distractors": [
+    "Necessary and Proper Clause",
+    "Contracts Clause",
+    "Establishment Clause"
+   ],
+   "difficulty": "medium",
+   "explanation": "The Fourteenth Amendment (1868) constitutionalized birthright citizenship - all persons born or naturalized in the United States and subject to its jurisdiction are citizens - overruling Dred Scott's contrary holding.",
+   "memoryHook": "T-Rexy says: Born here means citizen here.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A newborn's hospital bassinet beside a window with mountain light, soft and quiet. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Born here means citizen here.",
+    "title": "BIRTHRIGHT CITIZENSHIP"
+   }
+  },
+  {
+   "id": "IDC12_025",
+   "question": "An election official in 1968 tries to turn away a Black voter using a rule aimed at his race. The amendment written a century earlier to forbid exactly that denial of the vote is the:",
+   "correctAnswer": "Fifteenth Amendment",
+   "distractors": [
+    "Thirteenth Amendment",
+    "Twenty-first Amendment",
+    "Twenty-second Amendment"
+   ],
+   "difficulty": "medium",
+   "explanation": "Ratified in 1870, the Fifteenth Amendment bars denying or abridging the vote on account of race, color, or previous condition of servitude; later laws like the Voting Rights Act gave it enforcement teeth.",
+   "memoryHook": "T-Rexy says: Fifteen: the vote cannot turn on race.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A row of hands of many skin tones dropping ballots into one ballot box together. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Fifteen: the vote cannot turn on race.",
+    "title": "FIFTEENTH AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_026",
+   "question": "A waitress in Idaho Falls notices federal income tax withheld from every paycheck, though the original Constitution made direct federal taxes awkward to levy. Congress's clear authority to tax incomes comes from the:",
+   "correctAnswer": "Sixteenth Amendment",
+   "distractors": [
+    "Tenth Amendment",
+    "Commerce Clause by itself",
+    "General Welfare Clause by itself"
+   ],
+   "difficulty": "medium",
+   "explanation": "The Sixteenth Amendment (1913) authorizes Congress to tax incomes from whatever source derived, without apportioning the tax among the states by population.",
+   "memoryHook": "T-Rexy says: Sixteen opened the income tax.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A paycheck lying on a kitchen table beside a calculator and a coffee mug, no readable figures. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Sixteen opened the income tax.",
+    "title": "SIXTEENTH AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_027",
+   "question": "Idaho voters choose their two U.S. senators directly at the ballot box. Before 1913 those seats were filled by the state legislature; the change to popular election was made by the:",
+   "correctAnswer": "Seventeenth Amendment",
+   "distractors": [
+    "Twelfth Amendment",
+    "Twentieth Amendment",
+    "Twenty-seventh Amendment"
+   ],
+   "difficulty": "medium",
+   "explanation": "The Seventeenth Amendment (1913) transferred Senate elections from state legislatures to the people, leaving legislatures only the power to let governors fill vacancies temporarily.",
+   "memoryHook": "T-Rexy says: Seventeen gave Senate seats to voters.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Voters marking ballots in a row of voting booths, backs to camera. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Seventeen gave Senate seats to voters.",
+    "title": "SEVENTEENTH AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_028",
+   "question": "A President who has already won election twice announces a run for a third elected term. The Twenty-second Amendment blocks this because it limits any person to:",
+   "correctAnswer": "Being elected President at most twice",
+   "distractors": [
+    "Serving eight calendar years exactly",
+    "Holding any federal office afterward",
+    "Running only if the Vice President declines"
+   ],
+   "difficulty": "hard",
+   "explanation": "Ratified in 1951 after Franklin Roosevelt's four elections, the Twenty-second Amendment caps election to the presidency at two, with a partial-term rule capping total service at ten years minus a day.",
+   "memoryHook": "T-Rexy says: Two elections, then the door closes.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "An hourglass nearly run out standing on an executive desk beside a flag. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Two elections, then the door closes.",
+    "title": "TWENTY-SECOND AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_029",
+   "question": "When Richard Nixon resigned in 1973 his Vice President, Gerald Ford, had himself reached that office without any national election - nominated by the President and confirmed by Congress. The amendment supplying that vacancy procedure is the:",
+   "correctAnswer": "Twenty-fifth Amendment",
+   "distractors": [
+    "Twentieth Amendment",
+    "Twelfth Amendment",
+    "Twenty-third Amendment"
+   ],
+   "difficulty": "hard",
+   "explanation": "The Twenty-fifth Amendment (1967) lets the President nominate a new Vice President when the office empties; both houses confirm. It also governs presidential disability and succession.",
+   "memoryHook": "T-Rexy says: Twenty-five fills the VP's chair.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Two formal chairs in a row, the second one standing empty, draped office behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Twenty-five fills the VP's chair.",
+    "title": "TWENTY-FIFTH AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_030",
+   "question": "A county in 1963 charges citizens a fee at the polls before letting them vote for Congress. The Twenty-fourth Amendment destroyed that device - the poll tax - but only, by its own text, for:",
+   "correctAnswer": "Federal elections (primaries and elections for federal office)",
+   "distractors": [
+    "All elections including school boards",
+    "Elections in the South only",
+    "Presidential elections but not primaries"
+   ],
+   "difficulty": "hard",
+   "explanation": "The Twenty-fourth Amendment (1964) banned poll taxes in federal elections; the Supreme Court's Harper decision (1966) then struck state-election poll taxes under the Fourteenth Amendment.",
+   "memoryHook": "T-Rexy says: Twenty-four banned the federal poll tax.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A coin slot on an old wooden ballot box, pried off and lying beside it, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Twenty-four banned the federal poll tax.",
+    "title": "POLL TAX"
+   }
+  },
+  {
+   "id": "IDC12_031",
+   "question": "For Idaho's two seats in the U.S. House, voters in each congressional district elect a representative who then serves a term of:",
+   "correctAnswer": "Two years",
+   "distractors": [
+    "Four years",
+    "Six years",
+    "Three years"
+   ],
+   "difficulty": "easy",
+   "explanation": "House members stand for election every two years, keeping the chamber closest to shifting public opinion; senators serve six and presidents four, by contrast.",
+   "memoryHook": "T-Rexy says: House terms run two years.",
+   "tags": [
+    "federal",
+    "congress"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A campaign sign being planted in a front yard in autumn, wording on the sign blank. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: House terms run two years.",
+    "title": "HOUSE TERMS"
+   }
+  },
+  {
+   "id": "IDC12_032",
+   "question": "Only about a third of the U.S. Senate faces the voters in any single election year. That pattern exists because Senate terms are six years long and:",
+   "correctAnswer": "Staggered, so the terms of the classes expire in rotation",
+   "distractors": [
+    "Assigned by seniority",
+    "Renewed only when a seat falls vacant",
+    "Set by each state legislature"
+   ],
+   "difficulty": "easy",
+   "explanation": "The Constitution divides senators into three classes with staggered six-year terms, giving the Senate continuity - it never turns over entirely at one election.",
+   "memoryHook": "T-Rexy says: Six-year terms, staggered in thirds.",
+   "tags": [
+    "federal",
+    "congress"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Three rows of desks in a senate chamber, one row lit brightly and the others dim, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Six-year terms, staggered in thirds.",
+    "title": "STAGGERED SENATE"
+   }
+  },
+  {
+   "id": "IDC12_033",
+   "question": "A 27-year-old from Nampa asks which federal offices she is already old enough to hold. The Constitution's age floors are 25 for the House, 30 for the Senate, and 35 for the presidency, so at 27 she qualifies for:",
+   "correctAnswer": "The U.S. House of Representatives only",
+   "distractors": [
+    "The Senate only",
+    "The presidency only",
+    "The Senate and the House"
+   ],
+   "difficulty": "easy",
+   "explanation": "Age is only part of it - the House also requires seven years' citizenship and residence in the state - but 27 clears just one of the three age bars.",
+   "memoryHook": "T-Rexy says: Twenty-five, thirty, thirty-five.",
+   "tags": [
+    "federal",
+    "congress"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Three ascending steps leading to three doors of increasing size, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Twenty-five, thirty, thirty-five.",
+    "title": "AGE FLOORS"
+   }
+  },
+  {
+   "id": "IDC12_034",
+   "question": "A bill raising taxes is introduced first in the Senate, and a point of order is raised against it. The Origination Clause of Article I requires that bills for raising revenue begin in:",
+   "correctAnswer": "The House of Representatives",
+   "distractors": [
+    "The Senate",
+    "The Treasury Department",
+    "A joint committee of both houses"
+   ],
+   "difficulty": "medium",
+   "explanation": "Revenue bills start in the chamber elected directly and most frequently by the people; the Senate may still amend them, as it did even under this clause.",
+   "memoryHook": "T-Rexy says: Tax bills are born in the House.",
+   "tags": [
+    "federal",
+    "congress"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A document being carried from a larger chamber doorway toward a smaller one down a marble hall. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Tax bills are born in the House.",
+    "title": "ORIGINATION CLAUSE"
+   }
+  },
+  {
+   "id": "IDC12_035",
+   "question": "A federal judge is impeached by the House and put on trial. Removal from office, if it comes, requires a two-thirds vote of the body conducting the trial - which is:",
+   "correctAnswer": "The Senate",
+   "distractors": [
+    "The House of Representatives",
+    "The Supreme Court",
+    "A national referendum"
+   ],
+   "difficulty": "medium",
+   "explanation": "The House impeaches by majority vote, functioning like a grand jury; the Senate tries the case, and conviction - removal - takes two-thirds of senators present.",
+   "memoryHook": "T-Rexy says: House charges, Senate removes or acquits.",
+   "tags": [
+    "federal",
+    "congress"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A solemn chamber arranged for a trial, with a presiding chair and rows of seated members. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: House charges, Senate removes or acquits.",
+    "title": "IMPEACHMENT TRIAL"
+   }
+  },
+  {
+   "id": "IDC12_036",
+   "question": "Idaho shares a short border with Canada, and a proposed U.S.-Canada water treaty is sent to the Senate. A treaty becomes binding on the United States only with the consent of:",
+   "correctAnswer": "Two-thirds of the senators present",
+   "distractors": [
+    "A majority of the House",
+    "The governors of the border states",
+    "The Supreme Court"
+   ],
+   "difficulty": "medium",
+   "explanation": "Article II requires two-thirds Senate consent for treaties - a supermajority that makes treaties deliberately harder than ordinary statutes, which need only majorities of both houses plus a signature or override.",
+   "memoryHook": "T-Rexy says: Treaties need two-thirds of the Senate.",
+   "tags": [
+    "federal",
+    "congress"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A rolled treaty document tied with ribbon on a desk, a mountain border landscape through the window. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Treaties need two-thirds of the Senate.",
+    "title": "TREATY CONSENT"
+   }
+  },
+  {
+   "id": "IDC12_037",
+   "question": "Senators opposed to a bill are talking it to death on the floor. Under Senate Rule XXII, cutting off that filibuster - invoking cloture - on most legislation requires the votes of:",
+   "correctAnswer": "60 senators (three-fifths of the full Senate)",
+   "distractors": [
+    "51 senators",
+    "67 senators",
+    "All 100 senators"
+   ],
+   "difficulty": "medium",
+   "explanation": "Cloture's three-fifths threshold shapes modern lawmaking: major bills effectively need 60 Senate votes, not a simple majority, before a final vote can occur.",
+   "memoryHook": "T-Rexy says: Sixty ends most filibusters.",
+   "tags": [
+    "federal",
+    "congress"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A senator speaking at a podium piled high with papers, late-evening light in the chamber. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Sixty ends most filibusters.",
+    "title": "CLOTURE"
+   }
+  },
+  {
+   "id": "IDC12_038",
+   "question": "Congress charters a national bank in 1816, and Maryland tries to tax it out of existence. In McCulloch v. Maryland the Court upheld the bank using the clause that empowers Congress to make laws that are:",
+   "correctAnswer": "'Necessary and proper' for executing its enumerated powers",
+   "distractors": [
+    "Expressly listed word for word in Article I",
+    "Approved in advance by the states",
+    "Ratified by three-fourths of the states"
+   ],
+   "difficulty": "hard",
+   "explanation": "McCulloch read the Necessary and Proper Clause broadly: let the end be legitimate and within the Constitution, and the means Congress chooses are constitutional too.",
+   "memoryHook": "T-Rexy says: Necessary and proper means room to work.",
+   "tags": [
+    "federal",
+    "congress"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "An early American bank building with columns, a state tax notice posted blank on its door. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Necessary and proper means room to work.",
+    "title": "MCCULLOCH V MARYLAND"
+   }
+  },
+  {
+   "id": "IDC12_039",
+   "question": "Wheat grown on an Idaho farm is trucked to a port in another state, and potatoes cross three state lines on one rail journey. Congress's power to regulate that traffic rests chiefly on its authority over:",
+   "correctAnswer": "Commerce among the several states",
+   "distractors": [
+    "The militia",
+    "Bankruptcies",
+    "The postal roads only"
+   ],
+   "difficulty": "hard",
+   "explanation": "The Commerce Clause (Article I, Section 8) reaches goods moving across state lines; since Gibbons v. Ogden (1824) it has been read as a wide grant over interstate economic activity.",
+   "memoryHook": "T-Rexy says: Interstate commerce is Congress's beat.",
+   "tags": [
+    "federal",
+    "congress"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A freight train crossing a steel bridge over a wide river canyon at sunset. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Interstate commerce is Congress's beat.",
+    "title": "COMMERCE CLAUSE"
+   }
+  },
+  {
+   "id": "IDC12_040",
+   "question": "During a crisis abroad, a Boise enlistee asks who can actually declare war. Under the Constitution the war-declaring power belongs to Congress, while the President's distinct military role is:",
+   "correctAnswer": "Commander in chief of the armed forces",
+   "distractors": [
+    "Declaring war",
+    "Raising and funding armies",
+    "Confirming generals without the Senate"
+   ],
+   "difficulty": "hard",
+   "explanation": "Article I gives Congress the declaration of war and the power to raise and support armies (with two-year funding limits); Article II makes the President the forces' commander once raised.",
+   "memoryHook": "T-Rexy says: Congress declares, the President commands.",
+   "tags": [
+    "federal",
+    "president"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A president reviewing troops on a parade ground, flags above, no readable insignia text. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Congress declares, the President commands.",
+    "title": "DECLARE WAR"
+   }
+  },
+  {
+   "id": "IDC12_041",
+   "question": "A President issues an executive order directing federal agencies how to enforce a statute. The order carries legal weight only insofar as it traces back to:",
+   "correctAnswer": "The Constitution or an act of Congress",
+   "distractors": [
+    "The President's personal authority alone",
+    "A majority vote of the Cabinet",
+    "Custom and tradition by themselves"
+   ],
+   "difficulty": "easy",
+   "explanation": "Executive orders are instructions for executing existing law; they cannot create law from nothing, and courts strike orders that exceed the President's constitutional or statutory authority.",
+   "memoryHook": "T-Rexy says: Orders execute law, they do not invent it.",
+   "tags": [
+    "federal",
+    "president"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A hand signing a document at an executive desk, agency seals blurred in the background. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Orders execute law, they do not invent it.",
+    "title": "EXECUTIVE ORDERS"
+   }
+  },
+  {
+   "id": "IDC12_042",
+   "question": "A vetoed bill returns to Congress, and supporters in both chambers line up exactly two-thirds of each house to vote yes. The result under Article I is that the bill:",
+   "correctAnswer": "Becomes law without the President's signature",
+   "distractors": [
+    "Returns to the President for reconsideration",
+    "Takes effect only after the next election",
+    "Must be approved by the Supreme Court"
+   ],
+   "difficulty": "easy",
+   "explanation": "A two-thirds vote of both houses overrides a veto and enacts the bill - the legislative answer built into checks and balances, used rarely because the threshold is high.",
+   "memoryHook": "T-Rexy says: Two-thirds of both houses beats a veto.",
+   "tags": [
+    "federal",
+    "president"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Rows of raised hands filling a legislative chamber on both sides of a central aisle. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Two-thirds of both houses beats a veto.",
+    "title": "VETO OVERRIDE"
+   }
+  },
+  {
+   "id": "IDC12_043",
+   "question": "A naturalized citizen who immigrated at age two and has lived in Idaho for forty years wants to run for President. However qualified she may be in age and residence, the Constitution bars her because the President must be:",
+   "correctAnswer": "A natural-born citizen",
+   "distractors": [
+    "A lifelong resident of one state",
+    "A former governor",
+    "Born in the same state as her running mate"
+   ],
+   "difficulty": "easy",
+   "explanation": "Article II's natural-born citizen requirement is the presidency's unique eligibility rule; naturalized citizens may serve in Congress, the Cabinet, and on the Supreme Court, but not as President or Vice President.",
+   "memoryHook": "T-Rexy says: President requires natural-born citizenship.",
+   "tags": [
+    "federal",
+    "president"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A maternity ward window and a flag reflected together in the glass, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: President requires natural-born citizenship.",
+    "title": "NATURAL-BORN RULE"
+   }
+  },
+  {
+   "id": "IDC12_044",
+   "question": "If both the President and the Vice President are unable to serve, federal law - the Presidential Succession Act - places next in line the:",
+   "correctAnswer": "Speaker of the House",
+   "distractors": [
+    "Secretary of State",
+    "President pro tempore of the Senate",
+    "Chief Justice"
+   ],
+   "difficulty": "medium",
+   "explanation": "The Constitution lets Congress set the line beyond the Vice President; the current statute runs Speaker, then president pro tempore, then Cabinet secretaries in the order their departments were created.",
+   "memoryHook": "T-Rexy says: After the VP comes the Speaker.",
+   "tags": [
+    "federal",
+    "president"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A descending staircase of empty official chairs in a formal hall. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: After the VP comes the Speaker.",
+    "title": "SUCCESSION LINE"
+   }
+  },
+  {
+   "id": "IDC12_045",
+   "question": "A President names a new Secretary of the Interior - a department that manages much of Idaho's federal land - and the nomination stalls until a majority of one chamber agrees. Cabinet heads take office only after confirmation by:",
+   "correctAnswer": "The Senate",
+   "distractors": [
+    "The House of Representatives",
+    "The Supreme Court",
+    "The state governors"
+   ],
+   "difficulty": "medium",
+   "explanation": "The Appointments Clause splits the job: the President nominates, the Senate advises and consents. Hearings in committee precede the full Senate's vote.",
+   "memoryHook": "T-Rexy says: Nominated by one, confirmed by the Senate.",
+   "tags": [
+    "federal",
+    "president"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A hearing room with microphones along a long table and a single empty witness chair. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Nominated by one, confirmed by the Senate.",
+    "title": "CABINET CONFIRMATION"
+   }
+  },
+  {
+   "id": "IDC12_046",
+   "question": "A President pardons a man convicted of a federal fraud offense. The pardon is effective even though it cannot touch his separate state conviction, and it could never lawfully erase:",
+   "correctAnswer": "An impeachment",
+   "distractors": [
+    "A federal tax debt",
+    "A military discharge",
+    "A state pardon"
+   ],
+   "difficulty": "medium",
+   "explanation": "The pardon power reaches 'Offences against the United States,' excepting cases of impeachment - the one express limit Article II writes into the clemency power.",
+   "memoryHook": "T-Rexy says: Pardons stop at impeachment.",
+   "tags": [
+    "federal",
+    "president"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A signed document beside a set of loosened chains on a desk, soft daylight. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Pardons stop at impeachment.",
+    "title": "PARDON POWER"
+   }
+  },
+  {
+   "id": "IDC12_047",
+   "question": "Every year the President must report to Congress on how the nation is doing and recommend measures - the duty behind the annual address. The Constitution phrases this obligation as giving Congress information on:",
+   "correctAnswer": "The State of the Union",
+   "distractors": [
+    "The condition of the federal courts",
+    "The census results",
+    "State election returns"
+   ],
+   "difficulty": "medium",
+   "explanation": "Article II requires the President to give Congress information of the State of the Union 'from time to time' and recommend necessary and expedient measures - now the famous annual address.",
+   "memoryHook": "T-Rexy says: State of the Union is a duty, not a perk.",
+   "tags": [
+    "federal",
+    "president"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A president at a podium before a joint session of Congress, wide chamber view. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: State of the Union is a duty, not a perk.",
+    "title": "STATE OF THE UNION"
+   }
+  },
+  {
+   "id": "IDC12_048",
+   "question": "Nothing in the Constitution's text fixes the Supreme Court at nine members. The number of justices sits at nine today because it was set - and can be changed - by:",
+   "correctAnswer": "An act of Congress",
+   "distractors": [
+    "Article III itself",
+    "A constitutional amendment of 1869",
+    "The Chief Justice's order"
+   ],
+   "difficulty": "hard",
+   "explanation": "Congress has set the Court's size since 1789, changing it several times in the 1800s; nine has held since the Judiciary Act of 1869, and changing it again would require ordinary legislation.",
+   "memoryHook": "T-Rexy says: Nine is a statute, not a command.",
+   "tags": [
+    "federal",
+    "judiciary"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Nine high-backed empty chairs behind one long curved bench in soft courtroom light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Nine is a statute, not a command.",
+    "title": "NINE JUSTICES"
+   }
+  },
+  {
+   "id": "IDC12_049",
+   "question": "A Supreme Court justice, once confirmed, cannot be pushed out for unpopular rulings by cutting her salary or shortening her term. Article III protects the office by giving federal judges tenure:",
+   "correctAnswer": "During good behavior - in practice, until death, retirement, resignation, or removal by impeachment",
+   "distractors": [
+    "For twelve-year terms",
+    "Until the next presidential election",
+    "At the pleasure of the Senate"
+   ],
+   "difficulty": "hard",
+   "explanation": "Life-tenure-during-good-behavior, with salary protection, insulates judges from the political branches - impeachment remains the only removal route, and no justice has ever been removed by it.",
+   "memoryHook": "T-Rexy says: Good-behavior tenure shields judges.",
+   "tags": [
+    "federal",
+    "judiciary"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "An elderly judge's robe hanging on a stand beside a quiet bench, morning light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Good-behavior tenure shields judges.",
+    "title": "JUDICIAL TENURE"
+   }
+  },
+  {
+   "id": "IDC12_050",
+   "question": "Most federal cases - a Boise tax dispute, a federal drug prosecution - begin and are tried in the lowest tier of the federal courts, the:",
+   "correctAnswer": "U.S. district courts",
+   "distractors": [
+    "U.S. courts of appeals",
+    "State supreme courts",
+    "U.S. Supreme Court"
+   ],
+   "difficulty": "hard",
+   "explanation": "The 94 district courts are the federal system's trial courts, where witnesses testify and juries sit; appeals go up to the circuit courts of appeals, and only rarely reach the Supreme Court.",
+   "memoryHook": "T-Rexy says: Trials start in district court.",
+   "tags": [
+    "federal",
+    "judiciary"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A modest federal courtroom with a jury box and witness stand, empty and quiet. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Trials start in district court.",
+    "title": "DISTRICT COURTS"
+   }
+  },
+  {
+   "id": "IDC12_051",
+   "question": "In 1954 the Supreme Court told Kansas - and every state - that running racially separate public schools, even with equal buildings, violated the Fourteenth Amendment. The decision, Brown v. Board of Education, destroyed the legal doctrine known as:",
+   "correctAnswer": "'Separate but equal'",
+   "distractors": [
+    "Judicial review",
+    "Federalism",
+    "Double jeopardy"
+   ],
+   "difficulty": "easy",
+   "explanation": "Brown held that in public education separate facilities are inherently unequal, overturning Plessy v. Ferguson's application to schools and ordering desegregation - the Warren Court's landmark unanimous ruling.",
+   "memoryHook": "T-Rexy says: Brown buried separate but equal in schools.",
+   "tags": [
+    "federal",
+    "cases"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Children of different backgrounds climbing wide school steps together in morning light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Brown buried separate but equal in schools.",
+    "title": "BROWN V BOARD"
+   }
+  },
+  {
+   "id": "IDC12_052",
+   "question": "Police in Pocatello arrest a suspect and begin questioning him at the station without telling him he may stay silent or have a lawyer present, even a free one. Under Miranda v. Arizona, statements from that questioning are generally:",
+   "correctAnswer": "Inadmissible - custodial interrogation requires the Miranda warnings first",
+   "distractors": [
+    "Admissible if the suspect seems calm",
+    "Admissible in state court only",
+    "Usable if a judge approves afterward"
+   ],
+   "difficulty": "easy",
+   "explanation": "Miranda (1966) conditions custodial questioning on warnings about silence and counsel, tying police practice directly to the Fifth and Sixth Amendments; unwarned statements are excluded from the prosecution's case.",
+   "memoryHook": "T-Rexy says: Warn first, question second.",
+   "tags": [
+    "federal",
+    "cases"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A detective and a seated suspect across a bare table in an interview room, door closed. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Warn first, question second.",
+    "title": "MIRANDA WARNINGS"
+   }
+  },
+  {
+   "id": "IDC12_053",
+   "question": "An Idaho man too poor to hire a lawyer is charged with a felony and faces trial alone. Gideon v. Wainwright (1963) holds that the Sixth Amendment, applied to the states through the Fourteenth, entitles him to:",
+   "correctAnswer": "A court-appointed attorney at public expense",
+   "distractors": [
+    "A trial without a jury",
+    "Bail set at zero",
+    "A change of venue to federal court"
+   ],
+   "difficulty": "easy",
+   "explanation": "Gideon made appointed counsel a constitutional right for indigent felony defendants in state courts - Clarence Gideon's handwritten petition rewrote American criminal procedure.",
+   "memoryHook": "T-Rexy says: Poor defendants get counsel.",
+   "tags": [
+    "federal",
+    "cases"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A public defender carrying a briefcase up courthouse steps toward a waiting client. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Poor defendants get counsel.",
+    "title": "GIDEON V WAINWRIGHT"
+   }
+  },
+  {
+   "id": "IDC12_054",
+   "question": "At a middle school near Idaho Falls, administrators forbid plain black armbands worn silently to protest a war, though classes run normally and nobody is disturbed. Under Tinker v. Des Moines, that ban cannot stand unless the school points to evidence of:",
+   "correctAnswer": "Substantial disruption of school work or invasion of others' rights",
+   "distractors": [
+    "Any disagreement by the principal",
+    "Complaints from other parents",
+    "Coverage by the local newspaper"
+   ],
+   "difficulty": "medium",
+   "explanation": "Tinker's test: students do not shed constitutional rights at the schoolhouse gate, and silent expression may be limited only on evidence of substantial disruption - not on a desire to avoid controversy.",
+   "memoryHook": "T-Rexy says: Armbands stand unless disruption shows.",
+   "tags": [
+    "federal",
+    "cases"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Students wearing plain black armbands walking a bright school hallway between classes. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Armbands stand unless disruption shows.",
+    "title": "TINKER V DES MOINES"
+   }
+  },
+  {
+   "id": "IDC12_055",
+   "question": "Outside a party convention in Dallas in 1984, Gregory Johnson set an American flag alight to dramatize his opposition to the administration, and Texas prosecuted him for desecrating a venerated object. The Supreme Court threw out his conviction, reasoning that his act amounted to:",
+   "correctAnswer": "Protected symbolic speech under the First Amendment",
+   "distractors": [
+    "Conduct with no speech element",
+    "Speech only Congress may protect",
+    "A federal crime regardless of setting"
+   ],
+   "difficulty": "medium",
+   "explanation": "The Court held that government may not ban expression merely because society finds the idea offensive; burning the flag as political protest is expressive conduct the First Amendment covers.",
+   "memoryHook": "T-Rexy says: Offensive is not the same as unprotected.",
+   "tags": [
+    "federal",
+    "cases"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A flag flying high on a pole against a dramatic evening sky, seen respectfully from below. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Offensive is not the same as unprotected.",
+    "title": "TEXAS V JOHNSON"
+   }
+  },
+  {
+   "id": "IDC12_056",
+   "question": "Detectives search a home without a valid warrant and find the evidence they need. Under the exclusionary rule, applied to the states in Mapp v. Ohio (1961), that evidence at trial is generally:",
+   "correctAnswer": "Excluded - illegally obtained evidence cannot be used by the prosecution",
+   "distractors": [
+    "Admitted if it proves guilt",
+    "Admitted with a warning to the jury",
+    "Given to the defense instead"
+   ],
+   "difficulty": "medium",
+   "explanation": "Mapp bound the states to the exclusionary rule: evidence seized in violation of the Fourth Amendment is barred from the prosecution's case, deterring unlawful searches by removing their payoff.",
+   "memoryHook": "T-Rexy says: Bad search, lost evidence.",
+   "tags": [
+    "federal",
+    "cases"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A detective's gloved hand hovering over a closed drawer in a darkened room, flashlight beam. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Bad search, lost evidence.",
+    "title": "MAPP V OHIO"
+   }
+  },
+  {
+   "id": "IDC12_057",
+   "question": "Both the Idaho Legislature in Boise and Congress in Washington tax the income of the same Boise family in the same year, and both taxes are valid. Taxation is the textbook example of a power the two levels hold at the same time - a:",
+   "correctAnswer": "Concurrent power",
+   "distractors": [
+    "Reserved power",
+    "Enumerated power",
+    "Denied power"
+   ],
+   "difficulty": "medium",
+   "explanation": "Concurrent powers - taxing, building roads, running courts - are exercised by both levels simultaneously; reserved powers belong to states alone, and enumerated powers are those granted to the federal government.",
+   "memoryHook": "T-Rexy says: Taxing is shared: concurrent.",
+   "tags": [
+    "federal",
+    "federalism"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Two road crews paving toward each other on the same highway, meeting in the middle. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Taxing is shared: concurrent.",
+    "title": "CONCURRENT POWERS"
+   }
+  },
+  {
+   "id": "IDC12_058",
+   "question": "An Idaho statute is challenged because it squarely conflicts with a valid federal law on the same subject. Article VI's Supremacy Clause resolves the collision in favor of:",
+   "correctAnswer": "The federal law - it is the supreme law of the land",
+   "distractors": [
+    "The Idaho law, as the more local rule",
+    "Whichever law was passed later",
+    "Whichever law a state judge prefers"
+   ],
+   "difficulty": "hard",
+   "explanation": "The Constitution, federal statutes, and treaties outrank conflicting state law, and state judges are bound by that ranking - the clause that makes one legal system out of fifty-one.",
+   "memoryHook": "T-Rexy says: Federal law wins a true conflict.",
+   "tags": [
+    "federal",
+    "federalism"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Two documents overlapping on a table, the larger resting on top in strong light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Federal law wins a true conflict.",
+    "title": "SUPREMACY CLAUSE"
+   }
+  },
+  {
+   "id": "IDC12_059",
+   "question": "A couple marries in Utah, moves to Idaho, and an Idaho court treats the marriage as valid without a new ceremony. The constitutional habit of honoring sister states' marriages, judgments, and records comes from Article IV's:",
+   "correctAnswer": "Full Faith and Credit Clause",
+   "distractors": [
+    "Privileges and Immunities Clause",
+    "Commerce Clause",
+    "Guarantee Clause"
+   ],
+   "difficulty": "hard",
+   "explanation": "Full faith and credit makes legal acts portable across state lines - marriages, contracts, and court judgments follow people as they move, subject to rules Congress may set.",
+   "memoryHook": "T-Rexy says: Records travel with you.",
+   "tags": [
+    "federal",
+    "federalism"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A judge placing a sealed document into a traveler's hands at a state border marker, map unlabeled. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Records travel with you.",
+    "title": "FULL FAITH AND CREDIT"
+   }
+  },
+  {
+   "id": "IDC12_060",
+   "question": "A man charged with a crime in Boise flees to Montana and is caught there. Article IV obliges Montana, on Idaho's proper demand, to hand him over - the process known as:",
+   "correctAnswer": "Extradition (interstate rendition)",
+   "distractors": [
+    "Naturalization",
+    "Impeachment",
+    "Reapportionment"
+   ],
+   "difficulty": "hard",
+   "explanation": "The Extradition Clause requires a state to deliver fugitives from justice to the state where the crime occurred; governors execute the duty today through uniform state procedures.",
+   "memoryHook": "T-Rexy says: Fugitives come back: extradition.",
+   "tags": [
+    "federal",
+    "federalism"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A law officer escorting a handcuffed man toward a waiting vehicle at a state line at dawn. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Fugitives come back: extradition.",
+    "title": "EXTRADITION"
+   }
+  },
+  {
+   "id": "IDC12_061",
+   "question": "Idaho casts four electoral votes for President. That number is not arbitrary - under the Constitution each state's electors equal:",
+   "correctAnswer": "Its total congressional delegation - 2 senators plus its House seats (2 for Idaho)",
+   "distractors": [
+    "Its number of counties",
+    "Its number of state legislators",
+    "Ten, the same for every state"
+   ],
+   "difficulty": "easy",
+   "explanation": "Electors mirror the delegation: House seats apportioned by population plus the two senators every state has. Idaho's 2 + 2 = 4, a formula that slightly favors small states.",
+   "memoryHook": "T-Rexy says: Electors equal the delegation.",
+   "tags": [
+    "federal",
+    "elections"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Four wooden state-shaped blocks standing together on a table, canyon landscape behind, no labels. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Electors equal the delegation.",
+    "title": "ELECTORAL VOTES"
+   }
+  },
+  {
+   "id": "IDC12_062",
+   "question": "On election night a candidate's total reaches the majority of the 538 electoral votes. The exact number that elects a President through the Electoral College is:",
+   "correctAnswer": "270",
+   "distractors": [
+    "269",
+    "218",
+    "538"
+   ],
+   "difficulty": "easy",
+   "explanation": "270 is a bare majority of 538 electors; falling short throws the choice to the House under the Twelfth Amendment, where each state delegation casts one vote.",
+   "memoryHook": "T-Rexy says: Two hundred seventy wins.",
+   "tags": [
+    "federal",
+    "elections"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A finish-line ribbon stretched across a road with a distant white mansion on a hill. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Two hundred seventy wins.",
+    "title": "270 TO WIN"
+   }
+  },
+  {
+   "id": "IDC12_063",
+   "question": "An Idaho voter asks why she votes twice in one year for the same office - once in May and again in November. The May contest is the primary election, whose function in the system is to:",
+   "correctAnswer": "Choose each party's nominees for the general election",
+   "distractors": [
+    "Elect the President directly",
+    "Amend the state constitution",
+    "Select jurors for the fall term"
+   ],
+   "difficulty": "easy",
+   "explanation": "Primaries narrow the field inside each party; the November general election then decides among the nominees (and independents) who actually takes office.",
+   "memoryHook": "T-Rexy says: Primaries pick nominees.",
+   "tags": [
+    "federal",
+    "elections"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Voters entering a school gymnasium polling place under a spring sky. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Primaries pick nominees.",
+    "title": "PRIMARY ELECTIONS"
+   }
+  },
+  {
+   "id": "IDC12_064",
+   "question": "A political party and an interest group both care deeply about farm policy, but only one of them runs candidates under its own label in Idaho elections. Running candidates to win office is the defining job of:",
+   "correctAnswer": "A political party",
+   "distractors": [
+    "An interest group",
+    "A political action committee",
+    "A lobbying firm"
+   ],
+   "difficulty": "medium",
+   "explanation": "Parties seek power by winning elections; interest groups seek influence over policy, supporting or opposing candidates without fielding their own - the line between the two organizations.",
+   "memoryHook": "T-Rexy says: Parties run candidates.",
+   "tags": [
+    "federal",
+    "elections"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Two tents at a county fair, one flying a party banner shape and one a cause banner shape, both blank. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Parties run candidates.",
+    "title": "PARTIES VS GROUPS"
+   }
+  },
+  {
+   "id": "IDC12_065",
+   "question": "Of these four civic behaviors, only one is a legal duty the government can compel - the rest are responsibilities a good citizen chooses. The compelled one is:",
+   "correctAnswer": "Answering a summons for jury service",
+   "distractors": [
+    "Voting in every election",
+    "Volunteering at a food bank",
+    "Keeping up with the news"
+   ],
+   "difficulty": "medium",
+   "explanation": "Duties - obeying the law, paying taxes, jury service, Selective Service registration - are enforceable; responsibilities like voting and volunteering are expected of citizens but cannot be compelled.",
+   "memoryHook": "T-Rexy says: Jury duty is compulsory.",
+   "tags": [
+    "federal",
+    "citizenship"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Citizens taking seats in a jury box while others watch from the gallery. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Jury duty is compulsory.",
+    "title": "DUTY VS RESPONSIBILITY"
+   }
+  },
+  {
+   "id": "IDC12_066",
+   "question": "At a naturalization ceremony in the Boise federal courthouse, candidates who were born abroad become citizens after meeting residence and English requirements and passing a civics test, capped by taking:",
+   "correctAnswer": "The oath of allegiance to the United States",
+   "distractors": [
+    "A loyalty tax",
+    "A military service pledge",
+    "A state residency exam"
+   ],
+   "difficulty": "medium",
+   "explanation": "Naturalization ends with the oath - renouncing foreign allegiances and pledging to support the Constitution - after application, residence, English, and civics requirements are satisfied.",
+   "memoryHook": "T-Rexy says: The oath completes naturalization.",
+   "tags": [
+    "federal",
+    "citizenship"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "New citizens with raised right hands in a courthouse ceremony, flags at the front. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: The oath completes naturalization.",
+    "title": "NATURALIZATION"
+   }
+  },
+  {
+   "id": "IDC12_067",
+   "question": "A Meridian teenager turns eighteen and learns that federal law requires nearly all men of his age - citizens and most residents alike - to register with the Selective Service. Registration creates:",
+   "correctAnswer": "A pool from which a draft could be drawn if Congress authorized one",
+   "distractors": [
+    "Immediate enlistment in the Army",
+    "A two-year service obligation",
+    "Automatic voter registration in all states"
+   ],
+   "difficulty": "medium",
+   "explanation": "Registration is not enlistment; it maintains the roster a draft would use. Failure to register carries legal penalties and can block federal benefits and jobs.",
+   "memoryHook": "T-Rexy says: Registration is a roster, not enlistment.",
+   "tags": [
+    "federal",
+    "citizenship"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A young man writing at a post office counter, clerk waiting, form text blank. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Registration is a roster, not enlistment.",
+    "title": "SELECTIVE SERVICE"
+   }
+  },
+  {
+   "id": "IDC12_068",
+   "question": "A peaceful crowd gathers on the Idaho Capitol steps to hand the governor a petition demanding a road-safety law. Two distinct First Amendment freedoms are being exercised in that single scene:",
+   "correctAnswer": "Assembly and petition",
+   "distractors": [
+    "Press and establishment",
+    "Speech and double jeopardy",
+    "Assembly and quartering of troops"
+   ],
+   "difficulty": "hard",
+   "explanation": "The First Amendment separately protects peaceable assembly and petitioning the government for redress of grievances - the pairing this rally embodies.",
+   "memoryHook": "T-Rexy says: Gather and petition: two freedoms at once.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A peaceful crowd on wide capitol steps holding a large rolled petition scroll, signs blank. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Gather and petition: two freedoms at once.",
+    "title": "ASSEMBLY AND PETITION"
+   }
+  },
+  {
+   "id": "IDC12_069",
+   "question": "The most recently ratified amendment, the Twenty-seventh, was actually proposed back in 1789 and slept for two centuries. Its rule governs members of Congress themselves: any law varying their pay cannot take effect until:",
+   "correctAnswer": "An election of Representatives has intervened",
+   "distractors": [
+    "The President approves it twice",
+    "All fifty states ratify the raise",
+    "The Supreme Court reviews it"
+   ],
+   "difficulty": "hard",
+   "explanation": "Ratified in 1992 after a student-led campaign revived it, the Twenty-seventh Amendment makes congressional pay changes wait until after the next House election - voters get a say first.",
+   "memoryHook": "T-Rexy says: Pay raises wait for an election.",
+   "tags": [
+    "federal",
+    "amendments"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A plain envelope resting on a wooden ballot box outside a polling place, voters in soft focus in the background. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Pay raises wait for an election.",
+    "title": "TWENTY-SEVENTH AMENDMENT"
+   }
+  },
+  {
+   "id": "IDC12_070",
+   "question": "An Idahoan driving to Oregon for work finds she cannot be charged a special 'outsider fee' merely for being from Idaho when she uses Oregon's public services on equal terms offered to Oregonians. Article IV's Privileges and Immunities Clause mainly requires each state to:",
+   "correctAnswer": "Treat citizens of other states as it treats its own, for fundamental rights and livelihoods",
+   "distractors": [
+    "Give visitors its own voting rights",
+    "Waive its taxes for travelers",
+    "Adopt its neighbors' laws"
+   ],
+   "difficulty": "hard",
+   "explanation": "The clause is a rule of interstate comity: states may not discriminate against visiting citizens in essential matters like working and owning property without a substantial reason.",
+   "memoryHook": "T-Rexy says: Visitors get equal treatment on the essentials.",
+   "tags": [
+    "federal",
+    "federalism"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A welcome sign shape at a state border crossing with cars passing freely, lettering blank. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Visitors get equal treatment on the essentials.",
+    "title": "PRIVILEGES AND IMMUNITIES"
+   }
+  },
+  {
+   "id": "IDC12_071",
+   "question": "Idaho entered the Union on July 3, 1890, after decades as a territory. In the order of statehood, Idaho became the:",
+   "correctAnswer": "43rd state",
+   "distractors": [
+    "39th state",
+    "45th state",
+    "41st state"
+   ],
+   "difficulty": "easy",
+   "explanation": "Congress created Idaho Territory in 1863, and statehood came in 1890 - Idaho was admitted 43rd, three days before Wyoming became the 44th.",
+   "memoryHook": "T-Rexy says: Forty-third state, eighteen ninety.",
+   "tags": [
+    "idaho",
+    "statehood"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A western mountain valley town in 1890 with a flag-raising celebration in the square. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Forty-third state, eighteen ninety.",
+    "title": "43RD STATE"
+   }
+  },
+  {
+   "id": "IDC12_072",
+   "question": "Idaho's constitution was drafted at a convention in Boise in the summer of 1889 - one year before statehood - and, unusually, that same document still governs Idaho today. The Idaho Constitution in force dates from:",
+   "correctAnswer": "1889",
+   "distractors": [
+    "1863",
+    "1890",
+    "1901"
+   ],
+   "difficulty": "easy",
+   "explanation": "Delegates wrote the constitution in 1889, voters ratified it that November, and it took effect with statehood in 1890; it has been amended many times but never replaced.",
+   "memoryHook": "T-Rexy says: Written in eighty-nine, still in force.",
+   "tags": [
+    "idaho",
+    "constitution"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Delegates writing at desks in an 1889 convention hall, tall windows and gas lamps. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Written in eighty-nine, still in force.",
+    "title": "CONSTITUTION OF 1889"
+   }
+  },
+  {
+   "id": "IDC12_073",
+   "question": "Article I, Section 1 of the Idaho Constitution opens the state's bill of rights by declaring that all men have 'inalienable rights' - and the very first ones it names are enjoying and defending life and liberty, acquiring and protecting property, and:",
+   "correctAnswer": "Pursuing happiness and obtaining safety",
+   "distractors": [
+    "Voting in every election",
+    "Bearing arms without regulation",
+    "Holding public office"
+   ],
+   "difficulty": "easy",
+   "explanation": "Idaho's Declaration of Rights begins with natural-rights language modeled on the founding era: life, liberty, property, happiness, and safety are named as inalienable - gifts of nature, not grants of government.",
+   "memoryHook": "T-Rexy says: Life, liberty, property, happiness, safety.",
+   "tags": [
+    "idaho",
+    "constitution"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Sunrise over a mountain valley with a farmhouse below, peaceful and wide. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Life, liberty, property, happiness, safety.",
+    "title": "INALIENABLE RIGHTS"
+   }
+  },
+  {
+   "id": "IDC12_074",
+   "question": "Article I, Section 2 of the Idaho Constitution states a principle the whole document rests on: 'All political power is inherent in...' - and the sentence finishes by vesting that power in:",
+   "correctAnswer": "The people",
+   "distractors": [
+    "The governor",
+    "The legislature",
+    "The courts"
+   ],
+   "difficulty": "medium",
+   "explanation": "Like the federal Preamble, Idaho's constitution grounds authority in the people, adding that government exists for their equal protection and benefit - the premise of every later article.",
+   "memoryHook": "T-Rexy says: Power is inherent in the people.",
+   "tags": [
+    "idaho",
+    "constitution"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Citizens gathered in a circle in a frontier town square, discussing together. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Power is inherent in the people.",
+    "title": "POLITICAL POWER"
+   }
+  },
+  {
+   "id": "IDC12_075",
+   "question": "Article II, Section 1 of the Idaho Constitution divides state government into legislative, executive, and judicial departments and adds a strict rule: no person charged with duties in one department may exercise the powers of another, except as the constitution itself expressly directs. The rule is Idaho's own version of:",
+   "correctAnswer": "Separation of powers",
+   "distractors": [
+    "The supremacy clause",
+    "Direct democracy",
+    "Judicial review"
+   ],
+   "difficulty": "medium",
+   "explanation": "Idaho's separation clause is textually stricter than the federal structure - it names the three departments and forbids cross-exercise of powers outright, subject only to express constitutional exceptions.",
+   "memoryHook": "T-Rexy says: Three departments, kept apart.",
+   "tags": [
+    "idaho",
+    "constitution"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Three separate stone buildings arranged in a triangle around a shared green, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Three departments, kept apart.",
+    "title": "IDAHO SEPARATION OF POWERS"
+   }
+  },
+  {
+   "id": "IDC12_076",
+   "question": "Article IX, Section 1 of the Idaho Constitution makes public education a duty of state government in so many words: it is 'the duty of the legislature of Idaho, to establish and maintain a general, uniform and thorough system of...' - and the system named is:",
+   "correctAnswer": "Public, free common schools",
+   "distractors": [
+    "County poor houses",
+    "State militia companies",
+    "Canal and irrigation districts"
+   ],
+   "difficulty": "medium",
+   "explanation": "Education is constitutionally compulsory for the legislature in Idaho - Article IX's 'general, uniform and thorough' language has anchored Idaho school-funding litigation for over a century.",
+   "memoryHook": "T-Rexy says: Uniform and thorough: a constitutional duty.",
+   "tags": [
+    "idaho",
+    "constitution"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A one-room frontier schoolhouse with children arriving on a frosty morning. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Uniform and thorough: a constitutional duty.",
+    "title": "ARTICLE IX SCHOOLS"
+   }
+  },
+  {
+   "id": "IDC12_077",
+   "question": "Idaho Code Section 33-1602 requires government coursework to study how the Idaho Constitution embodies the principles of the American founding - and the statute itself points students to specific passages, among them Article I's declaration of rights, Article II's separation of powers, and Article IX, Section 1, which concerns:",
+   "correctAnswer": "The legislature's duty to establish public schools",
+   "distractors": [
+    "The organization of the state militia",
+    "Rules for impeachment trials",
+    "The state seal and motto"
+   ],
+   "difficulty": "medium",
+   "explanation": "The statute's citation list (Art. I ss. 1-3, Art. II s. 1, Art. III s. 24, Art. IX s. 1, Art. XIV s. 1) is the legislature's own map of where founding principles live inside Idaho's constitution.",
+   "memoryHook": "T-Rexy says: The statute names the articles to study.",
+   "tags": [
+    "idaho",
+    "statute"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "An open law book and an open constitution side by side on a classroom desk, pages blank. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: The statute names the articles to study.",
+    "title": "33-1602 READING LIST"
+   }
+  },
+  {
+   "id": "IDC12_078",
+   "question": "Unlike Nebraska's one-house model, the Idaho Legislature is bicameral. Its two houses, which both meet in the Boise capitol, are the:",
+   "correctAnswer": "Senate and House of Representatives",
+   "distractors": [
+    "Council and Assembly",
+    "Senate and Legislative Council",
+    "House of Commons and House of Lords"
+   ],
+   "difficulty": "hard",
+   "explanation": "Idaho kept the familiar two-house design: a 35-member Senate and a 70-member House of Representatives, both elected from the same 35 legislative districts.",
+   "memoryHook": "T-Rexy says: Two houses in Boise.",
+   "tags": [
+    "idaho",
+    "legislature"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Two legislative chambers in one capitol building shown in cutaway, desks in both. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Two houses in Boise.",
+    "title": "IDAHO LEGISLATURE"
+   }
+  },
+  {
+   "id": "IDC12_079",
+   "question": "Idaho draws 35 legislative districts across the state, and each district returns exactly three legislators to Boise. Every district elects:",
+   "correctAnswer": "One senator and two representatives",
+   "distractors": [
+    "Two senators and one representative",
+    "Three representatives",
+    "One senator and one representative"
+   ],
+   "difficulty": "hard",
+   "explanation": "The 1-and-2 pattern produces a 35-seat Senate and a 70-seat House - 105 legislators in all - and every Idaho voter has exactly three state legislators.",
+   "memoryHook": "T-Rexy says: One senator, two representatives per district.",
+   "tags": [
+    "idaho",
+    "legislature"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A map-like grid of district shapes on a table with three small chairs placed on one district, no labels. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: One senator, two representatives per district.",
+    "title": "THREE PER DISTRICT"
+   }
+  },
+  {
+   "id": "IDC12_080",
+   "question": "A student adds up the Idaho Legislature: 35 senators plus 70 representatives. The total membership of Idaho's lawmaking body is:",
+   "correctAnswer": "105 legislators",
+   "distractors": [
+    "70 legislators",
+    "100 legislators",
+    "140 legislators"
+   ],
+   "difficulty": "hard",
+   "explanation": "The arithmetic follows from the district structure - 35 districts x (1 senator + 2 representatives) = 105 - making Idaho's legislature one of the smaller ones in the nation per capita of population served.",
+   "memoryHook": "T-Rexy says: Thirty-five plus seventy is one hundred five.",
+   "tags": [
+    "idaho",
+    "legislature"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Rows of desks in two connected chambers viewed from a high gallery, seats uncounted and distant. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Thirty-five plus seventy is one hundred five.",
+    "title": "105 LEGISLATORS"
+   }
+  },
+  {
+   "id": "IDC12_081",
+   "question": "Idaho's governor serves a four-year term - and, a point on which Idaho differs from the presidency, state law places on that office:",
+   "correctAnswer": "No limit on the number of terms a governor may serve",
+   "distractors": [
+    "A strict two-term limit",
+    "A one-term limit",
+    "A lifetime ban after any other office"
+   ],
+   "difficulty": "easy",
+   "explanation": "Idaho repealed its term limits in 2002 - the first state to repeal limits its voters had adopted - so governors (and legislators) may serve as many terms as voters keep granting them.",
+   "memoryHook": "T-Rexy says: No term limits in Idaho.",
+   "tags": [
+    "idaho",
+    "executive"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A governor's desk in a state capitol office with a mountain view through tall windows. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: No term limits in Idaho.",
+    "title": "GOVERNOR'S TERM"
+   }
+  },
+  {
+   "id": "IDC12_082",
+   "question": "When the Idaho Senate needs a presiding officer, the state constitution gives the gavel to an executive-branch official rather than a senator. The president of the Idaho Senate is the:",
+   "correctAnswer": "Lieutenant Governor",
+   "distractors": [
+    "Secretary of State",
+    "Chief Justice",
+    "Senate majority leader"
+   ],
+   "difficulty": "easy",
+   "explanation": "Following the federal vice-presidential model, Idaho's lieutenant governor presides over the Senate and can break tie votes, while the Senate's own president pro tempore runs the chamber in the lieutenant governor's absence.",
+   "memoryHook": "T-Rexy says: The lieutenant governor holds the Senate gavel.",
+   "tags": [
+    "idaho",
+    "executive"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A presiding officer's chair and gavel above a senate chamber floor. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: The lieutenant governor holds the Senate gavel.",
+    "title": "PRESIDENT OF THE SENATE"
+   }
+  },
+  {
+   "id": "IDC12_083",
+   "question": "A Boise voter faces a long executive-branch ballot: governor, lieutenant governor, secretary of state, state controller, state treasurer, attorney general, and superintendent of public instruction. Idaho fills all of these offices by:",
+   "correctAnswer": "Separate election - a plural executive, not appointment by the governor",
+   "distractors": [
+    "Appointment by the governor",
+    "Selection by the legislature",
+    "Appointment by the state supreme court"
+   ],
+   "difficulty": "easy",
+   "explanation": "Idaho voters elect their executive team member by member; the governor cannot fire the independently elected attorney general or superintendent, a design that fragments executive power on purpose.",
+   "memoryHook": "T-Rexy says: Voters pick the whole executive team.",
+   "tags": [
+    "idaho",
+    "executive"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A row of blank office doors receding along a capitol corridor, symbolic and uncounted. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Voters pick the whole executive team.",
+    "title": "PLURAL EXECUTIVE"
+   }
+  },
+  {
+   "id": "IDC12_084",
+   "question": "An appeal from an Idaho trial court can reach the state's court of last resort, whose five justices are elected statewide on a nonpartisan ballot. That highest court is the:",
+   "correctAnswer": "Idaho Supreme Court",
+   "distractors": [
+    "Idaho Court of Appeals",
+    "Ninth Circuit",
+    "Idaho Judicial Council"
+   ],
+   "difficulty": "medium",
+   "explanation": "The Idaho Supreme Court - a chief justice and four associate justices - sits atop the state judiciary; below it the Court of Appeals hears most routine appeals first.",
+   "memoryHook": "T-Rexy says: Five justices at the top.",
+   "tags": [
+    "idaho",
+    "judiciary"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Five high-backed chairs behind a long bench in a paneled courtroom, flags at the sides. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Five justices at the top.",
+    "title": "IDAHO SUPREME COURT"
+   }
+  },
+  {
+   "id": "IDC12_085",
+   "question": "Since the early 1980s, most Idaho appeals have been heard first by an intermediate court created to relieve the supreme court's docket. That court, whose judges also run statewide, is the:",
+   "correctAnswer": "Idaho Court of Appeals",
+   "distractors": [
+    "Idaho Court of Claims",
+    "Idaho Appellate Senate",
+    "Federal Circuit Court"
+   ],
+   "difficulty": "medium",
+   "explanation": "Created by statute in 1981 and sitting from 1982, the Court of Appeals decides the bulk of appeals; the supreme court reviews its decisions selectively and takes some cases directly.",
+   "memoryHook": "T-Rexy says: Appeals start one rung down.",
+   "tags": [
+    "idaho",
+    "judiciary"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A smaller courtroom one floor below a grander one in the same building, cutaway view. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Appeals start one rung down.",
+    "title": "COURT OF APPEALS"
+   }
+  },
+  {
+   "id": "IDC12_086",
+   "question": "Idaho is divided for local government into counties - more than forty of them, including Ada, Canyon, and Kootenai. The total number of counties in Idaho is:",
+   "correctAnswer": "44",
+   "distractors": [
+    "35",
+    "58",
+    "64"
+   ],
+   "difficulty": "medium",
+   "explanation": "Idaho's 44 counties range from Ada (Boise) to tiny Camas; each is an arm of state government and the basic unit of local administration outside city limits.",
+   "memoryHook": "T-Rexy says: Forty-four counties.",
+   "tags": [
+    "idaho",
+    "local"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A patchwork of county shapes fitted together like a quilt over a map table, no labels. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Forty-four counties.",
+    "title": "44 COUNTIES"
+   }
+  },
+  {
+   "id": "IDC12_087",
+   "question": "At the head of every Idaho county sits an elected board that sets the county budget, maintains county roads, and supervises other county officers. Statewide, that governing body is the:",
+   "correctAnswer": "Board of County Commissioners (three elected commissioners)",
+   "distractors": [
+    "County mayor and council of nine",
+    "County court of five judges",
+    "Governor's county council"
+   ],
+   "difficulty": "medium",
+   "explanation": "Three commissioners, elected from districts within the county, form the board - Idaho counties have no single county executive; authority is shared with the other elected row officers.",
+   "memoryHook": "T-Rexy says: Three commissioners run the county.",
+   "tags": [
+    "idaho",
+    "local"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Three officials seated at a curved table in a modest county meeting room, papers before them. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Three commissioners run the county.",
+    "title": "COUNTY COMMISSIONERS"
+   }
+  },
+  {
+   "id": "IDC12_088",
+   "question": "A Nampa resident names her county's independently elected 'row officers': besides the commissioners, Idaho counties elect a clerk, a treasurer, an assessor, a prosecuting attorney, a coroner, and the county's chief law-enforcement officer - the:",
+   "correctAnswer": "Sheriff",
+   "distractors": [
+    "Chief of police",
+    "State patrol captain",
+    "County judge"
+   ],
+   "difficulty": "hard",
+   "explanation": "The sheriff is an elected county officer in Idaho, running the county jail and serving as its chief law enforcer outside city police jurisdictions - an office that answers to voters, not to the commissioners.",
+   "memoryHook": "T-Rexy says: The sheriff is elected, not appointed.",
+   "tags": [
+    "idaho",
+    "local"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A sheriff's badge resting on a desk beside a ring of jail keys, quiet office light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: The sheriff is elected, not appointed.",
+    "title": "COUNTY SHERIFF"
+   }
+  },
+  {
+   "id": "IDC12_089",
+   "question": "Beyond counties and cities, Idaho government includes hundreds of single-purpose governments - school districts, highway districts, fire protection districts, irrigation districts. In the Idaho Constitution's local-government article (and in Standard GOV.47), these bodies are classed together as:",
+   "correctAnswer": "Special districts",
+   "distractors": [
+    "Municipal corporations",
+    "Private utilities",
+    "Federal agencies"
+   ],
+   "difficulty": "hard",
+   "explanation": "Special districts are limited-purpose governments with their own elected boards and taxing power; Idaho has more of them than it has cities and counties combined.",
+   "memoryHook": "T-Rexy says: One job each: special districts.",
+   "tags": [
+    "idaho",
+    "local"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A fire station, a schoolhouse, and an irrigation canal headgate shown together in one valley scene. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: One job each: special districts.",
+    "title": "SPECIAL DISTRICTS"
+   }
+  },
+  {
+   "id": "IDC12_090",
+   "question": "Standard GOV.45 of Idaho's American Government course asks what document describes the organization and powers of Idaho's state and local governments. The answer the standard points to is:",
+   "correctAnswer": "The Constitution of the State of Idaho",
+   "distractors": [
+    "The United States Constitution",
+    "The Articles of Confederation",
+    "The Idaho Driver's Handbook"
+   ],
+   "difficulty": "hard",
+   "explanation": "GOV.45 is one of four Idaho-named standards (GOV.44-47): the state's own constitution, not the federal one, charters Idaho's branches, counties, cities, and districts.",
+   "memoryHook": "T-Rexy says: Idaho's own constitution charts Idaho government.",
+   "tags": [
+    "idaho",
+    "standards"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A state capitol building with its founding document displayed under glass in the rotunda, text blurred. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Idaho's own constitution charts Idaho government.",
+    "title": "GOV 45"
+   }
+  },
+  {
+   "id": "IDC12_091",
+   "question": "Standard GOV.44 directs Idaho students to tribal sovereignty 'with emphasis on Idaho,' including hunting and fishing rights and land leasing. Sovereignty, for the five federally recognized tribes in Idaho, means the tribes are:",
+   "correctAnswer": "Self-governing political communities whose authority predates the state, dealing with the United States government to government",
+   "distractors": [
+    "Departments of Idaho state government",
+    "Private landholding corporations",
+    "Advisory councils to the governor"
+   ],
+   "difficulty": "easy",
+   "explanation": "Tribal sovereignty is inherent and retained, not granted by Idaho; the state cannot simply legislate over tribal governments, which is why treaties and federal law frame hunting, fishing, and leasing questions.",
+   "memoryHook": "T-Rexy says: Tribes govern themselves - sovereignty is retained.",
+   "tags": [
+    "idaho",
+    "tribal"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A tribal council chamber with a circular seating arrangement and flags, dignified and quiet. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Tribes govern themselves - sovereignty is retained.",
+    "title": "TRIBAL SOVEREIGNTY"
+   }
+  },
+  {
+   "id": "IDC12_092",
+   "question": "Idaho is home to five federally recognized tribal governments: the Shoshone-Bannock Tribes, the Nez Perce Tribe, the Coeur d'Alene Tribe, the Kootenai Tribe of Idaho, and the Shoshone-Paiute Tribes. The reservation at Fort Hall in southeastern Idaho belongs to the:",
+   "correctAnswer": "Shoshone-Bannock Tribes",
+   "distractors": [
+    "Nez Perce Tribe",
+    "Coeur d'Alene Tribe",
+    "Kootenai Tribe of Idaho"
+   ],
+   "difficulty": "easy",
+   "explanation": "Fort Hall, created by an 1868 treaty-era executive order along the Snake River plain, is home to the Shoshone and Bannock peoples jointly - the Shoshone-Bannock Tribes.",
+   "memoryHook": "T-Rexy says: Fort Hall: Shoshone-Bannock.",
+   "tags": [
+    "idaho",
+    "tribal"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A high desert river plain with tepees and a modern tribal community building in the distance, respectful view. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Fort Hall: Shoshone-Bannock.",
+    "title": "FORT HALL"
+   }
+  },
+  {
+   "id": "IDC12_093",
+   "question": "In the Treaty of 1855, the Nez Perce reserved - kept for themselves - the right to hunt, fish, and gather on lands they ceded to the United States. When Idaho students study those reserved rights today (GOV.44), the key idea is that a treaty cession:",
+   "correctAnswer": "Transferred some rights while the tribes expressly retained others, which remain in force",
+   "distractors": [
+    "Erased every tribal right on the ceded land",
+    "Lasted only until Idaho statehood",
+    "Applied only while the signers lived"
+   ],
+   "difficulty": "easy",
+   "explanation": "Reserved-rights doctrine: tribes gave up title to most of the land but kept hunting, fishing, and gathering rights on it - rights the Supreme Court has repeatedly treated as surviving statehood.",
+   "memoryHook": "T-Rexy says: Reserved means kept, not given away.",
+   "tags": [
+    "idaho",
+    "tribal"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A fisherman casting into a clear mountain river at dawn, salmon country, peaceful scene. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Reserved means kept, not given away.",
+    "title": "RESERVED RIGHTS"
+   }
+  },
+  {
+   "id": "IDC12_094",
+   "question": "Standard GOV.46 asks students to compare how laws are made at the national, state, and local levels. One method exists ONLY at the state-and-local side of that comparison in Idaho: Idaho voters, by gathering petition signatures, can place a proposed law on the ballot themselves - the power of:",
+   "correctAnswer": "Initiative",
+   "distractors": [
+    "Veto override",
+    "Impeachment",
+    "Judicial review"
+   ],
+   "difficulty": "medium",
+   "explanation": "Idaho's constitution has allowed the initiative since voters added it in 1912: a petition signed by enough electors sends a proposed statute straight to the ballot, bypassing the legislature.",
+   "memoryHook": "T-Rexy says: Voters can legislate: the initiative.",
+   "tags": [
+    "idaho",
+    "direct-democracy"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Citizens signing a large petition on a table outside a county courthouse, pens in hand. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Voters can legislate: the initiative.",
+    "title": "THE INITIATIVE"
+   }
+  },
+  {
+   "id": "IDC12_095",
+   "question": "Companion to the initiative, Idaho's referendum power lets voters do the reverse - take a law the legislature has just passed and, by petition, send it to the ballot for the people to:",
+   "correctAnswer": "Approve or reject it themselves",
+   "distractors": [
+    "Amend its wording line by line",
+    "Send it to the Supreme Court",
+    "Return it to the governor"
+   ],
+   "difficulty": "medium",
+   "explanation": "Where the initiative starts a law with the people, the referendum is the people's veto: timely petitions suspend a new statute until voters sustain or kill it at the next election.",
+   "memoryHook": "T-Rexy says: The referendum is the people's veto.",
+   "tags": [
+    "idaho",
+    "direct-democracy"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A freshly signed law document being carried from a capitol toward a ballot box by citizens. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: The referendum is the people's veto.",
+    "title": "THE REFERENDUM"
+   }
+  },
+  {
+   "id": "IDC12_096",
+   "question": "Beginning with the class tested in 2027-28, Idaho replaces the old practice of using the federal USCIS questions for its graduation civics test. Under Idaho Code 33-1602 as rewritten in 2025-26, proficiency is shown instead on:",
+   "correctAnswer": "A state-developed civics assessment built on Idaho's own statutory components",
+   "distractors": [
+    "The same USCIS test, unchanged",
+    "A test written by each school district",
+    "An oral exam given by county clerks"
+   ],
+   "difficulty": "medium",
+   "explanation": "HB 397 (2025) and SB 1336 (2026) rewrote the requirement: the new assessment is Idaho-developed, taken after grade 9, and its eleven statutory components run from founding documents to Idaho government itself.",
+   "memoryHook": "T-Rexy says: Idaho now writes its own civics test.",
+   "tags": [
+    "idaho",
+    "statute"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A teacher handing a fresh exam booklet to a student in a bright classroom, booklet blank. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Idaho now writes its own civics test.",
+    "title": "STATE-DEVELOPED TEST"
+   }
+  },
+  {
+   "id": "IDC12_097",
+   "question": "One of the eleven statutory components of Idaho's new civics assessment - component (k) of Section 33-1602(16) - names content no federal test ever covered. It requires students to know:",
+   "correctAnswer": "The organization and powers of state and local government as described in the constitution of the state of Idaho",
+   "distractors": [
+    "The names of all fifty governors",
+    "Idaho's high school sports champions",
+    "The text of the state song"
+   ],
+   "difficulty": "medium",
+   "explanation": "Component (k) is why this pack exists: Idaho's graduation test now examines Idaho's own constitution and governments expressly, alongside component (j) on federal, state, local, and tribal relationships and the Tenth Amendment.",
+   "memoryHook": "T-Rexy says: Component k tests Idaho itself.",
+   "tags": [
+    "idaho",
+    "statute"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A state constitution displayed open beside a map of counties and cities shapes, no readable labels. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Component k tests Idaho itself.",
+    "title": "COMPONENT K"
+   }
+  },
+  {
+   "id": "IDC12_098",
+   "question": "Idaho women could vote in every election - including for President - well before the Nineteenth Amendment. Idaho extended full suffrage to women by constitutional amendment in the year:",
+   "correctAnswer": "1896",
+   "distractors": [
+    "1920",
+    "1872",
+    "1912"
+   ],
+   "difficulty": "hard",
+   "explanation": "Idaho was the fourth state to grant women's suffrage, in 1896, putting Idaho women a generation ahead of the 1920 national amendment - though territorial and early-state politics had contested women's votes for years before.",
+   "memoryHook": "T-Rexy says: Idaho women voted from eighteen ninety-six.",
+   "tags": [
+    "idaho",
+    "history"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "Women in 1890s dress casting ballots at a wooden ballot box in a frontier town hall. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Idaho women voted from eighteen ninety-six.",
+    "title": "SUFFRAGE 1896"
+   }
+  },
+  {
+   "id": "IDC12_099",
+   "question": "Idaho's state motto, carried on the state seal beneath a miner and a woman holding scales of justice, is the Latin phrase 'Esto Perpetua.' Faithfully translated, it declares:",
+   "correctAnswer": "Let it be perpetual (may it endure forever)",
+   "distractors": [
+    "Out of many, one",
+    "Let the buyer beware",
+    "Strength through unity"
+   ],
+   "difficulty": "hard",
+   "explanation": "Adopted with the state seal in 1891, 'Esto Perpetua' expresses the founders' hope that the young state would endure - a motto Idaho shares with no other state.",
+   "memoryHook": "T-Rexy says: Esto Perpetua: let it be perpetual.",
+   "tags": [
+    "idaho",
+    "symbols"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A round state seal medallion rendered in bronze tones, figures symbolic, lettering illegible by design. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Esto Perpetua: let it be perpetual.",
+    "title": "ESTO PERPETUA"
+   }
+  },
+  {
+   "id": "IDC12_100",
+   "question": "Article IX, Section 2 of the Idaho Constitution creates a state board charged with the general supervision of Idaho's public school system - the body that still oversees K-12 standards, including the content standards behind the government course. That body is the:",
+   "correctAnswer": "Idaho State Board of Education",
+   "distractors": [
+    "Idaho Supreme Court",
+    "Board of County Commissioners",
+    "State Board of Land Commissioners"
+   ],
+   "difficulty": "hard",
+   "explanation": "The constitutionally created State Board of Education supervises Idaho's public schools and its public universities alike - an education board written into the constitution itself, not merely created by statute.",
+   "memoryHook": "T-Rexy says: The constitution itself builds the Board of Education.",
+   "tags": [
+    "idaho",
+    "constitution"
+   ],
+   "imageUrl": "topic:idaho-civics",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A board table with name plates turned blank, Idaho schoolhouses visible through the window behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: The constitution itself builds the Board of Education.",
+    "title": "STATE BOARD OF EDUCATION"
+   }
+  }
+ ]
+}
