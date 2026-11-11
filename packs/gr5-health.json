@@ -1,11 +1,11 @@
 {
  "packId": "gr5-health",
  "title": "Health (5th Grade)",
- "description": "Health (5th Grade) practice - 121 questions",
+ "description": "Health (5th Grade) practice - 133 questions, including Delaware-mandated sexual extortion prevention content (Delaware Code Section 4163)",
  "version": "1.0",
  "language": "en",
  "passingScore": 60,
- "totalQuestions": 130,
+ "totalQuestions": 133,
  "addedAt": "2026-11-05",
  "tags": [
   "health",
@@ -2727,6 +2727,85 @@
     "scene": "A classroom wall with blank poster frames and a caring teacher, warm school light. No readable text, no words, no letters, no numbers anywhere in the image.",
     "tip": "T-Rexy says: Arkansas teaches it K-12 because prevention works.",
     "title": "WHY SCHOOLS TEACH THIS"
+   }
+  },
+  {
+   "id": "HEA5_131",
+   "question": "What is sexual extortion?",
+   "correctAnswer": "It is when someone threatens to share private or embarrassing pictures or information unless the victim sends more pictures, money, or does what the person demands",
+   "distractors": [
+    "A game children play online with friends",
+    "A type of school fundraiser",
+    "When a website charges money for games"
+   ],
+   "difficulty": "medium",
+   "explanation": "Sexual extortion is a form of abuse and a crime: a person - sometimes pretending to be a kid - tricks or pressures a child into sharing private images, then threatens to share them unless the child obeys. Delaware's Erin's Law (14 Del. C. section 4163) requires teaching students about it.",
+   "memoryHook": "T-Rexy says: Extortion means threats - it is never the victim's fault.",
+   "tags": [
+    "erins-law",
+    "extortion"
+   ],
+   "imageUrl": "topic:health-safety",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A phone lying face-down on a table in shadow, a supportive adult hand nearby in warm light. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Extortion means threats - it is never the victim's fault.",
+    "title": "WHAT IS SEXUAL EXTORTION?"
+   }
+  },
+  {
+   "id": "HEA5_132",
+   "question": "What is the safest rule about pictures of your body or private information online?",
+   "correctAnswer": "Never create or share private pictures of yourself online, and never share them because someone asks, pressures, or threatens you",
+   "distractors": [
+    "Share pictures only with people who promise to delete them",
+    "Share pictures if the person sends one first",
+    "It is safe if you use a disappearing-messages app"
+   ],
+   "difficulty": "easy",
+   "explanation": "No app makes a shared image truly private - screenshots last forever. Erin's Law online-safety teaching is simple: never create or send private images, and pressure or promises are warning signs to stop and tell a trusted adult.",
+   "memoryHook": "T-Rexy says: Never create it, never send it.",
+   "tags": [
+    "erins-law",
+    "online-safety"
+   ],
+   "imageUrl": "topic:health-safety",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A child closing a laptop calmly while a parent sits supportively nearby in a bright room. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Never create it, never send it.",
+    "title": "NEVER CREATE, NEVER SEND"
+   }
+  },
+  {
+   "id": "HEA5_133",
+   "question": "If someone online threatens to share a private picture of you unless you send more, what should you do FIRST?",
+   "correctAnswer": "Stop replying, save the messages if you can, and tell a trusted adult right away - it is a crime against you, and adults and police can help",
+   "distractors": [
+    "Send what they ask so they stop",
+    "Delete everything and never tell anyone",
+    "Pay them money so they go away"
+   ],
+   "difficulty": "medium",
+   "explanation": "Victims of sexual extortion should never comply or pay - demands grow. Stop contact, keep the evidence, and tell a trusted adult immediately; reporting protects the victim and can stop the offender. Help is available through trusted adults, school counselors, and law enforcement.",
+   "memoryHook": "T-Rexy says: Stop, save, tell - help stops the threats.",
+   "tags": [
+    "erins-law",
+    "extortion",
+    "reporting"
+   ],
+   "imageUrl": "topic:health-safety",
+   "dynamic": false,
+   "source": "original",
+   "img": {
+    "dino": false,
+    "scene": "A child talking with a trusted school counselor in a calm bright office, supportive mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+    "tip": "T-Rexy says: Stop, save, tell - help stops the threats.",
+    "title": "STOP, SAVE, TELL"
    }
   }
  ]

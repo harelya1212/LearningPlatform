@@ -1,0 +1,1909 @@
+{
+  "packId": "gr12-alaska-civics",
+  "title": "Alaska Civics (12th Grade)",
+  "version": "1.0",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": "AKC12_001",
+      "question": "A Juneau civics class asks where the United States government gets its authority. The founding answer is:",
+      "correctAnswer": "The people - popular sovereignty, stated in the Preamble's 'We the People'",
+      "distractors": [
+        "The military",
+        "The individual state governors acting together",
+        "European monarchies"
+      ],
+      "explanation": "The Constitution opens by locating power in the people, who delegate limited powers to government. Every later clause operates inside that grant.",
+      "memoryHook": "T-Rexy says: Authority flows up from the people.",
+      "imageUrl": "topic:AKC12_001",
+      "tags": [
+        "civics",
+        "federal",
+        "constitution"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_002",
+      "question": "A state passes a law that conflicts with a valid federal treaty. Under the Constitution, the outcome is:",
+      "correctAnswer": "The treaty prevails - treaties are part of the supreme law of the land",
+      "distractors": [
+        "The state law prevails at home",
+        "Both laws are void",
+        "The governor decides"
+      ],
+      "explanation": "Article VI's Supremacy Clause names the Constitution, federal laws and treaties as supreme. State judges must follow them over contrary state law.",
+      "memoryHook": "T-Rexy says: Supreme means the treaty wins.",
+      "imageUrl": "topic:AKC12_002",
+      "tags": [
+        "civics",
+        "federal",
+        "constitution"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_003",
+      "question": "Congress wants to raise revenue for a new program. The Constitution requires revenue bills to begin in:",
+      "correctAnswer": "The House of Representatives",
+      "distractors": [
+        "The Senate",
+        "The Supreme Court",
+        "The Treasury Department"
+      ],
+      "explanation": "Article I, Section 7 gives the tax-originating power to the chamber closest to the people and most frequently elected. The Senate may amend, but the bill starts in the House.",
+      "memoryHook": "T-Rexy says: Tax bills start with the people's House.",
+      "imageUrl": "topic:AKC12_003",
+      "tags": [
+        "civics",
+        "federal",
+        "congress"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_004",
+      "question": "A president vetoes a bill, and Congress still wants it law. Congress can override with:",
+      "correctAnswer": "Two-thirds of both the House and the Senate",
+      "distractors": [
+        "A simple majority of the Senate only",
+        "Three-fourths of the state governors",
+        "A Supreme Court ruling"
+      ],
+      "explanation": "The override fraction mirrors the amendment proposal fraction: two-thirds. Successful overrides are rare, which is the design - the veto is a serious check.",
+      "memoryHook": "T-Rexy says: Two-thirds of both houses beats a veto.",
+      "imageUrl": "topic:AKC12_004",
+      "tags": [
+        "civics",
+        "federal",
+        "congress",
+        "checks"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_005",
+      "question": "A nominee for the Supreme Court is questioned by the Senate Judiciary Committee. The Senate's constitutional role here is:",
+      "correctAnswer": "Advice and consent - the Senate confirms or rejects the President's nominees",
+      "distractors": [
+        "To select the nominee itself",
+        "To try the nominee's future cases",
+        "No role at all"
+      ],
+      "explanation": "Presidents nominate; the Senate confirms. The same advice-and-consent power covers ambassadors and senior executive officers, and treaties require two-thirds Senate consent.",
+      "memoryHook": "T-Rexy says: The President picks; the Senate confirms.",
+      "imageUrl": "topic:AKC12_005",
+      "tags": [
+        "civics",
+        "federal",
+        "judiciary"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_006",
+      "question": "A case challenges a state law under the Fourteenth Amendment. The amendment's Equal Protection Clause means:",
+      "correctAnswer": "No state may deny any person within its jurisdiction the equal protection of the laws",
+      "distractors": [
+        "States may classify citizens freely",
+        "Only the federal government must treat people equally",
+        "Equality applies only in federal elections"
+      ],
+      "explanation": "Ratified in 1868, the Fourteenth Amendment also nationalized due process against the states and redefined citizenship after the Civil War. It is the most litigated amendment in the Bill of Rights era.",
+      "memoryHook": "T-Rexy says: 1868 wrote equality into state law.",
+      "imageUrl": "topic:AKC12_006",
+      "tags": [
+        "civics",
+        "federal",
+        "amendments",
+        "rights"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_007",
+      "question": "Police search a home without a warrant or an exception. The Fourth Amendment issue is:",
+      "correctAnswer": "The search is an unreasonable search, and its evidence is generally excluded at trial",
+      "distractors": [
+        "No issue - police may search any home",
+        "Only a state issue, never federal",
+        "The homeowner must pay a fee"
+      ],
+      "explanation": "The Fourth Amendment requires warrants on probable cause describing the place and items. The exclusionary rule enforces it by barring illegally seized evidence.",
+      "memoryHook": "T-Rexy says: No warrant, no search - that is the rule.",
+      "imageUrl": "topic:AKC12_007",
+      "tags": [
+        "civics",
+        "federal",
+        "rights"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_008",
+      "question": "A newspaper prints a story critical of the mayor, and the mayor orders it shut down. The First Amendment analysis starts with:",
+      "correctAnswer": "Prior restraint of the press is presumptively unconstitutional - the government bears a heavy burden to justify it",
+      "distractors": [
+        "The mayor may censor local papers",
+        "Newspapers need a mayor's license",
+        "Criticism of officials is unprotected"
+      ],
+      "explanation": "Near v. Minnesota (1931) struck down prior restraint of a newspaper. Speech critical of officials sits at the core of the First Amendment's protection.",
+      "memoryHook": "T-Rexy says: Censor first, justify never - nearly.",
+      "imageUrl": "topic:AKC12_008",
+      "tags": [
+        "civics",
+        "federal",
+        "rights"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_009",
+      "question": "A defendant too poor to hire a lawyer faces felony charges. Gideon v. Wainwright (1963) holds:",
+      "correctAnswer": "The state must provide counsel - the Sixth Amendment right to an attorney applies to the states",
+      "distractors": [
+        "He must defend himself",
+        "Only federal defendants get counsel",
+        "Counsel is provided only for misdemeanors"
+      ],
+      "explanation": "Gideon incorporated the right to counsel through the Fourteenth Amendment. Clarence Gideon's handwritten petition changed every state courtroom in America.",
+      "memoryHook": "T-Rexy says: No lawyer? The state must provide one.",
+      "imageUrl": "topic:AKC12_009",
+      "tags": [
+        "civics",
+        "federal",
+        "rights",
+        "courts"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_010",
+      "question": "A school suspends students for wearing black armbands protesting a war. Tinker v. Des Moines (1969) holds students:",
+      "correctAnswer": "Do not shed their constitutional rights at the schoolhouse gate - speech may be limited only on substantial disruption",
+      "distractors": [
+        "Have no speech rights at school",
+        "May be punished for any protest",
+        "Keep rights only after graduation"
+      ],
+      "explanation": "The armbands caused no disruption, so the suspensions fell. Tinker remains the baseline for student speech, later qualified for lewd, school-sponsored and drug-promoting speech.",
+      "memoryHook": "T-Rexy says: Rights do not stop at the schoolhouse gate.",
+      "imageUrl": "topic:AKC12_010",
+      "tags": [
+        "civics",
+        "federal",
+        "rights",
+        "courts"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_011",
+      "question": "Voters dislike a Supreme Court decision interpreting a federal statute. Their most direct constitutional remedy is:",
+      "correctAnswer": "Elect a Congress that amends the statute - statutory interpretation can be revised by legislation",
+      "distractors": [
+        "Recall the justices",
+        "Ask the President to reverse the Court",
+        "Nullify the decision by petition"
+      ],
+      "explanation": "Congress cannot overturn a constitutional ruling by statute, but a statutory interpretation is Congress's own text to rewrite. The distinction decides which remedy exists.",
+      "memoryHook": "T-Rexy says: Rewrite the statute, not the Court.",
+      "imageUrl": "topic:AKC12_011",
+      "tags": [
+        "civics",
+        "federal",
+        "checks"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_012",
+      "question": "Congress passes a bill in the final days of its session. The President neither signs it nor returns it, and Congress adjourns for the year before ten days have passed. What has happened to the bill?",
+      "correctAnswer": "Pocket veto - the bill dies without a signature",
+      "distractors": [
+        "Law by default",
+        "Supreme Court referral",
+        "Line-item approval"
+      ],
+      "explanation": "The pocket veto is the only veto Congress cannot override, because there is no bill returned to override. It works only when adjournment prevents return.",
+      "memoryHook": "T-Rexy says: Silence plus adjournment kills the bill.",
+      "imageUrl": "topic:AKC12_012",
+      "tags": [
+        "civics",
+        "federal",
+        "congress"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_013",
+      "question": "The Electoral College produces how many total electoral votes, and how many win the presidency?",
+      "correctAnswer": "538 total; 270 to win",
+      "distractors": [
+        "435 total; 218 to win",
+        "100 total; 51 to win",
+        "548 total; 300 to win"
+      ],
+      "explanation": "Electors equal Congress (535) plus three for the District of Columbia under the Twenty-third Amendment. A tie or no majority sends the election to the House.",
+      "memoryHook": "T-Rexy says: 270 is the magic number.",
+      "imageUrl": "topic:AKC12_013",
+      "tags": [
+        "civics",
+        "federal",
+        "elections"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_014",
+      "question": "A state's legislature draws congressional districts so one party wins most seats with a minority of votes. The practice is called:",
+      "correctAnswer": "Gerrymandering - manipulating district boundaries for partisan advantage",
+      "distractors": [
+        "Filibustering",
+        "Logrolling",
+        "Malapportionment"
+      ],
+      "explanation": "The term honors Governor Elbridge Gerry's 1812 salamander-shaped district. Partisan gerrymandering claims were held nonjusticiable for federal courts in Rucho (2019); racial gerrymandering remains reviewable.",
+      "memoryHook": "T-Rexy says: Draw the map, pick the voters.",
+      "imageUrl": "topic:AKC12_014",
+      "tags": [
+        "civics",
+        "federal",
+        "elections"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_015",
+      "question": "A citizen wants to know why the Senate has 100 members but the House 435. The constitutional logic is:",
+      "correctAnswer": "The Senate embodies state equality (two per state); the House embodies population, reapportioned after each census",
+      "distractors": [
+        "Both houses are by population",
+        "The numbers were chosen at random",
+        "The House number is fixed in the Constitution's text"
+      ],
+      "explanation": "The Great Compromise joined the Virginia and New Jersey plans. House size is statutory (set at 435 in 1929); Senate equality cannot even be amended away without a state's consent.",
+      "memoryHook": "T-Rexy says: Equality above, population below.",
+      "imageUrl": "topic:AKC12_015",
+      "tags": [
+        "civics",
+        "federal",
+        "congress"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_016",
+      "question": "A federal judge serves 'during good Behaviour' - in practice:",
+      "correctAnswer": "For life, absent impeachment - insulating judges from political pressure",
+      "distractors": [
+        "For four-year terms",
+        "Until age 70 exactly",
+        "At the President's pleasure"
+      ],
+      "explanation": "Life tenure plus salary protection are the judiciary's independence machinery. Federal judges leave by retirement, death or impeachment only.",
+      "memoryHook": "T-Rexy says: Life tenure buys independence.",
+      "imageUrl": "topic:AKC12_016",
+      "tags": [
+        "civics",
+        "federal",
+        "judiciary"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_017",
+      "question": "Impeachment of a president proceeds in this order:",
+      "correctAnswer": "The House impeaches by majority; the Senate tries, and conviction needs two-thirds",
+      "distractors": [
+        "The Senate impeaches; the House tries",
+        "The Supreme Court impeaches and tries",
+        "Governors vote to remove"
+      ],
+      "explanation": "Impeachment is accusation; removal is the Senate's verdict. Three presidents have been impeached; none has been convicted and removed by the Senate.",
+      "memoryHook": "T-Rexy says: The House accuses; the Senate decides.",
+      "imageUrl": "topic:AKC12_017",
+      "tags": [
+        "civics",
+        "federal",
+        "checks"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_018",
+      "question": "The Twenty-second Amendment limits a president to:",
+      "correctAnswer": "Two elected terms (at most ten years if succeeding mid-term)",
+      "distractors": [
+        "One term",
+        "Three terms",
+        "Unlimited terms if re-elected by states"
+      ],
+      "explanation": "Ratified in 1951 after Franklin Roosevelt's four elections, the amendment constitutionalized Washington's two-term tradition.",
+      "memoryHook": "T-Rexy says: Two terms - Washington's tradition, written down.",
+      "imageUrl": "topic:AKC12_018",
+      "tags": [
+        "civics",
+        "federal",
+        "amendments"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_019",
+      "question": "A state sets its voting age at 21 for state elections. The Twenty-sixth Amendment says:",
+      "correctAnswer": "Citizens 18 and older may not be denied the vote on account of age - in any election",
+      "distractors": [
+        "States may set any voting age",
+        "Only federal elections are covered",
+        "The voting age is 21 nationwide"
+      ],
+      "explanation": "Ratified in 1971 during the Vietnam era - old enough to be drafted, old enough to vote - the amendment binds state and federal elections alike.",
+      "memoryHook": "T-Rexy says: Eighteen votes - everywhere.",
+      "imageUrl": "topic:AKC12_019",
+      "tags": [
+        "civics",
+        "federal",
+        "amendments",
+        "elections"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_020",
+      "question": "Every ten years the federal government counts everyone living in the country. Beyond the headcount itself, the Constitution ties that count directly to which recurring change in Congress?",
+      "correctAnswer": "Reapportionment of House seats among the states",
+      "distractors": [
+        "The number of senators per state",
+        "Supreme Court size",
+        "Electoral vote for territories"
+      ],
+      "explanation": "Article I commands an enumeration each decade. States gaining population gain seats and electors; states losing, lose them - the zero-sum engine of redistricting decades.",
+      "memoryHook": "T-Rexy says: Count the people, move the seats.",
+      "imageUrl": "topic:AKC12_020",
+      "tags": [
+        "civics",
+        "federal",
+        "congress"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_021",
+      "question": "A president orders an agency to act beyond the statute Congress wrote. Youngstown Sheet & Tube (1952) teaches presidential power is at its weakest when:",
+      "correctAnswer": "The President acts against the expressed will of Congress",
+      "distractors": [
+        "The President acts with Congress's support",
+        "Congress is silent",
+        "The action is popular"
+      ],
+      "explanation": "Justice Jackson's concurrence - presidential power at its 'lowest ebb' against Congress - became the standard framework for separation-of-powers disputes.",
+      "memoryHook": "T-Rexy says: Against Congress, presidential power ebbs lowest.",
+      "imageUrl": "topic:AKC12_021",
+      "tags": [
+        "civics",
+        "federal",
+        "checks",
+        "courts"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_022",
+      "question": "Marbury v. Madison (1803) established the federal courts' power of:",
+      "correctAnswer": "Judicial review - declaring acts of government unconstitutional",
+      "distractors": [
+        "Impeachment",
+        "Veto",
+        "Nullification"
+      ],
+      "explanation": "Chief Justice Marshall's opinion claimed review while denying Marbury his commission - asserting the power by declining to use it in the case itself.",
+      "memoryHook": "T-Rexy says: The case that gave courts the last word.",
+      "imageUrl": "topic:AKC12_022",
+      "tags": [
+        "civics",
+        "federal",
+        "courts"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_023",
+      "question": "A state argues the federal government may not tax its central bank. McCulloch v. Maryland (1819) answers with two holdings:",
+      "correctAnswer": "Congress holds implied powers under the Necessary and Proper Clause, and states may not tax federal operations",
+      "distractors": [
+        "States may tax any federal activity",
+        "Congress has only listed powers",
+        "Maryland wins both points"
+      ],
+      "explanation": "Marshall read 'necessary' broadly and barred state taxes on the federal bank as power to destroy. Federal supremacy within its sphere is McCulloch's legacy.",
+      "memoryHook": "T-Rexy says: Implied powers, and no state tax on the Union.",
+      "imageUrl": "topic:AKC12_023",
+      "tags": [
+        "civics",
+        "federal",
+        "courts",
+        "federalism"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_024",
+      "question": "Gibbons v. Ogden (1824) defined the Commerce Clause to reach:",
+      "correctAnswer": "Interstate navigation and commercial intercourse - a broad federal commerce power",
+      "distractors": [
+        "Only trade in manufactured goods",
+        "Nothing beyond state borders",
+        "Commerce only by rail"
+      ],
+      "explanation": "Marshall's broad commerce definition underlies two centuries of federal regulation, from steamboats to the modern economy.",
+      "memoryHook": "T-Rexy says: Commerce means intercourse, broadly read.",
+      "imageUrl": "topic:AKC12_024",
+      "tags": [
+        "civics",
+        "federal",
+        "courts",
+        "federalism"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_025",
+      "question": "A defendant is read his rights before custodial questioning. That ritual comes from:",
+      "correctAnswer": "Miranda v. Arizona (1966)",
+      "distractors": [
+        "Gideon v. Wainwright",
+        "Mapp v. Ohio",
+        "Brown v. Board"
+      ],
+      "explanation": "Miranda required warnings - silence, counsel, appointed counsel - before custodial interrogation. Mapp (1961) supplied the exclusionary rule for the states; the two are often confused but distinct.",
+      "memoryHook": "T-Rexy says: You have the right to remain silent - Miranda.",
+      "imageUrl": "topic:AKC12_025",
+      "tags": [
+        "civics",
+        "federal",
+        "rights",
+        "courts"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_026",
+      "question": "Brown v. Board of Education (1954) overruled Plessy by holding:",
+      "correctAnswer": "Separate educational facilities are inherently unequal under the Fourteenth Amendment",
+      "distractors": [
+        "Separate but equal was correct",
+        "Segregation is a state choice beyond review",
+        "Only graduate schools must integrate"
+      ],
+      "explanation": "The unanimous Warren Court opinion ended de jure school segregation's legal basis. Enforcement took a decade of further orders, including Brown II's 'all deliberate speed'.",
+      "memoryHook": "T-Rexy says: Separate is inherently unequal.",
+      "imageUrl": "topic:AKC12_026",
+      "tags": [
+        "civics",
+        "federal",
+        "rights",
+        "courts"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_027",
+      "question": "A state bans all handgun possession in the home. District of Columbia v. Heller (2008) holds the Second Amendment:",
+      "correctAnswer": "Protects an individual right to possess a handgun in the home for self-defense",
+      "distractors": [
+        "Applies only to militias",
+        "Was repealed by implication",
+        "Bans all gun regulation"
+      ],
+      "explanation": "Heller read the amendment's operative clause as individual, while noting longstanding regulations remain permissible. Later cases extended and tested its scope.",
+      "memoryHook": "T-Rexy says: An individual right, with limits acknowledged.",
+      "imageUrl": "topic:AKC12_027",
+      "tags": [
+        "civics",
+        "federal",
+        "rights",
+        "courts"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_028",
+      "question": "The incorporation doctrine describes:",
+      "correctAnswer": "Applying most Bill of Rights protections against the states through the Fourteenth Amendment's Due Process Clause",
+      "distractors": [
+        "States incorporating businesses",
+        "Adding new states to the Union",
+        "Folding treaties into statutes"
+      ],
+      "explanation": "Before incorporation, Barron (1833) held the Bill of Rights bound only the federal government. Twentieth-century cases incorporated nearly every major guarantee, one right at a time.",
+      "memoryHook": "T-Rexy says: Rights moved from Washington to every statehouse.",
+      "imageUrl": "topic:AKC12_028",
+      "tags": [
+        "civics",
+        "federal",
+        "rights"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_029",
+      "question": "A political party's primary, a general election and a runoff differ chiefly in that a primary:",
+      "correctAnswer": "Chooses a party's (or, in top-four systems, the finalists') nominees for the general election",
+      "distractors": [
+        "Chooses the final officeholder always",
+        "Is run by the courts",
+        "Happens after taking office"
+      ],
+      "explanation": "Primaries narrow the field; general elections fill the office. Alaska's own top-four variant is tested in the Alaska layer of this pack.",
+      "memoryHook": "T-Rexy says: Primaries narrow; generals decide.",
+      "imageUrl": "topic:AKC12_029",
+      "tags": [
+        "civics",
+        "federal",
+        "elections"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_030",
+      "question": "A senator speaks for 14 hours to delay a vote. The Senate can end debate only by:",
+      "correctAnswer": "Cloture - invoking closure, today requiring three-fifths of the Senate (60 votes) for most business",
+      "distractors": [
+        "A majority vote of those present",
+        "The Vice President's order",
+        "Unanimous consent of the House"
+      ],
+      "explanation": "The filibuster is a Senate rule tradition, not a constitutional command. Cloture (Rule XXII) is its only formal brake.",
+      "memoryHook": "T-Rexy says: Sixty votes to stop the talking.",
+      "imageUrl": "topic:AKC12_030",
+      "tags": [
+        "civics",
+        "federal",
+        "congress"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_031",
+      "question": "Executive orders derive their legal force from:",
+      "correctAnswer": "The President's Article II authority or a statute Congress passed - they cannot override statutes",
+      "distractors": [
+        "The President's personal will alone",
+        "State governors' consent",
+        "The First Amendment"
+      ],
+      "explanation": "An order beyond both sources fails, as Truman's steel seizure did in Youngstown. Orders are also revocable by later presidents, unlike statutes.",
+      "memoryHook": "T-Rexy says: Orders borrow power; statutes own it.",
+      "imageUrl": "topic:AKC12_031",
+      "tags": [
+        "civics",
+        "federal",
+        "executive"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_032",
+      "question": "The Cabinet differs from the White House staff in that Cabinet secretaries:",
+      "correctAnswer": "Head executive departments and (for principal officers) require Senate confirmation",
+      "distractors": [
+        "Are elected by voters",
+        "Serve on the Supreme Court",
+        "Need no confirmation ever"
+      ],
+      "explanation": "Fifteen departments from State (1789) to Homeland Security (2002) form the Cabinet. Staff serve at the President's side without confirmation; secretaries are officers of the United States.",
+      "memoryHook": "T-Rexy says: Secretaries are confirmed; staff are hired.",
+      "imageUrl": "topic:AKC12_032",
+      "tags": [
+        "civics",
+        "federal",
+        "executive"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_033",
+      "question": "A treaty negotiated by the President takes effect when:",
+      "correctAnswer": "Two-thirds of the Senate consents and the President ratifies",
+      "distractors": [
+        "A majority of the House approves",
+        "The Supreme Court certifies it",
+        "Governors of 26 states sign"
+      ],
+      "explanation": "Treaty consent is the Senate's super-majority foreign-affairs power. Most modern international agreements instead proceed as executive agreements under statutory authority.",
+      "memoryHook": "T-Rexy says: Two-thirds of the Senate for a treaty.",
+      "imageUrl": "topic:AKC12_033",
+      "tags": [
+        "civics",
+        "federal",
+        "executive",
+        "congress"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_034",
+      "question": "A state runs its elections, but Congress may:",
+      "correctAnswer": "Set the times, places and manner of federal elections and override state rules (Elections Clause)",
+      "distractors": [
+        "Run state elections itself",
+        "Abolish state election offices",
+        "Set rules for local school boards"
+      ],
+      "explanation": "Article I, Section 4 splits election administration: states first, Congress supreme for federal contests. Federal voting-rights statutes rest partly on this clause.",
+      "memoryHook": "T-Rexy says: States run elections; Congress can rewrite the rules.",
+      "imageUrl": "topic:AKC12_034",
+      "tags": [
+        "civics",
+        "federal",
+        "elections",
+        "federalism"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_035",
+      "question": "Political parties in the American system are best described as:",
+      "correctAnswer": "Coalitions that nominate candidates, organize government and link voters to policy - regulated by law but not created by the Constitution",
+      "distractors": [
+        "Departments of the federal government",
+        "Mentioned throughout the Constitution",
+        "Private clubs with no public role"
+      ],
+      "explanation": "The Constitution never mentions parties; they grew from practice into quasi-public institutions whose primaries the state runs and regulates.",
+      "memoryHook": "T-Rexy says: Parties: unplanned, indispensable.",
+      "imageUrl": "topic:AKC12_035",
+      "tags": [
+        "civics",
+        "federal",
+        "parties"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_036",
+      "question": "A super PAC may raise unlimited sums provided it:",
+      "correctAnswer": "Spends independently of candidates - Citizens United (2010) protected corporate and union independent spending as speech",
+      "distractors": [
+        "Coordinates directly with campaigns",
+        "Donates unlimited amounts to candidates",
+        "Avoids all disclosure forever"
+      ],
+      "explanation": "Candidate contributions remain capped and disclosed; independent expenditures do not. The line between the two is the central fight of modern campaign finance law.",
+      "memoryHook": "T-Rexy says: Independent money is unlimited; coordinated money is not.",
+      "imageUrl": "topic:AKC12_036",
+      "tags": [
+        "civics",
+        "federal",
+        "elections",
+        "courts"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_037",
+      "question": "Interest groups influence policy mainly through:",
+      "correctAnswer": "Lobbying officials, mobilizing voters, litigation and campaign support - pressure outside formal office",
+      "distractors": [
+        "Holding legislative seats themselves",
+        "Counting electoral votes",
+        "Appointing judges"
+      ],
+      "explanation": "From the NRA to the Sierra Club, groups convert intensity into influence. Disclosure laws regulate lobbying but the activity itself is petitioning, protected by the First Amendment.",
+      "memoryHook": "T-Rexy says: Influence without office.",
+      "imageUrl": "topic:AKC12_037",
+      "tags": [
+        "civics",
+        "federal",
+        "parties"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_038",
+      "question": "A poll reports a candidate at 47 percent plus-or-minus 3. A careful reader concludes:",
+      "correctAnswer": "The true support plausibly lies between 44 and 50 percent - the margin of error defines the range, not a guarantee",
+      "distractors": [
+        "The candidate surely has 47 percent",
+        "Polls are meaningless",
+        "The opponent has 53 percent"
+      ],
+      "explanation": "Sampling error means small leads inside the margin are statistical ties. Question wording and likely-voter screens add further real-world error beyond the stated margin.",
+      "memoryHook": "T-Rexy says: Inside the margin, it is a tie.",
+      "imageUrl": "topic:AKC12_038",
+      "tags": [
+        "civics",
+        "federal",
+        "elections"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_039",
+      "question": "The media's agenda-setting power means news outlets chiefly influence:",
+      "correctAnswer": "Which issues the public thinks about - more than what conclusions each person reaches",
+      "distractors": [
+        "Every voter's final choice directly",
+        "Only entertainment preferences",
+        "Election results mechanically"
+      ],
+      "explanation": "Decades of research support the press as agenda-setter and framer. In a fragmented media era, that agenda is set by many competing outlets at once.",
+      "memoryHook": "T-Rexy says: The press picks the topics, not the verdicts.",
+      "imageUrl": "topic:AKC12_039",
+      "tags": [
+        "civics",
+        "federal",
+        "media"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_040",
+      "question": "A voter registers, studies the ballot and votes in every election including midterms. Political scientists call this pattern:",
+      "correctAnswer": "High civic duty and engagement - midterm turnout still trails presidential years nationally",
+      "distractors": [
+        "Unusual and discouraged",
+        "Required by federal law",
+        "Only possible for officials"
+      ],
+      "explanation": "No law compels voting in the United States. Turnout gaps between presidential and midterm electorates change who decides Congress every four years.",
+      "memoryHook": "T-Rexy says: Midterms decide with fewer hands.",
+      "imageUrl": "topic:AKC12_040",
+      "tags": [
+        "civics",
+        "federal",
+        "elections"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_041",
+      "question": "Federalism's 'laboratories of democracy' idea, in Brandeis's phrase, means states may:",
+      "correctAnswer": "Try social and economic experiments without risking the whole nation",
+      "distractors": [
+        "Ignore the Bill of Rights",
+        "Nullify federal taxes",
+        "Conduct foreign policy"
+      ],
+      "explanation": "Justice Brandeis's New State Ice dissent (1932) supplied the metaphor. State policy variation - from Alaska's dividend to other states' tax models - is federalism's working benefit.",
+      "memoryHook": "T-Rexy says: States experiment; the nation learns.",
+      "imageUrl": "topic:AKC12_041",
+      "tags": [
+        "civics",
+        "federal",
+        "federalism"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_042",
+      "question": "A power neither level may exercise shows the Constitution also limits states: states may NOT:",
+      "correctAnswer": "Coin money, make treaties, or tax imports without consent - Article I, Section 10's bans",
+      "distractors": [
+        "Set their own speed limits",
+        "Create local governments",
+        "Run public schools"
+      ],
+      "explanation": "Section 10 parallels Section 9's federal bans. Together they fence both sovereigns inside the federal design.",
+      "memoryHook": "T-Rexy says: Both levels carry a 'shall not' list.",
+      "imageUrl": "topic:AKC12_042",
+      "tags": [
+        "civics",
+        "federal",
+        "federalism"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_043",
+      "question": "Full faith and credit requires each state to:",
+      "correctAnswer": "Honor the public acts, records and court judgments of the other states",
+      "distractors": [
+        "Adopt other states' laws",
+        "Accept other states' currencies",
+        "Surrender fugitives without process"
+      ],
+      "explanation": "Article IV's clause makes one legal nation out of fifty systems - a marriage or judgment valid in one state travels. Extradition sits in the same article.",
+      "memoryHook": "T-Rexy says: Judgments travel across state lines.",
+      "imageUrl": "topic:AKC12_043",
+      "tags": [
+        "civics",
+        "federal",
+        "federalism"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_044",
+      "question": "A governor claims authority to refuse enforcement of a valid federal law within the state. The doctrine rejected since the Civil War era is:",
+      "correctAnswer": "Nullification - states have no power to void federal law",
+      "distractors": [
+        "Judicial review",
+        "Home rule",
+        "Police power"
+      ],
+      "explanation": "From the 1832 tariff crisis through Little Rock in 1957, supremacy defeats nullification. States may decline to assist some federal programs (anti-commandeering) but cannot void federal law.",
+      "memoryHook": "T-Rexy says: States cannot nullify - supremacy settled that.",
+      "imageUrl": "topic:AKC12_044",
+      "tags": [
+        "civics",
+        "federal",
+        "federalism"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_045",
+      "question": "Reserved powers belong to the states under the:",
+      "correctAnswer": "Tenth Amendment",
+      "distractors": [
+        "Ninth Amendment",
+        "Eleventh Amendment",
+        "Twelfth Amendment"
+      ],
+      "explanation": "The Tenth reserves undelegated, unprohibited powers to the states or the people. The Ninth does the parallel work for unlisted rights of the people.",
+      "memoryHook": "T-Rexy says: The Tenth reserves the rest to the states.",
+      "imageUrl": "topic:AKC12_045",
+      "tags": [
+        "civics",
+        "federal",
+        "amendments"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_046",
+      "question": "A citizen asserts an unlisted right - say, to travel between states. The amendment most directly invoked for unenumerated rights is the:",
+      "correctAnswer": "Ninth Amendment",
+      "distractors": [
+        "Third Amendment",
+        "Seventh Amendment",
+        "Twenty-seventh Amendment"
+      ],
+      "explanation": "The Ninth answers the fear that listing rights would deny others retained by the people. Courts have grounded several unlisted protections partly in its logic.",
+      "memoryHook": "T-Rexy says: Unlisted does not mean unheld.",
+      "imageUrl": "topic:AKC12_046",
+      "tags": [
+        "civics",
+        "federal",
+        "amendments",
+        "rights"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_047",
+      "question": "Congress's power to tax and spend for the general welfare was read broadly in:",
+      "correctAnswer": "United States v. Butler's dicta adopted later, and South Dakota v. Dole (1987) upholding conditional highway funds tied to a drinking age of 21",
+      "distractors": [
+        "Marbury v. Madison",
+        "Dred Scott v. Sandford",
+        "Plessy v. Ferguson"
+      ],
+      "explanation": "Dole set the modern conditions test: conditions must serve the general welfare, be unambiguous, relate to the program, and not coerce. Conditional grants are federalism's steering wheel.",
+      "memoryHook": "T-Rexy says: Money with conditions steers the states.",
+      "imageUrl": "topic:AKC12_047",
+      "tags": [
+        "civics",
+        "federal",
+        "federalism",
+        "courts"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_048",
+      "question": "A state legalizes a substance Congress has banned, and sellers rely on state law. Under Gonzales v. Raich (2005) and supremacy:",
+      "correctAnswer": "Congress may still regulate even homegrown activity that substantially affects interstate commerce - federal law prevails in conflict",
+      "distractors": [
+        "State law repeals federal law locally",
+        "The activity is beyond all regulation",
+        "Only the state may ever regulate plants"
+      ],
+      "explanation": "Raich extended Wickard's aggregation principle: local activity in the aggregate is commerce. State legalization removes state penalties, not federal reach.",
+      "memoryHook": "T-Rexy says: Local in form, national in aggregate.",
+      "imageUrl": "topic:AKC12_048",
+      "tags": [
+        "civics",
+        "federal",
+        "federalism",
+        "courts"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_049",
+      "question": "The President as commander in chief may:",
+      "correctAnswer": "Direct the armed forces - but only Congress may declare war and fund the military",
+      "distractors": [
+        "Declare war alone",
+        "Abolish the Joint Chiefs by order",
+        "Spend unappropriated defense funds"
+      ],
+      "explanation": "The war powers are deliberately split: command to the President, declaration and purse to Congress. The War Powers Resolution of 1973 is Congress's contested attempt to police the line.",
+      "memoryHook": "T-Rexy says: Command versus declaration - split on purpose.",
+      "imageUrl": "topic:AKC12_049",
+      "tags": [
+        "civics",
+        "federal",
+        "executive"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_050",
+      "question": "A president grants a pardon for a federal crime. The pardon power does NOT reach:",
+      "correctAnswer": "State crimes, or cases of impeachment",
+      "distractors": [
+        "Federal tax crimes",
+        "Offenses not yet charged",
+        "Military offenses"
+      ],
+      "explanation": "Article II pardons cover 'Offences against the United States.' Governors hold the parallel state power - a federalism point tested often.",
+      "memoryHook": "T-Rexy says: Federal pardons stop at the state line.",
+      "imageUrl": "topic:AKC12_050",
+      "tags": [
+        "civics",
+        "federal",
+        "executive"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_051",
+      "question": "Senators serve six-year staggered terms so that:",
+      "correctAnswer": "Only one-third face election every two years - continuity tempers sudden swings",
+      "distractors": [
+        "All senators retire together",
+        "Governors can appoint replacements yearly",
+        "The Senate mirrors House elections exactly"
+      ],
+      "explanation": "Staggering, like life judicial tenure, is a cooling device in the constitutional design. Two senators per state are never (barring vacancy) elected in the same cycle.",
+      "memoryHook": "T-Rexy says: One-third at a time keeps the Senate steady.",
+      "imageUrl": "topic:AKC12_051",
+      "tags": [
+        "civics",
+        "federal",
+        "congress"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_052",
+      "question": "A vacancy in the House is filled by:",
+      "correctAnswer": "A special election - the Constitution gives governors no appointment power for the House",
+      "distractors": [
+        "Gubernatorial appointment",
+        "The state legislature's choice",
+        "The senior senator"
+      ],
+      "explanation": "House members have always been elected. Senate vacancies, since the Seventeenth Amendment, are filled by election with temporary gubernatorial appointment where state law allows.",
+      "memoryHook": "T-Rexy says: House seats are never appointed.",
+      "imageUrl": "topic:AKC12_052",
+      "tags": [
+        "civics",
+        "federal",
+        "congress"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_053",
+      "question": "The Speaker of the House matters constitutionally because the office is:",
+      "correctAnswer": "Second in the presidential line of succession, after the Vice President",
+      "distractors": [
+        "First in succession",
+        "A ceremonial post only",
+        "Chosen by the Senate"
+      ],
+      "explanation": "The Presidential Succession Act of 1947 places the Speaker, then the Senate president pro tempore, before Cabinet secretaries. The Speaker also controls the House floor agenda.",
+      "memoryHook": "T-Rexy says: Second in line, first in the House.",
+      "imageUrl": "topic:AKC12_053",
+      "tags": [
+        "civics",
+        "federal",
+        "congress"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_054",
+      "question": "Budget deficits occur when the federal government:",
+      "correctAnswer": "Spends more than it collects in a year, adding the difference to the national debt",
+      "distractors": [
+        "Prints money equal to spending",
+        "Collects more than it spends",
+        "Pays off the debt"
+      ],
+      "explanation": "A surplus is the reverse; the debt is the accumulated sum of deficits minus surpluses. Interest on the debt is itself a major budget line.",
+      "memoryHook": "T-Rexy says: Deficit is the year; debt is the pile.",
+      "imageUrl": "topic:AKC12_054",
+      "tags": [
+        "civics",
+        "federal",
+        "economics"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_055",
+      "question": "An entitlement program like Social Security differs from discretionary spending because:",
+      "correctAnswer": "Its benefits flow by eligibility law automatically, without annual appropriations votes",
+      "distractors": [
+        "It is funded by states",
+        "It never changes",
+        "It is decided yearly by mayors"
+      ],
+      "explanation": "Congress changes entitlements by changing eligibility law, not by the annual budget bills that fund defense, parks and agencies. They are the largest share of federal spending.",
+      "memoryHook": "T-Rexy says: Eligibility, not annual votes, drives entitlements.",
+      "imageUrl": "topic:AKC12_055",
+      "tags": [
+        "civics",
+        "federal",
+        "economics"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_056",
+      "question": "The Federal Reserve's dual mandate from Congress is:",
+      "correctAnswer": "Maximum employment and stable prices",
+      "distractors": [
+        "A balanced budget and free trade",
+        "Gold reserves and low taxes",
+        "State bank charters"
+      ],
+      "explanation": "The Fed pursues both goals mainly through interest rates. Its independence - governors with 14-year terms - insulates monetary policy from election cycles.",
+      "memoryHook": "T-Rexy says: Jobs and stable prices - the dual mandate.",
+      "imageUrl": "topic:AKC12_056",
+      "tags": [
+        "civics",
+        "federal",
+        "economics"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_057",
+      "question": "A progressive income tax is defined by:",
+      "correctAnswer": "Higher marginal rates on higher income brackets - each rate applying only to income within its bracket",
+      "distractors": [
+        "Everyone paying the same total",
+        "A flat percentage on all income",
+        "Taxes only on the wealthy in full"
+      ],
+      "explanation": "Marginal structure is the most misunderstood mechanic in civics: entering a higher bracket never taxes earlier income at the higher rate.",
+      "memoryHook": "T-Rexy says: Brackets tax slices, not the whole loaf.",
+      "imageUrl": "topic:AKC12_057",
+      "tags": [
+        "civics",
+        "federal",
+        "economics"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_058",
+      "question": "Trade policy belongs chiefly to the federal government because the Constitution:",
+      "correctAnswer": "Gives Congress power to regulate foreign commerce and lay uniform duties - states are barred from imposts without consent",
+      "distractors": [
+        "Lets each port state set tariffs",
+        "Assigns trade to governors",
+        "Never mentions commerce"
+      ],
+      "explanation": "Uniform national trade policy was a direct answer to the Articles of Confederation, where state tariffs strangled commerce among the states.",
+      "memoryHook": "T-Rexy says: One nation, one tariff policy.",
+      "imageUrl": "topic:AKC12_058",
+      "tags": [
+        "civics",
+        "federal",
+        "economics",
+        "federalism"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_059",
+      "question": "Citizenship at birth on U.S. soil (jus soli) was constitutionalized by:",
+      "correctAnswer": "The Fourteenth Amendment's Citizenship Clause, overturning Dred Scott's exclusion",
+      "distractors": [
+        "The original 1787 text alone",
+        "The Nineteenth Amendment",
+        "The Citizenship Act of 1900 only"
+      ],
+      "explanation": "United States v. Wong Kim Ark (1898) confirmed birthright citizenship for children of non-citizen residents. The clause's 'subject to the jurisdiction' phrase limits it (e.g., diplomats' children).",
+      "memoryHook": "T-Rexy says: Born here, citizen here - 1868.",
+      "imageUrl": "topic:AKC12_059",
+      "tags": [
+        "civics",
+        "federal",
+        "amendments",
+        "rights"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_060",
+      "question": "Due process comes in two forms. Procedural due process guarantees:",
+      "correctAnswer": "Fair procedures - notice and a hearing - before government deprives a person of life, liberty or property",
+      "distractors": [
+        "Any outcome the majority prefers",
+        "Substantive rights only",
+        "Trials only in federal court"
+      ],
+      "explanation": "Substantive due process protects certain fundamental liberties from government interference regardless of procedure. The procedural branch is about how government must act.",
+      "memoryHook": "T-Rexy says: Fair process before deprivation.",
+      "imageUrl": "topic:AKC12_060",
+      "tags": [
+        "civics",
+        "federal",
+        "rights"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_061",
+      "question": "A city takes a home for a highway and pays market value. The Fifth Amendment doctrine is:",
+      "correctAnswer": "Eminent domain with just compensation - the Takings Clause",
+      "distractors": [
+        "Civil forfeiture",
+        "Escheat",
+        "Adverse possession"
+      ],
+      "explanation": "Kelo v. New London (2005) read 'public use' broadly to include economic development, provoking many states to tighten their own takings laws - federalism answering back.",
+      "memoryHook": "T-Rexy says: Take it for the public, pay for it fairly.",
+      "imageUrl": "topic:AKC12_061",
+      "tags": [
+        "civics",
+        "federal",
+        "rights",
+        "courts"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_062",
+      "question": "The right to vote was expanded by amendment in this correct sequence:",
+      "correctAnswer": "Fifteenth (race, 1870), Nineteenth (sex, 1920), Twenty-sixth (age 18, 1971)",
+      "distractors": [
+        "Nineteenth, Fifteenth, Twenty-sixth",
+        "Twenty-sixth, Fifteenth, Nineteenth",
+        "Fifteenth, Twenty-sixth, Nineteenth"
+      ],
+      "explanation": "Add the Twenty-third (DC electors) and Twenty-fourth (poll taxes in federal elections) and the arc is complete: the franchise widened by amendment, never by ordinary statute alone.",
+      "memoryHook": "T-Rexy says: 1870, 1920, 1971 - the widening franchise.",
+      "imageUrl": "topic:AKC12_062",
+      "tags": [
+        "civics",
+        "federal",
+        "amendments",
+        "elections"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_063",
+      "question": "A legislative district drawn with wildly unequal populations violates:",
+      "correctAnswer": "One person, one vote - Reynolds v. Sims (1964) requires substantially equal population in state legislative districts",
+      "distractors": [
+        "The Tenth Amendment",
+        "The Guarantee Clause as courts apply it",
+        "Nothing - states draw freely"
+      ],
+      "explanation": "Baker v. Carr opened the courthouse door (justiciability); Reynolds set the equality rule for both houses of a state legislature - unlike the U.S. Senate's design.",
+      "memoryHook": "T-Rexy says: Districts must count people equally.",
+      "imageUrl": "topic:AKC12_063",
+      "tags": [
+        "civics",
+        "federal",
+        "courts",
+        "elections"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_064",
+      "question": "The 'necessary and proper' sweep of federal power is checked most directly by:",
+      "correctAnswer": "Elections, federalism's reserved sphere, judicial review and the amendment process - structure, not a single clause",
+      "distractors": [
+        "The President's signature",
+        "State nullification",
+        "The filibuster alone"
+      ],
+      "explanation": "The constitutional system layers its checks so no single failure is fatal. McCulloch's broad reading survives because the political and judicial checks stand behind it.",
+      "memoryHook": "T-Rexy says: Layers of checks, not one lock.",
+      "imageUrl": "topic:AKC12_064",
+      "tags": [
+        "civics",
+        "federal",
+        "federalism"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_065",
+      "question": "A state court and a federal court can both hear related cases because the U.S. runs:",
+      "correctAnswer": "A dual court system - state courts of general jurisdiction beside federal courts of limited jurisdiction",
+      "distractors": [
+        "One unified court ladder",
+        "Only federal courts since 1789",
+        "Only state courts for criminal law"
+      ],
+      "explanation": "Most everyday law - crime, contracts, family - runs through state courts; federal courts take federal questions and diversity cases. State supreme courts are final on state law.",
+      "memoryHook": "T-Rexy says: Two court systems, side by side.",
+      "imageUrl": "topic:AKC12_065",
+      "tags": [
+        "civics",
+        "federal",
+        "judiciary"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_066",
+      "question": "Original jurisdiction means the court where a case:",
+      "correctAnswer": "Begins - trial courts find facts; appellate courts review law on the record below",
+      "distractors": [
+        "Is appealed finally",
+        "Is always the Supreme Court",
+        "Is decided without a record"
+      ],
+      "explanation": "The Supreme Court holds original jurisdiction in narrow categories (states as parties, ambassadors). Almost everything it decides arrives on appeal - certiorari granted on four justices' votes.",
+      "memoryHook": "T-Rexy says: Start below; review above.",
+      "imageUrl": "topic:AKC12_066",
+      "tags": [
+        "civics",
+        "federal",
+        "judiciary"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_067",
+      "question": "A writ of certiorari is granted when:",
+      "correctAnswer": "Four justices vote to hear the case - the 'rule of four'",
+      "distractors": [
+        "All nine agree",
+        "The President requests it",
+        "A lower court orders it"
+      ],
+      "explanation": "Thousands petition each term; the Court grants roughly a few dozen to a hundred. Denial of cert leaves the lower ruling standing without endorsing it.",
+      "memoryHook": "T-Rexy says: Four votes open the Court's door.",
+      "imageUrl": "topic:AKC12_067",
+      "tags": [
+        "civics",
+        "federal",
+        "judiciary"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_068",
+      "question": "Stare decisis contributes to the legal system by:",
+      "correctAnswer": "Binding courts to precedent - stability and predictability, while still allowing overruling for strong reasons",
+      "distractors": [
+        "Freezing law forever",
+        "Letting each judge invent law",
+        "Making statutes unnecessary"
+      ],
+      "explanation": "Brown overruling Plessy shows the escape valve. The doctrine's value is that departures are explained, rare and reasoned - not routine.",
+      "memoryHook": "T-Rexy says: Precedent steadies the law.",
+      "imageUrl": "topic:AKC12_068",
+      "tags": [
+        "civics",
+        "federal",
+        "judiciary"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_069",
+      "question": "A plaintiff must show standing to sue in federal court, which requires:",
+      "correctAnswer": "A concrete injury, fairly traceable to the defendant, that a court decision can redress",
+      "distractors": [
+        "Only strong opinions about an issue",
+        "Citizenship in two states",
+        "A lawyer's invitation"
+      ],
+      "explanation": "Standing keeps courts deciding cases, not giving advice. Generalized grievances shared by all taxpayers usually fail the test (with narrow exceptions).",
+      "memoryHook": "T-Rexy says: No injury, no case.",
+      "imageUrl": "topic:AKC12_069",
+      "tags": [
+        "civics",
+        "federal",
+        "judiciary"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_070",
+      "question": "Public opinion most reliably influences Congress through:",
+      "correctAnswer": "Elections - members' anticipation of voter judgment at the next election (the reelection incentive)",
+      "distractors": [
+        "Daily phone calls counted by clerks",
+        "Petitions with legal force",
+        "Protests that bind votes"
+      ],
+      "explanation": "Even members who ignore a single poll govern with one eye on November. Anticipated reaction, not instruction, is opinion's channel.",
+      "memoryHook": "T-Rexy says: Members listen for the next election.",
+      "imageUrl": "topic:AKC12_070",
+      "tags": [
+        "civics",
+        "federal",
+        "elections"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_071",
+      "question": "A civics student asks why Alaska's constitution is studied as distinctive. Standard SS.9-12.9.1 points first to:",
+      "correctAnswer": "Its strong executive, its resource article (Article VIII), and a judiciary with merit selection - features its 1955-56 convention chose deliberately",
+      "distractors": [
+        "Its length - the longest constitution",
+        "Its copying of the British system",
+        "Its lack of a bill of rights"
+      ],
+      "explanation": "Alaska's Declaration of Rights is Article I. The convention studied every state to avoid known defects - the document is taught as a designed system, not an accident.",
+      "memoryHook": "T-Rexy says: Designed, not inherited by accident.",
+      "imageUrl": "topic:AKC12_071",
+      "tags": [
+        "civics",
+        "alaska",
+        "constitution"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_072",
+      "question": "Under the Alaska Constitution, state lands and waters must be managed under the principle of:",
+      "correctAnswer": "Sustained yield - maximum use consistent with the public interest, for the people as a collective owner",
+      "distractors": [
+        "Sale to the first bidder",
+        "Preservation with no use ever",
+        "Federal ownership of all resources"
+      ],
+      "explanation": "Article VIII declares fish, wildlife and waters reserved to the people for common use. Sustained yield is the clause courts and managers cite in every fishery fight.",
+      "memoryHook": "T-Rexy says: Article VIII: the people's resources, sustained.",
+      "imageUrl": "topic:AKC12_072",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_073",
+      "question": "Alaska judges reach the bench by:",
+      "correctAnswer": "Merit selection - the Judicial Council screens and nominates, the governor appoints, and voters decide retention on the ballot",
+      "distractors": [
+        "Partisan election campaigns",
+        "Appointment by the Senate alone",
+        "Election by the legislature"
+      ],
+      "explanation": "Modeled on the Missouri Plan, retention elections ask voters a yes/no question on keeping the judge. Alaska has used merit selection since statehood.",
+      "memoryHook": "T-Rexy says: Appointed on merit, retained by voters.",
+      "imageUrl": "topic:AKC12_073",
+      "tags": [
+        "civics",
+        "alaska",
+        "judiciary"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_074",
+      "question": "The Alaska governor's budget power exceeds most governors' because of:",
+      "correctAnswer": "The item veto - the governor may strike or reduce individual items in appropriation bills",
+      "distractors": [
+        "A power to tax by decree",
+        "Control of the courts' budget absolutely",
+        "The power to dissolve the legislature"
+      ],
+      "explanation": "Article II, Section 15 grants the item veto over appropriations; the legislature overrides by three-fourths of its full membership in joint session - a higher bar than ordinary vetoes.",
+      "memoryHook": "T-Rexy says: Item veto, three-fourths to override.",
+      "imageUrl": "topic:AKC12_074",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_075",
+      "question": "How many members sit in the Alaska Legislature, and how are they divided?",
+      "correctAnswer": "Sixty - 20 senators (four-year terms) and 40 representatives (two-year terms)",
+      "distractors": [
+        "Ninety - 30 and 60",
+        "Forty-nine total",
+        "One hundred"
+      ],
+      "explanation": "It is the smallest state legislature in the nation, and its Senate is the smallest upper house. Districts span enormous areas - some representatives cover regions larger than most states.",
+      "memoryHook": "T-Rexy says: Sixty legislators for a fifth of the continent.",
+      "imageUrl": "topic:AKC12_075",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_076",
+      "question": "Alaska elects its governor and lieutenant governor:",
+      "correctAnswer": "On a joint ticket in the general election - voters choose the pair together",
+      "distractors": [
+        "In completely separate general elections",
+        "By the legislature",
+        "For six-year terms"
+      ],
+      "explanation": "Uniting the ticket (unlike the pre-2020s separate-primary quirk) means the state's top two executives govern as a team. Both serve four-year terms, with a two-consecutive-term limit for the governor.",
+      "memoryHook": "T-Rexy says: One ticket, two executives.",
+      "imageUrl": "topic:AKC12_076",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_077",
+      "question": "AS 14.03.076 (SB 23, effective July 1, 2027) will require Alaska graduates to have:",
+      "correctAnswer": "Civics instruction covering 14 topics - including the Alaska Constitution and Alaska Native systems of government - plus a passed civics course, assessment or project at 70 percent",
+      "distractors": [
+        "Passed the federal USCIS test only",
+        "Taken four years of civics",
+        "Studied only the U.S. Constitution"
+      ],
+      "explanation": "The 2026 law makes instruction the mandate, with three ways to show passing. Topic 6 is Alaska's own constitution; topic 12 is comparative government including Alaska Native systems.",
+      "memoryHook": "T-Rexy says: Instruction plus a 70-percent pass - Alaska's civics gate.",
+      "imageUrl": "topic:AKC12_077",
+      "tags": [
+        "civics",
+        "alaska",
+        "law"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_078",
+      "question": "ANCSA's effect on Alaska governance (SS.9-12.9.6) includes all of these EXCEPT:",
+      "correctAnswer": "ANCSA corporations are agencies of the State of Alaska",
+      "distractors": [
+        "Regional corporations became major landowners (about 44 million acres)",
+        "Native land entered corporate, not reservation, ownership",
+        "Corporations share resource revenue under Section 7(i)"
+      ],
+      "explanation": "The corporations are private, Native-owned, state-chartered businesses - influential in governance but not government agencies. The distinction matters in every jurisdiction question.",
+      "memoryHook": "T-Rexy says: Corporations are owners, not agencies.",
+      "imageUrl": "topic:AKC12_078",
+      "tags": [
+        "civics",
+        "alaska",
+        "ancsa"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_079",
+      "question": "A question on the exam asks how natural resources shaped Alaska's government (SS.9-12.9.7). The strongest answer cites:",
+      "correctAnswer": "Oil revenue funding state government, the Permanent Fund and Dividend, and a Department of Natural Resources managing state land - government built around resources",
+      "distractors": [
+        "Resources played no governmental role",
+        "Only federal agencies matter",
+        "Fishing licenses fund everything"
+      ],
+      "explanation": "From the constitutional resource article to the dividend, resource wealth is the state's fiscal constitution. Boom-bust budgeting is its standing problem.",
+      "memoryHook": "T-Rexy says: In Alaska, resources ARE the budget.",
+      "imageUrl": "topic:AKC12_079",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_080",
+      "question": "Governing Alaska poses a unique challenge tested in SS.9-12.9.8:",
+      "correctAnswer": "Scale and distance - delivering courts, troopers, health and education across 663,000 square miles, most of it roadless",
+      "distractors": [
+        "Its tiny land area",
+        "Having no coastline",
+        "A single uniform climate"
+      ],
+      "explanation": "Circuit-riding judges, telehealth, correspondence and boarding-school history, and the village public safety officer program all answer the same geographic fact.",
+      "memoryHook": "T-Rexy says: Distance is Alaska's governing condition.",
+      "imageUrl": "topic:AKC12_080",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_081",
+      "question": "Comparing local, state and Tribal services in one Alaska village (SS.9-12.9.9), a resident might receive:",
+      "correctAnswer": "Water and roads from the city, health care from a tribal health organization, and education from the state-organized district - three governments, three services",
+      "distractors": [
+        "Everything from the city alone",
+        "Everything from Juneau",
+        "Services from the federal government only"
+      ],
+      "explanation": "Tribal health (through the Alaska Native health system), municipal utilities and state education funding interlock in village Alaska. The comparison is lived experience, not theory.",
+      "memoryHook": "T-Rexy says: Three governments pour one cup of water.",
+      "imageUrl": "topic:AKC12_081",
+      "tags": [
+        "civics",
+        "alaska",
+        "tribal"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_082",
+      "question": "Tribal sovereignty in Alaska, as taught under topic 12 of the civics law, means federally recognized tribes:",
+      "correctAnswer": "Are sovereign governments with authority over their citizens and certain lands, dealing with the U.S. government-to-government",
+      "distractors": [
+        "Are private clubs",
+        "Were abolished by ANCSA",
+        "Exist only outside Alaska"
+      ],
+      "explanation": "ANCSA settled land claims; it did not terminate tribes. The U.S. recognizes 229 Alaska tribes, and cases like the tribal jurisdiction and Indian Child Welfare matters turn on that status.",
+      "memoryHook": "T-Rexy says: ANCSA settled claims - tribes remain sovereigns.",
+      "imageUrl": "topic:AKC12_082",
+      "tags": [
+        "civics",
+        "alaska",
+        "tribal"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_083",
+      "question": "Alaska's election system for state and federal offices currently works as:",
+      "correctAnswer": "One open primary for all candidates; the top four advance to a ranked-choice general election",
+      "distractors": [
+        "Closed party primaries and plurality generals",
+        "Appointment by party conventions",
+        "A single-round majority election"
+      ],
+      "explanation": "Adopted by voters in 2020, the system survived repeal attempts in 2024 and - on preliminary November 2026 results - again in 2026. In ranked-choice tabulation, the last-place candidate is eliminated and ballots transfer until someone holds a majority of continuing ballots.",
+      "memoryHook": "T-Rexy says: Top four, then rank them.",
+      "imageUrl": "topic:AKC12_083",
+      "tags": [
+        "civics",
+        "alaska",
+        "elections"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_084",
+      "question": "In a ranked-choice count, a ballot for an eliminated candidate:",
+      "correctAnswer": "Transfers to the voter's next-ranked choice who is still in the race",
+      "distractors": [
+        "Is thrown away entirely",
+        "Counts double for the leader",
+        "Forces a new election"
+      ],
+      "explanation": "Transfer is the system's core mechanic; ballots whose rankings are exhausted stop counting. Majority means majority of ballots still live in the final round.",
+      "memoryHook": "T-Rexy says: Your second choice is your insurance.",
+      "imageUrl": "topic:AKC12_084",
+      "tags": [
+        "civics",
+        "alaska",
+        "elections"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_085",
+      "question": "The Permanent Fund Dividend enters civics (not just economics) because:",
+      "correctAnswer": "Legislative fights over the dividend's size - versus funding services - are now the central recurring question of Alaska state government",
+      "distractors": [
+        "It is a federal program",
+        "It is set by courts",
+        "It never changes"
+      ],
+      "explanation": "Since the 2015 oil-price crash, sessions have turned on the statutory formula, the Percent of Market Value draw, and services. The dividend is where Alaskans meet their government.",
+      "memoryHook": "T-Rexy says: The dividend is Alaska's standing ballot question.",
+      "imageUrl": "topic:AKC12_085",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_086",
+      "question": "Alaska's initiative, referendum and recall powers show the state constitution's commitment to:",
+      "correctAnswer": "Direct democracy - voters may propose laws, reject laws and remove officials between elections",
+      "distractors": [
+        "Rule by judges",
+        "Federal supervision",
+        "One-party government"
+      ],
+      "explanation": "Article XI reserves all three tools. The 2013 and 2021 oil-tax and recall fights show them in live use. Fraud and perjury in petition work are crimes under state law.",
+      "memoryHook": "T-Rexy says: The people kept three tools for themselves.",
+      "imageUrl": "topic:AKC12_086",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_087",
+      "question": "Why does Alaska have no counties? The civics answer is:",
+      "correctAnswer": "Boroughs are Alaska's county equivalents - and vast areas form the Unorganized Borough, where the state itself provides services like education directly",
+      "distractors": [
+        "Alaska law forbids local government",
+        "Every area is a city",
+        "The federal government runs local services"
+      ],
+      "explanation": "Organized boroughs tax and govern locally; the Unorganized Borough has no borough layer, so Juneau fills the gap - a two-track local system found in no other state.",
+      "memoryHook": "T-Rexy says: Boroughs where they exist; the state where they do not.",
+      "imageUrl": "topic:AKC12_087",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_088",
+      "question": "A home-rule city in Alaska may:",
+      "correctAnswer": "Adopt a charter and exercise any power not prohibited by law - broader local authority than a general-law city",
+      "distractors": [
+        "Ignore the state constitution",
+        "Levy an income tax on nonresidents statewide",
+        "Opt out of state courts"
+      ],
+      "explanation": "Home rule flips Dillon's Rule for chartered communities: they hold all legislative power not denied them. Most large Alaska municipalities are home-rule.",
+      "memoryHook": "T-Rexy says: Home rule: all power not denied.",
+      "imageUrl": "topic:AKC12_088",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_089",
+      "question": "The Alaska Constitution protects subsistence in civics terms by:",
+      "correctAnswer": "Reserving fish and wildlife to the people for common use (Article VIII) - the clause behind decades of state-federal subsistence conflict",
+      "distractors": [
+        "Guaranteeing a personal right to any harvest",
+        "Assigning all wildlife to the federal government",
+        "Banning commercial fishing"
+      ],
+      "explanation": "State equal-access rulings (McDowell, 1989) struck the rural preference in state law, while federal law keeps it - the Katie John line of cases lives in that gap.",
+      "memoryHook": "T-Rexy says: Common use is the constitution's promise.",
+      "imageUrl": "topic:AKC12_089",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_090",
+      "question": "Alaska's two U.S. senators and single U.S. House member illustrate which structural fact?",
+      "correctAnswer": "Alaska, like every state, has equal Senate footing, but its vast population-to-representative ratio is among the nation's most extreme in land terms - one House member for the whole state",
+      "distractors": [
+        "Alaska has three House members",
+        "Population alone sets Senate seats",
+        "Alaska elects no House member"
+      ],
+      "explanation": "One representative covers a fifth of the nation's land area. (The names of current officeholders are supplied by the app's dynamic data, not this pack.)",
+      "memoryHook": "T-Rexy says: Equal in the Senate, singular in the House.",
+      "imageUrl": "topic:AKC12_090",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_091",
+      "question": "Comparing Alaska's constitution to the U.S. Constitution, a key structural contrast is:",
+      "correctAnswer": "Alaska's is longer and more detailed - it reaches policy (resources, local government, fish and game administration) that the federal document leaves to statutes",
+      "distractors": [
+        "Alaska's has no amendments",
+        "The U.S. document is longer",
+        "They are identical in scope"
+      ],
+      "explanation": "State constitutions generally legislate in detail and amend often. Alaska's has been amended regularly since 1959, while its convention design limits some of that sprawl.",
+      "memoryHook": "T-Rexy says: State constitutions do policy; the federal one frames.",
+      "imageUrl": "topic:AKC12_091",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_092",
+      "question": "The Seal of Civic Readiness in AS 14.03.076(f) is best described as:",
+      "correctAnswer": "A state recognition program DEED must create to honor students' civic achievement - a diploma seal, not a test or a course",
+      "distractors": [
+        "A graduation barrier",
+        "A federal award",
+        "A tribal program"
+      ],
+      "explanation": "Section (f) directs DEED to build the recognition alongside the instruction mandate. It rewards civic learning; it does not gate the diploma.",
+      "memoryHook": "T-Rexy says: A seal honors; it does not gate.",
+      "imageUrl": "topic:AKC12_092",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_093",
+      "question": "Alaska's open government laws affect citizens by guaranteeing:",
+      "correctAnswer": "Access to public meetings (Open Meetings Act) and public records, with narrow exceptions",
+      "distractors": [
+        "That all meetings are secret",
+        "Only officials may see budgets",
+        "Records access for corporations only"
+      ],
+      "explanation": "Sunshine laws are the working machinery of accountability between elections. Agency denials can be appealed, and courts construe access broadly.",
+      "memoryHook": "T-Rexy says: Sunshine is a statute, not a favor.",
+      "imageUrl": "topic:AKC12_093",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "AKC12_094",
+      "question": "A village public safety officer (VPSO) program exists in Alaska civics because:",
+      "correctAnswer": "Most villages have no local police - state-funded VPSOs, hired through regional Native nonprofits, are often the only law enforcement presence",
+      "distractors": [
+        "Anchorage has too many officers",
+        "Federal law bans village police",
+        "Troopers refuse rural duty"
+      ],
+      "explanation": "The program embodies 9.8's governing-at-scale problem and the tribal-state partnership in service delivery. VPSOs answer to regional organizations with trooper oversight.",
+      "memoryHook": "T-Rexy says: One officer for a whole village.",
+      "imageUrl": "topic:AKC12_094",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_095",
+      "question": "Why is the Alaska LNG and pipeline politics a civics topic, not only an energy one?",
+      "correctAnswer": "Because the state is a resource owner - Alaskans, through their constitution and fund, are the landlords whose consent and benefit are the political question",
+      "distractors": [
+        "Pipelines are not political",
+        "Only companies decide",
+        "The state owns no resources"
+      ],
+      "explanation": "Article VIII ownership makes every megaproject a constitutional politics question: whose benefit, whose risk, whose consent. That is SS.9-12.9.7 in live form.",
+      "memoryHook": "T-Rexy says: The people are the landlord.",
+      "imageUrl": "topic:AKC12_095",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_096",
+      "question": "Juneau's status as capital is periodically challenged mainly because:",
+      "correctAnswer": "No road reaches it - most Alaskans can visit their capital only by plane or ferry, raising access arguments that capital-move votes have so far rejected",
+      "distractors": [
+        "It is the largest city",
+        "It has the best highways",
+        "It was never legally chosen"
+      ],
+      "explanation": "Voters rejected capital moves repeatedly (1982, 2002 and others), and FRANK initiatives now force cost disclosure first. Geography versus tradition is a standing Alaska debate.",
+      "memoryHook": "T-Rexy says: A capital you must fly to - debated for decades.",
+      "imageUrl": "topic:AKC12_096",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_097",
+      "question": "In Alaska's courts, the state supreme court's most civics-significant power for this course is:",
+      "correctAnswer": "Final interpretation of the Alaska Constitution - including resource, subsistence and election questions no federal court can decide for it",
+      "distractors": [
+        "Trying criminal cases",
+        "Appointing the governor",
+        "Writing statutes"
+      ],
+      "explanation": "From subsistence (McDowell) to dividend and reapportionment rulings, the Alaska Supreme Court is final on state law - federal review reaches only federal questions.",
+      "memoryHook": "T-Rexy says: Final on Alaska law means final.",
+      "imageUrl": "topic:AKC12_097",
+      "tags": [
+        "civics",
+        "alaska",
+        "judiciary"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "AKC12_098",
+      "question": "A student evaluates Alaska government efficacy (SS.9-12.9.2) using the strongest evidence set:",
+      "correctAnswer": "Service delivery outcomes in roadless regions, budget stability across oil cycles, and dividend-versus-services trade-offs - judged against the constitution's own promises",
+      "distractors": [
+        "How often Alaska appears in movies",
+        "The size of the capitol",
+        "Whether other states copy Alaska"
+      ],
+      "explanation": "Standard 9.2 demands evaluation, not description. Framing criteria first - delivery, stability, fidelity to Article VIII - is what makes the judgment an argument instead of an opinion.",
+      "memoryHook": "T-Rexy says: Evaluate against the constitution's promises.",
+      "imageUrl": "topic:AKC12_098",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_099",
+      "question": "The correct one-line summary of Alaska's governments for this pack is:",
+      "correctAnswer": "Four sovereigns share one land - federal, state, tribal and local - inside a constitution that makes the people owners of its resources",
+      "distractors": [
+        "One government rules Alaska alone",
+        "Tribes are departments of the state",
+        "Resources belong to the governor"
+      ],
+      "explanation": "Every standard in Anchor 9 hangs on that sentence: 9.1's design, 9.6's ANCSA, 9.9's service comparison and topic 12's sovereignty all unfold from it.",
+      "memoryHook": "T-Rexy says: Four sovereigns, one land, people's resources.",
+      "imageUrl": "topic:AKC12_099",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "id": "AKC12_100",
+      "question": "Which Alaska civics question will a graduate most plausibly face first as a voter?",
+      "correctAnswer": "A ballot choice trading dividend size against state services - the recurring fiscal question of Alaska politics",
+      "distractors": [
+        "Choosing a king",
+        "Ratifying a treaty personally",
+        "Electing a supreme court chief justice by name"
+      ],
+      "explanation": "Retention elections, initiatives and the dividend debate meet new voters immediately. The course's aim is a citizen ready for exactly those instruments.",
+      "memoryHook": "T-Rexy says: Ready for the questions Alaska actually asks.",
+      "imageUrl": "topic:AKC12_100",
+      "tags": [
+        "civics",
+        "alaska"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,2605 @@
+{
+  "packId": "gr8-maine-civics",
+  "title": "Maine Civics & Government (8th Grade)",
+  "description": "Maine Civics & Government (8th Grade) practice - 100 questions. 70 federal civics questions plus a 30-question Maine layer: Maine Constitution and government, town meeting and municipal government, the citizen initiative, People's Veto and ranked-choice voting, and a Wabanaki studies block (Penobscot Nation, Passamaquoddy Tribe, Houlton Band of Maliseet Indians, Mi'kmaq Nation, the Wabanaki Confederacy, treaty history, the Maine Indian Claims Settlement Act of 1980, and contemporary tribal sovereignty) per 20-A M.R.S. sec. 4706.",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-10",
+  "tags": [
+    "maine",
+    "civics",
+    "grade-8"
+  ],
+  "questions": [
+    {
+      "id": "MEC8_001",
+      "question": "A student asks why no state law, city rule, or even act of Congress can override the nation's founding charter. That charter, the supreme law of the land, is:",
+      "correctAnswer": "The U.S. Constitution",
+      "distractors": [
+        "The Declaration of Independence",
+        "The Articles of Confederation",
+        "The Federalist Papers"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Constitution, written in 1787 and ratified in 1788, sits above every other law in the United States. When a law conflicts with it, courts can strike that law down.",
+      "memoryHook": "T-Rexy says: The Constitution outranks every other law.",
+      "tags": [
+        "constitution",
+        "supremacy"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A large parchment document resting under glass in a museum case, lit warmly from above. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Constitution outranks every other law.",
+        "title": "THE SUPREME LAW"
+      }
+    },
+    {
+      "id": "MEC8_002",
+      "question": "Before the Constitution, the young United States was governed by a loose confederation whose central government could not tax or enforce its decisions. That first framework was called:",
+      "correctAnswer": "The Articles of Confederation",
+      "distractors": [
+        "The Mayflower Compact",
+        "The Northwest Ordinance",
+        "The Virginia Plan"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Articles of Confederation (ratified 1781) created a weak central government - Congress could ask states for money but not compel payment - which is why leaders met in Philadelphia in 1787 to design a stronger system.",
+      "memoryHook": "T-Rexy says: The Articles were too loose to hold.",
+      "tags": [
+        "constitution",
+        "history"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Thirteen separate wooden chairs arranged in a loose wide circle in an empty colonial meeting hall. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Articles were too loose to hold.",
+        "title": "THE FIRST FRAMEWORK"
+      }
+    },
+    {
+      "id": "MEC8_003",
+      "question": "In 1787, delegates from twelve states gathered in Philadelphia for a meeting that produced the Constitution. That meeting is known as:",
+      "correctAnswer": "The Constitutional Convention",
+      "distractors": [
+        "The Continental Congress",
+        "The Annapolis Conference",
+        "The Hartford Convention"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Constitutional Convention met in Philadelphia in the summer of 1787. Delegates who had been sent to revise the Articles instead drafted an entirely new Constitution.",
+      "memoryHook": "T-Rexy says: Philadelphia, 1787: a new plan is drafted.",
+      "tags": [
+        "constitution",
+        "history"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A long wooden table in a bright colonial assembly room with quills, ink pots and empty chairs along both sides. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Philadelphia, 1787: a new plan is drafted.",
+        "title": "PHILADELPHIA, 1787"
+      }
+    },
+    {
+      "id": "MEC8_004",
+      "question": "A civics teacher writes three goals on the board - form a more perfect union, establish justice, ensure domestic tranquility. These phrases come from the part of the Constitution called:",
+      "correctAnswer": "The Preamble",
+      "distractors": [
+        "The Bill of Rights",
+        "Article I",
+        "The Necessary and Proper Clause"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Preamble is the Constitution's one-paragraph introduction. It states the purposes of the government the document creates, beginning 'We the People of the United States.'",
+      "memoryHook": "T-Rexy says: The Preamble states the purposes first.",
+      "tags": [
+        "constitution",
+        "preamble"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "An open book on a lectern in a quiet library, its first page blank, morning light across the desk. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Preamble states the purposes first.",
+        "title": "WE THE PEOPLE"
+      }
+    },
+    {
+      "id": "MEC8_005",
+      "question": "Why does the Constitution divide power among three separate branches instead of giving it all to one leader?",
+      "correctAnswer": "So each branch can check the others and no single person or group can control the whole government",
+      "distractors": [
+        "So laws can be passed more quickly",
+        "So the president can delegate unpopular decisions",
+        "So states do not need their own governments"
+      ],
+      "difficulty": "medium",
+      "explanation": "Separation of powers, drawn from Montesquieu, assigns lawmaking to Congress, enforcement to the executive, and judging to the courts. Each branch holds tools to limit the others, which protects liberty.",
+      "memoryHook": "T-Rexy says: Three branches, each watching the others.",
+      "tags": [
+        "constitution",
+        "separation-of-powers"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A balance scale with three equal stone pillars standing behind it against a plain sky. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Three branches, each watching the others.",
+        "title": "POWER, DIVIDED ON PURPOSE"
+      }
+    },
+    {
+      "id": "MEC8_006",
+      "question": "Late in a session, the president returns a transportation bill unsigned, with written objections. The House then votes by well over two-thirds to enact it anyway, and the Senate follows with its own two-thirds vote. Congress has just exercised:",
+      "correctAnswer": "A check the legislative branch holds over the executive branch",
+      "distractors": [
+        "Judicial review",
+        "An executive order",
+        "A filibuster"
+      ],
+      "difficulty": "medium",
+      "explanation": "The veto override is one of the Constitution's checks and balances: Congress can enact a law over the president's objection with a two-thirds vote in the House and the Senate.",
+      "memoryHook": "T-Rexy says: Two-thirds can override a veto.",
+      "tags": [
+        "checks-and-balances"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A heavy wooden veto stamp resting beside a tall stack of paper ballots in a legislative chamber. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Two-thirds can override a veto.",
+        "title": "THE VETO OVERRIDE"
+      }
+    },
+    {
+      "id": "MEC8_007",
+      "question": "When the Supreme Court declared a law unconstitutional in Marbury v. Madison (1803), it established the power known as:",
+      "correctAnswer": "Judicial review",
+      "distractors": [
+        "Impeachment",
+        "Advice and consent",
+        "The pocket veto"
+      ],
+      "difficulty": "medium",
+      "explanation": "In Marbury v. Madison, Chief Justice John Marshall's Court claimed the power to strike down laws that conflict with the Constitution - judicial review, the judiciary's central check on the other branches.",
+      "memoryHook": "T-Rexy says: Marbury gave courts the review power.",
+      "tags": [
+        "courts",
+        "landmark-cases"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A marble courthouse facade with tall columns seen from the bottom of wide stone steps. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Marbury gave courts the review power.",
+        "title": "MARBURY V. MADISON"
+      }
+    },
+    {
+      "id": "MEC8_008",
+      "question": "A governor and a president both claim authority over the same policy area, and the Constitution gives that power to neither level exclusively. Powers shared this way are called:",
+      "correctAnswer": "Concurrent powers",
+      "distractors": [
+        "Reserved powers",
+        "Enumerated powers",
+        "Implied powers"
+      ],
+      "difficulty": "hard",
+      "explanation": "Federalism divides power between the national and state governments. Concurrent powers - like taxing, building roads, and running courts - are exercised by both levels at once.",
+      "memoryHook": "T-Rexy says: Shared powers are concurrent powers.",
+      "tags": [
+        "federalism"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Two overlapping circles of light cast on a wooden floor by two lamps. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Shared powers are concurrent powers.",
+        "title": "SHARED POWER"
+      }
+    },
+    {
+      "id": "MEC8_009",
+      "question": "The Tenth Amendment protects state authority by declaring that powers not given to the federal government and not denied to the states are:",
+      "correctAnswer": "Reserved to the states or to the people",
+      "distractors": [
+        "Given to the president",
+        "Given to the Supreme Court",
+        "Abolished entirely"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Tenth Amendment, part of the Bill of Rights, reserves undelegated powers to the states or the people - the constitutional basis for state control of areas like education and local policing.",
+      "memoryHook": "T-Rexy says: What is not delegated is reserved.",
+      "tags": [
+        "federalism",
+        "amendments"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A row of many different state-shaped wooden blocks lined up on a shelf, each a different color. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: What is not delegated is reserved.",
+        "title": "THE TENTH AMENDMENT"
+      }
+    },
+    {
+      "id": "MEC8_010",
+      "question": "If a state law directly conflicts with a valid federal law on the same subject, which one wins under the Constitution?",
+      "correctAnswer": "The federal law, under the Supremacy Clause of Article VI",
+      "distractors": [
+        "The state law, under the Tenth Amendment",
+        "Whichever law was passed first",
+        "Whichever law a governor prefers"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article VI makes the Constitution, federal laws, and treaties 'the supreme Law of the Land.' State judges must follow federal law when the two genuinely conflict.",
+      "memoryHook": "T-Rexy says: Article VI settles conflicts for federal law.",
+      "tags": [
+        "constitution",
+        "supremacy"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Two stacks of law books on a scale, the taller bound volume resting higher than the smaller one. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Article VI settles conflicts for federal law.",
+        "title": "THE SUPREMACY CLAUSE"
+      }
+    },
+    {
+      "id": "MEC8_011",
+      "question": "When the first Congress proposed a dozen amendments in 1789, the states ratified ten of them by December 1791 - safeguarding speech, arms, juries, due process and more. That ratified set of ten is known together as:",
+      "correctAnswer": "The Bill of Rights",
+      "distractors": [
+        "The Reconstruction Amendments",
+        "The Federalist Papers",
+        "The Articles of Confederation"
+      ],
+      "difficulty": "easy",
+      "explanation": "Anti-Federalists demanded protections for individual rights as the price of ratification. James Madison guided ten amendments through Congress, and the states ratified them in 1791.",
+      "memoryHook": "T-Rexy says: Ten amendments guard individual liberty.",
+      "tags": [
+        "bill-of-rights"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Ten framed parchment panels hanging in a row on a museum wall. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Ten amendments guard individual liberty.",
+        "title": "THE BILL OF RIGHTS"
+      }
+    },
+    {
+      "id": "MEC8_012",
+      "question": "A newspaper prints an editorial harshly criticizing a mayor, and the mayor orders the paper shut down. Which amendment most directly forbids that?",
+      "correctAnswer": "The First Amendment",
+      "distractors": [
+        "The Second Amendment",
+        "The Fourth Amendment",
+        "The Eighth Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "The First Amendment protects freedom of the press, along with speech, religion, assembly, and petition. Government may not silence a publication for criticizing officials.",
+      "memoryHook": "T-Rexy says: The First protects the critical press.",
+      "tags": [
+        "bill-of-rights",
+        "first-amendment"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A vintage printing press in a workshop with blank sheets of paper stacked beside it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The First protects the critical press.",
+        "title": "FREEDOM OF THE PRESS"
+      }
+    },
+    {
+      "id": "MEC8_013",
+      "question": "Detectives believe stolen property sits inside a suspect's apartment, but no judge has signed any paper authorizing them to enter. Under the Fourth Amendment, investigators must generally first obtain:",
+      "correctAnswer": "A warrant based on probable cause, describing the place to be searched",
+      "distractors": [
+        "Permission from the mayor",
+        "A two-thirds vote of the city council",
+        "A petition signed by neighbors"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Fourth Amendment bars unreasonable searches and seizures. A warrant must rest on probable cause and particularly describe the place to be searched and the things to be seized.",
+      "memoryHook": "T-Rexy says: No warrant, no general search.",
+      "tags": [
+        "bill-of-rights",
+        "fourth-amendment"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A magnifying glass resting on a plain wooden desk beside a sealed envelope. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: No warrant, no general search.",
+        "title": "THE FOURTH AMENDMENT"
+      }
+    },
+    {
+      "id": "MEC8_014",
+      "question": "A defendant refuses to answer questions in court, saying, 'I plead the Fifth.' The Fifth Amendment protects against:",
+      "correctAnswer": "Being forced to testify against yourself - self-incrimination",
+      "distractors": [
+        "Paying any taxes",
+        "Serving on a jury",
+        "Being charged with a crime at all"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Fifth Amendment guarantees that no person 'shall be compelled in any criminal case to be a witness against himself.' It also guarantees due process and grand-jury indictment for serious federal crimes.",
+      "memoryHook": "T-Rexy says: The Fifth lets you stay silent.",
+      "tags": [
+        "bill-of-rights",
+        "fifth-amendment"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "An empty witness chair in a wood-paneled courtroom, a single lamp glowing above it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Fifth lets you stay silent.",
+        "title": "PLEADING THE FIFTH"
+      }
+    },
+    {
+      "id": "MEC8_015",
+      "question": "Clarence Gideon, too poor to hire counsel, was forced to defend himself at his Florida felony trial, then appealed with a handwritten petition. The Supreme Court's 1963 ruling in his case requires states to provide a poor defendant:",
+      "correctAnswer": "A lawyer, free of charge, under the Sixth Amendment",
+      "distractors": [
+        "A jury of twelve neighbors",
+        "Bail at no cost",
+        "A private investigator"
+      ],
+      "difficulty": "medium",
+      "explanation": "Clarence Gideon's handwritten appeal led the Court to hold that the Sixth Amendment right to counsel applies to the states, so an indigent defendant must be given an attorney.",
+      "memoryHook": "T-Rexy says: Gideon: counsel even if you cannot pay.",
+      "tags": [
+        "courts",
+        "landmark-cases"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A single handwritten letter in pencil resting on a courtroom table. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Gideon: counsel even if you cannot pay.",
+        "title": "GIDEON V. WAINWRIGHT"
+      }
+    },
+    {
+      "id": "MEC8_016",
+      "question": "The Sixth Amendment's promise of a 'speedy and public trial' also includes the right to:",
+      "correctAnswer": "An impartial jury and to be informed of the charges against you",
+      "distractors": [
+        "Choose your own judge",
+        "Refuse to appear in court",
+        "Keep the trial secret"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Sixth Amendment guarantees a speedy, public trial by an impartial jury, notice of the accusation, the chance to confront witnesses, and the assistance of counsel.",
+      "memoryHook": "T-Rexy says: Speedy, public, impartial: the Sixth.",
+      "tags": [
+        "bill-of-rights",
+        "sixth-amendment"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Rows of empty wooden jury-box chairs in a bright courtroom. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Speedy, public, impartial: the Sixth.",
+        "title": "THE SIXTH AMENDMENT"
+      }
+    },
+    {
+      "id": "MEC8_017",
+      "question": "A judge sets bail at ten million dollars for a minor shoplifting charge. The Eighth Amendment is relevant because it forbids:",
+      "correctAnswer": "Excessive bail and cruel and unusual punishments",
+      "distractors": [
+        "All bail in criminal cases",
+        "Any fine over one hundred dollars",
+        "Prison sentences longer than a year"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Eighth Amendment bars excessive bail, excessive fines, and cruel and unusual punishments. Bail wildly out of proportion to a minor charge is the classic example.",
+      "memoryHook": "T-Rexy says: The Eighth limits bail and punishment.",
+      "tags": [
+        "bill-of-rights",
+        "eighth-amendment"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A small set of iron keys hanging on a hook beside a plain stone wall. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Eighth limits bail and punishment.",
+        "title": "THE EIGHTH AMENDMENT"
+      }
+    },
+    {
+      "id": "MEC8_018",
+      "question": "The Fourteenth Amendment, ratified in 1868, transformed the Bill of Rights by:",
+      "correctAnswer": "Requiring states, not just the federal government, to respect due process and equal protection",
+      "distractors": [
+        "Giving women the vote",
+        "Abolishing the Senate",
+        "Ending the Civil War"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Fourteenth Amendment defines citizenship and forbids states to deny due process or equal protection of the laws. Through it, most Bill of Rights protections have been applied against state governments.",
+      "memoryHook": "T-Rexy says: The Fourteenth binds the states too.",
+      "tags": [
+        "amendments",
+        "civil-rights"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A stone archway with light passing through it onto a path on the far side. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Fourteenth binds the states too.",
+        "title": "THE FOURTEENTH AMENDMENT"
+      }
+    },
+    {
+      "id": "MEC8_019",
+      "question": "At the close of the Civil War, an amendment permanently ended slavery and involuntary servitude in every state of the restored Union, North and South alike. Ratified in December 1865, that amendment is:",
+      "correctAnswer": "The Thirteenth Amendment (1865)",
+      "distractors": [
+        "The Twelfth Amendment",
+        "The Fifteenth Amendment",
+        "The Nineteenth Amendment"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Thirteenth Amendment, ratified in December 1865, abolished slavery and involuntary servitude everywhere in the United States, except as punishment for a crime.",
+      "memoryHook": "T-Rexy says: Thirteen ended slavery.",
+      "tags": [
+        "amendments",
+        "civil-war"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A heavy iron chain with one link broken open, lying on a wooden surface. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Thirteen ended slavery.",
+        "title": "THE THIRTEENTH AMENDMENT"
+      }
+    },
+    {
+      "id": "MEC8_020",
+      "question": "An amendment added in 1870 specifically prohibits states from using race, color, or previous condition of servitude to keep citizens away from the ballot box. That amendment is:",
+      "correctAnswer": "The Fifteenth Amendment (1870)",
+      "distractors": [
+        "The Sixteenth Amendment",
+        "The Seventeenth Amendment",
+        "The Twenty-First Amendment"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Fifteenth Amendment bars denying or abridging the right to vote 'on account of race, color, or previous condition of servitude.' Later laws, like the Voting Rights Act of 1965, were needed to enforce it fully.",
+      "memoryHook": "T-Rexy says: Fifteen: no racial voting bars.",
+      "tags": [
+        "amendments",
+        "voting"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A row of plain paper ballots being slipped into a wooden ballot box. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Fifteen: no racial voting bars.",
+        "title": "THE FIFTEENTH AMENDMENT"
+      }
+    },
+    {
+      "id": "MEC8_021",
+      "question": "For most of American history, United States senators were chosen by state legislatures. Direct election of senators by the voters was established by:",
+      "correctAnswer": "The Seventeenth Amendment (1913)",
+      "distractors": [
+        "The Twelfth Amendment",
+        "The Twentieth Amendment",
+        "The Twenty-Fifth Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Seventeenth Amendment moved Senate elections from state legislatures to the people, one of the major democratic reforms of the Progressive Era.",
+      "memoryHook": "T-Rexy says: Seventeen put senators on the ballot.",
+      "tags": [
+        "amendments",
+        "congress"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Citizens standing in line at a polling place in a school gymnasium, seen from behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Seventeen put senators on the ballot.",
+        "title": "DIRECT ELECTION OF SENATORS"
+      }
+    },
+    {
+      "id": "MEC8_022",
+      "question": "Suffragists picketed outside the White House and marched for decades. Their campaign succeeded when a 1920 amendment finally prohibited denying any citizen the ballot on account of sex. That amendment is:",
+      "correctAnswer": "The Nineteenth Amendment (1920)",
+      "distractors": [
+        "The Eighteenth Amendment",
+        "The Twenty-Fourth Amendment",
+        "The Twenty-Sixth Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Nineteenth Amendment forbids denying the vote on account of sex. It was the product of a seventy-year suffrage movement and was ratified in August 1920.",
+      "memoryHook": "T-Rexy says: Nineteen: women's suffrage.",
+      "tags": [
+        "amendments",
+        "voting"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A white sash and a bouquet of yellow roses resting on a wooden chair. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Nineteen: women's suffrage.",
+        "title": "THE NINETEENTH AMENDMENT"
+      }
+    },
+    {
+      "id": "MEC8_023",
+      "question": "During the Vietnam War, eighteen-year-olds could be drafted but in many states could not vote. The amendment that set the national voting age at eighteen is:",
+      "correctAnswer": "The Twenty-Sixth Amendment (1971)",
+      "distractors": [
+        "The Twenty-Third Amendment",
+        "The Twenty-Fourth Amendment",
+        "The Twenty-Seventh Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Twenty-Sixth Amendment, the fastest ever ratified, lowered the voting age to eighteen in 1971 under the slogan 'old enough to fight, old enough to vote.'",
+      "memoryHook": "T-Rexy says: Twenty-Six set voting at eighteen.",
+      "tags": [
+        "amendments",
+        "voting"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A young first-time voter receiving a small round sticker from an election worker's hand. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Twenty-Six set voting at eighteen.",
+        "title": "VOTING AT EIGHTEEN"
+      }
+    },
+    {
+      "id": "MEC8_024",
+      "question": "Changing the Constitution requires an amendment. Under Article V, an amendment must be proposed by two-thirds of Congress (or a convention) and then:",
+      "correctAnswer": "Ratified by three-fourths of the states",
+      "distractors": [
+        "Signed by the president",
+        "Approved by the Supreme Court",
+        "Ratified by a simple majority of states"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article V's two-step process - proposal and ratification by three-fourths of the states - has produced only twenty-seven amendments in more than two centuries.",
+      "memoryHook": "T-Rexy says: Two-thirds propose, three-fourths ratify.",
+      "tags": [
+        "constitution",
+        "amendments"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Many state flags hanging in a long hall, viewed from one end so they recede into the distance uncountably. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Two-thirds propose, three-fourths ratify.",
+        "title": "AMENDING THE CONSTITUTION"
+      }
+    },
+    {
+      "id": "MEC8_025",
+      "question": "A bill becomes a law at the federal level only after it has been:",
+      "correctAnswer": "Passed by both houses of Congress in identical form and signed by the president, or passed over a veto",
+      "distractors": [
+        "Approved by the Supreme Court",
+        "Published in newspapers for thirty days",
+        "Ratified by half the states"
+      ],
+      "difficulty": "medium",
+      "explanation": "Both the House and the Senate must pass the same text. The president may sign it or veto it; Congress may override a veto with two-thirds of both houses.",
+      "memoryHook": "T-Rexy says: Same text, both houses, then the president.",
+      "tags": [
+        "congress",
+        "lawmaking"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Two long rows of empty desks facing each other in a legislative chamber. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Same text, both houses, then the president.",
+        "title": "HOW A BILL BECOMES LAW"
+      }
+    },
+    {
+      "id": "MEC8_026",
+      "question": "Congress is bicameral - it has two chambers. They are:",
+      "correctAnswer": "The House of Representatives and the Senate",
+      "distractors": [
+        "The Cabinet and the Senate",
+        "The House of Commons and the House of Lords",
+        "The Assembly and the Council"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Great Compromise of 1787 created a House based on population and a Senate with equal state representation. Together they form the legislative branch.",
+      "memoryHook": "T-Rexy says: Two chambers: House and Senate.",
+      "tags": [
+        "congress"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A grand building with a domed center and two long wings extending on either side. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Two chambers: House and Senate.",
+        "title": "A TWO-CHAMBER CONGRESS"
+      }
+    },
+    {
+      "id": "MEC8_027",
+      "question": "Representation in the House of Representatives is based on each state's population, adjusted after every census. A state's number of House seats therefore:",
+      "correctAnswer": "Can grow or shrink every ten years as its population changes relative to other states",
+      "distractors": [
+        "Never changes once assigned",
+        "Is always equal to its number of counties",
+        "Is chosen by the governor"
+      ],
+      "difficulty": "medium",
+      "explanation": "The census every ten years drives reapportionment: states gaining population gain House seats and Electoral College votes; states losing population can lose them. Maine currently has two House seats.",
+      "memoryHook": "T-Rexy says: The census moves House seats.",
+      "tags": [
+        "congress",
+        "census"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A census worker's clipboard and pencil resting on a porch railing. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The census moves House seats.",
+        "title": "THE CENSUS AND SEATS"
+      }
+    },
+    {
+      "id": "MEC8_028",
+      "question": "Tiny Rhode Island and enormous California receive exactly the same representation in one chamber of Congress, regardless of how many people live in each. In that chamber, how many seats does the Constitution allot to each state?",
+      "correctAnswer": "Two senators",
+      "distractors": [
+        "One senator",
+        "Three senators",
+        "A number set by its governor"
+      ],
+      "difficulty": "hard",
+      "explanation": "Equal Senate representation was the small states' condition in the Great Compromise. Every state has two senators, each serving a six-year term.",
+      "memoryHook": "T-Rexy says: Every state: two senators.",
+      "tags": [
+        "congress",
+        "senate"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Two tall marble columns standing side by side in front of a courthouse. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Every state: two senators.",
+        "title": "TWO SENATORS EACH"
+      }
+    },
+    {
+      "id": "MEC8_029",
+      "question": "A newly elected member of the House of Representatives will face the voters again in just:",
+      "correctAnswer": "Two years - House terms are two years long",
+      "distractors": [
+        "Four years",
+        "Six years",
+        "One year"
+      ],
+      "difficulty": "hard",
+      "explanation": "The House's two-year term keeps representatives close to the people. The entire House is elected every two years, including in midterm elections.",
+      "memoryHook": "T-Rexy says: House members run every two years.",
+      "tags": [
+        "congress",
+        "house"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A calendar page and a campaign yard sign leaning against a fence. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: House members run every two years.",
+        "title": "THE TWO-YEAR HOUSE TERM"
+      }
+    },
+    {
+      "id": "MEC8_030",
+      "question": "Treaties negotiated by the president do not take effect until they receive:",
+      "correctAnswer": "The approval of two-thirds of the Senate",
+      "distractors": [
+        "A majority of the House",
+        "Ratification by the states",
+        "Approval of the Supreme Court"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Senate's advice-and-consent power covers treaties (two-thirds required) and confirmation of presidential appointments such as cabinet secretaries and federal judges.",
+      "memoryHook": "T-Rexy says: Treaties need two-thirds of the Senate.",
+      "tags": [
+        "congress",
+        "senate",
+        "foreign-policy"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Two diplomats' chairs facing each other across a small polished table with a flag on it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Treaties need two-thirds of the Senate.",
+        "title": "ADVICE AND CONSENT"
+      }
+    },
+    {
+      "id": "MEC8_031",
+      "question": "Only one chamber of Congress may begin a trial to remove a president - and only after the other chamber has impeached. Removal trials are held by:",
+      "correctAnswer": "The Senate, with conviction requiring two-thirds of senators",
+      "distractors": [
+        "The House of Representatives",
+        "The Supreme Court",
+        "A national referendum"
+      ],
+      "difficulty": "easy",
+      "explanation": "The House impeaches by majority vote; the Senate tries the case, and two-thirds of senators must vote to convict and remove. No president has ever been removed this way.",
+      "memoryHook": "T-Rexy says: The House charges, the Senate tries.",
+      "tags": [
+        "congress",
+        "impeachment"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A gavel resting on a sounding block on a polished wooden desk. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The House charges, the Senate tries.",
+        "title": "IMPEACHMENT AND TRIAL"
+      }
+    },
+    {
+      "id": "MEC8_032",
+      "question": "The branch of government that commands the armed forces, enforces federal laws, and conducts foreign policy is:",
+      "correctAnswer": "The executive branch, headed by the president",
+      "distractors": [
+        "The legislative branch",
+        "The judicial branch",
+        "The Federal Reserve"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article II vests executive power in the president, who serves as commander in chief, chief diplomat, and the official responsible for taking care that the laws are faithfully executed.",
+      "memoryHook": "T-Rexy says: The president leads the executive branch.",
+      "tags": [
+        "executive-branch"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Exactly three stone pillars of equal height standing in a row on a plaza. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The president leads the executive branch.",
+        "title": "THREE BRANCHES"
+      }
+    },
+    {
+      "id": "MEC8_033",
+      "question": "If a president dies, resigns, or is removed, the Constitution provides that the office passes to:",
+      "correctAnswer": "The vice president",
+      "distractors": [
+        "The Speaker of the House",
+        "The secretary of state",
+        "The chief justice"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Twenty-Fifth Amendment confirms that the vice president becomes president, not merely acting president. The Presidential Succession Act places the Speaker and others further down the line.",
+      "memoryHook": "T-Rexy says: The vice president steps up first.",
+      "tags": [
+        "executive-branch",
+        "succession"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "An empty presidential desk chair in an oval office, seen from the side. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The vice president steps up first.",
+        "title": "PRESIDENTIAL SUCCESSION"
+      }
+    },
+    {
+      "id": "MEC8_034",
+      "question": "A president is elected not by the national popular vote directly but by the Electoral College. The number of electors a state has equals:",
+      "correctAnswer": "Its total number of members of Congress - House seats plus its two senators",
+      "distractors": [
+        "Its number of counties",
+        "Its land area in square miles",
+        "Ten for every state"
+      ],
+      "difficulty": "medium",
+      "explanation": "Each state's electors equal its congressional delegation. With the District of Columbia's three, there are 538 electors, and 270 electoral votes win the presidency. Maine awards two electors by congressional district and two statewide.",
+      "memoryHook": "T-Rexy says: Electors equal the delegation size.",
+      "tags": [
+        "elections",
+        "electoral-college"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A large map board with pins clustered in different regions, too many pins to count. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Electors equal the delegation size.",
+        "title": "THE ELECTORAL COLLEGE"
+      }
+    },
+    {
+      "id": "MEC8_035",
+      "question": "The heads of the executive departments - State, Treasury, Defense, and others - who advise the president are known collectively as:",
+      "correctAnswer": "The Cabinet",
+      "distractors": [
+        "The Joint Chiefs",
+        "The Federal Bench",
+        "The Council of Governors"
+      ],
+      "difficulty": "medium",
+      "explanation": "Cabinet secretaries are nominated by the president and confirmed by the Senate. The Cabinet grew from four officers in Washington's administration to fifteen department heads today.",
+      "memoryHook": "T-Rexy says: The Cabinet advises the president.",
+      "tags": [
+        "executive-branch"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A long conference table with many empty high-backed chairs in a formal room. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Cabinet advises the president.",
+        "title": "THE PRESIDENT'S CABINET"
+      }
+    },
+    {
+      "id": "MEC8_036",
+      "question": "Without asking Congress to vote on anything, a president signs a directive ordering every federal agency to change the way it purchases its vehicle fleet. Because the directive comes from the president alone and binds the executive branch, it counts as:",
+      "correctAnswer": "Issued by the president alone to direct the executive branch, without a vote of Congress",
+      "distractors": [
+        "Passed by both houses of Congress",
+        "Issued by the Supreme Court",
+        "Ratified by the states"
+      ],
+      "difficulty": "medium",
+      "explanation": "Executive orders carry the force of law inside the executive branch, but they rest on the president's constitutional or statutory authority, can be reversed by a later president, and can be struck down by courts.",
+      "memoryHook": "T-Rexy says: Orders direct; Congress legislates.",
+      "tags": [
+        "executive-branch"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A fountain pen resting on a single sheet of paper on a wide desk. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Orders direct; Congress legislates.",
+        "title": "EXECUTIVE ORDERS"
+      }
+    },
+    {
+      "id": "MEC8_037",
+      "question": "The judicial branch decides cases under the Constitution and federal law. Its highest court is:",
+      "correctAnswer": "The Supreme Court of the United States",
+      "distractors": [
+        "The Court of Appeals for the Federal Circuit",
+        "The International Court of Justice",
+        "The Senate Judiciary Committee"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Supreme Court is the only court the Constitution itself creates. Congress established the lower federal courts - district courts and courts of appeals - beneath it.",
+      "memoryHook": "T-Rexy says: One court sits at the top.",
+      "tags": [
+        "courts"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Nine high-backed chairs in a row behind a long mahogany bench in a marble courtroom. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: One court sits at the top.",
+        "title": "THE SUPREME COURT"
+      }
+    },
+    {
+      "id": "MEC8_038",
+      "question": "Federal judges hold their offices for life, subject to good behavior. The Framers chose life tenure mainly so that judges could:",
+      "correctAnswer": "Decide cases without fear of political pressure or losing their jobs for unpopular rulings",
+      "distractors": [
+        "Avoid ever retiring",
+        "Run for higher office later",
+        "Ignore the Constitution safely"
+      ],
+      "difficulty": "hard",
+      "explanation": "Life tenure and protected salaries insulate judges from the political branches, supporting an independent judiciary - balanced by impeachment as a removal tool for misconduct.",
+      "memoryHook": "T-Rexy says: Life tenure protects independent judging.",
+      "tags": [
+        "courts"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A judge's robe hanging on a wooden stand in a quiet chamber. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Life tenure protects independent judging.",
+        "title": "AN INDEPENDENT JUDICIARY"
+      }
+    },
+    {
+      "id": "MEC8_039",
+      "question": "A person charged with a serious federal crime has the right to have the accusation screened by a grand jury, and at trial to be judged by:",
+      "correctAnswer": "A trial jury of ordinary citizens, whose guilty verdict in federal court must be unanimous",
+      "distractors": [
+        "A panel of three judges only",
+        "The local police chief",
+        "A military tribunal in all cases"
+      ],
+      "difficulty": "hard",
+      "explanation": "The jury system puts citizens between the government and the accused. Federal criminal verdicts must be unanimous, and the Sixth Amendment guarantees the jury will be impartial.",
+      "memoryHook": "T-Rexy says: Citizens judge the accused's guilt.",
+      "tags": [
+        "courts",
+        "rights"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Empty wooden jury chairs in two rows inside a courtroom. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Citizens judge the accused's guilt.",
+        "title": "JUDGED BY A JURY"
+      }
+    },
+    {
+      "id": "MEC8_040",
+      "question": "Citizenship in the United States can be acquired by birth in the country or through the legal process called:",
+      "correctAnswer": "Naturalization",
+      "distractors": [
+        "Ratification",
+        "Incorporation",
+        "Emancipation"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Fourteenth Amendment makes anyone born or naturalized in the United States a citizen. Naturalization requires lawful residence, good character, knowledge of English and U.S. civics, and an oath of allegiance.",
+      "memoryHook": "T-Rexy says: Naturalization makes new citizens.",
+      "tags": [
+        "citizenship"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A group of new citizens holding small flags at an outdoor ceremony, seen from behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Naturalization makes new citizens.",
+        "title": "BECOMING A CITIZEN"
+      }
+    },
+    {
+      "id": "MEC8_041",
+      "question": "Everyone living in the country, citizen or not, must obey its laws and pay its taxes. Which pair of civic duties, by contrast, is reserved solely to citizens?",
+      "correctAnswer": "Serving on a jury when called (and voting in federal elections)",
+      "distractors": [
+        "Obeying traffic laws",
+        "Paying sales tax",
+        "Attending school"
+      ],
+      "difficulty": "easy",
+      "explanation": "Jurors are drawn from the citizenry, and federal ballots may be cast only by citizens. Law-abidingness and taxpaying, by contrast, are demanded of every resident, whatever their status.",
+      "memoryHook": "T-Rexy says: Juries and the ballot: citizens' duties.",
+      "tags": [
+        "citizenship",
+        "civic-duty"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A jury summons envelope and a voter registration card side by side on a table. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Juries and the ballot: citizens' duties.",
+        "title": "DUTIES OF CITIZENS"
+      }
+    },
+    {
+      "id": "MEC8_042",
+      "question": "In the American system, 'the rule of law' means that:",
+      "correctAnswer": "Everyone - including government officials - must obey the law, and no one is above it",
+      "distractors": [
+        "The president may ignore court rulings",
+        "Laws apply only to ordinary citizens",
+        "Judges may invent new crimes"
+      ],
+      "difficulty": "easy",
+      "explanation": "The rule of law is the principle that government is bound by its own rules: officials must follow the law and the Constitution just as private citizens must.",
+      "memoryHook": "T-Rexy says: No one stands above the law.",
+      "tags": [
+        "principles",
+        "rule-of-law"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A stone courthouse with an even, level foundation stretching the full width of the building. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: No one stands above the law.",
+        "title": "THE RULE OF LAW"
+      }
+    },
+    {
+      "id": "MEC8_043",
+      "question": "The Declaration of Independence, adopted July 4, 1776, announced that the colonies were free and independent states, and it grounded that claim in the idea that governments derive:",
+      "correctAnswer": "Their just powers from the consent of the governed",
+      "distractors": [
+        "Authority from the king's divine right",
+        "Power from military strength",
+        "Legitimacy from tradition alone"
+      ],
+      "difficulty": "easy",
+      "explanation": "Written principally by Thomas Jefferson, the Declaration argues that when a government destroys the rights it exists to protect, the people may alter or abolish it - the philosophy behind the Revolution.",
+      "memoryHook": "T-Rexy says: Power flows from the people's consent.",
+      "tags": [
+        "history",
+        "declaration"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A quill pen and an inkwell on a desk beside a rolled parchment scroll. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Power flows from the people's consent.",
+        "title": "CONSENT OF THE GOVERNED"
+      }
+    },
+    {
+      "id": "MEC8_044",
+      "question": "The idea that the people are the source of all government power - the idea the Preamble's first three words express - is called:",
+      "correctAnswer": "Popular sovereignty",
+      "distractors": [
+        "Federalism",
+        "Judicial review",
+        "Separation of powers"
+      ],
+      "difficulty": "medium",
+      "explanation": "'We the People' opens the Constitution because under popular sovereignty, authority belongs to the citizens, who grant it to governments through constitutions and elections.",
+      "memoryHook": "T-Rexy says: The people hold the power.",
+      "tags": [
+        "principles"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A crowd of silhouetted citizens gathered in a town square at dawn, too many to count. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The people hold the power.",
+        "title": "POPULAR SOVEREIGNTY"
+      }
+    },
+    {
+      "id": "MEC8_045",
+      "question": "A representative government in which citizens elect officials to make laws on their behalf, as in the United States, is best described as a:",
+      "correctAnswer": "Republic (representative democracy)",
+      "distractors": [
+        "Direct democracy at the national level",
+        "Constitutional monarchy",
+        "Oligarchy"
+      ],
+      "difficulty": "medium",
+      "explanation": "In a republic, the people rule through elected representatives rather than voting on every law themselves. The Constitution's Guarantee Clause promises every state a republican form of government.",
+      "memoryHook": "T-Rexy says: Citizens rule through representatives.",
+      "tags": [
+        "principles",
+        "government-forms"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Voters handing ballots to election workers across a long table in a community hall. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Citizens rule through representatives.",
+        "title": "A REPUBLIC"
+      }
+    },
+    {
+      "id": "MEC8_046",
+      "question": "Political parties help voters by nominating candidates and organizing campaigns. In most states, a party chooses its general-election candidates through:",
+      "correctAnswer": "A primary election",
+      "distractors": [
+        "A Supreme Court appointment",
+        "A lottery",
+        "A town census"
+      ],
+      "difficulty": "medium",
+      "explanation": "Primaries let a party's voters pick its nominees before the general election. Maine voters registered with a party vote in that party's primary, held in June of election years.",
+      "memoryHook": "T-Rexy says: Primaries pick the nominees.",
+      "tags": [
+        "elections",
+        "parties"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Voters at a row of voting booths in a school cafeteria. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Primaries pick the nominees.",
+        "title": "PRIMARY ELECTIONS"
+      }
+    },
+    {
+      "id": "MEC8_047",
+      "question": "Free and fair elections depend on the secret ballot because secrecy:",
+      "correctAnswer": "Lets voters choose freely, without fear of punishment or pressure for their choices",
+      "distractors": [
+        "Makes counting votes faster",
+        "Hides election results from the public",
+        "Prevents candidates from campaigning"
+      ],
+      "difficulty": "medium",
+      "explanation": "Before secret (Australian) ballots spread in the late 1800s, party-printed ballots were public and employers or machines could punish voters. Secrecy protects the independence of each vote.",
+      "memoryHook": "T-Rexy says: A secret ballot is a free ballot.",
+      "tags": [
+        "elections",
+        "voting"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A voter sliding a ballot into a privacy sleeve at a polling place. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: A secret ballot is a free ballot.",
+        "title": "THE SECRET BALLOT"
+      }
+    },
+    {
+      "id": "MEC8_048",
+      "question": "A national association of nurses hires lobbyists, publishes hospital-staffing research, and urges its members to write to lawmakers - yet it never fields candidates under its own banner. An organization that behaves this way is best described as an interest group because it mainly tries to:",
+      "correctAnswer": "Influence public policy on issues they care about, rather than run candidates for office",
+      "distractors": [
+        "Elect their own members to Congress",
+        "Conduct the census",
+        "Print the ballots"
+      ],
+      "difficulty": "hard",
+      "explanation": "Groups from labor unions to environmental organizations lobby officials, publish research, and mobilize members on their issues - but unlike parties, they do not nominate candidates of their own.",
+      "memoryHook": "T-Rexy says: Groups push issues; parties run candidates.",
+      "tags": [
+        "civic-life",
+        "interest-groups"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "People holding blank placards at an orderly rally on a public green. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Groups push issues; parties run candidates.",
+        "title": "INTEREST GROUPS"
+      }
+    },
+    {
+      "id": "MEC8_049",
+      "question": "A citizen who wants to affect a decision of her city council has the First Amendment right to gather signatures and present the council with a:",
+      "correctAnswer": "Petition",
+      "distractors": [
+        "Subpoena",
+        "Indictment",
+        "Summons"
+      ],
+      "difficulty": "hard",
+      "explanation": "The right 'to petition the Government for a redress of grievances' is one of the five First Amendment freedoms, and it works at every level of government, from city hall to Congress.",
+      "memoryHook": "T-Rexy says: Petitions carry grievances to government.",
+      "tags": [
+        "bill-of-rights",
+        "first-amendment"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A clipboard with a signature page full of scribbled lines, none of them readable, on a folding table. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Petitions carry grievances to government.",
+        "title": "THE RIGHT TO PETITION"
+      }
+    },
+    {
+      "id": "MEC8_050",
+      "question": "State governments in the federal system hold primary responsibility for:",
+      "correctAnswer": "Public education, local police, driver's licenses, and state roads",
+      "distractors": [
+        "Printing money and declaring war",
+        "Negotiating treaties with foreign nations",
+        "Granting patents and copyrights"
+      ],
+      "difficulty": "hard",
+      "explanation": "Reserved powers leave everyday services - schools, police, licensing, state highways - mainly to the states, while the federal government handles national defense, foreign affairs, currency, and interstate commerce.",
+      "memoryHook": "T-Rexy says: States run schools, police, licenses.",
+      "tags": [
+        "federalism",
+        "states"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A yellow school bus on a two-lane road passing a small town hall. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: States run schools, police, licenses.",
+        "title": "WHAT STATES DO"
+      }
+    },
+    {
+      "id": "MEC8_051",
+      "question": "Local governments - cities, towns, and counties - are created by and get their authority from:",
+      "correctAnswer": "Their state government and state constitution",
+      "distractors": [
+        "The U.S. Constitution directly",
+        "The president",
+        "The United Nations"
+      ],
+      "difficulty": "easy",
+      "explanation": "The U.S. Constitution never mentions local government. States create municipalities and counties and define their powers - a principle known in its strict form as Dillon's Rule.",
+      "memoryHook": "T-Rexy says: Local power flows from the state.",
+      "tags": [
+        "federalism",
+        "local-government"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A small brick town hall with a flagpole on a village green. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Local power flows from the state.",
+        "title": "LOCAL GOVERNMENT'S SOURCE"
+      }
+    },
+    {
+      "id": "MEC8_052",
+      "question": "Seven-year-old Linda Brown had to cross Topeka, Kansas, to reach a school for Black children even though a school for white children stood near her home. The Supreme Court's unanimous 1954 decision in her family's case held that:",
+      "correctAnswer": "Racial segregation in public schools is unconstitutional because separate facilities are inherently unequal",
+      "distractors": [
+        "School prayer must be required",
+        "States may set their own voting ages",
+        "The president may be elected three times"
+      ],
+      "difficulty": "easy",
+      "explanation": "Brown overturned Plessy v. Ferguson's 'separate but equal' doctrine in public education, ruling that segregation itself violated the Fourteenth Amendment's Equal Protection Clause.",
+      "memoryHook": "T-Rexy says: Brown: separate schools are unequal.",
+      "tags": [
+        "courts",
+        "landmark-cases"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Children of different backgrounds walking up the steps of a brick schoolhouse together. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Brown: separate schools are unequal.",
+        "title": "BROWN V. BOARD"
+      }
+    },
+    {
+      "id": "MEC8_053",
+      "question": "The Twenty-Second Amendment, ratified after Franklin D. Roosevelt won four elections, limits a president to:",
+      "correctAnswer": "Two elected terms (ten years at most in office)",
+      "distractors": [
+        "One term only",
+        "Three elected terms",
+        "No limit, but shorter terms"
+      ],
+      "difficulty": "easy",
+      "explanation": "Roosevelt's four victories broke the two-term tradition set by Washington. The Twenty-Second Amendment wrote the limit into the Constitution in 1951.",
+      "memoryHook": "T-Rexy says: Two terms and done.",
+      "tags": [
+        "amendments",
+        "executive-branch"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Two hourglasses standing side by side on a mantel. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Two terms and done.",
+        "title": "THE TWO-TERM LIMIT"
+      }
+    },
+    {
+      "id": "MEC8_054",
+      "question": "The federal government gets most of its revenue from income taxes. The amendment that expressly authorized a federal income tax is:",
+      "correctAnswer": "The Sixteenth Amendment (1913)",
+      "distractors": [
+        "The Tenth Amendment",
+        "The Twelfth Amendment",
+        "The Twenty-First Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "After the Supreme Court struck down an early income tax, the Sixteenth Amendment empowered Congress to tax incomes 'from whatever source derived' without apportioning among the states.",
+      "memoryHook": "T-Rexy says: Sixteen authorizes the income tax.",
+      "tags": [
+        "amendments",
+        "taxes"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A simple paper tax form and a pencil on a kitchen table, the form's writing blurred and unreadable. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Sixteen authorizes the income tax.",
+        "title": "THE INCOME TAX AMENDMENT"
+      }
+    },
+    {
+      "id": "MEC8_055",
+      "question": "A person born in another country who becomes a U.S. citizen takes an oath renouncing foreign allegiances and swearing to support:",
+      "correctAnswer": "The Constitution of the United States",
+      "distractors": [
+        "A political party",
+        "The president personally",
+        "Their state of residence"
+      ],
+      "difficulty": "medium",
+      "explanation": "The naturalization oath requires allegiance to the Constitution and laws of the United States - the same loyalty expected of every citizen, by birth or by choice.",
+      "memoryHook": "T-Rexy says: The oath is to the Constitution.",
+      "tags": [
+        "citizenship"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "New citizens raising their right hands at a naturalization ceremony, seen from behind. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The oath is to the Constitution.",
+        "title": "THE OATH OF ALLEGIANCE"
+      }
+    },
+    {
+      "id": "MEC8_056",
+      "question": "Congress's power to regulate trade between the states and with foreign nations is called:",
+      "correctAnswer": "The Commerce Clause power",
+      "distractors": [
+        "The Establishment Clause power",
+        "The Takings Clause power",
+        "The Privileges Clause power"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I, Section 8 gives Congress power 'to regulate Commerce with foreign Nations, and among the several States' - the basis for much federal economic law, read broadly since Gibbons v. Ogden (1824).",
+      "memoryHook": "T-Rexy says: Commerce among the states: Congress.",
+      "tags": [
+        "congress",
+        "powers"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Cargo trucks crossing a long bridge between two states at sunrise. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Commerce among the states: Congress.",
+        "title": "THE COMMERCE CLAUSE"
+      }
+    },
+    {
+      "id": "MEC8_057",
+      "question": "If Congress needs a power that is not spelled out word-for-word in the Constitution, it often relies on the clause letting it make laws 'necessary and proper' for carrying out its listed powers. Lawyers call powers built this way:",
+      "correctAnswer": "Implied powers",
+      "distractors": [
+        "Reserved powers",
+        "Concurrent powers",
+        "Enumerated powers"
+      ],
+      "difficulty": "medium",
+      "explanation": "In McCulloch v. Maryland (1819), the Supreme Court upheld the national bank as an implied power: the Necessary and Proper Clause lets Congress choose reasonable means to execute its enumerated powers.",
+      "memoryHook": "T-Rexy says: Necessary and proper means implied.",
+      "tags": [
+        "congress",
+        "powers"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A toolbox with many different tools laid out beside a workshop bench. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Necessary and proper means implied.",
+        "title": "IMPLIED POWERS"
+      }
+    },
+    {
+      "id": "MEC8_058",
+      "question": "The part of the Constitution that lists most of Congress's powers, including taxing, borrowing, and declaring war, is:",
+      "correctAnswer": "Article I, Section 8",
+      "distractors": [
+        "Article II, Section 2",
+        "The First Amendment",
+        "The Preamble"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article I builds the legislative branch, and Section 8 enumerates Congress's powers - from coining money to establishing post offices to declaring war.",
+      "memoryHook": "T-Rexy says: Article I, Section 8 lists them.",
+      "tags": [
+        "constitution",
+        "congress"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A long scroll of parchment unrolled across a table, its text too small and blurred to read. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Article I, Section 8 lists them.",
+        "title": "ARTICLE I, SECTION 8"
+      }
+    },
+    {
+      "id": "MEC8_059",
+      "question": "Declaring war is a power the Constitution gives to:",
+      "correctAnswer": "Congress alone",
+      "distractors": [
+        "The president alone",
+        "The Supreme Court",
+        "State governors"
+      ],
+      "difficulty": "hard",
+      "explanation": "Although the president commands the armed forces, only Congress may declare war - one of the Framers' deliberate checks on executive power. The last formal declarations came in World War II.",
+      "memoryHook": "T-Rexy says: Congress declares; the president commands.",
+      "tags": [
+        "constitution",
+        "war-powers"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Rows of flags in a memorial field at dusk, too many to count. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Congress declares; the president commands.",
+        "title": "WHO DECLARES WAR"
+      }
+    },
+    {
+      "id": "MEC8_060",
+      "question": "A state's two senators serve staggered six-year terms. 'Staggered' means that:",
+      "correctAnswer": "About one-third of the Senate is elected every two years, so the whole body never turns over at once",
+      "distractors": [
+        "All senators are elected in the same year",
+        "Senators choose their own election years",
+        "Half the Senate is appointed by governors"
+      ],
+      "difficulty": "hard",
+      "explanation": "Staggering gives the Senate continuity: roughly a third of its seats are contested in each federal election cycle, unlike the House, where every seat is up every two years.",
+      "memoryHook": "T-Rexy says: A third of the Senate at a time.",
+      "tags": [
+        "congress",
+        "senate"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A wide staircase with people standing on scattered different steps. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: A third of the Senate at a time.",
+        "title": "STAGGERED SENATE TERMS"
+      }
+    },
+    {
+      "id": "MEC8_061",
+      "question": "To be constitutionally eligible, a candidate for the U.S. House must be at least 25 years old; a senator at least 30; and a president at least:",
+      "correctAnswer": "35 years old, and a natural-born citizen",
+      "distractors": [
+        "40 years old",
+        "30 years old",
+        "25 years old, with no citizenship rule"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article II requires the president to be a natural-born citizen, at least thirty-five, and a resident of the United States for fourteen years - the strictest eligibility rules in the Constitution.",
+      "memoryHook": "T-Rexy says: Thirty-five and natural-born for president.",
+      "tags": [
+        "constitution",
+        "elections"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Three birthday cakes of increasing size on a table, their candles unlit and uncountable in soft focus. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Thirty-five and natural-born for president.",
+        "title": "WHO MAY SERVE"
+      }
+    },
+    {
+      "id": "MEC8_062",
+      "question": "When the Census Bureau counts the population every ten years, states use the results to redraw congressional district lines. Drawing districts to advantage one party is known as:",
+      "correctAnswer": "Gerrymandering",
+      "distractors": [
+        "Apportionment",
+        "Redistricting review",
+        "Filibustering"
+      ],
+      "difficulty": "easy",
+      "explanation": "Redistricting itself is required by population change, but gerrymandering manipulates the lines for partisan advantage - named for an 1812 Massachusetts district shaped, critics said, like a salamander.",
+      "memoryHook": "T-Rexy says: Rigged lines are a gerrymander.",
+      "tags": [
+        "elections",
+        "congress"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A map puzzle with one piece stretched into a long winding salamander-like shape. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Rigged lines are a gerrymander.",
+        "title": "GERRYMANDERING"
+      }
+    },
+    {
+      "id": "MEC8_063",
+      "question": "The president's power to forgive federal crimes - as Gerald Ford did for Richard Nixon - is called:",
+      "correctAnswer": "The pardon power",
+      "distractors": [
+        "The veto power",
+        "The reprieve docket",
+        "Executive privilege"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article II lets the president grant reprieves and pardons for offenses against the United States, except in impeachment cases. A pardon can come before, during, or after prosecution.",
+      "memoryHook": "T-Rexy says: The pardon forgives federal offenses.",
+      "tags": [
+        "executive-branch"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "An open gate in a high fence with morning light beyond it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The pardon forgives federal offenses.",
+        "title": "THE PARDON POWER"
+      }
+    },
+    {
+      "id": "MEC8_064",
+      "question": "A treaty and an executive agreement both bind the United States internationally, but an executive agreement does NOT require:",
+      "correctAnswer": "Two-thirds approval by the Senate",
+      "distractors": [
+        "The president's involvement",
+        "Publication in any form",
+        "Compliance with the Constitution"
+      ],
+      "difficulty": "medium",
+      "explanation": "Presidents use executive agreements for most international arrangements; unlike treaties, they rest on the president's own authority or existing statutes and need no Senate supermajority.",
+      "memoryHook": "T-Rexy says: Agreements skip the Senate vote.",
+      "tags": [
+        "executive-branch",
+        "foreign-policy"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Two flags on small desk stands flanking a closed folder. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Agreements skip the Senate vote.",
+        "title": "TREATIES AND AGREEMENTS"
+      }
+    },
+    {
+      "id": "MEC8_065",
+      "question": "The constitutional duty to deliver a State of the Union report belongs to:",
+      "correctAnswer": "The president, who reports to Congress on the condition of the country",
+      "distractors": [
+        "The chief justice",
+        "The Speaker of the House",
+        "The vice president"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article II requires the president 'from time to time' to give Congress information on the State of the Union and recommend measures - the basis of the annual address.",
+      "memoryHook": "T-Rexy says: The president reports on the union.",
+      "tags": [
+        "executive-branch"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A speaker's podium in a large chamber with rows of seats rising behind it, too many to count. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The president reports on the union.",
+        "title": "STATE OF THE UNION"
+      }
+    },
+    {
+      "id": "MEC8_066",
+      "question": "Before the state may imprison a person or take away their house, the Fifth and Fourteenth Amendments demand a safeguard called due process of law. In practice, that safeguard means the government must:",
+      "correctAnswer": "Follow fair procedures before depriving anyone of life, liberty, or property",
+      "distractors": [
+        "Never arrest anyone without a confession",
+        "Hold all trials in secret",
+        "Let juries decide punishments before trials"
+      ],
+      "difficulty": "medium",
+      "explanation": "Due process has two strands: procedural fairness - notice, a hearing, an impartial decision-maker - and substantive limits on what government may forbid at all.",
+      "memoryHook": "T-Rexy says: Fair procedure before punishment.",
+      "tags": [
+        "rights",
+        "due-process"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A level balance scale on a judge's bench. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Fair procedure before punishment.",
+        "title": "DUE PROCESS"
+      }
+    },
+    {
+      "id": "MEC8_067",
+      "question": "The right of an accused person to have a lawyer even at a police interrogation after charges, and to be warned of the right to remain silent, comes from:",
+      "correctAnswer": "Miranda v. Arizona (1966)",
+      "distractors": [
+        "Plessy v. Ferguson (1896)",
+        "Dred Scott v. Sandford (1857)",
+        "Marbury v. Madison (1803)"
+      ],
+      "difficulty": "medium",
+      "explanation": "Miranda requires police to warn custodial suspects of their Fifth and Sixth Amendment rights - silence and counsel - before questioning, or the statements may be excluded at trial.",
+      "memoryHook": "T-Rexy says: Miranda: you have the right to silence.",
+      "tags": [
+        "courts",
+        "landmark-cases"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A small printed card held in an officer's hand, its text blurred and unreadable. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Miranda: you have the right to silence.",
+        "title": "MIRANDA V. ARIZONA"
+      }
+    },
+    {
+      "id": "MEC8_068",
+      "question": "Which freedom in the First Amendment protects a student group's right to hold a peaceful march on public sidewalks?",
+      "correctAnswer": "The right of the people peaceably to assemble",
+      "distractors": [
+        "The right to bear arms",
+        "The right against self-incrimination",
+        "The right to a speedy trial"
+      ],
+      "difficulty": "hard",
+      "explanation": "Assembly and petition are the First Amendment's collective-action freedoms: people may gather peacefully and press their views on government, subject to reasonable time, place, and manner rules.",
+      "memoryHook": "T-Rexy says: Peaceful assembly is protected.",
+      "tags": [
+        "bill-of-rights",
+        "first-amendment"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A peaceful crowd marching on a wide sidewalk with blank signs. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Peaceful assembly is protected.",
+        "title": "PEACEABLE ASSEMBLY"
+      }
+    },
+    {
+      "id": "MEC8_069",
+      "question": "The Establishment Clause and the Free Exercise Clause together govern the government's relationship with:",
+      "correctAnswer": "Religion - it may neither establish an official religion nor forbid free religious practice",
+      "distractors": [
+        "Interstate commerce",
+        "The armed forces",
+        "Political parties"
+      ],
+      "difficulty": "hard",
+      "explanation": "The First Amendment's two religion clauses pull in balance: no government-established church, and no government interference with the free exercise of religion.",
+      "memoryHook": "T-Rexy says: No establishment; free exercise.",
+      "tags": [
+        "bill-of-rights",
+        "first-amendment"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Many different houses of worship along one town street at golden hour. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: No establishment; free exercise.",
+        "title": "RELIGION AND GOVERNMENT"
+      }
+    },
+    {
+      "id": "MEC8_070",
+      "question": "Federalism was tested when a state claimed it could nullify - cancel - a federal law within its borders. The constitutional answer, settled by the Civil War and Supreme Court rulings, is that states:",
+      "correctAnswer": "May not nullify federal law; the Supremacy Clause forbids it",
+      "distractors": [
+        "May nullify any law with a governor's order",
+        "May nullify laws only on taxes",
+        "May nullify laws after a state referendum"
+      ],
+      "difficulty": "hard",
+      "explanation": "From the Kentucky and Virginia Resolutions debate through South Carolina's 1832 nullification crisis to Cooper v. Aaron (1958), the settled rule is that federal law is supreme and states cannot void it.",
+      "memoryHook": "T-Rexy says: States cannot nullify federal law.",
+      "tags": [
+        "federalism",
+        "supremacy"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A single stone bridge spanning a wide river, connecting two banks. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: States cannot nullify federal law.",
+        "title": "NULLIFICATION REJECTED"
+      }
+    },
+    {
+      "id": "MEC8_071",
+      "question": "Maine entered the Union in 1820, separating from which state as part of the Missouri Compromise?",
+      "correctAnswer": "Massachusetts",
+      "distractors": [
+        "New Hampshire",
+        "New York",
+        "Vermont"
+      ],
+      "difficulty": "easy",
+      "explanation": "Maine had been the District of Maine within Massachusetts. Statehood in 1820 balanced Missouri's admission as a slave state, keeping the Senate evenly divided at the time.",
+      "memoryHook": "T-Rexy says: Maine split from Massachusetts in 1820.",
+      "tags": [
+        "maine",
+        "history"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A coastal New England shoreline with a lighthouse on a rocky point at dawn. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Maine split from Massachusetts in 1820.",
+        "title": "MAINE STATEHOOD, 1820"
+      }
+    },
+    {
+      "id": "MEC8_072",
+      "question": "Maine's constitution, adopted in 1819 and effective with statehood, is notable because it:",
+      "correctAnswer": "Is the oldest state constitution still in operation that was written for a state admitted after the original thirteen - and it opens with a Declaration of Rights",
+      "distractors": [
+        "Has never been amended",
+        "Was written by Congress",
+        "Abolishes the office of governor"
+      ],
+      "difficulty": "easy",
+      "explanation": "Maine's 1819 constitution begins with a Declaration of Rights (Article I) and has been amended many times since, but the original frame of government still operates today.",
+      "memoryHook": "T-Rexy says: Maine's 1819 frame still governs.",
+      "tags": [
+        "maine",
+        "constitution"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A parchment document on a table in a granite statehouse room, text blurred and unreadable. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Maine's 1819 frame still governs.",
+        "title": "THE MAINE CONSTITUTION"
+      }
+    },
+    {
+      "id": "MEC8_073",
+      "question": "The Maine Legislature has two chambers. Their sizes are:",
+      "correctAnswer": "151 members in the House of Representatives and 35 in the Senate",
+      "distractors": [
+        "99 in the House and 33 in the Senate",
+        "150 in the House and 50 in the Senate",
+        "435 in the House and 100 in the Senate"
+      ],
+      "difficulty": "easy",
+      "explanation": "Maine's House has 151 voting members elected from single-member districts, and its Senate has 35. Both serve two-year terms, and Maine legislators are term-limited to four consecutive terms per chamber.",
+      "memoryHook": "T-Rexy says: Maine: 151 House, 35 Senate.",
+      "tags": [
+        "maine",
+        "legislature"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A legislative chamber with rows of desks receding into the distance, far too many to count. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Maine: 151 House, 35 Senate.",
+        "title": "THE MAINE LEGISLATURE"
+      }
+    },
+    {
+      "id": "MEC8_074",
+      "question": "Maine's governor serves a four-year term and, under the state constitution, may serve:",
+      "correctAnswer": "No more than two consecutive elected terms",
+      "distractors": [
+        "Unlimited consecutive terms",
+        "One term only",
+        "Three consecutive terms"
+      ],
+      "difficulty": "medium",
+      "explanation": "Maine limits its governor to two consecutive four-year terms. Janet Mills, elected in 2018 and 2022, was therefore ineligible to run again in 2026.",
+      "memoryHook": "T-Rexy says: Two four-year terms, then out.",
+      "tags": [
+        "maine",
+        "governor"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A governor's office desk with a flag standing in the corner. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Two four-year terms, then out.",
+        "title": "THE GOVERNOR'S TERM"
+      }
+    },
+    {
+      "id": "MEC8_075",
+      "question": "Maine has no lieutenant governor at all. Three of its top executive officers are also unusual in how they reach office. Maine's attorney general, secretary of state, and state treasurer are:",
+      "correctAnswer": "Chosen by the Legislature, not elected by the voters or appointed by the governor",
+      "distractors": [
+        "Elected by the voters in a statewide general election",
+        "Appointed by the governor alone, with no confirmation",
+        "Chosen by the Supreme Judicial Court"
+      ],
+      "difficulty": "medium",
+      "explanation": "Maine is one of very few states where the legislature elects the attorney general, secretary of state, and treasurer. Maine also has no lieutenant governor at all - the Senate president is first in the line of succession.",
+      "memoryHook": "T-Rexy says: Legislature picks Maine's AG and secretary of state.",
+      "tags": [
+        "maine",
+        "executive"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Legislators' raised hands during a vote in a wood-paneled chamber, too many to count. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Legislature picks Maine's AG and secretary of state.",
+        "title": "MAINE'S CHOSEN OFFICERS"
+      }
+    },
+    {
+      "id": "MEC8_076",
+      "question": "Maine's highest court, which reviews appeals and advises the governor and Legislature on constitutional questions when formally asked, is called:",
+      "correctAnswer": "The Supreme Judicial Court",
+      "distractors": [
+        "The Maine Supreme Court of Appeals",
+        "The Court of Last Resort",
+        "The Superior Court"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Supreme Judicial Court, sitting as the Law Court on appeals, is Maine's court of last resort. Its justices are appointed by the governor, confirmed by the Senate, and serve seven-year terms.",
+      "memoryHook": "T-Rexy says: The Law Court tops Maine's judiciary.",
+      "tags": [
+        "maine",
+        "courts"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A granite courthouse with tall windows in a small New England city. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Law Court tops Maine's judiciary.",
+        "title": "MAINE'S HIGHEST COURT"
+      }
+    },
+    {
+      "id": "MEC8_077",
+      "question": "Maine is divided into sixteen counties, but day-to-day local government for most Maine communities is provided by:",
+      "correctAnswer": "Cities and towns, governed through town meetings, select boards, and town managers or councils",
+      "distractors": [
+        "County commissions running every service",
+        "The state police",
+        "Regional federal districts"
+      ],
+      "difficulty": "medium",
+      "explanation": "Maine counties mainly run courts, jails, registries, and emergency services. The town is the basic unit of Maine local government, in the classic New England pattern.",
+      "memoryHook": "T-Rexy says: Towns, not counties, run daily life.",
+      "tags": [
+        "maine",
+        "local-government"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A white clapboard town hall in a village with a church steeple behind it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Towns, not counties, run daily life.",
+        "title": "TOWNS RUN DAILY LIFE"
+      }
+    },
+    {
+      "id": "MEC8_078",
+      "question": "In the open town meeting form used by many Maine towns, the voters gathered in person act as the town's:",
+      "correctAnswer": "Legislature - voting directly on the budget and town ordinances",
+      "distractors": [
+        "Jury pool",
+        "School board only",
+        "Advisory audience with no authority"
+      ],
+      "difficulty": "hard",
+      "explanation": "At an open town meeting, registered voters debate and vote on the warrant articles - the town budget, ordinances, and elections of officers. It is direct democracy at the local level, moderated by an elected moderator.",
+      "memoryHook": "T-Rexy says: At town meeting, voters legislate.",
+      "tags": [
+        "maine",
+        "local-government"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Residents seated in folding chairs in a town hall, raising paper ballots, too many to count. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: At town meeting, voters legislate.",
+        "title": "THE OPEN TOWN MEETING"
+      }
+    },
+    {
+      "id": "MEC8_079",
+      "question": "A select board in a Maine town is:",
+      "correctAnswer": "A small elected board that manages the town's day-to-day affairs between town meetings",
+      "distractors": [
+        "A panel of judges",
+        "The town's police department",
+        "A state-appointed commission"
+      ],
+      "difficulty": "hard",
+      "explanation": "Select board members (historically 'selectmen') are elected locally to administer the town, often alongside a professional town manager. Larger Maine towns and all cities may use elected councils instead.",
+      "memoryHook": "T-Rexy says: The select board runs the town between meetings.",
+      "tags": [
+        "maine",
+        "local-government"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A small wooden meeting table in a modest town office with a flag in the corner. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The select board runs the town between meetings.",
+        "title": "THE SELECT BOARD"
+      }
+    },
+    {
+      "id": "MEC8_080",
+      "question": "Augusta became Maine's capital in 1827, and the Maine State House there overlooks which river?",
+      "correctAnswer": "The Kennebec River",
+      "distractors": [
+        "The Penobscot River",
+        "The Androscoggin River",
+        "The St. Croix River"
+      ],
+      "difficulty": "hard",
+      "explanation": "Augusta, on the Kennebec, was chosen as a central location and became the capital in 1827; the State House, designed by Charles Bulfinch, opened in 1832. Portland had served as the first capital.",
+      "memoryHook": "T-Rexy says: Augusta stands on the Kennebec.",
+      "tags": [
+        "maine",
+        "capital"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A granite domed statehouse on a hill above a wide river. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Augusta stands on the Kennebec.",
+        "title": "AUGUSTA ON THE KENNEBEC"
+      }
+    },
+    {
+      "id": "MEC8_081",
+      "question": "Maine's state motto, 'Dirigo,' is Latin for 'I lead' - a reference, shown on the state seal, to Maine as:",
+      "correctAnswer": "A guiding star for the nation, with the mariner and the North Star imagery of the seal",
+      "distractors": [
+        "A command that ships follow Maine captains",
+        "The governor's power over the Legislature",
+        "The state's logging industry"
+      ],
+      "difficulty": "easy",
+      "explanation": "Adopted in 1820, 'Dirigo' presents Maine as a guide - the North Star that the mariner on the seal steers by. The seal also shows a farmer, a pine tree, and a moose.",
+      "memoryHook": "T-Rexy says: Dirigo: I lead, like the North Star.",
+      "tags": [
+        "maine",
+        "symbols"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A night sky over a harbor with one bright star above a sailing ship's mast. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Dirigo: I lead, like the North Star.",
+        "title": "DIRIGO - I LEAD"
+      }
+    },
+    {
+      "id": "MEC8_082",
+      "question": "Under Maine's citizen initiative, if voters collect enough valid signatures, a proposed law:",
+      "correctAnswer": "Goes to the Legislature, and if the Legislature rejects it or fails to act, it goes to the voters statewide for a final decision",
+      "distractors": [
+        "Becomes law immediately with no vote",
+        "Is decided by the governor alone",
+        "Must be approved by the Supreme Judicial Court first"
+      ],
+      "difficulty": "easy",
+      "explanation": "Maine's initiative, added to the constitution in 1908, lets citizens propose statutes and constitutional measures. The Legislature may enact the proposal as written; otherwise the people decide at referendum.",
+      "memoryHook": "T-Rexy says: Signatures put it to the people.",
+      "tags": [
+        "maine",
+        "direct-democracy"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Volunteers collecting signatures on clipboards outside a public library. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Signatures put it to the people.",
+        "title": "THE CITIZEN INITIATIVE"
+      }
+    },
+    {
+      "id": "MEC8_083",
+      "question": "Maine's 'People's Veto' lets citizens, by collecting signatures shortly after the Legislature passes a law:",
+      "correctAnswer": "Suspend that law and send it to a statewide referendum, where voters can repeal it",
+      "distractors": [
+        "Veto the law permanently with no vote",
+        "Impeach the governor",
+        "Rewrite the law themselves"
+      ],
+      "difficulty": "easy",
+      "explanation": "The People's Veto (Me. Const. art. IV, pt. 3) requires signatures from at least 10 percent of the votes cast in the last governor's election within 90 days of the Legislature's adjournment. The law is suspended until the people vote.",
+      "memoryHook": "T-Rexy says: The people can veto a new law.",
+      "tags": [
+        "maine",
+        "direct-democracy"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Voters dropping ballots into a ballot box at a referendum polling place. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The people can veto a new law.",
+        "title": "THE PEOPLE'S VETO"
+      }
+    },
+    {
+      "id": "MEC8_084",
+      "question": "Maine was the first state to adopt ranked-choice voting for statewide use. Under ranked-choice voting, a voter:",
+      "correctAnswer": "Ranks candidates in order of preference, and ballots for eliminated candidates transfer to the voter's next choice until someone holds a majority",
+      "distractors": [
+        "Must vote for only one party's candidates",
+        "Votes twice in two separate elections",
+        "Lets a computer choose randomly among finalists"
+      ],
+      "difficulty": "medium",
+      "explanation": "Maine voters approved ranked-choice voting by initiative in 2016. It is used in primaries and in general elections for federal offices - after state court rulings, it does not apply to the general election for governor or state legislature.",
+      "memoryHook": "T-Rexy says: Rank them; ballots transfer to a majority.",
+      "tags": [
+        "maine",
+        "elections"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A ballot card with rows of empty ovals receding across the page, none readable or countable. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Rank them; ballots transfer to a majority.",
+        "title": "RANKED-CHOICE VOTING"
+      }
+    },
+    {
+      "id": "MEC8_085",
+      "question": "Why did Maine voters adopt these direct-democracy tools - initiative, People's Veto, and later ranked-choice voting?",
+      "correctAnswer": "Reformers believed the Legislature alone could not be trusted to act on popular measures, so the constitution gives final lawmaking power on referred questions to the voters",
+      "distractors": [
+        "The federal government required Maine to adopt them",
+        "Maine's constitution forbids legislatures from passing laws",
+        "They were copied from the Articles of Confederation"
+      ],
+      "difficulty": "medium",
+      "explanation": "The 1908 amendments were a Progressive Era reform, driven by frustration with a Legislature seen as captive to corporate interests. Maine remains one of about half the states with a statewide initiative process.",
+      "memoryHook": "T-Rexy says: Reform put final say with voters.",
+      "tags": [
+        "maine",
+        "direct-democracy"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Citizens gathered on the steps of a statehouse holding blank banners. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Reform put final say with voters.",
+        "title": "POWER TO THE VOTERS"
+      }
+    },
+    {
+      "id": "MEC8_086",
+      "question": "The Wabanaki - 'People of the Dawnland' - are a confederacy of Native nations of the Northeast. The four federally recognized tribal nations located in Maine today are:",
+      "correctAnswer": "The Penobscot Nation, the Passamaquoddy Tribe, the Houlton Band of Maliseet Indians, and the Mi'kmaq Nation",
+      "distractors": [
+        "The Penobscot Nation, the Cherokee Nation, the Navajo Nation, and the Sioux",
+        "The Passamaquoddy Tribe, the Iroquois Confederacy, the Seminole Tribe, and the Apache",
+        "The Penobscot Nation, the Wampanoag Tribe, the Narragansett Tribe, and the Pequot"
+      ],
+      "difficulty": "medium",
+      "explanation": "These four nations - Penobscot, Passamaquoddy, Houlton Band of Maliseet Indians, and Mi'kmaq Nation - are the federally recognized tribes in Maine. Their homelands span the Penobscot River, Passamaquoddy Bay, the St. John valley, and Aroostook County, and their citizens hold tribal, state, and United States citizenship together.",
+      "memoryHook": "T-Rexy says: Four nations are recognized in Maine.",
+      "tags": [
+        "wabanaki",
+        "tribal-nations"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Exactly four distinct woven blankets with different patterns laid side by side on grass. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Four nations are recognized in Maine.",
+        "title": "FOUR NATIONS IN MAINE"
+      }
+    },
+    {
+      "id": "MEC8_087",
+      "question": "The name 'Wabanaki' means 'People of the Dawnland.' The name reflects the fact that the Wabanaki nations live:",
+      "correctAnswer": "In the far Northeast, among the first lands in the region to see the dawn sun",
+      "distractors": [
+        "Along the Gulf Coast",
+        "In the desert Southwest",
+        "On the Pacific shoreline"
+      ],
+      "difficulty": "medium",
+      "explanation": "Wabanaki homelands - Wabanakiak - cover what is now Maine, New Hampshire, Vermont, and Canada's Maritime provinces. Their eastern position means the dawn reaches them first.",
+      "memoryHook": "T-Rexy says: Dawnland: first light in the East.",
+      "tags": [
+        "wabanaki",
+        "homelands"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Sunrise over a misty river estuary on a rocky eastern coastline. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Dawnland: first light in the East.",
+        "title": "PEOPLE OF THE DAWNLAND"
+      }
+    },
+    {
+      "id": "MEC8_088",
+      "question": "The Penobscot Nation's homeland centers on the Penobscot River. Its seat of government is located at:",
+      "correctAnswer": "Indian Island, in the Penobscot River near Old Town",
+      "distractors": [
+        "Bar Harbor",
+        "The city of Bangor's city hall",
+        "A reservation in New Brunswick only"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Penobscot Nation governs from Indian Island (Panawamskek), a river island that has been a Penobscot center for centuries. The nation retains the islands of the Penobscot River above Old Town under its settlement framework.",
+      "memoryHook": "T-Rexy says: Penobscot government sits on Indian Island.",
+      "tags": [
+        "wabanaki",
+        "penobscot"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A wooded river island with a small community of houses seen across calm water. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Penobscot government sits on Indian Island.",
+        "title": "INDIAN ISLAND"
+      }
+    },
+    {
+      "id": "MEC8_089",
+      "question": "The Passamaquoddy Tribe has two reservations in far eastern Maine. They are:",
+      "correctAnswer": "Sipayik (Pleasant Point) and Motahkomikuk (Indian Township)",
+      "distractors": [
+        "Indian Island and Old Town",
+        "Bar Harbor and Eastport's city lots",
+        "Houlton and Presque Isle"
+      ],
+      "difficulty": "hard",
+      "explanation": "Sipayik, on Passamaquoddy Bay near Eastport, and Motahkomikuk, inland near Princeton, are the Passamaquoddy Tribe's two communities, each with its own local leadership under the tribe's government.",
+      "memoryHook": "T-Rexy says: Two Passamaquoddy homelands: Sipayik and Motahkomikuk.",
+      "tags": [
+        "wabanaki",
+        "passamaquoddy"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A coastal village beside a wide tidal bay at low tide, boats resting on the mudflats. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Two Passamaquoddy homelands: Sipayik and Motahkomikuk.",
+        "title": "SIPAYIK AND MOTAHKOMIKUK"
+      }
+    },
+    {
+      "id": "MEC8_090",
+      "question": "The Mi'kmaq Nation in Maine, federally recognized in 1991, is centered in which part of the state?",
+      "correctAnswer": "Aroostook County, in northern Maine around Presque Isle",
+      "distractors": [
+        "The Portland waterfront",
+        "Down East Washington County",
+        "The western mountains"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Mi'kmaq Nation (formerly the Aroostook Band of Micmacs) is headquartered in Presque Isle. Its people are part of the wider Mi'kmaq nation whose homeland spans the Canadian Maritimes and northern Maine.",
+      "memoryHook": "T-Rexy says: Maine's Mi'kmaq are centered in Aroostook.",
+      "tags": [
+        "wabanaki",
+        "mikmaq"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Rolling potato fields and spruce forest under a huge northern sky. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Maine's Mi'kmaq are centered in Aroostook.",
+        "title": "MI'KMAQ OF AROOSTOOK"
+      }
+    },
+    {
+      "id": "MEC8_091",
+      "question": "The Houlton Band of Maliseet Indians' homeland follows which river valley in northern Maine?",
+      "correctAnswer": "The St. John River valley (the Wolastoq)",
+      "distractors": [
+        "The Kennebec valley",
+        "The Saco valley",
+        "The Penobscot valley only"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Maliseet - Wolastoqiyik, 'People of the Beautiful River' - are a river people of the St. John (Wolastoq) watershed. The Houlton Band's trust lands are in the Houlton area of Aroostook County.",
+      "memoryHook": "T-Rexy says: Wolastoqiyik: people of the beautiful river.",
+      "tags": [
+        "wabanaki",
+        "maliseet"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A broad river winding through farmland and forest in autumn colors. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Wolastoqiyik: people of the beautiful river.",
+        "title": "PEOPLE OF THE WOLASTOQ"
+      }
+    },
+    {
+      "id": "MEC8_092",
+      "question": "Tribal sovereignty means that a federally recognized tribal nation like the Penobscot Nation:",
+      "correctAnswer": "Is a self-governing political community whose authority predates the United States and is recognized - not granted - by the federal government",
+      "distractors": [
+        "Is a private cultural association chartered by the state",
+        "Has only ceremonial status with no government powers",
+        "Is a department of the Maine state government"
+      ],
+      "difficulty": "easy",
+      "explanation": "Under federal Indian law, tribes are 'domestic dependent nations' whose inherent sovereignty was never surrendered wholesale. Each Maine nation has its own elected government, laws, and courts or justice systems.",
+      "memoryHook": "T-Rexy says: Sovereignty is inherent, not granted.",
+      "tags": [
+        "wabanaki",
+        "sovereignty"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A tribal council meeting room with a circle of chairs and a carved staff resting on the table. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Sovereignty is inherent, not granted.",
+        "title": "INHERENT SOVEREIGNTY"
+      }
+    },
+    {
+      "id": "MEC8_093",
+      "question": "Before European colonization, the Wabanaki nations governed themselves and managed their homelands through systems that included:",
+      "correctAnswer": "Sachems and councils leading by consensus, seasonal rounds of fishing, hunting, planting and gathering, and kinship-based responsibilities to the land",
+      "distractors": [
+        "Written constitutions copied from England",
+        "Hereditary kings ruling from stone capitals",
+        "Governors appointed by European crowns"
+      ],
+      "difficulty": "easy",
+      "explanation": "Wabanaki governance rested on respected leaders, council deliberation, and consensus, fitted to a seasonal economy along rivers and the coast - systems European observers often failed to recognize as government at all.",
+      "memoryHook": "T-Rexy says: Consensus, kinship, seasonal rounds.",
+      "tags": [
+        "wabanaki",
+        "history"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Families fishing from canoes on a calm river at dusk, in a respectful historical scene. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Consensus, kinship, seasonal rounds.",
+        "title": "GOVERNING THE DAWNLAND"
+      }
+    },
+    {
+      "id": "MEC8_094",
+      "question": "In the 1700s, the Wabanaki nations dealt with French and British colonial powers through treaties. Those treaties, in Wabanaki understanding and in the written record:",
+      "correctAnswer": "Established peace, friendship, and trade relations - the Wabanaki did not understand themselves to be surrendering their homelands or their self-government",
+      "distractors": [
+        "Sold all Wabanaki land for trade goods",
+        "Made the Wabanaki subjects of the British king in all matters",
+        "Ended all Wabanaki governments"
+      ],
+      "difficulty": "medium",
+      "explanation": "A series of treaties from 1725 onward set terms of peace and trade between the Wabanaki and the British Crown. Land loss came mainly through settler encroachment and later state actions, not a single treaty sale.",
+      "memoryHook": "T-Rexy says: Treaties meant peace and trade, not surrender.",
+      "tags": [
+        "wabanaki",
+        "treaties"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Two envoys' canoes meeting on a wide river beneath forested banks. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Treaties meant peace and trade, not surrender.",
+        "title": "TREATIES OF PEACE AND TRADE"
+      }
+    },
+    {
+      "id": "MEC8_095",
+      "question": "After the United States won independence, responsibility for Penobscot and Passamaquoddy treaty obligations in the District of Maine passed to Massachusetts, and then to Maine at statehood. A problem with the land transactions that followed is that:",
+      "correctAnswer": "Maine and Massachusetts took and sold tribal lands without the federal approvals the U.S. Nonintercourse Act required, which made the transfers legally vulnerable",
+      "distractors": [
+        "The tribes signed away all lands in a single 1820 document",
+        "The federal government bought the lands at full price in 1900",
+        "No tribal land was ever taken"
+      ],
+      "difficulty": "medium",
+      "explanation": "The federal Trade and Intercourse Acts barred land purchases from tribes without federal consent. Maine's land dealings lacked that consent - the legal foundation of the land claims case of the 1970s.",
+      "memoryHook": "T-Rexy says: Land taken without federal consent could be challenged.",
+      "tags": [
+        "wabanaki",
+        "land-claims"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Surveyors' chains and old deed papers on a table, the writing blurred and unreadable. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Land taken without federal consent could be challenged.",
+        "title": "THE LAND CLAIMS FOUNDATION"
+      }
+    },
+    {
+      "id": "MEC8_096",
+      "question": "In the 1970s, the Passamaquoddy and Penobscot sued, claiming a vast portion of Maine as unlawfully taken. The case was resolved by:",
+      "correctAnswer": "The Maine Indian Claims Settlement Act of 1980 - a federal act, matched by a Maine implementing act, that funded land purchases and a trust in exchange for extinguishing the claims",
+      "distractors": [
+        "A Supreme Court ruling awarding the tribes half of Maine",
+        "The tribes withdrawing the claim with nothing",
+        "Maine seceding from the settlement process entirely"
+      ],
+      "difficulty": "medium",
+      "explanation": "The 1980 settlement provided an $81.5 million federal settlement fund - a land-acquisition fund and a trust fund - and the tribes have since bought back hundreds of thousands of acres. It also set the distinctive state-law framework that still shapes tribal-state relations in Maine.",
+      "memoryHook": "T-Rexy says: The 1980 Act settled the claims with funds and land.",
+      "tags": [
+        "wabanaki",
+        "settlement-act"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A map table with forested land parcels marked by colored ribbons, no readable labels. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The 1980 Act settled the claims with funds and land.",
+        "title": "THE 1980 SETTLEMENT"
+      }
+    },
+    {
+      "id": "MEC8_097",
+      "question": "One way Maine's 1980 settlement differs from the position of most federally recognized tribes in other states is that:",
+      "correctAnswer": "Maine law treats the tribes in many areas much like municipalities subject to state law, rather than under the usual federal framework of tribal sovereignty - a difference tribal leaders have long sought to change",
+      "distractors": [
+        "Maine tribes may ignore all federal law",
+        "Maine tribes are not federally recognized",
+        "The settlement gave Maine tribes more sovereignty than any other tribes"
+      ],
+      "difficulty": "medium",
+      "explanation": "Under the Maine Implementing Act, state law applies broadly on tribal lands, and later federal laws generally do not apply in Maine unless they specifically say so. Restoring the standard federal framework has been the Wabanaki nations' central policy goal in recent decades.",
+      "memoryHook": "T-Rexy says: Maine's frame is state law, unlike most states.",
+      "tags": [
+        "wabanaki",
+        "sovereignty",
+        "settlement-act"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Two flags flying at different heights outside a government building at dawn. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Maine's frame is state law, unlike most states.",
+        "title": "A DIFFERENT FRAMEWORK"
+      }
+    },
+    {
+      "id": "MEC8_098",
+      "question": "Wabanaki studies became a required part of Maine education in 2001, when Maine became the first state to:",
+      "correctAnswer": "Require by law that Native American history and culture - specifically Wabanaki studies - be taught in its schools",
+      "distractors": [
+        "Open a tribal university",
+        "Require every student to speak a Wabanaki language",
+        "Give tribes control of all public schools"
+      ],
+      "difficulty": "hard",
+      "explanation": "LD 291 (PL 2001, c. 403) required Wabanaki studies as a component of Maine studies under 20-A M.R.S. sec. 4706 - covering tribal governments, cultures, territories, and economic systems. The law was renamed and strengthened as 'Wabanaki studies' in 2023.",
+      "memoryHook": "T-Rexy says: Maine required Wabanaki studies first, in 2001.",
+      "tags": [
+        "wabanaki",
+        "education"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Students learning outdoors from an elder beside a river, listening respectfully. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Maine required Wabanaki studies first, in 2001.",
+        "title": "WABANAKI STUDIES IN SCHOOL"
+      }
+    },
+    {
+      "id": "MEC8_099",
+      "question": "Contemporary Wabanaki governments provide their citizens with services that parallel those of other governments, such as:",
+      "correctAnswer": "Tribal courts and police, health clinics, housing programs, and natural-resource management including fisheries",
+      "distractors": [
+        "Only annual festivals",
+        "Private security for casinos only",
+        "No services of any kind"
+      ],
+      "difficulty": "hard",
+      "explanation": "Each Maine tribal nation runs real governments today: courts, law enforcement, health care through tribal clinics, housing, education programs, and stewardship of lands and waters, including sustenance fishing rights.",
+      "memoryHook": "T-Rexy says: Tribal governments govern today.",
+      "tags": [
+        "wabanaki",
+        "contemporary"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A modern tribal health clinic building with a flag flying outside in morning light. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Tribal governments govern today.",
+        "title": "GOVERNMENTS TODAY"
+      }
+    },
+    {
+      "id": "MEC8_100",
+      "question": "Tribal economic systems in Maine today blend traditional practices with modern enterprises. A signature example is:",
+      "correctAnswer": "The Passamaquoddy Tribe's management of wild-blueberry lands and other tribal enterprises alongside sustenance fishing, hunting, and gathering rights",
+      "distractors": [
+        "A tribal monopoly on all Maine logging",
+        "Tribal ownership of the state's shipyards",
+        "A ban on tribal businesses"
+      ],
+      "difficulty": "hard",
+      "explanation": "Wabanaki economies combine wage employment, tribal enterprises such as blueberry production and maple operations, and constitutionally and treaty-rooted sustenance practices on tribal lands and waters - economic systems that Maine's Wabanaki studies law names as a required topic.",
+      "memoryHook": "T-Rexy says: Old practices and new enterprises together.",
+      "tags": [
+        "wabanaki",
+        "economy"
+      ],
+      "imageUrl": "topic:maine-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Low wild-blueberry barrens turning red in autumn, stretching to a forested horizon uncountably. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Old practices and new enterprises together.",
+        "title": "WABANAKI ECONOMIES TODAY"
+      }
+    }
+  ]
+}

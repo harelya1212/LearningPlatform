@@ -1,0 +1,2617 @@
+{
+  "packId": "gr8-rhode-island-civics",
+  "title": "Rhode Island Civics & Government (8th Grade)",
+  "description": "Rhode Island Civics & Government (8th Grade) practice - 100 questions. 70 federal civics questions plus a 30-question Rhode Island layer: Roger Williams and soul liberty, the 1663 charter and the 1843 constitution, the Dorr Rebellion, the General Assembly (Senate 38 / House 75), the separately elected general officers, life-tenured judges, 39 cities and towns with no county government, referendum without initiative, Rhode Island voting rules, and the RIGL 16-22-2 civics proficiency and student-led project requirement, per the Rhode Island Social Studies Standards (2023) Grade 8 course 'Government and Civic Life in the United States and Rhode Island.'",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-11",
+  "tags": [
+    "rhode-island",
+    "civics",
+    "grade-8"
+  ],
+  "questions": [
+    {
+      "id": "RIC8_001",
+      "question": "A town meeting votes to ignore a rule written in the nation's founding charter because the crowd dislikes it. Which document makes that vote powerless against the charter?",
+      "correctAnswer": "The U.S. Constitution",
+      "distractors": [
+        "The Declaration of Independence",
+        "The Articles of Confederation",
+        "The Federalist Papers"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Constitution is the supreme law of the land. State laws, town votes, and even acts of Congress that conflict with it can be struck down by courts.",
+      "memoryHook": "T-Rexy says: The Constitution outranks every crowd and every law.",
+      "tags": [
+        "constitution",
+        "supremacy"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A large parchment document resting under glass in a museum case, lit warmly from above. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Constitution outranks every crowd and every law.",
+        "title": "THE SUPREME LAW"
+      }
+    },
+    {
+      "id": "RIC8_002",
+      "question": "A king rules by birth, answers to no voters, and cannot be removed. The American system was built on the opposite idea - that governing power starts with:",
+      "correctAnswer": "The people, who delegate it through the Constitution and elections",
+      "distractors": [
+        "The military, which lends it to civilian leaders",
+        "The oldest families in each colony",
+        "The courts, which hand it down case by case"
+      ],
+      "difficulty": "easy",
+      "explanation": "Popular sovereignty means authority originates with the people. Governments hold only the limited powers the people grant them, and elections are how the people take that power back.",
+      "memoryHook": "T-Rexy says: The people are the landlords of power - government only rents it.",
+      "tags": [
+        "popular-sovereignty",
+        "foundations"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Citizens of many ages placing ballots into a ballot box outside a stone civic building at dawn, flags hanging still. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The people are the landlords of power - government only rents it.",
+        "title": "POWER FROM THE PEOPLE"
+      }
+    },
+    {
+      "id": "RIC8_003",
+      "question": "Before the Constitution, the states kept nearly all power and Congress could not tax or enforce its decisions. That weak first framework was called:",
+      "correctAnswer": "The Articles of Confederation",
+      "distractors": [
+        "The Mayflower Compact",
+        "The Northwest Ordinance",
+        "The Virginia Plan"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Articles (ratified 1781) left Congress able to ask states for money but not compel payment. That weakness is why leaders met in Philadelphia in 1787 to design a stronger system.",
+      "memoryHook": "T-Rexy says: The Articles were too loose to hold the states together.",
+      "tags": [
+        "constitution",
+        "history"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Thirteen loose wooden blocks tied with a fraying rope on a table, one block sliding away. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Articles were too loose to hold the states together.",
+        "title": "TOO LOOSE TO HOLD"
+      }
+    },
+    {
+      "id": "RIC8_004",
+      "question": "A 1776 document announces that the colonies are breaking from Britain and explains that all people are created equal. It is:",
+      "correctAnswer": "The Declaration of Independence",
+      "distractors": [
+        "The Bill of Rights",
+        "The Articles of Confederation",
+        "The Emancipation Proclamation"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Declaration, adopted July 4, 1776, announced independence and stated the ideals - equality, natural rights, consent of the governed - that the Revolution claimed to defend.",
+      "memoryHook": "T-Rexy says: The Declaration declared the break and the ideals.",
+      "tags": [
+        "founding",
+        "declaration"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A quill pen resting beside a rolled parchment and a candle on a wooden desk at night. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Declaration declared the break and the ideals.",
+        "title": "DECLARING INDEPENDENCE"
+      }
+    },
+    {
+      "id": "RIC8_005",
+      "question": "A state passes a law. The governor dislikes its cost, Congress dislikes its politics, and a judge is asked to kill it for both reasons. Under separation of powers, the judge may strike it down only if it:",
+      "correctAnswer": "Violates the Constitution",
+      "distractors": [
+        "Costs more than the judge thinks wise",
+        "Was passed by the opposing party",
+        "Conflicts with a federal agency's preference"
+      ],
+      "difficulty": "medium",
+      "explanation": "Separation of powers assigns each branch its own check. Courts review laws against the Constitution - not against their own policy preferences, budgets, or party loyalties.",
+      "memoryHook": "T-Rexy says: Courts measure laws against the Constitution, not against opinions.",
+      "tags": [
+        "separation-of-powers",
+        "judicial"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Three stone pillars of equal height holding up one shared roof beam. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Courts measure laws against the Constitution, not against opinions.",
+        "title": "THREE PILLARS, ONE ROOF"
+      }
+    },
+    {
+      "id": "RIC8_006",
+      "question": "Congress passes a bill. The President vetoes it. It becomes law anyway. What must have happened?",
+      "correctAnswer": "Two-thirds of both the House and the Senate voted to override the veto",
+      "distractors": [
+        "The Supreme Court ordered the veto ignored",
+        "The Vice President broke the tie in favor of the bill",
+        "Fifty state governors signed a petition"
+      ],
+      "difficulty": "medium",
+      "explanation": "A veto override needs two-thirds of both chambers - the Constitution's main way for the legislative branch to check a presidential rejection.",
+      "memoryHook": "T-Rexy says: Two-thirds of both houses can outvote one veto.",
+      "tags": [
+        "checks-balances",
+        "legislative"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A large wooden veto stamp lying cracked in two on a desk, ballots piled beside it. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Two-thirds of both houses can outvote one veto.",
+        "title": "OVERRIDING THE VETO"
+      }
+    },
+    {
+      "id": "RIC8_007",
+      "question": "A hospital, a highway, and a harbor are all managed inside one state, while armies and treaties are handled nationally. Power split between a national government and state governments is called:",
+      "correctAnswer": "Federalism",
+      "distractors": [
+        "Unitary government",
+        "Confederation",
+        "Direct democracy"
+      ],
+      "difficulty": "easy",
+      "explanation": "Federalism divides power between the national government and the states. Some powers are national only, some state only, and many - like taxes and courts - are shared.",
+      "memoryHook": "T-Rexy says: Federalism: two levels, each with its own toolbox.",
+      "tags": [
+        "federalism",
+        "foundations"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A two-story workshop with tools on both floors and a shared staircase between them. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Federalism: two levels, each with its own toolbox.",
+        "title": "TWO FLOORS OF POWER"
+      }
+    },
+    {
+      "id": "RIC8_008",
+      "question": "A governor claims a new power because 'nothing forbids it.' A student answers with the amendment that says powers not given to the federal government, nor denied to the states, belong to the states or the people. That is the:",
+      "correctAnswer": "Tenth Amendment",
+      "distractors": [
+        "First Amendment",
+        "Fifth Amendment",
+        "Fourteenth Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Tenth Amendment reserves undelegated powers to the states or the people. It is the Bill of Rights' closing statement that the federal government is one of limited, listed powers.",
+      "memoryHook": "T-Rexy says: Ten: what is not handed over stays home.",
+      "tags": [
+        "amendments",
+        "federalism"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A key ring with most keys handed across a table and a few keys kept in a pocket. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Ten: what is not handed over stays home.",
+        "title": "WHAT STAYS HOME"
+      }
+    },
+    {
+      "id": "RIC8_009",
+      "question": "A newspaper prints a harsh cartoon about a mayor, and the mayor orders the paper shut down. Which amendment protects the paper?",
+      "correctAnswer": "The First Amendment",
+      "distractors": [
+        "The Second Amendment",
+        "The Sixth Amendment",
+        "The Eighth Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "The First Amendment protects freedom of the press along with speech, religion, assembly, and petition. Government may not silence criticism simply because it stings.",
+      "memoryHook": "T-Rexy says: First Amendment: the press prints, the mayor copes.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A printing press rolling out newspapers while a storm cloud passes overhead harmlessly. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: First Amendment: the press prints, the mayor copes.",
+        "title": "THE PRESS PRINTS ON"
+      }
+    },
+    {
+      "id": "RIC8_010",
+      "question": "Police want to search a home. The owner demands they follow the amendment requiring a warrant based on probable cause, describing the place and things to be seized. That is the:",
+      "correctAnswer": "Fourth Amendment",
+      "distractors": [
+        "Third Amendment",
+        "Seventh Amendment",
+        "Ninth Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Fourth Amendment bars unreasonable searches and seizures and sets the warrant requirements - probable cause, oath, and particular description of what may be searched or taken.",
+      "memoryHook": "T-Rexy says: Four: no warrant, no rummaging.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A locked front door with a judge's sealed document being presented at the doorstep. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Four: no warrant, no rummaging.",
+        "title": "NO WARRANT, NO ENTRY"
+      }
+    },
+    {
+      "id": "RIC8_011",
+      "question": "A defendant is forced to testify against herself, then tried twice for the same act after an acquittal. Two protections in one amendment cover both abuses - the:",
+      "correctAnswer": "Fifth Amendment",
+      "distractors": [
+        "Fourth Amendment",
+        "Sixth Amendment",
+        "Eighth Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Fifth Amendment bundles several shields: no self-incrimination, no double jeopardy, due process before losing life, liberty, or property, and just compensation when property is taken for public use.",
+      "memoryHook": "T-Rexy says: Five shields ride in the Fifth.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A shield wall of five overlapping bronze shields standing on a courthouse step. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Five shields ride in the Fifth.",
+        "title": "FIVE SHIELDS"
+      }
+    },
+    {
+      "id": "RIC8_012",
+      "question": "A state argues that because the Constitution never lists a 'right to travel,' no such right exists, so it may bar its residents from leaving. The amendment written for exactly this move - unlisted rights are still retained by the people - is the:",
+      "correctAnswer": "Ninth Amendment",
+      "distractors": [
+        "Tenth Amendment",
+        "Second Amendment",
+        "Twenty-First Amendment"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Ninth Amendment answers the fear that listing some rights would deny others: enumeration 'shall not be construed to deny or disparage others retained by the people.' The Tenth, by contrast, reserves powers - a different clause for a different claim.",
+      "memoryHook": "T-Rexy says: Nine: unlisted does not mean unowned.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "An open treasure chest with more scrolls inside than are written on the list pinned to its lid. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Nine: unlisted does not mean unowned.",
+        "title": "MORE THAN THE LIST"
+      }
+    },
+    {
+      "id": "RIC8_013",
+      "question": "A bill must pass two chambers before reaching the President. The chamber where every state gets exactly two members is the:",
+      "correctAnswer": "Senate",
+      "distractors": [
+        "House of Representatives",
+        "Cabinet",
+        "Electoral College"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Senate gives each state equal representation - two senators per state, 100 total - while House seats follow population. Senators serve six-year terms.",
+      "memoryHook": "T-Rexy says: Two per state, no matter the size: Senate.",
+      "tags": [
+        "legislative",
+        "structure"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Two identical chairs placed on each of fifty state-shaped stepping stones across a floor. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Two per state, no matter the size: Senate.",
+        "title": "TWO PER STATE"
+      }
+    },
+    {
+      "id": "RIC8_014",
+      "question": "After each census, seats in one chamber are reapportioned among the states by population. That chamber is the:",
+      "correctAnswer": "House of Representatives",
+      "distractors": [
+        "Senate",
+        "Supreme Court",
+        "Council of Economic Advisers"
+      ],
+      "difficulty": "easy",
+      "explanation": "House seats (435 total) are apportioned by population every ten years after the census, so fast-growing states gain seats and slow-growing states can lose them. Representatives serve two-year terms.",
+      "memoryHook": "T-Rexy says: The House mirrors the headcount.",
+      "tags": [
+        "legislative",
+        "structure"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A hall of many chairs being rearranged as counters tally a crowd outside the windows. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The House mirrors the headcount.",
+        "title": "SEATS FOLLOW PEOPLE"
+      }
+    },
+    {
+      "id": "RIC8_015",
+      "question": "A tax bill is introduced in the Senate, and a member objects that revenue bills must start elsewhere. The Constitution's Origination Clause says bills for raising revenue must begin in the:",
+      "correctAnswer": "House of Representatives",
+      "distractors": [
+        "Senate",
+        "Treasury Department",
+        "Supreme Court"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article I requires revenue bills to originate in the House - the chamber closest to the people, who pay the taxes. The Senate may still amend them, but it cannot start them.",
+      "memoryHook": "T-Rexy says: Money bills start where the taxpayers' closest reps sit.",
+      "tags": [
+        "legislative",
+        "powers"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A brass coin being placed on the first step of a staircase inside a columned hall. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Money bills start where the taxpayers' closest reps sit.",
+        "title": "MONEY STARTS HERE"
+      }
+    },
+    {
+      "id": "RIC8_016",
+      "question": "The House votes to impeach a federal judge. The trial, with senators as jurors and a two-thirds vote needed to convict, happens in the:",
+      "correctAnswer": "Senate",
+      "distractors": [
+        "House of Representatives",
+        "Supreme Court",
+        "State legislature of the judge's home state"
+      ],
+      "difficulty": "medium",
+      "explanation": "Impeachment is split on purpose: the House accuses (impeaches) by majority, and the Senate tries the case and can remove the official only by a two-thirds vote.",
+      "memoryHook": "T-Rexy says: The House accuses; the Senate decides.",
+      "tags": [
+        "checks-balances",
+        "legislative"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A gavel resting between two halls connected by a long corridor. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The House accuses; the Senate decides.",
+        "title": "ACCUSE HERE, TRY THERE"
+      }
+    },
+    {
+      "id": "RIC8_017",
+      "question": "A President is impeached and the Chief Justice - not the Vice President or the Senate's president pro tempore - takes the chair for the trial. Why?",
+      "correctAnswer": "The Vice President would have a conflict of interest, since conviction would make the Vice President President",
+      "distractors": [
+        "The Constitution gives the Chief Justice every impeachment trial",
+        "The Senate voted to invite the Chief Justice as a guest",
+        "The Vice President was out of the country"
+      ],
+      "difficulty": "hard",
+      "explanation": "When the President is tried, the Vice President - who normally presides over the Senate - stands to gain the presidency from a conviction. Article I therefore puts the Chief Justice in the chair for presidential trials only.",
+      "memoryHook": "T-Rexy says: The judge presides when the understudy would inherit the job.",
+      "tags": [
+        "checks-balances",
+        "judicial"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "An empty presiding chair with a judge's robe draped over it at the front of a senate chamber. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The judge presides when the understudy would inherit the job.",
+        "title": "THE NEUTRAL CHAIR"
+      }
+    },
+    {
+      "id": "RIC8_018",
+      "question": "A candidate for President must meet three constitutional requirements: natural-born citizen, at least 35 years old, and:",
+      "correctAnswer": "Fourteen years a resident of the United States",
+      "distractors": [
+        "Ten years a senator or representative",
+        "A college degree in law",
+        "Born in one of the original thirteen states"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article II sets exactly three qualifications: natural-born citizenship, age 35 or older, and 14 years of U.S. residency. No education, profession, or prior office is required.",
+      "memoryHook": "T-Rexy says: Born, thirty-five, fourteen years home - that is the whole list.",
+      "tags": [
+        "executive",
+        "qualifications"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Three stepping stones across a stream leading to a white building. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Born, thirty-five, fourteen years home - that is the whole list.",
+        "title": "THREE STONES ONLY"
+      }
+    },
+    {
+      "id": "RIC8_019",
+      "question": "A President is elected but the Electoral College math surprises a civics class: a candidate can win the presidency while losing the national popular vote because electors are allocated:",
+      "correctAnswer": "State by state, mostly winner-take-all, totaling 538 with 270 needed to win",
+      "distractors": [
+        "Strictly in proportion to the national popular vote",
+        "By the House of Representatives in every election",
+        "One per county across the whole country"
+      ],
+      "difficulty": "medium",
+      "explanation": "Each state gets electors equal to its House plus Senate members; nearly all states award all their electors to the statewide winner. With 538 electors, 270 is the majority that decides.",
+      "memoryHook": "T-Rexy says: Win the states, win the College: 270 is the magic number.",
+      "tags": [
+        "executive",
+        "elections"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A map-shaped jigsaw of state pieces being weighed on a balance scale against a pile of individual ballots. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Win the states, win the College: 270 is the magic number.",
+        "title": "WIN THE STATES"
+      }
+    },
+    {
+      "id": "RIC8_020",
+      "question": "On inauguration day the new President swears to 'preserve, protect and defend' a specific thing. The oath in Article II names:",
+      "correctAnswer": "The Constitution of the United States",
+      "distractors": [
+        "The laws passed by the previous Congress",
+        "The President's own political party",
+        "The armed forces of the United States"
+      ],
+      "difficulty": "medium",
+      "explanation": "The presidential oath is an oath to the Constitution, not to a party, a predecessor, or an institution. It is the only oath whose exact words the Constitution itself spells out.",
+      "memoryHook": "T-Rexy says: The oath is to the Constitution - full stop.",
+      "tags": [
+        "executive",
+        "constitution"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A raised hand over a thick bound book on a podium, crowd blurred in the distance. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The oath is to the Constitution - full stop.",
+        "title": "AN OATH TO THE CHARTER"
+      }
+    },
+    {
+      "id": "RIC8_021",
+      "question": "A President, without asking Congress, orders a federal agency to create a sweeping new program and fund it from money Congress appropriated for something else. The strongest constitutional objection is that:",
+      "correctAnswer": "Spending money is Congress's power - the President may only spend what Congress appropriates, for the purposes Congress sets",
+      "distractors": [
+        "Presidents may never issue any executive orders",
+        "Agencies may not be created without a constitutional amendment",
+        "The Supreme Court must pre-approve all agency actions"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article I gives Congress the power of the purse: 'No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law.' Executive orders direct how laws are executed; they cannot create appropriations or rewrite them.",
+      "memoryHook": "T-Rexy says: No purse, no program: the purse belongs to Congress.",
+      "tags": [
+        "checks-balances",
+        "executive"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A locked treasury chest with its single key hanging on a hook inside a legislative hall. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: No purse, no program: the purse belongs to Congress.",
+        "title": "THE POWER OF THE PURSE"
+      }
+    },
+    {
+      "id": "RIC8_022",
+      "question": "A soldier asks who the commander in chief of the armed forces is. The Constitution names:",
+      "correctAnswer": "The President",
+      "distractors": [
+        "The Secretary of Defense",
+        "The highest-ranking general",
+        "The Speaker of the House"
+      ],
+      "difficulty": "easy",
+      "explanation": "Article II makes the President commander in chief, keeping the military under civilian control. Congress, however, holds the separate power to declare war and fund the forces.",
+      "memoryHook": "T-Rexy says: A civilian commands the soldiers.",
+      "tags": [
+        "executive",
+        "powers"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A civilian suit jacket draped over a chair beside a row of uniform helmets. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: A civilian commands the soldiers.",
+        "title": "CIVILIAN COMMAND"
+      }
+    },
+    {
+      "id": "RIC8_023",
+      "question": "A President frees a person convicted of a federal crime, wiping the conviction away entirely. This power, which needs no approval from Congress or any court, is the:",
+      "correctAnswer": "Pardon power",
+      "distractors": [
+        "Veto power",
+        "Appointment power",
+        "Treaty power"
+      ],
+      "difficulty": "medium",
+      "explanation": "The pardon power covers federal offenses and can be granted before or after conviction. It is one of the few presidential powers with almost no procedural check - but it cannot reach state crimes or impeachment.",
+      "memoryHook": "T-Rexy says: A pardon erases a federal conviction with one signature.",
+      "tags": [
+        "executive",
+        "powers"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A signed document dissolving a chain link into dust on a desk. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: A pardon erases a federal conviction with one signature.",
+        "title": "ONE SIGNATURE FREES"
+      }
+    },
+    {
+      "id": "RIC8_024",
+      "question": "A treaty signed by the President does not take effect until another body agrees by a two-thirds vote. That body is the:",
+      "correctAnswer": "Senate",
+      "distractors": [
+        "House of Representatives",
+        "Supreme Court",
+        "United Nations Security Council"
+      ],
+      "difficulty": "hard",
+      "explanation": "Treaties need the Senate's advice and consent by two-thirds of senators present. The House plays no role in treaty ratification, though it may later fund or implement a treaty's terms.",
+      "memoryHook": "T-Rexy says: Treaties: the President signs, two-thirds of the Senate seals.",
+      "tags": [
+        "executive",
+        "legislative"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Two flags on a table with a document between them and a row of raised hands behind it. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Treaties: the President signs, two-thirds of the Senate seals.",
+        "title": "SIGNED, THEN SEALED"
+      }
+    },
+    {
+      "id": "RIC8_025",
+      "question": "Nine justices sit on the highest court, and they serve during good behavior - in practice, for life. That court is the:",
+      "correctAnswer": "Supreme Court of the United States",
+      "distractors": [
+        "Court of Appeals for the Federal Circuit",
+        "Senate Judiciary Committee",
+        "International Court of Justice"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Supreme Court has nine justices, nominated by the President and confirmed by the Senate. Life tenure is meant to insulate judges from political pressure when they decide unpopular cases.",
+      "memoryHook": "T-Rexy says: Nine justices, life tenure, one final word.",
+      "tags": [
+        "judicial",
+        "structure"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Nine tall chairs in a row behind a long wooden bench in a marble hall. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Nine justices, life tenure, one final word.",
+        "title": "NINE CHAIRS"
+      }
+    },
+    {
+      "id": "RIC8_026",
+      "question": "In 1803 the Supreme Court claimed the power to declare an act of Congress unconstitutional for the first time, in a case about a judge's commission that the Court itself refused to deliver. The case was:",
+      "correctAnswer": "Marbury v. Madison",
+      "distractors": [
+        "McCulloch v. Maryland",
+        "Gibbons v. Ogden",
+        "Dred Scott v. Sandford"
+      ],
+      "difficulty": "hard",
+      "explanation": "Chief Justice John Marshall's opinion in Marbury v. Madison (1803) established judicial review - the power to void laws conflicting with the Constitution - while denying Marbury the commission he sued for.",
+      "memoryHook": "T-Rexy says: Marbury: the Court claimed the biggest power by deciding a small one.",
+      "tags": [
+        "judicial",
+        "cases"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A tiny sealed envelope on a desk casting a very long shadow across a marble floor. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Marbury: the Court claimed the biggest power by deciding a small one.",
+        "title": "THE SMALL CASE, THE LONG SHADOW"
+      }
+    },
+    {
+      "id": "RIC8_027",
+      "question": "A case begins in a state court, is appealed to the state supreme court, and still presents a federal constitutional question. The U.S. Supreme Court can take it because:",
+      "correctAnswer": "Federal courts have the final say on questions of federal law and the U.S. Constitution",
+      "distractors": [
+        "State cases can always be retried from scratch in federal court",
+        "The losing side may always demand a second trial in Washington",
+        "Governors may transfer any case to the Supreme Court"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Supreme Court reviews state-court judgments only on federal questions - it does not rehear state-law disputes. This keeps one national meaning for the Constitution across fifty state systems.",
+      "memoryHook": "T-Rexy says: State facts stay home; federal questions can climb.",
+      "tags": [
+        "judicial",
+        "federalism"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A staircase climbing from a small courthouse to a tall marble building, one folder carried upward. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: State facts stay home; federal questions can climb.",
+        "title": "FEDERAL QUESTIONS CLIMB"
+      }
+    },
+    {
+      "id": "RIC8_028",
+      "question": "An amendment passed right after the Civil War abolished slavery throughout the United States. It is the:",
+      "correctAnswer": "Thirteenth Amendment",
+      "distractors": [
+        "Fourteenth Amendment",
+        "Fifteenth Amendment",
+        "Nineteenth Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Thirteenth Amendment (1865) abolished slavery and involuntary servitude, except as punishment for a crime. The Fourteenth (citizenship and equal protection) and Fifteenth (Black male suffrage) followed it.",
+      "memoryHook": "T-Rexy says: Thirteen broke the chains for good.",
+      "tags": [
+        "amendments",
+        "civil-war"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Broken iron links on the ground with morning light falling across them. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Thirteen broke the chains for good.",
+        "title": "CHAINS BROKEN"
+      }
+    },
+    {
+      "id": "RIC8_029",
+      "question": "A woman born in another country becomes a U.S. citizen at birth under this amendment's rule that all persons born or naturalized in the United States are citizens. The amendment is the:",
+      "correctAnswer": "Fourteenth Amendment",
+      "distractors": [
+        "Thirteenth Amendment",
+        "Fifteenth Amendment",
+        "Nineteenth Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Fourteenth Amendment (1868) opens with the Citizenship Clause, overturning the Dred Scott holding that Black Americans could not be citizens, and adds due process and equal protection limits on the states.",
+      "memoryHook": "T-Rexy says: Fourteen: born here, citizen here - plus equal protection.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A newborn's footprint stamped beside a citizenship certificate on a desk, no readable words on the paper. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Fourteen: born here, citizen here - plus equal protection.",
+        "title": "BORN HERE, CITIZEN HERE"
+      }
+    },
+    {
+      "id": "RIC8_030",
+      "question": "A state in 1965 charges voters a tax at the polls, arguing the Fifteenth Amendment only mentions race. Voters answer with the amendment that specifically bans poll taxes in federal elections. It is the:",
+      "correctAnswer": "Twenty-Fourth Amendment",
+      "distractors": [
+        "Fifteenth Amendment",
+        "Nineteenth Amendment",
+        "Twenty-Sixth Amendment"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Twenty-Fourth Amendment (1964) banned poll taxes in federal elections; the Supreme Court later extended the ban to state elections under the Fourteenth Amendment. The Fifteenth barred race-based denials but states used taxes and tests to evade it for a century.",
+      "memoryHook": "T-Rexy says: Twenty-four removed the price tag from the ballot.",
+      "tags": [
+        "amendments",
+        "voting"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A ballot being handed over a counter with an empty price tag torn off and discarded. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Twenty-four removed the price tag from the ballot.",
+        "title": "NO PRICE ON A VOTE"
+      }
+    },
+    {
+      "id": "RIC8_031",
+      "question": "An 18-year-old is told she is too young to vote in a federal election. Which amendment settled the voting age at 18?",
+      "correctAnswer": "The Twenty-Sixth Amendment",
+      "distractors": [
+        "The Fifteenth Amendment",
+        "The Nineteenth Amendment",
+        "The Twenty-Third Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Twenty-Sixth Amendment (1971), passed during the Vietnam era under the slogan 'old enough to fight, old enough to vote,' bars denying the vote to citizens 18 or older on account of age.",
+      "memoryHook": "T-Rexy says: Twenty-six: eighteen votes.",
+      "tags": [
+        "amendments",
+        "voting"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A ballot box with a birthday cake showing candles blurred beyond counting beside it. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Twenty-six: eighteen votes.",
+        "title": "OLD ENOUGH TO VOTE"
+      }
+    },
+    {
+      "id": "RIC8_032",
+      "question": "Women across the whole country gained the constitutional right to vote in 1920 through the:",
+      "correctAnswer": "Nineteenth Amendment",
+      "distractors": [
+        "Fourteenth Amendment",
+        "Fifteenth Amendment",
+        "Twenty-Sixth Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "Some states had granted women's suffrage earlier, but the Nineteenth Amendment (1920) made it national, barring denial of the vote 'on account of sex.'",
+      "memoryHook": "T-Rexy says: Nineteen: sex can no longer bar the ballot.",
+      "tags": [
+        "amendments",
+        "voting"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Women in long dresses marching with blank banners down a city street in 1920 style. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Nineteen: sex can no longer bar the ballot.",
+        "title": "THE 1920 MARCH"
+      }
+    },
+    {
+      "id": "RIC8_033",
+      "question": "A President who has served two full elected terms announces a run for a third. The amendment that stops the run is the:",
+      "correctAnswer": "Twenty-Second Amendment",
+      "distractors": [
+        "Twentieth Amendment",
+        "Twenty-Fifth Amendment",
+        "Twelfth Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "Franklin Roosevelt's four elections broke the two-term tradition set by Washington. The Twenty-Second Amendment (1951) capped presidents at two elected terms (plus up to two years of a predecessor's term).",
+      "memoryHook": "T-Rexy says: Two terms and done - twenty-two wrote it down.",
+      "tags": [
+        "amendments",
+        "executive"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A revolving door with a counter above it stopped at the number two position, numerals as plain shapes. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Two terms and done - twenty-two wrote it down.",
+        "title": "TWO TERMS AND DONE"
+      }
+    },
+    {
+      "id": "RIC8_034",
+      "question": "A President is in a coma and cannot communicate. Cabinet officers and the Vice President need a constitutional path to move presidential powers temporarily. They use the amendment that also covers succession and filling a vacant vice presidency - the:",
+      "correctAnswer": "Twenty-Fifth Amendment",
+      "distractors": [
+        "Twentieth Amendment",
+        "Twenty-Second Amendment",
+        "Twelfth Amendment"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Twenty-Fifth Amendment (1967) handles presidential disability (sections 3 and 4), confirms the Vice President becomes President on a vacancy, and lets a new Vice President be nominated and confirmed when that office empties.",
+      "memoryHook": "T-Rexy says: Twenty-five: the understudy rulebook.",
+      "tags": [
+        "amendments",
+        "executive"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A spare key being handed across a desk inside an oval office, curtains drawn. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Twenty-five: the understudy rulebook.",
+        "title": "THE UNDERSTUDY RULEBOOK"
+      }
+    },
+    {
+      "id": "RIC8_035",
+      "question": "A new citizen lists things citizens MUST do, not just may do. The list correctly includes obeying the law, paying taxes, serving on a jury when called, and for men at draft age:",
+      "correctAnswer": "Registering with Selective Service",
+      "distractors": [
+        "Voting in every election",
+        "Joining a political party",
+        "Attending town meetings"
+      ],
+      "difficulty": "easy",
+      "explanation": "Voting is a right and a responsibility, but it is not legally required. Paying taxes, obeying laws, jury service, and Selective Service registration for men 18-25 are legal duties of citizenship.",
+      "memoryHook": "T-Rexy says: Duties are the short list the law can enforce.",
+      "tags": [
+        "citizenship",
+        "duties"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A checklist on a clipboard with the boxes drawn but no words written in them. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Duties are the short list the law can enforce.",
+        "title": "THE DUTY LIST"
+      }
+    },
+    {
+      "id": "RIC8_036",
+      "question": "An immigrant has held a green card for five years, speaks English, and passes a civics and history test at an interview. She is completing the process called:",
+      "correctAnswer": "Naturalization",
+      "distractors": [
+        "Ratification",
+        "Apportionment",
+        "Emancipation"
+      ],
+      "difficulty": "medium",
+      "explanation": "Naturalization is the legal process by which a lawful permanent resident becomes a U.S. citizen - generally after five years (three if married to a citizen), with English and civics testing and an oath of allegiance.",
+      "memoryHook": "T-Rexy says: Naturalization: the test, the interview, the oath.",
+      "tags": [
+        "citizenship",
+        "naturalization"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A person raising a hand in an oath before a flag in a small ceremony room. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Naturalization: the test, the interview, the oath.",
+        "title": "THE OATH"
+      }
+    },
+    {
+      "id": "RIC8_037",
+      "question": "A city council, a mayor, a school board, and a governor all govern the same street corner at once. The level of government that runs the school board and the city council is:",
+      "correctAnswer": "Local government",
+      "distractors": [
+        "State government",
+        "Federal government",
+        "Tribal government"
+      ],
+      "difficulty": "medium",
+      "explanation": "Local governments - cities, towns, counties, and special districts like school boards - are created by states and handle the closest-to-home services: schools, police, water, and zoning.",
+      "memoryHook": "T-Rexy says: Closest to home: local government runs daily life.",
+      "tags": [
+        "government",
+        "levels"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A street corner with a school, a water tower, and a small town hall all in one view. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Closest to home: local government runs daily life.",
+        "title": "CLOSEST TO HOME"
+      }
+    },
+    {
+      "id": "RIC8_038",
+      "question": "A state legalizes something federal law still bans, and federal agents keep enforcing the federal ban inside that state. The clause that explains why federal law wins the direct conflict is the:",
+      "correctAnswer": "Supremacy Clause",
+      "distractors": [
+        "Commerce Clause",
+        "Necessary and Proper Clause",
+        "Full Faith and Credit Clause"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article VI's Supremacy Clause makes the Constitution and valid federal laws 'the supreme Law of the Land.' A state law that directly conflicts with a valid federal law cannot block its enforcement.",
+      "memoryHook": "T-Rexy says: When the two truly collide, the supreme law stands.",
+      "tags": [
+        "constitution",
+        "federalism"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Two overlapping circles of light on a floor, the higher beam covering the lower one. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: When the two truly collide, the supreme law stands.",
+        "title": "WHEN LAWS COLLIDE"
+      }
+    },
+    {
+      "id": "RIC8_039",
+      "question": "Congress wants to regulate a brand-new technology the Founders never imagined. It defends the law with the clause letting it make all laws 'necessary and proper' for carrying out its listed powers - nicknamed the:",
+      "correctAnswer": "Elastic Clause",
+      "distractors": [
+        "Supremacy Clause",
+        "Establishment Clause",
+        "Due Process Clause"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Necessary and Proper Clause (Article I, section 8) stretches Congress's listed powers to the means of executing them - the reason it is nicknamed 'elastic.' McCulloch v. Maryland read it broadly in 1819.",
+      "memoryHook": "T-Rexy says: Necessary and proper: the Constitution's elastic band.",
+      "tags": [
+        "constitution",
+        "legislative"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A woven band stretching across a row of stone columns without breaking. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Necessary and proper: the Constitution's elastic band.",
+        "title": "THE ELASTIC BAND"
+      }
+    },
+    {
+      "id": "RIC8_040",
+      "question": "A voter wants to check a claim before an election. The healthiest habit - reading several sources, checking who published a claim, and comparing coverage - is part of being:",
+      "correctAnswer": "A media-literate, informed citizen",
+      "distractors": [
+        "A registered party member",
+        "A poll worker",
+        "A campaign donor"
+      ],
+      "difficulty": "easy",
+      "explanation": "Civic participation includes following public issues critically. Checking multiple sources and a publisher's motives protects voters from misinformation designed to spread faster than facts.",
+      "memoryHook": "T-Rexy says: Check it twice before you share it once.",
+      "tags": [
+        "citizenship",
+        "media"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A magnifying glass held over a stack of different newspapers on a table. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Check it twice before you share it once.",
+        "title": "CHECK IT TWICE"
+      }
+    },
+    {
+      "id": "RIC8_041",
+      "question": "Two candidates each claim a mandate after a close election. A political scientist notes the losing side accepts the result and power changes hands peacefully. The democratic principle on display is:",
+      "correctAnswer": "Peaceful transfer of power through elections and the rule of law",
+      "distractors": [
+        "Direct democracy",
+        "Judicial supremacy",
+        "Nullification"
+      ],
+      "difficulty": "medium",
+      "explanation": "Losers consenting to results they dislike - and winners taking only the offices they won - is the mechanism that lets democracies survive close elections. It rests on rule of law: results certified under law bind everyone.",
+      "memoryHook": "T-Rexy says: The loser accepts, the republic continues.",
+      "tags": [
+        "democracy",
+        "elections"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Two people shaking hands across a ballot box while a crowd watches calmly. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The loser accepts, the republic continues.",
+        "title": "THE LOSER ACCEPTS"
+      }
+    },
+    {
+      "id": "RIC8_042",
+      "question": "A state passes a law targeting one named company, declaring it guilty of fraud and seizing its property without any trial. Two constitutional bans are violated at once: the ban on bills of attainder and the ban on laws that punish past acts - called:",
+      "correctAnswer": "Ex post facto laws",
+      "distractors": [
+        "Establishment laws",
+        "Letters of marque",
+        "Writs of assistance"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article I bans both: a bill of attainder legislatively convicts without trial, and an ex post facto law criminalizes an act or increases punishment for acts done before the law existed. The state version of both bans sits in section 10.",
+      "memoryHook": "T-Rexy says: Punishment needs a court and a law that already existed.",
+      "tags": [
+        "constitution",
+        "rights"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A gavel and a calendar page locked behind separate iron bars on a wall. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Punishment needs a court and a law that already existed.",
+        "title": "NO TRIAL BY STATUTE"
+      }
+    },
+    {
+      "id": "RIC8_043",
+      "question": "A student pays sales tax on shoes, her parents pay income tax, and the town charges property tax on their house. The level of government that collects INCOME tax and runs the IRS is the:",
+      "correctAnswer": "Federal government",
+      "distractors": [
+        "Town government only",
+        "School district",
+        "Homeowners association"
+      ],
+      "difficulty": "easy",
+      "explanation": "All three taxes exist, but they belong to different levels: income tax is primarily federal (some states add their own), sales tax is state/local, and property tax is the classic local revenue source for schools.",
+      "memoryHook": "T-Rexy says: Income tax flows to Washington; property tax stays in town.",
+      "tags": [
+        "economics",
+        "taxes"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Three labeled-free jars on a shelf receiving coins from different heights in a house. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Income tax flows to Washington; property tax stays in town.",
+        "title": "THREE JARS, THREE TAXES"
+      }
+    },
+    {
+      "id": "RIC8_044",
+      "question": "A town must choose between fixing a bridge and funding longer library hours with the same money. Choosing the bridge means giving up the library hours - which economics idea names what is given up?",
+      "correctAnswer": "Opportunity cost",
+      "distractors": [
+        "Inflation",
+        "Gross domestic product",
+        "Tariff"
+      ],
+      "difficulty": "medium",
+      "explanation": "Opportunity cost is the value of the best alternative forgone whenever a choice is made - in public budgets as much as in personal ones. It is why every spending decision is also a decision about what NOT to fund.",
+      "memoryHook": "T-Rexy says: Every yes spends a no: that is opportunity cost.",
+      "tags": [
+        "economics",
+        "foundations"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A balance scale with a small bridge model on one side and a stack of books on the other. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Every yes spends a no: that is opportunity cost.",
+        "title": "EVERY YES SPENDS A NO"
+      }
+    },
+    {
+      "id": "RIC8_045",
+      "question": "A hurricane knocks out power and the governor declares an emergency, calls out the National Guard, and requests federal help. The Guard units responding first are under the command of:",
+      "correctAnswer": "The governor of the state",
+      "distractors": [
+        "The President, always",
+        "The county sheriff",
+        "The Secretary of the Army"
+      ],
+      "difficulty": "medium",
+      "explanation": "State National Guard forces normally operate under their governor (state active duty or Title 32 status). The President can federalize them, but day-to-day and first-response command sits with the governor.",
+      "memoryHook": "T-Rexy says: Guard at home answers to the governor first.",
+      "tags": [
+        "federalism",
+        "state"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Rescue boats and uniformed helpers unloading supplies in a flooded street at dawn. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Guard at home answers to the governor first.",
+        "title": "THE GOVERNOR CALLS"
+      }
+    },
+    {
+      "id": "RIC8_046",
+      "question": "A governor is asked to extradite a fugitive to another state, and a newlywed asks whether her marriage license is valid across state lines. One clause answers both - states must give credit to other states' public acts, records, and court rulings. It is the:",
+      "correctAnswer": "Full Faith and Credit Clause",
+      "distractors": [
+        "Privileges and Immunities Clause",
+        "Commerce Clause",
+        "Supremacy Clause"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article IV's Full Faith and Credit Clause makes state acts portable - marriages, licenses, judgments - and its companion provisions cover extradition of fugitives. The Privileges and Immunities Clause is the neighboring rule against discriminating against out-of-staters.",
+      "memoryHook": "T-Rexy says: State papers travel: full faith and credit.",
+      "tags": [
+        "constitution",
+        "federalism"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A sealed envelope with a wax stamp being accepted at counters in several different towns. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: State papers travel: full faith and credit.",
+        "title": "STATE PAPERS TRAVEL"
+      }
+    },
+    {
+      "id": "RIC8_047",
+      "question": "The introduction to the Constitution, beginning 'We the People,' is called the:",
+      "correctAnswer": "Preamble",
+      "distractors": [
+        "Bill of Rights",
+        "Articles",
+        "Ratification clause"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Preamble states the Constitution's purposes - form a more perfect union, establish justice, ensure domestic tranquility, provide for the common defense, promote the general welfare, and secure liberty. It grants no powers by itself.",
+      "memoryHook": "T-Rexy says: We the People: the mission statement up front.",
+      "tags": [
+        "constitution",
+        "foundations"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "An open book whose first page glows brighter than the rest on a lectern. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: We the People: the mission statement up front.",
+        "title": "THE MISSION STATEMENT"
+      }
+    },
+    {
+      "id": "RIC8_048",
+      "question": "Supporters of the Constitution in 1787-88 wrote newspaper essays defending it, while opponents warned it created too strong a national government. The two camps were the:",
+      "correctAnswer": "Federalists and Anti-Federalists",
+      "distractors": [
+        "Whigs and Tories",
+        "Democrats and Republicans",
+        "Unionists and Confederates"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Federalist Papers (Hamilton, Madison, Jay) argued FOR ratification; Anti-Federalists opposed a strong central government and demanded a bill of rights - a demand the First Congress met in 1791.",
+      "memoryHook": "T-Rexy says: Federalists sold it; Anti-Federalists priced it with rights.",
+      "tags": [
+        "history",
+        "ratification"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Two printing presses facing each other across a narrow street, papers flying from both. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Federalists sold it; Anti-Federalists priced it with rights.",
+        "title": "TWO PRESSES, ONE ARGUMENT"
+      }
+    },
+    {
+      "id": "RIC8_049",
+      "question": "Congress proposes a constitutional amendment. Before it can become part of the Constitution, it must be approved by:",
+      "correctAnswer": "Three-fourths of the states",
+      "distractors": [
+        "A national popular vote",
+        "The President's signature",
+        "All fifty state governors"
+      ],
+      "difficulty": "medium",
+      "explanation": "Article V offers two proposal routes (two-thirds of Congress, or a convention called by two-thirds of the states) and two ratification routes, but every successful amendment was proposed by Congress and ratified by three-fourths of the states. The President plays no role.",
+      "memoryHook": "T-Rexy says: No president, no popular vote: three-fourths of the states.",
+      "tags": [
+        "constitution",
+        "amendments"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A heavy stone tablet being carried up steps by many hands from different directions. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: No president, no popular vote: three-fourths of the states.",
+        "title": "THREE-FOURTHS TO AMEND"
+      }
+    },
+    {
+      "id": "RIC8_050",
+      "question": "Only one amendment has ever been repealed by another amendment. The repealed one banned the manufacture and sale of alcohol nationwide; its repeal - the Twenty-First Amendment - undid the:",
+      "correctAnswer": "Eighteenth Amendment",
+      "distractors": [
+        "Sixteenth Amendment",
+        "Seventeenth Amendment",
+        "Nineteenth Amendment"
+      ],
+      "difficulty": "hard",
+      "explanation": "Prohibition (the Eighteenth Amendment, 1919) was repealed by the Twenty-First (1933) - the only repeal in constitutional history, and the only amendment ratified by state conventions rather than legislatures.",
+      "memoryHook": "T-Rexy says: Eighteen banned it; twenty-one brought the repeal.",
+      "tags": [
+        "amendments",
+        "history"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Two glass bottles, one corked behind bars and one standing free on a table. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Eighteen banned it; twenty-one brought the repeal.",
+        "title": "BANNED, THEN REPEALED"
+      }
+    },
+    {
+      "id": "RIC8_051",
+      "question": "Before 1913, state legislatures chose U.S. senators. The amendment that switched Senate elections to a direct vote of the people is the:",
+      "correctAnswer": "Seventeenth Amendment",
+      "distractors": [
+        "Sixteenth Amendment",
+        "Twelfth Amendment",
+        "Twenty-Seventh Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Seventeenth Amendment (1913) moved Senate selection from state legislatures to voters, part of the Progressive Era's direct-democracy reforms alongside initiatives and referendums in many states.",
+      "memoryHook": "T-Rexy says: Seventeen handed Senate races to the voters.",
+      "tags": [
+        "amendments",
+        "elections"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A ballot being passed from a legislative desk down to a line of ordinary voters. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Seventeen handed Senate races to the voters.",
+        "title": "SENATE RACES TO THE VOTERS"
+      }
+    },
+    {
+      "id": "RIC8_052",
+      "question": "A worker's paycheck is smaller than her salary because of a tax the Sixteenth Amendment made clearly constitutional - the federal tax on:",
+      "correctAnswer": "Income",
+      "distractors": [
+        "Imported goods",
+        "Land by the acre",
+        "Church property"
+      ],
+      "difficulty": "medium",
+      "explanation": "After the Supreme Court had struck down an income tax in 1895, the Sixteenth Amendment (1913) expressly authorized Congress to tax incomes 'from whatever source derived' without apportionment among the states.",
+      "memoryHook": "T-Rexy says: Sixteen: income tax, written in ink.",
+      "tags": [
+        "amendments",
+        "taxes"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A paycheck envelope with a portion of coins being routed into a treasury bin. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Sixteen: income tax, written in ink.",
+        "title": "WRITTEN IN INK"
+      }
+    },
+    {
+      "id": "RIC8_053",
+      "question": "An accused person is held for months with no charges, no lawyer, and no court date. The Sixth Amendment guarantees the accused a speedy and public trial, an impartial jury, and:",
+      "correctAnswer": "The assistance of counsel for the defense",
+      "distractors": [
+        "A guaranteed acquittal",
+        "The right to choose the judge",
+        "Immunity from all fines"
+      ],
+      "difficulty": "medium",
+      "explanation": "Gideon v. Florida (1963) applied the counsel guarantee to the states: defendants who cannot afford a lawyer must be provided one in criminal cases. The Sixth also guarantees confronting witnesses and learning the charges.",
+      "memoryHook": "T-Rexy says: Sixth: a lawyer is part of the trial, not a luxury.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A lawyer's briefcase placed beside an empty chair in a courtroom, ready for a client. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Sixth: a lawyer is part of the trial, not a luxury.",
+        "title": "A LAWYER IS PROVIDED"
+      }
+    },
+    {
+      "id": "RIC8_054",
+      "question": "A jury awards a factory worker $50 for a ruined hand, and the judge instead imposes a fine of $2 million payable to the courthouse for a minor rule the worker broke, set as punishment. The amendment limiting excessive bail, excessive fines, and cruel and unusual punishments is the:",
+      "correctAnswer": "Eighth Amendment",
+      "distractors": [
+        "Sixth Amendment",
+        "Seventh Amendment",
+        "Fifth Amendment"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Eighth Amendment caps the government's punishment tools: no excessive bail, no excessive fines, no cruel and unusual punishments. The Seventh, by contrast, preserves jury trials in federal civil cases.",
+      "memoryHook": "T-Rexy says: Eight draws the ceiling on punishment.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A balance scale where a huge weight labeled only by size is being lifted off by a judge's hand. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Eight draws the ceiling on punishment.",
+        "title": "THE CEILING ON PUNISHMENT"
+      }
+    },
+    {
+      "id": "RIC8_055",
+      "question": "A citizen wants to speak at a public meeting, sign a petition, and join a peaceful march. All three activities live in the same amendment - the:",
+      "correctAnswer": "First Amendment",
+      "distractors": [
+        "Second Amendment",
+        "Third Amendment",
+        "Fourth Amendment"
+      ],
+      "difficulty": "easy",
+      "explanation": "Speech, petition, and assembly are three of the First Amendment's five freedoms, alongside press and religion (both its establishment and free-exercise protections).",
+      "memoryHook": "T-Rexy says: Speak, sign, march: all in the First.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A crowd holding blank signs and one person speaking at a microphone in a town square. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Speak, sign, march: all in the First.",
+        "title": "SPEAK, SIGN, MARCH"
+      }
+    },
+    {
+      "id": "RIC8_056",
+      "question": "Soldiers knock and announce they will live in a family's spare room for the winter, as armies once did. The amendment written against quartering troops in private homes is the rarely tested:",
+      "correctAnswer": "Third Amendment",
+      "distractors": [
+        "Second Amendment",
+        "Fifth Amendment",
+        "Seventh Amendment"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Third Amendment bars peacetime quartering of soldiers in private homes without consent - a direct answer to British practice under the Quartering Acts, and the Bill of Rights' quietest clause today.",
+      "memoryHook": "T-Rexy says: Three: no soldiers in the spare room.",
+      "tags": [
+        "amendments",
+        "rights"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A cozy spare bedroom with the door firmly closed and a welcome mat only for family. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Three: no soldiers in the spare room.",
+        "title": "NO SOLDIERS IN THE SPARE ROOM"
+      }
+    },
+    {
+      "id": "RIC8_057",
+      "question": "A political party holds a primary election, then a convention, then campaigns for the general election. The primary's main job is to:",
+      "correctAnswer": "Choose the party's nominees for the general election",
+      "distractors": [
+        "Amend the party's constitution",
+        "Select the Electoral College for the state",
+        "Ratify treaties the party supports"
+      ],
+      "difficulty": "medium",
+      "explanation": "Primaries narrow each party's field to one nominee per office. Winners then face the other parties' nominees in the general election, which actually fills the offices.",
+      "memoryHook": "T-Rexy says: Primaries pick the runners; the general election picks the winners.",
+      "tags": [
+        "elections",
+        "parties"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A funnel narrowing a crowd of candidates down to a single runner at a starting line. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Primaries pick the runners; the general election picks the winners.",
+        "title": "PICKING THE RUNNERS"
+      }
+    },
+    {
+      "id": "RIC8_058",
+      "question": "A lobbyist, a union, a neighborhood association, and a civil-rights group all press Congress on the same bill from different sides. Political scientists group all four under one term for organizations that seek to influence policy without seeking office themselves:",
+      "correctAnswer": "Interest groups",
+      "distractors": [
+        "Political parties",
+        "Electoral colleges",
+        "Caucuses"
+      ],
+      "difficulty": "hard",
+      "explanation": "Interest groups influence policy through lobbying, litigation, and mobilizing members; unlike parties, they do not nominate candidates or seek to govern. Their activity is protected mainly by the First Amendment's petition and assembly clauses.",
+      "memoryHook": "T-Rexy says: Parties run for power; interest groups push on it.",
+      "tags": [
+        "elections",
+        "interest-groups"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Four different colored ropes all pulling gently on the same large bell. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Parties run for power; interest groups push on it.",
+        "title": "PUSHING ON POWER"
+      }
+    },
+    {
+      "id": "RIC8_059",
+      "question": "A new voter asks what she must do BEFORE election day in most states to be allowed to vote. The standard step is:",
+      "correctAnswer": "Register to vote by the state's deadline",
+      "distractors": [
+        "Join a political party",
+        "Pass a civics test at the polls",
+        "Pay a registration fee"
+      ],
+      "difficulty": "easy",
+      "explanation": "Registration - usually weeks before the election - is the near-universal prerequisite (a few states allow election-day registration). Party membership, tests, and fees are not lawful prerequisites.",
+      "memoryHook": "T-Rexy says: Register first, then vote.",
+      "tags": [
+        "elections",
+        "voting"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A clipboard sign-up sheet on a table outside a library, names suggested by lines only. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Register first, then vote.",
+        "title": "REGISTER FIRST"
+      }
+    },
+    {
+      "id": "RIC8_060",
+      "question": "A state runs its own elections, prints its own ballots, and sets its own polling hours, yet Congress can still pass national rules for federal elections. This works because election administration in the U.S. is:",
+      "correctAnswer": "Run by the states under shared constitutional authority with Congress for federal races",
+      "distractors": [
+        "Run entirely by the federal government",
+        "Run by political parties",
+        "Run by county courts alone"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Elections Clause (Article I, section 4) lets states run elections while allowing Congress to alter regulations for federal contests - which is why voting can feel different across state lines within one national election.",
+      "memoryHook": "T-Rexy says: States run the polls; Congress can set federal guardrails.",
+      "tags": [
+        "elections",
+        "federalism"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Many small ballot boxes of different colors arranged under one large national flag. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: States run the polls; Congress can set federal guardrails.",
+        "title": "MANY POLLS, ONE FLAG"
+      }
+    },
+    {
+      "id": "RIC8_061",
+      "question": "A President and a hostile Congress each claim the people are on their side after the midterm elections flip one chamber. The system feature that makes this argument normal - elections at different times for different offices, so no single election controls everything - is called:",
+      "correctAnswer": "Staggered elections within a system of separated institutions sharing powers",
+      "distractors": [
+        "Direct democracy with recall",
+        "Parliamentary fusion of powers",
+        "Proportional representation"
+      ],
+      "difficulty": "hard",
+      "explanation": "House (2 years), President (4), and Senate (6, in thirds) run on different clocks, and each institution is selected separately. Divided government is not a malfunction in this design - it is a predictable product of it.",
+      "memoryHook": "T-Rexy says: Different clocks, shared powers: divided government by design.",
+      "tags": [
+        "structure",
+        "elections"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Three clocks of different sizes on a wall showing different times, all working. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Different clocks, shared powers: divided government by design.",
+        "title": "DIFFERENT CLOCKS"
+      }
+    },
+    {
+      "id": "RIC8_062",
+      "question": "A mayor vetoes a city ordinance, a city council overrides her, and a local judge reviews the result. The same big idea from the national Constitution is at work locally:",
+      "correctAnswer": "Separation of powers with checks and balances",
+      "distractors": [
+        "Nullification",
+        "Secession",
+        "Manifest destiny"
+      ],
+      "difficulty": "easy",
+      "explanation": "Most city and state governments copy the national architecture: separate legislative, executive, and judicial roles that can check one another. The faces change; the structure repeats at every level.",
+      "memoryHook": "T-Rexy says: Same blueprint, smaller building.",
+      "tags": [
+        "structure",
+        "levels"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A small town hall drawn with the same three-column front as a national capitol. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Same blueprint, smaller building.",
+        "title": "SAME BLUEPRINT, SMALLER BUILDING"
+      }
+    },
+    {
+      "id": "RIC8_063",
+      "question": "A defendant in a criminal case and a plaintiff in a civil case both want juries. The key difference between their juries' jobs is that a criminal jury decides:",
+      "correctAnswer": "Guilt or innocence, where the government must prove its case beyond a reasonable doubt",
+      "distractors": [
+        "Who pays damages, by a simple majority of the evidence",
+        "Whether a law is constitutional",
+        "Which sentence the judge must impose in every detail"
+      ],
+      "difficulty": "medium",
+      "explanation": "Criminal convictions require proof beyond a reasonable doubt because liberty is at stake; civil cases use the lower preponderance standard and mostly decide money or orders between private parties.",
+      "memoryHook": "T-Rexy says: Criminal: beyond a reasonable doubt. Civil: damages and orders.",
+      "tags": [
+        "judicial",
+        "trials"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "Two courtroom doors side by side, one with a liberty bell silhouette and one with a coin silhouette. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Criminal: beyond a reasonable doubt. Civil: damages and orders.",
+        "title": "TWO KINDS OF TRIALS"
+      }
+    },
+    {
+      "id": "RIC8_064",
+      "question": "A state court judge is deciding a case that turns only on her state's constitution and a state statute. A lawyer insists the U.S. Supreme Court will reverse her if it dislikes the result. The lawyer is wrong because:",
+      "correctAnswer": "State courts are the final authority on state law when no federal question is involved",
+      "distractors": [
+        "State judges must follow federal judges' preferences",
+        "Every state ruling is automatically reviewed in Washington",
+        "The Supreme Court can rehear any case it finds interesting"
+      ],
+      "difficulty": "medium",
+      "explanation": "Dual court systems mean dual final authorities: the U.S. Supreme Court on federal law, and each state's highest court on that state's law (the doctrine behind 'adequate and independent state grounds').",
+      "memoryHook": "T-Rexy says: State law's last word is spoken in the state.",
+      "tags": [
+        "judicial",
+        "federalism"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A state-shaped courthouse with its own flag flying at full height. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: State law's last word is spoken in the state.",
+        "title": "STATE LAW'S LAST WORD"
+      }
+    },
+    {
+      "id": "RIC8_065",
+      "question": "Congress creates a new federal agency and gives its director a fixed term, removable only 'for cause.' A President objects that this limits the executive power to control administration. The constitutional fight is mainly about which principle?",
+      "correctAnswer": "The separation of powers - how much independence administrators can have from the President",
+      "distractors": [
+        "The Establishment Clause",
+        "The right to bear arms",
+        "The ban on titles of nobility"
+      ],
+      "difficulty": "hard",
+      "explanation": "Cases from Humphrey's Executor to Seila Law debate how far Congress may insulate officials who execute the laws from presidential removal - a structural fight over Article II's executive power versus Congress's power to design offices.",
+      "memoryHook": "T-Rexy says: Who can fire the administrator is a separation-of-powers fight.",
+      "tags": [
+        "structure",
+        "executive"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A seesaw balanced between a columned agency building and a white residence. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Who can fire the administrator is a separation-of-powers fight.",
+        "title": "WHO HOLDS THE LEVER"
+      }
+    },
+    {
+      "id": "RIC8_066",
+      "question": "A class is asked for the main job of the judicial branch. The best one-line answer: the courts' job is to:",
+      "correctAnswer": "Interpret the laws and decide cases under them",
+      "distractors": [
+        "Write the laws",
+        "Enforce the laws day to day",
+        "Command the armed forces"
+      ],
+      "difficulty": "easy",
+      "explanation": "Legislatures make laws, executives enforce them, and courts interpret them in real cases and controversies - the three-job summary of the whole constitutional design.",
+      "memoryHook": "T-Rexy says: Make, enforce, interpret: courts take the third job.",
+      "tags": [
+        "structure",
+        "judicial"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A magnifying glass held over an open law book on a judge's bench. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Make, enforce, interpret: courts take the third job.",
+        "title": "INTERPRET IS THE JOB"
+      }
+    },
+    {
+      "id": "RIC8_067",
+      "question": "A senator is elected in 2026 and will not face the voters again until 2032, while her House colleague faces them in 2028. The difference exists because the Constitution staggers terms to make the Senate:",
+      "correctAnswer": "More insulated and continuous, with only one-third of its seats up every two years",
+      "distractors": [
+        "Older on average than the House",
+        " immune to impeachment",
+        "Elected by state legislatures forever"
+      ],
+      "difficulty": "medium",
+      "explanation": "Six-year staggered Senate terms mean the chamber never turns over at once - a deliberate brake against sudden swings, contrasting with the House's full renewal every two years.",
+      "memoryHook": "T-Rexy says: The Senate changes by thirds, never all at once.",
+      "tags": [
+        "legislative",
+        "structure"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A staircase where only every third step is being replaced at a time. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The Senate changes by thirds, never all at once.",
+        "title": "BY THIRDS, NEVER ALL AT ONCE"
+      }
+    },
+    {
+      "id": "RIC8_068",
+      "question": "A treaty, a veto, a pardon, and an appointment are listed on a quiz. Three belong to the President. The odd one out in terms of who STARTS the process is the appointment of a Supreme Court justice, because it only succeeds with:",
+      "correctAnswer": "Senate confirmation after presidential nomination",
+      "distractors": [
+        "A two-thirds vote of the House",
+        "Approval by the sitting justices",
+        "Ratification by three-fourths of the states"
+      ],
+      "difficulty": "hard",
+      "explanation": "Appointments are a shared power: the President nominates, the Senate confirms by majority. Treaties need two-thirds of the Senate, but vetoes and pardons are the President's alone.",
+      "memoryHook": "T-Rexy says: Nominate in one building, confirm in the other.",
+      "tags": [
+        "executive",
+        "appointments"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": true,
+        "scene": "A sealed nomination envelope being carried from one columned building to another. Include a mature, calm teenage T-Rex dinosaur guide standing at the edge of the scene, smaller than the human figures, green-to-purple gradient scales, orange eyes, no hat, not the main subject. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Nominate in one building, confirm in the other.",
+        "title": "NOMINATE, THEN CONFIRM"
+      }
+    },
+    {
+      "id": "RIC8_069",
+      "question": "A state sets a minimum wage above the federal floor, runs its own environmental rules stricter than federal ones, and legalizes a lottery Washington never authorized. All three are possible because the federal system gives states:",
+      "correctAnswer": "Reserved powers to legislate on matters not exclusively assigned to the national government - as long as they do not violate the Constitution or valid federal law",
+      "distractors": [
+        "Complete immunity from all federal rules",
+        "The power to nullify any federal law they dislike",
+        "Authority to coin money and sign treaties"
+      ],
+      "difficulty": "hard",
+      "explanation": "States keep broad police powers - health, safety, welfare - under the Tenth Amendment. They may exceed federal floors where Congress sets minimums, but they cannot nullify valid federal law or invade exclusive federal fields like coining money or treaties.",
+      "memoryHook": "T-Rexy says: Broad state powers, inside a constitutional fence.",
+      "tags": [
+        "federalism",
+        "state"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A wide green field enclosed by a low stone fence under a large sky. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Broad state powers, inside a constitutional fence.",
+        "title": "BROAD POWERS, CLEAR FENCE"
+      }
+    },
+    {
+      "id": "RIC8_070",
+      "question": "A student says the government 'of the people, by the people, for the people' line comes from the Constitution's text. The line actually closes a famous wartime speech at a cemetery dedication - the:",
+      "correctAnswer": "Gettysburg Address",
+      "distractors": [
+        "Farewell Address",
+        "Emancipation Proclamation",
+        "Federalist No. 10"
+      ],
+      "difficulty": "easy",
+      "explanation": "Lincoln's Gettysburg Address (1863) rededicated the nation to its founding ideals at the dedication of the soldiers' cemetery - the phrase describes democratic government, but it is not a quotation from the Constitution.",
+      "memoryHook": "T-Rexy says: Gettysburg, not the Constitution, gave us that line.",
+      "tags": [
+        "history",
+        "lincoln"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Rows of white headstones on a green hill with a lone speaker's platform in the distance. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Gettysburg, not the Constitution, gave us that line.",
+        "title": "GETTYSBURG'S LINE"
+      }
+    },
+    {
+      "id": "RIC8_071",
+      "question": "In 1636 a minister banished from Massachusetts Bay founded a settlement built on a radical idea: government should not punish people for their religious beliefs. The founder of Providence was:",
+      "correctAnswer": "Roger Williams",
+      "distractors": [
+        "John Winthrop",
+        "William Bradford",
+        "Thomas Hooker"
+      ],
+      "difficulty": "easy",
+      "explanation": "Williams was banished for arguing that magistrates had no authority over conscience and that land must be bought fairly from Native peoples. Providence, founded 1636, put 'soul liberty' into practice a century before the First Amendment.",
+      "memoryHook": "T-Rexy says: Williams: banished for conscience, founder for freedom.",
+      "tags": [
+        "rhode-island",
+        "founding"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A lone traveler with a staff and a small boat arriving at a wooded river shore at dawn. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Williams: banished for conscience, founder for freedom.",
+        "title": "THE BANISHED FOUNDER"
+      }
+    },
+    {
+      "id": "RIC8_072",
+      "question": "A woman preacher in Boston was put on trial for her religious meetings, banished, and helped found Portsmouth in 1638 on Aquidneck Island. She was:",
+      "correctAnswer": "Anne Hutchinson",
+      "distractors": [
+        "Mary Dyer",
+        "Deborah Sampson",
+        "Mercy Otis Warren"
+      ],
+      "difficulty": "medium",
+      "explanation": "Hutchinson's Antinomian meetings challenged Puritan authorities; after her 1637 trial and banishment she co-founded Portsmouth under the Portsmouth Compact. She is an early American voice for religious conscience - and an early example of its price.",
+      "memoryHook": "T-Rexy says: Hutchinson spoke, was banished, and founded Portsmouth.",
+      "tags": [
+        "rhode-island",
+        "founding"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A woman addressing a small gathering inside a candlelit colonial meeting room. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Hutchinson spoke, was banished, and founded Portsmouth.",
+        "title": "THE PORSTMOUTH FOUNDER"
+      }
+    },
+    {
+      "id": "RIC8_073",
+      "question": "Rhode Island's 1663 document from King Charles II was so protective of religious freedom and self-government that the colony kept using it as its basic law until 1843. It was the:",
+      "correctAnswer": "Royal Charter of 1663",
+      "distractors": [
+        "Providence Plantations Patent of 1643",
+        "Fundamental Orders of 1639",
+        "Dominion Charter of 1686"
+      ],
+      "difficulty": "medium",
+      "explanation": "The 1663 charter guaranteed 'full liberty in religious concernments' and let the colony elect its own governor - freedoms so complete that Rhode Island treated the charter as its constitution for 180 years, long after independence.",
+      "memoryHook": "T-Rexy says: A king's charter so free it served as a constitution.",
+      "tags": [
+        "rhode-island",
+        "charter"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "An ornate sealed parchment being carried carefully into a small colonial assembly room. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: A king's charter so free it served as a constitution.",
+        "title": "THE CHARTER THAT LASTED"
+      }
+    },
+    {
+      "id": "RIC8_074",
+      "question": "Rhode Islanders in 1772 rowed out at night, lured a British customs ship onto a sandbar, shot its captain, and burned it to the waterline - a year before the Boston Tea Party. The ship was the:",
+      "correctAnswer": "HMS Gaspee",
+      "distractors": [
+        "HMS Somerset",
+        "HMS Bounty",
+        "USS Constitution"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Gaspee Affair (June 1772) in Narragansett Bay was among the first acts of open violent resistance to British authority. Britain's commission of inquiry never identified the attackers - Rhode Islanders closed ranks and stayed silent.",
+      "memoryHook": "T-Rexy says: Gaspee burned first; Boston brewed tea later.",
+      "tags": [
+        "rhode-island",
+        "revolution"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A small sailing ship burning at night on a sandbar while rowboats pull away in the dark. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Gaspee burned first; Boston brewed tea later.",
+        "title": "THE BURNING SCHOONER"
+      }
+    },
+    {
+      "id": "RIC8_075",
+      "question": "On May 4, 1776 - two full months before July 4 - Rhode Island's General Assembly did something no colony had yet formally done. It:",
+      "correctAnswer": "Renounced allegiance to King George III",
+      "distractors": [
+        "Ratified the Articles of Confederation",
+        "Abolished slavery statewide",
+        "Sent delegates to sign the Declaration of Independence"
+      ],
+      "difficulty": "medium",
+      "explanation": "Rhode Island was the first colony to formally renounce its allegiance to the Crown. Its later nickname 'Rogue Island' in ratification fights should not hide how early it broke with Britain.",
+      "memoryHook": "T-Rexy says: First to renounce the king: May 4, 1776.",
+      "tags": [
+        "rhode-island",
+        "revolution"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A colonial assembly hall with a crown emblem being taken down from the wall. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: First to renounce the king: May 4, 1776.",
+        "title": "FIRST TO RENOUNCE"
+      }
+    },
+    {
+      "id": "RIC8_076",
+      "question": "When the Constitutional Convention met in 1787, one state refused to send any delegates at all - and then became the LAST of the thirteen to ratify, holding out until May 29, 1790, and then only by a 34-32 vote. That state was:",
+      "correctAnswer": "Rhode Island",
+      "distractors": [
+        "Delaware",
+        "Georgia",
+        "Connecticut"
+      ],
+      "difficulty": "hard",
+      "explanation": "Rhode Island, dominated by country-party debtors who liked paper money and feared a strong national government, boycotted Philadelphia and ratified only under threat of being treated as a foreign nation - after the Bill of Rights was already moving through Congress.",
+      "memoryHook": "T-Rexy says: Last in, by two votes: Rhode Island, 1790.",
+      "tags": [
+        "rhode-island",
+        "ratification"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "An empty chair at a convention table with thirteen places set. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Last in, by two votes: Rhode Island, 1790.",
+        "title": "THE EMPTY CHAIR"
+      }
+    },
+    {
+      "id": "RIC8_077",
+      "question": "A civics class in Providence studies the smallest state in the Union by land area. Rhode Island's official nickname, earned from its long coastline on Narragansett Bay relative to its size, is:",
+      "correctAnswer": "The Ocean State",
+      "distractors": [
+        "The Pine Tree State",
+        "The Granite State",
+        "The Bay State"
+      ],
+      "difficulty": "easy",
+      "explanation": "Rhode Island covers only about 1,214 square miles total, yet has roughly 400 miles of shoreline when the bay's inlets are counted - hence the Ocean State (and the affectionate 'Little Rhody'). Massachusetts is the Bay State; Maine the Pine Tree State; New Hampshire the Granite State.",
+      "memoryHook": "T-Rexy says: Smallest state, biggest shoreline ratio: the Ocean State.",
+      "tags": [
+        "rhode-island",
+        "symbols"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A tiny state-shaped island almost entirely ringed by sparkling coastline. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Smallest state, biggest shoreline ratio: the Ocean State.",
+        "title": "THE OCEAN STATE"
+      }
+    },
+    {
+      "id": "RIC8_078",
+      "question": "Rhode Island's state motto is a single word that also names what its flag's golden anchor stands for. The motto is:",
+      "correctAnswer": "Hope",
+      "distractors": [
+        "Independence",
+        "Industry",
+        "Perseverance"
+      ],
+      "difficulty": "easy",
+      "explanation": "'Hope' has been Rhode Island's motto since the colonial era and sits beneath the anchor on the state flag and seal - fitting for a colony founded by people hoping to worship freely.",
+      "memoryHook": "T-Rexy says: One word says it: Hope.",
+      "tags": [
+        "rhode-island",
+        "symbols"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A golden anchor standing upright on a rocky shore with calm water behind it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: One word says it: Hope.",
+        "title": "HOPE AND THE ANCHOR"
+      }
+    },
+    {
+      "id": "RIC8_079",
+      "question": "Atop the marble dome of the Rhode Island State House in Providence stands a gilded figure symbolizing the state's founding spirit. The statue is called:",
+      "correctAnswer": "The Independent Man",
+      "distractors": [
+        "The Minute Man",
+        "Lady Liberty of Providence",
+        "The Hope Anchor"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Independent Man (1899) tops one of the largest self-supported marble domes in the world. He represents the independent, conscience-driven spirit of Roger Williams's colony.",
+      "memoryHook": "T-Rexy says: Independent Man watches over Providence.",
+      "tags": [
+        "rhode-island",
+        "symbols"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A gilded human figure standing atop a great white marble dome against the sky. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Independent Man watches over Providence.",
+        "title": "THE INDEPENDENT MAN"
+      }
+    },
+    {
+      "id": "RIC8_080",
+      "question": "In 2020 Rhode Island voters approved a referendum changing the state's official name by removing three words that carried slavery associations. The words removed from 'State of Rhode Island and Providence Plantations' were:",
+      "correctAnswer": "'and Providence Plantations'",
+      "distractors": [
+        "'and Aquidneck Island'",
+        "'and Narragansett Bay'",
+        "'and Roger Williams'"
+      ],
+      "difficulty": "medium",
+      "explanation": "The 2020 ballot measure shortened the official name to the 'State of Rhode Island.' 'Plantations' in 1636 meant settlements, but voters decided its slavery-era echo was reason enough to drop it.",
+      "memoryHook": "T-Rexy says: Voters shortened the name in 2020.",
+      "tags": [
+        "rhode-island",
+        "symbols"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A ballot being marked at a polling place table with a state flag hanging nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Voters shortened the name in 2020.",
+        "title": "THE NAME ON THE BALLOT"
+      }
+    },
+    {
+      "id": "RIC8_081",
+      "question": "Rhode Island's lawmaking body - a Senate and a House of Representatives meeting at the State House in Providence - is called the:",
+      "correctAnswer": "General Assembly",
+      "distractors": [
+        "General Court",
+        "Legislative Assembly",
+        "State Congress"
+      ],
+      "difficulty": "easy",
+      "explanation": "Rhode Island's legislature has carried the colonial name 'General Assembly' since the 1663 charter era. It has 38 senators and 75 representatives, all elected to two-year terms.",
+      "memoryHook": "T-Rexy says: General Assembly: 38 plus 75, two-year terms.",
+      "tags": [
+        "rhode-island",
+        "legislature"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A columned state house with two chamber doors open on opposite sides. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: General Assembly: 38 plus 75, two-year terms.",
+        "title": "THE GENERAL ASSEMBLY"
+      }
+    },
+    {
+      "id": "RIC8_082",
+      "question": "A bill passes the Rhode Island House 60-15 and the Senate 30-8, but the governor vetoes it. To enact it anyway, the General Assembly must override with:",
+      "correctAnswer": "Three-fifths of the members present in each chamber",
+      "distractors": [
+        "A simple majority in each chamber",
+        "Two-thirds of all voters in a referendum",
+        "The lieutenant governor's tie-breaking vote in both chambers"
+      ],
+      "difficulty": "medium",
+      "explanation": "Rhode Island's override threshold is three-fifths of members present in each house - lower than the federal two-thirds. Present-and-voting is the key phrase; absent members do not count in the fraction.",
+      "memoryHook": "T-Rexy says: Three-fifths present can override in Rhode Island.",
+      "tags": [
+        "rhode-island",
+        "legislature"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A veto stamp being lifted away as hands rise in a legislative chamber. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Three-fifths present can override in Rhode Island.",
+        "title": "THREE-FIFTHS OVERRIDE"
+      }
+    },
+    {
+      "id": "RIC8_083",
+      "question": "Unlike the U.S. President, Rhode Island's governor does NOT appoint all of the state's top executive officers. Attorney General, Secretary of State, General Treasurer, and Lieutenant Governor in Rhode Island are each:",
+      "correctAnswer": "Elected directly by the voters to four-year terms",
+      "distractors": [
+        "Appointed by the governor and confirmed by the Senate",
+        "Chosen by the General Assembly from its own members",
+        "Appointed by the Supreme Court for life"
+      ],
+      "difficulty": "hard",
+      "explanation": "Rhode Island elects five general officers separately, all to four-year terms - a deliberately divided executive. A governor can face an attorney general of another party, a check no appointment power removes.",
+      "memoryHook": "T-Rexy says: Five officers, five separate elections.",
+      "tags": [
+        "rhode-island",
+        "executive"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Five separate ballot papers fanned out on a table at a polling station. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Five officers, five separate elections.",
+        "title": "FIVE SEPARATE ELECTIONS"
+      }
+    },
+    {
+      "id": "RIC8_084",
+      "question": "Rhode Island's governor serves a four-year term - and since a 1994 constitutional change, may serve no more than:",
+      "correctAnswer": "Two consecutive terms",
+      "distractors": [
+        "One term",
+        "Three consecutive terms",
+        "Four consecutive terms"
+      ],
+      "difficulty": "hard",
+      "explanation": "Before 1994, Rhode Island governors served two-year terms with no limit. The modern rule pairs the four-year term with a two-consecutive-term cap (the same limit applies to the other general officers).",
+      "memoryHook": "T-Rexy says: Four-year terms, two in a row at most.",
+      "tags": [
+        "rhode-island",
+        "executive"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Two hourglasses standing side by side on a governor's desk, a third lying out of reach. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Four-year terms, two in a row at most.",
+        "title": "TWO TERMS IN A ROW"
+      }
+    },
+    {
+      "id": "RIC8_085",
+      "question": "A Rhode Island judge is accused of misconduct after twenty years on the bench. Colleagues in most states would ask when her term ends - but Rhode Island Supreme Court and Superior Court judges do not face re-election or fixed terms because they serve:",
+      "correctAnswer": "For life, during good behavior, unless removed by impeachment or the judicial discipline process",
+      "distractors": [
+        "Eight-year terms renewable by the governor",
+        "Ten-year terms renewable by referendum",
+        "Terms ending automatically at age 65"
+      ],
+      "difficulty": "hard",
+      "explanation": "Rhode Island is one of the few states with life tenure for its higher judges: the governor nominates from Judicial Nominating Commission lists, the General Assembly confirms, and judges then serve for life - trading electoral accountability for independence.",
+      "memoryHook": "T-Rexy says: Rhode Island's higher judges serve for life.",
+      "tags": [
+        "rhode-island",
+        "judiciary"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A judge's bench with a calendar showing no end date, gavel resting beside it. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Rhode Island's higher judges serve for life.",
+        "title": "LIFE ON THE BENCH"
+      }
+    },
+    {
+      "id": "RIC8_086",
+      "question": "A student maps Rhode Island's five counties - Bristol, Kent, Newport, Providence, and Washington - and asks what each county government does. The surprising answer: Rhode Island counties have:",
+      "correctAnswer": "No county government at all - they are geographic names only",
+      "distractors": [
+        "A county executive and council in each county",
+        "Their own county school systems",
+        "County sheriffs who run the state police"
+      ],
+      "difficulty": "easy",
+      "explanation": "Rhode Island (like Connecticut) abolished county government; counties survive as map labels and court districts. Real local government happens in the 39 cities and towns - mayors, councils, and town administrators.",
+      "memoryHook": "T-Rexy says: Five counties, zero county governments.",
+      "tags": [
+        "rhode-island",
+        "local"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A map outline divided into five regions with town halls marked but no county buildings. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Five counties, zero county governments.",
+        "title": "COUNTIES WITHOUT GOVERNMENTS"
+      }
+    },
+    {
+      "id": "RIC8_087",
+      "question": "Counting every municipality in the state - from Providence, the capital and largest city, down to tiny towns - Rhode Island has exactly:",
+      "correctAnswer": "39 cities and towns",
+      "distractors": [
+        "19 cities and towns",
+        "59 cities and towns",
+        "92 cities and towns"
+      ],
+      "difficulty": "easy",
+      "explanation": "All Rhode Island land sits inside one of 39 municipalities (8 cities and 31 towns). There is no unincorporated territory and no county layer between the towns and the state.",
+      "memoryHook": "T-Rexy says: Thirty-nine: every inch of Rhode Island is in one.",
+      "tags": [
+        "rhode-island",
+        "local"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A patchwork map of many small town shapes fitting together with no gaps. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Thirty-nine: every inch of Rhode Island is in one.",
+        "title": "THIRTY-NINE PATCHES"
+      }
+    },
+    {
+      "id": "RIC8_088",
+      "question": "Voters in many western states can place a law on the ballot themselves by collecting signatures - a citizen initiative. Rhode Islanders CANNOT, because Rhode Island provides only:",
+      "correctAnswer": "A referendum on measures referred by the General Assembly",
+      "distractors": [
+        "A citizen initiative with a 5 percent signature threshold",
+        "A recall for state officers",
+        "A veto referendum on every enacted law"
+      ],
+      "difficulty": "medium",
+      "explanation": "Rhode Island has the referendum (the Assembly sends constitutional amendments and bond questions to voters) but no initiative and no recall of state officers. Changing a law against the Assembly's will requires electing a new Assembly.",
+      "memoryHook": "T-Rexy says: No initiative in Rhode Island: persuade the Assembly or replace it.",
+      "tags": [
+        "rhode-island",
+        "direct-democracy"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A locked ballot box with a sign-up sheet that can only be opened from inside a legislative hall. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: No initiative in Rhode Island: persuade the Assembly or replace it.",
+        "title": "NO INITIATIVE HERE"
+      }
+    },
+    {
+      "id": "RIC8_089",
+      "question": "In the winter of 1841-42, two rival governments claimed to rule Rhode Island: the charter government, and one elected under a 'People's Constitution' extending voting rights beyond the 1663 charter's landowners. The episode - ending with its leader convicted of treason against the state - is the:",
+      "correctAnswer": "Dorr Rebellion",
+      "distractors": [
+        "Shays' Rebellion",
+        "Whiskey Rebellion",
+        "Nat Turner's Rebellion"
+      ],
+      "difficulty": "hard",
+      "explanation": "Thomas Wilson Dorr's rebellion exposed that the colonial charter still limited suffrage to landowners in 1841. Though Dorr was imprisoned, the pressure forced the 1843 constitution, which widened voting rights - Rhode Island's first written constitution.",
+      "memoryHook": "T-Rexy says: Dorr lost the rebellion and won the constitution.",
+      "tags": [
+        "rhode-island",
+        "history"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Two rival assembly groups meeting in two different halls of the same small city, winter light. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Dorr lost the rebellion and won the constitution.",
+        "title": "TWO GOVERNMENTS, ONE STATE"
+      }
+    },
+    {
+      "id": "RIC8_090",
+      "question": "Before 1843, Rhode Island had no document actually CALLED a constitution - yet it was governed, courts sat, and assemblies met for 180 years. Its basic law during all that time was:",
+      "correctAnswer": "The Royal Charter of 1663",
+      "distractors": [
+        "The Mayflower Compact",
+        "The Articles of Confederation",
+        "An unwritten tradition with no document"
+      ],
+      "difficulty": "medium",
+      "explanation": "Because the 1663 charter already allowed an elected governor and assembly and protected conscience, Rhode Island simply kept it after independence - the last state to replace a colonial charter with a constitution (1843).",
+      "memoryHook": "T-Rexy says: A charter did a constitution's job for 180 years.",
+      "tags": [
+        "rhode-island",
+        "charter"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "An old charter parchment displayed beside a newer constitution book in a glass case. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: A charter did a constitution's job for 180 years.",
+        "title": "CHARTER INTO CONSTITUTION"
+      }
+    },
+    {
+      "id": "RIC8_091",
+      "question": "Rhode Island law (section 16-22-2) requires every public middle and high school student to graduate having done two civics things: demonstrate proficiency in civics, and complete at least one:",
+      "correctAnswer": "Student-led civics project",
+      "distractors": [
+        "Year of military service",
+        "Semester interning for a legislator",
+        "Published letter to a newspaper"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Civic Literacy Act requires demonstrated civics proficiency (counting as a half credit in history/social studies) AND at least one student-led civics project during middle or high school, provided by every district.",
+      "memoryHook": "T-Rexy says: Proficiency plus a project: that is the Rhode Island rule.",
+      "tags": [
+        "rhode-island",
+        "civics-law"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Students presenting a community project poster to neighbors in a school hall, poster artwork abstract with no words. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Proficiency plus a project: that is the Rhode Island rule.",
+        "title": "PROFICIENCY PLUS A PROJECT"
+      }
+    },
+    {
+      "id": "RIC8_092",
+      "question": "A Rhode Island 17-year-old wants to vote in November's presidential election but never registered. Rhode Island's registration deadline is normally 30 days before an election - with ONE exception letting eligible voters register on election day itself, only for:",
+      "correctAnswer": "President and Vice President",
+      "distractors": [
+        "Governor",
+        "Mayor",
+        "School committee"
+      ],
+      "difficulty": "medium",
+      "explanation": "Rhode Island's constitution allows same-day registration at city or town hall solely for presidential elections. For governor, mayor, and every other office, the 30-day deadline is firm - plus Rhode Island offers about 20 days of in-person early voting.",
+      "memoryHook": "T-Rexy says: Election-day registration: presidential races only.",
+      "tags": [
+        "rhode-island",
+        "voting"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A voter arriving at a town hall desk on election day with a ballot for a national race only. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Election-day registration: presidential races only.",
+        "title": "PRESIDENTIAL ONLY"
+      }
+    },
+    {
+      "id": "RIC8_093",
+      "question": "Rhode Island was the first state to require photo ID at the polls in a form later copied nationally - but its 2011 voter ID law includes a safety valve many stricter laws lack. A voter with no photo ID may still cast:",
+      "correctAnswer": "A provisional ballot that counts if the voter's signature matches registration records",
+      "distractors": [
+        "No ballot under any circumstances",
+        "A ballot only if a poll worker knows them personally",
+        "A ballot valid only in the next election"
+      ],
+      "difficulty": "hard",
+      "explanation": "The 2011 law phased in photo ID (2014) with free state IDs available, and kept a provisional-ballot path verified by signature comparison - a design courts and later states studied when balancing access against security.",
+      "memoryHook": "T-Rexy says: No ID is not automatically no vote in Rhode Island.",
+      "tags": [
+        "rhode-island",
+        "voting"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A voter signing a paper form at a polling table while an official compares it to a record card. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: No ID is not automatically no vote in Rhode Island.",
+        "title": "THE SIGNATURE SAFETY VALVE"
+      }
+    },
+    {
+      "id": "RIC8_094",
+      "question": "In 1790 in Pawtucket, a mechanic who had memorized the designs of British textile machines built the first successful water-powered cotton-spinning mill in the United States, launching the American Industrial Revolution. He was:",
+      "correctAnswer": "Samuel Slater",
+      "distractors": [
+        "Eli Whitney",
+        "Robert Fulton",
+        "Cyrus McCormick"
+      ],
+      "difficulty": "medium",
+      "explanation": "Slater's Mill on the Blackstone River made Pawtucket the birthplace of American manufacturing; British newspapers called him 'Slater the Traitor' for exporting the guarded technology in his memory.",
+      "memoryHook": "T-Rexy says: Slater's memory carried an industry across the ocean.",
+      "tags": [
+        "rhode-island",
+        "history"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A brick mill building beside a river with a large waterwheel turning. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Slater's memory carried an industry across the ocean.",
+        "title": "THE FIRST MILL"
+      }
+    },
+    {
+      "id": "RIC8_095",
+      "question": "Long before colonization, the Indigenous nation whose name Rhode Island's largest bay carries governed the lands around it; today it is a federally recognized tribe (1983) with a reservation in Charlestown. The nation is the:",
+      "correctAnswer": "Narragansett Tribe",
+      "distractors": [
+        "Wampanoag Tribe of Gay Head",
+        "Mohegan Tribe",
+        "Pequot Tribe"
+      ],
+      "difficulty": "medium",
+      "explanation": "Narragansett Bay keeps the nation's name on every map. The Narragansett Tribe regained federal recognition in 1983 under the Rhode Island Indian Claims Settlement Act framework (1978) - the first eastern land-claims settlement of its kind.",
+      "memoryHook": "T-Rexy says: The bay itself carries the Narragansett name.",
+      "tags": [
+        "rhode-island",
+        "tribal"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A wide bay at sunrise with a wooded shoreline and a small tribal community hall in the distance. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The bay itself carries the Narragansett name.",
+        "title": "THE BAY'S FIRST NATION"
+      }
+    },
+    {
+      "id": "RIC8_096",
+      "question": "Rhode Island passed one of the colonies' earliest laws against slavery in 1652 - and also became a central hub of the transatlantic slave trade, with Rhode Island ships carrying a majority of American-flagged slave voyages. The honest summary of this record is that Rhode Island's history holds:",
+      "correctAnswer": "Both an early anti-slavery statute and deep, profitable involvement in slavery and the slave trade",
+      "distractors": [
+        "A clean record of opposing slavery from the start",
+        "No connection to slavery at all",
+        "Only southern colonies were involved in the trade"
+      ],
+      "difficulty": "hard",
+      "explanation": "Providence and Newport merchants, rum distilleries, and the DeWolf family of Bristol made Rhode Island central to the 'triangle trade,' even as its 1652 law and 1784 gradual-emancipation act pointed the other way. Rhode Island standards teach both halves.",
+      "memoryHook": "T-Rexy says: Both halves are Rhode Island history - the law and the trade.",
+      "tags": [
+        "rhode-island",
+        "history"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A colonial port with merchant ships at anchor, warehouses and a church steeple behind them, somber light. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Both halves are Rhode Island history - the law and the trade.",
+        "title": "A PORT WITH TWO RECORDS"
+      }
+    },
+    {
+      "id": "RIC8_097",
+      "question": "Rhode Island's most famous Revolutionary regiment - raised in 1778 and remembered as one of the first units in which enslaved men could earn freedom through service - was the:",
+      "correctAnswer": "1st Rhode Island Regiment",
+      "distractors": [
+        "54th Massachusetts Regiment",
+        "Rhode Island Rangers militia",
+        "Continental Marines"
+      ],
+      "difficulty": "easy",
+      "explanation": "Enslaved Rhode Islanders who enlisted in the 1st Rhode Island Regiment were freed by the act that created the unit; the regiment fought at the Battle of Rhode Island (1778) and through Yorktown. The 54th Massachusetts belongs to the Civil War, eighty-five years later.",
+      "memoryHook": "T-Rexy says: Freedom through service: the 1st Rhode Island, 1778.",
+      "tags": [
+        "rhode-island",
+        "revolution"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Revolutionary-era soldiers in formation at dawn beside a bay, flags raised. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Freedom through service: the 1st Rhode Island, 1778.",
+        "title": "THE FIRST RHODE ISLAND"
+      }
+    },
+    {
+      "id": "RIC8_098",
+      "question": "A Newport-born commodore's 1853-54 expedition opened trade between the United States and a long-closed Japan - an event Rhode Island's older standards used to teach how small-state Rhode Islanders shaped world events. The commodore was:",
+      "correctAnswer": "Matthew Perry",
+      "distractors": [
+        "Stephen Decatur",
+        "Oliver Hazard Perry",
+        "John Paul Jones"
+      ],
+      "difficulty": "medium",
+      "explanation": "Matthew Calbraith Perry of Newport negotiated the Convention of Kanagawa (1854). His brother Oliver Hazard Perry won fame on Lake Erie in 1813 - the two Newport brothers are a classic Rhode Island exam trap.",
+      "memoryHook": "T-Rexy says: Matthew opened Japan; Oliver won Lake Erie.",
+      "tags": [
+        "rhode-island",
+        "history"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Tall ships with black hulls anchored in a calm bay facing a distant shoreline. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Matthew opened Japan; Oliver won Lake Erie.",
+        "title": "THE NEWPORT COMMODORE"
+      }
+    },
+    {
+      "id": "RIC8_099",
+      "question": "Every ten years, Rhode Island voters automatically face a ballot question most states never ask: 'Shall there be a convention to amend or revise the Constitution?' If voters call a convention (as they did in 1984, leading to the 1986 constitutional convention), the changes it proposes become part of the constitution only after:",
+      "correctAnswer": "Approval by a majority of the electors voting on them at an election",
+      "distractors": [
+        "The governor signs them into effect",
+        "Three-fifths of the General Assembly ratifies them",
+        "A majority of the state's 39 city and town councils adopts them"
+      ],
+      "difficulty": "hard",
+      "explanation": "Article XIV, section 2 puts the people at both ends of the convention route: the electors decide whether to call a convention (the question is submitted automatically every ten years if the General Assembly has not submitted it), and no convention revision or amendment takes effect until the electors approve it by majority vote. The ordinary route in section 1 is parallel: the Assembly proposes by roll-call majority of the members elected to each house, and the electors approve by majority.",
+      "memoryHook": "T-Rexy says: The people call the convention, and the people ratify its work.",
+      "tags": [
+        "rhode-island",
+        "constitution"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A ballot question being presented to a line of voters outside a state house, a calendar wheel behind them suggesting a ten-year cycle. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: The people call the convention, and the people ratify its work.",
+        "title": "THE PEOPLE DECIDE TWICE"
+      }
+    },
+    {
+      "id": "RIC8_100",
+      "question": "A civics student argues Rhode Island proves big constitutional ideas can come from the smallest places. Her strongest single example: the colony that was last to join the Union also gave America one of its founding principles a century before the Bill of Rights - namely, that:",
+      "correctAnswer": "Government has no authority over religious conscience - 'soul liberty' - practiced in the 1636 Providence settlement and protected in the 1663 charter",
+      "distractors": [
+        "States may nullify federal laws they consider unjust",
+        "Every citizen has a right to a state-provided income",
+        "Religious tests are required for public office"
+      ],
+      "difficulty": "hard",
+      "explanation": "Williams's 'soul liberty' - separating civil authority from conscience - ran from Providence (1636) through the charter (1663) into the intellectual stream that produced the First Amendment's religion clauses. Rhode Island's size never limited its exports of ideas.",
+      "memoryHook": "T-Rexy says: Smallest state, founding-sized idea: soul liberty.",
+      "tags": [
+        "rhode-island",
+        "founding"
+      ],
+      "imageUrl": "topic:rhode-island-civics",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "A small lighthouse-like beacon of warm light on a tiny island lighting a whole dark bay. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "T-Rexy says: Smallest state, founding-sized idea: soul liberty.",
+        "title": "SMALL STATE, FOUNDING IDEA"
+      }
+    }
+  ]
+}
