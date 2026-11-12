@@ -24,7 +24,7 @@
         "0.067 m/s"
       ],
       "explanation": "Velocity = displacement / time = 60 m / 4 s = 15 m/s.",
-      "memoryHook": "T-Rexy says: Divide distance by time to find velocity.",
+      "memoryHook": "Divide distance by time to find velocity.",
       "imageUrl": "topic:velocity",
       "tags": [
         "kinematics"
@@ -43,7 +43,7 @@
         "25 m/s"
       ],
       "explanation": "v = v0 + at = 0 + (2)(5) = 10 m/s.",
-      "memoryHook": "T-Rexy says: Multiply acceleration by time when starting from rest.",
+      "memoryHook": "Multiply acceleration by time when starting from rest.",
       "imageUrl": "topic:acceleration",
       "tags": [
         "kinematics"
@@ -62,7 +62,7 @@
         "An acceleration-time graph with a curved line"
       ],
       "explanation": "Constant acceleration means velocity changes at a steady rate, so the v-t graph is a straight line with constant slope.",
-      "memoryHook": "T-Rexy says: Constant acceleration means a straight sloped v-t line.",
+      "memoryHook": "Constant acceleration means a straight sloped v-t line.",
       "imageUrl": "topic:graphs",
       "tags": [
         "kinematics"
@@ -81,7 +81,7 @@
         "5 m"
       ],
       "explanation": "d = (1/2)gt^2 = (1/2)(10)(4) = 20 m.",
-      "memoryHook": "T-Rexy says: Half g times time squared gives the fall distance.",
+      "memoryHook": "Half g times time squared gives the fall distance.",
       "imageUrl": "topic:free-fall",
       "tags": [
         "kinematics"
@@ -100,7 +100,7 @@
         "Depends on the cliff height"
       ],
       "explanation": "Horizontal launch means the initial velocity is purely horizontal; the vertical component starts at zero.",
-      "memoryHook": "T-Rexy says: Horizontal launch starts with zero vertical speed.",
+      "memoryHook": "Horizontal launch starts with zero vertical speed.",
       "imageUrl": "topic:projectile",
       "tags": [
         "kinematics"
@@ -119,7 +119,7 @@
         "Becomes zero at the top"
       ],
       "explanation": "No horizontal force acts, so horizontal velocity never changes.",
-      "memoryHook": "T-Rexy says: No horizontal force means no horizontal change.",
+      "memoryHook": "No horizontal force means no horizontal change.",
       "imageUrl": "topic:projectile",
       "tags": [
         "kinematics"
@@ -138,7 +138,7 @@
         "9.8 m/s"
       ],
       "explanation": "At the peak, the object momentarily stops moving vertically before falling back down.",
-      "memoryHook": "T-Rexy says: The peak is where vertical motion pauses.",
+      "memoryHook": "The peak is where vertical motion pauses.",
       "imageUrl": "topic:projectile",
       "tags": [
         "kinematics"
@@ -157,7 +157,7 @@
         "8 m/s^2"
       ],
       "explanation": "a = (v - v0)/t = (30 - 10)/4 = 5 m/s^2.",
-      "memoryHook": "T-Rexy says: Change in velocity divided by time is acceleration.",
+      "memoryHook": "Change in velocity divided by time is acceleration.",
       "imageUrl": "topic:acceleration",
       "tags": [
         "kinematics"
@@ -176,7 +176,7 @@
         "kg"
       ],
       "explanation": "Acceleration is change in velocity per time, so meters per second squared.",
-      "memoryHook": "T-Rexy says: Acceleration units are meters per second squared.",
+      "memoryHook": "Acceleration units are meters per second squared.",
       "imageUrl": "topic:units",
       "tags": [
         "kinematics"
@@ -195,7 +195,7 @@
         "Increasing"
       ],
       "explanation": "Constant velocity means no change in velocity, so acceleration is zero.",
-      "memoryHook": "T-Rexy says: No change in velocity means zero acceleration.",
+      "memoryHook": "No change in velocity means zero acceleration.",
       "imageUrl": "topic:acceleration",
       "tags": [
         "kinematics"
@@ -214,7 +214,7 @@
         "20 s"
       ],
       "explanation": "t = v/g = 20/10 = 2 s at the top where v = 0.",
-      "memoryHook": "T-Rexy says: Launch speed divided by g gives time to the top.",
+      "memoryHook": "Launch speed divided by g gives time to the top.",
       "imageUrl": "topic:free-fall",
       "tags": [
         "kinematics"
@@ -233,7 +233,7 @@
         "It depends on their shape"
       ],
       "explanation": "Mass does not affect free-fall acceleration; both accelerate at g.",
-      "memoryHook": "T-Rexy says: Mass does not matter in free fall.",
+      "memoryHook": "Mass does not matter in free fall.",
       "imageUrl": "topic:free-fall",
       "tags": [
         "kinematics"
@@ -252,7 +252,7 @@
         "15 m/s"
       ],
       "explanation": "Average velocity is total displacement divided by total time. The car keeps moving the same way, so displacement is 100 + 100 = 200 m and time is 5 + 10 = 15 s: 200 / 15 = 13.3 m/s. Do not average 20 m/s and 10 m/s - the car spends longer at the slower speed.",
-      "memoryHook": "T-Rexy says: Total displacement over total time, not an average of speeds.",
+      "memoryHook": "Total displacement over total time, not an average of speeds.",
       "imageUrl": "topic:velocity",
       "tags": [
         "kinematics"
@@ -271,7 +271,7 @@
         "Jerk"
       ],
       "explanation": "Area under v-t = velocity times time = displacement.",
-      "memoryHook": "T-Rexy says: Area under v-t is displacement.",
+      "memoryHook": "Area under v-t is displacement.",
       "imageUrl": "topic:graphs",
       "tags": [
         "kinematics"
@@ -290,7 +290,7 @@
         "Force"
       ],
       "explanation": "Slope of x-t = change in position over time = velocity.",
-      "memoryHook": "T-Rexy says: Slope of position-time is velocity.",
+      "memoryHook": "Slope of position-time is velocity.",
       "imageUrl": "topic:graphs",
       "tags": [
         "kinematics"
@@ -309,7 +309,7 @@
         "Conservation of energy"
       ],
       "explanation": "The first law states objects resist changes in motion, which is inertia.",
-      "memoryHook": "T-Rexy says: First law equals inertia.",
+      "memoryHook": "First law equals inertia.",
       "imageUrl": "topic:newton-laws",
       "tags": [
         "dynamics"
@@ -328,7 +328,7 @@
         "24 m/s^2"
       ],
       "explanation": "a = F/m = 20/4 = 5 m/s^2.",
-      "memoryHook": "T-Rexy says: Force divided by mass is acceleration.",
+      "memoryHook": "Force divided by mass is acceleration.",
       "imageUrl": "topic:newton-laws",
       "tags": [
         "dynamics"
@@ -347,7 +347,7 @@
         "The direction of motion"
       ],
       "explanation": "For every action there is an equal and opposite reaction.",
-      "memoryHook": "T-Rexy says: Action-reaction pairs are equal and opposite.",
+      "memoryHook": "Action-reaction pairs are equal and opposite.",
       "imageUrl": "topic:newton-laws",
       "tags": [
         "dynamics"
@@ -366,7 +366,7 @@
         "1000 N"
       ],
       "explanation": "Weight = mg = (10)(10) = 100 N.",
-      "memoryHook": "T-Rexy says: Weight is mass times g.",
+      "memoryHook": "Weight is mass times g.",
       "imageUrl": "topic:forces",
       "tags": [
         "dynamics"
@@ -385,7 +385,7 @@
         "Pascal"
       ],
       "explanation": "Force is measured in newtons (N). From F = ma, 1 N is the force that gives 1 kg an acceleration of 1 m/s^2, so 1 N = 1 kg m/s^2.",
-      "memoryHook": "T-Rexy says: Force is measured in newtons.",
+      "memoryHook": "Force is measured in newtons.",
       "imageUrl": "topic:units",
       "tags": [
         "dynamics"
@@ -404,7 +404,7 @@
         "Twice its weight"
       ],
       "explanation": "The table pushes up with a force equal to the book's weight, balancing it.",
-      "memoryHook": "T-Rexy says: The table pushes up exactly as hard as gravity pulls down.",
+      "memoryHook": "The table pushes up exactly as hard as gravity pulls down.",
       "imageUrl": "topic:forces",
       "tags": [
         "dynamics"
@@ -423,7 +423,7 @@
         "Downward"
       ],
       "explanation": "Friction opposes relative motion between surfaces.",
-      "memoryHook": "T-Rexy says: Friction fights motion.",
+      "memoryHook": "Friction fights motion.",
       "imageUrl": "topic:friction",
       "tags": [
         "dynamics"
@@ -442,7 +442,7 @@
         "Zero"
       ],
       "explanation": "It takes more force to start motion than to maintain it.",
-      "memoryHook": "T-Rexy says: Starting is harder than sliding.",
+      "memoryHook": "Starting is harder than sliding.",
       "imageUrl": "topic:friction",
       "tags": [
         "dynamics"
@@ -461,7 +461,7 @@
         "8 m/s^2"
       ],
       "explanation": "Net force = 30 - 10 = 20 N; a = 20/5 = 4 m/s^2.",
-      "memoryHook": "T-Rexy says: Subtract friction first, then divide by mass.",
+      "memoryHook": "Subtract friction first, then divide by mass.",
       "imageUrl": "topic:newton-laws",
       "tags": [
         "dynamics"
@@ -480,7 +480,7 @@
         "Tension"
       ],
       "explanation": "Free fall means gravity is the only force acting.",
-      "memoryHook": "T-Rexy says: Free fall means gravity alone.",
+      "memoryHook": "Free fall means gravity alone.",
       "imageUrl": "topic:forces",
       "tags": [
         "dynamics"
@@ -499,7 +499,7 @@
         "The area of contact"
       ],
       "explanation": "Mu is a property of the two surfaces in contact.",
-      "memoryHook": "T-Rexy says: Friction coefficient is about the materials.",
+      "memoryHook": "Friction coefficient is about the materials.",
       "imageUrl": "topic:friction",
       "tags": [
         "dynamics"
@@ -518,7 +518,7 @@
         "Quadruples"
       ],
       "explanation": "From F = ma, acceleration is proportional to net force.",
-      "memoryHook": "T-Rexy says: Double the force, double the acceleration.",
+      "memoryHook": "Double the force, double the acceleration.",
       "imageUrl": "topic:newton-laws",
       "tags": [
         "dynamics"
@@ -537,7 +537,7 @@
         "25 N"
       ],
       "explanation": "Newton's third law: the reaction is equal in magnitude.",
-      "memoryHook": "T-Rexy says: The wall pushes back equally.",
+      "memoryHook": "The wall pushes back equally.",
       "imageUrl": "topic:newton-laws",
       "tags": [
         "dynamics"
@@ -556,7 +556,7 @@
         "Half the weight"
       ],
       "explanation": "At rest, tension balances weight exactly.",
-      "memoryHook": "T-Rexy says: At rest, tension equals weight.",
+      "memoryHook": "At rest, tension equals weight.",
       "imageUrl": "topic:forces",
       "tags": [
         "dynamics"
@@ -575,7 +575,7 @@
         "Becomes zero"
       ],
       "explanation": "The floor must push harder to accelerate you upward, so the normal force increases.",
-      "memoryHook": "T-Rexy says: Upward acceleration feels heavier.",
+      "memoryHook": "Upward acceleration feels heavier.",
       "imageUrl": "topic:forces",
       "tags": [
         "dynamics"
@@ -594,7 +594,7 @@
         "Opposite the velocity"
       ],
       "explanation": "Centripetal acceleration comes from the change in the direction of velocity as the object moves around the circle. That change points toward the center, so a_c = v^2/r is always directed toward the center.",
-      "memoryHook": "T-Rexy says: Centripetal points to the center.",
+      "memoryHook": "Centripetal points to the center.",
       "imageUrl": "topic:circular",
       "tags": [
         "circular-motion"
@@ -613,7 +613,7 @@
         "2(pi)r/T"
       ],
       "explanation": "Centripetal acceleration grows with the square of the tangential speed and shrinks with radius: a_c = v^2/r. Check the units: (m/s)^2 / m = m/s^2, as an acceleration must be.",
-      "memoryHook": "T-Rexy says: Centripetal acceleration is speed squared over radius.",
+      "memoryHook": "Centripetal acceleration is speed squared over radius.",
       "imageUrl": "topic:circular",
       "tags": [
         "circular-motion"
@@ -632,7 +632,7 @@
         "Away from the center"
       ],
       "explanation": "Direction changes even at constant speed, so there is centripetal acceleration.",
-      "memoryHook": "T-Rexy says: Turning means accelerating even at constant speed.",
+      "memoryHook": "Turning means accelerating even at constant speed.",
       "imageUrl": "topic:circular",
       "tags": [
         "circular-motion"
@@ -651,7 +651,7 @@
         "Stays the same"
       ],
       "explanation": "F = mv^2/r, so doubling v quadruples F.",
-      "memoryHook": "T-Rexy says: Speed squared means double speed, four times force.",
+      "memoryHook": "Speed squared means double speed, four times force.",
       "imageUrl": "topic:circular",
       "tags": [
         "circular-motion"
@@ -670,7 +670,7 @@
         "The speed of the object"
       ],
       "explanation": "The period T is the time for one complete revolution. Its partner is frequency: f = 1/T, the number of revolutions per second, so T = 2(pi)r/v for motion at speed v around a circle of radius r.",
-      "memoryHook": "T-Rexy says: Period is time per revolution.",
+      "memoryHook": "Period is time per revolution.",
       "imageUrl": "topic:circular",
       "tags": [
         "circular-motion"
@@ -689,7 +689,7 @@
         "The larger mass only"
       ],
       "explanation": "F = G(m1m2)/r^2.",
-      "memoryHook": "T-Rexy says: Gravity follows an inverse-square law.",
+      "memoryHook": "Gravity follows an inverse-square law.",
       "imageUrl": "topic:gravitation",
       "tags": [
         "circular-motion"
@@ -708,7 +708,7 @@
         "Four times"
       ],
       "explanation": "Inverse-square: doubling r divides force by 4.",
-      "memoryHook": "T-Rexy says: Double the distance, quarter the gravity.",
+      "memoryHook": "Double the distance, quarter the gravity.",
       "imageUrl": "topic:gravitation",
       "tags": [
         "circular-motion"
@@ -727,7 +727,7 @@
         "Centrifugal force"
       ],
       "explanation": "Gravity pulls the satellite toward Earth, keeping it in orbit.",
-      "memoryHook": "T-Rexy says: Orbit is gravity acting as centripetal force.",
+      "memoryHook": "Orbit is gravity acting as centripetal force.",
       "imageUrl": "topic:gravitation",
       "tags": [
         "circular-motion"
@@ -746,7 +746,7 @@
         "1 year"
       ],
       "explanation": "They stay above the same spot on Earth, matching Earth's rotation period.",
-      "memoryHook": "T-Rexy says: Geosynchronous means matching Earth's day.",
+      "memoryHook": "Geosynchronous means matching Earth's day.",
       "imageUrl": "topic:gravitation",
       "tags": [
         "circular-motion"
@@ -765,7 +765,7 @@
         "100 N/kg"
       ],
       "explanation": "g = 9.8 m/s^2, equivalently 9.8 N/kg.",
-      "memoryHook": "T-Rexy says: g is about 9.8 newtons per kilogram.",
+      "memoryHook": "G is about 9.8 newtons per kilogram.",
       "imageUrl": "topic:gravitation",
       "tags": [
         "circular-motion"
@@ -784,7 +784,7 @@
         "Volt"
       ],
       "explanation": "Energy is measured in joules (J). One joule is the work done by a 1 N force moving an object 1 m in the force direction, so 1 J = 1 N m.",
-      "memoryHook": "T-Rexy says: Energy is measured in joules.",
+      "memoryHook": "Energy is measured in joules.",
       "imageUrl": "topic:units",
       "tags": [
         "energy"
@@ -803,7 +803,7 @@
         "Height"
       ],
       "explanation": "KE = (1/2)mv^2.",
-      "memoryHook": "T-Rexy says: Kinetic energy is half mass times speed squared.",
+      "memoryHook": "Kinetic energy is half mass times speed squared.",
       "imageUrl": "topic:energy",
       "tags": [
         "energy"
@@ -822,7 +822,7 @@
         "3 J"
       ],
       "explanation": "KE = (1/2)(2)(9) = 9 J.",
-      "memoryHook": "T-Rexy says: Half mass times speed squared.",
+      "memoryHook": "Half mass times speed squared.",
       "imageUrl": "topic:energy",
       "tags": [
         "energy"
@@ -841,7 +841,7 @@
         "Fd"
       ],
       "explanation": "PE = mgh for height h above a reference.",
-      "memoryHook": "T-Rexy says: Potential energy is mass times g times height.",
+      "memoryHook": "Potential energy is mass times g times height.",
       "imageUrl": "topic:energy",
       "tags": [
         "energy"
@@ -860,7 +860,7 @@
         "Energy divided by time"
       ],
       "explanation": "W = Fd cos(theta).",
-      "memoryHook": "T-Rexy says: Work is force along the displacement.",
+      "memoryHook": "Work is force along the displacement.",
       "imageUrl": "topic:work",
       "tags": [
         "energy"
@@ -879,7 +879,7 @@
         "Equal to the force"
       ],
       "explanation": "cos(90 deg) = 0, so W = 0.",
-      "memoryHook": "T-Rexy says: Perpendicular force does no work.",
+      "memoryHook": "Perpendicular force does no work.",
       "imageUrl": "topic:work",
       "tags": [
         "energy"
@@ -898,7 +898,7 @@
         "Mass times velocity"
       ],
       "explanation": "P = W/t.",
-      "memoryHook": "T-Rexy says: Power is work per time.",
+      "memoryHook": "Power is work per time.",
       "imageUrl": "topic:power",
       "tags": [
         "energy"
@@ -917,7 +917,7 @@
         "Horsepower"
       ],
       "explanation": "Power is measured in watts (W). One watt is one joule of work done per second, so 1 W = 1 J/s.",
-      "memoryHook": "T-Rexy says: Power is measured in watts.",
+      "memoryHook": "Power is measured in watts.",
       "imageUrl": "topic:units",
       "tags": [
         "energy"
@@ -936,7 +936,7 @@
         "0.05 W"
       ],
       "explanation": "P = 100/5 = 20 W.",
-      "memoryHook": "T-Rexy says: Work divided by time is power.",
+      "memoryHook": "Work divided by time is power.",
       "imageUrl": "topic:power",
       "tags": [
         "energy"
@@ -955,7 +955,7 @@
         "Momentum"
       ],
       "explanation": "W_net = delta KE.",
-      "memoryHook": "T-Rexy says: Net work changes kinetic energy.",
+      "memoryHook": "Net work changes kinetic energy.",
       "imageUrl": "topic:work",
       "tags": [
         "energy"
@@ -974,7 +974,7 @@
         "Zero"
       ],
       "explanation": "Without friction or other nonconservative work, KE + PE stays constant.",
-      "memoryHook": "T-Rexy says: Conservative forces conserve mechanical energy.",
+      "memoryHook": "Conservative forces conserve mechanical energy.",
       "imageUrl": "topic:energy",
       "tags": [
         "energy"
@@ -993,7 +993,7 @@
         "h/g"
       ],
       "explanation": "From energy conservation: mgh = (1/2)mv^2, so v = sqrt(2gh).",
-      "memoryHook": "T-Rexy says: Energy conservation gives root 2gh.",
+      "memoryHook": "Energy conservation gives root 2gh.",
       "imageUrl": "topic:energy",
       "tags": [
         "energy"
@@ -1012,7 +1012,7 @@
         "Fd"
       ],
       "explanation": "Stretching or compressing a spring by x stores PE = (1/2)kx^2. The factor 1/2 appears because the spring force grows from 0 to kx as it stretches, so the average force is kx/2 and the work done is (kx/2)(x).",
-      "memoryHook": "T-Rexy says: Spring energy is half k x squared.",
+      "memoryHook": "Spring energy is half k x squared.",
       "imageUrl": "topic:energy",
       "tags": [
         "energy"
@@ -1031,7 +1031,7 @@
         "27"
       ],
       "explanation": "KE depends on v^2, so 3^2 = 9.",
-      "memoryHook": "T-Rexy says: Triple speed, nine times energy.",
+      "memoryHook": "Triple speed, nine times energy.",
       "imageUrl": "topic:energy",
       "tags": [
         "energy"
@@ -1050,7 +1050,7 @@
         "It is constant"
       ],
       "explanation": "At the bottom, all potential energy has become kinetic energy.",
-      "memoryHook": "T-Rexy says: Lowest point means fastest swing.",
+      "memoryHook": "Lowest point means fastest swing.",
       "imageUrl": "topic:energy",
       "tags": [
         "energy"
@@ -1069,7 +1069,7 @@
         "Energy divided by speed"
       ],
       "explanation": "p = mv.",
-      "memoryHook": "T-Rexy says: Momentum is mass times velocity.",
+      "memoryHook": "Momentum is mass times velocity.",
       "imageUrl": "topic:momentum",
       "tags": [
         "momentum"
@@ -1088,7 +1088,7 @@
         "J"
       ],
       "explanation": "Momentum p = mv, so its unit combines mass and velocity units: kg times m/s, giving kg m/s.",
-      "memoryHook": "T-Rexy says: Momentum units are kilogram meters per second.",
+      "memoryHook": "Momentum units are kilogram meters per second.",
       "imageUrl": "topic:units",
       "tags": [
         "momentum"
@@ -1107,7 +1107,7 @@
         "Kinetic energy"
       ],
       "explanation": "J = F delta t = delta p.",
-      "memoryHook": "T-Rexy says: Impulse is change in momentum.",
+      "memoryHook": "Impulse is change in momentum.",
       "imageUrl": "topic:momentum",
       "tags": [
         "momentum"
@@ -1126,7 +1126,7 @@
         "Converted to energy"
       ],
       "explanation": "Conservation of momentum holds without external impulses.",
-      "memoryHook": "T-Rexy says: No external force means momentum conserved.",
+      "memoryHook": "No external force means momentum conserved.",
       "imageUrl": "topic:momentum",
       "tags": [
         "momentum"
@@ -1145,7 +1145,7 @@
         "0 m/s"
       ],
       "explanation": "Total momentum before = 8 kg m/s; total mass after = 4 kg; v = 8/4 = 2 m/s.",
-      "memoryHook": "T-Rexy says: Sticky collisions share momentum across total mass.",
+      "memoryHook": "Sticky collisions share momentum across total mass.",
       "imageUrl": "topic:momentum",
       "tags": [
         "momentum"
@@ -1164,7 +1164,7 @@
         "Mass"
       ],
       "explanation": "Elastic means no kinetic energy is lost.",
-      "memoryHook": "T-Rexy says: Elastic collisions keep kinetic energy too.",
+      "memoryHook": "Elastic collisions keep kinetic energy too.",
       "imageUrl": "topic:momentum",
       "tags": [
         "momentum"
@@ -1183,7 +1183,7 @@
         "Reducing the mass"
       ],
       "explanation": "Same impulse over longer time means smaller force.",
-      "memoryHook": "T-Rexy says: Longer impact time means smaller force.",
+      "memoryHook": "Longer impact time means smaller force.",
       "imageUrl": "topic:momentum",
       "tags": [
         "momentum"
@@ -1202,7 +1202,7 @@
         "0.3 N s"
       ],
       "explanation": "J = F t = (10)(3) = 30 N s.",
-      "memoryHook": "T-Rexy says: Impulse is force times time.",
+      "memoryHook": "Impulse is force times time.",
       "imageUrl": "topic:momentum",
       "tags": [
         "momentum"
@@ -1221,7 +1221,7 @@
         "Doubles its speed"
       ],
       "explanation": "In an equal-mass elastic collision, velocities exchange.",
-      "memoryHook": "T-Rexy says: Equal masses swap velocities elastically.",
+      "memoryHook": "Equal masses swap velocities elastically.",
       "imageUrl": "topic:momentum",
       "tags": [
         "momentum"
@@ -1240,7 +1240,7 @@
         "Friction"
       ],
       "explanation": "The rocket-gas system has zero net external force, so momentum is conserved.",
-      "memoryHook": "T-Rexy says: Rockets ride on momentum conservation.",
+      "memoryHook": "Rockets ride on momentum conservation.",
       "imageUrl": "topic:momentum",
       "tags": [
         "momentum"
@@ -1259,7 +1259,7 @@
         "Energy per rotation"
       ],
       "explanation": "Torque = r F sin(theta).",
-      "memoryHook": "T-Rexy says: Torque is force times lever arm.",
+      "memoryHook": "Torque is force times lever arm.",
       "imageUrl": "topic:torque",
       "tags": [
         "rotation"
@@ -1278,7 +1278,7 @@
         "kg m^2"
       ],
       "explanation": "Torque is measured in newton-meters (N m), from torque = rF sin(theta): meters times newtons. It is written N m, not J, because torque is a rotational effect, not an amount of energy.",
-      "memoryHook": "T-Rexy says: Torque is measured in newton-meters.",
+      "memoryHook": "Torque is measured in newton-meters.",
       "imageUrl": "topic:units",
       "tags": [
         "rotation"
@@ -1297,7 +1297,7 @@
         "Changes the bolt"
       ],
       "explanation": "Longer r means more torque for the same force.",
-      "memoryHook": "T-Rexy says: Longer wrench means more torque.",
+      "memoryHook": "Longer wrench means more torque.",
       "imageUrl": "topic:torque",
       "tags": [
         "rotation"
@@ -1316,7 +1316,7 @@
         "Positive"
       ],
       "explanation": "No rotation means net torque is zero.",
-      "memoryHook": "T-Rexy says: No turning means zero net torque.",
+      "memoryHook": "No turning means zero net torque.",
       "imageUrl": "topic:torque",
       "tags": [
         "rotation"
@@ -1335,7 +1335,7 @@
         "The object's velocity"
       ],
       "explanation": "Moment of inertia grows as mass moves farther from the axis.",
-      "memoryHook": "T-Rexy says: Farther mass means more rotational inertia.",
+      "memoryHook": "Farther mass means more rotational inertia.",
       "imageUrl": "topic:rotation",
       "tags": [
         "rotation"
@@ -1354,7 +1354,7 @@
         "It is denser"
       ],
       "explanation": "Less rotational inertia means more energy goes to translation, so it accelerates faster.",
-      "memoryHook": "T-Rexy says: Less spin inertia means faster rolling.",
+      "memoryHook": "Less spin inertia means faster rolling.",
       "imageUrl": "topic:rotation",
       "tags": [
         "rotation"
@@ -1373,7 +1373,7 @@
         "Hz"
       ],
       "explanation": "Angular velocity omega = (change in angle)/(time) is measured in radians per second (rad/s). A full turn is 2(pi) rad, so an object with omega = 2(pi) rad/s completes one revolution every second.",
-      "memoryHook": "T-Rexy says: Angular velocity is radians per second.",
+      "memoryHook": "Angular velocity is radians per second.",
       "imageUrl": "topic:units",
       "tags": [
         "rotation"
@@ -1392,7 +1392,7 @@
         "v = omega r^2"
       ],
       "explanation": "In one period the object travels the circumference 2(pi)r, so v = 2(pi)r/T. Since omega = 2(pi)/T, this gives v = omega r: points farther from the axis move faster at the same spin rate.",
-      "memoryHook": "T-Rexy says: Linear speed is angular speed times radius.",
+      "memoryHook": "Linear speed is angular speed times radius.",
       "imageUrl": "topic:rotation",
       "tags": [
         "rotation"
@@ -1411,7 +1411,7 @@
         "Friction"
       ],
       "explanation": "Smaller moment of inertia means larger angular velocity when L is conserved.",
-      "memoryHook": "T-Rexy says: Tucking in spins faster by angular momentum.",
+      "memoryHook": "Tucking in spins faster by angular momentum.",
       "imageUrl": "topic:rotation",
       "tags": [
         "rotation"
@@ -1430,7 +1430,7 @@
         "Top"
       ],
       "explanation": "Uniform mass distribution centers at the middle.",
-      "memoryHook": "T-Rexy says: Uniform rod balances at its middle.",
+      "memoryHook": "Uniform rod balances at its middle.",
       "imageUrl": "topic:rotation",
       "tags": [
         "rotation"
@@ -1449,7 +1449,7 @@
         "Proportional to the mass's velocity"
       ],
       "explanation": "Simple harmonic motion requires a restoring force: F = -kx. The force is proportional to the displacement x, and the negative sign means it always points back toward equilibrium, which is what keeps the mass oscillating around that point.",
-      "memoryHook": "T-Rexy says: SHM happens when the force always pulls you back, harder the farther you stray.",
+      "memoryHook": "SHM happens when the force always pulls you back, harder the farther you stray.",
       "imageUrl": "topic:oscillations",
       "tags": [
         "oscillations"
@@ -1468,7 +1468,7 @@
         "T/2"
       ],
       "explanation": "For a spring oscillator, T = 2pi sqrt(m/k). The period grows with the square root of the mass, so quadrupling m multiplies the period by sqrt(4) = 2, giving 2T.",
-      "memoryHook": "T-Rexy says: Four times the mass on a spring means only twice the period - square roots shrink big changes.",
+      "memoryHook": "Four times the mass on a spring means only twice the period - square roots shrink big changes.",
       "imageUrl": "topic:oscillations",
       "tags": [
         "oscillations"
@@ -1487,7 +1487,7 @@
         "Swing from one side to the other once"
       ],
       "explanation": "One period is one complete oscillation: the pendulum leaves a point, swings to the far side, and returns to the same point moving the same way. Going from one side to the other is only half a cycle.",
-      "memoryHook": "T-Rexy says: A period is a full round trip, not just the trip out.",
+      "memoryHook": "A period is a full round trip, not just the trip out.",
       "imageUrl": "topic:oscillations",
       "tags": [
         "oscillations"
@@ -1506,7 +1506,7 @@
         "Twice as long"
       ],
       "explanation": "The pendulum period T = 2pi sqrt(L/g) depends only on the string length L and the gravitational field g. The bob's mass cancels out, so both bobs swing with the same period.",
-      "memoryHook": "T-Rexy says: A pendulum does not care how heavy its bob is - only how long its string is.",
+      "memoryHook": "A pendulum does not care how heavy its bob is - only how long its string is.",
       "imageUrl": "topic:oscillations",
       "tags": [
         "oscillations"
@@ -1525,7 +1525,7 @@
         "3.1 s"
       ],
       "explanation": "T = 2pi sqrt(m/k) = 2(3.14) sqrt(0.25/100) = 6.28 sqrt(0.0025) = 6.28(0.05) = 0.31 s. A stiff spring and a light mass give a fast oscillation.",
-      "memoryHook": "T-Rexy says: Stiff spring, light mass, quick bounce - plug m and k into 2pi sqrt(m/k).",
+      "memoryHook": "Stiff spring, light mass, quick bounce - plug m and k into 2pi sqrt(m/k).",
       "imageUrl": "topic:oscillations",
       "tags": [
         "oscillations"
@@ -1544,7 +1544,7 @@
         "Half as great"
       ],
       "explanation": "The total energy of a spring oscillator is E = (1/2)kA^2, so energy scales with the square of the amplitude. Doubling A multiplies E by 2^2 = 4.",
-      "memoryHook": "T-Rexy says: Double the stretch, quadruple the energy - amplitude is squared in SHM energy.",
+      "memoryHook": "Double the stretch, quadruple the energy - amplitude is squared in SHM energy.",
       "imageUrl": "topic:oscillations",
       "tags": [
         "oscillations"
@@ -1563,7 +1563,7 @@
         "Half its maximum value"
       ],
       "explanation": "At the turning points the mass momentarily stops, so its speed is zero, but the restoring force F = -kx is largest there because x is largest, so the acceleration is at its maximum. Speed and acceleration peak at opposite points of the cycle.",
-      "memoryHook": "T-Rexy says: At the edge of the swing you stop for an instant, but the pull back is strongest.",
+      "memoryHook": "At the edge of the swing you stop for an instant, but the pull back is strongest.",
       "imageUrl": "topic:oscillations",
       "tags": [
         "oscillations"
@@ -1582,7 +1582,7 @@
         "6.3 s"
       ],
       "explanation": "T = 2pi sqrt(L/g) = 2(3.14) sqrt(0.25/10) = 6.28 sqrt(0.025) = 6.28(0.158) = 1.0 s. A short string gives a quick, one-second swing.",
-      "memoryHook": "T-Rexy says: A quarter-meter pendulum ticks about once per second.",
+      "memoryHook": "A quarter-meter pendulum ticks about once per second.",
       "imageUrl": "topic:oscillations",
       "tags": [
         "oscillations"
@@ -1601,7 +1601,7 @@
         "200 Hz"
       ],
       "explanation": "Frequency counts cycles per second: f = 20 cycles / 10 s = 2 Hz. The period would be the inverse, 1/2 = 0.5 s, which is the trap hidden behind the 0.5 Hz distractor.",
-      "memoryHook": "T-Rexy says: Frequency is cycles divided by seconds - count the bounces, divide by the time.",
+      "memoryHook": "Frequency is cycles divided by seconds - count the bounces, divide by the time.",
       "imageUrl": "topic:oscillations",
       "tags": [
         "oscillations"
@@ -1620,7 +1620,7 @@
         "4000 kg/m^3"
       ],
       "explanation": "Density is mass per unit volume: rho = m/V = 2 kg / 0.002 m^3 = 1000 kg/m^3, the density of water.",
-      "memoryHook": "T-Rexy says: Density packs mass into volume - divide the kilograms by the cubic meters.",
+      "memoryHook": "Density packs mass into volume - divide the kilograms by the cubic meters.",
       "imageUrl": "topic:fluids",
       "tags": [
         "fluids"
@@ -1639,7 +1639,7 @@
         "Acts only downward on the diver"
       ],
       "explanation": "Fluid pressure grows with depth: P = rho g h. The deeper the diver, the more water is piled above, and the pressure pushes from every direction, not just down.",
-      "memoryHook": "T-Rexy says: The deeper you dive, the more ocean is standing on you.",
+      "memoryHook": "The deeper you dive, the more ocean is standing on you.",
       "imageUrl": "topic:fluids",
       "tags": [
         "fluids"
@@ -1658,7 +1658,7 @@
         "200,000 Pa"
       ],
       "explanation": "Gauge pressure from a fluid column is P = rho g h = (1000)(10)(2) = 20,000 Pa. Atmospheric pressure is not included because the question asks for gauge pressure, the pressure due to the water alone.",
-      "memoryHook": "T-Rexy says: rho g h - density times g times depth gives the squeeze of the water alone.",
+      "memoryHook": "Rho g h - density times g times depth gives the squeeze of the water alone.",
       "imageUrl": "topic:fluids",
       "tags": [
         "fluids"
@@ -1677,7 +1677,7 @@
         "The pressure at the object's depth"
       ],
       "explanation": "A fluid pushes up on an object with a force equal to the weight of the fluid pushed aside (displaced) by the object: F_b = rho_fluid V_displaced g. It does not depend on the object's own weight or on how deep it sits.",
-      "memoryHook": "T-Rexy says: The water pushes you up with the weight of the water you pushed out of the way.",
+      "memoryHook": "The water pushes you up with the weight of the water you pushed out of the way.",
       "imageUrl": "topic:fluids",
       "tags": [
         "fluids"
@@ -1696,7 +1696,7 @@
         "All of it"
       ],
       "explanation": "A floating object displaces its own weight in water, so the submerged fraction equals the density ratio: 500/1000 = 1/2. Half the block sits below the waterline and half above.",
-      "memoryHook": "T-Rexy says: Float fraction is just the density ratio - half as dense as water, half under water.",
+      "memoryHook": "Float fraction is just the density ratio - half as dense as water, half under water.",
       "imageUrl": "topic:fluids",
       "tags": [
         "fluids"
@@ -1715,7 +1715,7 @@
         "Drops to zero"
       ],
       "explanation": "The continuity equation A1v1 = A2v2 conserves the flow rate: the same volume per second must pass every section of the pipe. Halving the area forces the speed to double.",
-      "memoryHook": "T-Rexy says: Squeeze the pipe and the water hurries - what flows in must flow out.",
+      "memoryHook": "Squeeze the pipe and the water hurries - what flows in must flow out.",
       "imageUrl": "topic:fluids",
       "tags": [
         "fluids"
@@ -1734,7 +1734,7 @@
         "Zero at both points"
       ],
       "explanation": "In a fluid at rest, pressure depends only on depth (P = rho g h), not on horizontal position. Both points have the same depth, so the pressures match.",
-      "memoryHook": "T-Rexy says: Same depth, same squeeze - sideways position does not matter.",
+      "memoryHook": "Same depth, same squeeze - sideways position does not matter.",
       "imageUrl": "topic:fluids",
       "tags": [
         "fluids"
@@ -1753,7 +1753,7 @@
         "Zero above the wing"
       ],
       "explanation": "Bernoulli's principle: where a fluid moves faster, its pressure is lower. The faster air on top creates lower pressure above the wing, and the higher pressure below pushes the wing up.",
-      "memoryHook": "T-Rexy says: Fast flow, low pressure - that pressure difference is what lifts the wing.",
+      "memoryHook": "Fast flow, low pressure - that pressure difference is what lifts the wing.",
       "imageUrl": "topic:fluids",
       "tags": [
         "fluids"
@@ -1772,7 +1772,7 @@
         "3F"
       ],
       "explanation": "Newton's law of gravitation is an inverse-square law: F = G m1 m2 / r^2. Tripling r divides the force by 3^2 = 9, so the new force is F/9.",
-      "memoryHook": "T-Rexy says: Gravity fades with distance squared - three times farther, nine times weaker.",
+      "memoryHook": "Gravity fades with distance squared - three times farther, nine times weaker.",
       "imageUrl": "topic:gravitation",
       "tags": [
         "circular-motion"
@@ -1791,7 +1791,7 @@
         "Directed toward the center of the circle"
       ],
       "explanation": "Velocity is a vector, so direction matters. The ball's speed never changes, but its direction turns continuously, which means the velocity changes and the ball accelerates toward the center.",
-      "memoryHook": "T-Rexy says: Constant speed is not constant velocity - turning is changing.",
+      "memoryHook": "Constant speed is not constant velocity - turning is changing.",
       "imageUrl": "topic:circular",
       "tags": [
         "circular-motion"
@@ -1810,7 +1810,7 @@
         "The absence of any forces on the Moon"
       ],
       "explanation": "Gravity between Earth and the Moon supplies the centripetal force that continually bends the Moon's path into an orbit. The Moon is always falling toward Earth while its sideways motion carries it around.",
-      "memoryHook": "T-Rexy says: The Moon is forever falling around Earth, held in its circle by gravity.",
+      "memoryHook": "The Moon is forever falling around Earth, held in its circle by gravity.",
       "imageUrl": "topic:gravitation",
       "tags": [
         "circular-motion"
@@ -1829,7 +1829,7 @@
         "80 kg m/s"
       ],
       "explanation": "Impulse equals the change in momentum: delta p = F delta t = (20 N)(2 s) = 40 N s, and 1 N s is the same unit as 1 kg m/s.",
-      "memoryHook": "T-Rexy says: Push strength times push time tells you the momentum change.",
+      "memoryHook": "Push strength times push time tells you the momentum change.",
       "imageUrl": "topic:momentum",
       "tags": [
         "momentum"
@@ -1848,7 +1848,7 @@
         "18 m/s"
       ],
       "explanation": "Total momentum starts at zero and is conserved: 0 = (1 kg)(6 m/s) + (3 kg)(v), so 3v = -6 and v = -2 m/s. The minus sign means it flies opposite the first piece, at a speed of 2 m/s.",
-      "memoryHook": "T-Rexy says: The explosion starts from zero momentum, so the pieces' momenta must cancel.",
+      "memoryHook": "The explosion starts from zero momentum, so the pieces' momenta must cancel.",
       "imageUrl": "topic:momentum",
       "tags": [
         "momentum"
@@ -1867,7 +1867,7 @@
         "50 N m"
       ],
       "explanation": "For a perpendicular force, torque = rF = (0.5 m)(10 N) = 5 N m. A longer handle would give more torque from the same force.",
-      "memoryHook": "T-Rexy says: Torque is leverage times push - grip the wrench at the end.",
+      "memoryHook": "Torque is leverage times push - grip the wrench at the end.",
       "imageUrl": "topic:torque",
       "tags": [
         "rotation"
@@ -1886,7 +1886,7 @@
         "Quadruples"
       ],
       "explanation": "Angular momentum L = I omega is conserved when no net external torque acts. Halving I forces omega to double so the product I omega stays constant - the same reason spinning skaters speed up when they pull their arms in.",
-      "memoryHook": "T-Rexy says: Pull the mass in and the spin speeds up - angular momentum refuses to change.",
+      "memoryHook": "Pull the mass in and the spin speeds up - angular momentum refuses to change.",
       "imageUrl": "topic:rotation",
       "tags": [
         "rotation"
@@ -1905,7 +1905,7 @@
         "Stop rotating immediately"
       ],
       "explanation": "Torque is the rotational counterpart of force: just as a net force changes linear velocity, a net torque produces angular acceleration and changes the object's angular velocity.",
-      "memoryHook": "T-Rexy says: Torque is the twist that changes how fast something spins.",
+      "memoryHook": "Torque is the twist that changes how fast something spins.",
       "imageUrl": "topic:torque",
       "tags": [
         "rotation"

@@ -24,7 +24,7 @@
         "2.5"
       ],
       "explanation": "X is binomial with n = 50 and p = 0.4. The mean of a binomial random variable is mu = np = 50 x 0.4 = 20. The value 12 is np(1-p), the variance, and 30 is the expected number of failures, n(1-p). The value 2.5 is 1/p, which is the mean of a geometric distribution, not a binomial one.",
-      "memoryHook": "T-Rexy says: Binomial mean is n times p - 50 trials at 0.4 gives 20!",
+      "memoryHook": "Binomial mean is n times p - 50 trials at 0.4 gives 20!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "probability",
@@ -44,7 +44,7 @@
         "25"
       ],
       "explanation": "For a geometric distribution, the mean waiting time to the first success is mu = 1/p = 1/0.2 = 5 items. The value 4 is (1-p)/p, the expected number of failures before the first success, not the trial number of the first success itself. The value 25 is 1/p squared, which has no role here.",
-      "memoryHook": "T-Rexy says: Geometric mean is 1 over p - one success in five tries on average!",
+      "memoryHook": "Geometric mean is 1 over p - one success in five tries on average!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "probability",
@@ -64,7 +64,7 @@
         "2"
       ],
       "explanation": "The mode is the most frequent value. 5 appears three times, more than any other value.",
-      "memoryHook": "T-Rexy says: Mode is the most popular - it wins the popularity contest!",
+      "memoryHook": "Mode is the most popular - it wins the popularity contest!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "descriptive-statistics",
@@ -84,7 +84,7 @@
         "1.73"
       ],
       "explanation": "For a geometric distribution, sigma = sqrt(1 - p) / p. Here sigma = sqrt(0.75) / 0.25 = 0.866 / 0.25 = 3.46 tries. The value 4 is the mean, 1/p = 1/0.25, not the spread. The value 12 is the variance, (1 - p)/p^2 = 0.75/0.0625 - it still needs a square root before it is a standard deviation. The value 1.73 is sqrt((1 - p)/p) = sqrt(3), which divides by p only once under the root instead of twice.",
-      "memoryHook": "T-Rexy says: Geometric spread is sqrt(1-p) over p - the wait averages 4 tries but swings by 3.46!",
+      "memoryHook": "Geometric spread is sqrt(1-p) over p - the wait averages 4 tries but swings by 3.46!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "probability",
@@ -104,7 +104,7 @@
         "2/3"
       ],
       "explanation": "A fair coin has two equally likely outcomes, heads and tails, so P(heads) = 1/2.",
-      "memoryHook": "T-Rexy says: Fair coin, fifty-fifty - heads gets half the chances!",
+      "memoryHook": "Fair coin, fifty-fifty - heads gets half the chances!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -124,7 +124,7 @@
         "1/2"
       ],
       "explanation": "There are 6 equally likely outcomes and only one is a 4, so the probability is 1/6.",
-      "memoryHook": "T-Rexy says: One lucky face out of six - that is 1/6!",
+      "memoryHook": "One lucky face out of six - that is 1/6!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -144,7 +144,7 @@
         "0.36"
       ],
       "explanation": "The sampling distribution of p-hat is centered at the population proportion: the mean of p-hat equals p = 0.64. That is why p-hat is called an unbiased estimator of p - its long-run average equals the parameter it estimates. The value 0.068 is the standard deviation, sqrt(0.64 x 0.36 / 50), not the center, and 32 is np, the expected count of supporters in one sample.",
-      "memoryHook": "T-Rexy says: p-hat aims at p - the sampling distribution is centered on the truth!",
+      "memoryHook": "P-hat aims at p - the sampling distribution is centered on the truth!",
       "imageUrl": "topic:sampling",
       "tags": [
         "sampling-distributions",
@@ -164,7 +164,7 @@
         "The residuals from the line add up to 0.9 kg"
       ],
       "explanation": "The value s is the standard deviation of the residuals: it measures the typical size of a prediction error, in the units of the response variable. So predictions from this line are typically off by about 0.9 kg. The correlation r is a separate, unitless number between -1 and 1. The amount added per extra centimeter is the slope, not s. And the residuals from a least-squares line always add up to about 0, never to s. In slope inference (Unit 9), this same s is the starting point for the standard error of the slope.",
-      "memoryHook": "T-Rexy says: s is the typical miss of the line - here predictions miss by about 0.9 kg!",
+      "memoryHook": "S is the typical miss of the line - here predictions miss by about 0.9 kg!",
       "imageUrl": "topic:data-types",
       "tags": [
         "regression",
@@ -184,7 +184,7 @@
         "Uniform"
       ],
       "explanation": "When the tail points right, the distribution is skewed right (positively skewed).",
-      "memoryHook": "T-Rexy says: The tail tells the tale - tail to the right means skewed right!",
+      "memoryHook": "The tail tells the tale - tail to the right means skewed right!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "descriptive-statistics",
@@ -204,7 +204,7 @@
         "5"
       ],
       "explanation": "For a chi-square test on a two-way table, df = (r - 1)(c - 1) = (3 - 1)(4 - 1) = 2 x 3 = 6. Multiplying the raw table size, 3 x 4 = 12, counts every cell and ignores that the row and column totals are fixed, which removes one free row and one free column. For comparison, a goodness-of-fit test uses df = number of categories minus 1.",
-      "memoryHook": "T-Rexy says: Chi-square df is (rows minus 1) times (columns minus 1) - 2 times 3 is 6!",
+      "memoryHook": "Chi-square df is (rows minus 1) times (columns minus 1) - 2 times 3 is 6!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "inference",
@@ -224,7 +224,7 @@
         "A response variable"
       ],
       "explanation": "The inactive but identical-looking pill is a placebo. Comparing the treatment group with a control group that receives a placebo separates the effect of the medicine itself from the placebo effect - improvement caused by expectation alone. Without a control group receiving a placebo, the researchers could not tell how much of the improvement the medicine actually caused.",
-      "memoryHook": "T-Rexy says: A placebo looks real but does nothing - it exposes the power of believing!",
+      "memoryHook": "A placebo looks real but does nothing - it exposes the power of believing!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "study-design",
@@ -244,7 +244,7 @@
         "-0.16"
       ],
       "explanation": "The sampling distribution of a difference of sample proportions is centered at the difference of the population proportions: mean = p1 - p2 = 0.68 - 0.52 = 0.16, so p-hat1 - p-hat2 is an unbiased estimator of p1 - p2. The value 1.20 adds the two proportions, 0.60 averages them, and -0.16 subtracts in the wrong order (high-school minus elementary). Its standard deviation would be sqrt(p1(1 - p1)/n1 + p2(1 - p2)/n2) - the variances add even though the centers subtract.",
-      "memoryHook": "T-Rexy says: A difference centers on the difference - 0.68 minus 0.52 is 0.16!",
+      "memoryHook": "A difference centers on the difference - 0.68 minus 0.52 is 0.16!",
       "imageUrl": "topic:graphs",
       "tags": [
         "sampling-distributions",
@@ -264,7 +264,7 @@
         "A sample of volunteers"
       ],
       "explanation": "A chance process does the choosing - for example, numbering everyone and drawing numbers at random - so no individual or group is favored. Convenience samples and volunteer samples are not simple random samples, because the choice is not left entirely to chance.",
-      "memoryHook": "T-Rexy says: Simple random means everybody gets a fair lottery ticket!",
+      "memoryHook": "Simple random means everybody gets a fair lottery ticket!",
       "imageUrl": "topic:sampling",
       "tags": [
         "sampling",
@@ -284,7 +284,7 @@
         "Using a census"
       ],
       "explanation": "Bias is a systematic tendency to over- or under-estimate, favoring certain outcomes over others.",
-      "memoryHook": "T-Rexy says: Bias tilts the scale the same way every time - it is not random!",
+      "memoryHook": "Bias tilts the scale the same way every time - it is not random!",
       "imageUrl": "topic:sampling",
       "tags": [
         "sampling",
@@ -304,7 +304,7 @@
         "There is no difference"
       ],
       "explanation": "In an experiment the researcher assigns treatments; in an observational study the researcher only observes without intervening.",
-      "memoryHook": "T-Rexy says: Experiments poke the subject, observations just watch!",
+      "memoryHook": "Experiments poke the subject, observations just watch!",
       "imageUrl": "topic:study-design",
       "tags": [
         "study-design",
@@ -324,7 +324,7 @@
         "0.0456"
       ],
       "explanation": "The sampling distribution of x-bar has mean 100 and standard error sigma/sqrt(n) = 15/sqrt(36) = 15/6 = 2.5, and with n = 36 the Central Limit Theorem makes it approximately normal. Standardize the endpoint: z = (105 - 100)/2.5 = 2.00, and the area to the right of z = 2.00 is 0.0228. The value 0.3694 uses sigma = 15 as the spread of x-bar, ignoring that averaging 36 scores shrinks the spread. The value 0.9772 is the area to the LEFT of 105 - the wrong tail. The value 0.0456 doubles 0.0228, the mistake of reporting a two-sided probability for a one-sided question.",
-      "memoryHook": "T-Rexy says: Averages hug the mean - 105 is 2 standard errors out, leaving only 0.0228 beyond!",
+      "memoryHook": "Averages hug the mean - 105 is 2 standard errors out, leaving only 0.0228 beyond!",
       "imageUrl": "topic:regression",
       "tags": [
         "sampling-distributions",
@@ -344,7 +344,7 @@
         "Nonlinear association"
       ],
       "explanation": "When larger x-values tend to go with larger y-values, the association is positive.",
-      "memoryHook": "T-Rexy says: Up and to the right means positive - they climb together!",
+      "memoryHook": "Up and to the right means positive - they climb together!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -364,7 +364,7 @@
         "They cannot be compared"
       ],
       "explanation": "Skew pulls the mean toward the tail, so in a right-skewed distribution the mean exceeds the median.",
-      "memoryHook": "T-Rexy says: The tail drags the mean along - right tail pulls the mean up!",
+      "memoryHook": "The tail drags the mean along - right tail pulls the mean up!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "descriptive-statistics",
@@ -384,7 +384,7 @@
         "The data set has outliers"
       ],
       "explanation": "Standard deviation measures typical distance from the mean; a large value means wide spread.",
-      "memoryHook": "T-Rexy says: Big standard deviation means the data scatters far and wide!",
+      "memoryHook": "Big standard deviation means the data scatters far and wide!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "descriptive-statistics",
@@ -404,7 +404,7 @@
         "0.03"
       ],
       "explanation": "By the complement rule, P(not A) = 1 - P(A) = 1 - 0.3 = 0.7.",
-      "memoryHook": "T-Rexy says: Not-A is everything left over - 1 minus P(A)!",
+      "memoryHook": "Not-A is everything left over - 1 minus P(A)!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -424,7 +424,7 @@
         "1.0"
       ],
       "explanation": "For disjoint events, P(A or B) = P(A) + P(B) = 0.2 + 0.5 = 0.7.",
-      "memoryHook": "T-Rexy says: Disjoint means no overlap - just add them up!",
+      "memoryHook": "Disjoint means no overlap - just add them up!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -444,7 +444,7 @@
         "There is no difference"
       ],
       "explanation": "Parameters are fixed numbers describing populations; statistics are computed from samples and vary.",
-      "memoryHook": "T-Rexy says: Parameter = Population (both start with P); statistic = sample!",
+      "memoryHook": "Parameter = Population (both start with P); statistic = sample!",
       "imageUrl": "topic:sampling",
       "tags": [
         "sampling",
@@ -464,7 +464,7 @@
         "10"
       ],
       "explanation": "For a binomial random variable, sigma = sqrt(np(1-p)) = sqrt(100 x 0.5 x 0.5) = sqrt(25) = 5. The value 25 is the variance - it still needs a square root before it is a standard deviation - and 50 is the mean, np. The value 10 is sqrt(n) alone, which ignores p and (1-p).",
-      "memoryHook": "T-Rexy says: Binomial SD is the square root of np(1-p) - root of 25 is 5!",
+      "memoryHook": "Binomial SD is the square root of np(1-p) - root of 25 is 5!",
       "imageUrl": "topic:sampling",
       "tags": [
         "probability",
@@ -484,7 +484,7 @@
         "Volunteers and non-volunteers"
       ],
       "explanation": "Stratified sampling divides the population into homogeneous groups (strata), then samples within each.",
-      "memoryHook": "T-Rexy says: Strata are layers - sort into similar piles first, then sample each!",
+      "memoryHook": "Strata are layers - sort into similar piles first, then sample each!",
       "imageUrl": "topic:sampling",
       "tags": [
         "sampling",
@@ -504,7 +504,7 @@
         "The range"
       ],
       "explanation": "The line inside the box marks the median (second quartile); the box edges are Q1 and Q3.",
-      "memoryHook": "T-Rexy says: The line in the box is the median sitting in the middle!",
+      "memoryHook": "The line in the box is the median sitting in the middle!",
       "imageUrl": "topic:graphs",
       "tags": [
         "graphs",
@@ -524,7 +524,7 @@
         "Below Q1 or above Q3"
       ],
       "explanation": "Suspected outliers are values below Q1 - 1.5(IQR) or above Q3 + 1.5(IQR).",
-      "memoryHook": "T-Rexy says: 1.5 IQRs past the box edges - that is outlier territory!",
+      "memoryHook": "1.5 IQRs past the box edges - that is outlier territory!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "descriptive-statistics",
@@ -544,7 +544,7 @@
         "66.7%"
       ],
       "explanation": "60 females out of 100 total respondents = 60/100 = 60%.",
-      "memoryHook": "T-Rexy says: Part divided by whole - 60 out of 100 is 60 percent!",
+      "memoryHook": "Part divided by whole - 60 out of 100 is 60 percent!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -564,7 +564,7 @@
         "0.25"
       ],
       "explanation": "P(A|B) = P(A and B) / P(B) = 0.2 / 0.5 = 0.4.",
-      "memoryHook": "T-Rexy says: Given B shrinks your world to B - divide by P(B)!",
+      "memoryHook": "Given B shrinks your world to B - divide by P(B)!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -584,7 +584,7 @@
         "The data becomes normal"
       ],
       "explanation": "With more trials, the observed relative frequency (or sample mean) converges to the true value.",
-      "memoryHook": "T-Rexy says: More flips, closer to truth - big samples settle down!",
+      "memoryHook": "More flips, closer to truth - big samples settle down!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -604,7 +604,7 @@
         "5"
       ],
       "explanation": "The standard deviation of p-hat is sqrt(p(1-p)/n) = sqrt(0.5 x 0.5 / 100) = sqrt(0.0025) = 0.05. The value 5 is the standard deviation of the count X, not of the proportion - dividing the count by n = 100 shrinks the spread by a factor of 100. Conditions check: np = 50 and n(1-p) = 50 are both at least 10, so this sampling distribution is approximately normal.",
-      "memoryHook": "T-Rexy says: Spread of p-hat is sqrt(p(1-p)/n) - bigger samples squeeze it down!",
+      "memoryHook": "Spread of p-hat is sqrt(p(1-p)/n) - bigger samples squeeze it down!",
       "imageUrl": "topic:graphs",
       "tags": [
         "sampling-distributions",
@@ -624,7 +624,7 @@
         "4.00"
       ],
       "explanation": "Mean = 4. Squared deviations: 4, 0, 0, 0, 4; sum = 8; variance = 8/4 = 2; sd = sqrt(2) = 1.41.",
-      "memoryHook": "T-Rexy says: Square the gaps, average them (n-1), then square-root!",
+      "memoryHook": "Square the gaps, average them (n-1), then square-root!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "descriptive-statistics",
@@ -644,7 +644,7 @@
         "0.5"
       ],
       "explanation": "z = (x - mean)/sd = (85 - 70)/10 = 15/10 = 1.5.",
-      "memoryHook": "T-Rexy says: Z-score counts standard deviations from the mean - how many steps away!",
+      "memoryHook": "Z-score counts standard deviations from the mean - how many steps away!",
       "imageUrl": "topic:normal-distribution",
       "tags": [
         "normal-distribution",
@@ -664,7 +664,7 @@
         "50%"
       ],
       "explanation": "The 68-95-99.7 rule: about 95% of values lie within 2 standard deviations of the mean.",
-      "memoryHook": "T-Rexy says: 68, 95, 99.7 - two sigmas grabs 95 percent!",
+      "memoryHook": "68, 95, 99.7 - two sigmas grabs 95 percent!",
       "imageUrl": "topic:normal-distribution",
       "tags": [
         "normal-distribution",
@@ -684,7 +684,7 @@
         "0"
       ],
       "explanation": "The chi-square statistic adds (observed - expected)^2 / expected over all six faces: (13 - 10)^2/10 + (8 - 10)^2/10 + (8 - 10)^2/10 + (11 - 10)^2/10 + (11 - 10)^2/10 + (9 - 10)^2/10 = 0.9 + 0.4 + 0.4 + 0.1 + 0.1 + 0.1 = 2.0, with df = 6 - 1 = 5. The value 20 stops after summing the squared differences - it never divides by the expected count. The value 10 sums the absolute differences |O - E|, and 0 sums O - E itself, which is always 0 and measures nothing. A statistic this small means the counts sit close to what fairness predicts.",
-      "memoryHook": "T-Rexy says: Chi-square sums squared gaps over expected - six small gaps make just 2.0!",
+      "memoryHook": "Chi-square sums squared gaps over expected - six small gaps make just 2.0!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "inference",
@@ -704,7 +704,7 @@
         "The mean decreases by 5"
       ],
       "explanation": "Adding a constant shifts every value, so the mean shifts by the same constant.",
-      "memoryHook": "T-Rexy says: Add to all, add to the mean - the whole herd moves together!",
+      "memoryHook": "Add to all, add to the mean - the whole herd moves together!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "descriptive-statistics",
@@ -724,7 +724,7 @@
         "It is divided by 3"
       ],
       "explanation": "Multiplying by a constant scales spread by |constant|; standard deviation is multiplied by 3.",
-      "memoryHook": "T-Rexy says: Stretch the data, stretch the spread - times 3!",
+      "memoryHook": "Stretch the data, stretch the spread - times 3!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
         "descriptive-statistics",
@@ -744,7 +744,7 @@
         "Fixed number of trials"
       ],
       "explanation": "BINS = Binary, Independent, Number fixed, Same probability of success. Normality is not required.",
-      "memoryHook": "T-Rexy says: BINS - Binary, Independent, Number, Same p - no Normality needed!",
+      "memoryHook": "BINS - Binary, Independent, Number, Same p - no Normality needed!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -764,7 +764,7 @@
         "0.031"
       ],
       "explanation": "P(X=3) = C(10,3)(0.5)^3(0.5)^7 = 120 x 0.000977 = 0.117.",
-      "memoryHook": "T-Rexy says: Choose the spots, then coin-flip math - C(10,3) times (1/2)^10!",
+      "memoryHook": "Choose the spots, then coin-flip math - C(10,3) times (1/2)^10!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -784,7 +784,7 @@
         "0.21"
       ],
       "explanation": "Geometric: P(first success on 3rd) = (0.3)^2(0.7) = 0.09 x 0.7 = 0.063.",
-      "memoryHook": "T-Rexy says: Miss, miss, then swish - (0.3)(0.3)(0.7)!",
+      "memoryHook": "Miss, miss, then swish - (0.3)(0.3)(0.7)!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -804,7 +804,7 @@
         "$0.20"
       ],
       "explanation": "Expected value = 10(0.2) + 0(0.8) = 2.",
-      "memoryHook": "T-Rexy says: Expected value is the long-run average payout - probability times prize!",
+      "memoryHook": "Expected value is the long-run average payout - probability times prize!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -824,7 +824,7 @@
         "10"
       ],
       "explanation": "The mean of a sum is the sum of the means: 10 + 4 = 14, regardless of independence.",
-      "memoryHook": "T-Rexy says: Means just add up - 10 plus 4 is 14!",
+      "memoryHook": "Means just add up - 10 plus 4 is 14!",
       "imageUrl": "topic:random-variables",
       "tags": [
         "random-variables",
@@ -844,7 +844,7 @@
         "-7"
       ],
       "explanation": "For independent variables, variances add even for differences: 9 + 16 = 25.",
-      "memoryHook": "T-Rexy says: Variances always add for independent variables - even when subtracting!",
+      "memoryHook": "Variances always add for independent variables - even when subtracting!",
       "imageUrl": "topic:random-variables",
       "tags": [
         "random-variables",
@@ -864,7 +864,7 @@
         "2.00"
       ],
       "explanation": "p-hat = 40/100 = 0.40. Under H0 the standard error uses p0, not p-hat: SE = sqrt(0.5 x 0.5 / 100) = 0.05. Then z = (0.40 - 0.50)/0.05 = -0.10/0.05 = -2.00. The value -0.10 is the numerator alone, before dividing by the standard error. The one-sided p-value is about 0.0228, below alpha = 0.05, so we reject H0: the sample gives convincing evidence that fewer than half of the batteries reach 5 years.",
-      "memoryHook": "T-Rexy says: z is difference over standard error - two full SEs below the claim!",
+      "memoryHook": "Z is difference over standard error - two full SEs below the claim!",
       "imageUrl": "topic:sampling-distributions",
       "tags": [
         "inference",
@@ -884,7 +884,7 @@
         "The data has no outliers"
       ],
       "explanation": "For large n (rule of thumb n >= 30), the sampling distribution of x-bar is approximately normal regardless of population shape.",
-      "memoryHook": "T-Rexy says: Big samples tame wild shapes - n of 30 makes means normal-ish!",
+      "memoryHook": "Big samples tame wild shapes - n of 30 makes means normal-ish!",
       "imageUrl": "topic:sampling-distributions",
       "tags": [
         "sampling-distributions",
@@ -904,7 +904,7 @@
         "0.33"
       ],
       "explanation": "Standard error = sigma/sqrt(n) = 12/sqrt(36) = 12/6 = 2.",
-      "memoryHook": "T-Rexy says: Standard error shrinks with root-n - 12 divided by 6!",
+      "memoryHook": "Standard error shrinks with root-n - 12 divided by 6!",
       "imageUrl": "topic:sampling-distributions",
       "tags": [
         "sampling-distributions",
@@ -924,7 +924,7 @@
         "95% of samples give the same interval"
       ],
       "explanation": "The confidence level describes the long-run capture rate of the method, not a probability about one interval.",
-      "memoryHook": "T-Rexy says: 95% confident means the method works 95 times out of 100!",
+      "memoryHook": "95% confident means the method works 95 times out of 100!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -944,7 +944,7 @@
         "It is cut to one-fourth"
       ],
       "explanation": "Margin of error is proportional to 1/sqrt(n); quadrupling n divides it by sqrt(4) = 2.",
-      "memoryHook": "T-Rexy says: Four times the data, half the wiggle - root-n rules!",
+      "memoryHook": "Four times the data, half the wiggle - root-n rules!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -964,7 +964,7 @@
         "0.55 plus or minus 0.138"
       ],
       "explanation": "p-hat = 0.55. SE = sqrt(0.55(0.45)/200) = 0.0352. ME = 1.96(0.0352) = 0.069.",
-      "memoryHook": "T-Rexy says: p-hat plus or minus z-star times the standard error!",
+      "memoryHook": "P-hat plus or minus z-star times the standard error!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -984,7 +984,7 @@
         "80 plus or minus 3.92"
       ],
       "explanation": "For a mean with unknown sigma, use a t interval: x-bar plus or minus t* x s/sqrt(n). The standard error is 10/sqrt(25) = 10/5 = 2, so the margin of error is 2.064 x 2 = 4.128, about 4.13, giving 80 plus or minus 4.13, or (75.87, 84.13). The distractor 2.00 is the standard error alone, 20.64 forgets to divide s by sqrt(n), and 3.92 uses z* = 1.96 instead of t*, which understates the margin because s is only an estimate of sigma.",
-      "memoryHook": "T-Rexy says: t interval is x-bar plus or minus t-star times s over root n!",
+      "memoryHook": "T interval is x-bar plus or minus t-star times s over root n!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1004,7 +1004,7 @@
         "752"
       ],
       "explanation": "n = (z*/m)^2 x 0.25 = (1.96/0.03)^2 x 0.25 = 1067.1, round up to 1068.",
-      "memoryHook": "T-Rexy says: No guess? Use 0.5 - it gives the biggest, safest sample size!",
+      "memoryHook": "No guess? Use 0.5 - it gives the biggest, safest sample size!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1024,7 +1024,7 @@
         "The sample is biased"
       ],
       "explanation": "H0 is the status-quo claim of no effect/no difference that we test against.",
-      "memoryHook": "T-Rexy says: Null means nothing happening - the boring default claim!",
+      "memoryHook": "Null means nothing happening - the boring default claim!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1044,7 +1044,7 @@
         "The result is practically important"
       ],
       "explanation": "The p-value is the probability of data this extreme assuming H0 is true; it is not P(H0 true).",
-      "memoryHook": "T-Rexy says: P-value assumes null is true - how weird is our data then?",
+      "memoryHook": "P-value assumes null is true - how weird is our data then?",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1064,7 +1064,7 @@
         "Having a biased sample"
       ],
       "explanation": "Type I error = false positive: rejecting H0 when it is actually true.",
-      "memoryHook": "T-Rexy says: Type I is a false alarm - rejecting a true null!",
+      "memoryHook": "Type I is a false alarm - rejecting a true null!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1084,7 +1084,7 @@
         "Using a small sample"
       ],
       "explanation": "Type II error = false negative: failing to reject H0 when Ha is actually true.",
-      "memoryHook": "T-Rexy says: Type II misses the real thing - letting a false null slide!",
+      "memoryHook": "Type II misses the real thing - letting a false null slide!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1104,7 +1104,7 @@
         "The test is inconclusive"
       ],
       "explanation": "Since p-value (0.02) < alpha (0.05), we reject H0.",
-      "memoryHook": "T-Rexy says: P-value smaller than alpha - reject the null!",
+      "memoryHook": "P-value smaller than alpha - reject the null!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1124,7 +1124,7 @@
         "The sample must be paired"
       ],
       "explanation": "The Large Counts condition ensures the sampling distribution is approximately normal.",
-      "memoryHook": "T-Rexy says: Need at least 10 successes and 10 failures - large counts!",
+      "memoryHook": "Need at least 10 successes and 10 failures - large counts!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1144,7 +1144,7 @@
         "Because n is large"
       ],
       "explanation": "When sigma is unknown we use s, adding extra variability captured by the t-distribution.",
-      "memoryHook": "T-Rexy says: Unknown sigma? Use s and the t-distribution - it has fatter tails!",
+      "memoryHook": "Unknown sigma? Use s and the t-distribution - it has fatter tails!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1164,7 +1164,7 @@
         "Independence (10% condition)"
       ],
       "explanation": "Random, Normal/Large n, and Independence are the conditions; knowing sigma is not required (we use t).",
-      "memoryHook": "T-Rexy says: Random, Normal, Independent - sigma known is NOT required!",
+      "memoryHook": "Random, Normal, Independent - sigma known is NOT required!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1184,7 +1184,7 @@
         "y increases by 2 for each x"
       ],
       "explanation": "Slope = predicted change in y per 1-unit increase in x.",
-      "memoryHook": "T-Rexy says: Slope is rise over run - up 3 for every 1 across!",
+      "memoryHook": "Slope is rise over run - up 3 for every 1 across!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -1204,7 +1204,7 @@
         "The maximum y-value"
       ],
       "explanation": "Set x = 0 in y-hat = 2 + 3x and you get y-hat = 2. That starting value is the intercept - useful for reading the line, though it only makes sense if x = 0 is realistic in context.",
-      "memoryHook": "T-Rexy says: Intercept is where the line hits the y-axis - x equals zero!",
+      "memoryHook": "Intercept is where the line hits the y-axis - x equals zero!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -1224,7 +1224,7 @@
         "The correlation coefficient"
       ],
       "explanation": "Residual = observed - predicted (y - y-hat); it measures prediction error.",
-      "memoryHook": "T-Rexy says: Residual is the leftover - actual minus predicted!",
+      "memoryHook": "Residual is the leftover - actual minus predicted!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -1244,7 +1244,7 @@
         "9.6"
       ],
       "explanation": "The least-squares slope is b = r(sy/sx) = 0.8 x (12/4) = 0.8 x 3 = 2.4 points per practice hour. The line then passes through (x-bar, y-bar), so the intercept is a = y-bar - b(x-bar) = 50 - 2.4 x 10 = 26, and the full line is y-hat = 26 + 2.4x. Inverting the ratio, 0.8 x (4/12) = 0.27, would give the slope of the reversed regression of x on y, and 9.6 = r x sy forgets to divide by sx.",
-      "memoryHook": "T-Rexy says: Slope is r times sy over sx - stretch the correlation by the spread ratio!",
+      "memoryHook": "Slope is r times sy over sx - stretch the correlation by the spread ratio!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -1264,7 +1264,7 @@
         "That correlation exists"
       ],
       "explanation": "Correlation does not imply causation; a lurking variable (hot weather) explains both.",
-      "memoryHook": "T-Rexy says: Correlation is not causation - look for the lurking variable!",
+      "memoryHook": "Correlation is not causation - look for the lurking variable!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -1284,7 +1284,7 @@
         "A variable with no effect"
       ],
       "explanation": "A lurking variable is unmeasured but influences the relationship, potentially creating misleading association.",
-      "memoryHook": "T-Rexy says: Lurking variables hide in the bushes and mess up your conclusions!",
+      "memoryHook": "Lurking variables hide in the bushes and mess up your conclusions!",
       "imageUrl": "topic:study-design",
       "tags": [
         "study-design",
@@ -1304,7 +1304,7 @@
         "Estimate a proportion"
       ],
       "explanation": "Goodness-of-fit tests whether a single categorical variable follows a claimed distribution.",
-      "memoryHook": "T-Rexy says: Goodness-of-fit asks - does our data fit the claimed recipe?",
+      "memoryHook": "Goodness-of-fit asks - does our data fit the claimed recipe?",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1324,7 +1324,7 @@
         "(-1.55, 11.55)"
       ],
       "explanation": "A two-sample t interval is (x-bar1 - x-bar2) plus or minus t* x sqrt(s1^2/n1 + s2^2/n2). The estimate is 52 - 47 = 5 and the standard error is sqrt(64/20 + 36/20) = sqrt(3.2 + 1.8) = sqrt(5) = 2.24, so the margin of error is 2.093 x 2.24 = 4.68 and the interval is 5 plus or minus 4.68, or (0.32, 9.68). (The t* = 2.093 uses the conservative df = 19, the smaller sample size minus 1.) The interval (0.62, 9.38) uses z* = 1.96 instead of t*, too small because both population standard deviations are estimated from samples. The interval (-5.47, 15.47) uses 5 - the sum 3.2 + 1.8 before its square root - as the standard error, and (-1.55, 11.55) adds the standard deviations first, (8 + 6)/sqrt(20). Because the whole interval is above 0, the data give convincing evidence that Therapy A's mean recovery time is longer.",
-      "memoryHook": "T-Rexy says: Two-sample interval adds the variance parts - 5 plus or minus 4.68 stays above zero!",
+      "memoryHook": "Two-sample interval adds the variance parts - 5 plus or minus 4.68 stays above zero!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1344,7 +1344,7 @@
         "Testing proportions"
       ],
       "explanation": "Paired designs create dependent pairs; analyze the differences with a one-sample t procedure.",
-      "memoryHook": "T-Rexy says: Paired means linked - before and after, or matched twins!",
+      "memoryHook": "Paired means linked - before and after, or matched twins!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1364,7 +1364,7 @@
         "To guarantee significance"
       ],
       "explanation": "Random assignment balances lurking variables across treatment groups, supporting cause-and-effect claims.",
-      "memoryHook": "T-Rexy says: Random assignment deals fair hands - groups start out even!",
+      "memoryHook": "Random assignment deals fair hands - groups start out even!",
       "imageUrl": "topic:study-design",
       "tags": [
         "study-design",
@@ -1384,7 +1384,7 @@
         "Sampling without replacement"
       ],
       "explanation": "Blocking groups subjects by a known source of variability, then randomizes within blocks.",
-      "memoryHook": "T-Rexy says: Block the troublemakers - group similar subjects first!",
+      "memoryHook": "Block the troublemakers - group similar subjects first!",
       "imageUrl": "topic:study-design",
       "tags": [
         "study-design",
@@ -1404,7 +1404,7 @@
         "Sample size"
       ],
       "explanation": "Matching pairs subjects alike on key variables to control variability, then randomize within pairs.",
-      "memoryHook": "T-Rexy says: Match look-alikes, then flip a coin within each pair!",
+      "memoryHook": "Match look-alikes, then flip a coin within each pair!",
       "imageUrl": "topic:study-design",
       "tags": [
         "study-design",
@@ -1424,7 +1424,7 @@
         "About (1.55, 3.20)"
       ],
       "explanation": "A slope interval is b plus or minus t* x SE(b): 3.2 plus or minus 2.06 x 0.8 = 3.2 plus or minus 1.648, giving about (1.55, 4.85). SE(b) = 0.8 measures how much a sample slope would typically vary from sample to sample. The distractor (2.40, 4.00) uses one SE with no t* multiplier, and (1.63, 4.77) uses z* = 1.96 instead of t*. The interval excludes 0, so there is convincing evidence of a linear relationship. Slope inference requires the LINE conditions: Linear pattern, Independent observations, Normal residuals, Equal spread of residuals, and a Random sample.",
-      "memoryHook": "T-Rexy says: Slope interval is b plus or minus t-star times SE of b - (1.55, 4.85) misses zero!",
+      "memoryHook": "Slope interval is b plus or minus t-star times SE of b - (1.55, 4.85) misses zero!",
       "imageUrl": "topic:sampling-distributions",
       "tags": [
         "regression",
@@ -1444,7 +1444,7 @@
         "The sample size divided by alpha"
       ],
       "explanation": "Power = 1 - P(Type II error) = P(reject H0 | Ha true).",
-      "memoryHook": "T-Rexy says: Power is the test's muscle - catching false nulls!",
+      "memoryHook": "Power is the test's muscle - catching false nulls!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1464,7 +1464,7 @@
         "Nothing - they are unrelated"
       ],
       "explanation": "CI and two-sided test agree: excluding the null value at 95% confidence matches rejecting at alpha = 0.05.",
-      "memoryHook": "T-Rexy says: Interval misses zero? The two-sided test rejects too - they agree!",
+      "memoryHook": "Interval misses zero? The two-sided test rejects too - they agree!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1484,7 +1484,7 @@
         "A paired t-test"
       ],
       "explanation": "Inference for the slope uses t = b/SE_b with n-2 degrees of freedom.",
-      "memoryHook": "T-Rexy says: Slope significance? T-test with n minus 2 degrees of freedom!",
+      "memoryHook": "Slope significance? T-test with n minus 2 degrees of freedom!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -1504,7 +1504,7 @@
         "Estimating a single proportion"
       ],
       "explanation": "Use it when ONE sample is cross-classified two ways - for example, one group of students sorted by both gender and favorite subject. The test then asks whether the two variables are independent or associated. Two separate samples would call for homogeneity instead.",
-      "memoryHook": "T-Rexy says: Two categorical variables, one sample - test for independence!",
+      "memoryHook": "Two categorical variables, one sample - test for independence!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1524,7 +1524,7 @@
         "Testing a regression slope"
       ],
       "explanation": "Use it when SEPARATE samples are drawn from each population - for example, sophomores, juniors, and seniors each sampled on their own - and the same categorical variable is compared across them. One pooled sample cross-classified two ways would call for independence instead.",
-      "memoryHook": "T-Rexy says: Same variable, several groups - are the distributions homogeneous?",
+      "memoryHook": "Same variable, several groups - are the distributions homogeneous?",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1544,7 +1544,7 @@
         "The t-distribution"
       ],
       "explanation": "Under H0 (p1 = p2), we pool: p-hat = (x1+x2)/(n1+n2), then SE uses the pooled value.",
-      "memoryHook": "T-Rexy says: Testing equality? Pool them - one common proportion under H0!",
+      "memoryHook": "Testing equality? Pool them - one common proportion under H0!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1564,7 +1564,7 @@
         "Degrees of freedom"
       ],
       "explanation": "Confidence intervals do not assume equality, so use each sample's own p-hat (unpooled).",
-      "memoryHook": "T-Rexy says: Intervals do not assume equal - keep the proportions separate!",
+      "memoryHook": "Intervals do not assume equal - keep the proportions separate!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1584,7 +1584,7 @@
         "It always gives smaller p-values"
       ],
       "explanation": "Analyzing differences within pairs eliminates between-subject variation, reducing standard error.",
-      "memoryHook": "T-Rexy says: Pairing cancels out individual differences - less noise, more power!",
+      "memoryHook": "Pairing cancels out individual differences - less noise, more power!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1604,7 +1604,7 @@
         "Square the correlation"
       ],
       "explanation": "Log or power transformations can straighten nonlinear patterns so linear regression applies.",
-      "memoryHook": "T-Rexy says: Curved cloud? Try a log - straighten it out!",
+      "memoryHook": "Curved cloud? Try a log - straighten it out!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -1624,7 +1624,7 @@
         "The correlation is 1"
       ],
       "explanation": "Residuals should scatter randomly; a pattern (like a curve) means the linear model misses structure.",
-      "memoryHook": "T-Rexy says: Curvy residuals wave a red flag - linear model does not fit!",
+      "memoryHook": "Curvy residuals wave a red flag - linear model does not fit!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -1644,7 +1644,7 @@
         "Influential points have small residuals"
       ],
       "explanation": "Outliers have large residuals; influential points (often high-leverage x-values) pull the line.",
-      "memoryHook": "T-Rexy says: Outliers stray, influential points drag the whole line along!",
+      "memoryHook": "Outliers stray, influential points drag the whole line along!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -1664,7 +1664,7 @@
         "Two variables are perfectly correlated"
       ],
       "explanation": "Aggregated data can show one trend while subgroups show the opposite - a lurking variable is at work.",
-      "memoryHook": "T-Rexy says: The whole tells one story, the parts tell the opposite - paradox!",
+      "memoryHook": "The whole tells one story, the parts tell the opposite - paradox!",
       "imageUrl": "topic:study-design",
       "tags": [
         "study-design",
@@ -1684,7 +1684,7 @@
         "Nonresponse only affects censuses"
       ],
       "explanation": "Nonresponse happens after selection; undercoverage means the sampling frame misses part of the population.",
-      "memoryHook": "T-Rexy says: Nonresponse ghosts you; undercoverage never invited them!",
+      "memoryHook": "Nonresponse ghosts you; undercoverage never invited them!",
       "imageUrl": "topic:sampling",
       "tags": [
         "sampling",
@@ -1704,7 +1704,7 @@
         "Experiments eliminate all bias"
       ],
       "explanation": "Random assignment makes treatment groups comparable, isolating the treatment effect from confounders.",
-      "memoryHook": "T-Rexy says: Random assignment evens the playing field - that is why experiments can claim cause!",
+      "memoryHook": "Random assignment evens the playing field - that is why experiments can claim cause!",
       "imageUrl": "topic:study-design",
       "tags": [
         "study-design",
@@ -1724,7 +1724,7 @@
         "200"
       ],
       "explanation": "SD(x-bar) = sigma/sqrt(n) = 20/sqrt(100) = 20/10 = 2.",
-      "memoryHook": "T-Rexy says: Divide sigma by root-n - 20 over 10 is 2!",
+      "memoryHook": "Divide sigma by root-n - 20 over 10 is 2!",
       "imageUrl": "topic:sampling-distributions",
       "tags": [
         "sampling-distributions",
@@ -1744,7 +1744,7 @@
         "28"
       ],
       "explanation": "t = (b - 0)/SE_b = 1.5/0.5 = 3.0 with 28 degrees of freedom.",
-      "memoryHook": "T-Rexy says: T is estimate over its standard error - 1.5 divided by 0.5!",
+      "memoryHook": "T is estimate over its standard error - 1.5 divided by 0.5!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -1764,7 +1764,7 @@
         "0.00 plus or minus 0.136"
       ],
       "explanation": "p-hat1 = 60/100 = 0.60 and p-hat2 = 40/100 = 0.40, so the estimate is 0.20. For an interval the standard error is unpooled: sqrt(0.6 x 0.4/100 + 0.4 x 0.6/100) = sqrt(0.0024 + 0.0024) = sqrt(0.0048) = 0.0693. The margin of error is 1.96 x 0.0693 = 0.136, so the interval is 0.20 plus or minus 0.136, or about (0.064, 0.336). The distractor 0.069 is the standard error with no z* multiplier, and 0.096 uses only one sample in the standard error. Because the interval lies entirely above 0, the data support a higher pass rate for juniors. Pooling is reserved for a test of H0: p1 = p2, not for intervals.",
-      "memoryHook": "T-Rexy says: Difference interval adds the two variances - unpooled for intervals, always!",
+      "memoryHook": "Difference interval adds the two variances - unpooled for intervals, always!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1784,7 +1784,7 @@
         "The interval becomes a point"
       ],
       "explanation": "Higher confidence requires a larger critical value, widening the interval.",
-      "memoryHook": "T-Rexy says: More confidence needs more room - wider net catches more!",
+      "memoryHook": "More confidence needs more room - wider net catches more!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1804,7 +1804,7 @@
         "12.5"
       ],
       "explanation": "An expected count is (row total x column total) / grand total = (80 x 50)/200 = 4000/200 = 20. The distractor 32 uses the row total twice, 40 divides by 100 instead of the grand total 200, and 12.5 uses the column total twice. The full expected table is Juniors: 20 passed and 60 did not pass; Seniors: 30 passed and 90 did not pass. Every expected count is at least 5, so the expected-counts condition is satisfied and a chi-square test for independence can proceed.",
-      "memoryHook": "T-Rexy says: Expected is row times column over grand total - 80 times 50 over 200 is 20!",
+      "memoryHook": "Expected is row times column over grand total - 80 times 50 over 200 is 20!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1824,7 +1824,7 @@
         "0.933"
       ],
       "explanation": "Two-sided p-value doubles the one-sided tail area: 2 x 0.067 = 0.134.",
-      "memoryHook": "T-Rexy says: Two sides, double the tail - multiply by 2!",
+      "memoryHook": "Two sides, double the tail - multiply by 2!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1844,7 +1844,7 @@
         "A flawed experiment"
       ],
       "explanation": "Large samples can detect trivial differences; always ask whether the effect matters in context.",
-      "memoryHook": "T-Rexy says: Big samples find tiny differences - ask if it actually matters!",
+      "memoryHook": "Big samples find tiny differences - ask if it actually matters!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -1864,7 +1864,7 @@
         "12"
       ],
       "explanation": "Var(X+Y) = 9 + 16 = 25, so SD = sqrt(25) = 5.",
-      "memoryHook": "T-Rexy says: Add variances, then square-root - sqrt(9+16) = 5!",
+      "memoryHook": "Add variances, then square-root - sqrt(9+16) = 5!",
       "imageUrl": "topic:random-variables",
       "tags": [
         "random-variables",
@@ -1884,7 +1884,7 @@
         "When p = 0.5 only"
       ],
       "explanation": "The Large Counts condition justifies the normal approximation to the binomial.",
-      "memoryHook": "T-Rexy says: Ten successes and ten failures - then normal is fair game!",
+      "memoryHook": "Ten successes and ten failures - then normal is fair game!",
       "imageUrl": "topic:probability",
       "tags": [
         "probability",
@@ -1904,7 +1904,7 @@
         "3.5"
       ],
       "explanation": "The standard error of x-bar is s/sqrt(n) = 14/sqrt(49) = 14/7 = 2. Then t = (x-bar - mu0) / SE = (68 - 75)/2 = -7/2 = -3.5, with df = 48. The distractor -7 is the numerator alone, and -0.5 divides by s = 14 instead of the standard error, which understates how unusual the sample mean is, because the mean of 49 observations varies far less than a single observation.",
-      "memoryHook": "T-Rexy says: t is the gap over the standard error - a 7-point gap at SE 2 is t = -3.5!",
+      "memoryHook": "T is the gap over the standard error - a 7-point gap at SE 2 is t = -3.5!",
       "imageUrl": "topic:regression",
       "tags": [
         "inference",
@@ -1924,7 +1924,7 @@
         "Residual analysis"
       ],
       "explanation": "Extrapolation is risky because the linear pattern may not continue beyond the data.",
-      "memoryHook": "T-Rexy says: Predicting beyond the data is extrapolation - danger zone!",
+      "memoryHook": "Predicting beyond the data is extrapolation - danger zone!",
       "imageUrl": "topic:regression",
       "tags": [
         "regression",
@@ -1944,7 +1944,7 @@
         "Random chance"
       ],
       "explanation": "A confounding variable is associated with both the explanatory and response variables, muddying causation.",
-      "memoryHook": "T-Rexy says: Confounders tangle the story - work stress drives both!",
+      "memoryHook": "Confounders tangle the story - work stress drives both!",
       "imageUrl": "topic:study-design",
       "tags": [
         "study-design",
@@ -1964,7 +1964,7 @@
         "Results are kept secret forever"
       ],
       "explanation": "Double-blinding prevents both subject expectations and researcher bias from affecting outcomes.",
-      "memoryHook": "T-Rexy says: Double-blind means nobody knows - no sneaky expectations!",
+      "memoryHook": "Double-blind means nobody knows - no sneaky expectations!",
       "imageUrl": "topic:study-design",
       "tags": [
         "study-design",
@@ -1984,7 +1984,7 @@
         "Paired t-test"
       ],
       "explanation": "Two independent groups with quantitative response calls for a two-sample t-test.",
-      "memoryHook": "T-Rexy says: Two independent brands, two means - two-sample t!",
+      "memoryHook": "Two independent brands, two means - two-sample t!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",
@@ -2004,7 +2004,7 @@
         "Regression t-test for slope"
       ],
       "explanation": "First check the data type: exercise habit and heart-health status are both categorical, and every person in the single sample supplies one value of each. Two categorical variables in one sample point to chi-square - a t-test would need a quantitative response, and a proportion z-test only handles one categorical variable.",
-      "memoryHook": "T-Rexy says: Two categories, one sample - chi-square independence test!",
+      "memoryHook": "Two categories, one sample - chi-square independence test!",
       "imageUrl": "topic:inference",
       "tags": [
         "inference",

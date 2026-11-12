@@ -23,7 +23,7 @@
     "(6, 5)"
    ],
    "explanation": "Complete the square: y = (x-3)^2 - 4, so vertex is (3, -4).",
-   "memoryHook": "T-Rexy says: The vertex is where the parabola turns around.",
+   "memoryHook": "The vertex is where the parabola turns around.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "quadratic",
@@ -43,7 +43,7 @@
     "x = 24.5"
    ],
    "explanation": "Taking square roots gives x = plus or minus 7.",
-   "memoryHook": "T-Rexy says: Square roots always give two answers, plus and minus.",
+   "memoryHook": "Square roots always give two answers, plus and minus.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "quadratic",
@@ -63,7 +63,7 @@
     "-1"
    ],
    "explanation": "b^2 - 4ac = 25 - 24 = 1.",
-   "memoryHook": "T-Rexy says: The discriminant tells you how many real roots there are.",
+   "memoryHook": "The discriminant tells you how many real roots there are.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "quadratic",
@@ -83,7 +83,7 @@
     "(x - 3)^2"
    ],
    "explanation": "Difference of squares: a^2 - b^2 = (a-b)(a+b).",
-   "memoryHook": "T-Rexy says: A minus sign between two squares factors into a sum times a difference.",
+   "memoryHook": "A minus sign between two squares factors into a sum times a difference.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "factoring"
@@ -102,7 +102,7 @@
     "x^2 + 4x + 2"
    ],
    "explanation": "(x+2)^2 = x^2 + 4x + 4 by FOIL.",
-   "memoryHook": "T-Rexy says: Square the first, twice the product, square the last.",
+   "memoryHook": "Square the first, twice the product, square the last.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials"
@@ -121,7 +121,7 @@
     "2"
    ],
    "explanation": "The degree is the highest exponent, which is 4.",
-   "memoryHook": "T-Rexy says: Degree means the biggest exponent in the polynomial.",
+   "memoryHook": "Degree means the biggest exponent in the polynomial.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -141,7 +141,7 @@
     "5x^6"
    ],
    "explanation": "Multiply coefficients (2 times 3 = 6) and add exponents (3+2 = 5).",
-   "memoryHook": "T-Rexy says: Multiply the numbers, add the exponents.",
+   "memoryHook": "Multiply the numbers, add the exponents.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -161,7 +161,7 @@
     "8"
    ],
    "explanation": "2^3 = 8, so log base 2 of 8 is 3.",
-   "memoryHook": "T-Rexy says: A log asks: what power gives this number?",
+   "memoryHook": "A log asks: what power gives this number?",
    "imageUrl": "topic:algebra2",
    "tags": [
     "logarithms"
@@ -180,7 +180,7 @@
     "Undefined"
    ],
    "explanation": "Any nonzero number to the zero power equals 1.",
-   "memoryHook": "T-Rexy says: Any nonzero number to the zero power is 1.",
+   "memoryHook": "Any nonzero number to the zero power is 1.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "exponents"
@@ -199,7 +199,7 @@
     "Center (-2, -3), radius 2"
    ],
    "explanation": "Compare with the standard form (x - h)^2 + (y - k)^2 = r^2. Here h = 2 and k = -3 (because y + 3 means y - (-3)), so the center is (2, -3). The radius is r = sqrt(16) = 4, not 16.",
-   "memoryHook": "T-Rexy says: The signs inside the parentheses flip - (x - 2) means the center moved right 2.",
+   "memoryHook": "The signs inside the parentheses flip - (x - 2) means the center moved right 2.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "conics",
@@ -219,7 +219,7 @@
     "0"
    ],
    "explanation": "The y-intercept is the constant term, 3.",
-   "memoryHook": "T-Rexy says: Set x to zero to find where it hits the y-axis.",
+   "memoryHook": "Set x to zero to find where it hits the y-axis.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "linear"
@@ -238,7 +238,7 @@
     "[[-4, 2], [2, 2]]"
    ],
    "explanation": "Matrix addition is entry by entry: add the numbers in matching positions. Top-left: 1 + 5 = 6. Top-right: 2 + 0 = 2. Bottom-left: 3 + 1 = 4. Bottom-right: 4 + 2 = 6. The sum is [[6, 2], [4, 6]].",
-   "memoryHook": "T-Rexy says: Add matrices position by position - each entry only meets its twin.",
+   "memoryHook": "Add matrices position by position - each entry only meets its twin.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "matrices",
@@ -258,7 +258,7 @@
     "16"
    ],
    "explanation": "8 times 8 = 64, so sqrt(64) = 8.",
-   "memoryHook": "T-Rexy says: Ask yourself: what times itself gives 64?",
+   "memoryHook": "Ask yourself: what times itself gives 64?",
    "imageUrl": "topic:algebra2",
    "tags": [
     "radicals"
@@ -277,7 +277,7 @@
     "2"
    ],
    "explanation": "Each term increases by 4.",
-   "memoryHook": "T-Rexy says: Subtract consecutive terms to find the difference.",
+   "memoryHook": "Subtract consecutive terms to find the difference.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "sequences",
@@ -297,7 +297,7 @@
     "4"
    ],
    "explanation": "Each term is multiplied by 3.",
-   "memoryHook": "T-Rexy says: Divide consecutive terms to find the ratio.",
+   "memoryHook": "Divide consecutive terms to find the ratio.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "sequences",
@@ -317,7 +317,7 @@
     "12"
    ],
    "explanation": "f(2) = 4 + 6 = 10.",
-   "memoryHook": "T-Rexy says: Plug in 2 wherever you see x.",
+   "memoryHook": "Plug in 2 wherever you see x.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "functions",
@@ -337,7 +337,7 @@
     "x <= 2"
    ],
    "explanation": "The radicand must be non-negative: x - 2 >= 0, so x >= 2.",
-   "memoryHook": "T-Rexy says: You cannot take the square root of a negative number.",
+   "memoryHook": "You cannot take the square root of a negative number.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "functions",
@@ -357,7 +357,7 @@
     "5/12"
    ],
    "explanation": "Probability = (favorable outcomes) / (total outcomes). There are 3 blue marbles and 4 + 3 + 5 = 12 marbles in total, so P(blue) = 3/12 = 1/4 after simplifying.",
-   "memoryHook": "T-Rexy says: Count what you want, count everything, then simplify the fraction.",
+   "memoryHook": "Count what you want, count everything, then simplify the fraction.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "probability"
@@ -376,7 +376,7 @@
     "x = 5 or x = 6"
    ],
    "explanation": "x^2 - 5x + 6 = (x - 2)(x - 3) = 0, so x = 2 or 3.",
-   "memoryHook": "T-Rexy says: Find two numbers that multiply to 6 and add to -5.",
+   "memoryHook": "Find two numbers that multiply to 6 and add to -5.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "quadratic",
@@ -396,7 +396,7 @@
     "60"
    ],
    "explanation": "5! = 5 x 4 x 3 x 2 x 1 = 120.",
-   "memoryHook": "T-Rexy says: Factorial means multiply down to 1.",
+   "memoryHook": "Factorial means multiply down to 1.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "factorial"
@@ -415,7 +415,7 @@
     "[[2, -1], [0, 15]]"
    ],
    "explanation": "A scalar multiplies EVERY entry of the matrix: 3 * 2 = 6, 3 * (-1) = -3, 3 * 0 = 0, and 3 * 5 = 15. The result is [[6, -3], [0, 15]]. No entry gets skipped, and the scalar is multiplied, not added.",
-   "memoryHook": "T-Rexy says: A scalar visits every single entry - nobody gets left out.",
+   "memoryHook": "A scalar visits every single entry - nobody gets left out.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "matrices",
@@ -435,7 +435,7 @@
     "x = -4"
    ],
    "explanation": "x = -b/(2a) = -4/2 = -2.",
-   "memoryHook": "T-Rexy says: The axis of symmetry splits the parabola in half.",
+   "memoryHook": "The axis of symmetry splits the parabola in half.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "quadratic",
@@ -455,7 +455,7 @@
     "256"
    ],
    "explanation": "Choosing a committee is a combination, because the order of the members does not matter: C(8, 3) = 8! / (3! * 5!) = (8 * 7 * 6) / (3 * 2 * 1) = 336 / 6 = 56. The value 336 counts ordered picks (permutations), which overcounts a committee where every member is equal.",
-   "memoryHook": "T-Rexy says: If order does not matter, divide it out - committees are combinations.",
+   "memoryHook": "If order does not matter, divide it out - committees are combinations.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "probability",
@@ -475,7 +475,7 @@
     "100"
    ],
    "explanation": "10^2 = 100, so log(100) = 2.",
-   "memoryHook": "T-Rexy says: Base 10 logs count the zeros.",
+   "memoryHook": "Base 10 logs count the zeros.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "logarithms"
@@ -494,7 +494,7 @@
     "x = 32"
    ],
    "explanation": "2^4 = 16, so x = 4.",
-   "memoryHook": "T-Rexy says: Match the bases, then match the exponents.",
+   "memoryHook": "Match the bases, then match the exponents.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "exponential"
@@ -513,7 +513,7 @@
     "-2"
    ],
    "explanation": "By the Remainder Theorem, evaluate at x = -1: 1 - 3 + 2 = 0.",
-   "memoryHook": "T-Rexy says: Plug in the zero of the divisor to find the remainder.",
+   "memoryHook": "Plug in the zero of the divisor to find the remainder.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -533,7 +533,7 @@
     "10"
    ],
    "explanation": "Add all the values: 4 + 6 + 8 + 10 + 12 = 40. Then divide by the number of values, which is 5: 40 / 5 = 8. The value 40 is only the sum - the mean must be divided back down by the count.",
-   "memoryHook": "T-Rexy says: Mean means share it out - add everything, then divide by how many there are.",
+   "memoryHook": "Mean means share it out - add everything, then divide by how many there are.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "statistics",
@@ -553,7 +553,7 @@
     "f^-1(x) = x/2 + 6"
    ],
    "explanation": "Swap x and y, then solve: x = 2y + 6 gives y = (x - 6)/2.",
-   "memoryHook": "T-Rexy says: Swap x and y, then solve for y.",
+   "memoryHook": "Swap x and y, then solve for y.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "functions",
@@ -573,7 +573,7 @@
     "2x"
    ],
    "explanation": "Factor: (x-2)(x+2)/(x-2) = x + 2 (for x not equal 2).",
-   "memoryHook": "T-Rexy says: Factor first, then cancel common factors.",
+   "memoryHook": "Factor first, then cancel common factors.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "rational"
@@ -592,7 +592,7 @@
     "5/3"
    ],
    "explanation": "Sine is opposite over hypotenuse: sin(theta) = 6/10 = 3/5. The adjacent side (found from the Pythagorean theorem) is 8, so 4/5 would be cos(theta) and 3/4 would be tan(theta) - keep the three ratios separate.",
-   "memoryHook": "T-Rexy says: SOH - Sine is Opposite over Hypotenuse.",
+   "memoryHook": "SOH - Sine is Opposite over Hypotenuse.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "trigonometry",
@@ -612,7 +612,7 @@
     "x = 1 or x = 2"
    ],
    "explanation": "x = [8 plus/minus sqrt(64 - 48)]/4 = [8 plus/minus 4]/4 = 1 or 3.",
-   "memoryHook": "T-Rexy says: The quadratic formula is x = (-b plus/minus sqrt(b^2 - 4ac)) / 2a.",
+   "memoryHook": "The quadratic formula is x = (-b plus/minus sqrt(b^2 - 4ac)) / 2a.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "quadratic",
@@ -632,7 +632,7 @@
     "No solutions"
    ],
    "explanation": "Discriminant is 4 - 20 = -16, so roots are (-2 plus/minus 4i)/2 = -1 plus/minus 2i.",
-   "memoryHook": "T-Rexy says: A negative discriminant means complex roots.",
+   "memoryHook": "A negative discriminant means complex roots.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "quadratic",
@@ -652,7 +652,7 @@
     "x^3 - 9x - 27"
    ],
    "explanation": "This is the sum of cubes pattern: (a+b)(a^2 - ab + b^2) = a^3 + b^3 = x^3 + 27.",
-   "memoryHook": "T-Rexy says: Sum of cubes: a^3 + b^3 factors with a plus sign.",
+   "memoryHook": "Sum of cubes: a^3 + b^3 factors with a plus sign.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -672,7 +672,7 @@
     "-4"
    ],
    "explanation": "Synthetic division with 1: coefficients 1, -2, 3, -4 give remainder -2.",
-   "memoryHook": "T-Rexy says: Synthetic division is long division in shorthand.",
+   "memoryHook": "Synthetic division is long division in shorthand.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -692,7 +692,7 @@
     "3(x - 2)"
    ],
    "explanation": "Factor: 3(x^2 - 4)/(x^2 - 4) = 3.",
-   "memoryHook": "T-Rexy says: Factor top and bottom, then cancel.",
+   "memoryHook": "Factor top and bottom, then cancel.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "rational"
@@ -711,7 +711,7 @@
     "x = -7"
    ],
    "explanation": "x + 1 = 3(x - 2) gives x + 1 = 3x - 6, so 2x = 7, x = 7/2.",
-   "memoryHook": "T-Rexy says: Multiply both sides by the denominator.",
+   "memoryHook": "Multiply both sides by the denominator.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "rational",
@@ -731,7 +731,7 @@
     "8"
    ],
    "explanation": "log_3(27) = 3 and log_3(9) = 2, so the sum is 5.",
-   "memoryHook": "T-Rexy says: Logs turn multiplication into addition.",
+   "memoryHook": "Logs turn multiplication into addition.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "logarithms"
@@ -750,7 +750,7 @@
     "x = 16"
    ],
    "explanation": "2^5 = 32.",
-   "memoryHook": "T-Rexy says: Convert the log equation to exponential form.",
+   "memoryHook": "Convert the log equation to exponential form.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "logarithms",
@@ -770,7 +770,7 @@
     "x = 1"
    ],
    "explanation": "81 = 3^4, so 2x = 4, x = 2.",
-   "memoryHook": "T-Rexy says: Write both sides with the same base.",
+   "memoryHook": "Write both sides with the same base.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "exponential"
@@ -789,7 +789,7 @@
     "30"
    ],
    "explanation": "a10 = 5 + 9(3) = 32.",
-   "memoryHook": "T-Rexy says: The nth term formula is a1 + (n-1)d.",
+   "memoryHook": "The nth term formula is a1 + (n-1)d.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "sequences",
@@ -809,7 +809,7 @@
     "2047"
    ],
    "explanation": "Sum = 2^10 - 1 = 1023.",
-   "memoryHook": "T-Rexy says: Geometric series sum: a(r^n - 1)/(r - 1).",
+   "memoryHook": "Geometric series sum: a(r^n - 1)/(r - 1).",
    "imageUrl": "topic:algebra2",
    "tags": [
     "series",
@@ -829,7 +829,7 @@
     "3/2"
    ],
    "explanation": "Sum = a/(1 - r) = 1/(1 - 1/2) = 2.",
-   "memoryHook": "T-Rexy says: Infinite geometric series converge when |r| < 1.",
+   "memoryHook": "Infinite geometric series converge when |r| < 1.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "series",
@@ -849,7 +849,7 @@
     "x = 5, y = 5"
    ],
    "explanation": "Adding the equations: 2x = 14, so x = 7, then y = 3.",
-   "memoryHook": "T-Rexy says: Add the equations to eliminate y.",
+   "memoryHook": "Add the equations to eliminate y.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "systems"
@@ -868,7 +868,7 @@
     "x = 4, y = -1"
    ],
    "explanation": "Adding: 3x = 9, so x = 3, then y = 1.",
-   "memoryHook": "T-Rexy says: Elimination works when coefficients cancel.",
+   "memoryHook": "Elimination works when coefficients cancel.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "systems"
@@ -887,7 +887,7 @@
     "4"
    ],
    "explanation": "g(2) = 5, then f(5) = 25.",
-   "memoryHook": "T-Rexy says: Work from the inside out.",
+   "memoryHook": "Work from the inside out.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "functions",
@@ -907,7 +907,7 @@
     "7/3"
    ],
    "explanation": "Set 3x - 2 = 7, so x = 3.",
-   "memoryHook": "T-Rexy says: The inverse undoes the function.",
+   "memoryHook": "The inverse undoes the function.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "functions",
@@ -927,7 +927,7 @@
     "(x - 4)^2 + (y + 1)^2 = 9"
    ],
    "explanation": "Use the standard form (x - h)^2 + (y - k)^2 = r^2 with h = -1, k = 4 and r = 3. Subtracting h = -1 gives x - (-1) = x + 1, and r^2 = 3^2 = 9, so the equation is (x + 1)^2 + (y - 4)^2 = 9.",
-   "memoryHook": "T-Rexy says: Plug the center in with flipped signs, and remember to square the radius.",
+   "memoryHook": "Plug the center in with flipped signs, and remember to square the radius.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "conics",
@@ -947,7 +947,7 @@
     "5 sqrt(10)"
    ],
    "explanation": "sqrt(50) = sqrt(25 x 2) = 5 sqrt(2).",
-   "memoryHook": "T-Rexy says: Pull out the largest perfect square factor.",
+   "memoryHook": "Pull out the largest perfect square factor.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "radicals"
@@ -966,7 +966,7 @@
     "3 sqrt(3)"
    ],
    "explanation": "Multiply top and bottom by sqrt(3): sqrt(3)/3.",
-   "memoryHook": "T-Rexy says: Multiply by the radical over itself.",
+   "memoryHook": "Multiply by the radical over itself.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "radicals"
@@ -985,7 +985,7 @@
     "8 + 2i"
    ],
    "explanation": "Add real parts (2+4=6) and imaginary parts (3-1=2).",
-   "memoryHook": "T-Rexy says: Add real to real, imaginary to imaginary.",
+   "memoryHook": "Add real to real, imaginary to imaginary.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "complex"
@@ -1004,7 +1004,7 @@
     "-2"
    ],
    "explanation": "(2i)^2 = 4i^2 = 4(-1) = -4.",
-   "memoryHook": "T-Rexy says: Remember i^2 = -1.",
+   "memoryHook": "Remember i^2 = -1.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "complex"
@@ -1023,7 +1023,7 @@
     "240 degrees"
    ],
    "explanation": "Multiply by the conversion factor 180/pi: (3pi/4) * (180/pi) = 3 * 180 / 4 = 540 / 4 = 135 degrees. The pi in the angle cancels the pi in the factor, which is the check that the setup is right.",
-   "memoryHook": "T-Rexy says: Radians to degrees, multiply by 180 over pi - a quarter of 180 is 45, and three of those make 135.",
+   "memoryHook": "Radians to degrees, multiply by 180 over pi - a quarter of 180 is 45, and three of those make 135.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "trigonometry",
@@ -1043,7 +1043,7 @@
     "4"
    ],
    "explanation": "|3 + 4i| = sqrt(9 + 16) = sqrt(25) = 5.",
-   "memoryHook": "T-Rexy says: Modulus is the distance from the origin.",
+   "memoryHook": "Modulus is the distance from the origin.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "complex",
@@ -1063,7 +1063,7 @@
     "x = 14"
    ],
    "explanation": "Square both sides: x + 5 = 9, so x = 4.",
-   "memoryHook": "T-Rexy says: Square both sides to undo the square root.",
+   "memoryHook": "Square both sides to undo the square root.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "radical",
@@ -1083,7 +1083,7 @@
     "(25, 0) and (-25, 0)"
    ],
    "explanation": "The larger denominator sits under x^2, so the major axis is horizontal with a^2 = 25, giving a = 5. The vertices are the endpoints of the major axis: (5, 0) and (-5, 0). The value b = 3 gives the co-vertices (0, 3) and (0, -3) instead.",
-   "memoryHook": "T-Rexy says: Vertices live at the ends of the longer axis - take the square root of the bigger denominator.",
+   "memoryHook": "Vertices live at the ends of the longer axis - take the square root of the bigger denominator.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "conics",
@@ -1103,7 +1103,7 @@
     "x < 1 only"
    ],
    "explanation": "Factor: (x-1)(x-3) > 0. The product is positive outside the roots.",
-   "memoryHook": "T-Rexy says: A parabola opening up is positive outside its roots.",
+   "memoryHook": "A parabola opening up is positive outside its roots.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "inequalities",
@@ -1123,7 +1123,7 @@
     "y = 3"
    ],
    "explanation": "When degrees are equal, the horizontal asymptote is the ratio of leading coefficients: 2/1 = 2.",
-   "memoryHook": "T-Rexy says: Equal degrees: divide the leading coefficients.",
+   "memoryHook": "Equal degrees: divide the leading coefficients.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "rational",
@@ -1143,7 +1143,7 @@
     "-10"
    ],
    "explanation": "For a 2x2 matrix [[a, b], [c, d]], the determinant is ad - bc: multiply the main diagonal and subtract the product of the other diagonal. Here det = 3 * 4 - 2 * 1 = 12 - 2 = 10.",
-   "memoryHook": "T-Rexy says: Down-diagonal product minus up-diagonal product - det is a difference, not a sum.",
+   "memoryHook": "Down-diagonal product minus up-diagonal product - det is a difference, not a sum.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "matrices",
@@ -1163,7 +1163,7 @@
     "8x^3 - 6x^2 + 2x - 1"
    ],
    "explanation": "Using the binomial expansion: (2x)^3 - 3(2x)^2(1) + 3(2x)(1)^2 - 1 = 8x^3 - 12x^2 + 6x - 1.",
-   "memoryHook": "T-Rexy says: Use Pascal's triangle: 1, 3, 3, 1.",
+   "memoryHook": "Use Pascal's triangle: 1, 3, 3, 1.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -1183,7 +1183,7 @@
     "32"
    ],
    "explanation": "The x^2 term is C(4,2) x^2 (2)^2 = 6 x 4 x^2 = 24x^2.",
-   "memoryHook": "T-Rexy says: Binomial theorem: C(n,k) a^(n-k) b^k.",
+   "memoryHook": "Binomial theorem: C(n,k) a^(n-k) b^k.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -1203,7 +1203,7 @@
     "64"
    ],
    "explanation": "8^(1/3) = 2, then 2^2 = 4.",
-   "memoryHook": "T-Rexy says: Fractional exponents: root first, then power.",
+   "memoryHook": "Fractional exponents: root first, then power.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "exponents",
@@ -1223,7 +1223,7 @@
     "[[4, 1], [0, 3]]"
    ],
    "explanation": "Each entry is a row of the first matrix dotted with a column of the second. Top-left: 1*2 + 2*1 = 4. Top-right: 1*1 + 2*0 = 1. Bottom-left: 0*2 + 3*1 = 3. Bottom-right: 0*1 + 3*0 = 0. The product is [[4, 1], [3, 0]]. Multiplying entry-by-entry instead gives the wrong matrix [[2, 2], [0, 0]].",
-   "memoryHook": "T-Rexy says: Row times column, entry by entry - matrix multiplication is never position-by-position.",
+   "memoryHook": "Row times column, entry by entry - matrix multiplication is never position-by-position.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "matrices",
@@ -1243,7 +1243,7 @@
     "y <= 1"
    ],
    "explanation": "x^2 >= 0, so x^2 + 1 >= 1.",
-   "memoryHook": "T-Rexy says: A parabola opening up from (0,1) covers y >= 1.",
+   "memoryHook": "A parabola opening up from (0,1) covers y >= 1.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "functions",
@@ -1263,7 +1263,7 @@
     "10"
    ],
    "explanation": "Use the law of sines: b / sin(B) = a / sin(A), so b = 10 * sin(45) / sin(30) = 10 * (sqrt(2)/2) / (1/2) = 10 sqrt(2). The two (1/2)-style factors come from sin(30) = 1/2 in the denominator, which doubles instead of cancelling.",
-   "memoryHook": "T-Rexy says: Law of sines pairs each side with the sine of the angle across from it.",
+   "memoryHook": "Law of sines pairs each side with the sine of the angle across from it.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "trigonometry",
@@ -1283,7 +1283,7 @@
     "5/36"
    ],
    "explanation": "There are 6 * 6 = 36 equally likely outcomes. The pairs that sum to 7 are (1, 6), (2, 5), (3, 4), (4, 3), (5, 2), and (6, 1) - exactly 6 pairs. So P(sum of 7) = 6/36 = 1/6. In fact 7 is the most likely sum of two dice.",
-   "memoryHook": "T-Rexy says: Build the 6 by 6 grid of outcomes - the pairs that sum to 7 fill the whole anti-diagonal, corner to corner.",
+   "memoryHook": "Build the 6 by 6 grid of outcomes - the pairs that sum to 7 fill the whole anti-diagonal, corner to corner.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "probability"
@@ -1302,7 +1302,7 @@
     "-sqrt(2)/2"
    ],
    "explanation": "The angle 5pi/6 lies in quadrant II, where cosine is negative. Its reference angle is pi - 5pi/6 = pi/6, and cos(pi/6) = sqrt(3)/2. Applying the quadrant II sign gives cos(5pi/6) = -sqrt(3)/2.",
-   "memoryHook": "T-Rexy says: Find the reference angle first, then let the quadrant choose the sign.",
+   "memoryHook": "Find the reference angle first, then let the quadrant choose the sign.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "trigonometry",
@@ -1322,7 +1322,7 @@
     "72"
    ],
    "explanation": "a6 = 3 x 2^5 = 96.",
-   "memoryHook": "T-Rexy says: Geometric nth term: a1 x r^(n-1).",
+   "memoryHook": "Geometric nth term: a1 x r^(n-1).",
    "imageUrl": "topic:algebra2",
    "tags": [
     "sequences",
@@ -1342,7 +1342,7 @@
     "66"
    ],
    "explanation": "There are 7 terms; sum = 7/2 x (2 + 20) = 77.",
-   "memoryHook": "T-Rexy says: Sum = n/2 times (first + last).",
+   "memoryHook": "Sum = n/2 times (first + last).",
    "imageUrl": "topic:algebra2",
    "tags": [
     "series",
@@ -1362,7 +1362,7 @@
     "x = 4 or x = 10"
    ],
    "explanation": "x - 3 = 7 or x - 3 = -7, giving x = 10 or x = -4.",
-   "memoryHook": "T-Rexy says: Absolute value splits into two cases.",
+   "memoryHook": "Absolute value splits into two cases.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "absolute value"
@@ -1381,7 +1381,7 @@
     "x > 2"
    ],
    "explanation": "-5 < 2x + 1 < 5 gives -6 < 2x < 4, so -3 < x < 2.",
-   "memoryHook": "T-Rexy says: Less-than absolute value gives a between-inequality.",
+   "memoryHook": "Less-than absolute value gives a between-inequality.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "absolute value",
@@ -1401,7 +1401,7 @@
     "x = 4, 1 only"
    ],
    "explanation": "Let u = x^2: u^2 - 5u + 4 = (u-1)(u-4) = 0, so x^2 = 1 or 4, giving x = plus/minus 1, plus/minus 2.",
-   "memoryHook": "T-Rexy says: Substitute u = x^2 to turn it into a quadratic.",
+   "memoryHook": "Substitute u = x^2 to turn it into a quadratic.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -1421,7 +1421,7 @@
     "9"
    ],
    "explanation": "By the Remainder Theorem: (-2)^3 - 2(-2) + 5 = -8 + 4 + 5 = 1.",
-   "memoryHook": "T-Rexy says: Plug in the zero of the divisor.",
+   "memoryHook": "Plug in the zero of the divisor.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -1441,7 +1441,7 @@
     "x = -3, 2, 2"
    ],
    "explanation": "Factor by grouping: x^2(x-3) - 4(x-3) = (x^2-4)(x-3) = (x-2)(x+2)(x-3).",
-   "memoryHook": "T-Rexy says: Group terms to find a common factor.",
+   "memoryHook": "Group terms to find a common factor.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -1461,7 +1461,7 @@
     "Both ends go to -infinity"
    ],
    "explanation": "Odd degree with negative leading coefficient: falls right, rises left.",
-   "memoryHook": "T-Rexy says: Odd degree: ends go opposite directions; negative coefficient flips them.",
+   "memoryHook": "Odd degree: ends go opposite directions; negative coefficient flips them.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -1481,7 +1481,7 @@
     "All real numbers except 3"
    ],
    "explanation": "Simplify to x + 3 (for x not equal 3), which is positive when x > -3.",
-   "memoryHook": "T-Rexy says: Cancel first, but remember the excluded value.",
+   "memoryHook": "Cancel first, but remember the excluded value.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "rational",
@@ -1501,7 +1501,7 @@
     "A/x + B/(x+2)"
    ],
    "explanation": "Distinct linear factors each get their own term with a constant numerator.",
-   "memoryHook": "T-Rexy says: Each distinct linear factor gets a constant numerator.",
+   "memoryHook": "Each distinct linear factor gets a constant numerator.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "rational",
@@ -1521,7 +1521,7 @@
     "x = 3"
    ],
    "explanation": "2 log(x) = log(36), so log(x^2) = log(36), x^2 = 36, x = 6 (x must be positive).",
-   "memoryHook": "T-Rexy says: Combine logs, then equate arguments.",
+   "memoryHook": "Combine logs, then equate arguments.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "logarithms",
@@ -1541,7 +1541,7 @@
     "x = 7/2"
    ],
    "explanation": "Take ln of both sides: 2x = ln 7, so x = (ln 7)/2.",
-   "memoryHook": "T-Rexy says: The natural log undoes e.",
+   "memoryHook": "The natural log undoes e.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "exponential",
@@ -1561,7 +1561,7 @@
     "Half-life is 2"
    ],
    "explanation": "The amount halves when t/10 = 1, so t = 10.",
-   "memoryHook": "T-Rexy says: Half-life is the time for the amount to halve.",
+   "memoryHook": "Half-life is the time for the amount to halve.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "exponential",
@@ -1581,7 +1581,7 @@
     "740"
    ],
    "explanation": "a20 = 2(400) - 20 = 780.",
-   "memoryHook": "T-Rexy says: Plug n = 20 into the formula.",
+   "memoryHook": "Plug n = 20 into the formula.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "sequences"
@@ -1600,7 +1600,7 @@
     "18"
    ],
    "explanation": "Terms: 2, 5, 8, 11. Sum = 26.",
-   "memoryHook": "T-Rexy says: Evaluate each term, then add.",
+   "memoryHook": "Evaluate each term, then add.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "series",
@@ -1620,7 +1620,7 @@
     "(1, 6) and (6, 1)"
    ],
    "explanation": "Substitute y = 7 - x: x^2 + (7-x)^2 = 25 gives x^2 - 7x + 12 = 0, so x = 3 or 4.",
-   "memoryHook": "T-Rexy says: Substitute one equation into the other.",
+   "memoryHook": "Substitute one equation into the other.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "systems",
@@ -1640,7 +1640,7 @@
     "f^-1(x) = (x + 1)/(x - 2)"
    ],
    "explanation": "Swap and solve: x = (y+2)/(y-1) gives xy - x = y + 2, so y(x - 1) = x + 2, y = (x+2)/(x-1). This function is its own inverse.",
-   "memoryHook": "T-Rexy says: Swap x and y, solve carefully with fractions.",
+   "memoryHook": "Swap x and y, solve carefully with fractions.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "functions",
@@ -1660,7 +1660,7 @@
     "x^2 - 4"
    ],
    "explanation": "(f o g)(x) = f(g(x)) = sqrt(x^2 - 4).",
-   "memoryHook": "T-Rexy says: Plug g into f.",
+   "memoryHook": "Plug g into f.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "functions",
@@ -1680,7 +1680,7 @@
     "(sqrt(23), 0) and (-sqrt(23), 0)"
    ],
    "explanation": "For an ellipse, the focal distance satisfies c^2 = a^2 - b^2. Here a^2 = 16 and b^2 = 7, so c^2 = 16 - 7 = 9 and c = 3. The major axis is horizontal, so the foci sit on the x-axis at (3, 0) and (-3, 0), inside the vertices (4, 0) and (-4, 0).",
-   "memoryHook": "T-Rexy says: For an ellipse, subtract: c^2 = a^2 - b^2, and the foci hide inside the vertices.",
+   "memoryHook": "For an ellipse, subtract: c^2 = a^2 - b^2, and the foci hide inside the vertices.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "conics",
@@ -1700,7 +1700,7 @@
     "x = 1"
    ],
    "explanation": "Write as powers of 2: 2^(2x+2) = 2^(3x-3), so 2x + 2 = 3x - 3, x = 5.",
-   "memoryHook": "T-Rexy says: Convert to a common base first.",
+   "memoryHook": "Convert to a common base first.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "exponential"
@@ -1719,7 +1719,7 @@
     "6"
    ],
    "explanation": "Use the law of cosines with the included angle: c^2 = 5^2 + 7^2 - 2 * 5 * 7 * cos(60) = 25 + 49 - 70 * (1/2) = 74 - 35 = 39, so c = sqrt(39). The subtraction term is what separates this from the plain Pythagorean sum sqrt(74).",
-   "memoryHook": "T-Rexy says: Law of cosines is Pythagoras plus a correction term - and at 60 degrees the correction is half the product term.",
+   "memoryHook": "Law of cosines is Pythagoras plus a correction term - and at 60 degrees the correction is half the product term.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "trigonometry",
@@ -1739,7 +1739,7 @@
     "No solution"
    ],
    "explanation": "sqrt(2x-1) = sqrt(x) gives 2x - 1 = x, so x = 1. Check: sqrt(1) - sqrt(1) = 0. Valid.",
-   "memoryHook": "T-Rexy says: Isolate one radical, square, and always check.",
+   "memoryHook": "Isolate one radical, square, and always check.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "radical",
@@ -1759,7 +1759,7 @@
     "(6, -8)"
    ],
    "explanation": "x = -b/(2a) = -6/(-2) = 3; y = -9 + 18 - 8 = 1. Vertex (3, 1).",
-   "memoryHook": "T-Rexy says: Use x = -b/2a, then plug back for y.",
+   "memoryHook": "Use x = -b/2a, then plug back for y.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "quadratic",
@@ -1779,7 +1779,7 @@
     "a(x + 2)(x + 5)"
    ],
    "explanation": "Roots r give factors (x - r), so (x - 2)(x + 5).",
-   "memoryHook": "T-Rexy says: A root r means a factor (x - r).",
+   "memoryHook": "A root r means a factor (x - r).",
    "imageUrl": "topic:algebra2",
    "tags": [
     "quadratic",
@@ -1799,7 +1799,7 @@
     "y = 4x and y = -4x"
    ],
    "explanation": "For a hyperbola x^2/a^2 - y^2/b^2 = 1, the asymptotes are y = (b/a)x and y = -(b/a)x. Here a^2 = 9 gives a = 3 and b^2 = 16 gives b = 4, so the slopes are 4/3 and -4/3. The branches open left and right and approach these two lines.",
-   "memoryHook": "T-Rexy says: Hyperbola asymptotes use b over a - take square roots first, then form the slope.",
+   "memoryHook": "Hyperbola asymptotes use b over a - take square roots first, then form the slope.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "conics",
@@ -1819,7 +1819,7 @@
     "99.7%"
    ],
    "explanation": "The scores 60 and 80 are each exactly one standard deviation from the mean (70 - 10 and 70 + 10). The empirical rule says about 68% of a normal distribution lies within one standard deviation of the mean. The 95% figure covers two standard deviations (50 to 90), and 34% is only one half of the middle band.",
-   "memoryHook": "T-Rexy says: One sigma out on each side traps about 68 percent in the middle.",
+   "memoryHook": "One sigma out on each side traps about 68 percent in the middle.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "statistics",
@@ -1839,7 +1839,7 @@
     "[[-1, 1], [1, -2]]"
    ],
    "explanation": "For [[a, b], [c, d]], the inverse is (1/(ad - bc)) * [[d, -b], [-c, a]]. The determinant is 2 * 1 - 1 * 1 = 1, so no scaling is needed. Swap the diagonal entries (2 and 1 trade places) and flip the signs of the off-diagonal entries: the inverse is [[1, -1], [-1, 2]]. Check: [[2, 1], [1, 1]] * [[1, -1], [-1, 2]] = [[1, 0], [0, 1]].",
-   "memoryHook": "T-Rexy says: Swap the corners, flip the other two signs, then divide by the determinant.",
+   "memoryHook": "Swap the corners, flip the other two signs, then divide by the determinant.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "matrices",
@@ -1859,7 +1859,7 @@
     "It has a vertical asymptote"
    ],
    "explanation": "The factor (x - 2) has exponent 3, which is odd. Near x = 2 the factor changes sign, so the graph passes from one side of the x-axis to the other: it crosses (flattening) at x = 2 instead of bouncing back.",
-   "memoryHook": "T-Rexy says: Odd multiplicity crosses; even multiplicity bounces.",
+   "memoryHook": "Odd multiplicity crosses; even multiplicity bounces.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "polynomials",
@@ -1879,7 +1879,7 @@
     "No slant asymptote"
    ],
    "explanation": "Divide: (x^2 + 3x + 2)/(x + 1) = x + 2, so the slant asymptote is y = x + 2.",
-   "memoryHook": "T-Rexy says: When the numerator degree is one more, divide to find the slant asymptote.",
+   "memoryHook": "When the numerator degree is one more, divide to find the slant asymptote.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "rational",
@@ -1899,7 +1899,7 @@
     "x < -2"
    ],
    "explanation": "The product of two factors is negative between the roots -2 and 1.",
-   "memoryHook": "T-Rexy says: A product is negative when the factors have opposite signs.",
+   "memoryHook": "A product is negative when the factors have opposite signs.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "inequalities"
@@ -1918,7 +1918,7 @@
     "860"
    ],
    "explanation": "a20 = 3 + 19(4) = 79; sum = 20/2 x (3 + 79) = 820.",
-   "memoryHook": "T-Rexy says: Use Sn = n/2 (a1 + an).",
+   "memoryHook": "Use Sn = n/2 (a1 + an).",
    "imageUrl": "topic:algebra2",
    "tags": [
     "series",
@@ -1938,7 +1938,7 @@
     "t = 2 seconds"
    ],
    "explanation": "Vertex time: t = -b/(2a) = -48/(-32) = 1.5 seconds.",
-   "memoryHook": "T-Rexy says: Maximum height happens at the vertex time.",
+   "memoryHook": "Maximum height happens at the vertex time.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "quadratic",
@@ -1958,7 +1958,7 @@
     "54 feet"
    ],
    "explanation": "h(1.5) = -16(2.25) + 48(1.5) + 6 = -36 + 72 + 6 = 42.",
-   "memoryHook": "T-Rexy says: Plug the vertex time back into the height function.",
+   "memoryHook": "Plug the vertex time back into the height function.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "quadratic",
@@ -1978,7 +1978,7 @@
     "All real numbers except -1"
    ],
    "explanation": "The fraction is non-negative when numerator and denominator have the same sign (or numerator is zero), excluding x = -1: x < -1 or x >= 2.",
-   "memoryHook": "T-Rexy says: Check sign changes at critical points -1 and 2, and exclude denominator zeros.",
+   "memoryHook": "Check sign changes at critical points -1 and 2, and exclude denominator zeros.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "rational",

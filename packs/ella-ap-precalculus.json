@@ -24,7 +24,7 @@
     "27"
    ],
    "explanation": "For an arithmetic sequence, a_n = a_1 + (n - 1)d. There are only 9 steps of size d from the 1st term to the 10th term, so a_10 = 5 + 9(3) = 5 + 27 = 32.",
-   "memoryHook": "T-Rexy says: Count the steps, not the terms - term 10 is only 9 jumps from term 1.",
+   "memoryHook": "Count the steps, not the terms - term 10 is only 9 jumps from term 1.",
    "imageUrl": "topic:arithmetic-sequences",
    "tags": [
     "sequences",
@@ -44,7 +44,7 @@
     "-1"
    ],
    "explanation": "The leading coefficient is the coefficient of the highest-degree term, -5x^3.",
-   "memoryHook": "T-Rexy says: Lead the pack with the first coefficient.",
+   "memoryHook": "Lead the pack with the first coefficient.",
    "imageUrl": "topic:leading-coefficient",
    "tags": [
     "polynomial",
@@ -64,7 +64,7 @@
     "4"
    ],
    "explanation": "x^2 = -4 has no real solution, so there are no real zeros.",
-   "memoryHook": "T-Rexy says: No real roots when the square stays positive.",
+   "memoryHook": "No real roots when the square stays positive.",
    "imageUrl": "topic:real-zeros",
    "tags": [
     "polynomial",
@@ -84,7 +84,7 @@
     "f(x) approaches 2"
    ],
    "explanation": "The leading term 2x^3 dominates for large values of x. It has odd degree and a positive coefficient, so as x approaches infinity, f(x) approaches infinity; as x approaches negative infinity, f(x) approaches negative infinity.",
-   "memoryHook": "T-Rexy says: Odd and positive: up on the right.",
+   "memoryHook": "Odd and positive: up on the right.",
    "imageUrl": "topic:end-behavior",
    "tags": [
     "polynomial",
@@ -104,7 +104,7 @@
     "-2, -3, -1"
    ],
    "explanation": "Set each factor to zero: x = 2, x = -3, x = 1.",
-   "memoryHook": "T-Rexy says: Flip the sign inside each factor.",
+   "memoryHook": "Flip the sign inside each factor.",
    "imageUrl": "topic:zeros-factored",
    "tags": [
     "polynomial",
@@ -124,7 +124,7 @@
     "0"
    ],
    "explanation": "The exponent on (x - 3) is 2, so the multiplicity is 2.",
-   "memoryHook": "T-Rexy says: The exponent tells you how many times it counts.",
+   "memoryHook": "The exponent tells you how many times it counts.",
    "imageUrl": "topic:multiplicity",
    "tags": [
     "polynomial",
@@ -144,7 +144,7 @@
     "Has a hole"
    ],
    "explanation": "The factor for that zero is raised to an even power, so the function has the same sign on both sides of the zero. The graph meets the x-axis and turns back instead of passing through it.",
-   "memoryHook": "T-Rexy says: Even bounces, odd crosses.",
+   "memoryHook": "Even bounces, odd crosses.",
    "imageUrl": "topic:graph-behavior",
    "tags": [
     "polynomial",
@@ -164,7 +164,7 @@
     "-4"
    ],
    "explanation": "By the Remainder Theorem, f(1) = 1 - 2 + 5 = 4.",
-   "memoryHook": "T-Rexy says: Plug in the root, get the remainder.",
+   "memoryHook": "Plug in the root, get the remainder.",
    "imageUrl": "topic:remainder-theorem",
    "tags": [
     "polynomial",
@@ -184,7 +184,7 @@
     "x + 2"
    ],
    "explanation": "f(1) = 1 - 6 + 11 - 6 = 0, so (x - 1) is a factor by the Factor Theorem.",
-   "memoryHook": "T-Rexy says: Zero in, factor out.",
+   "memoryHook": "Zero in, factor out.",
    "imageUrl": "topic:factor-theorem",
    "tags": [
     "polynomial",
@@ -204,7 +204,7 @@
     "x^2 + 2x - 1 remainder 3"
    ],
    "explanation": "Synthetic with -2: coefficients 1, 2, -5, 1 give 1, 0, -5, 11, so quotient x^2 - 5 remainder 11.",
-   "memoryHook": "T-Rexy says: Bring down, multiply, add, repeat.",
+   "memoryHook": "Bring down, multiply, add, repeat.",
    "imageUrl": "topic:synthetic-division",
    "tags": [
     "polynomial",
@@ -224,7 +224,7 @@
     "6"
    ],
    "explanation": "A degree-n polynomial has at most n - 1 turning points, so 4.",
-   "memoryHook": "T-Rexy says: One less than the degree.",
+   "memoryHook": "One less than the degree.",
    "imageUrl": "topic:turning-points",
    "tags": [
     "polynomial",
@@ -244,7 +244,7 @@
     "0"
    ],
    "explanation": "f(0) = -4.",
-   "memoryHook": "T-Rexy says: Set x to zero and read the constant.",
+   "memoryHook": "Set x to zero and read the constant.",
    "imageUrl": "topic:y-intercept",
    "tags": [
     "polynomial",
@@ -264,7 +264,7 @@
     "x(x - 2)(x - 5)"
    ],
    "explanation": "Zeros a give factors (x - a); zero 0 gives factor x.",
-   "memoryHook": "T-Rexy says: Zero a means factor (x minus a).",
+   "memoryHook": "Zero a means factor (x minus a).",
    "imageUrl": "topic:factored-form",
    "tags": [
     "polynomial",
@@ -284,7 +284,7 @@
     "Only 1/2 and -1/2"
    ],
    "explanation": "Possible rational zeros are p/q where p divides the constant term 1 and q divides the leading coefficient 2.",
-   "memoryHook": "T-Rexy says: Constant on top, leading below.",
+   "memoryHook": "Constant on top, leading below.",
    "imageUrl": "topic:rational-zeros",
    "tags": [
     "polynomial",
@@ -304,7 +304,7 @@
     "-12"
    ],
    "explanation": "By Vieta's formulas, the sum of roots is -b/a = 7.",
-   "memoryHook": "T-Rexy says: Sum is negative b over a.",
+   "memoryHook": "Sum is negative b over a.",
    "imageUrl": "topic:vietas-formulas",
    "tags": [
     "polynomial",
@@ -324,7 +324,7 @@
     "43"
    ],
    "explanation": "From a_3 to a_7 there are 4 steps, so 4d = 27 - 11 = 16 and d = 4. From a_7 to a_10 there are 3 more steps, so a_10 = 27 + 3(4) = 39.",
-   "memoryHook": "T-Rexy says: Find d from the gap you know, then walk it forward to the term you want.",
+   "memoryHook": "Find d from the gap you know, then walk it forward to the term you want.",
    "imageUrl": "topic:arithmetic-sequences",
    "tags": [
     "sequences",
@@ -344,7 +344,7 @@
     "f(x) = (x - 3)^2 + 2"
    ],
    "explanation": "Left means x + 3 inside, down means -2 outside.",
-   "memoryHook": "T-Rexy says: Inside opposite, outside as-is.",
+   "memoryHook": "Inside opposite, outside as-is.",
    "imageUrl": "topic:transformations",
    "tags": [
     "polynomial",
@@ -364,7 +364,7 @@
     "(-3, 14)"
    ],
    "explanation": "x = -b/2a = 3, and f(3) = 9 - 18 + 5 = -4.",
-   "memoryHook": "T-Rexy says: Half of b, flip the sign.",
+   "memoryHook": "Half of b, flip the sign.",
    "imageUrl": "topic:vertex",
    "tags": [
     "polynomial",
@@ -384,7 +384,7 @@
     "<2, 7>"
    ],
    "explanation": "Multiply the matrix by the column vector. The first output component is row 1 dotted with v: 2(3) + 1(1) = 7. The second output component is row 2 dotted with v: 1(3) + (-1)(1) = 3 - 1 = 2. So T(v) = <7, 2>.",
-   "memoryHook": "T-Rexy says: The matrix is a machine - each row builds one component of the output.",
+   "memoryHook": "The matrix is a machine - each row builds one component of the output.",
    "imageUrl": "topic:matrices",
    "tags": [
     "matrices",
@@ -404,7 +404,7 @@
     "3"
    ],
    "explanation": "(f(3) - f(1))/(3 - 1) = (9 - 1)/2 = 4.",
-   "memoryHook": "T-Rexy says: Slope of the secant line.",
+   "memoryHook": "Slope of the secant line.",
    "imageUrl": "topic:average-rate-change",
    "tags": [
     "polynomial",
@@ -424,7 +424,7 @@
     "x = 0"
    ],
    "explanation": "The denominator is zero at x = 4.",
-   "memoryHook": "T-Rexy says: Denominator zero means a wall.",
+   "memoryHook": "Denominator zero means a wall.",
    "imageUrl": "topic:vertical-asymptote",
    "tags": [
     "rational",
@@ -444,7 +444,7 @@
     "y = 0"
    ],
    "explanation": "Equal degrees means the asymptote is the ratio of leading coefficients, 3/1.",
-   "memoryHook": "T-Rexy says: Equal degrees: divide the leaders.",
+   "memoryHook": "Equal degrees: divide the leaders.",
    "imageUrl": "topic:horizontal-asymptote",
    "tags": [
     "rational",
@@ -464,7 +464,7 @@
     "243"
    ],
    "explanation": "For a geometric sequence, a_n = a_1 x r^(n - 1), so a_6 = 4 x 3^5. Since 3^5 = 243, a_6 = 4 x 243 = 972.",
-   "memoryHook": "T-Rexy says: The exponent is n - 1, because the first term has not been multiplied yet.",
+   "memoryHook": "The exponent is n - 1, because the first term has not been multiplied yet.",
    "imageUrl": "topic:geometric-sequences",
    "tags": [
     "sequences",
@@ -484,7 +484,7 @@
     "11"
    ],
    "explanation": "Apply the rule one term at a time: a_2 = 2 x 3 = 6, a_3 = 2 x 6 = 12, a_4 = 2 x 12 = 24, and a_5 = 2 x 24 = 48.",
-   "memoryHook": "T-Rexy says: A recursive rule is a relay race - each term hands its value to the next.",
+   "memoryHook": "A recursive rule is a relay race - each term hands its value to the next.",
    "imageUrl": "topic:sequences",
    "tags": [
     "sequences",
@@ -504,7 +504,7 @@
     "y = 3x"
    ],
    "explanation": "Dividing gives x + 3 + 2/x, so the slant asymptote is y = x + 3.",
-   "memoryHook": "T-Rexy says: Divide and drop the remainder.",
+   "memoryHook": "Divide and drop the remainder.",
    "imageUrl": "topic:slant-asymptote",
    "tags": [
     "rational",
@@ -524,7 +524,7 @@
     "No hole"
    ],
    "explanation": "Factoring gives (x - 3)(x + 3)/(x - 3); the canceled factor creates a hole at x = 3.",
-   "memoryHook": "T-Rexy says: Canceled factor means a hole, not a wall.",
+   "memoryHook": "Canceled factor means a hole, not a wall.",
    "imageUrl": "topic:hole",
    "tags": [
     "rational",
@@ -544,7 +544,7 @@
     "x > 0"
    ],
    "explanation": "The denominator x^2 - 4 = 0 at x = 2 and x = -2, which must be excluded.",
-   "memoryHook": "T-Rexy says: Exclude where the bottom is zero.",
+   "memoryHook": "Exclude where the bottom is zero.",
    "imageUrl": "topic:domain",
    "tags": [
     "rational",
@@ -564,7 +564,7 @@
     "x - 2"
    ],
    "explanation": "Factor: (x - 2)(x + 2)/[x(x + 2)] = (x - 2)/x.",
-   "memoryHook": "T-Rexy says: Cancel matching factors only.",
+   "memoryHook": "Cancel matching factors only.",
    "imageUrl": "topic:simplify-rational",
    "tags": [
     "rational",
@@ -584,7 +584,7 @@
     "6"
    ],
    "explanation": "Going from the 1st term to the 4th term takes 3 steps of size d, so 3d = 19 - 7 = 12, which gives d = 12/3 = 4. Check: 7, 11, 15, 19.",
-   "memoryHook": "T-Rexy says: Four terms have only three gaps between them - divide by the gaps.",
+   "memoryHook": "Four terms have only three gaps between them - divide by the gaps.",
    "imageUrl": "topic:arithmetic-sequences",
    "tags": [
     "sequences",
@@ -604,7 +604,7 @@
     "[[4, 11], [10, 15]]"
    ],
    "explanation": "Each entry of AB is a row of A dotted with a column of B: entry (1, 1) = 2(1) + 1(2) = 4, entry (1, 2) = 2(5) + 1(0) = 10, entry (2, 1) = 3(1) + 4(2) = 11, and entry (2, 2) = 3(5) + 4(0) = 15.",
-   "memoryHook": "T-Rexy says: Rows meet columns - run across A, dive down B.",
+   "memoryHook": "Rows meet columns - run across A, dive down B.",
    "imageUrl": "topic:matrices",
    "tags": [
     "matrices",
@@ -624,7 +624,7 @@
     "x = 1"
    ],
    "explanation": "The denominator x - 2 cannot be zero, so x = 2 is excluded.",
-   "memoryHook": "T-Rexy says: Never divide by zero.",
+   "memoryHook": "Never divide by zero.",
    "imageUrl": "topic:excluded-values",
    "tags": [
     "rational",
@@ -644,7 +644,7 @@
     "All real numbers"
    ],
    "explanation": "The radicand must be nonnegative: x - 5 >= 0, so x >= 5.",
-   "memoryHook": "T-Rexy says: Square roots need non-negative insides.",
+   "memoryHook": "Square roots need non-negative insides.",
    "imageUrl": "topic:domain-radical",
    "tags": [
     "rational",
@@ -664,7 +664,7 @@
     "f^-1(x) = x/2 - 3"
    ],
    "explanation": "Swap x and y: x = 2y + 3, so y = (x - 3)/2.",
-   "memoryHook": "T-Rexy says: Swap and solve.",
+   "memoryHook": "Swap and solve.",
    "imageUrl": "topic:inverse",
    "tags": [
     "functions",
@@ -684,7 +684,7 @@
     "2x + 1"
    ],
    "explanation": "(f o g)(x) = f(g(x)) = (x + 1)^2.",
-   "memoryHook": "T-Rexy says: Inside out: g goes in first.",
+   "memoryHook": "Inside out: g goes in first.",
    "imageUrl": "topic:composition",
    "tags": [
     "functions",
@@ -704,7 +704,7 @@
     "8"
    ],
    "explanation": "f(2) = 5, then f(5) = 14.",
-   "memoryHook": "T-Rexy says: Feed the output back in.",
+   "memoryHook": "Feed the output back in.",
    "imageUrl": "topic:composition",
    "tags": [
     "functions",
@@ -724,7 +724,7 @@
     "Undefined"
    ],
    "explanation": "Any nonzero base to the zero power is 1.",
-   "memoryHook": "T-Rexy says: Zero power means one.",
+   "memoryHook": "Zero power means one.",
    "imageUrl": "topic:exponents",
    "tags": [
     "exponential",
@@ -744,7 +744,7 @@
     "3^2"
    ],
    "explanation": "When multiplying like bases, add exponents: 2 + 4 = 6.",
-   "memoryHook": "T-Rexy says: Multiply means add the powers.",
+   "memoryHook": "Multiply means add the powers.",
    "imageUrl": "topic:exponent-rules",
    "tags": [
     "exponential",
@@ -764,7 +764,7 @@
     "1/4"
    ],
    "explanation": "4^(-1/2) = 1/sqrt(4) = 1/2.",
-   "memoryHook": "T-Rexy says: Negative flips, half roots.",
+   "memoryHook": "Negative flips, half roots.",
    "imageUrl": "topic:exponent-rules",
    "tags": [
     "exponential",
@@ -784,7 +784,7 @@
     "16"
    ],
    "explanation": "2^5 = 32, so log2(32) = 5.",
-   "memoryHook": "T-Rexy says: Logs ask: what power?",
+   "memoryHook": "Logs ask: what power?",
    "imageUrl": "topic:logarithms",
    "tags": [
     "logarithmic",
@@ -804,7 +804,7 @@
     "0"
    ],
    "explanation": "log base 10 of 1000 = 3 because 10^3 = 1000.",
-   "memoryHook": "T-Rexy says: Count the zeros.",
+   "memoryHook": "Count the zeros.",
    "imageUrl": "topic:logarithms",
    "tags": [
     "logarithmic",
@@ -824,7 +824,7 @@
     "25"
    ],
    "explanation": "ln and e are inverse functions, so ln(e^5) = 5.",
-   "memoryHook": "T-Rexy says: ln undoes e.",
+   "memoryHook": "Ln undoes e.",
    "imageUrl": "topic:natural-log",
    "tags": [
     "logarithmic",
@@ -844,7 +844,7 @@
     "log x^2 - log y"
    ],
    "explanation": "Product rule gives log(x^2) + log y = 2 log x + log y.",
-   "memoryHook": "T-Rexy says: Products split into sums.",
+   "memoryHook": "Products split into sums.",
    "imageUrl": "topic:log-properties",
    "tags": [
     "logarithmic",
@@ -864,7 +864,7 @@
     "3 log(x/y)"
    ],
    "explanation": "3 log x = log x^3, and subtracting gives division: log(x^3 / y).",
-   "memoryHook": "T-Rexy says: Coefficients become powers, minus becomes divide.",
+   "memoryHook": "Coefficients become powers, minus becomes divide.",
    "imageUrl": "topic:log-properties",
    "tags": [
     "logarithmic",
@@ -884,7 +884,7 @@
     "x / b"
    ],
    "explanation": "Write the definition backwards: if y = log base b of x, then b^y = x. Taking ln of both sides gives y ln b = ln x, so y = ln x / ln b.",
-   "memoryHook": "T-Rexy says: New base goes on the bottom.",
+   "memoryHook": "New base goes on the bottom.",
    "imageUrl": "topic:change-of-base",
    "tags": [
     "logarithmic",
@@ -904,7 +904,7 @@
     "x = 32"
    ],
    "explanation": "16 = 2^4, so x = 4.",
-   "memoryHook": "T-Rexy says: Match the bases.",
+   "memoryHook": "Match the bases.",
    "imageUrl": "topic:solve-exponential",
    "tags": [
     "exponential",
@@ -924,7 +924,7 @@
     "x = 10"
    ],
    "explanation": "log base 10: x = 10^2 = 100.",
-   "memoryHook": "T-Rexy says: Undo the log with a power.",
+   "memoryHook": "Undo the log with a power.",
    "imageUrl": "topic:solve-logarithmic",
    "tags": [
     "logarithmic",
@@ -944,7 +944,7 @@
     "7.00"
    ],
    "explanation": "x = ln 7, which is approximately 1.95.",
-   "memoryHook": "T-Rexy says: Take ln of both sides.",
+   "memoryHook": "Take ln of both sides.",
    "imageUrl": "topic:solve-exponential",
    "tags": [
     "exponential",
@@ -964,7 +964,7 @@
     "All real numbers"
    ],
    "explanation": "Logarithm arguments must be positive: x - 3 > 0, so x > 3.",
-   "memoryHook": "T-Rexy says: Logs only eat positives.",
+   "memoryHook": "Logs only eat positives.",
    "imageUrl": "topic:domain-log",
    "tags": [
     "logarithmic",
@@ -984,7 +984,7 @@
     "No asymptote"
    ],
    "explanation": "As x approaches negative infinity, 2^x approaches 0.",
-   "memoryHook": "T-Rexy says: Exponential decay hugs zero.",
+   "memoryHook": "Exponential decay hugs zero.",
    "imageUrl": "topic:exponential-graph",
    "tags": [
     "exponential",
@@ -1004,7 +1004,7 @@
     "6"
    ],
    "explanation": "Doubling over 3 hours means the hourly factor r satisfies r^3 = 2, so r = 2^(1/3).",
-   "memoryHook": "T-Rexy says: Split the doubling across the hours.",
+   "memoryHook": "Split the doubling across the hours.",
    "imageUrl": "topic:exponential-growth",
    "tags": [
     "exponential",
@@ -1024,7 +1024,7 @@
     "A0 minus t/h"
    ],
    "explanation": "Each half-life multiplies the amount by 1/2, and there are t/h half-lives.",
-   "memoryHook": "T-Rexy says: Half each time, count the halves.",
+   "memoryHook": "Half each time, count the halves.",
    "imageUrl": "topic:half-life",
    "tags": [
     "exponential",
@@ -1044,7 +1044,7 @@
     "Undefined"
    ],
    "explanation": "5^0 = 1, so log5(1) = 0.",
-   "memoryHook": "T-Rexy says: Log of one is always zero.",
+   "memoryHook": "Log of one is always zero.",
    "imageUrl": "topic:logarithms",
    "tags": [
     "logarithmic",
@@ -1064,7 +1064,7 @@
     "1"
    ],
    "explanation": "10^log(x) = x for base 10.",
-   "memoryHook": "T-Rexy says: Power undoes the log.",
+   "memoryHook": "Power undoes the log.",
    "imageUrl": "topic:log-inverse",
    "tags": [
     "logarithmic",
@@ -1084,7 +1084,7 @@
     "x = 1/2"
    ],
    "explanation": "27 = 3^3, so 2x = 3 and x = 3/2.",
-   "memoryHook": "T-Rexy says: Equal bases mean equal exponents.",
+   "memoryHook": "Equal bases mean equal exponents.",
    "imageUrl": "topic:solve-exponential",
    "tags": [
     "exponential",
@@ -1104,7 +1104,7 @@
     "P(1 + rn)^t"
    ],
    "explanation": "Each compounding period adds interest at the rate r/n, and there are nt periods in t years. The balance is multiplied by (1 + r/n) a total of nt times, giving A = P(1 + r/n)^(nt).",
-   "memoryHook": "T-Rexy says: Rate split by n, time multiplied by n.",
+   "memoryHook": "Rate split by n, time multiplied by n.",
    "imageUrl": "topic:compound-interest",
    "tags": [
     "exponential",
@@ -1124,7 +1124,7 @@
     "1"
    ],
    "explanation": "sin(30 degrees) = 1/2.",
-   "memoryHook": "T-Rexy says: Thirty degrees gives a half.",
+   "memoryHook": "Thirty degrees gives a half.",
    "imageUrl": "topic:unit-circle",
    "tags": [
     "trigonometry",
@@ -1144,7 +1144,7 @@
     "1, 2, 4, 7"
    ],
    "explanation": "A geometric sequence multiplies by the same ratio at every step: 6/3 = 2, 12/6 = 2, and 24/12 = 2. The sequences 2, 5, 8, 11 and 5, 10, 15, 20 add the same amount each step, so they are arithmetic, and 1, 2, 4, 7 has ratios 2, 2, and 7/4, which are not constant.",
-   "memoryHook": "T-Rexy says: Geometric means the same multiplier every step - check the ratios, not the gaps.",
+   "memoryHook": "Geometric means the same multiplier every step - check the ratios, not the gaps.",
    "imageUrl": "topic:geometric-sequences",
    "tags": [
     "sequences",
@@ -1164,7 +1164,7 @@
     "sqrt(2)"
    ],
    "explanation": "tan(45 degrees) = sin/cos = 1.",
-   "memoryHook": "T-Rexy says: Forty-five is perfectly balanced.",
+   "memoryHook": "Forty-five is perfectly balanced.",
    "imageUrl": "topic:unit-circle",
    "tags": [
     "trigonometry",
@@ -1184,7 +1184,7 @@
     "[[5, -4], [0, -12]]"
    ],
    "explanation": "Matrices of the same size are added entry by entry: 1 + 5 = 6, 4 + (-1) = 3, 3 + 0 = 3, and -2 + 6 = 4, so A + B = [[6, 3], [3, 4]].",
-   "memoryHook": "T-Rexy says: Matrix addition is four tiny additions - each entry stays in its own home.",
+   "memoryHook": "Matrix addition is four tiny additions - each entry stays in its own home.",
    "imageUrl": "topic:matrices",
    "tags": [
     "matrices",
@@ -1204,7 +1204,7 @@
     "4pi"
    ],
    "explanation": "After one full turn of 2pi radians around the unit circle, the same points and the same sine values repeat. That full turn is the period of y = sin(x).",
-   "memoryHook": "T-Rexy says: Sine circles back after 2pi.",
+   "memoryHook": "Sine circles back after 2pi.",
    "imageUrl": "topic:period",
    "tags": [
     "trigonometry",
@@ -1224,7 +1224,7 @@
     "0"
    ],
    "explanation": "The amplitude is |3| = 3.",
-   "memoryHook": "T-Rexy says: Amplitude is the coefficient's size.",
+   "memoryHook": "Amplitude is the coefficient's size.",
    "imageUrl": "topic:amplitude",
    "tags": [
     "trigonometry",
@@ -1244,7 +1244,7 @@
     "pi/2"
    ],
    "explanation": "Period = 2pi/B = 2pi/2 = pi.",
-   "memoryHook": "T-Rexy says: Divide 2pi by the inside multiplier.",
+   "memoryHook": "Divide 2pi by the inside multiplier.",
    "imageUrl": "topic:period",
    "tags": [
     "trigonometry",
@@ -1264,7 +1264,7 @@
     "No shift"
    ],
    "explanation": "The form sin(x - C) shifts right by C = pi/2.",
-   "memoryHook": "T-Rexy says: Minus inside means right.",
+   "memoryHook": "Minus inside means right.",
    "imageUrl": "topic:phase-shift",
    "tags": [
     "trigonometry",
@@ -1284,7 +1284,7 @@
     "sin(2x)"
    ],
    "explanation": "The unit-circle point at angle x is (cos(x), sin(x)), and every point on the unit circle satisfies x^2 + y^2 = 1. Substituting gives sin^2(x) + cos^2(x) = 1.",
-   "memoryHook": "T-Rexy says: The classic identity equals one.",
+   "memoryHook": "The classic identity equals one.",
    "imageUrl": "topic:pythagorean-identity",
    "tags": [
     "trigonometry",
@@ -1304,7 +1304,7 @@
     "1 - sin(x)"
    ],
    "explanation": "In a right triangle, tan is opposite over adjacent. Dividing the top and bottom of that ratio by the hypotenuse gives (opposite/hypotenuse) over (adjacent/hypotenuse), which is sin(x)/cos(x).",
-   "memoryHook": "T-Rexy says: Tangent is sine over cosine.",
+   "memoryHook": "Tangent is sine over cosine.",
    "imageUrl": "topic:identities",
    "tags": [
     "trigonometry",
@@ -1324,7 +1324,7 @@
     "sin(x) + cos(x)"
    ],
    "explanation": "Apply sin(A + B) = sin A cos B + cos A sin B with A = B = x: sin(2x) = sin(x)cos(x) + cos(x)sin(x) = 2 sin(x) cos(x).",
-   "memoryHook": "T-Rexy says: Double the angle, double the product.",
+   "memoryHook": "Double the angle, double the product.",
    "imageUrl": "topic:double-angle",
    "tags": [
     "trigonometry",
@@ -1344,7 +1344,7 @@
     "1 - 2sin(x)"
    ],
    "explanation": "Apply cos(A + B) = cos A cos B - sin A sin B with A = B = x: cos(2x) = cos^2(x) - sin^2(x). Replacing sin^2(x) with 1 - cos^2(x) gives 2cos^2(x) - 1.",
-   "memoryHook": "T-Rexy says: Two cos squared minus one.",
+   "memoryHook": "Two cos squared minus one.",
    "imageUrl": "topic:double-angle",
    "tags": [
     "trigonometry",
@@ -1364,7 +1364,7 @@
     "All real numbers"
    ],
    "explanation": "Arcsin has to undo sine where sine is one-to-one, which is the piece from -pi/2 to pi/2. Those endpoints are the smallest and largest values arcsin can return, so its range is [-pi/2, pi/2].",
-   "memoryHook": "T-Rexy says: Arcsin lives in the fourth and first quadrants.",
+   "memoryHook": "Arcsin lives in the fourth and first quadrants.",
    "imageUrl": "topic:inverse-trig",
    "tags": [
     "trigonometry",
@@ -1384,7 +1384,7 @@
     "pi/4"
    ],
    "explanation": "sin(pi/2) = 1, so arcsin(1) = pi/2.",
-   "memoryHook": "T-Rexy says: Sine hits one at the top.",
+   "memoryHook": "Sine hits one at the top.",
    "imageUrl": "topic:inverse-trig",
    "tags": [
     "trigonometry",
@@ -1404,7 +1404,7 @@
     "[[6, -9], [3, 15]]"
    ],
    "explanation": "Scalar multiplication multiplies EVERY entry by the scalar: 3 x 2 = 6, 3 x (-3) = -9, 3 x 0 = 0, and 3 x 5 = 15, so 3A = [[6, -9], [0, 15]].",
-   "memoryHook": "T-Rexy says: A scalar visits every single entry - no entry gets skipped.",
+   "memoryHook": "A scalar visits every single entry - no entry gets skipped.",
    "imageUrl": "topic:matrices",
    "tags": [
     "matrices",
@@ -1424,7 +1424,7 @@
     "45 degrees"
    ],
    "explanation": "pi/3 times 180/pi = 60 degrees.",
-   "memoryHook": "T-Rexy says: Multiply by 180 over pi.",
+   "memoryHook": "Multiply by 180 over pi.",
    "imageUrl": "topic:angle-conversion",
    "tags": [
     "trigonometry",
@@ -1444,7 +1444,7 @@
     "8"
    ],
    "explanation": "Arc length s = r times theta = 4 times pi/2 = 2pi.",
-   "memoryHook": "T-Rexy says: Radius times angle.",
+   "memoryHook": "Radius times angle.",
    "imageUrl": "topic:arc-length",
    "tags": [
     "trigonometry",
@@ -1464,7 +1464,7 @@
     "9pi"
    ],
    "explanation": "Area = (1/2) r^2 theta = (1/2)(9)(2pi/3) = 3pi.",
-   "memoryHook": "T-Rexy says: Half r squared times angle.",
+   "memoryHook": "Half r squared times angle.",
    "imageUrl": "topic:sector-area",
    "tags": [
     "trigonometry",
@@ -1484,7 +1484,7 @@
     "210 degrees"
    ],
    "explanation": "150 degrees is 30 degrees from 180 degrees.",
-   "memoryHook": "T-Rexy says: Measure to the nearest x-axis.",
+   "memoryHook": "Measure to the nearest x-axis.",
    "imageUrl": "topic:reference-angle",
    "tags": [
     "trigonometry",
@@ -1504,7 +1504,7 @@
     "Quadrant IV"
    ],
    "explanation": "Sine is positive in quadrants I and II; cosine is negative in II and III. Only II has both.",
-   "memoryHook": "T-Rexy says: All Students Take Calculus: quadrant II is sine.",
+   "memoryHook": "All Students Take Calculus: quadrant II is sine.",
    "imageUrl": "topic:quadrants",
    "tags": [
     "trigonometry",
@@ -1524,7 +1524,7 @@
     "pi/4 and 3pi/4"
    ],
    "explanation": "Sine equals 1/2 at pi/6 (quadrant I) and 5pi/6 (quadrant II).",
-   "memoryHook": "T-Rexy says: Thirty degrees and its supplement.",
+   "memoryHook": "Thirty degrees and its supplement.",
    "imageUrl": "topic:solve-trig",
    "tags": [
     "trigonometry",
@@ -1544,7 +1544,7 @@
     "4"
    ],
    "explanation": "The maximum of sin is 1, so max y = 2(1) + 1 = 3.",
-   "memoryHook": "T-Rexy says: Amplitude times one plus the shift.",
+   "memoryHook": "Amplitude times one plus the shift.",
    "imageUrl": "topic:trig-graph",
    "tags": [
     "trigonometry",
@@ -1564,7 +1564,7 @@
     "y = 2"
    ],
    "explanation": "The vertical shift D = -2 is the midline.",
-   "memoryHook": "T-Rexy says: The shift sets the center line.",
+   "memoryHook": "The shift sets the center line.",
    "imageUrl": "topic:midline",
    "tags": [
     "trigonometry",
@@ -1584,7 +1584,7 @@
     "sin(x)/cos(x)"
    ],
    "explanation": "Cosine is adjacent over hypotenuse in a right triangle. Secant is the reciprocal ratio, hypotenuse over adjacent, so sec(x) = 1/cos(x).",
-   "memoryHook": "T-Rexy says: Secant pairs with cosine.",
+   "memoryHook": "Secant pairs with cosine.",
    "imageUrl": "topic:reciprocal-trig",
    "tags": [
     "trigonometry",
@@ -1604,7 +1604,7 @@
     "12"
    ],
    "explanation": "For a 2 x 2 matrix [[a, b], [c, d]], the determinant is ad - bc. Here det = 3(4) - 5(2) = 12 - 10 = 2.",
-   "memoryHook": "T-Rexy says: Down diagonal minus up diagonal - main street minus side street.",
+   "memoryHook": "Down diagonal minus up diagonal - main street minus side street.",
    "imageUrl": "topic:matrices",
    "tags": [
     "matrices",
@@ -1624,7 +1624,7 @@
     "(-3, 0)"
    ],
    "explanation": "x = 3 cos(pi/2) = 0 and y = 3 sin(pi/2) = 3.",
-   "memoryHook": "T-Rexy says: Cosine for x, sine for y.",
+   "memoryHook": "Cosine for x, sine for y.",
    "imageUrl": "topic:polar-rectangular",
    "tags": [
     "polar",
@@ -1644,7 +1644,7 @@
     "(1, pi/4)"
    ],
    "explanation": "r = sqrt(1 + 1) = sqrt(2) and theta = arctan(1/1) = pi/4.",
-   "memoryHook": "T-Rexy says: Radius is the distance, angle is the arctangent.",
+   "memoryHook": "Radius is the distance, angle is the arctangent.",
    "imageUrl": "topic:polar-rectangular",
    "tags": [
     "polar",
@@ -1664,7 +1664,7 @@
     "4 x 2"
    ],
    "explanation": "The product AB is defined because the number of columns of A (3) equals the number of rows of B (3). The product takes the outer numbers - 2 rows from A and 4 columns from B - so AB has dimensions 2 x 4.",
-   "memoryHook": "T-Rexy says: Inner numbers must match; outer numbers give the answer's size.",
+   "memoryHook": "Inner numbers must match; outer numbers give the answer's size.",
    "imageUrl": "topic:matrices",
    "tags": [
     "matrices",
@@ -1684,7 +1684,7 @@
     "A rose"
    ],
    "explanation": "r = a cos(theta) graphs a circle of diameter a centered on the x-axis.",
-   "memoryHook": "T-Rexy says: Cosine times r makes a circle.",
+   "memoryHook": "Cosine times r makes a circle.",
    "imageUrl": "topic:polar-graphs",
    "tags": [
     "polar",
@@ -1704,7 +1704,7 @@
     "8"
    ],
    "explanation": "For r = a sin(n theta) with n even, the rose has 2n = 4 petals.",
-   "memoryHook": "T-Rexy says: Even n doubles the petals.",
+   "memoryHook": "Even n doubles the petals.",
    "imageUrl": "topic:polar-rose",
    "tags": [
     "polar",
@@ -1724,7 +1724,7 @@
     "1(cos pi/4 + i sin pi/4)"
    ],
    "explanation": "For 1 + i: the modulus is sqrt(1^2 + 1^2) = sqrt(2). The point (1, 1) is in quadrant I and tan(theta) = 1/1 = 1, so theta = pi/4. The polar form is sqrt(2)(cos pi/4 + i sin pi/4).",
-   "memoryHook": "T-Rexy says: Modulus and angle describe the complex number.",
+   "memoryHook": "Modulus and angle describe the complex number.",
    "imageUrl": "topic:complex-polar",
    "tags": [
     "polar",
@@ -1744,7 +1744,7 @@
     "25"
    ],
    "explanation": "|3 - 4i| = sqrt(9 + 16) = 5.",
-   "memoryHook": "T-Rexy says: Square the parts, add, root.",
+   "memoryHook": "Square the parts, add, root.",
    "imageUrl": "topic:complex-modulus",
    "tags": [
     "polar",
@@ -1764,7 +1764,7 @@
     "5 cis 15 degrees"
    ],
    "explanation": "Multiply moduli (2 times 3 = 6) and add arguments (30 + 45 = 75).",
-   "memoryHook": "T-Rexy says: Multiply lengths, add angles.",
+   "memoryHook": "Multiply lengths, add angles.",
    "imageUrl": "topic:complex-multiplication",
    "tags": [
     "polar",
@@ -1784,7 +1784,7 @@
     "25"
    ],
    "explanation": "Magnitude = sqrt(3^2 + 4^2) = 5.",
-   "memoryHook": "T-Rexy says: The 3-4-5 triangle again.",
+   "memoryHook": "The 3-4-5 triangle again.",
    "imageUrl": "topic:vector-magnitude",
    "tags": [
     "vectors",
@@ -1804,7 +1804,7 @@
     "2"
    ],
    "explanation": "Dot product = 2(4) + 3(-1) = 8 - 3 = 5.",
-   "memoryHook": "T-Rexy says: Multiply matching parts and add.",
+   "memoryHook": "Multiply matching parts and add.",
    "imageUrl": "topic:dot-product",
    "tags": [
     "vectors",
@@ -1824,7 +1824,7 @@
     "180 degrees"
    ],
    "explanation": "The vectors are perpendicular, so the angle is 90 degrees.",
-   "memoryHook": "T-Rexy says: The axes are perpendicular.",
+   "memoryHook": "The axes are perpendicular.",
    "imageUrl": "topic:vector-angle",
    "tags": [
     "vectors",
@@ -1844,7 +1844,7 @@
     "<5 sqrt(3), 10>"
    ],
    "explanation": "x = 10 cos 30 = 5 sqrt(3), y = 10 sin 30 = 5.",
-   "memoryHook": "T-Rexy says: Cosine for x, sine for y.",
+   "memoryHook": "Cosine for x, sine for y.",
    "imageUrl": "topic:vector-components",
    "tags": [
     "vectors",
@@ -1864,7 +1864,7 @@
     "y = x/2"
    ],
    "explanation": "From x = 2t, t = x/2, so y = (x/2)^2 = x^2/4.",
-   "memoryHook": "T-Rexy says: Solve for t and substitute.",
+   "memoryHook": "Solve for t and substitute.",
    "imageUrl": "topic:parametric",
    "tags": [
     "parametric",
@@ -1884,7 +1884,7 @@
     "y = x"
    ],
    "explanation": "cos^2 + sin^2 = 1, so x^2 + y^2 = 1.",
-   "memoryHook": "T-Rexy says: The unit circle in disguise.",
+   "memoryHook": "The unit circle in disguise.",
    "imageUrl": "topic:parametric",
    "tags": [
     "parametric",
@@ -1904,7 +1904,7 @@
     "25"
    ],
    "explanation": "Distance = sqrt((4-1)^2 + (6-2)^2) = sqrt(9 + 16) = 5.",
-   "memoryHook": "T-Rexy says: Another 3-4-5 triangle.",
+   "memoryHook": "Another 3-4-5 triangle.",
    "imageUrl": "topic:distance",
    "tags": [
     "functions",
@@ -1924,7 +1924,7 @@
     "(3, 6)"
    ],
    "explanation": "Midpoint = ((2+6)/2, (8+4)/2) = (4, 6).",
-   "memoryHook": "T-Rexy says: Average each coordinate.",
+   "memoryHook": "Average each coordinate.",
    "imageUrl": "topic:midpoint",
    "tags": [
     "functions",
@@ -1944,7 +1944,7 @@
     "7"
    ],
    "explanation": "g(3) = 6, then f(6) = 36 - 1 = 35.",
-   "memoryHook": "T-Rexy says: Work from the inside out.",
+   "memoryHook": "Work from the inside out.",
    "imageUrl": "topic:composition",
    "tags": [
     "functions",
@@ -1964,7 +1964,7 @@
     "(-infinity, 0)"
    ],
    "explanation": "e^x is always positive, so the range is (0, infinity).",
-   "memoryHook": "T-Rexy says: Exponentials never touch zero.",
+   "memoryHook": "Exponentials never touch zero.",
    "imageUrl": "topic:exponential-range",
    "tags": [
     "exponential",
@@ -1984,7 +1984,7 @@
     "32"
    ],
    "explanation": "log2(8) = 3 and log2(4) = 2, so 3 + 2 = 5.",
-   "memoryHook": "T-Rexy says: Add the logs like counting powers.",
+   "memoryHook": "Add the logs like counting powers.",
    "imageUrl": "topic:logarithms",
    "tags": [
     "logarithmic",
@@ -2004,7 +2004,7 @@
     "t = 8 seconds"
    ],
    "explanation": "The vertex is at t = -b/(2a) = -64/(2 times -16) = 2 seconds.",
-   "memoryHook": "T-Rexy says: The vertex is the peak.",
+   "memoryHook": "The vertex is the peak.",
    "imageUrl": "topic:vertex-application",
    "tags": [
     "polynomial",
