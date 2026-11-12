@@ -46,7 +46,7 @@
         "Infinity"
       ],
       "explanation": "This is the fundamental trigonometric limit. On the unit circle, cos(x) < sin(x)/x < 1 for small nonzero x, and both bounds approach 1, so by the Squeeze Theorem lim (x -> 0) sin(x)/x = 1.",
-      "memoryHook": "Sine over x near zero always lands at one - memorize it like a dino roar!",
+      "memoryHook": "Sine over x near zero always lands at one - memorize it cold!",
       "imageUrl": "topic:limits",
       "tags": [
         "Math",
@@ -298,7 +298,7 @@
         "0"
       ],
       "explanation": "Multiply by the conjugate (sqrt(x+2) + 2): ((x + 2) - 4) / ((x - 2)(sqrt(x+2) + 2)) = 1 / (sqrt(x+2) + 2). At x = 2: 1/4.",
-      "memoryHook": "Root on top? Multiply by the conjugate - the classic dino ambush!",
+      "memoryHook": "Root on top? Multiply by the conjugate - the classic ambush!",
       "imageUrl": "topic:limits",
       "tags": [
         "Math",
@@ -445,7 +445,7 @@
         "No, it has an infinite discontinuity"
       ],
       "explanation": "f(3) is undefined (0/0 form), but the limit as x -> 3 exists and equals 6. A function must be defined at the point to be continuous, so this is a removable discontinuity.",
-      "memoryHook": "Hole in the graph? Removable - the dino can patch it with one point!",
+      "memoryHook": "Hole in the graph? Removable - you can patch it with one point!",
       "imageUrl": "topic:calculus",
       "tags": [
         "Math",
@@ -1075,7 +1075,7 @@
         "-2sin(x)"
       ],
       "explanation": "Write as (cos x)^2. Chain rule: 2cos(x) * (-sin(x)) = -2cos(x)sin(x).",
-      "memoryHook": "Power outside, trig inside - chain them like dino links!",
+      "memoryHook": "Power outside, trig inside - chain them link by link!",
       "imageUrl": "topic:derivatives",
       "tags": [
         "Math",
@@ -1747,7 +1747,7 @@
         "9"
       ],
       "explanation": "Antiderivative: x^2 + x. At 3: 9 + 3 = 12. At 1: 1 + 1 = 2. Difference: 12 - 2 = 10.",
-      "memoryHook": "Integrate term by term, then top minus bottom - steady dino steps!",
+      "memoryHook": "Integrate term by term, then top minus bottom - steady steps!",
       "imageUrl": "topic:integrals",
       "tags": [
         "Math",
