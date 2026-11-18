@@ -52,29 +52,59 @@ function deepLinkUrl(payload) {
 // Firestore triggers are at-least-once, so the same event can be
 // delivered twice; showNotification with the same `tag` REPLACES the
 // still-displayed notification instead of stacking a second one, so a
-// re-delivery renders once. The identity is the event the push
-// announces: type, squadId, battleId (unique per battle) and the
-// rendered title/body. This mirrors notificationDedupKey +
-// notificationDisplayTag in src/social/notifications.ts EXACTLY
-// (same field order, same '|' separator, same djb2 hash) - the SW is
-// plain JS and cannot import the TS module; keep the two in lockstep.
+// re-delivery renders once.
+// FW134 (FP-SQB13-D2a/D2b): functions now send a real data.eventId
+// for every id-less family, and the key appends it as an `evt:`
+// segment when present (an EVENT identity; payloads without one keep
+// the FW133 content key as the legacy fallback). The tag is
+// 'treps-' + a 128-bit cyrb-family hash of the full key (four 32-bit
+// Math.imul lanes, cyrb53/Murmur3-fmix constants, public-domain
+// design) instead of the 32-bit djb2 hash, which had a reproduced
+// collision (two different bodies -> treps-e4647ebb). This mirrors
+// notificationDedupKey + notificationDisplayTag in
+// src/social/notifications.ts EXACTLY (same field order, same '|'
+// separator, same hash) - the SW is plain JS and cannot import the
+// TS module; keep the two in lockstep.
+function notificationIdentityHash128(str) {
+  let h1 = 0xdeadbeef;
+  let h2 = 0x41c6ce57;
+  let h3 = 0x9e3779b9;
+  let h4 = 0x85ebca77;
+  for (let i = 0; i < str.length; i++) {
+    const ch = str.charCodeAt(i);
+    h1 = Math.imul(h1 ^ ch, 2654435761);
+    h2 = Math.imul(h2 ^ ch, 1597334677);
+    h3 = Math.imul(h3 ^ ch, 2246822519);
+    h4 = Math.imul(h4 ^ ch, 3266489917);
+  }
+  h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507);
+  h1 ^= Math.imul(h2 ^ (h2 >>> 13), 3266489909);
+  h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507);
+  h2 ^= Math.imul(h3 ^ (h3 >>> 13), 3266489909);
+  h3 = Math.imul(h3 ^ (h3 >>> 16), 2246822507);
+  h3 ^= Math.imul(h4 ^ (h4 >>> 13), 3266489909);
+  h4 = Math.imul(h4 ^ (h4 >>> 16), 2246822507);
+  h4 ^= Math.imul(h1 ^ (h1 >>> 13), 3266489909);
+  return [h1, h2, h3, h4]
+    .map(h => (h >>> 0).toString(16).padStart(8, '0'))
+    .join('');
+}
+
 function notificationDisplayTag(payload) {
   const data = payload.data || {};
   const title = data.title || payload.notification?.title || 'TReps 🦖';
   const body = data.body || payload.notification?.body || 'Something happened in your squad!';
   const part = (v) => (typeof v === 'string' ? v : '');
-  const key = [
+  const base = [
     part(data.type),
     part(data.squadId),
     part(data.battleId),
     part(title),
     part(body),
   ].join('|');
-  let h = 5381;
-  for (let i = 0; i < key.length; i++) {
-    h = ((h << 5) + h + key.charCodeAt(i)) >>> 0;
-  }
-  return 'treps-' + h.toString(16).padStart(8, '0');
+  const eventId = part(data.eventId);
+  const key = eventId ? base + '|evt:' + eventId : base;
+  return 'treps-' + notificationIdentityHash128(key);
 }
 
 messaging.onBackgroundMessage(payload => {
