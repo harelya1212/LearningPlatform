@@ -48,6 +48,35 @@ function deepLinkUrl(payload) {
   );
 }
 
+// FW133 (SQB13-D2): display identity for OS-notification dedup.
+// Firestore triggers are at-least-once, so the same event can be
+// delivered twice; showNotification with the same `tag` REPLACES the
+// still-displayed notification instead of stacking a second one, so a
+// re-delivery renders once. The identity is the event the push
+// announces: type, squadId, battleId (unique per battle) and the
+// rendered title/body. This mirrors notificationDedupKey +
+// notificationDisplayTag in src/social/notifications.ts EXACTLY
+// (same field order, same '|' separator, same djb2 hash) - the SW is
+// plain JS and cannot import the TS module; keep the two in lockstep.
+function notificationDisplayTag(payload) {
+  const data = payload.data || {};
+  const title = data.title || payload.notification?.title || 'TReps 🦖';
+  const body = data.body || payload.notification?.body || 'Something happened in your squad!';
+  const part = (v) => (typeof v === 'string' ? v : '');
+  const key = [
+    part(data.type),
+    part(data.squadId),
+    part(data.battleId),
+    part(title),
+    part(body),
+  ].join('|');
+  let h = 5381;
+  for (let i = 0; i < key.length; i++) {
+    h = ((h << 5) + h + key.charCodeAt(i)) >>> 0;
+  }
+  return 'treps-' + h.toString(16).padStart(8, '0');
+}
+
 messaging.onBackgroundMessage(payload => {
   // Cloud Functions send DATA-ONLY messages (title/body inside data) since
   // 2026-11-06: a `notification` payload PLUS this manual showNotification
@@ -57,6 +86,10 @@ messaging.onBackgroundMessage(payload => {
     body: payload.data?.body || payload.notification?.body || 'Something happened in your squad!',
     icon: './favicon.svg',
     badge: './favicon.svg',
+    // FW133 (SQB13-D2): tag by event identity (see above) - a
+    // re-delivered push replaces this notification instead of
+    // stacking a duplicate.
+    tag: notificationDisplayTag(payload),
     data: {
       url: deepLinkUrl(payload),
     },
